@@ -1,0 +1,10 @@
+# Rust
+target
+*.rs.bk
+
+# Nix
+result
+result-*
+
+# Dir Env
+.direnv
