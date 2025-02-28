@@ -1,0 +1,72 @@
+{
+  "auto_install_extensions": {
+    "nix": true,
+    "toml": true
+  },
+
+  "remove_trailing_whitespace_on_save": true,
+  "ensure_final_newline_on_save": true,
+
+  "file_scan_exclusions": ["**/.git", "**/.direnv"],
+
+  "languages": {
+    "Rust": {
+      "language_servers": ["rust-analyzer"],
+      "format_on_save": "on",
+      "formatter": "language_server"
+    },
+
+    "Nix": {
+      "language_servers": ["nixd", "nil"],
+      "format_on_save": "on",
+      "formatter": "language_server"
+    },
+
+    "TOML": {
+      "language_servers": ["taplo"]
+    }
+  },
+
+  "lsp": {
+    "rust-analyzer": {
+      "binary": {
+        "path": "rust-analyzer"
+      },
+
+      "initialization_options": {
+        "cargo": {
+          "features": "all"
+        },
+        "check": {
+          "command": "clippy"
+        },
+        "checkOnSave": true
+      }
+    },
+
+    "nixd": {
+      "binary": {
+        "path": "nixd"
+      },
+
+      "settings": {
+        "formatting": {
+          "command": ["nixfmt", "--width=120"]
+        }
+      }
+    },
+
+    "nil": {
+      "binary": {
+        "path": "nil"
+      }
+    },
+
+    "taplo": {
+      "binary": {
+        "path": "taplo",
+        "arguments": ["lsp", "stdio"]
+      }
+    }
+  }
+}
