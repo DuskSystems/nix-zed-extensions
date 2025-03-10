@@ -193,25 +193,6 @@
       "published_at": "2025-02-20T14:58:39Z"
     },
     {
-      "id": "one-dark-pro",
-      "version": "0.0.10",
-      "src": {
-        "url": "https://github.com/mordfustang21/zed-one-dark-pro",
-        "rev": "bd1872f961d3c320892b8db2eeb9ffcd19a9c9ba",
-        "date": "2025-03-09T12:44:40-06:00",
-        "path": "/nix/store/kgkhv89kzhlk9s5s7vycib4m6qqkhqq1-zed-one-dark-pro-bd1872f",
-        "sha256": "1mf398pxghimiwaf9knz5n7y4f97pzcr7b7kb1pkmzs0vq79ingq",
-        "hash": "sha256-+NmYDt5A/zpvWPOsk9m/Jznijy3fzuQUjzXC1y9Kw9U=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-15T03:41:46Z"
-    },
-    {
       "id": "make",
       "version": "1.0.1",
       "src": {
@@ -5994,25 +5975,6 @@
       "published_at": "2025-01-20T16:28:46Z"
     },
     {
-      "id": "jetbrains-icons",
-      "version": "0.0.3",
-      "src": {
-        "url": "https://github.com/ziishaned/zed-jetbrains-icons",
-        "rev": "55390e13d7172fecdd4d852f4c912a80067528d5",
-        "date": "2025-03-08T11:17:25-05:00",
-        "path": "/nix/store/fj0b89wpl0m6jlpim8qmljplfwx7ka03-zed-jetbrains-icons-55390e1",
-        "sha256": "1bbbjf4rk34bf58r8rdai3lqjhsdip4d64a6phxfv14sdgfvcxbr",
-        "hash": "sha256-eXW23WuahO06vEYR08iNTUOJ6YiqZZRRcYuMmYmTa60=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-07T21:21:00Z"
-    },
-    {
       "id": "martianized",
       "version": "1.0.0",
       "src": {
@@ -8071,25 +8033,6 @@
       "published_at": "2025-02-28T21:47:19Z"
     },
     {
-      "id": "perfect-dusk",
-      "version": "1.0.1",
-      "src": {
-        "url": "https://github.com/Bikossor/Perfect-Dusk-Zed",
-        "rev": "fba1647bfec04259244b7e5d9910fdcd0ee63348",
-        "date": "2025-03-08T11:10:20+01:00",
-        "path": "/nix/store/yzn5nzv038q9zv0pd643yyjlq3pah8sx-Perfect-Dusk-Zed-fba1647",
-        "sha256": "1fb0yi6lw9pssj0ia1sn125v6l11lrp4d0wq1fkam9fazaamymqj",
-        "hash": "sha256-EldflfrKpaqmC5iDRm6mIVCziwhWBxWB1PomTk30YLk=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-03T15:53:24Z"
-    },
-    {
       "id": "railscast",
       "version": "0.1.0",
       "src": {
@@ -8128,25 +8071,6 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-oS3/rQg9kRWLy7e4Z2QSRWoA/pQi/97mqhhvOzBUAoY=",
       "published_at": "2025-02-26T17:19:58Z"
-    },
-    {
-      "id": "severance-theme",
-      "version": "0.1.1",
-      "src": {
-        "url": "https://github.com/Zev18/severance-zed",
-        "rev": "60eaeb05fb21ff7a9c6b22c6dd2640ef10b00878",
-        "date": "2025-03-08T21:12:42-05:00",
-        "path": "/nix/store/s3grl4lxpq2yh9v94fz91adnx239fh39-severance-zed-60eaeb0",
-        "sha256": "0imfc0hnqr2z59gkcrbx2qiw8g58vf52y5wjwbzmjl1cqcaxvc7x",
-        "hash": "sha256-/bDdFcMsUFn/4pIXL4rbqDzEIxZ9ZTZfKl9kbCFgrkY=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-06T05:27:26Z"
     },
     {
       "id": "agda",
@@ -8237,6 +8161,101 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-ue/27OoOBJC051KdsOZ6hzMrgo++j2QZDbNjVLhsV0Q=",
       "published_at": "2025-03-10T03:35:23Z"
+    },
+    {
+      "id": "jetbrains-icons",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/ziishaned/zed-jetbrains-icons",
+        "rev": "55390e13d7172fecdd4d852f4c912a80067528d5",
+        "date": "2025-03-08T11:17:25-05:00",
+        "path": "/nix/store/fj0b89wpl0m6jlpim8qmljplfwx7ka03-zed-jetbrains-icons-55390e1",
+        "sha256": "1bbbjf4rk34bf58r8rdai3lqjhsdip4d64a6phxfv14sdgfvcxbr",
+        "hash": "sha256-eXW23WuahO06vEYR08iNTUOJ6YiqZZRRcYuMmYmTa60=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-10T14:44:35Z"
+    },
+    {
+      "id": "perfect-dusk",
+      "version": "1.0.1",
+      "src": {
+        "url": "https://github.com/Bikossor/Perfect-Dusk-Zed",
+        "rev": "fba1647bfec04259244b7e5d9910fdcd0ee63348",
+        "date": "2025-03-08T11:10:20+01:00",
+        "path": "/nix/store/yzn5nzv038q9zv0pd643yyjlq3pah8sx-Perfect-Dusk-Zed-fba1647",
+        "sha256": "1fb0yi6lw9pssj0ia1sn125v6l11lrp4d0wq1fkam9fazaamymqj",
+        "hash": "sha256-EldflfrKpaqmC5iDRm6mIVCziwhWBxWB1PomTk30YLk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-10T14:42:36Z"
+    },
+    {
+      "id": "charmed-icons",
+      "version": "0.6.1",
+      "src": {
+        "url": "https://github.com/jmesrje/zed-charmed-icons",
+        "rev": "0c37be29ca5d0b59a38815c635f097744d94431d",
+        "date": "2025-03-07T23:36:43-06:00",
+        "path": "/nix/store/2rb58sbmp34mg2vxsq0z5ff7cvsdj0nf-zed-charmed-icons-0c37be2",
+        "sha256": "07b4gyzdskk489vxnmk80g6jnhb9w8nh6pkq42vqbdhbqmcirqqf",
+        "hash": "sha256-DuMcWcULtoW3IHheAy3iaUErzQNoVtt3QmRO3b5/ZB0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-10T14:52:48Z"
+    },
+    {
+      "id": "severance-theme",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/Zev18/severance-zed",
+        "rev": "60eaeb05fb21ff7a9c6b22c6dd2640ef10b00878",
+        "date": "2025-03-08T21:12:42-05:00",
+        "path": "/nix/store/s3grl4lxpq2yh9v94fz91adnx239fh39-severance-zed-60eaeb0",
+        "sha256": "0imfc0hnqr2z59gkcrbx2qiw8g58vf52y5wjwbzmjl1cqcaxvc7x",
+        "hash": "sha256-/bDdFcMsUFn/4pIXL4rbqDzEIxZ9ZTZfKl9kbCFgrkY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-10T14:43:28Z"
+    },
+    {
+      "id": "one-dark-pro",
+      "version": "0.0.10",
+      "src": {
+        "url": "https://github.com/mordfustang21/zed-one-dark-pro",
+        "rev": "bd1872f961d3c320892b8db2eeb9ffcd19a9c9ba",
+        "date": "2025-03-09T12:44:40-06:00",
+        "path": "/nix/store/kgkhv89kzhlk9s5s7vycib4m6qqkhqq1-zed-one-dark-pro-bd1872f",
+        "sha256": "1mf398pxghimiwaf9knz5n7y4f97pzcr7b7kb1pkmzs0vq79ingq",
+        "hash": "sha256-+NmYDt5A/zpvWPOsk9m/Jznijy3fzuQUjzXC1y9Kw9U=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-10T14:43:03Z"
     }
   ],
   "grammars": [
