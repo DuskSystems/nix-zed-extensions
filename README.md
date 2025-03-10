@@ -76,3 +76,7 @@ home-manager.sharedModules = [
   };
 }
 ```
+
+## License
+
+This project is licensed under the terms of the [GNU GPL v3.0](LICENSE), as it contains a re-implementation of [Zed's extension builder](https://github.com/zed-industries/zed/tree/main/crates/extension), which itself is licensed under the GNU GPL v3.0.

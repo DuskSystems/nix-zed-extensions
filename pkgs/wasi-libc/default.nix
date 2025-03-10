@@ -5,7 +5,7 @@
 }:
 
 # A wasi-libc suitable for shared libaries.
-# NOTE: Don't use 'wasm-wasi32' here to avoid infinite recursion.
+# NOTE: Don't use 'wasm32-wasip2' here to avoid infinite recursion.
 
 pkgsCross.wasi32.stdenv.mkDerivation {
   pname = "wasi-libc";
@@ -24,7 +24,6 @@ pkgsCross.wasi32.stdenv.mkDerivation {
     "dev"
   ];
 
-  # https://patch-diff.githubusercontent.com/raw/llvm/llvm-project/pull/128223.patch
   postPatch = ''
     patchShebangs .
 
