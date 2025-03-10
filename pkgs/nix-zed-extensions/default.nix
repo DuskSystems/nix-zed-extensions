@@ -10,7 +10,15 @@ rustPlatform.buildRustPackage {
   name = "nix-zed-extensions";
   version = "0.0.0";
 
-  src = ../../.;
+  src = lib.cleanSourceWith {
+    src = ../../.;
+    filter =
+      name: type:
+      let
+        baseName = baseNameOf (toString name);
+      in
+      (type == "directory" || baseName == "Cargo.toml" || baseName == "Cargo.lock" || lib.hasSuffix ".rs" baseName);
+  };
 
   nativeBuildInputs = [
     makeWrapper

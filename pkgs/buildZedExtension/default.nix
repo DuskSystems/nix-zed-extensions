@@ -4,6 +4,7 @@
   pkgsCross,
   llvmPackages,
   nix-zed-extensions,
+  libiconv,
 }:
 
 {
@@ -25,6 +26,11 @@ buildZedExtension (
     inherit version src;
 
     RUSTFLAGS = "-C linker=${llvmPackages.lld}/bin/lld";
+    LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
+
+    nativeBuildInputs = [
+      nix-zed-extensions
+    ];
 
     postBuild = ''
       ${lib.optionalString (kind == "rust") ''
@@ -33,7 +39,7 @@ buildZedExtension (
       ''}
 
       # Manifest
-      ${lib.getExe nix-zed-extensions} populate
+      nix-zed-extensions populate
     '';
 
     installPhase = ''
