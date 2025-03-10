@@ -58,9 +58,9 @@ jobs:
           # aarch64-linux
           - runs-on: ubuntu-24.04-arm
           # x86_64-darwin
-          - runs-on: macos-13
+          # - runs-on: macos-13
           # aarch64-darwin
-          - runs-on: macos-14
+          # - runs-on: macos-14
     runs-on: ${{ matrix.runs-on }}
     steps:
       - name: Checkout code
