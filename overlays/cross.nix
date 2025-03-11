@@ -1,6 +1,6 @@
 final: prev: {
   # Setup custom 'wasm32-wasip2' target.
-  # Dont touch 'wasi32', since it would trigger a Firefox recompilation.
+  # Don't touch 'wasi32', since it would trigger a Firefox re-compilation.
   pkgsCross = prev.pkgsCross // {
     wasm32-wasip2 = import prev.path {
       inherit (prev) system;

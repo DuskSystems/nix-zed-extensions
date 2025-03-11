@@ -16,6 +16,7 @@ But:
 - Requires a cargo lockfile for Rust extensions.
 - Missing meta/licensing info.
 - No automated building/testing of extensions.
+- Requires a Rust/LLVM re-compilation.
 
 ## Usage
 
@@ -31,17 +32,6 @@ But:
     };
   };
 }
-```
-
-### Cache
-
-We don't cache individual extension builds, but we do cache shared dependencies, so you won't need to re-compile LLVM/Rust.
-
-```nix
-nixConfig = {
-  extra-substituters = [ "https://nix-zed-extensions.cachix.org" ];
-  extra-trusted-public-keys = [ "nix-zed-extensions.cachix.org-1:+8tBcRBR66BzaedNWGDDG/hPA4g3SaEFJJDqrYNaawM=" ];
-};
 ```
 
 ### Overlay
