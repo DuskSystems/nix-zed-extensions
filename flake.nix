@@ -1,11 +1,6 @@
 {
   description = "nix-zed-extensions";
 
-  nixConfig = {
-    extra-substituters = [ "https://nix-zed-extensions.cachix.org" ];
-    extra-trusted-public-keys = [ "nix-zed-extensions.cachix.org-1:+8tBcRBR66BzaedNWGDDG/hPA4g3SaEFJJDqrYNaawM=" ];
-  };
-
   inputs = {
     nixpkgs = {
       url = "github:NixOS/nixpkgs/nixos-24.11";
