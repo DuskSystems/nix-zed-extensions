@@ -42,6 +42,10 @@ pkgsCross.wasi32.stdenv.mkDerivation {
   enableParallelBuilding = true;
   dontInstall = true;
 
+  preFixup = ''
+    cp linker-provided-symbols.txt $out/lib/linker-provided-symbols.txt
+  '';
+
   meta = {
     description = "WASI libc implementation for WebAssembly.";
     homepage = "https://wasi.dev";

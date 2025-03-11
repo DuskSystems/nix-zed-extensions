@@ -46,6 +46,9 @@
 
       # nix build .#<name>
       packages = perSystemPkgs (pkgs: {
+        wasi-libc = pkgs.wasi-libc;
+        wasi-sdk = pkgs.wasi-sdk;
+
         nix-zed-extensions = pkgs.nix-zed-extensions;
 
         zed-grammars = pkgs.zed-grammars;
@@ -79,6 +82,10 @@
             clippy
             rustfmt
             rust-analyzer
+
+            # WASM
+            wasm-tools
+            wasmtime
 
             # Fetch
             fetch-cargo-vendor-util

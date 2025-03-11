@@ -1,5 +1,6 @@
 {
   pkgsCross,
+  wasi-libc,
   ...
 }:
 
@@ -10,7 +11,8 @@
   ...
 }@attrs:
 
-# NOTE: https://github.com/llvm/llvm-project/issues/103592
+# NOTE: --allow-undefined-file=linker-provided-symbols.txt is a workaround for:
+# https://github.com/llvm/llvm-project/issues/103592
 
 pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
   {
@@ -32,7 +34,7 @@ pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
         -shared \
         -Os \
         -Wl,--export=tree_sitter_${name} \
-        -Wl,--allow-undefined \
+        -Wl,--allow-undefined-file=${wasi-libc}/lib/linker-provided-symbols.txt \
         -o $out/grammars/${name}.wasm \
         -I src \
         $SRC
