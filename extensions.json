@@ -1427,27 +1427,6 @@
       "published_at": "2024-02-21T16:37:51Z"
     },
     {
-      "id": "just",
-      "version": "0.1.4",
-      "src": {
-        "url": "https://github.com/jackTabsCode/zed-just",
-        "rev": "ea24f1debf8433b0e67f0541e6d40b3c2c6cad6e",
-        "date": "2025-01-13T13:10:37-08:00",
-        "path": "/nix/store/v2qa49kcm9mnjbf0flrllairb8lr3kaj-zed-just-ea24f1d",
-        "sha256": "19q5hi400g8vzymlfs5p0w8819xpwlrv4fb600366sh9qfyhg1fs",
-        "hash": "sha256-2oUHvcMJamMGAGY5sjPlt6eAEAe3aEer/xs9AEiEBac=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "just_just"
-      ],
-      "kind": "plain",
-      "published_at": "2024-10-07T14:33:26Z"
-    },
-    {
       "id": "clojure",
       "version": "0.2.0",
       "src": {
@@ -8275,6 +8254,65 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-11T03:26:05Z"
+    },
+    {
+      "id": "darcula-dark",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/Not-a-cowfr/Darcula-Dark",
+        "rev": "4f1efd29a698cfda54a1ec738aa1053fea43062c",
+        "date": "2025-03-11T09:01:31-07:00",
+        "path": "/nix/store/bm7x50k648pgn6m3jn5vvi0vg4jxxx0g-Darcula-Dark-4f1efd2",
+        "sha256": "02i7qnnnxznlmz4fi0y52izjfnq4z3iikc8jy4faw7cwnq682cf9",
+        "hash": "sha256-yTGBDLacHa4c8RKxGeP4BFsnfxTFg+jIr9T+bq3FJwo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-11T14:56:23Z"
+    },
+    {
+      "id": "bluloco-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/bluloco/bluloco-zed",
+        "rev": "61c090eec4c1b4dd25a5627efe1d0a1041d012db",
+        "date": "2025-03-11T11:16:24+01:00",
+        "path": "/nix/store/l91vxq7yr2bh66xhxlfx0g2ryffx4mcx-bluloco-zed-61c090e",
+        "sha256": "1815i83yzaqfrviz8id3qdc58b82wsxqqs5f5bkzq9cnpzzhbrzg",
+        "hash": "sha256-7+cF/7+WJfznKq5ojLvmAi1UWMOjRfTjzg6r7weKJaA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-11T14:51:44Z"
+    },
+    {
+      "id": "just",
+      "version": "0.1.4",
+      "src": {
+        "url": "https://github.com/jackTabsCode/zed-just",
+        "rev": "ea24f1debf8433b0e67f0541e6d40b3c2c6cad6e",
+        "date": "2025-01-13T13:10:37-08:00",
+        "path": "/nix/store/v2qa49kcm9mnjbf0flrllairb8lr3kaj-zed-just-ea24f1d",
+        "sha256": "19q5hi400g8vzymlfs5p0w8819xpwlrv4fb600366sh9qfyhg1fs",
+        "hash": "sha256-2oUHvcMJamMGAGY5sjPlt6eAEAe3aEer/xs9AEiEBac=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "just_just"
+      ],
+      "kind": "plain",
+      "published_at": "2025-03-11T14:57:17Z"
     }
   ],
   "grammars": [
@@ -9020,23 +9058,6 @@
         "path": "/nix/store/1sspbzjx1cqqmwgf46mdsf1nf9yvrsf0-tree-sitter-scheme-af0fd1f",
         "sha256": "1pk1q8lmgj2mh7fmyvsr610qdv1c7nmfqdbr1bln1ar356dv6zrb",
         "hash": "sha256-K3+zmykjq2DpCnk17Ko9LOyGQTBZb1/dgVXIVynCYd4=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "just_just",
-      "name": "just",
-      "version": "3f90d24eb8c8d9e8c74fee7120d79c3ec7229f26",
-      "src": {
-        "url": "https://github.com/IndianBoy42/tree-sitter-just",
-        "rev": "3f90d24eb8c8d9e8c74fee7120d79c3ec7229f26",
-        "date": "2024-10-12T11:04:50+02:00",
-        "path": "/nix/store/fbyax7p9c6fwfcrk70k5gpqzdf2mkgnf-tree-sitter-just-3f90d24",
-        "sha256": "09yc8z9lzl62cb6mxknp5bdqck1kjw2n97b7d21wqsqqwsb3mnik",
-        "hash": "sha256-M9o6luYYa8yDaGedZAWXM0yG2yrXzl7NYsLQT9NHzCc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11502,6 +11523,23 @@
         "path": "/nix/store/59rx20sqz5nx5a358qrq79kc2qybn49l-tree-sitter-gleam-066704e",
         "sha256": "00awsz28y26b1hkclsz9pq8pk2a2vk3ns06mi6i57s2iy9mns0ys",
         "hash": "sha256-2gNta/JR6FOiidUAbcfcQol5Eb7pa8omDMsIj8TXXAE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "just_just",
+      "name": "just",
+      "version": "3f90d24eb8c8d9e8c74fee7120d79c3ec7229f26",
+      "src": {
+        "url": "https://github.com/IndianBoy42/tree-sitter-just",
+        "rev": "3f90d24eb8c8d9e8c74fee7120d79c3ec7229f26",
+        "date": "2024-10-12T11:04:50+02:00",
+        "path": "/nix/store/fbyax7p9c6fwfcrk70k5gpqzdf2mkgnf-tree-sitter-just-3f90d24",
+        "sha256": "09yc8z9lzl62cb6mxknp5bdqck1kjw2n97b7d21wqsqqwsb3mnik",
+        "hash": "sha256-M9o6luYYa8yDaGedZAWXM0yG2yrXzl7NYsLQT9NHzCc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
