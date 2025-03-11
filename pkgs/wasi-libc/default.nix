@@ -9,19 +9,20 @@
 
 pkgsCross.wasi32.stdenv.mkDerivation {
   pname = "wasi-libc";
-  version = "e9524a0980b9bb6bb92e87a41ed1055bdda5bb86";
+  version = "wasi-sdk-21";
 
   src = fetchFromGitHub {
     owner = "WebAssembly";
     repo = "wasi-libc";
-    tag = "wasi-sdk-25";
-    hash = "sha256-d6IW7CeBV1sLZzLtSEzlox8S3j1TOSnzOvEdvYOD84I=";
+    tag = "wasi-sdk-21";
+    hash = "sha256-1LsMpO29y79twVrUsuM/JvC7hK8O6Yey4Ard/S3Mvvc=";
     fetchSubmodules = true;
   };
 
   outputs = [
     "out"
     "dev"
+    # "share"
   ];
 
   postPatch = ''
@@ -35,6 +36,7 @@ pkgsCross.wasi32.stdenv.mkDerivation {
   makeFlags = [
     "SYSROOT_LIB=${placeholder "out"}/lib"
     "SYSROOT_INC=${placeholder "dev"}/include"
+    # "SYSROOT_SHARE=${placeholder "share"}/share"
     "WASI_SNAPSHOT=p2"
     "EXTRA_CFLAGS=-fPIC"
   ];
@@ -43,7 +45,7 @@ pkgsCross.wasi32.stdenv.mkDerivation {
   dontInstall = true;
 
   preFixup = ''
-    cp linker-provided-symbols.txt $out/lib/linker-provided-symbols.txt
+    ln -s $share/share/undefined-symbols.txt $out/lib/wasi.imports
   '';
 
   meta = {

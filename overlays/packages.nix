@@ -76,7 +76,15 @@ final: prev: {
       inherit (grammar) name version;
 
       src = fetchgit {
-        inherit (grammar.src) url rev hash fetchLFS fetchSubmodules deepClone leaveDotGit;
+        inherit (grammar.src)
+          url
+          rev
+          hash
+          fetchLFS
+          fetchSubmodules
+          deepClone
+          leaveDotGit
+          ;
       };
     };
 
@@ -102,7 +110,15 @@ final: prev: {
         name = extension.id;
 
         src = fetchgit {
-          inherit (extension.src) url rev hash fetchLFS fetchSubmodules deepClone leaveDotGit;
+          inherit (extension.src)
+            url
+            rev
+            hash
+            fetchLFS
+            fetchSubmodules
+            deepClone
+            leaveDotGit
+            ;
         };
 
         grammars = map (id: zed-grammars."${id}") extension.grammars;

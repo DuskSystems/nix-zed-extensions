@@ -33,9 +33,8 @@ pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
         -fPIC \
         -shared \
         -Os \
+        -Wl,--allow-undefined-file=${wasi-libc}/lib/wasi.imports \
         -Wl,--export=tree_sitter_${name} \
-        -Wl,--export-all \
-        -Wl,--allow-undefined-file=${wasi-libc}/lib/linker-provided-symbols.txt \
         -o $out/grammars/${name}.wasm \
         -I src \
         $SRC
