@@ -2768,25 +2768,6 @@
       "published_at": "2025-01-06T17:44:46Z"
     },
     {
-      "id": "gleam-theme",
-      "version": "0.2.0",
-      "src": {
-        "url": "https://github.com/DanielleMaywood/gleam-theme-zed",
-        "rev": "edf232062460325ebb04321c8c15bedff47d8624",
-        "date": "2024-12-04T22:55:32Z",
-        "path": "/nix/store/srmgrxaj0dyv3k77mwmj4m0qklb44jcg-gleam-theme-zed-edf2320",
-        "sha256": "04na0qmvsc8kb5zwlp4j1a7qlrngpvmq6gy3mb4a7l0jg4kk2b2r",
-        "hash": "sha256-WSwxJ3kS0KPIqsM/g+u+z2aKjwqSXMp/WRMxvSsGyhI=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-12-05T18:04:06Z"
-    },
-    {
       "id": "frosted-theme",
       "version": "0.0.1",
       "src": {
@@ -7865,27 +7846,6 @@
       "published_at": "2025-01-05T21:39:51Z"
     },
     {
-      "id": "stylelint",
-      "version": "0.0.2",
-      "src": {
-        "url": "https://github.com/florian-sanders/zed-stylelint",
-        "rev": "eca26df9c8421e7b3c9a62523f7a04dda898d2c8",
-        "date": "2025-03-03T17:07:33+01:00",
-        "path": "/nix/store/19z88r01wsy77w3qvk96fghma40np0wr-zed-stylelint-eca26df",
-        "sha256": "0v8mngz192nc04idc609crwj6x189cf55i3f2jvzh2d75caqc9x3",
-        "hash": "sha256-oyeGFSunCfi3FG7EUhxLKHQjeWYJGNYiAcyKFP6zFW0=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-NTtbfuXfylp4eKE6EqLF0DJ2dr7RwOAUtA7A9FL6Sf8=",
-      "published_at": "2025-03-03T22:59:16Z"
-    },
-    {
       "id": "quakec",
       "version": "0.0.2",
       "src": {
@@ -8256,6 +8216,46 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-10T14:43:03Z"
+    },
+    {
+      "id": "gleam-theme",
+      "version": "0.2.1",
+      "src": {
+        "url": "https://github.com/DanielleMaywood/gleam-theme-zed",
+        "rev": "fcdc8fa08ad58646956faef6fda8a1e4e0a99ea7",
+        "date": "2025-03-10T23:06:45Z",
+        "path": "/nix/store/59wcbgm605macf3y00jnpkg8r0r4zf2c-gleam-theme-zed-fcdc8fa",
+        "sha256": "0xxh7vjw7n3nq2x2jjbshbk0rvgpmxfda0b188xiwichq5rq6qzz",
+        "hash": "sha256-/2ODc8GQRR47QmEB1Vyv9+0M5oJ6SSm6wHbYw+U+sHc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-11T00:41:15Z"
+    },
+    {
+      "id": "stylelint",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/florian-sanders/zed-stylelint",
+        "rev": "035a00fea0365fc999b8ade071ae65a2f16c6e14",
+        "date": "2025-03-10T21:31:34+01:00",
+        "path": "/nix/store/p4yrzyb3lv7d53a0i0x9iz7w57rv98d5-zed-stylelint-035a00f",
+        "sha256": "0w9q1x5i0irp8pjfy58l7w918bb3a2n8w73mm9yylsrn9smi5s7j",
+        "hash": "sha256-8ugSq042a+p9qnUcjqxQYy0UEj8UFe/kRTdHEEsPOHE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-NTtbfuXfylp4eKE6EqLF0DJ2dr7RwOAUtA7A9FL6Sf8=",
+      "published_at": "2025-03-10T22:24:42Z"
     }
   ],
   "grammars": [
