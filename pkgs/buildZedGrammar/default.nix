@@ -29,11 +29,12 @@ pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
         SRC="$SRC src/scanner.c"
       fi
 
-      $CC \
+      wasm32-unknown-wasi-clang \
         -fPIC \
         -shared \
         -Os \
         -Wl,--export=tree_sitter_${name} \
+        -Wl,--export-all \
         -Wl,--allow-undefined-file=${wasi-libc}/lib/linker-provided-symbols.txt \
         -o $out/grammars/${name}.wasm \
         -I src \
