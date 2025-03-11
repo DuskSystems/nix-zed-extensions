@@ -73,17 +73,10 @@ final: prev: {
     }:
 
     buildZedGrammar {
-      name = grammar.name;
-      version = grammar.version;
+      inherit (grammar) name version;
 
       src = fetchgit {
-        url = grammar.src.url;
-        rev = grammar.src.rev;
-        hash = grammar.src.hash;
-        fetchLFS = grammar.src.fetchLFS;
-        fetchSubmodules = grammar.src.fetchSubmodules;
-        deepClone = grammar.src.deepClone;
-        leaveDotGit = grammar.src.leaveDotGit;
+        inherit (grammar.src) url rev hash fetchLFS fetchSubmodules deepClone leaveDotGit;
       };
     };
 
@@ -105,27 +98,19 @@ final: prev: {
 
     buildZedExtension (
       {
+        inherit (extension) version kind;
         name = extension.id;
-        version = extension.version;
 
         src = fetchgit {
-          url = extension.src.url;
-          rev = extension.src.rev;
-          hash = extension.src.hash;
-          fetchLFS = extension.src.fetchLFS;
-          fetchSubmodules = extension.src.fetchSubmodules;
-          deepClone = extension.src.deepClone;
-          leaveDotGit = extension.src.leaveDotGit;
+          inherit (extension.src) url rev hash fetchLFS fetchSubmodules deepClone leaveDotGit;
         };
 
-        kind = extension.kind;
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // (
         if extension.kind == "rust" then
           {
-            useFetchCargoVendor = extension.useFetchCargoVendor;
-            cargoHash = extension.cargoHash;
+            inherit (extension) useFetchCargoVendor cargoHash;
           }
         else
           { }
@@ -136,7 +121,7 @@ final: prev: {
     map (extension: {
       name = extension.id;
       value = final.callPackage (final.mkZedExtension extension) {
-        zed-grammars = final.zed-grammars;
+        inherit (final) zed-grammars;
       };
     }) final.data.extensions
   );
