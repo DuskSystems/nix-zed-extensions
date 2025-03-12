@@ -11,9 +11,6 @@
   ...
 }@attrs:
 
-# NOTE: --allow-undefined-file=linker-provided-symbols.txt is a workaround for:
-# https://github.com/llvm/llvm-project/issues/103592
-
 pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
   {
     pname = "zed-grammar-${name}";
@@ -33,7 +30,7 @@ pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
         -fPIC \
         -shared \
         -Os \
-        -Wl,--allow-undefined-file=${wasi-libc}/lib/wasi.imports \
+        -Wl,--allow-undefined-file=${wasi-libc.share}/share/undefined-symbols.txt \
         -Wl,--export=tree_sitter_${name} \
         -o $out/grammars/${name}.wasm \
         -I src \
