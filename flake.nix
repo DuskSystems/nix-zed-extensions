@@ -48,6 +48,7 @@
       packages = perSystemPkgs (pkgs: {
         wasi-libc = pkgs.wasi-libc;
         wasi-sdk = pkgs.wasi-sdk;
+        wasm-component-ld = pkgs.wasm-component-ld;
 
         nix-zed-extensions = pkgs.nix-zed-extensions;
 

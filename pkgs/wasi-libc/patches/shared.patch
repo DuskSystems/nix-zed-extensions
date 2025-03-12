@@ -9,7 +9,7 @@
 +# modest runtime overhead so this isn't the default for all targets, so other
 +# targets below compile non-PIC versions of objects and use those for archives
 +# instead.
-+ifeq ($(WASI_SNAPSHOT),p2)
++ifeq ($(WASI_SNAPSHOT),p1)
 +$(SYSROOT_LIB)/%.a: $(OBJDIR)/%.so.a
 +	cp $< $@
 +else

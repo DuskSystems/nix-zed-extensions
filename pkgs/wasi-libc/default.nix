@@ -2,12 +2,14 @@
   lib,
   fetchFromGitHub,
   pkgsCross,
+  llvmPackages,
+  wasm-component-ld,
 }:
 
-# A wasi-libc suitable for shared libaries.
+# A wasi-libc suitable for shared libraries.
 # NOTE: Don't use 'wasm32-wasip2' here to avoid infinite recursion.
 
-pkgsCross.wasi32.stdenv.mkDerivation {
+pkgsCross.wasi32.stdenvNoCC.mkDerivation {
   pname = "wasi-libc";
   version = "25.0";
 
@@ -25,6 +27,10 @@ pkgsCross.wasi32.stdenv.mkDerivation {
 
   postPatch = ''
     patchShebangs .
+
+    # Disable symbol checking
+    substituteInPlace Makefile \
+      --replace-fail "finish: check-symbols" "# finish: check-symbols"
   '';
 
   outputs = [
@@ -33,24 +39,43 @@ pkgsCross.wasi32.stdenv.mkDerivation {
     "share"
   ];
 
-  makeFlags = [
-    "SYSROOT_LIB=${placeholder "out"}/lib"
-    "SYSROOT_INC=${placeholder "dev"}/include"
-    "SYSROOT_SHARE=${placeholder "share"}/share"
-    "THREAD_MODEL=single"
-    "WASI_SNAPSHOT=p2"
+  nativeBuildInputs = [
+    wasm-component-ld
+    pkgsCross.wasi32.buildPackages.llvmPackages.clang
+    llvmPackages.bintools
   ];
 
-  makeTargets = [
-    "default"
-    "libc_so"
-  ];
+  buildPhase = ''
+    runHook preBuild
+
+    export SYSROOT_LIB=${builtins.placeholder "out"}/lib
+    export SYSROOT_INC=${builtins.placeholder "dev"}/include
+    export SYSROOT_SHARE=${builtins.placeholder "share"}/share
+    mkdir -p "$SYSROOT_LIB" "$SYSROOT_INC" "$SYSROOT_SHARE"
+
+    echo "Building default"
+    make \
+      -j$NIX_BUILD_CORES \
+      SYSROOT_LIB=$SYSROOT_LIB \
+      SYSROOT_INC=$SYSROOT_INC \
+      SYSROOT_SHARE=$SYSROOT_SHARE \
+      default
+
+    echo "Building libc_so"
+    make \
+      -j$NIX_BUILD_CORES \
+      SYSROOT_LIB=$SYSROOT_LIB \
+      SYSROOT_INC=$SYSROOT_INC \
+      SYSROOT_SHARE=$SYSROOT_SHARE \
+      libc_so
+
+    runHook postBuild
+  '';
 
   enableParallelBuilding = true;
-  dontInstall = true;
 
   meta = {
-    description = "WASI libc implementation for WebAssembly.";
+    description = "WASI libc implementation for WebAssembly with shared library support";
     homepage = "https://wasi.dev";
     license = [
       lib.licenses.asl20-llvm

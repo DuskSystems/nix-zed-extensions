@@ -6,6 +6,7 @@ final: prev: {
 
   wasi-libc = prev.callPackage ../pkgs/wasi-libc { };
   wasi-sdk = prev.callPackage ../pkgs/wasi-sdk { };
+  wasm-component-ld = prev.callPackage ../pkgs/wasm-component-ld { };
 
   # Allow pre-fetching cargoHash.
   # https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/rust/fetch-cargo-vendor.nix
