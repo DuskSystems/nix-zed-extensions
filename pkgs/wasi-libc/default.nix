@@ -9,7 +9,7 @@
 
 pkgsCross.wasi32.stdenv.mkDerivation {
   pname = "wasi-libc";
-  version = "wasi-sdk-21";
+  version = "21.0";
 
   src = fetchFromGitHub {
     owner = "WebAssembly";
@@ -19,24 +19,25 @@ pkgsCross.wasi32.stdenv.mkDerivation {
     fetchSubmodules = true;
   };
 
+  patches = [
+    ./patches/undefined-symbols.patch
+    ./patches/predefined-macros.patch
+  ];
+
   outputs = [
     "out"
     "dev"
-    # "share"
+    "share"
   ];
 
   postPatch = ''
     patchShebangs .
-
-    # Disable symbol checking.
-    substituteInPlace Makefile \
-      --replace-fail "finish: check-symbols" "# finish: check-symbols"
   '';
 
   makeFlags = [
     "SYSROOT_LIB=${placeholder "out"}/lib"
     "SYSROOT_INC=${placeholder "dev"}/include"
-    # "SYSROOT_SHARE=${placeholder "share"}/share"
+    "SYSROOT_SHARE=${placeholder "share"}/share"
     "WASI_SNAPSHOT=p2"
     "EXTRA_CFLAGS=-fPIC"
   ];

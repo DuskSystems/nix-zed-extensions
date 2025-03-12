@@ -1,0 +1,18 @@
+--- a/expected/wasm32-wasi/predefined-macros.txt
++++ b/expected/wasm32-wasi/predefined-macros.txt
+@@ -2663,6 +2663,7 @@
+ #define __ORDER_LITTLE_ENDIAN__ 1234
+ #define __ORDER_PDP_ENDIAN__ 3412
+ #define __PDP_ENDIAN 3412
++#define __PIC__ 2
+ #define __POINTER_WIDTH__ 32
+ #define __PRAGMA_REDEFINE_EXTNAME 1
+ #define __PTRDIFF_FMTd__ "ld"
+@@ -2984,6 +2985,7 @@
+ #define __bitop(x,i,o) ((x)[(i)/8] o (1<<(i)%8))
+ #define __bool_true_false_are_defined 1
+ #define __inline inline
++#define __pic__ 2
+ #define __restrict restrict
+ #define __tg_complex(fun,x) (__RETCAST_CX(x)( __FLTCX((x)+I) && __IS_FP(x) ? fun ## f (x) : __LDBLCX((x)+I) ? fun ## l (x) : fun(x) ))
+ #define __tg_complex_retreal(fun,x) (__RETCAST_REAL(x)( __FLTCX((x)+I) && __IS_FP(x) ? fun ## f (x) : __LDBLCX((x)+I) ? fun ## l (x) : fun(x) ))

@@ -8,7 +8,7 @@
 
 stdenv.mkDerivation {
   name = "wasi-sdk";
-  version = "wasi-sdk-21";
+  version = "21.0";
 
   phases = [ "installPhase" ];
 

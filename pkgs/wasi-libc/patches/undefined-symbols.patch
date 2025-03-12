@@ -1,0 +1,10 @@
+---  a/expected/wasm32-wasi/undefined-symbols.txt
++++  b/expected/wasm32-wasi/undefined-symbols.txt
+@@ -62,6 +62,7 @@
+ __netf2
+ __stack_pointer
+ __subtf3
++__table_base
+ __trunctfdf2
+ __trunctfsf2
+ __unordtf2
