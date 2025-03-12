@@ -88,29 +88,6 @@
       "published_at": "2024-05-30T22:28:48Z"
     },
     {
-      "id": "vue",
-      "version": "0.2.1",
-      "src": {
-        "url": "https://github.com/zed-extensions/vue",
-        "rev": "ec977f4fff694ea7343624e4a2c712e147007ca2",
-        "date": "2025-02-21T19:42:32-07:00",
-        "path": "/nix/store/0g2l3gycvdyywrbin8rr67ar5v736yrm-vue-ec977f4",
-        "sha256": "0xgk5gwg6nfss020ivy3sn80rklrkvchbygca156l173afmb8imp",
-        "hash": "sha256-t0a0qlPjBGpKUOz5Bdmemc4MkNXD7wgE0NpZ8/gr83U=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "vue_vue"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-zSUlNVDMegRZ66ljf92piv6aRD0qW8M+rgp9voI0w2M=",
-      "published_at": "2025-02-23T15:51:26Z"
-    },
-    {
       "id": "tokyo-night",
       "version": "0.5.0",
       "src": {
@@ -168,29 +145,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-12-16T20:34:28Z"
-    },
-    {
-      "id": "svelte",
-      "version": "0.2.4",
-      "src": {
-        "url": "https://github.com/zed-extensions/svelte",
-        "rev": "c2085ed683bf0fa2693aafddeb40e5e12b23d6db",
-        "date": "2025-02-20T09:50:19-05:00",
-        "path": "/nix/store/yakzwg2a2iz29ipmz626fx198x9a64c2-svelte-c2085ed",
-        "sha256": "136gq3siplavbpqvr4qvprb8idwq5620wfavl1r3pngs7vpv5zzy",
-        "hash": "sha256-/v+y7z762TtyoFs5DoQpmLeIVr4bk7zxXVvRG/XAz4w=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "svelte_svelte"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-SJIckUGP5qCyVHQlzduIUjwvTZoXOLK7MszXCF8RqHg=",
-      "published_at": "2025-02-20T14:58:39Z"
     },
     {
       "id": "make",
@@ -386,29 +340,6 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-Sd/CXE6+uExDSyPZM4sgjSJzrThMihPQKdL7nMF8ESU=",
       "published_at": "2024-09-02T22:39:04Z"
-    },
-    {
-      "id": "astro",
-      "version": "0.1.3",
-      "src": {
-        "url": "https://github.com/zed-extensions/astro",
-        "rev": "5a3c23b1f12371f4730f034e74925026cd08ada3",
-        "date": "2025-01-03T13:18:17-05:00",
-        "path": "/nix/store/41yccmy5m31icjbfcrjsx19ydb0j623i-astro-5a3c23b",
-        "sha256": "14dzk2kvbx4nz2rag03jwvck8l0bkfai4k0723dmbkdqmsa1axwf",
-        "hash": "sha256-jncVlK64zVXbEAdMEpWbC1A02eZygKey+Jb0taeYv5E=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "astro_astro"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-hetUBGJaIxtDUjTRHk7ybxqqN0c7dStP0IUuo92IujY=",
-      "published_at": "2025-01-03T20:31:04Z"
     },
     {
       "id": "docker-compose",
@@ -8313,6 +8244,117 @@
       ],
       "kind": "plain",
       "published_at": "2025-03-11T14:57:17Z"
+    },
+    {
+      "id": "solarized",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/harmtemolder/Solarized.zed",
+        "rev": "b686cc075cf5ba2eb6691a1f94c96adef6ee802c",
+        "date": "2025-03-11T13:21:23+01:00",
+        "path": "/nix/store/15p7xn45yc1cvqmkzd7gxhcyg9ycwv15-Solarized.zed-b686cc0",
+        "sha256": "14cwrlnsaydvdbjm8a35g9s96v6h49229pv5xscg0ppwmz176vzd",
+        "hash": "sha256-7W9zwq/8XvCY7mXfJEQi0GyTdHplKFTlart5pS3NnJE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-11T14:44:39Z"
+    },
+    {
+      "id": "svelte",
+      "version": "0.2.5",
+      "src": {
+        "url": "https://github.com/zed-extensions/svelte",
+        "rev": "88a08ef571b1bf749eab23f384e3d626dd2ed658",
+        "date": "2025-03-11T16:33:07-05:00",
+        "path": "/nix/store/wnljdcw8l1yrvw2079m9drprzripf5bp-svelte-88a08ef",
+        "sha256": "0643ghamkrmcz4pa039cf6fgf8syj1w3qaf8ml880pagd276222n",
+        "hash": "sha256-VghhjmhPXYAQrcgpPHiQXiP3nHEsDaAu+azmWRV8gxg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "svelte_svelte"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-nA2ulKXiaZsSuM+qq59UX5289rS0SvzCZjiLffQNUQU=",
+      "published_at": "2025-03-12T00:02:23Z"
+    },
+    {
+      "id": "astro",
+      "version": "0.1.4",
+      "src": {
+        "url": "https://github.com/zed-extensions/astro",
+        "rev": "20154fc465f109d9b5a69be043de173f60198159",
+        "date": "2025-03-11T16:25:33-05:00",
+        "path": "/nix/store/cm51fx6zi02vbvi0ryci6xyq1xvc4p3b-astro-20154fc",
+        "sha256": "10c2b8zj903783id0zrk8rssv2zvvpjvl534w019czw2c3f3bn3s",
+        "hash": "sha256-etg13GCCf5YC4GQUuuXd+4utdUYzf9DiQGeAJD9agoE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "astro_astro"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-Jp68T9mnJa7P6FXWJNSZGXczTp77crQJJZUTGctS1/Q=",
+      "published_at": "2025-03-12T00:02:08Z"
+    },
+    {
+      "id": "vue",
+      "version": "0.2.2",
+      "src": {
+        "url": "https://github.com/zed-extensions/vue",
+        "rev": "05cd7c89cf924a0d3407707107588ef9e61a6b28",
+        "date": "2025-03-11T16:19:43-05:00",
+        "path": "/nix/store/d4yqzi62zng0qqaxmb9853iv498pabh5-vue-05cd7c8",
+        "sha256": "1ly948ibs9qabmnhfwg41j02krw1rb3l7wf1dql94v163s7x8nzp",
+        "hash": "sha256-91vUjx4mbJIobsHxQ8fKgecpgAzkcQdtXQonvSIiydM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "vue_vue"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-jIO49Vl4qzFbM6JRGrugZhr15wqsFm5gAf+Zgkc8xY8=",
+      "published_at": "2025-03-12T00:02:37Z"
+    },
+    {
+      "id": "terraform",
+      "version": "0.1.3",
+      "src": {
+        "url": "https://github.com/zed-extensions/terraform",
+        "rev": "8bc51d568b853b0707e92e8af54c41eb994b0b12",
+        "date": "2025-03-11T14:56:00-04:00",
+        "path": "/nix/store/68hjm2pknqm40s4qiwmmpjgqr348c4bq-terraform-8bc51d5",
+        "sha256": "02a6li9b1ri61cr5vswz6zr6nbr96nb014yf1rc9a14j2k2j0l59",
+        "hash": "sha256-qVAgxRSSBJVYDs6TAJY1KS9r8jef610yCybmsFKkRgk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "terraform_hcl"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-JKY4/YlpRTqtElEe60CjuhW1+Vu/6UGrcioPZCyz4Zc=",
+      "published_at": "2025-03-11T19:23:15Z"
     }
   ],
   "grammars": [
@@ -8436,23 +8478,6 @@
       }
     },
     {
-      "id": "vue_vue",
-      "name": "vue",
-      "version": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
-      "src": {
-        "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue",
-        "rev": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
-        "date": "2024-02-09T11:37:25-05:00",
-        "path": "/nix/store/yrf7rlvmav71jx7h413whan95v15wnxm-tree-sitter-vue-7e48557",
-        "sha256": "01kfqljqx08hv81ilk5bbk03skxmrnsbgnwkahng12miwq5lsgvp",
-        "hash": "sha256-dz9NC+axivAsVJPbt7TNtU89wFyrTBoD2hCBjiXFbgY=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
       "id": "sql_sql",
       "name": "sql",
       "version": "6dfca8b6dcb196d943c10e9cabab25e60232d332",
@@ -8463,23 +8488,6 @@
         "path": "/nix/store/pwipv2gyks7dc015g21hsvcknz33783b-tree-sitter-sql-6dfca8b",
         "sha256": "0kpbbxw2ddk216rgk1ir5g171p01dh2lnclzrpdl09gngcyd4pl5",
         "hash": "sha256-hV7SPHv2JUDbzZ8ySwVsAdxwwis5hvmyCWK2Jnhf604=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "svelte_svelte",
-      "name": "svelte",
-      "version": "3f06f705410683adb17d146b5eca28c62fe81ba6",
-      "src": {
-        "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte",
-        "rev": "3f06f705410683adb17d146b5eca28c62fe81ba6",
-        "date": "2024-09-13T11:08:50+09:30",
-        "path": "/nix/store/1xniridx4v9nkwrfcyiisxi8zgx401z4-tree-sitter-svelte-3f06f70",
-        "sha256": "0w9i2gnbk7rf08x2blb7cp4r1p4zhhlpgbna4qqzr3831lhjma58",
-        "hash": "sha256-qKgqIQ0DjfwxJsqudymEn9yQyWVn0SU6Ai6fuewTMXE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8633,23 +8641,6 @@
         "path": "/nix/store/gpj67iwp7gppql7sb6ci319fixd5zx38-tree-sitter-scss-9ab738d",
         "sha256": "1s0yd5wwgwwm8qncpws89nlw22rw8bhyd99c321pv8im8m54h6dq",
         "hash": "sha256-uBlISkU1on2DGCyl5uFCPAvBqU1I88ssRpXzx3lpHug=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "astro_astro",
-      "name": "astro",
-      "version": "4be180759ec13651f72bacee65fa477c64222a1a",
-      "src": {
-        "url": "https://github.com/virchau13/tree-sitter-astro",
-        "rev": "4be180759ec13651f72bacee65fa477c64222a1a",
-        "date": "2024-04-23T19:02:03+08:00",
-        "path": "/nix/store/1cn01cnkrjjny4rrpdr01vm6g1m1m1pj-tree-sitter-astro-4be1807",
-        "sha256": "04mqf5n70554fab4cc65hwmwsd2sgh3vk28p2mgy308ha6f4ikx9",
-        "hash": "sha256-qc9InFEQgeFfFReJuQd8WjTNK4fFMEaWcqQUcGxxuBI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11540,6 +11531,74 @@
         "path": "/nix/store/fbyax7p9c6fwfcrk70k5gpqzdf2mkgnf-tree-sitter-just-3f90d24",
         "sha256": "09yc8z9lzl62cb6mxknp5bdqck1kjw2n97b7d21wqsqqwsb3mnik",
         "hash": "sha256-M9o6luYYa8yDaGedZAWXM0yG2yrXzl7NYsLQT9NHzCc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "svelte_svelte",
+      "name": "svelte",
+      "version": "3f06f705410683adb17d146b5eca28c62fe81ba6",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte",
+        "rev": "3f06f705410683adb17d146b5eca28c62fe81ba6",
+        "date": "2024-09-13T11:08:50+09:30",
+        "path": "/nix/store/1xniridx4v9nkwrfcyiisxi8zgx401z4-tree-sitter-svelte-3f06f70",
+        "sha256": "0w9i2gnbk7rf08x2blb7cp4r1p4zhhlpgbna4qqzr3831lhjma58",
+        "hash": "sha256-qKgqIQ0DjfwxJsqudymEn9yQyWVn0SU6Ai6fuewTMXE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "astro_astro",
+      "name": "astro",
+      "version": "4be180759ec13651f72bacee65fa477c64222a1a",
+      "src": {
+        "url": "https://github.com/virchau13/tree-sitter-astro",
+        "rev": "4be180759ec13651f72bacee65fa477c64222a1a",
+        "date": "2024-04-23T19:02:03+08:00",
+        "path": "/nix/store/1cn01cnkrjjny4rrpdr01vm6g1m1m1pj-tree-sitter-astro-4be1807",
+        "sha256": "04mqf5n70554fab4cc65hwmwsd2sgh3vk28p2mgy308ha6f4ikx9",
+        "hash": "sha256-qc9InFEQgeFfFReJuQd8WjTNK4fFMEaWcqQUcGxxuBI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "vue_vue",
+      "name": "vue",
+      "version": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue",
+        "rev": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
+        "date": "2024-02-09T11:37:25-05:00",
+        "path": "/nix/store/yrf7rlvmav71jx7h413whan95v15wnxm-tree-sitter-vue-7e48557",
+        "sha256": "01kfqljqx08hv81ilk5bbk03skxmrnsbgnwkahng12miwq5lsgvp",
+        "hash": "sha256-dz9NC+axivAsVJPbt7TNtU89wFyrTBoD2hCBjiXFbgY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "terraform_hcl",
+      "name": "hcl",
+      "version": "e936d3fef8bac884661472dce71ad82284761eb1",
+      "src": {
+        "url": "https://github.com/MichaHoffmann/tree-sitter-hcl",
+        "rev": "e936d3fef8bac884661472dce71ad82284761eb1",
+        "date": "2024-03-08T08:34:24+01:00",
+        "path": "/nix/store/kl8msnpz3g3p02l434cib93np5f24hb5-tree-sitter-hcl-e936d3f",
+        "sha256": "1spl8s1slhf25ry3sggbgckgq5aprc4sq76sgzswdb4rmghyrjwm",
+        "hash": "sha256-lcvs4auZrMb1f9ocrAnLVxX8JnvrPT18LsJBqoNG9Oo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
