@@ -1,6 +1,6 @@
 {
-  pkgsCross,
-  wasi-libc,
+  stdenvNoCC,
+  wasi-sdk,
   ...
 }:
 
@@ -11,10 +11,14 @@
   ...
 }@attrs:
 
-pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
+stdenvNoCC.mkDerivation (
   {
     pname = "zed-grammar-${name}";
     inherit src version;
+
+    buildInputs = [
+      wasi-sdk
+    ];
 
     buildPhase = ''
       runHook preBuild
@@ -26,11 +30,12 @@ pkgsCross.wasm32-wasip2.stdenv.mkDerivation (
         SRC="$SRC src/scanner.c"
       fi
 
-      wasm32-unknown-wasi-clang \
+      clang \
+        --target=wasm32-wasip2 \
+        --sysroot=${wasi-sdk}/share/wasi-sysroot \
         -fPIC \
         -shared \
         -Os \
-        -Wl,--allow-undefined-file=${wasi-libc.share}/share/undefined-symbols.txt \
         -Wl,--export=tree_sitter_${name} \
         -o $out/grammars/${name}.wasm \
         -I src \

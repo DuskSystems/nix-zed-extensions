@@ -4,7 +4,6 @@ final: prev: {
 
   nix-zed-extensions = prev.callPackage ../pkgs/nix-zed-extensions { };
 
-  wasi-libc = prev.callPackage ../pkgs/wasi-libc { };
   wasi-sdk = prev.callPackage ../pkgs/wasi-sdk { };
   wasm-component-ld = prev.callPackage ../pkgs/wasm-component-ld { };
 
@@ -21,16 +20,6 @@ final: prev: {
 
   pkgsCross = prev.pkgsCross // {
     wasm32-wasip2 = prev.pkgsCross.wasm32-wasip2 // {
-      # Use our own WASI libc.
-      stdenv = prev.pkgsCross.wasm32-wasip2.stdenv.override {
-        cc = prev.pkgsCross.wasm32-wasip2.stdenv.cc.override {
-          libc = final.wasi-libc;
-          bintools = prev.pkgsCross.wasm32-wasip2.buildPackages.bintools.override {
-            libc = final.wasi-libc;
-          };
-        };
-      };
-
       # Fix rustc build:
       # - https://github.com/NixOS/nixpkgs/issues/380389
       # - https://github.com/NixOS/nixpkgs/pull/323161
