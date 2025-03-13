@@ -4,8 +4,8 @@ final: prev: {
 
   nix-zed-extensions = prev.callPackage ../pkgs/nix-zed-extensions { };
 
-  wasi-libc = prev.callPackage ../pkgs/wasi-libc { };
   wasi-sdk = prev.callPackage ../pkgs/wasi-sdk { };
+  wasm-component-ld = prev.callPackage ../pkgs/wasm-component-ld { };
 
   # Allow pre-fetching cargoHash.
   # https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/rust/fetch-cargo-vendor.nix
@@ -20,16 +20,6 @@ final: prev: {
 
   pkgsCross = prev.pkgsCross // {
     wasm32-wasip2 = prev.pkgsCross.wasm32-wasip2 // {
-      # Use our own WASI libc.
-      stdenv = prev.pkgsCross.wasm32-wasip2.stdenv.override {
-        cc = prev.pkgsCross.wasm32-wasip2.stdenv.cc.override {
-          libc = final.wasi-libc;
-          bintools = prev.pkgsCross.wasm32-wasip2.buildPackages.bintools.override {
-            libc = final.wasi-libc;
-          };
-        };
-      };
-
       # Fix rustc build:
       # - https://github.com/NixOS/nixpkgs/issues/380389
       # - https://github.com/NixOS/nixpkgs/pull/323161
@@ -73,17 +63,18 @@ final: prev: {
     }:
 
     buildZedGrammar {
-      name = grammar.name;
-      version = grammar.version;
+      inherit (grammar) name version;
 
       src = fetchgit {
-        url = grammar.src.url;
-        rev = grammar.src.rev;
-        hash = grammar.src.hash;
-        fetchLFS = grammar.src.fetchLFS;
-        fetchSubmodules = grammar.src.fetchSubmodules;
-        deepClone = grammar.src.deepClone;
-        leaveDotGit = grammar.src.leaveDotGit;
+        inherit (grammar.src)
+          url
+          rev
+          hash
+          fetchLFS
+          fetchSubmodules
+          deepClone
+          leaveDotGit
+          ;
       };
     };
 
@@ -105,27 +96,27 @@ final: prev: {
 
     buildZedExtension (
       {
+        inherit (extension) version kind;
         name = extension.id;
-        version = extension.version;
 
         src = fetchgit {
-          url = extension.src.url;
-          rev = extension.src.rev;
-          hash = extension.src.hash;
-          fetchLFS = extension.src.fetchLFS;
-          fetchSubmodules = extension.src.fetchSubmodules;
-          deepClone = extension.src.deepClone;
-          leaveDotGit = extension.src.leaveDotGit;
+          inherit (extension.src)
+            url
+            rev
+            hash
+            fetchLFS
+            fetchSubmodules
+            deepClone
+            leaveDotGit
+            ;
         };
 
-        kind = extension.kind;
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // (
         if extension.kind == "rust" then
           {
-            useFetchCargoVendor = extension.useFetchCargoVendor;
-            cargoHash = extension.cargoHash;
+            inherit (extension) useFetchCargoVendor cargoHash;
           }
         else
           { }
@@ -136,7 +127,7 @@ final: prev: {
     map (extension: {
       name = extension.id;
       value = final.callPackage (final.mkZedExtension extension) {
-        zed-grammars = final.zed-grammars;
+        inherit (final) zed-grammars;
       };
     }) final.data.extensions
   );
