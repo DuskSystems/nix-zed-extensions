@@ -3,6 +3,7 @@
   stdenv,
   pkgsCross,
   llvmPackages,
+  wasm-tools,
   nix-zed-extensions,
   libiconv,
 }:
@@ -29,13 +30,14 @@ buildZedExtension (
     LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
 
     nativeBuildInputs = [
+      wasm-tools
       nix-zed-extensions
     ];
 
     postBuild = ''
       ${lib.optionalString (kind == "rust") ''
         # Rust WASM
-        cp target/wasm32-wasip2/release/*.wasm extension.wasm
+        wasm-tools component new target/wasm32-wasip2/release/*.wasm --output extension.wasm
       ''}
 
       # Manifest

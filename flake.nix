@@ -80,6 +80,9 @@
             rustfmt
             rust-analyzer
 
+            # WASM
+            wasm-tools
+
             # Fetch
             fetch-cargo-vendor-util
             nix-prefetch-git
