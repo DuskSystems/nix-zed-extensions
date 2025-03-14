@@ -11,18 +11,23 @@
 
 clangStdenv.mkDerivation {
   name = "wasi-sdk";
-  version = "21.0";
+  version = "25.0";
 
   src = fetchFromGitHub {
     owner = "WebAssembly";
     repo = "wasi-sdk";
     tag = "wasi-sdk-25";
-    hash = "sha256-uM4iO4nY99rw7PUzwTGTQGpyvKTT15Co0afdDxpRfa4=";
-    deepClone = true;
+    hash = "sha256-eozn+FuN6cSYpVBOLW+ltsifRAkTeGvGs0ZMBEsta0E=";
+    # NOTE: https://github.com/NixOS/nixpkgs/issues/100498#issuecomment-1846499310
     fetchSubmodules = true;
+    leaveDotGit = true;
+    postFetch = ''
+      rm -rf $out/.git
+    '';
   };
 
   patches = [
+    ./patches/version.patch
     ./patches/wasm-component-ld.patch
   ];
 
