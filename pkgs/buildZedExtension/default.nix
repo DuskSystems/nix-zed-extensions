@@ -3,6 +3,7 @@
   stdenv,
   pkgsCross,
   llvmPackages,
+  wasip1-component-adapter,
   wasm-tools,
   nix-zed-extensions,
   libiconv,
@@ -19,7 +20,7 @@
 
 let
   buildZedExtension =
-    if (kind == "rust") then pkgsCross.wasm32-wasip2.rustPlatform.buildRustPackage else stdenv.mkDerivation;
+    if (kind == "rust") then pkgsCross.wasm32-wasip1.rustPlatform.buildRustPackage else stdenv.mkDerivation;
 in
 buildZedExtension (
   {
@@ -37,7 +38,11 @@ buildZedExtension (
     postBuild = ''
       ${lib.optionalString (kind == "rust") ''
         # Rust WASM
-        wasm-tools component new target/wasm32-wasip2/release/*.wasm --output extension.wasm
+        wasm-tools component new target/wasm32-wasip1/release/*.wasm \
+          --adapt wasi_snapshot_preview1=${wasip1-component-adapter}/bin/wasi_snapshot_preview1.wasm \
+          --output extension.wasm
+
+        wasm-tools validate extension.wasm
       ''}
 
       # Manifest
