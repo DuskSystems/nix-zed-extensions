@@ -2282,25 +2282,6 @@
       "published_at": "2024-09-04T18:09:05Z"
     },
     {
-      "id": "vercel-theme",
-      "version": "0.0.6",
-      "src": {
-        "url": "https://github.com/NathanBrodin/zed-vercel-theme",
-        "rev": "7256f0c332c6d03ed4ce941d4cf4dce919e620f7",
-        "date": "2025-01-26T18:06:28+01:00",
-        "path": "/nix/store/q2pidkvpddani79qymkcs89gmvwx1xzi-zed-vercel-theme-7256f0c",
-        "sha256": "1gwyglg4f9pfl4yafshxca4riwnxm1yr9q64wxg070ycpmnzr06g",
-        "hash": "sha256-z4D8bb3MgwNe58TglH2o3fKYiWIdaqc8oe4mRx59nr8=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-01-27T13:54:38Z"
-    },
-    {
       "id": "visual-assist-dark",
       "version": "0.0.4",
       "src": {
@@ -8164,25 +8145,6 @@
       "published_at": "2025-03-11T03:26:05Z"
     },
     {
-      "id": "darcula-dark",
-      "version": "0.1.0",
-      "src": {
-        "url": "https://github.com/Not-a-cowfr/Darcula-Dark",
-        "rev": "4f1efd29a698cfda54a1ec738aa1053fea43062c",
-        "date": "2025-03-11T09:01:31-07:00",
-        "path": "/nix/store/bm7x50k648pgn6m3jn5vvi0vg4jxxx0g-Darcula-Dark-4f1efd2",
-        "sha256": "02i7qnnnxznlmz4fi0y52izjfnq4z3iikc8jy4faw7cwnq682cf9",
-        "hash": "sha256-yTGBDLacHa4c8RKxGeP4BFsnfxTFg+jIr9T+bq3FJwo=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-11T14:56:23Z"
-    },
-    {
       "id": "bluloco-theme",
       "version": "1.0.0",
       "src": {
@@ -8424,6 +8386,44 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-q4w2vapbv99xNbx7QknAt8ukrYOXo5fzf73YIqlL6Wk=",
       "published_at": "2025-03-12T19:27:45Z"
+    },
+    {
+      "id": "darcula-dark",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/Not-a-cowfr/Darcula-Dark",
+        "rev": "92e94e481656e0845d69220c527e79669ac7a15e",
+        "date": "2025-03-13T00:49:13-07:00",
+        "path": "/nix/store/m1cyhsdcjcailbdian7xxg78chq2g6ps-Darcula-Dark-92e94e4",
+        "sha256": "0wh4b11c7b9vmdidpixqvilj5mg7f8kxd640cif9r3xg040ikbz4",
+        "hash": "sha256-5K8ZAQGvj5xcZICY1idy59Uiady4x9tiqzutw0JYBHI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-13T18:32:45Z"
+    },
+    {
+      "id": "vercel-theme",
+      "version": "0.0.7",
+      "src": {
+        "url": "https://github.com/NathanBrodin/zed-vercel-theme",
+        "rev": "8a6e3a948bf0d85384cf958adeefb200865f1273",
+        "date": "2025-03-13T19:38:47+01:00",
+        "path": "/nix/store/r36b3ynila15kcf0pajr38w5hkpsb6q0-zed-vercel-theme-8a6e3a9",
+        "sha256": "03qnfwb88d6f21v1y0hls7a2d2dlml8y7n9lvdfd170vbpcahhma",
+        "hash": "sha256-qkKo2F0bnNBc2zTZ4xGttIkm1NEUAh92EM40hBZ3Fg8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-13T20:34:43Z"
     }
   ],
   "grammars": [
