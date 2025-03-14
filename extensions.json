@@ -8424,6 +8424,63 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-13T20:34:43Z"
+    },
+    {
+      "id": "fleet-themes",
+      "version": "1.2.0",
+      "src": {
+        "url": "https://github.com/skarline/zed-fleet-themes",
+        "rev": "73aebd4af6a9bc3e91c0398d573acf3279e61b0e",
+        "date": "2025-03-13T14:22:40-03:00",
+        "path": "/nix/store/ll566ffp38xs28a1zj9rqkhcjf4lkmxv-zed-fleet-themes-73aebd4",
+        "sha256": "1b69lmxbb0929m2mmv6rbrgnsvvib9rf8gpgmylvnayai1y45qc2",
+        "hash": "sha256-guFCfIjKK7upr+8+5HJacW9tX17Z7FpFTSKBtXqlyaw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-13T18:31:30Z"
+    },
+    {
+      "id": "indigo",
+      "version": "0.1.3",
+      "src": {
+        "url": "https://github.com/p3rception/Indigo-zed",
+        "rev": "e64d0ad356c05e11dfdb528969cb7c4958b3779d",
+        "date": "2025-03-11T23:11:36+02:00",
+        "path": "/nix/store/az80i1vrcr6yk5prfsb6m5ka1hvzwyzk-Indigo-zed-e64d0ad",
+        "sha256": "0fsb6pkm1prl2dr3wwkwk0s7a5f4wbmga0vkrynhs5m7ycr0ds05",
+        "hash": "sha256-BegGMvOnFg2tz3MD9erixBV1NJh8cj5yEzTfUOc1Szs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2024-04-15T20:49:35Z"
+    },
+    {
+      "id": "napalm",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/napalmpapalam/napalm-theme-zed",
+        "rev": "b45924e1cd3a825df2ce864086042aaa52c991ea",
+        "date": "2025-03-11T01:04:06-07:00",
+        "path": "/nix/store/gbs16r75hjhznf01c80ca7zdh4hfh7n9-napalm-theme-zed-b45924e",
+        "sha256": "0151kybwabr4gqsiz9zhg12ynj3pwp3ais8qqdy1jdmqangpxlx4",
+        "hash": "sha256-pNN+n1W4Nhl8wxjpqMbld0jrRXjwpx81fiQvxZefoQQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2024-02-22T16:10:36Z"
     }
   ],
   "grammars": [
