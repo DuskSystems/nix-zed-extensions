@@ -2282,25 +2282,6 @@
       "published_at": "2024-09-04T18:09:05Z"
     },
     {
-      "id": "visual-assist-dark",
-      "version": "0.0.4",
-      "src": {
-        "url": "https://github.com/trojanfoe/visual_assist_dark.zed",
-        "rev": "bd1b175b2f1cf619f972524b7e71bd0ef2de46aa",
-        "date": "2025-02-25T10:10:28Z",
-        "path": "/nix/store/k2ba560l8yhilhh2v7pylrzbj5pxvxqi-visual_assist_dark.zed-bd1b175",
-        "sha256": "1y2rg1vww46wazf5jz53dmxv6wh8n40slvql2i80dk0l5pcg8g6i",
-        "hash": "sha256-0Tz02C0UzAZQFBRvqgGxCHKze22jfFncV9wQznd4Wfg=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-25T12:49:12Z"
-    },
-    {
       "id": "anya",
       "version": "0.0.3",
       "src": {
@@ -8481,6 +8462,25 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-02-22T16:10:36Z"
+    },
+    {
+      "id": "visual-assist-dark",
+      "version": "0.0.5",
+      "src": {
+        "url": "https://github.com/trojanfoe/visual_assist_dark.zed",
+        "rev": "736f132bc4b1100de48c3786e0450d4a7faca504",
+        "date": "2025-03-14T14:50:37Z",
+        "path": "/nix/store/kb51wj90mszvrxnw3d0ifwalvs3kmymx-visual_assist_dark.zed-736f132",
+        "sha256": "1g6w613firz3krb4vnc408bzjq21h50mig2728vm7rf8ql3fq862",
+        "hash": "sha256-wiDsBsXI5VM3Eke8WEGBQWD5FwKE2U1WnuPn6EYw3Lw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-14T21:36:58Z"
     }
   ],
   "grammars": [
