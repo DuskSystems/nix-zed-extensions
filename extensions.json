@@ -904,28 +904,6 @@
       "published_at": "2025-03-05T15:55:23Z"
     },
     {
-      "id": "rainbow-csv",
-      "version": "0.0.3",
-      "src": {
-        "url": "https://github.com/weartist/zed-rainbow-csv",
-        "rev": "fd69b5ebf8d988d330289b7fa441c82da6587b6d",
-        "date": "2024-06-21T16:08:30+08:00",
-        "path": "/nix/store/k4y8rpl5b3snaarkk5dxsrn4b0fwbhp2-zed-rainbow-csv-fd69b5e",
-        "sha256": "0izv0hcdlavx2yvlhfgn742l9iz79f47lcifw075jn0mshvym1fa",
-        "hash": "sha256-yoXqN9QVWFkO4C4yeohL58dEBTn2OUi3F30r2hgE+0c=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "rainbow-csv_tsv",
-        "rainbow-csv_csv"
-      ],
-      "kind": "plain",
-      "published_at": "2024-06-21T13:07:45Z"
-    },
-    {
       "id": "java-eclipse-jdtls",
       "version": "0.2.4",
       "src": {
@@ -1526,25 +1504,6 @@
       "published_at": "2024-07-15T15:14:53Z"
     },
     {
-      "id": "0x96f",
-      "version": "1.2.5",
-      "src": {
-        "url": "https://github.com/filipjanevski/zed-theme",
-        "rev": "1b9b59cade453bd65cc23440bdd7ee224203fedf",
-        "date": "2025-02-13T21:08:42+01:00",
-        "path": "/nix/store/bavxcvgkkdavsqyk6b1aqna19cxxcz0v-zed-theme-1b9b59c",
-        "sha256": "1qsykdza51qmxyb37g1jrsmfb7gzdzq6r891zfzh6bhpfwxw6n9g",
-        "hash": "sha256-L1nDO3cXLgO/+yGhbPBv/53lqs4yvDOW7xWHon6bXuM=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-14T21:28:33Z"
-    },
-    {
       "id": "typst",
       "version": "0.1.0",
       "src": {
@@ -1785,25 +1744,6 @@
       ],
       "kind": "plain",
       "published_at": "2024-04-09T20:33:11Z"
-    },
-    {
-      "id": "rose-pine-theme",
-      "version": "1.1.2",
-      "src": {
-        "url": "https://github.com/rose-pine/zed",
-        "rev": "a947ee1a2c060fbeae216b981c15384369403695",
-        "date": "2024-08-17T15:02:42-07:00",
-        "path": "/nix/store/aa5kbc9clk6xsy531ksrzb131ivwky15-zed-a947ee1",
-        "sha256": "1i3yny1dd7raivddwkgf0xlpf0yxlrpwh8ya19zrmsynr7zjn9dd",
-        "hash": "sha256-rSUr/8nW65p/CsojyG+m3QN3aQfuTd7ajiqf1oK3fsQ=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-08-18T12:27:42Z"
     },
     {
       "id": "jsonnet",
@@ -5328,25 +5268,6 @@
       "published_at": "2025-01-27T16:04:17Z"
     },
     {
-      "id": "zen-abyssal",
-      "version": "1.2.0",
-      "src": {
-        "url": "https://github.com/KevInCompile/ZenAbyssal",
-        "rev": "57269a81d7b17e52d5a8672ec750e96ebb888383",
-        "date": "2025-02-20T10:03:07-05:00",
-        "path": "/nix/store/8riw336ar6c9a1444fkvy4ynsfd96pky-ZenAbyssal-57269a8",
-        "sha256": "1nllrsi68y47dx8kzq0gpmqi3g6lz39g2b4dn4zpf658rsv4b5dx",
-        "hash": "sha256-vZVFts6oGHc/sY0s8dL41LwRcb0P4D9Rb4d4ZKLOlNo=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-20T15:36:15Z"
-    },
-    {
       "id": "adech",
       "version": "2.0.1",
       "src": {
@@ -8481,6 +8402,85 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-14T21:36:58Z"
+    },
+    {
+      "id": "0x96f",
+      "version": "1.2.6",
+      "src": {
+        "url": "https://github.com/filipjanevski/zed-theme",
+        "rev": "2fd2ca11bed4caede55e229935d1b70f16acee70",
+        "date": "2025-03-14T16:19:05+01:00",
+        "path": "/nix/store/wkpzg1612z80sf3qyym4dym23zym8f6v-zed-theme-2fd2ca1",
+        "sha256": "1555g85fn0bfh9k0appbf7b97ffqijxcs4vdbhq96jz5w7amgij6",
+        "hash": "sha256-RsZX1eHlS5MwXG0TzbqM2LmT1nHrXgVmgm4B6wp6pZQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-15T13:48:56Z"
+    },
+    {
+      "id": "rose-pine-theme",
+      "version": "1.2.0",
+      "src": {
+        "url": "https://github.com/rose-pine/zed",
+        "rev": "3b31395b982d025fdcc429f4d25bd5aa57647ed8",
+        "date": "2025-03-15T16:45:47-07:00",
+        "path": "/nix/store/6pbmd3f9xi5yg70vh70jpp1dq6cfk60y-zed-3b31395",
+        "sha256": "1ashar8cxn457wbd185ri8kmaxk03yzg6j43dwwh415iwz21am55",
+        "hash": "sha256-pVQVxOexBAI5b4NI874fYHZVJ4q5oNAWP4XYzlBWUKs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-15T23:30:53Z"
+    },
+    {
+      "id": "rainbow-csv",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/weartist/zed-rainbow-csv",
+        "rev": "81bfb05d56a5302bd821230e83840230fd558c65",
+        "date": "2025-03-13T23:43:58+08:00",
+        "path": "/nix/store/39hh2agb3cbqfv8g9c6sh7b8qacmbscj-zed-rainbow-csv-81bfb05",
+        "sha256": "0vjfzryrg1gimki0dfjm1h4vlzp1jhx7xl5gfxm61iw57cb9v90v",
+        "hash": "sha256-G6SdFjuFx2Bqd6/QfjqU4X66CQxVugbirPGFl33+Tm4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "rainbow-csv_tsv",
+        "rainbow-csv_csv"
+      ],
+      "kind": "plain",
+      "published_at": "2025-03-15T13:48:57Z"
+    },
+    {
+      "id": "zen-abyssal",
+      "version": "1.3.1",
+      "src": {
+        "url": "https://github.com/KevInCompile/ZenAbyssal",
+        "rev": "8de554e8885fe569a892d0872de44d941fb125b6",
+        "date": "2025-03-13T15:41:02-05:00",
+        "path": "/nix/store/6y6x5m80898gfjnwbhsd2g8w5cgiar1a-ZenAbyssal-8de554e",
+        "sha256": "0a14y1mzckilnak0i6lvx567czg1fvc0lvzzfvyp7wgf6lji68lf",
+        "hash": "sha256-jiITJTXu8XP9dv9vCth24X12TOmbmgimsjRO9mvwJCg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-15T15:28:41Z"
     }
   ],
   "grammars": [
@@ -8971,40 +8971,6 @@
         "path": "/nix/store/rfhr43yd6rqxak9jrly5x5jc82fwsbgw-tree-sitter-dotenv-a854096",
         "sha256": "0gm6rajkrzyc3m7iar3mb6l90k4n849wgmj1yk9yxjbwkky33sh6",
         "hash": "sha256-Buox/Jx8ye7T9EHWxxNBlkyQqFl1ZBVPHcz/PKXKpj4=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "rainbow-csv_tsv",
-      "name": "tsv",
-      "version": "fdbd83fc30690777822b7ab183f57664c11310e9",
-      "src": {
-        "url": "https://github.com/weartist/rainbow-tsv-tree-sitter",
-        "rev": "fdbd83fc30690777822b7ab183f57664c11310e9",
-        "date": "2024-04-14T16:31:29+08:00",
-        "path": "/nix/store/xv7wjbgqck6v7z9wz8zrr81nap61a9i3-rainbow-tsv-tree-sitter-fdbd83f",
-        "sha256": "0v5mbgcdsvv5yx44sxlksd0a01ipz8znkma12dn2w1z6m71mgrws",
-        "hash": "sha256-mudXw6nmBy5sE0HVaT/6NwagQNOTdk1I92Vv3dhbtWw=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "rainbow-csv_csv",
-      "name": "csv",
-      "version": "d3dbf916446131417e4c2ea9eb8591b23b466d27",
-      "src": {
-        "url": "https://github.com/versecafe/rainbow-csv-tree-sitter",
-        "rev": "d3dbf916446131417e4c2ea9eb8591b23b466d27",
-        "date": "2024-06-21T15:19:41+08:00",
-        "path": "/nix/store/jwd71z91fwfsda0cq7p121b0s4srrfnm-rainbow-csv-tree-sitter-d3dbf91",
-        "sha256": "0xawig54g3v72ihwj3fslkp5nqy7r92azrwa81y27pq2vkp8fjm7",
-        "hash": "sha256-p0qH7twC3yN8QIrnr0TKx2Nb7qTaDclhFGePR8qLXHU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11776,6 +11742,40 @@
         "path": "/nix/store/b5vm4x09fzsjlxq77qnlxawizvwdzhi8-tree-sitter-purescript-0554811",
         "sha256": "1p6v0zvvimwrhgal9gw64fjc7652d2nx60ixgrdkcbipx8wrwwxy",
         "hash": "sha256-vnOeOeo3LjZbfj0C061oopjDpCOGv0TVg5nXuPcH29w=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "rainbow-csv_tsv",
+      "name": "tsv",
+      "version": "fdbd83fc30690777822b7ab183f57664c11310e9",
+      "src": {
+        "url": "https://github.com/weartist/rainbow-tsv-tree-sitter",
+        "rev": "fdbd83fc30690777822b7ab183f57664c11310e9",
+        "date": "2024-04-14T16:31:29+08:00",
+        "path": "/nix/store/xv7wjbgqck6v7z9wz8zrr81nap61a9i3-rainbow-tsv-tree-sitter-fdbd83f",
+        "sha256": "0v5mbgcdsvv5yx44sxlksd0a01ipz8znkma12dn2w1z6m71mgrws",
+        "hash": "sha256-mudXw6nmBy5sE0HVaT/6NwagQNOTdk1I92Vv3dhbtWw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "rainbow-csv_csv",
+      "name": "csv",
+      "version": "fbf125bcedb15080980e8afaf69c4374412e5844",
+      "src": {
+        "url": "https://github.com/weartist/rainbow-csv-tree-sitter",
+        "rev": "fbf125bcedb15080980e8afaf69c4374412e5844",
+        "date": "2025-03-13T21:27:32+08:00",
+        "path": "/nix/store/5gxnwmq948w6hjh3mmdxfgabdsvay12i-rainbow-csv-tree-sitter-fbf125b",
+        "sha256": "01j5yfb9pf4503c0jssmz1daad3m3xvy5g3b7w1jgl1iqblrz9bi",
+        "hash": "sha256-caWf6cIx0CcDP2u84ncfdTSlWvhVawnYAIW4m5bzRQY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
