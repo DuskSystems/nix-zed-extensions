@@ -20,25 +20,6 @@
       "published_at": "2025-02-24T02:24:37Z"
     },
     {
-      "id": "catppuccin",
-      "version": "0.2.21",
-      "src": {
-        "url": "https://github.com/catppuccin/zed",
-        "rev": "8378f5047c27eb67b67bbbe01887a4fafffa0dae",
-        "date": "2025-02-07T21:34:02-08:00",
-        "path": "/nix/store/nr0kky98nln4vb8bp0djjw1xkjbk7bba-zed-8378f50",
-        "sha256": "1r5xwf6b8axksigwrl928hkhnjgff0lywx2rg8l6qs0551gj1lvy",
-        "hash": "sha256-ftMgXygFaGwoell07ilw7kkLJ0Qi0cxf1LMrtIzjveQ=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-07T14:18:36Z"
-    },
-    {
       "id": "git-firefly",
       "version": "0.0.4",
       "src": {
@@ -145,27 +126,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-12-16T20:34:28Z"
-    },
-    {
-      "id": "make",
-      "version": "1.0.1",
-      "src": {
-        "url": "https://github.com/caius/zed-make",
-        "rev": "125f659ab52bba22dd31c163cd3de844449eda0d",
-        "date": "2024-04-18T22:46:01+01:00",
-        "path": "/nix/store/k41pm31dpi3fj2ca5bcznm5rrx6hp493-zed-make-125f659",
-        "sha256": "1dbkcz9nbvfh8j9c651j74mzbwb379rw19k4w5qwxzm1mpa9xqsl",
-        "hash": "sha256-VOOe1K2h/s5x4WSmwHM6Y/H1KzkyFMOSRNDtZdNnc7U=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "make_make"
-      ],
-      "kind": "plain",
-      "published_at": "2024-04-19T15:01:28Z"
     },
     {
       "id": "xml",
@@ -1107,25 +1067,6 @@
       "published_at": "2025-02-18T20:15:00Z"
     },
     {
-      "id": "nvim-nightfox",
-      "version": "0.2.0",
-      "src": {
-        "url": "https://github.com/cange/nightfox.zed",
-        "rev": "7c00a14dcc61e0d62864d9a1712863006d6b3f63",
-        "date": "2024-08-03T20:53:05+02:00",
-        "path": "/nix/store/sw5nxfm3m0m7w1qwa8l8qzln6kjkxwj4-nightfox.zed-7c00a14",
-        "sha256": "0a0dkhf35b35dif39s0k5fvdzgbki1gyaj2cp4krblk7mxlrgln8",
-        "hash": "sha256-yNKXaa9n0pUnuUxI5V+Ic73ftisT6DRcbGWsMhycDSg=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-06-10T15:30:42Z"
-    },
-    {
       "id": "one-dark-pro-monokai-darker",
       "version": "0.1.1",
       "src": {
@@ -1586,25 +1527,6 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-AAQ68Yj9braA1X9Y0iCwl1nZvGS2WrfqPP+acBdGXfg=",
       "published_at": "2025-03-06T22:58:02Z"
-    },
-    {
-      "id": "github-copilot-theme",
-      "version": "0.1.0",
-      "src": {
-        "url": "https://github.com/ssaunderss/zed-gh-copilot-theme",
-        "rev": "6595d11c0c52142cfb44f05d76c7475de6b7a630",
-        "date": "2024-10-04T15:59:09-04:00",
-        "path": "/nix/store/grzcs52civm5fpwl3nshgs2m08f8nam2-zed-gh-copilot-theme-6595d11",
-        "sha256": "0s09jl40y5pq36k9b1dqg63kr1f882p0dhp01277cbyhwsshaz5v",
-        "hash": "sha256-u3wFtebQL3aOCODCBq5AyIU8h3m4hZWmGfgWDwiVCWg=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-10-07T15:49:13Z"
     },
     {
       "id": "siri",
@@ -8423,25 +8345,6 @@
       "published_at": "2025-03-15T13:48:56Z"
     },
     {
-      "id": "rose-pine-theme",
-      "version": "1.2.0",
-      "src": {
-        "url": "https://github.com/rose-pine/zed",
-        "rev": "3b31395b982d025fdcc429f4d25bd5aa57647ed8",
-        "date": "2025-03-15T16:45:47-07:00",
-        "path": "/nix/store/6pbmd3f9xi5yg70vh70jpp1dq6cfk60y-zed-3b31395",
-        "sha256": "1ashar8cxn457wbd185ri8kmaxk03yzg6j43dwwh415iwz21am55",
-        "hash": "sha256-pVQVxOexBAI5b4NI874fYHZVJ4q5oNAWP4XYzlBWUKs=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-15T23:30:53Z"
-    },
-    {
       "id": "rainbow-csv",
       "version": "1.0.0",
       "src": {
@@ -8481,6 +8384,103 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-15T15:28:41Z"
+    },
+    {
+      "id": "catppuccin",
+      "version": "0.2.21",
+      "src": {
+        "url": "https://github.com/catppuccin/zed",
+        "rev": "26d9da7a13c880a61574c4a65b58dec8881ab84e",
+        "date": "2025-03-17T09:33:48-07:00",
+        "path": "/nix/store/4msrbkmpmlv82fm4m13rchh5kwmk7ixx-zed-26d9da7",
+        "sha256": "1p285vak4fc7px5h8hqg1s5nx3rj4r3zxkvnzq7pjqwqz1jmvy9h",
+        "hash": "sha256-MPldZfiYY3kP/nbP/kcmMo9uiw4PQwRLv4c5MtUuSNw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-17T17:16:11Z"
+    },
+    {
+      "id": "nvim-nightfox",
+      "version": "0.3.1",
+      "src": {
+        "url": "https://github.com/cange/nightfox.zed",
+        "rev": "2b5188d4a4fc490cf5a15214326a963094ada25e",
+        "date": "2025-03-16T20:11:11+01:00",
+        "path": "/nix/store/077jsgp857xgdfc7q7gn9y7xny91xvrn-nightfox.zed-2b5188d",
+        "sha256": "0002ync234wrnyffg324wylfp4134azry96jvhnmdjanjv4faxyh",
+        "hash": "sha256-0HflyJZWyVYt3NIkn78iI5DrqOdEjOect5mTIZj1AgA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-17T03:45:36Z"
+    },
+    {
+      "id": "make",
+      "version": "1.1.0",
+      "src": {
+        "url": "https://github.com/caius/zed-make",
+        "rev": "4783d87bcf810b4d60edd1c50b22093498e4dc12",
+        "date": "2025-03-16T16:46:48Z",
+        "path": "/nix/store/ig2hzwdc13r9j2b83nh7riph5fn60cl0-zed-make-4783d87",
+        "sha256": "1s635ispif571w8f3q0cy2fml4j7h04bbnansyzr70510izwghzy",
+        "hash": "sha256-/sPHfwShgJO/11bZtQiARxJanfAM4OEQD6e4eHUsw+g=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "make_make"
+      ],
+      "kind": "plain",
+      "published_at": "2025-03-17T12:54:37Z"
+    },
+    {
+      "id": "rose-pine-theme",
+      "version": "1.2.0",
+      "src": {
+        "url": "https://github.com/rose-pine/zed",
+        "rev": "3b31395b982d025fdcc429f4d25bd5aa57647ed8",
+        "date": "2025-03-15T16:45:47-07:00",
+        "path": "/nix/store/6pbmd3f9xi5yg70vh70jpp1dq6cfk60y-zed-3b31395",
+        "sha256": "1ashar8cxn457wbd185ri8kmaxk03yzg6j43dwwh415iwz21am55",
+        "hash": "sha256-pVQVxOexBAI5b4NI874fYHZVJ4q5oNAWP4XYzlBWUKs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-17T12:56:45Z"
+    },
+    {
+      "id": "github-copilot-theme",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/ssaunderss/zed-gh-copilot-theme",
+        "rev": "ed924c4a7a2cf6cfd3623a11b3398772b3d30e37",
+        "date": "2025-03-16T15:08:06-05:00",
+        "path": "/nix/store/2rgpfvbnrhf3xmn6y48lbqlh7g6axk87-zed-gh-copilot-theme-ed924c4",
+        "sha256": "1a2fqi8n55mykn2hciisacpk8kzs2n2ynzdqyjkihbhx9b2427mc",
+        "hash": "sha256-rB5BxEodLhin9Lh964UV+k80L1M6RgaFnb6WYlHETqg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-17T03:45:06Z"
     }
   ],
   "grammars": [
@@ -8614,23 +8614,6 @@
         "path": "/nix/store/pwipv2gyks7dc015g21hsvcknz33783b-tree-sitter-sql-6dfca8b",
         "sha256": "0kpbbxw2ddk216rgk1ir5g171p01dh2lnclzrpdl09gngcyd4pl5",
         "hash": "sha256-hV7SPHv2JUDbzZ8ySwVsAdxwwis5hvmyCWK2Jnhf604=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "make_make",
-      "name": "make",
-      "version": "b35c2714e73d2846b26061b06cda4fa56d61e3a5",
-      "src": {
-        "url": "https://github.com/caius/tree-sitter-make",
-        "rev": "b35c2714e73d2846b26061b06cda4fa56d61e3a5",
-        "date": "2024-01-31T14:40:23Z",
-        "path": "/nix/store/jz7aa1fqpsjfhbyc6sqchr2931dzb75q-tree-sitter-make-b35c271",
-        "sha256": "1ddgp5lam5gxg46riq3rzd9b5ki9cc8xl5d6q20brf7pjcs6hzwh",
-        "hash": "sha256-kH9oNJP3uLyAwKYV2hFjKc6yUvt54JgNef2Vqmi5r7U=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11776,6 +11759,23 @@
         "path": "/nix/store/5gxnwmq948w6hjh3mmdxfgabdsvay12i-rainbow-csv-tree-sitter-fbf125b",
         "sha256": "01j5yfb9pf4503c0jssmz1daad3m3xvy5g3b7w1jgl1iqblrz9bi",
         "hash": "sha256-caWf6cIx0CcDP2u84ncfdTSlWvhVawnYAIW4m5bzRQY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "make_make",
+      "name": "make",
+      "version": "5e9e8f8ff3387b0edcaa90f46ddf3629f4cfeb1d",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-make",
+        "rev": "5e9e8f8ff3387b0edcaa90f46ddf3629f4cfeb1d",
+        "date": "2024-12-21T13:59:08-05:00",
+        "path": "/nix/store/01k4y69x8rxqjyzn3bhrmbwivakgzlf0-tree-sitter-make-5e9e8f8",
+        "sha256": "0g8k9rfmc979lza2cx5xwla1ic2p9hpvm0h2sgfs4r29kw1a2ass",
+        "hash": "sha256-WiuhAp9JZKLd0wKCui9MV7AYFOW9dCbUp+kkVl1OEz0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
