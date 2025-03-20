@@ -192,30 +192,6 @@
       "published_at": "2025-03-01T22:11:07Z"
     },
     {
-      "id": "latex",
-      "version": "0.1.12-dev",
-      "src": {
-        "url": "https://github.com/rzukic/zed-latex",
-        "rev": "4e6e83b95d03a46fd20c75c7959da074820905f1",
-        "date": "2025-03-01T16:07:22Z",
-        "path": "/nix/store/kiycn93fgrlp61lq49xwks0ghcv1kaqk-zed-latex-4e6e83b",
-        "sha256": "0mkwflw1lq7hn1kz8gpyij39f4150b6i06ink450lsw314chx8v6",
-        "hash": "sha256-ZqMOGQmDawoKmTYaEM0CJRCXhoz+PvRnsPBgGjh1fFY=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "latex_bibtex",
-        "latex_latex"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-mjAIb/cs30JFNpicdmYjGCT47JMmVmiGRe0X9hyQR7Q=",
-      "published_at": "2025-03-01T16:47:42Z"
-    },
-    {
       "id": "lua",
       "version": "0.1.2",
       "src": {
@@ -6748,29 +6724,6 @@
       "published_at": "2024-11-21T01:09:10Z"
     },
     {
-      "id": "move",
-      "version": "0.0.1",
-      "src": {
-        "url": "https://github.com/MystenLabs/move-zed-extension",
-        "rev": "422b1c642e05203dc9f38a10e65b387a4e2dab54",
-        "date": "2024-12-17T20:54:13+02:00",
-        "path": "/nix/store/4xpyf3zdj3pc0ysczya3jhd45iqx73kd-move-zed-extension-422b1c6",
-        "sha256": "10vmz1vfslf8b41v2xi8ga5z2q7v4kkw8plyyclip2wk58jarlm1",
-        "hash": "sha256-odKsJCqTixsp855exOck+2Dxi3oodrEDWchR7Xb4dYM=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "move_move"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-X41i2xiekqoIzIibytYzacVaZRV6boFx+9pGKDpHlw8=",
-      "published_at": "2024-12-17T19:04:08Z"
-    },
-    {
       "id": "actionscript",
       "version": "0.0.1",
       "src": {
@@ -8405,25 +8358,6 @@
       "published_at": "2025-03-17T17:16:11Z"
     },
     {
-      "id": "nvim-nightfox",
-      "version": "0.3.1",
-      "src": {
-        "url": "https://github.com/cange/nightfox.zed",
-        "rev": "2b5188d4a4fc490cf5a15214326a963094ada25e",
-        "date": "2025-03-16T20:11:11+01:00",
-        "path": "/nix/store/077jsgp857xgdfc7q7gn9y7xny91xvrn-nightfox.zed-2b5188d",
-        "sha256": "0002ync234wrnyffg324wylfp4134azry96jvhnmdjanjv4faxyh",
-        "hash": "sha256-0HflyJZWyVYt3NIkn78iI5DrqOdEjOect5mTIZj1AgA=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-17T03:45:36Z"
-    },
-    {
       "id": "make",
       "version": "1.1.0",
       "src": {
@@ -8481,6 +8415,114 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-17T03:45:06Z"
+    },
+    {
+      "id": "nvim-nightfox",
+      "version": "0.4.0",
+      "src": {
+        "url": "https://github.com/cange/nightfox.zed",
+        "rev": "e0ef9b87a66420b9979b86bc5e384342dc3ef158",
+        "date": "2025-03-19T21:44:47+01:00",
+        "path": "/nix/store/30c8i6nqvdlxcnmwf6cskl5rr8y70444-nightfox.zed-e0ef9b8",
+        "sha256": "0b3d4334j59rm6dp0q7fn6zrylb3xsn8473bvc7548kdddsxkk7i",
+        "hash": "sha256-8czZdWttIlIO22scgqzuY1Gfv7HuYHCbqTkVScYgbSw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T00:17:33Z"
+    },
+    {
+      "id": "jellybeans-vim",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/rajerthat1/jellybeans.zed",
+        "rev": "096c3eef6deb91d5e4c74b5beafa05c1ce09a025",
+        "date": "2025-03-14T14:02:33-07:00",
+        "path": "/nix/store/jsrrgk76psmc0lhai3zw77l3gav4720w-jellybeans.zed-096c3ee",
+        "sha256": "0kbxnmfyijcbq2s1cg0a4da9n79i3dwjy02givq2l5860f98fvz4",
+        "hash": "sha256-5G+HkgMGFSrwjk8AL3kbMR2bVCMKPBa0wIvJ6F21fU0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-14T21:36:31Z"
+    },
+    {
+      "id": "angular",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/nathansbradshaw/zed-angular",
+        "rev": "74dbbaa36e1380328f3b81019a405f50e0f85dee",
+        "date": "2025-03-18T22:17:30+05:30",
+        "path": "/nix/store/scd0j2lyl4fnm3qlqdyj44dfibm2m9w1-zed-angular-74dbbaa",
+        "sha256": "0ynajna4vhas9gi3fb0rzg981npa4hqp41458yha1l0r1d5mwc09",
+        "hash": "sha256-CTBeSwsZ0KCgR4UEcjEk6tqA0vsZLDfiS1rBTZSVyno=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "angular_angular"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-ST/gFXGNkNXUYOxjSMKyASHlXcnb7uxWzLb0bjJljE4=",
+      "published_at": "2025-03-18T18:24:10Z"
+    },
+    {
+      "id": "move",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/MystenLabs/move-zed-extension",
+        "rev": "b65b64d79b1c8da74fc410e9f78910c57d7429c9",
+        "date": "2025-03-18T22:02:53+02:00",
+        "path": "/nix/store/f1nji3fbj4ccbh4aiy3sll0mlwiawvrz-move-zed-extension-b65b64d",
+        "sha256": "1zqbnd1a6qyp00fr73s2n1s7s1mbyv1bs9qqypx53g2n2gnmdmm4",
+        "hash": "sha256-pNZW7RNWvFH69RgnvcL2qwZ9dLBCj5MdANdjo0KzC/8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "move_move"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-yLiSa2XDqcU/u1Bl7FwaFIzOfgirgUlV/EsqQOtLZ8c=",
+      "published_at": "2025-03-20T00:17:32Z"
+    },
+    {
+      "id": "latex",
+      "version": "0.1.14-dev",
+      "src": {
+        "url": "https://github.com/rzukic/zed-latex",
+        "rev": "3a6a21aa82adcf6176661725729f46b2943fa2da",
+        "date": "2025-03-19T21:18:42Z",
+        "path": "/nix/store/807wha0mpj5wc347q6054aynz47irkka-zed-latex-3a6a21a",
+        "sha256": "01imf2im1d3al6hd2xva4qmzg77vnnvcsw10v3hk5x937y5vg2fg",
+        "hash": "sha256-z4m3iz8j9TLh2CBwzba1+5z3KyZqd9GgoWq0UKNwNQY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "latex_bibtex",
+        "latex_latex"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-2MiwzL4fwl40g1w4R/ggP2eR9DAq5Eu9yB/Ntd/1K84=",
+      "published_at": "2025-03-20T00:16:45Z"
     }
   ],
   "grammars": [
@@ -8665,40 +8707,6 @@
         "path": "/nix/store/w2a2lc80w5i7v7kmihfyfk1p0xyag4ds-tree-sitter-elixir-a2861e8",
         "sha256": "1206ph6lzb5j2pw2pdhc2lb4z8sk15agmkwq7k8lk3l1fx1yl4c4",
         "hash": "sha256-hBHqQ3eBjknRPJjP+lQJU6NPFhUMtiv4FbKsTw28Bog=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "latex_bibtex",
-      "name": "bibtex",
-      "version": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34",
-      "src": {
-        "url": "https://github.com/latex-lsp/tree-sitter-bibtex",
-        "rev": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34",
-        "date": "2021-03-26T15:53:50+01:00",
-        "path": "/nix/store/kyh8p0vxjpqm47mgf0l7vpcxmbx5v49p-tree-sitter-bibtex-ccfd77d",
-        "sha256": "0m7f3dkqbmy8x1bhl11m8f4p6n76wfvh99rp46zrqv39355nw1y2",
-        "hash": "sha256-wgduSxlpbJy/ITenBLfj5lhziUM1BApX6MjXhWcb7lQ=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "latex_latex",
-      "name": "latex",
-      "version": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
-      "src": {
-        "url": "https://github.com/latex-lsp/tree-sitter-latex",
-        "rev": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
-        "date": "2024-04-01T09:14:05Z",
-        "path": "/nix/store/h674v0z90f86isr78jzmm6xjivh42sh7-tree-sitter-latex-a6c8127",
-        "sha256": "0lcwsrfifh0l9rppr0yb6l64h2l78ai02cbck09kcjvaxv60x7il",
-        "hash": "sha256-NJ4OzO5qSzYTmGwxAaJChwpIDDXLg3xvThRAF13WnFE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10882,23 +10890,6 @@
       }
     },
     {
-      "id": "move_move",
-      "name": "move",
-      "version": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
-      "src": {
-        "url": "https://github.com/tzakian/tree-sitter-move",
-        "rev": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
-        "date": "2024-12-09T13:42:40-08:00",
-        "path": "/nix/store/zbhq7nx9r8j0czvb6iikbr82m71cz0sm-tree-sitter-move-f5b37f6",
-        "sha256": "0y8s5a77hfzlmc9vap2my6rdjxrgp92la59n4w48ykv4jn44ladg",
-        "hash": "sha256-rylKiJVkT48IJzYVRUW6L3fZsvFVXLUTq/Q7eI4qGnk=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
       "id": "actionscript_actionscript",
       "name": "actionscript",
       "version": "24919034fc78fdf9bedaac6616b6a60af20ab9b5",
@@ -11776,6 +11767,74 @@
         "path": "/nix/store/01k4y69x8rxqjyzn3bhrmbwivakgzlf0-tree-sitter-make-5e9e8f8",
         "sha256": "0g8k9rfmc979lza2cx5xwla1ic2p9hpvm0h2sgfs4r29kw1a2ass",
         "hash": "sha256-WiuhAp9JZKLd0wKCui9MV7AYFOW9dCbUp+kkVl1OEz0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "angular_angular",
+      "name": "angular",
+      "version": "cba288924f4832abb619c627539f111004ff22e5",
+      "src": {
+        "url": "https://github.com/dlvandenberg/tree-sitter-angular",
+        "rev": "cba288924f4832abb619c627539f111004ff22e5",
+        "date": "2025-03-05T11:44:48+01:00",
+        "path": "/nix/store/fcsmrayax6pkr8q34svxbjwga9n52lip-tree-sitter-angular-cba2889",
+        "sha256": "08405cz0amqd402qryw6ifizdmblb6ridrsg0i630d5hxr76d035",
+        "hash": "sha256-ZYBmTu6wNDBMBE/nFrNZdNX2o4uG+4wFIA1XBT4rgCA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "move_move",
+      "name": "move",
+      "version": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
+      "src": {
+        "url": "https://github.com/tzakian/tree-sitter-move",
+        "rev": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
+        "date": "2024-12-09T13:42:40-08:00",
+        "path": "/nix/store/zbhq7nx9r8j0czvb6iikbr82m71cz0sm-tree-sitter-move-f5b37f6",
+        "sha256": "0y8s5a77hfzlmc9vap2my6rdjxrgp92la59n4w48ykv4jn44ladg",
+        "hash": "sha256-rylKiJVkT48IJzYVRUW6L3fZsvFVXLUTq/Q7eI4qGnk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "latex_bibtex",
+      "name": "bibtex",
+      "version": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34",
+      "src": {
+        "url": "https://github.com/latex-lsp/tree-sitter-bibtex",
+        "rev": "ccfd77db0ed799b6c22c214fe9d2937f47bc8b34",
+        "date": "2021-03-26T15:53:50+01:00",
+        "path": "/nix/store/kyh8p0vxjpqm47mgf0l7vpcxmbx5v49p-tree-sitter-bibtex-ccfd77d",
+        "sha256": "0m7f3dkqbmy8x1bhl11m8f4p6n76wfvh99rp46zrqv39355nw1y2",
+        "hash": "sha256-wgduSxlpbJy/ITenBLfj5lhziUM1BApX6MjXhWcb7lQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "latex_latex",
+      "name": "latex",
+      "version": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
+      "src": {
+        "url": "https://github.com/latex-lsp/tree-sitter-latex",
+        "rev": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
+        "date": "2024-04-01T09:14:05Z",
+        "path": "/nix/store/h674v0z90f86isr78jzmm6xjivh42sh7-tree-sitter-latex-a6c8127",
+        "sha256": "0lcwsrfifh0l9rppr0yb6l64h2l78ai02cbck09kcjvaxv60x7il",
+        "hash": "sha256-NJ4OzO5qSzYTmGwxAaJChwpIDDXLg3xvThRAF13WnFE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
