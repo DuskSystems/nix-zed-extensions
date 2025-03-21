@@ -642,25 +642,6 @@
       "published_at": "2024-08-23T14:56:31Z"
     },
     {
-      "id": "github-dark-default",
-      "version": "1.0.8",
-      "src": {
-        "url": "https://github.com/mordfustang21/zed-github-dark",
-        "rev": "9a9045734e844a91e70e137f4dfc16f780115ed1",
-        "date": "2025-03-01T12:02:49-07:00",
-        "path": "/nix/store/cz36djr1pgdhapivd375wfdsdassjv9b-zed-github-dark-9a90457",
-        "sha256": "1g4qqr5asbzmqxby2vfih4fir2sddn3yq7q7k2dczkfsvs99q1vn",
-        "hash": "sha256-dgeckt7azc+amAcf7IdtTYscHYHRbeFXx/UvrUrGmLw=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-01T23:48:04Z"
-    },
-    {
       "id": "kotlin",
       "version": "0.1.1",
       "src": {
@@ -1022,25 +1003,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-01-30T18:15:42Z"
-    },
-    {
-      "id": "catppuccin-blur",
-      "version": "0.1.25",
-      "src": {
-        "url": "https://github.com/jenslys/zed-catppuccin-blur",
-        "rev": "bfdd170ad3dc71fbd12a514dad63474bdcd7e711",
-        "date": "2025-02-25T20:08:54+01:00",
-        "path": "/nix/store/zjn8ayflrrdp5pc10s7z5x6qm47hl271-zed-catppuccin-blur-bfdd170",
-        "sha256": "153gvq1gd05922fkd3v5d4rklmffj8wfrvcszx07cv8sv927s2j3",
-        "hash": "sha256-Qwp9RNoabXZA/5rt7DiSzlU6M2lljzadEKmA9gLeb5Q=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-18T20:15:00Z"
     },
     {
       "id": "one-dark-pro-monokai-darker",
@@ -1665,25 +1627,6 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-7/UeFWoNk3HVdRXSeXIGctYZuiDIdtOQ3AQe67EHVD4=",
       "published_at": "2025-01-08T16:17:15Z"
-    },
-    {
-      "id": "monosami",
-      "version": "0.1.1",
-      "src": {
-        "url": "https://github.com/borngraced/monosami",
-        "rev": "3a078a84198add42faacd63bbef53fa1e0129455",
-        "date": "2024-08-02T18:56:41+01:00",
-        "path": "/nix/store/9cm58gwbdgskg75rh0j6pb9ifwhvmn18-monosami-3a078a8",
-        "sha256": "08lbzc6dwnq11fw3rbkg5b3hryz0qv0n30mqwh00q1bq6pliwp4h",
-        "hash": "sha256-kFwe6TV4BQwA5LiCYcHG4PsMxypvrjy4CwFb3gz7iyI=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-08-02T18:04:07Z"
     },
     {
       "id": "vitesse",
@@ -4739,25 +4682,6 @@
       "published_at": "2024-09-30T20:30:32Z"
     },
     {
-      "id": "outrun",
-      "version": "0.0.2",
-      "src": {
-        "url": "https://github.com/Acepie/OutrunZedTheme",
-        "rev": "c1492ecb2c7b71ab339af2edb58b172294a647ee",
-        "date": "2025-02-26T21:19:45-05:00",
-        "path": "/nix/store/q406gzg2dd7nm2z9nm0jpwwzxbwsmfbw-OutrunZedTheme-c1492ec",
-        "sha256": "0d560pnk6ilk35dq6b77ar2255f5b1q478xr1ic1zldd8km1c2c2",
-        "hash": "sha256-ggkW6kSt0R9YDLmjQ3BYxZUiRFbnLINbGZNGM+0FpjQ=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-27T02:41:02Z"
-    },
-    {
       "id": "bearded",
       "version": "1.0.1",
       "src": {
@@ -6369,25 +6293,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-10-11T17:02:08Z"
-    },
-    {
-      "id": "snowfall",
-      "version": "0.1.0",
-      "src": {
-        "url": "https://github.com/freethinkel/snowfall-zed",
-        "rev": "265b04b30d0898e633ee8b73dc4d0db15f538d42",
-        "date": "2025-01-30T12:58:08+05:00",
-        "path": "/nix/store/pdqiml15qlhrc93vyg3cc2vhjvk4lfkk-snowfall-zed-265b04b",
-        "sha256": "00ski8mrabghg19cmkbdqv9z7k8xrrdvvwlmz1h5v16i4asacax9",
-        "hash": "sha256-qSumtCLRhF1g+JXyvVvOHc3z08ZtzcpSePAtlSuKUwM=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-01-30T18:56:18Z"
     },
     {
       "id": "vscode-light-plus",
@@ -8279,25 +8184,6 @@
       "published_at": "2025-03-14T21:36:58Z"
     },
     {
-      "id": "0x96f",
-      "version": "1.2.6",
-      "src": {
-        "url": "https://github.com/filipjanevski/zed-theme",
-        "rev": "2fd2ca11bed4caede55e229935d1b70f16acee70",
-        "date": "2025-03-14T16:19:05+01:00",
-        "path": "/nix/store/wkpzg1612z80sf3qyym4dym23zym8f6v-zed-theme-2fd2ca1",
-        "sha256": "1555g85fn0bfh9k0appbf7b97ffqijxcs4vdbhq96jz5w7amgij6",
-        "hash": "sha256-RsZX1eHlS5MwXG0TzbqM2LmT1nHrXgVmgm4B6wp6pZQ=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-15T13:48:56Z"
-    },
-    {
       "id": "rainbow-csv",
       "version": "1.0.0",
       "src": {
@@ -8377,25 +8263,6 @@
       ],
       "kind": "plain",
       "published_at": "2025-03-17T12:54:37Z"
-    },
-    {
-      "id": "rose-pine-theme",
-      "version": "1.2.0",
-      "src": {
-        "url": "https://github.com/rose-pine/zed",
-        "rev": "3b31395b982d025fdcc429f4d25bd5aa57647ed8",
-        "date": "2025-03-15T16:45:47-07:00",
-        "path": "/nix/store/6pbmd3f9xi5yg70vh70jpp1dq6cfk60y-zed-3b31395",
-        "sha256": "1ashar8cxn457wbd185ri8kmaxk03yzg6j43dwwh415iwz21am55",
-        "hash": "sha256-pVQVxOexBAI5b4NI874fYHZVJ4q5oNAWP4XYzlBWUKs=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-17T12:56:45Z"
     },
     {
       "id": "github-copilot-theme",
@@ -8523,6 +8390,139 @@
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-2MiwzL4fwl40g1w4R/ggP2eR9DAq5Eu9yB/Ntd/1K84=",
       "published_at": "2025-03-20T00:16:45Z"
+    },
+    {
+      "id": "github-dark-default",
+      "version": "1.0.9",
+      "src": {
+        "url": "https://github.com/mordfustang21/zed-github-dark",
+        "rev": "a353c5133fa42ede398ee35f3709a7517694fe11",
+        "date": "2025-03-20T10:01:13-06:00",
+        "path": "/nix/store/rqm0m2h5q1sfw1fh4glk5b6qg5rfj8pp-zed-github-dark-a353c51",
+        "sha256": "01vgilyc9n5r0mss0y08r5fjkk5ldaf5ks788hiir06s4z0ibzi2",
+        "hash": "sha256-Iv4VwSfagBwjROjoWZxqtMwpXckIeKB1BbnYxDyNbwc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T17:05:10Z"
+    },
+    {
+      "id": "0x96f",
+      "version": "1.3.0",
+      "src": {
+        "url": "https://github.com/filipjanevski/zed-theme",
+        "rev": "e9edf1ad307cc7d7dea0ea4d6a2bcb4c797d9e14",
+        "date": "2025-03-18T20:18:44+01:00",
+        "path": "/nix/store/w3rjylfykc55kwh5lchn7n3pamj8443d-zed-theme-e9edf1a",
+        "sha256": "1ysn9shxwvsdpvp788cjyzpbvcn5l4qb0bqx8r35xqh1vjjz14w0",
+        "hash": "sha256-gJPwpdwB4l5GRh0vsDChxbK97veSIXTuvk1v3qFOVvs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T14:51:29Z"
+    },
+    {
+      "id": "rose-pine-theme",
+      "version": "1.3.0",
+      "src": {
+        "url": "https://github.com/rose-pine/zed",
+        "rev": "9a75b1b63c06ceb0635b1371a88018116575efce",
+        "date": "2025-03-20T10:16:58-07:00",
+        "path": "/nix/store/1wdg54k45w0i9lygjb8aiy5z2cknlkrj-zed-9a75b1b",
+        "sha256": "1y1pzzklhmd08hr21923f2g6490p28h7x7kvq27z8gij064ck6mq",
+        "hash": "sha256-uJrJiAEyPvSPwHuefiASFyRinnBDpCAyRKBVSOf/N/g=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T17:44:53Z"
+    },
+    {
+      "id": "catppuccin-blur",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/jenslys/zed-catppuccin-blur",
+        "rev": "04517720ce37b2cb4f0745871b6ffddf70eaa0ca",
+        "date": "2025-03-18T19:27:36Z",
+        "path": "/nix/store/d5hgly6rmnq3bmxsq2ddjnjqp01q0m8p-zed-catppuccin-blur-0451772",
+        "sha256": "1gq34736mbb9k0ghcypdasihk1nzplncbwl23c073m1bw0xx4ks5",
+        "hash": "sha256-RU/SO+Ar1HEAG4LyxSy934YJo1btegYfmGmtasYhA78=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T14:51:03Z"
+    },
+    {
+      "id": "monosami",
+      "version": "0.1.3",
+      "src": {
+        "url": "https://github.com/borngraced/monosami",
+        "rev": "e6b6adb0b08d2f73897a7f7dc04c3f44451368c9",
+        "date": "2025-03-16T10:18:53+01:00",
+        "path": "/nix/store/m15bagp85c5x883c4wr0mqajg77nh17r-monosami-e6b6adb",
+        "sha256": "0ssmlp7yfchsx4a1w88syygjvypadzzwm720drpcvi85rl0ir5r6",
+        "hash": "sha256-JpccAc0Fxc1ubkCcyv9v6votn/caIR4U6Roy58+lVWs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T14:56:48Z"
+    },
+    {
+      "id": "outrun",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/Acepie/OutrunZedTheme",
+        "rev": "50f67dcd368b438ff6b3a7b8d92a176c55d59198",
+        "date": "2025-03-20T09:39:12-04:00",
+        "path": "/nix/store/rmf1ww9hipya2mcryy170bj0b5hjrqbn-OutrunZedTheme-50f67dc",
+        "sha256": "08bdqfgp7ccgpp810ph3riiy42dskxrm7db378kya9gakpa7nqfi",
+        "hash": "sha256-0WF71J3qJeUnOmO1U3OfugniY8wDXhDQvY+xc5/DbSE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T14:43:19Z"
+    },
+    {
+      "id": "snowfall",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/freethinkel/snowfall-zed",
+        "rev": "92120af77f1e8f72b6f225e91cff6d86cec90eab",
+        "date": "2025-03-19T22:56:38+05:00",
+        "path": "/nix/store/jp6mphl286y4cs5qd94cg5yf68dlx7yj-snowfall-zed-92120af",
+        "sha256": "01wzf5wjnqxxvrhy2y18z19c8jkcfrsrpn4li3z0qqyrv7hz3gi9",
+        "hash": "sha256-Kb7x4dnZYwz+iJTYm3V2bErEUvgoeOFh3r1jK3lxnwc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-20T14:44:44Z"
     }
   ],
   "grammars": [
