@@ -23,10 +23,6 @@ But:
 ```nix
 {
   inputs = {
-    nixpkgs = {
-      url = "github:NixOS/nixpkgs/nixos-24.11";
-    };
-
     zed-extensions = {
       url = "github:DuskSystems/nix-zed-extensions";
     };

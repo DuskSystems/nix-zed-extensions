@@ -15,13 +15,16 @@ tokio = { version = "1.44", features = ["full"] }
 futures = "0.3"
 
 # WASM
-wasmparser = "0.226"
+wasmparser = "0.227"
 
 # CLI
 clap = { version = "4.5", features = ["derive"] }
 
 # HTTP
-reqwest = { version = "0.11", default-features = false, features = ["rustls-tls", "json"] }
+reqwest = { version = "0.12", default-features = false, features = [
+  "rustls-tls",
+  "json",
+] }
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }

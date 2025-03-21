@@ -73,7 +73,10 @@ clangStdenv.mkDerivation {
   meta = {
     description = "WASI SDK for compiling C/C++ to WebAssembly.";
     homepage = "https://github.com/WebAssembly/wasi-sdk";
-    license = lib.licenses.asl20-llvm;
+    license = [
+      lib.licenses.asl20
+      lib.licenses.llvm-exception
+    ];
     platforms = lib.platforms.all;
   };
 }

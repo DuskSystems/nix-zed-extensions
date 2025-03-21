@@ -24,8 +24,8 @@ rustPlatform.buildRustPackage rec {
     description = "Command line linker for creating WebAssembly components.";
     homepage = "https://github.com/bytecodealliance/wasm-component-ld";
     license = [
-      lib.licenses.asl20-llvm
       lib.licenses.asl20
+      lib.licenses.llvm-exception
       lib.licenses.mit
     ];
     platforms = lib.platforms.all;
