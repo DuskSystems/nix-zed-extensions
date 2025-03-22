@@ -1728,25 +1728,6 @@
       "published_at": "2024-08-19T15:19:48Z"
     },
     {
-      "id": "vscode-great-icons",
-      "version": "0.2.1",
-      "src": {
-        "url": "https://github.com/randazraik/zed-vscode-great-icons",
-        "rev": "688c21be298fa474724cefd7830ff9e2845c5c9c",
-        "date": "2025-02-19T21:13:59+02:00",
-        "path": "/nix/store/c7irbn4gqh3na4qlb3piybkwkkzgp5m7-zed-vscode-great-icons-688c21b",
-        "sha256": "12b756sa5ani6i2m0jzz9hf3py825qi0y5varsyj4qpi42mcspqq",
-        "hash": "sha256-GF/NqiDxYiK9zmoXDyIuAvk7HEz/S1BFNNGqorQpZ4k=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-02-19T23:14:12Z"
-    },
-    {
       "id": "nu",
       "version": "0.0.6",
       "src": {
@@ -8523,6 +8504,25 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-20T14:44:44Z"
+    },
+    {
+      "id": "vscode-great-icons",
+      "version": "0.2.2",
+      "src": {
+        "url": "https://github.com/randazraik/zed-vscode-great-icons",
+        "rev": "b32c34fe302181348abc74d081017f273b73ba9b",
+        "date": "2025-03-21T13:22:17+02:00",
+        "path": "/nix/store/m8c2rj0wz797jqw8q8mnky3dhc9rdamq-zed-vscode-great-icons-b32c34f",
+        "sha256": "0cxc988p3f1j52qwv66hca08h7n2w79lrm09rp6j957gvgir8j53",
+        "hash": "sha256-o0iU49vvlCTNzQnUTNPhwh6IgGLQmM2xKDK4cRFKrDM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-21T14:08:23Z"
     }
   ],
   "grammars": [
