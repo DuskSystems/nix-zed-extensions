@@ -147,6 +147,8 @@ async fn main() -> anyhow::Result<()> {
             }
 
             tracing::info!("Writing output");
+            output.extensions.sort_by(|a, b| a.id.cmp(&b.id));
+            output.grammars.sort_by(|a, b| a.id.cmp(&b.id));
             let output = serde_json::to_string_pretty(&output)?;
             fs::write(output_path, output).await?;
         }

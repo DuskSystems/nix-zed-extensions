@@ -110,6 +110,7 @@ pub async fn process_extension(
     };
 
     fs::remove_dir_all(&tmp_repo).await?;
+    grammars.sort_by(|a, b| a.id.cmp(&b.id));
 
     Ok(Some((
         Extension {
