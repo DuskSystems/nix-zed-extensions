@@ -255,29 +255,6 @@
       "published_at": "2025-02-25T01:49:06Z"
     },
     {
-      "id": "scss",
-      "version": "0.0.4",
-      "src": {
-        "url": "https://github.com/bajrangCoder/zed-scss",
-        "rev": "6ad02c1f6d83f78adc7c5375020ceee0016fd21a",
-        "date": "2024-08-31T22:05:00+05:30",
-        "path": "/nix/store/89zilbpnhpzl1rf03c95pi64s1s2y8ha-zed-scss-6ad02c1",
-        "sha256": "1b2qrs581h2y8xlgzxjwxdi6miglskhl613i98j3j9ljrnynnvh7",
-        "hash": "sha256-B25rvc2SJjkkSnEEQ+HU9MVqYutc9v9oR17AgIrOWKw=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "scss_scss"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-Sd/CXE6+uExDSyPZM4sgjSJzrThMihPQKdL7nMF8ESU=",
-      "published_at": "2024-09-02T22:39:04Z"
-    },
-    {
       "id": "docker-compose",
       "version": "0.3.1",
       "src": {
@@ -1274,29 +1251,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-02-03T16:58:12Z"
-    },
-    {
-      "id": "blade",
-      "version": "0.0.4",
-      "src": {
-        "url": "https://github.com/bajrangCoder/zed-laravel-blade",
-        "rev": "6cb93bf20e10e3370bd270f5bccf0d641d2b9696",
-        "date": "2025-02-21T18:11:57+05:30",
-        "path": "/nix/store/5wdwh7ayv91a2dvvkp3ccsv3ad9pcm7g-zed-laravel-blade-6cb93bf",
-        "sha256": "1q5jzf80rfypxkv8rwa8hwv1rxvp3a647cv8fski97fj6v53lh4p",
-        "hash": "sha256-l0A6yjbSnRSndmizQ4wad/ccNodI8Yz27Ne7DJD7suA=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [
-        "blade_blade"
-      ],
-      "kind": "rust",
-      "useFetchCargoVendor": true,
-      "cargoHash": "sha256-ByEAOwPhkPN9dfh0nLIgawjFilNuN7i3S8T/FL1X0Ug=",
-      "published_at": "2025-02-21T20:26:52Z"
     },
     {
       "id": "julia",
@@ -2360,25 +2314,6 @@
       "published_at": "2024-12-27T15:35:01Z"
     },
     {
-      "id": "min-theme",
-      "version": "0.1.10",
-      "src": {
-        "url": "https://github.com/phibr0/zed-min-theme",
-        "rev": "f114d9b3a5e82c8651e8e64f836b38a8262f3a2a",
-        "date": "2025-03-01T08:57:05+01:00",
-        "path": "/nix/store/aj9zl8pfi3124wkjvgxsy60j044nn35x-zed-min-theme-f114d9b",
-        "sha256": "0glxz0ywfy62l2b6mbm1zbbi6i44g5kf64y7j4rix2dswr6882fm",
-        "hash": "sha256-1QmETOa6iR4zkccT42Z5hEQT1/qhrmqWoMJ4xz34nT4=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2025-03-05T16:10:04Z"
-    },
-    {
       "id": "elm",
       "version": "0.1.0",
       "src": {
@@ -3114,25 +3049,6 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-09-09T15:35:50Z"
-    },
-    {
-      "id": "sublime-mariana-theme",
-      "version": "1.1.1",
-      "src": {
-        "url": "https://github.com/hnatiukr/zed-mariana-theme",
-        "rev": "bbd160fd88282f6c1c61715d1883e0ac23c4a02e",
-        "date": "2025-02-24T16:48:44+01:00",
-        "path": "/nix/store/5hjggw8vbv96z2d2vqfwgk06b6zh7vkj-zed-mariana-theme-bbd160f",
-        "sha256": "1y8akxhdakqlsfpkziwh4lljwl59x2hx7npg0pzygsamb8bj6dyc",
-        "hash": "sha256-zDcjF1pV6ef/Be/a06HoqVAuKSWQxz+v0xRP1WCfCvk=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-09-10T15:38:05Z"
     },
     {
       "id": "unocss",
@@ -5033,25 +4949,6 @@
       "published_at": "2025-01-12T20:30:49Z"
     },
     {
-      "id": "nebula-pulse",
-      "version": "0.0.4",
-      "src": {
-        "url": "https://github.com/foxoman/nebula-pulse-zed-theme",
-        "rev": "272776f1e9c4ab391bc02fdf401df760281b9202",
-        "date": "2025-03-07T19:42:39+04:00",
-        "path": "/nix/store/lcm33xkgj2ch5pajw978v714xkvk754r-nebula-pulse-zed-theme-272776f",
-        "sha256": "1zs69p1k3vfnfys7dd8chm87jhyc8xwsnyg571aafd0xhngy48dp",
-        "hash": "sha256-tyHin4UdNKdUOOV5q3lHzEN5UIUMtXa0d9btMcNNRv8=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-09-09T15:30:23Z"
-    },
-    {
       "id": "monokai-vibrant-amped",
       "version": "0.0.2",
       "src": {
@@ -5716,25 +5613,6 @@
       ],
       "kind": "plain",
       "published_at": "2024-07-30T16:13:00Z"
-    },
-    {
-      "id": "batman",
-      "version": "0.0.1",
-      "src": {
-        "url": "https://github.com/devzaidi/batman-theme-zed",
-        "rev": "65c1a3bb32df783d89c977549fba694a492e5d80",
-        "date": "2024-10-12T20:32:19+05:00",
-        "path": "/nix/store/h8bfqbwgszsi88drrv2a9gc9lkacvbya-batman-theme-zed-65c1a3b",
-        "sha256": "10v3hja42ia39g6kljn9w61g5d0b99d2j9klp5qaplmaazihj4qk",
-        "hash": "sha256-ExMJ41eq0qtwuXQmKVpKC7TyguHJSjrNS0NFQZSEY4M=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "grammars": [],
-      "kind": "plain",
-      "published_at": "2024-10-13T20:50:26Z"
     },
     {
       "id": "decorative-stitch",
@@ -8523,6 +8401,128 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2025-03-21T14:08:23Z"
+    },
+    {
+      "id": "scss",
+      "version": "0.0.5",
+      "src": {
+        "url": "https://github.com/bajrangCoder/zed-scss",
+        "rev": "b0774d22a5596f8a6ca76fea57c264455d615fce",
+        "date": "2025-03-23T11:42:17+05:30",
+        "path": "/nix/store/sf93s0pjgwwdavbn71z7p34j0hr4szwh-zed-scss-b0774d2",
+        "sha256": "13nbv6zw7x8k6kzmwkwyyrs5igzv82pwn89hvkxk0l3iqip2akiw",
+        "hash": "sha256-PE4lbsRxUDD73DAhy69A+79YdPaeT17/NBP1w7/Zy44=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "scss_scss"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-Sd/CXE6+uExDSyPZM4sgjSJzrThMihPQKdL7nMF8ESU=",
+      "published_at": "2025-03-23T18:18:41Z"
+    },
+    {
+      "id": "sublime-mariana-theme",
+      "version": "1.1.1",
+      "src": {
+        "url": "https://github.com/hnatiukr/zed-mariana-theme",
+        "rev": "b9c3baa4d2b89143cceed72a359ae3b2a5f1aaaf",
+        "date": "2025-03-22T14:31:22+01:00",
+        "path": "/nix/store/acam1mjc9hrvrhh5wm6sbrdrr6i3wr5k-zed-mariana-theme-b9c3baa",
+        "sha256": "1287zajqmjdprmi8827kyqnj3ixgl13dr086yycknhiipm05xvci",
+        "hash": "sha256-ke1eQL0xQjuZ9waB3Eagr8chLfbzCIRizbfJiqX6B4k=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-23T18:09:02Z"
+    },
+    {
+      "id": "min-theme",
+      "version": "0.1.11",
+      "src": {
+        "url": "https://github.com/phibr0/zed-min-theme",
+        "rev": "b40addf925c6c3c04174e4f20a635cb16a483783",
+        "date": "2025-03-23T13:44:55+01:00",
+        "path": "/nix/store/g58hw26a5nc1m524g9nc490j64y1s0wx-zed-min-theme-b40addf",
+        "sha256": "0ss2bkx3j6y6pzxvck9hv30xryb43qjkli1fj23hs2rag9qpiy6g",
+        "hash": "sha256-z/h4cXoqCw2HkC5EOiUeZPncwdgwTbb7v8YbOfpcQms=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-23T18:04:17Z"
+    },
+    {
+      "id": "nebula-pulse",
+      "version": "0.0.5",
+      "src": {
+        "url": "https://github.com/foxoman/nebula-pulse-zed-theme",
+        "rev": "a833d8779dce3eb2588f817cdc2a07f7e24e003c",
+        "date": "2025-03-23T22:37:42+04:00",
+        "path": "/nix/store/i8fw5f5w27m2hap4bz9m9jwbwba91x6x-nebula-pulse-zed-theme-a833d87",
+        "sha256": "1pr50n9vn2yivqhys814arivd74wg1j8vmrm2zr23z37m8r6xcwz",
+        "hash": "sha256-n7NuMqpn/CHyFzXXjWR4nJy2Y1YkIO0h3tELu5MFJd8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-23T18:05:52Z"
+    },
+    {
+      "id": "blade",
+      "version": "0.0.5",
+      "src": {
+        "url": "https://github.com/bajrangCoder/zed-laravel-blade",
+        "rev": "86aef374a3afccdb44be2bab68b9811de3e4a51c",
+        "date": "2025-03-23T11:50:34+05:30",
+        "path": "/nix/store/fxgkxwyhar47cj0yp7c544ac55yvj97q-zed-laravel-blade-86aef37",
+        "sha256": "0mih26r0s788dh2f3jvmrpvaf3jba9sss43wg4w5q7wlxzhf3ahh",
+        "hash": "sha256-EKrh4O+UH1w4eXwQrXVSSw6n9s11y+EEbAgdDbIRMFY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "blade_blade"
+      ],
+      "kind": "rust",
+      "useFetchCargoVendor": true,
+      "cargoHash": "sha256-ByEAOwPhkPN9dfh0nLIgawjFilNuN7i3S8T/FL1X0Ug=",
+      "published_at": "2025-03-23T18:20:06Z"
+    },
+    {
+      "id": "batman",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/devzaidi/batman-theme-zed",
+        "rev": "853894cbe1f8d40ced25212b921bf7beb48e29e9",
+        "date": "2025-03-23T15:45:06+05:00",
+        "path": "/nix/store/wihcdgq274sdsdh21dycch44alcwls1z-batman-theme-zed-853894c",
+        "sha256": "0xr39yfnffywwxgwyscdn7nm490gdya37dy6gvk2jn7xmibpcv84",
+        "hash": "sha256-BG12V6z9WCnmfsa3M5RvDyRS7bGNac9f59w7Z51PI3c=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-23T18:40:44Z"
     }
   ],
   "grammars": [
@@ -8741,23 +8741,6 @@
         "path": "/nix/store/hsxcb1mrldywp8zvc0n4ir5iv7axr6gq-tree-sitter-log-62cfe30",
         "sha256": "11fw43bavs6wbwcv6j7p7yp0z72inf7l9bca30pjcdx9vy57dwwn",
         "hash": "sha256-lvN2it+pNyYvGIqtRI+zUZwPrj/3SLMZX9zordYg3IU=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "scss_scss",
-      "name": "scss",
-      "version": "9ab738d22bb248771d42e8678d1a307d14990df1",
-      "src": {
-        "url": "https://github.com/tree-sitter-grammars/tree-sitter-scss",
-        "rev": "9ab738d22bb248771d42e8678d1a307d14990df1",
-        "date": "2024-04-26T14:19:13+03:00",
-        "path": "/nix/store/gpj67iwp7gppql7sb6ci319fixd5zx38-tree-sitter-scss-9ab738d",
-        "sha256": "1s0yd5wwgwwm8qncpws89nlw22rw8bhyd99c321pv8im8m54h6dq",
-        "hash": "sha256-uBlISkU1on2DGCyl5uFCPAvBqU1I88ssRpXzx3lpHug=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9149,23 +9132,6 @@
         "path": "/nix/store/90msj0bh4jxdjv9jd7zb9wrv1p2a89y0-tree-sitter-clojure-38b4f8d",
         "sha256": "0hnq1p51h9pyzvcslp1n7nssqb89rb76kxlxjkmc1i89rag88hqz",
         "hash": "sha256-H0OEnsoJxcDqlJ32ac7KCS2stT02XKrZ/v4mGMoN2EI=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "blade_blade",
-      "name": "blade",
-      "version": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
-      "src": {
-        "url": "https://github.com/EmranMR/tree-sitter-blade",
-        "rev": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
-        "date": "2024-12-09T12:06:52Z",
-        "path": "/nix/store/byllx0zxcajzz0akg76j6v0qbwglrhra-tree-sitter-blade-47baa7b",
-        "sha256": "0z09n0k3m8fcw3g4xh1h21jk3viivxfcg23ccid7x19aag518x1p",
-        "hash": "sha256-N3QUylMqhX5aZGyIx1zfMe4xZRAwwE7e4MyhOiawCXw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11835,6 +11801,40 @@
         "path": "/nix/store/h674v0z90f86isr78jzmm6xjivh42sh7-tree-sitter-latex-a6c8127",
         "sha256": "0lcwsrfifh0l9rppr0yb6l64h2l78ai02cbck09kcjvaxv60x7il",
         "hash": "sha256-NJ4OzO5qSzYTmGwxAaJChwpIDDXLg3xvThRAF13WnFE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "scss_scss",
+      "name": "scss",
+      "version": "9ab738d22bb248771d42e8678d1a307d14990df1",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-scss",
+        "rev": "9ab738d22bb248771d42e8678d1a307d14990df1",
+        "date": "2024-04-26T14:19:13+03:00",
+        "path": "/nix/store/gpj67iwp7gppql7sb6ci319fixd5zx38-tree-sitter-scss-9ab738d",
+        "sha256": "1s0yd5wwgwwm8qncpws89nlw22rw8bhyd99c321pv8im8m54h6dq",
+        "hash": "sha256-uBlISkU1on2DGCyl5uFCPAvBqU1I88ssRpXzx3lpHug=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "blade_blade",
+      "name": "blade",
+      "version": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
+      "src": {
+        "url": "https://github.com/EmranMR/tree-sitter-blade",
+        "rev": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
+        "date": "2024-12-09T12:06:52Z",
+        "path": "/nix/store/byllx0zxcajzz0akg76j6v0qbwglrhra-tree-sitter-blade-47baa7b",
+        "sha256": "0z09n0k3m8fcw3g4xh1h21jk3viivxfcg23ccid7x19aag518x1p",
+        "hash": "sha256-N3QUylMqhX5aZGyIx1zfMe4xZRAwwE7e4MyhOiawCXw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
