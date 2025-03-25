@@ -1723,14 +1723,14 @@
     },
     {
       "id": "dart",
-      "version": "0.1.3",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/dart",
-        "rev": "c40da8167a59bd4090b817079a26b410785962fc",
-        "date": "2024-10-30T11:04:11-04:00",
-        "path": "/nix/store/6ymv0nr5r8m8i7dc6jdrmlfarqpna8hg-dart-c40da81",
-        "sha256": "0iqw4fzhjxcgpk5bh8pzf1f84v8bc2n98mh6sgy05cximc4q5zp4",
-        "hash": "sha256-5P6CCauxswL80wZWlKxgC22CXHD/IrjKvI91Cb8jHEc=",
+        "rev": "4b93c2e7e13cac173ee66ac06650369fcb46cc2d",
+        "date": "2025-03-24T13:43:31-04:00",
+        "path": "/nix/store/law4k2ca514dhahwy7zgsx1y11hrlmqd-dart-4b93c2e",
+        "sha256": "0g52vanf21cb68phqsf751cw74zjcbznyqfz1nw2kjv1yywb40a3",
+        "hash": "sha256-QwGyuPdhyym4Dd9hb/9i8pPDWSjHaQwvMosF4azaojw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1741,8 +1741,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-5dUNBfxHnvbYvn5zoJNgogw8/Jr1NUxKQnHoAfsKn9w=",
-      "published_at": "2024-10-30T15:13:00Z"
+      "cargoHash": "sha256-kidFVlpaeu/Lwfudb5UMQbF6BhQH/+rSdnq297wA4A0=",
+      "published_at": "2025-03-24T17:47:27Z"
     },
     {
       "id": "dbml",
@@ -2055,27 +2055,27 @@
     },
     {
       "id": "elixir",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
-        "rev": "cf9a67694291a9e31a73d53654d9f1ae2b9f56ed",
-        "date": "2025-03-05T17:22:41-05:00",
-        "path": "/nix/store/b68r78iw2nppz1wpivf3iqk2v8nffm8g-elixir-cf9a676",
-        "sha256": "104gfvapjiqllkf229f52av0s2vzkkn4ikzn0hnq1rmrw9rsz7gv",
-        "hash": "sha256-+52vc+K55oAtBPbPSOycfwsNthLFJSHcpBRHedV2j4A=",
+        "rev": "440f85f77e4a7e39ebaf790d435996bdcf9a6168",
+        "date": "2025-03-24T11:36:53-04:00",
+        "path": "/nix/store/ws2pg04hhjpg8nhpmp7qx5hzqj3b8ihx-elixir-440f85f",
+        "sha256": "0xgmm636w6lr04b814fdhf9xq1jhxq1ismghwnlspqylqm702jgk",
+        "hash": "sha256-80kBTsXU46up5fBVHQPuUAbck4PNkYAWAZkaboap9XU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "elixir_heex",
-        "elixir_elixir"
+        "elixir_elixir",
+        "elixir_heex"
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-CjvlJsb63axxOLqwmyaB+rTFdhGRkXQrbGH2Cu0k+zs=",
-      "published_at": "2025-03-06T15:34:14Z"
+      "cargoHash": "sha256-kMp7l2k6WKHPtSTO4Ey+9BZPSi1+Bf4YNK+PNkdr3BI=",
+      "published_at": "2025-03-24T16:06:35Z"
     },
     {
       "id": "elm",
@@ -9158,14 +9158,14 @@
     {
       "id": "dart_dart",
       "name": "dart",
-      "version": "6da46473ab8accb13da48113f4634e729a71d335",
+      "version": "80e23c07b64494f7e21090bb3450223ef0b192f4",
       "src": {
         "url": "https://github.com/UserNobody14/tree-sitter-dart",
-        "rev": "6da46473ab8accb13da48113f4634e729a71d335",
-        "date": "2024-04-07T18:27:24-06:00",
-        "path": "/nix/store/65d3pj64rzwyrrkyfvr6isprp2fbsplj-tree-sitter-dart-6da4647",
-        "sha256": "1jxz4s0j8pmjxl7cz7s9blzqhr1w5jannxihidqrd6dqxawc6gh1",
-        "hash": "sha256-AT7DuOq4mZZxizB2a5UsPGSIP11Jn88O7bJeJIEmv8s=",
+        "rev": "80e23c07b64494f7e21090bb3450223ef0b192f4",
+        "date": "2025-02-28T15:18:07-07:00",
+        "path": "/nix/store/xh0k0383fgfajx3wlpiwxifz302sqch7-tree-sitter-dart-80e23c0",
+        "sha256": "00wzdgmi6kph4lk988brpy03j43a8vvfcjx9plnnnk07a14l3hbc",
+        "hash": "sha256-bMFBSVAHTGstvalL5vZGahA5gL95IZQmJfBOE+trnwM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
