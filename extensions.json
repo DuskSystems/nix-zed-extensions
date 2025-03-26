@@ -631,14 +631,14 @@
     },
     {
       "id": "biome",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/biomejs/biome-zed",
-        "rev": "25d93ca46d6e78d60941fa7c6c04dfd2bbdf9022",
-        "date": "2025-02-11T14:49:42+01:00",
-        "path": "/nix/store/dafj5fkjm7068khqwjxshg9xrd1hib5l-biome-zed-25d93ca",
-        "sha256": "1df74nx7rmdzgmlaanrs8r4gp4hw96xcjgfijw10p455js56z5vw",
-        "hash": "sha256-fJdvipalkAsCl9E9ybpJHJL7SEY6W6Vofb/VfLolx7U=",
+        "rev": "ec21fc24471bb60d64e2a4da2ad70efa5505657f",
+        "date": "2025-03-25T11:20:48Z",
+        "path": "/nix/store/5nla16ayzcpry1szxl3pm7msc9d7b903-biome-zed-ec21fc2",
+        "sha256": "04jpkvf5zyk3sw4ivbs22c5ggzp7l7bmr2lcvfk2dvzhnn8l9sph",
+        "hash": "sha256-8OpEkbXw7yam24yKXNeh5/73ChNCrx0J12P6X9yeVxI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -647,19 +647,19 @@
       "grammars": [],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-IDo70GYTcZ57qtxeuv0I7XgYL3JwRbIUkl1fUj3tUPg=",
-      "published_at": "2025-02-15T16:37:42Z"
+      "cargoHash": "sha256-8x3FQ0j7QHnCIAMS6OVTn/f+CdJotN1qVnkowdL9GhI=",
+      "published_at": "2025-03-25T15:02:31Z"
     },
     {
       "id": "blackfox",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/matejcerny/BlackFoxZed",
-        "rev": "a3b091b48caabf6fbf219aa6eca080365831f71c",
-        "date": "2025-02-27T10:59:34+01:00",
-        "path": "/nix/store/p12pshvd6gazq9aac161ixrz85d2bxbg-BlackFoxZed-a3b091b",
-        "sha256": "0fnxpznba3679iscrvwd6bn9rmlmd6sjp6b7qmi6yykaf6i00x9n",
-        "hash": "sha256-NnUAonFqem9ixWeZK7Vpldac7DKN78x0TMcMtey/3To=",
+        "rev": "0dcf34b1b3ec7b9b6ba3002ab26611489ae4fd6d",
+        "date": "2025-03-25T15:11:26+01:00",
+        "path": "/nix/store/a5w4f5zbh2xr1byrnv62ch0w5n8cmbwx-BlackFoxZed-0dcf34b",
+        "sha256": "1bqv6g42gcifyf8l08n8r6yx2vvw8nz3538wd3pvsm1gdqwf516a",
+        "hash": "sha256-yoTiOG4vVL3vaByNMr5FfG/RvcnIIkCR8y6yJ8gzG68=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -667,7 +667,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-02-27T16:38:55Z"
+      "published_at": "2025-03-25T15:03:58Z"
     },
     {
       "id": "blackula",
@@ -5718,6 +5718,25 @@
       "grammars": [],
       "kind": "plain",
       "published_at": "2024-12-16T21:37:16Z"
+    },
+    {
+      "id": "phosphor-icons-theme",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/theoluciano/phosphor-icons-theme",
+        "rev": "afef7ddf3418d23e23d902cf26527f087d79cfa6",
+        "date": "2025-03-25T09:16:05-04:00",
+        "path": "/nix/store/mcfxzyz7zh1f6lm0f76nr6dffzd8y00b-phosphor-icons-theme-afef7dd",
+        "sha256": "004f3mf27mc78w2bqla84dk9v6jd2kp0m4npn7zwckck3cfh96y8",
+        "hash": "sha256-yJsEHRuTTcb/sdeSCu4UTZqdZiNIUbwER4fVI1wdjgA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain",
+      "published_at": "2025-03-25T13:58:50Z"
     },
     {
       "id": "php",
