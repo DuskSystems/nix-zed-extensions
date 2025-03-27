@@ -330,14 +330,14 @@
     },
     {
       "id": "astro",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/zed-extensions/astro",
-        "rev": "20154fc465f109d9b5a69be043de173f60198159",
-        "date": "2025-03-11T16:25:33-05:00",
-        "path": "/nix/store/cm51fx6zi02vbvi0ryci6xyq1xvc4p3b-astro-20154fc",
-        "sha256": "10c2b8zj903783id0zrk8rssv2zvvpjvl534w019czw2c3f3bn3s",
-        "hash": "sha256-etg13GCCf5YC4GQUuuXd+4utdUYzf9DiQGeAJD9agoE=",
+        "rev": "fea68d6702ddbfbf73c6a1252f178ada5523b822",
+        "date": "2025-03-26T11:16:57-04:00",
+        "path": "/nix/store/zp43ha7ak1i64hyspxj1d822sskw586y-astro-fea68d6",
+        "sha256": "05mfrlv6zzfn1h15yzwh36fdpl352rll89bl39g5aqj3g8mg78h4",
+        "hash": "sha256-BKLzKnpDYlVeGnQlRGkWZdDbnBmQf18CDNb9bzbNrhY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -348,8 +348,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-Jp68T9mnJa7P6FXWJNSZGXczTp77crQJJZUTGctS1/Q=",
-      "published_at": "2025-03-12T00:02:08Z"
+      "cargoHash": "sha256-OOnqOF5mU3+kQ+IZ8XpHq25pqIEwrPInBjCWVfSsyHQ=",
+      "published_at": "2025-03-26T15:20:11Z"
     },
     {
       "id": "atomize",
@@ -993,14 +993,14 @@
     },
     {
       "id": "catppuccin-icons",
-      "version": "1.18.0",
+      "version": "1.19.0",
       "src": {
         "url": "https://github.com/catppuccin/zed-icons",
-        "rev": "09aaa913b982540b48701818f216e998bf385df0",
-        "date": "2025-02-24T13:25:14-08:00",
-        "path": "/nix/store/45697vrp81klvz6j4z0isgm44z6lcn3k-zed-icons-09aaa91",
-        "sha256": "1rfy5ml4cqcadj67bsr4jjv272giri7n0vc2jy6p6ai59rf696sk",
-        "hash": "sha256-U5tkXE4lKnONl4JtYE/M8YkjtpQk63WMbIphRmgt3uU=",
+        "rev": "9b64f88b0a33c5f3b99c0040d62525bb44664484",
+        "date": "2025-03-21T22:50:37-07:00",
+        "path": "/nix/store/hm4qn1mii2qr6d8sqs44lax4ahx0nxy3-zed-icons-9b64f88",
+        "sha256": "1icycn1ndxdr3kv1smk0y0jr2g4a05gni1ja0lmijjkjybshhbnm",
+        "hash": "sha256-1S4I9fJyShkrBUqGaF8BijyRJfBgVh32HLn1ZoNlnsU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1008,7 +1008,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-02-25T12:48:14Z"
+      "published_at": "2025-03-26T20:26:01Z"
     },
     {
       "id": "cedar",
@@ -1420,27 +1420,27 @@
     },
     {
       "id": "crystal",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/crystal-lang-tools/zed-crystal",
-        "rev": "830c6f92cadec226bd060e2b5275a80a9ddde927",
-        "date": "2025-02-15T04:46:15-05:00",
-        "path": "/nix/store/rywxkh0dmhzzsx0r31gv6a91dirf9s73-zed-crystal-830c6f9",
-        "sha256": "1hg6cx5a9vcqdqfzw9jb3yyqmvq7kq9m6wswibjjc1i655am2mh5",
-        "hash": "sha256-BVZRVSkmBiblilxzUxOeB++KvR9LJv4dbpjtpEpn5sE=",
+        "rev": "f6c173593433bd2be929a5cedf7b9088c666cfdc",
+        "date": "2025-03-26T05:23:17-04:00",
+        "path": "/nix/store/f9fhrmg3jmhq2v251m9p2c58x6jm5s6j-zed-crystal-f6c1735",
+        "sha256": "0hkvhvmbrri02sscrfx6vl31k2b0n3kir2r6jlyzmh255a7yh4ij",
+        "hash": "sha256-MhLojypFwPo9lSaLHOewYIkZBt2mu8y0FiDmvOqGe0I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "crystal_ecr",
-        "crystal_crystal"
+        "crystal_crystal",
+        "crystal_ecr"
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-ukXeOx+aVSPBbk6zyXZ3MGnnt0hOeJnxcOnYOHf7JIw=",
-      "published_at": "2025-02-12T18:13:05Z"
+      "cargoHash": "sha256-CRXMdzZo4noLT1Txxa1JgNVo/cBkNvuvQX6UUYLGc7Y=",
+      "published_at": "2025-03-26T15:30:55Z"
     },
     {
       "id": "crystal-theme",
@@ -8973,14 +8973,14 @@
     {
       "id": "crystal_crystal",
       "name": "crystal",
-      "version": "cd3ae0751a58bca9fe875e580102578f5228a5a1",
+      "version": "2af0dc12e65b98ea4c9737f645776277ef8d8f55",
       "src": {
         "url": "https://github.com/crystal-lang-tools/tree-sitter-crystal",
-        "rev": "cd3ae0751a58bca9fe875e580102578f5228a5a1",
-        "date": "2025-02-03T18:35:40-05:00",
-        "path": "/nix/store/i69il71123vhxjycdj4v6xqpycqrnw52-tree-sitter-crystal-cd3ae07",
-        "sha256": "1ayanzsrnbf700j21amd3y5a59bmjcy6vzm254wr1l4m3mch7jwk",
-        "hash": "sha256-k8sDWR2V0JA5KaL+bTyTdaWiih+tqiAkAMctm/W3yqs=",
+        "rev": "2af0dc12e65b98ea4c9737f645776277ef8d8f55",
+        "date": "2025-03-23T17:32:24-04:00",
+        "path": "/nix/store/3v71wq85ynw49a8minvdsalmdsg0snw3-tree-sitter-crystal-2af0dc1",
+        "sha256": "1a7ybg3kgyaykpv19l0g0rszl3c2k66iq6q79v4xj84igkjkv2vf",
+        "hash": "sha256-bos95XyRINnJTgcbHI2Zgg36dQYP0BT2nV75N8db/qg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
