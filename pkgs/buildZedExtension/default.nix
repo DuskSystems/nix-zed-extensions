@@ -52,33 +52,33 @@ buildZedExtension (
     installPhase = ''
       runHook preInstall
 
-      mkdir -p $out/extensions/installed/${name}
+      mkdir -p $out/share/zed/extensions/${name}
 
       # Manifest
-      cp extension.toml $out/extensions/installed/${name}
+      cp extension.toml $out/share/zed/extensions/${name}
 
       # WASM
       if [ -f "extension.wasm" ]; then
-        cp extension.wasm $out/extensions/installed/${name}
+        cp extension.wasm $out/share/zed/extensions/${name}
       fi
 
       # Grammars
       ${lib.concatMapStrings (grammar: ''
-        mkdir -p $out/extensions/installed/${name}/grammars
-        cp -r ${grammar}/grammars/* $out/extensions/installed/${name}/grammars
+        mkdir -p $out/share/zed/extensions/${name}/grammars
+        cp -r ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
       '') grammars}
 
       # Assets
       for DIR in themes icons icon_themes languages; do
         if [ -d "$DIR" ]; then
-          mkdir -p $out/extensions/installed/${name}/$DIR
-          cp -r $DIR/* $out/extensions/installed/${name}/$DIR
+          mkdir -p $out/share/zed/extensions/${name}/$DIR
+          cp -r $DIR/* $out/share/zed/extensions/${name}/$DIR
         fi
       done
 
       # Snippets
       if [ -f "snippets.json" ]; then
-        cp snippets.json $out/extensions/installed/${name}
+        cp snippets.json $out/share/zed/extensions/${name}
       fi
 
       runHook postInstall

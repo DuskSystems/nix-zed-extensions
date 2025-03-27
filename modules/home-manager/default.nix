@@ -129,18 +129,20 @@ in
       }
     );
 
-    xdg.dataFile."zed" = lib.mkIf (cfg.extensions != [ ]) {
-      recursive = true;
-      source = pkgs.symlinkJoin {
-        name = "zed-extensions-combined";
-        paths = cfg.extensions;
-      };
-    };
-
     xdg.configFile."zed/keymap.json" = (
       mkIf (cfg.userKeymaps != { }) {
         source = jsonFormat.generate "zed-user-keymaps" cfg.userKeymaps;
       }
     );
+
+    xdg.dataFile."zed/extensions/installed" = lib.mkIf (cfg.extensions != [ ]) {
+      recursive = true;
+      source = pkgs.runCommand "zed-extensions-installed" { } ''
+        mkdir -p $out
+        ${lib.concatMapStringsSep "\n" (ext: ''
+          ln -s ${ext}/share/zed/extensions/* $out
+        '') cfg.extensions}
+      '';
+    };
   };
 }

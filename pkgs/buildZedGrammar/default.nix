@@ -23,7 +23,7 @@ stdenvNoCC.mkDerivation (
     buildPhase = ''
       runHook preBuild
 
-      mkdir -p $out/grammars
+      mkdir -p $out/share/zed/grammars
 
       SRC="src/parser.c"
       if [ -f src/scanner.c ]; then
@@ -37,7 +37,7 @@ stdenvNoCC.mkDerivation (
         -shared \
         -Os \
         -Wl,--export=tree_sitter_${name} \
-        -o $out/grammars/${name}.wasm \
+        -o $out/share/zed/grammars/${name}.wasm \
         -I src \
         $SRC
 
