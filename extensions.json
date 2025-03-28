@@ -2055,14 +2055,14 @@
     },
     {
       "id": "elixir",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
-        "rev": "440f85f77e4a7e39ebaf790d435996bdcf9a6168",
-        "date": "2025-03-24T11:36:53-04:00",
-        "path": "/nix/store/ws2pg04hhjpg8nhpmp7qx5hzqj3b8ihx-elixir-440f85f",
-        "sha256": "0xgmm636w6lr04b814fdhf9xq1jhxq1ismghwnlspqylqm702jgk",
-        "hash": "sha256-80kBTsXU46up5fBVHQPuUAbck4PNkYAWAZkaboap9XU=",
+        "rev": "5b75205cddf57f4654973a20c0f5f1859d314997",
+        "date": "2025-03-26T17:14:44-04:00",
+        "path": "/nix/store/qx2z34lwp8law1kdirvlpwjaf2l3q7k8-elixir-5b75205",
+        "sha256": "0yps33m3vdn7h5z19glz3rwfn6c617k39pi8n2nbg562akb46z3b",
+        "hash": "sha256-a3xD1lTClLessCjeNOYJhhnreB6fvhR+gce2PeoY+no=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2074,8 +2074,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-kMp7l2k6WKHPtSTO4Ey+9BZPSi1+Bf4YNK+PNkdr3BI=",
-      "published_at": "2025-03-24T16:06:35Z"
+      "cargoHash": "sha256-1gAi3o6RkeTDKyn++VKGQqgGLVpPBdLk/QUanUPKh/U=",
+      "published_at": "2025-03-27T12:47:28Z"
     },
     {
       "id": "elm",
@@ -5927,14 +5927,14 @@
     },
     {
       "id": "postgres-context-server",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/postgres-context-server",
-        "rev": "6dc03475c89601ca886222a7ad4399df7e4d43d9",
-        "date": "2024-11-21T11:26:12-05:00",
-        "path": "/nix/store/xr381j45l5lzc16dsqj5lyn49yma794g-postgres-context-server-6dc0347",
-        "sha256": "1ap0q2hx8y83v2wr9zlfrc4xp7nw4pvazxf9pksavx47l248jh6g",
-        "hash": "sha256-z0CJiKCH9K30vMn1r/Yl3J7bCcuO/pS52AN51KHA4Ko=",
+        "rev": "1842d60d54b0148b4c59dd5ebc76b0eebdd5a9d5",
+        "date": "2025-03-27T19:20:17-04:00",
+        "path": "/nix/store/7cm60591nz87fwzcjq1vp07n54y87wjr-postgres-context-server-1842d60",
+        "sha256": "0qjf4k130y92v19i7b1z1z2ccxgykkyafbvc8kmlkn0qkh585qbb",
+        "hash": "sha256-a+GCCpwY2EnrRGwvp/yc/nXGxA8/rBNT2CJ5MMIkTmI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5943,8 +5943,8 @@
       "grammars": [],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-3mKmBxv+YNit68+zwb2qX7jrjSBQZp7uJYU9/6zQKSI=",
-      "published_at": "2024-11-21T16:31:41Z"
+      "cargoHash": "sha256-A0qxZMgaDCStuSZfK4T4bcmqXe7LPITAwlkeUGUozJE=",
+      "published_at": "2025-03-27T23:24:03Z"
     },
     {
       "id": "prisma",
@@ -7200,14 +7200,14 @@
     },
     {
       "id": "svelte",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "src": {
         "url": "https://github.com/zed-extensions/svelte",
-        "rev": "88a08ef571b1bf749eab23f384e3d626dd2ed658",
-        "date": "2025-03-11T16:33:07-05:00",
-        "path": "/nix/store/wnljdcw8l1yrvw2079m9drprzripf5bp-svelte-88a08ef",
-        "sha256": "0643ghamkrmcz4pa039cf6fgf8syj1w3qaf8ml880pagd276222n",
-        "hash": "sha256-VghhjmhPXYAQrcgpPHiQXiP3nHEsDaAu+azmWRV8gxg=",
+        "rev": "ba8bdaad7cc8c374c40f970395d5b9397f02bb0e",
+        "date": "2025-03-27T19:20:52-04:00",
+        "path": "/nix/store/8kc6gsldzpfzk6z6niv15ws8kscx85kj-svelte-ba8bdaa",
+        "sha256": "1y1a58xq19c2x305s3c3shcxmb6z0ih8finxiq60jpcxk1y90b42",
+        "hash": "sha256-giyQfJidXQkMjt1Gh2AE36zaGdSDDV3A6IKlgDsqKvg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7218,19 +7218,19 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-nA2ulKXiaZsSuM+qq59UX5289rS0SvzCZjiLffQNUQU=",
-      "published_at": "2025-03-12T00:02:23Z"
+      "cargoHash": "sha256-LG+fGvU1uPRrkGUjzIgxXTGZVvFFY+d1TTY7NqPjAvA=",
+      "published_at": "2025-03-27T23:31:54Z"
     },
     {
       "id": "swift",
-      "version": "0.3.2",
+      "version": "0.4.0",
       "src": {
         "url": "https://github.com/zed-extensions/swift",
-        "rev": "ddd054589d2ca0b2fe2b0e317e472a3caa4c15d3",
-        "date": "2024-11-20T16:20:04-05:00",
-        "path": "/nix/store/65qa4q435mqvq0h38d0msf2qmlhzp2w0-swift-ddd0545",
-        "sha256": "1kfjblsgfmrc384fwsb9y39njnrw6nm1i2jwqinjp78p1jn8vz0v",
-        "hash": "sha256-G/yNrAwXnSttxFyKGKo1PFtp0/Bpae4IGixX9zRd0s0=",
+        "rev": "8d710c0d6dc7f15132ed69d0af6ce61c3baac1c1",
+        "date": "2025-03-23T16:23:33-04:00",
+        "path": "/nix/store/iwzgfdma29kj9xqvb6yiaxcgplm69k1h-swift-8d710c0",
+        "sha256": "0002cw8c0rvawhripir9qkvdh01ri6b0d0lv68abf722pj8d2c1c",
+        "hash": "sha256-LDDRkLxCHLcUMpuCBpaJOQDY9sQpxxsz5GpnwBBnAgA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7241,8 +7241,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-D+zFFgaEHLU7p2vS2XJc5VXJXI/byQHV76kLgXNAr/8=",
-      "published_at": "2024-11-20T21:26:05Z"
+      "cargoHash": "sha256-6eQsTJ7F+mvXzc3fKfE1xRx/FoIolK7lizQOeSWTkYY=",
+      "published_at": "2025-03-27T12:46:20Z"
     },
     {
       "id": "tailwind-theme",
@@ -9330,14 +9330,14 @@
     {
       "id": "elixir_heex",
       "name": "heex",
-      "version": "2e1348c3cf2c9323e87c2744796cf3f3868aa82a",
+      "version": "008626a3fad379d17c81d5ed576edd9bd7a4fbf7",
       "src": {
         "url": "https://github.com/phoenixframework/tree-sitter-heex",
-        "rev": "2e1348c3cf2c9323e87c2744796cf3f3868aa82a",
-        "date": "2022-11-17T08:07:19-08:00",
-        "path": "/nix/store/3f938sv1lx79afrplk634i7f4r5zhic0-tree-sitter-heex-2e1348c",
-        "sha256": "04yzzqfxinsh62l7750grflxg809m8y3qlbmc1vknk2xk34l9d78",
-        "hash": "sha256-6LREyZhdTDt3YHVRPDyqCaDXqcsPlHOoMFDb2B3+3xM=",
+        "rev": "008626a3fad379d17c81d5ed576edd9bd7a4fbf7",
+        "date": "2025-01-29T14:15:49-05:00",
+        "path": "/nix/store/6zms9jzb5g92lgn15x9riz31c1f6b183-tree-sitter-heex-008626a",
+        "sha256": "1sgfydj2cfpprllzggvcalwlrnkf0x9hcfq1gp9nrvqa7r6s45d8",
+        "hash": "sha256-qBWiTT4K72zTfQE7BlMHbtpMOVVsv/cpzfc6JmTz7uk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
