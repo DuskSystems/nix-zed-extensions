@@ -4407,14 +4407,14 @@
     },
     {
       "id": "modus-themes",
-      "version": "0.0.10",
+      "version": "0.0.11",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "e1fd10f0557efae400e053ad64fc0d5a331dcb44",
-        "date": "2025-03-08T20:47:41+01:00",
-        "path": "/nix/store/fwdd91maw9pf6yrznpmf1zy86g0sp3qj-zed-modus-themes-e1fd10f",
-        "sha256": "0drdga95cf1xkal16y44rvgrzvfsiazfsnvw729x3j6gwwzj8w3v",
-        "hash": "sha256-e3AkP+fPyNGTOHxb7b6K2u2f386EeBOomj04VpJ6LTc=",
+        "rev": "c654a7af8b18f9432ced4422988c55d1a3b63187",
+        "date": "2025-03-28T13:32:25+01:00",
+        "path": "/nix/store/w4l55902zm02q9d4df6wv4j13a6h6q6k-zed-modus-themes-c654a7a",
+        "sha256": "00ci5a120srzj87335vmx9p61wj838n7fi6gh091lf9m1l9jjd7l",
+        "hash": "sha256-9DQpEw01ORoSgM9EdywaSPJgbup1lzEOkj9rIIIqkQE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4422,7 +4422,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-03-07T15:17:02Z"
+      "published_at": "2025-03-28T21:51:15Z"
     },
     {
       "id": "monokai-reversed",
