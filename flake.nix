@@ -50,6 +50,10 @@
 
         zed-grammars = pkgs.zed-grammars;
         zed-extensions = pkgs.zed-extensions;
+
+        wasi-sdk = pkgs.wasi-sdk;
+        wasip1-component-adapter = pkgs.wasip1-component-adapter;
+        wasm-component-ld = pkgs.wasm-component-ld;
       });
 
       apps = perSystemPkgs (pkgs: {
@@ -91,6 +95,7 @@
             taplo
 
             # Nix
+            nix-update
             nixfmt-rfc-style
             nixd
             nil

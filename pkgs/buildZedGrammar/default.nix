@@ -31,7 +31,7 @@ stdenvNoCC.mkDerivation (
       fi
 
       clang \
-        --target=wasm32-wasip2 \
+        --target=wasm32-wasip1 \
         --sysroot=${wasi-sdk}/share/wasi-sysroot \
         -fPIC \
         -shared \
