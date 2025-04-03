@@ -3012,14 +3012,14 @@
     },
     {
       "id": "halcyon",
-      "version": "0.0.5",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/hichemfantar/halcyon-zed",
-        "rev": "838767f8943e504722f1aa781dfd6e2860987c6c",
-        "date": "2024-08-25T01:22:52+01:00",
-        "path": "/nix/store/nlfnyy6r72v96d569nvv2s9j19388pr6-halcyon-zed-838767f",
-        "sha256": "1p9parcy5q7lpbf5xv8gam72m1yfw96cn01j01lchrjkqabjlp62",
-        "hash": "sha256-wlwql8JTZshoADIAy0zizocqTlUP7V7cuvTg4llWN90=",
+        "rev": "107f36771c46e207ed285b1fd59e2c720b8515f2",
+        "date": "2025-04-02T23:11:23+01:00",
+        "path": "/nix/store/rmrna6cl428yx3wpcmmj2v6f3v33l4sv-halcyon-zed-107f367",
+        "sha256": "01a1rcsllz4bvjkicbz7waqxhkff8fb3yzl8r43m5cn4zc4133p4",
+        "hash": "sha256-5I4RCPvEslIHyYh+P5ZDzk3YseLnLxan3It8SjXLQQU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3027,7 +3027,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2024-08-26T15:48:24Z"
+      "published_at": "2025-04-02T20:44:29Z"
     },
     {
       "id": "hami-melon-theme",
@@ -5185,14 +5185,14 @@
     },
     {
       "id": "omnetpp",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/omnetpp/omnetpp-zed",
-        "rev": "220bce76e8a505d56277a7adfb8b8710d94552c2",
-        "date": "2025-01-20T15:10:57+01:00",
-        "path": "/nix/store/ni6mgj3c44glxran62ahvmsvanfqdc9s-omnetpp-zed-220bce7",
-        "sha256": "10cpk3xz42yzgcrdxv1gg08cpqmw93phslfvbb9wcagfh830bgig",
-        "hash": "sha256-L74FBoLuKcbTWttRDe9IvOLLEHgv7N4ye98L8vuYl4E=",
+        "rev": "46a1b34aa10ceafba4660437fdbb1ad270092713",
+        "date": "2025-04-02T14:15:44+02:00",
+        "path": "/nix/store/m4fvzmgxwq80m1m2hkah0r5ndh1s87n3-omnetpp-zed-46a1b34",
+        "sha256": "1jjqhy0fa72ck6psacs1lf385nzn7g9w8ry2h1cj5ch330144b67",
+        "hash": "sha256-xyxCAhgDsiJZgMJnxNM79tuChqNBM6WvmUwc5YCHWMo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5203,7 +5203,7 @@
         "omnetpp_ned"
       ],
       "kind": "plain",
-      "published_at": "2025-01-24T14:34:26Z"
+      "published_at": "2025-04-02T14:19:24Z"
     },
     {
       "id": "one-black-theme",
@@ -5226,14 +5226,14 @@
     },
     {
       "id": "one-dark-darkened",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/pavles6/one-dark-darkened",
-        "rev": "de0d49c67301db528d18a36fe4ffc9b76843ccb1",
-        "date": "2024-09-01T15:29:43+02:00",
-        "path": "/nix/store/vqm1h0aam0j1957j8hjwa23zr8kiilgy-one-dark-darkened-de0d49c",
-        "sha256": "1m81aiz25i9p327v7yds7627awnl9p6baii6i5sfx6siq2dsp6p2",
-        "hash": "sha256-4pqrm8BRm+50iSZGtcxN1HJ1hDm6+bOPGDfFIn5UAdU=",
+        "rev": "4f50d348837757edc88e241f3ffceed9548bdd99",
+        "date": "2025-04-02T17:03:17+02:00",
+        "path": "/nix/store/nh955py308mbaivql94ll5mvb8r8w1vz-one-dark-darkened-4f50d34",
+        "sha256": "12gh8gbras4v2gx3qynrps8mj2krjvh9lm2ijzb2rk3r1jhg3zpa",
+        "hash": "sha256-6v7xoAx5zCzWl1FUmuCWeQpZkb7Zejz6E5tolddD8Ik=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5241,7 +5241,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2024-09-09T15:35:50Z"
+      "published_at": "2025-04-02T14:22:56Z"
     },
     {
       "id": "one-dark-extended",
@@ -10554,14 +10554,14 @@
     {
       "id": "omnetpp_ned",
       "name": "ned",
-      "version": "f008614a9db91a39e6ba58461c3cbea30c3e4fd8",
+      "version": "f18d2c7c0224ff868d8610367ed720147aa227e4",
       "src": {
         "url": "https://github.com/omnetpp/tree-sitter-ned",
-        "rev": "f008614a9db91a39e6ba58461c3cbea30c3e4fd8",
-        "date": "2024-07-29T12:14:12+02:00",
-        "path": "/nix/store/a4yxgs78pd7qrfhr83y37ry65gvwk1vs-tree-sitter-ned-f008614",
-        "sha256": "19bvdlfmiajmq6nz3kvw2r1fj1njbnqz5zdk2y06x04wm2qzzn6r",
-        "hash": "sha256-2dj/saicgG6AF7P98rFd0gbpQhZ8z/GtwVWqWB1te6U=",
+        "rev": "f18d2c7c0224ff868d8610367ed720147aa227e4",
+        "date": "2025-03-31T12:02:50+02:00",
+        "path": "/nix/store/ngvrvv1j5vzwanrfilhm6hmzilr8babd-tree-sitter-ned-f18d2c7",
+        "sha256": "1pwa8fyzv6lrkiynqg2i6slh326717v1l2gayk445icwa8hwnghz",
+        "hash": "sha256-Hz7LIVKcxULI9OoJGvYJx4gBqTZRPGx9nJma/b1Dit8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
