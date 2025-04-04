@@ -3012,14 +3012,14 @@
     },
     {
       "id": "halcyon",
-      "version": "0.2.1",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/hichemfantar/halcyon-zed",
-        "rev": "107f36771c46e207ed285b1fd59e2c720b8515f2",
-        "date": "2025-04-02T23:11:23+01:00",
-        "path": "/nix/store/rmrna6cl428yx3wpcmmj2v6f3v33l4sv-halcyon-zed-107f367",
-        "sha256": "01a1rcsllz4bvjkicbz7waqxhkff8fb3yzl8r43m5cn4zc4133p4",
-        "hash": "sha256-5I4RCPvEslIHyYh+P5ZDzk3YseLnLxan3It8SjXLQQU=",
+        "rev": "5061a944640493076081fcae0c787646242cf5bf",
+        "date": "2025-04-03T13:53:12+01:00",
+        "path": "/nix/store/dgan1wzqlm85lv38cxa3k8q5qif65ysw-halcyon-zed-5061a94",
+        "sha256": "135s3s8g1i6qbjs6bmp4qk2fa9g2d6m49ydk6klybnbwjchgkn7c",
+        "hash": "sha256-7Nj5IJN82eXpNLP5RKpp4iXlxMTk1mW0XNjE8JAeuow=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3027,7 +3027,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-04-02T20:44:29Z"
+      "published_at": "2025-04-03T23:22:35Z"
     },
     {
       "id": "hami-melon-theme",
@@ -8422,14 +8422,14 @@
     },
     {
       "id": "zedokai",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "src": {
         "url": "https://github.com/slymax/zedokai",
-        "rev": "98b55bb205201c6019d50f57954ebfbabfed64fe",
-        "date": "2025-01-09T21:52:01+01:00",
-        "path": "/nix/store/yh6hbzn2606irirfqwhv9qx732xz1hwr-zedokai-98b55bb",
-        "sha256": "04f4j8dk5bwvsxhvsm40kqy5g8rvp6yqbv0x2s79hlxl12wjp3cv",
-        "hash": "sha256-m40ruQi0U5iOFh3shb25O6NXPJ6AVL1h15uvMhuSxBE=",
+        "rev": "b4c5a0b8b66f1889bd1eabafe5e984372ebff7a5",
+        "date": "2025-04-03T22:58:34+02:00",
+        "path": "/nix/store/llq3lknl89mqxmapvgdz8w2q4db1qp9y-zedokai-b4c5a0b",
+        "sha256": "09q4aavllii83kjjvd1mwcpjmnhrizxxpd155cjplvnhz4kkl8zm",
+        "hash": "sha256-9SM6J/nQbnolKyW02/uPGdoqL+M1tC3lHChGSrdSBCc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8437,7 +8437,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-01-10T14:48:29Z"
+      "published_at": "2025-04-03T23:05:44Z"
     },
     {
       "id": "zedrack-theme",
