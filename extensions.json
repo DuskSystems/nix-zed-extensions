@@ -330,14 +330,14 @@
     },
     {
       "id": "astro",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/zed-extensions/astro",
-        "rev": "fea68d6702ddbfbf73c6a1252f178ada5523b822",
-        "date": "2025-03-26T11:16:57-04:00",
-        "path": "/nix/store/zp43ha7ak1i64hyspxj1d822sskw586y-astro-fea68d6",
-        "sha256": "05mfrlv6zzfn1h15yzwh36fdpl352rll89bl39g5aqj3g8mg78h4",
-        "hash": "sha256-BKLzKnpDYlVeGnQlRGkWZdDbnBmQf18CDNb9bzbNrhY=",
+        "rev": "65ac3712948443cd9136adf069b2c7f9e22771eb",
+        "date": "2025-04-04T16:28:53-04:00",
+        "path": "/nix/store/xrycy6a55riip35qv1vkrgsfwka09qkp-astro-65ac371",
+        "sha256": "1bl3c4i45kkh9khpb6b0mxkgmgmc0jl8ipzqhlhmkghzxiak277l",
+        "hash": "sha256-9BwxVewfvlkhhfjfiKgErL76Zq9gmXXhTHDOQiJhg64=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -348,8 +348,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-OOnqOF5mU3+kQ+IZ8XpHq25pqIEwrPInBjCWVfSsyHQ=",
-      "published_at": "2025-03-26T15:20:11Z"
+      "cargoHash": "sha256-BYFNKmu3d6kzErEnvgXoqDDhCnvm/I/oRFYmg61n9Iw=",
+      "published_at": "2025-04-04T20:52:01Z"
     },
     {
       "id": "atomize",
@@ -7200,14 +7200,14 @@
     },
     {
       "id": "svelte",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "src": {
         "url": "https://github.com/zed-extensions/svelte",
-        "rev": "ba8bdaad7cc8c374c40f970395d5b9397f02bb0e",
-        "date": "2025-03-27T19:20:52-04:00",
-        "path": "/nix/store/8kc6gsldzpfzk6z6niv15ws8kscx85kj-svelte-ba8bdaa",
-        "sha256": "1y1a58xq19c2x305s3c3shcxmb6z0ih8finxiq60jpcxk1y90b42",
-        "hash": "sha256-giyQfJidXQkMjt1Gh2AE36zaGdSDDV3A6IKlgDsqKvg=",
+        "rev": "55eda603f3a87f076683ecca9faa5d21b73a039b",
+        "date": "2025-04-04T16:36:27-04:00",
+        "path": "/nix/store/f29gz2rzww13mhf7m5agp0gi9rrxnbii-svelte-55eda60",
+        "sha256": "1kkv6iszfsz03kr5gp69vmbv6dg7cf0f1a6xn4ccvpn1w87pjjc4",
+        "hash": "sha256-hEl5D+LB3s0Ysd2o4IBj5zWzV93J3FfyHOBr93U0e84=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7218,8 +7218,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-LG+fGvU1uPRrkGUjzIgxXTGZVvFFY+d1TTY7NqPjAvA=",
-      "published_at": "2025-03-27T23:31:54Z"
+      "cargoHash": "sha256-ls5ecaELCxNf5jDerJu1qiuqI2L0uPHjwHz+dVi8SwI=",
+      "published_at": "2025-04-04T20:52:49Z"
     },
     {
       "id": "swift",
@@ -7959,14 +7959,14 @@
     },
     {
       "id": "vitesse-theme-refined",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/colinlienard/zed-vitesse-theme-refined",
-        "rev": "7bb6759a32c0021d3a480bc2bc9bd3483cfacc5c",
-        "date": "2025-01-30T15:10:55+01:00",
-        "path": "/nix/store/jdg9yyba9d598ci6japma96vc6jzj3y7-zed-vitesse-theme-refined-7bb6759",
-        "sha256": "0xma282c37g1lisqanh4lgwr3plabppbxy0cni1k35p7340avkyd",
-        "hash": "sha256-zc+tABnnljFDtAz4vu5dit6R+aMEWoV1pOGdwQQSqnY=",
+        "rev": "be32b82a244765a14e2f48615911026f3206f633",
+        "date": "2025-04-04T18:49:11+02:00",
+        "path": "/nix/store/kmnr40safiv7jwm6v3rc38h57vc6d1kl-zed-vitesse-theme-refined-be32b82",
+        "sha256": "1v5n3bb125bpan9ph7y8wylv9mzx02d29yhvininqkr7abw52rwd",
+        "hash": "sha256-jWdR+FInT2yjjRv6JJoA/de0qefIH3iTVXcVEdYatuw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7974,7 +7974,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-01-30T18:15:15Z"
+      "published_at": "2025-04-04T21:30:48Z"
     },
     {
       "id": "vrl",
@@ -8113,14 +8113,14 @@
     },
     {
       "id": "vue",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/zed-extensions/vue",
-        "rev": "05cd7c89cf924a0d3407707107588ef9e61a6b28",
-        "date": "2025-03-11T16:19:43-05:00",
-        "path": "/nix/store/d4yqzi62zng0qqaxmb9853iv498pabh5-vue-05cd7c8",
-        "sha256": "1ly948ibs9qabmnhfwg41j02krw1rb3l7wf1dql94v163s7x8nzp",
-        "hash": "sha256-91vUjx4mbJIobsHxQ8fKgecpgAzkcQdtXQonvSIiydM=",
+        "rev": "80ea2441976642c2a387e4a1f3a3b6500364cb2a",
+        "date": "2025-04-04T16:44:10-04:00",
+        "path": "/nix/store/iv7rnvk9zrwi0jp3dfah6cc123x1cyin-vue-80ea244",
+        "sha256": "10x09cfp19yvfjkhihbxqa40g3lcghbbj5x2phhdbbwh8k73bavf",
+        "hash": "sha256-bqs1zkSQr9UgvKIXuRZ8jI4HiMJ9wQindNuncB1LoIM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8131,8 +8131,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-jIO49Vl4qzFbM6JRGrugZhr15wqsFm5gAf+Zgkc8xY8=",
-      "published_at": "2025-03-12T00:02:37Z"
+      "cargoHash": "sha256-qJkOWyOn6n3P3k0GA2btSVTg9bdxat5uXL5C0I138G4=",
+      "published_at": "2025-04-04T20:53:05Z"
     },
     {
       "id": "wakatime",
