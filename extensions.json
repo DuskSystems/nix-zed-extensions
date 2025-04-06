@@ -2770,14 +2770,14 @@
     },
     {
       "id": "graphql",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/11bit/zed-extension-graphql",
-        "rev": "952fed01d056cfc914d56dd0d5e6519ecef748f4",
-        "date": "2024-08-02T14:48:54+03:00",
-        "path": "/nix/store/wz0arq8iyyam3a3kmlz3p89r6yr4k735-zed-extension-graphql-952fed0",
-        "sha256": "19kvrmpxhaibxw7mzl51cdh52vnx5w63sn4pz3d3wivijdsavkws",
-        "hash": "sha256-ms+tdJNxRz7a+JdYPQwv3W5RYGOh0F8P7ysq2G/Ne6Y=",
+        "rev": "1a468aa53be875637b510f9d0fbbaf205d7a0b83",
+        "date": "2025-04-04T20:37:03+05:00",
+        "path": "/nix/store/7ikhkb0v5i3gjc8ll3j3l1mrsp78dvbh-zed-extension-graphql-1a468aa",
+        "sha256": "1was9pkah11flaa7nzz0abrvl442a4irjyl4mrw0axmz1llaija8",
+        "hash": "sha256-SMmoKA2/dgV4roR6mSNRghC681Lgf3uUoi4EqOZNWvE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2788,8 +2788,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-UwxbKlF/QRJYnYVfa9qcLKAMpKEQsHXKAsCzjcclY6E=",
-      "published_at": "2024-08-02T13:10:25Z"
+      "cargoHash": "sha256-pFoqjD8niCQ85jWovm/YkUdnYtyGYHMCopsyUk9qpQE=",
+      "published_at": "2025-04-05T13:32:28Z"
     },
     {
       "id": "graphviz",
@@ -4407,14 +4407,14 @@
     },
     {
       "id": "modus-themes",
-      "version": "0.0.11",
+      "version": "0.0.13",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "c654a7af8b18f9432ced4422988c55d1a3b63187",
-        "date": "2025-03-28T13:32:25+01:00",
-        "path": "/nix/store/w4l55902zm02q9d4df6wv4j13a6h6q6k-zed-modus-themes-c654a7a",
-        "sha256": "00ci5a120srzj87335vmx9p61wj838n7fi6gh091lf9m1l9jjd7l",
-        "hash": "sha256-9DQpEw01ORoSgM9EdywaSPJgbup1lzEOkj9rIIIqkQE=",
+        "rev": "e930acaeb9481037d6818ef1e6de23512f9f6692",
+        "date": "2025-04-05T10:35:04+02:00",
+        "path": "/nix/store/rgbab4szif0qk9if0dnv8785qnnr2mgg-zed-modus-themes-e930aca",
+        "sha256": "1w44w99a4w5kp1m1v507nkybdqpjj5k2sk7j8nmi8flldy0w5px1",
+        "hash": "sha256-od/CgW+UOhSrRfJMLWaR8uK2/LQHlB1quLNwolLihPA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4422,7 +4422,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-03-28T21:51:15Z"
+      "published_at": "2025-04-05T13:31:36Z"
     },
     {
       "id": "monokai-reversed",
