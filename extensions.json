@@ -2,14 +2,14 @@
   "extensions": [
     {
       "id": "0x96f",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "src": {
         "url": "https://github.com/filipjanevski/zed-theme",
-        "rev": "e9edf1ad307cc7d7dea0ea4d6a2bcb4c797d9e14",
-        "date": "2025-03-18T20:18:44+01:00",
-        "path": "/nix/store/w3rjylfykc55kwh5lchn7n3pamj8443d-zed-theme-e9edf1a",
-        "sha256": "1ysn9shxwvsdpvp788cjyzpbvcn5l4qb0bqx8r35xqh1vjjz14w0",
-        "hash": "sha256-gJPwpdwB4l5GRh0vsDChxbK97veSIXTuvk1v3qFOVvs=",
+        "rev": "57831f2d11abeb235d525a02cc6bde10393d9c33",
+        "date": "2025-04-06T10:41:18+02:00",
+        "path": "/nix/store/10m8lb9scy6cv3r7ifrhzfixwima7pyh-zed-theme-57831f2",
+        "sha256": "057g3xdhvlcbzw84hhpiikjq3z7w9qv0pqx82vg9m7zxwrqb97kn",
+        "hash": "sha256-dp60cOb9n5reFqjjCzZO/PyB5YzxQkgQ/4vRDVsf7xQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -17,7 +17,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-03-20T14:51:29Z"
+      "published_at": "2025-04-06T12:07:58Z"
     },
     {
       "id": "actionscript",
