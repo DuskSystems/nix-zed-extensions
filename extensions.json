@@ -2770,14 +2770,14 @@
     },
     {
       "id": "graphql",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "src": {
         "url": "https://github.com/11bit/zed-extension-graphql",
-        "rev": "1a468aa53be875637b510f9d0fbbaf205d7a0b83",
-        "date": "2025-04-04T20:37:03+05:00",
-        "path": "/nix/store/7ikhkb0v5i3gjc8ll3j3l1mrsp78dvbh-zed-extension-graphql-1a468aa",
-        "sha256": "1was9pkah11flaa7nzz0abrvl442a4irjyl4mrw0axmz1llaija8",
-        "hash": "sha256-SMmoKA2/dgV4roR6mSNRghC681Lgf3uUoi4EqOZNWvE=",
+        "rev": "ebae0a133b13fbfeffe6e7e11b02c5a5198e228e",
+        "date": "2025-04-07T10:31:38+05:00",
+        "path": "/nix/store/abwa77ibkfj1nn4jq3q4zlhxbl52960v-zed-extension-graphql-ebae0a1",
+        "sha256": "0r69n0zcgx5w61s1rlmzz887qavhq26wkb06j599qwb9lyxz7bzz",
+        "hash": "sha256-/6/zu6dpcZxSkQasyY3AcCt8EPq/0hx0MLz0xz6wyWQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2788,8 +2788,8 @@
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-pFoqjD8niCQ85jWovm/YkUdnYtyGYHMCopsyUk9qpQE=",
-      "published_at": "2025-04-05T13:32:28Z"
+      "cargoHash": "sha256-/CyocLBi4P/lm6AEZN0N4aFemsC4EuglhD4WzKVsDYo=",
+      "published_at": "2025-04-07T13:22:00Z"
     },
     {
       "id": "graphviz",
@@ -4407,14 +4407,14 @@
     },
     {
       "id": "modus-themes",
-      "version": "0.0.13",
+      "version": "0.0.15",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "e930acaeb9481037d6818ef1e6de23512f9f6692",
-        "date": "2025-04-05T10:35:04+02:00",
-        "path": "/nix/store/rgbab4szif0qk9if0dnv8785qnnr2mgg-zed-modus-themes-e930aca",
-        "sha256": "1w44w99a4w5kp1m1v507nkybdqpjj5k2sk7j8nmi8flldy0w5px1",
-        "hash": "sha256-od/CgW+UOhSrRfJMLWaR8uK2/LQHlB1quLNwolLihPA=",
+        "rev": "f59197b580598445e0da7677bc3272e5edb4281c",
+        "date": "2025-04-07T18:47:26+02:00",
+        "path": "/nix/store/nzvy8mqi4a0vnmvagn9i1vz8is93xhg0-zed-modus-themes-f59197b",
+        "sha256": "0rk9k060p8r3scg098y1dislrph82jk5pijawmi64j5gj1q3ypsx",
+        "hash": "sha256-XV8/cJCvSGJi5UrGW6YUCN5MdWzBowQe0yOjCwyYaWY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4422,7 +4422,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-04-05T13:31:36Z"
+      "published_at": "2025-04-07T18:47:34Z"
     },
     {
       "id": "monokai-reversed",
@@ -5740,27 +5740,27 @@
     },
     {
       "id": "php",
-      "version": "0.2.7",
+      "version": "0.2.8",
       "src": {
         "url": "https://github.com/zed-extensions/php",
-        "rev": "ee03d70463ea9fe3a4a79a51129abd93d902036a",
-        "date": "2025-03-03T09:53:29-05:00",
-        "path": "/nix/store/93vxaw1lvn9kszwdzdiba93hidwy6fid-php-ee03d70",
-        "sha256": "0zqrpxnribpwiv7f9cm30nbwc9pnsb3plzk6xjaqlcnlkh71wjjb",
-        "hash": "sha256-S0oeDpzUMoqV7GZ+esfS9ibGlwWjsuTOjvyumG2/GX8=",
+        "rev": "35e12bf70513620a1ccdb6fc29a9bf92fcbeac1c",
+        "date": "2025-04-07T09:39:17-04:00",
+        "path": "/nix/store/4s474djm1rb79khlmf66ap9nvx19yk0q-php-35e12bf",
+        "sha256": "15n3l425dfmsfd89r1w4sagcnx9rxhbfdxgc7b7dvd9rb5r2x5wi",
+        "hash": "sha256-kZcuclk5td3OOuz15hbsOXXLntKEh5xQc7q6VgShw5Y=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "php_phpdoc",
-        "php_php"
+        "php_php",
+        "php_phpdoc"
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
-      "cargoHash": "sha256-kVlgZkyrORVVnjZKOAuncY55AgDp6BGYVJiPDOdBUXQ=",
-      "published_at": "2025-02-18T14:46:46Z"
+      "cargoHash": "sha256-FfuwnpZAWMIxqThgWmYdapOrnn6795WlMtxPVYXNQ5E=",
+      "published_at": "2025-04-07T14:07:24Z"
     },
     {
       "id": "pica200",
@@ -10690,14 +10690,14 @@
     {
       "id": "php_phpdoc",
       "name": "phpdoc",
-      "version": "1d0e255b37477d0ca46f1c9e9268c8fa76c0b3fc",
+      "version": "03bb10330704b0b371b044e937d5cc7cd40b4999",
       "src": {
         "url": "https://github.com/claytonrcarter/tree-sitter-phpdoc",
-        "rev": "1d0e255b37477d0ca46f1c9e9268c8fa76c0b3fc",
-        "date": "2024-05-06T21:35:47-04:00",
-        "path": "/nix/store/y9di9pb2fsn08ha6b7shk1x80q9jf4c3-tree-sitter-phpdoc-1d0e255",
-        "sha256": "0gqqr1frifprq57i0cvp9a79znyayxzcqjrgi352wiiyzw1gys0i",
-        "hash": "sha256-EWj/Av8+Ri7KiC9LzH73ytufjkp3MxBPwfm6mF3IGD8=",
+        "rev": "03bb10330704b0b371b044e937d5cc7cd40b4999",
+        "date": "2025-04-02T16:34:01-04:00",
+        "path": "/nix/store/6rxx8f5wcw6cnc1qzsfl1nycdp8qnklj-tree-sitter-phpdoc-03bb103",
+        "sha256": "1drlx8gb8cm9601kkwjsjdax3pjnwsvfpz7p15r0jcx1bl5yn00k",
+        "hash": "sha256-EwDrC12hMwlyCff867bmVt7RVZNa8jkDMKkytB7qNLc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
