@@ -19,40 +19,6 @@ final: prev: {
     ];
   } (builtins.readFile "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util.py");
 
-  pkgsCross = prev.pkgsCross // {
-    wasm32-wasip1 = prev.pkgsCross.wasm32-wasip1 // {
-      # Fix rustc build:
-      # - https://github.com/NixOS/nixpkgs/issues/380389
-      # - https://github.com/NixOS/nixpkgs/pull/323161
-      # - https://github.com/NixOS/nixpkgs/pull/330037
-      # - https://github.com/NixOS/nixpkgs/pull/379632
-      buildPackages = prev.pkgsCross.wasm32-wasip1.buildPackages // {
-        rustc = prev.pkgsCross.wasm32-wasip1.buildPackages.rustc.override {
-          rustc-unwrapped = prev.pkgsCross.wasm32-wasip1.buildPackages.rustc.unwrapped.overrideAttrs (_: {
-            LD_LIBRARY_PATH = "${final.llvmPackages.libunwind}/lib";
-            WASI_SDK_PATH = "${final.wasi-sdk}";
-          });
-
-          sysroot = prev.buildEnv {
-            name = "rustc-sysroot";
-            paths = [
-              final.pkgsCross.wasm32-wasip1.buildPackages.rustc.unwrapped
-              final.llvmPackages.libunwind
-            ];
-          };
-        };
-
-        cargo = prev.pkgsCross.wasm32-wasip1.buildPackages.cargo.override {
-          inherit (final.pkgsCross.wasm32-wasip1.buildPackages) rustc;
-        };
-      };
-
-      rustPlatform = prev.pkgsCross.wasm32-wasip1.makeRustPlatform {
-        inherit (final.pkgsCross.wasm32-wasip1.buildPackages) cargo rustc;
-      };
-    };
-  };
-
   data = builtins.fromJSON (builtins.readFile ../extensions.json);
 
   mkZedGrammar =

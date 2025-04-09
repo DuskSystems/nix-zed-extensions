@@ -1,11 +1,24 @@
 {
   lib,
-  pkgsCross,
+  makeRustPlatform,
   fetchFromGitHub,
-  llvmPackages,
+  rust-bin,
 }:
 
-pkgsCross.wasm32-wasip1.rustPlatform.buildRustPackage (finalAttrs: {
+let
+  rust = rust-bin.stable.latest.default.override {
+    targets = [
+      "wasm32-unknown-unknown"
+      "wasm32-wasip1"
+    ];
+  };
+
+  rustPlatform = makeRustPlatform {
+    cargo = rust;
+    rustc = rust;
+  };
+in
+rustPlatform.buildRustPackage (finalAttrs: {
   pname = "wasip1-component-adapter";
   version = "31.0.0";
 
@@ -17,14 +30,22 @@ pkgsCross.wasm32-wasip1.rustPlatform.buildRustPackage (finalAttrs: {
     fetchSubmodules = true;
   };
 
-  RUSTFLAGS = "-C linker=${llvmPackages.lld}/bin/lld";
-
   useFetchCargoVendor = true;
   cargoHash = "sha256-zMDpbJoOaKJ974Ln43JtY3f3WOq2dEmdgX9TubYdlow=";
-  cargoBuildFlags = [
-    "--package"
-    "wasi-preview1-component-adapter"
-  ];
+
+  buildPhase = ''
+    cargo build \
+      --release \
+      --target wasm32-unknown-unknown \
+      --package wasi-preview1-component-adapter
+  '';
+
+  installPhase = ''
+    mkdir -p $out/bin
+    mv target/wasm32-unknown-unknown/release/*.wasm $out/bin
+  '';
+
+  doCheck = false;
 
   meta = {
     description = "A bridge for the wasip1 ABI to the wasip2 component model.";

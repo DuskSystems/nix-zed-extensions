@@ -16,7 +16,7 @@ But:
 - Requires a cargo lockfile for Rust extensions.
 - Missing meta/licensing info.
 - No automated building/testing of extensions.
-- Requires a Rust/LLVM re-compilation.
+- Requires a LLVM re-compilation due to WASI SDK usage.
 
 ## Usage
 

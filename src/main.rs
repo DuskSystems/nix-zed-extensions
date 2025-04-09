@@ -2,8 +2,8 @@ use std::path::Path;
 use std::sync::Arc;
 
 use clap::{Parser, Subcommand};
-use futures::stream::FuturesUnordered;
 use futures::StreamExt;
+use futures::stream::FuturesUnordered;
 use tokio::fs;
 use tokio::sync::Semaphore;
 use tracing_subscriber::EnvFilter;

@@ -1,7 +1,8 @@
 {
   lib,
   stdenv,
-  pkgsCross,
+  makeRustPlatform,
+  rust-bin,
   llvmPackages,
   wasip1-component-adapter,
   wasm-tools,
@@ -19,8 +20,16 @@
 }@attrs:
 
 let
-  buildZedExtension =
-    if (kind == "rust") then pkgsCross.wasm32-wasip1.rustPlatform.buildRustPackage else stdenv.mkDerivation;
+  rust = rust-bin.stable.latest.default.override {
+    targets = [ "wasm32-wasip1" ];
+  };
+
+  rustPlatform = makeRustPlatform {
+    cargo = rust;
+    rustc = rust;
+  };
+
+  buildZedExtension = if (kind == "rust") then rustPlatform.buildRustPackage else stdenv.mkDerivation;
 in
 buildZedExtension (
   {
@@ -34,6 +43,16 @@ buildZedExtension (
       wasm-tools
       nix-zed-extensions
     ];
+
+    buildPhase = lib.optionalString (kind == "rust") ''
+      runHook preBuild
+
+      cargo build \
+        --release \
+        --target wasm32-wasip1
+
+      runHook postBuild
+    '';
 
     postBuild = ''
       ${lib.optionalString (kind == "rust") ''

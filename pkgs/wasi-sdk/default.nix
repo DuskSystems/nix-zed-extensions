@@ -48,6 +48,7 @@ clangStdenv.mkDerivation {
   buildPhase = ''
     cmake -G Ninja -B build/toolchain -S . \
       -DWASI_SDK_BUILD_TOOLCHAIN=ON \
+      -DWASI_SDK_TARGETS=wasm32-wasip1 \
       -DCMAKE_INSTALL_PREFIX=$out \
 
     cmake --build build/toolchain --target install
@@ -55,6 +56,7 @@ clangStdenv.mkDerivation {
     cmake -G Ninja -B build/sysroot -S . \
       -DCMAKE_INSTALL_PREFIX=$out \
       -DCMAKE_TOOLCHAIN_FILE=$out/share/cmake/wasi-sdk.cmake \
+      -DWASI_SDK_TARGETS=wasm32-wasip1 \
       -DCMAKE_C_COMPILER_WORKS=ON \
       -DCMAKE_CXX_COMPILER_WORKS=ON
 

@@ -5,6 +5,11 @@
     nixpkgs = {
       url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     };
+
+    rust-overlay = {
+      url = "github:oxalica/rust-overlay";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
   # nix flake show
@@ -12,6 +17,7 @@
     {
       self,
       nixpkgs,
+      rust-overlay,
       ...
     }:
 
@@ -35,8 +41,8 @@
     {
       overlays = {
         default = nixpkgs.lib.composeManyExtensions [
-          (import ./overlays/cross.nix)
-          (import ./overlays/packages.nix)
+          rust-overlay.overlays.default
+          (import ./overlays)
         ];
       };
 
@@ -83,6 +89,7 @@
             clippy
             rustfmt
             rust-analyzer
+            cargo-outdated
 
             # WASM
             wasm-tools
