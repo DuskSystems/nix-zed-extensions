@@ -11,8 +11,6 @@ Nix expressions for Zed extensions.
 
 But:
 
-- No support for extensions in monorepos.
-- [No extension.json support](https://github.com/zed-industries/extensions/issues/2104).
 - Requires a Cargo lockfile for Rust extensions.
 - Missing meta/licensing info.
 - No automated building/testing of extensions.
