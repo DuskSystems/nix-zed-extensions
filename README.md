@@ -37,7 +37,9 @@ nixpkgs.overlays = [
 
 ### Home Manager Module
 
-This is a fork of the upstream module, except the `extensions` field now takes packages instead of strings.
+A `home-manager` module that allows you to install extensions.
+
+Use it alongside your existing `zed-editor` config.
 
 ```nix
 home-manager.sharedModules = [
@@ -51,9 +53,13 @@ home-manager.sharedModules = [
 }:
 
 {
-  programs.zed-editor-fork = {
+  programs.zed-editor = {
+    ...
+  };
+
+  programs.zed-editor-extensions = {
     enable = true;
-    extensions = with pkgs.zed-extensions; [
+    packages = with pkgs.zed-extensions; [
       nix
     ];
   };
