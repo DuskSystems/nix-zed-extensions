@@ -12,11 +12,10 @@ Nix expressions for Zed extensions.
 But:
 
 - No support for extensions in monorepos.
-- No extension.json support.
-- Requires a cargo lockfile for Rust extensions.
+- [No extension.json support](https://github.com/zed-industries/extensions/issues/2104).
+- Requires a Cargo lockfile for Rust extensions.
 - Missing meta/licensing info.
 - No automated building/testing of extensions.
-- Requires a LLVM re-compilation due to WASI SDK usage.
 
 ## Usage
 

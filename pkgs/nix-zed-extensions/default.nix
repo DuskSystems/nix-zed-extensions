@@ -48,5 +48,6 @@ rustPlatform.buildRustPackage {
     license = lib.licenses.gpl3Plus;
     platforms = lib.platforms.all;
     mainProgram = "nix-zed-extensions";
+    sourceProvenance = [ lib.sourceTypes.fromSource ];
   };
 }
