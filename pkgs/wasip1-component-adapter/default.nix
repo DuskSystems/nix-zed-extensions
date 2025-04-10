@@ -53,5 +53,6 @@ rustPlatform.buildRustPackage (finalAttrs: {
     changelog = "https://github.com/bytecodealliance/wasmtime/releases";
     license = lib.licenses.asl20;
     platforms = lib.platforms.all;
+    sourceProvenance = [ lib.sourceTypes.fromSource ];
   };
 })
