@@ -1,5 +1,3 @@
-diff --git a/version.py b/version.py
-index 62f0ff9..988c087 100755
 --- a/version.py
 +++ b/version.py
 @@ -95,7 +36,7 @@ def llvm_cmake_version(llvm_dir):

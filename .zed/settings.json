@@ -1,9 +1,4 @@
 {
-  "auto_install_extensions": {
-    "nix": true,
-    "toml": true
-  },
-
   "remove_trailing_whitespace_on_save": true,
   "ensure_final_newline_on_save": true,
 
