@@ -250,26 +250,26 @@
     },
     {
       "id": "ansible",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/kartikvashistha/zed-ansible",
-        "rev": "06a958ce59a6a58994c3f461b92d1e24846693ba",
-        "date": "2024-10-30T14:25:14Z",
-        "path": "/nix/store/dwy9px0ws24m1m5g39ldss39zrf39k12-zed-ansible-06a958c",
-        "sha256": "0s61byfrx7ms5kqr1q70rsbnmcrmldgzw21lmgmgddkwcgyj2s82",
-        "hash": "sha256-Amkh/WN8tvbqqzQI/l+jNbNql87g4JDxLLqenp1fwWg=",
+        "rev": "cb7bd309542c800d86a205826d2abb1356541f9e",
+        "date": "2025-04-09T19:41:56+01:00",
+        "path": "/nix/store/38kckjz1f5h0isbclswq886328iwxl8s-zed-ansible-cb7bd30",
+        "sha256": "06d7xfh8i5lszpldw54wv14wgqpw7yv8a99b1xmjy271b8yr1ls9",
+        "hash": "sha256-SdOQPVrhCC9rDyslhbY//OLHSdicFN7o/ZqWiKDrpxk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "ansible_ansible"
+        "ansible_yaml"
       ],
       "kind": "rust",
       "useFetchCargoVendor": true,
       "cargoHash": "sha256-KSXJaKcSg9Q/ppAC8I5YILcgxXdGWHznrFX+ZtzDnEU=",
-      "published_at": "2024-10-30T15:19:51Z"
+      "published_at": "2025-04-09T20:12:36Z"
     },
     {
       "id": "anya",
@@ -3926,14 +3926,14 @@
     },
     {
       "id": "lilypond",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "src": {
         "url": "https://github.com/nwhetsell/lilypond-zed-extension",
-        "rev": "5f4696fa2bfde61235937586eed4f8d8973079c7",
-        "date": "2025-03-29T07:06:38-04:00",
-        "path": "/nix/store/awzjn1czja1myx9kx6xpax7gv9gxibsf-lilypond-zed-extension-5f4696f",
-        "sha256": "12hxicvlrv6i41dfi1xlqz86hgfvvhkjm8k72gl69p4x8bn3n9jv",
-        "hash": "sha256-WyY77EKd3GToE2eiKifc2z1o0Me0h+haINHsTDeLHYo=",
+        "rev": "a11e97c862ec02a05c274f166a1ff373f6f29e9e",
+        "date": "2025-04-08T06:35:16-04:00",
+        "path": "/nix/store/abibxbslhpwbzsr3ja1kdwyxlvrj7xcj-lilypond-zed-extension-a11e97c",
+        "sha256": "1kzb5f02l6vkdznqxhy5fyab60qbcaj7l3v1vdzpwamw0rihgwra",
+        "hash": "sha256-KvMHYwa8Kn5/22EPeqRiCwOzlHfFw47tb3MbKoAr688=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3944,7 +3944,7 @@
         "lilypond_lilypond_scheme"
       ],
       "kind": "plain",
-      "published_at": "2025-03-31T14:14:46Z"
+      "published_at": "2025-04-09T16:18:37Z"
     },
     {
       "id": "liquid",
@@ -4369,14 +4369,14 @@
     },
     {
       "id": "min-theme",
-      "version": "0.1.11",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/phibr0/zed-min-theme",
-        "rev": "b40addf925c6c3c04174e4f20a635cb16a483783",
-        "date": "2025-03-23T13:44:55+01:00",
-        "path": "/nix/store/g58hw26a5nc1m524g9nc490j64y1s0wx-zed-min-theme-b40addf",
-        "sha256": "0ss2bkx3j6y6pzxvck9hv30xryb43qjkli1fj23hs2rag9qpiy6g",
-        "hash": "sha256-z/h4cXoqCw2HkC5EOiUeZPncwdgwTbb7v8YbOfpcQms=",
+        "rev": "3a2fd09d51be39477e6000742b7aace97e276b66",
+        "date": "2025-04-08T20:25:48+02:00",
+        "path": "/nix/store/9pz1m3q3r7c8dwvwpz17k1rw7v5s6817-zed-min-theme-3a2fd09",
+        "sha256": "0q0dpyyw110vr0ymcr1gsccryjda8d7sl2z3xm4xj51h0y78n862",
+        "hash": "sha256-wiCLjgcwFNlJ7eMLqk9DqkmfGdMvZFY9yBuEwL2/DWA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4384,7 +4384,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-03-23T18:04:17Z"
+      "published_at": "2025-04-09T16:17:45Z"
     },
     {
       "id": "modest-dark",
@@ -8648,16 +8648,16 @@
       }
     },
     {
-      "id": "ansible_ansible",
-      "name": "ansible",
-      "version": "bbe3aa859d16b95e9e9c0a2afd33da4e54f6b958",
+      "id": "ansible_yaml",
+      "name": "yaml",
+      "version": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
       "src": {
-        "url": "https://github.com/kartikvashistha/zed-tree-sitter-yaml",
-        "rev": "bbe3aa859d16b95e9e9c0a2afd33da4e54f6b958",
-        "date": "2024-10-28T13:19:05Z",
-        "path": "/nix/store/zkkfsma5n01d1f1pjmx179gr7ngxny7k-zed-tree-sitter-yaml-bbe3aa8",
-        "sha256": "08jris5kdh9fcl7gcsmwf42bnna33qsly6zz3m1izgvp6lbca8dr",
-        "hash": "sha256-uSHFFjV3vx9DHf8bTzUeQ1m7BHG8avYOZS7BNouOWSI=",
+        "url": "https://github.com/zed-industries/tree-sitter-yaml",
+        "rev": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
+        "date": "2024-09-11T16:50:50-04:00",
+        "path": "/nix/store/f35in6psiq0xkxmn9510nahkrgbgqqcb-tree-sitter-yaml-baff0b5",
+        "sha256": "1ji9n73c8kjsyfrf047r6zq36yyw3qd74cszb19hhm9n198vr5wm",
+        "hash": "sha256-lZe8UQo2VQhTWF8zchoe3Hsz8Df5EOCy81pOxMaxKco=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
