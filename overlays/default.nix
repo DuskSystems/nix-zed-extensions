@@ -55,6 +55,7 @@ final: prev: {
     extension:
 
     {
+      lib,
       buildZedExtension,
       fetchgit,
       zed-grammars,
@@ -77,16 +78,22 @@ final: prev: {
             ;
         };
 
+        postPatch = lib.optionalString (extension.kind == "rust" && extension ? cargoLock) ''
+          cp ${../. + extension.cargoLock.lockFile} Cargo.lock
+        '';
+
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
-      // (
-        if extension.kind == "rust" then
-          {
-            inherit (extension) useFetchCargoVendor cargoHash;
-          }
-        else
-          { }
-      )
+      // lib.optionalAttrs (extension.kind == "rust") {
+        useFetchCargoVendor = true;
+        cargoHash = extension.cargoHash;
+      }
+      // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {
+        cargoLock = {
+          lockFile = ../. + extension.cargoLock.lockFile;
+          allowBuiltinFetchGit = true;
+        };
+      }
     );
 
   zed-extensions = builtins.listToAttrs (
