@@ -4,16 +4,8 @@
 
 Nix expressions for Zed extensions.
 
-## Status
-
 - Over 400 extensions generated (see [extensions.json](extensions.json)).
 - Daily sync from the Zed API.
-
-But:
-
-- Requires a Cargo lockfile for Rust extensions.
-- Missing meta/licensing info.
-- No automated building/testing of extensions.
 
 ## Usage
 

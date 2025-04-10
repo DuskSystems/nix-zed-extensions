@@ -1,3 +1,5 @@
+use std::path::PathBuf;
+
 use serde::{Deserialize, Serialize};
 
 #[derive(Debug, Default, Clone, Serialize, Deserialize)]
@@ -23,11 +25,17 @@ pub enum ExtensionKind {
     Plain,
 
     Rust {
-        #[serde(rename = "useFetchCargoVendor")]
-        use_fetch_cargo_vendor: bool,
         #[serde(rename = "cargoHash")]
         cargo_hash: String,
+        #[serde(rename = "cargoLock", skip_serializing_if = "Option::is_none")]
+        cargo_lock: Option<CargoLock>,
     },
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct CargoLock {
+    #[serde(rename = "lockFile")]
+    pub lock_file: PathBuf,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

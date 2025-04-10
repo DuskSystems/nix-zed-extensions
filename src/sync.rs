@@ -1,5 +1,5 @@
 use std::env::temp_dir;
-use std::path::Path;
+use std::path::{Path, PathBuf};
 
 use futures::stream::{FuturesUnordered, StreamExt};
 use tokio::fs;
@@ -7,7 +7,7 @@ use tokio::process::Command;
 
 use crate::api::ApiExtension;
 use crate::manifest::{ExtensionManifest, GrammarManifestEntry};
-use crate::output::{Extension, ExtensionKind, Grammar, Source};
+use crate::output::{CargoLock, Extension, ExtensionKind, Grammar, Source};
 
 #[tracing::instrument(skip(extension), fields(id = %extension.id, repo = %extension.repository))]
 pub async fn process_extension(
@@ -74,10 +74,31 @@ pub async fn process_extension(
         extension_dir.join("Cargo.lock")
     };
 
+    let generated_dir = Path::new("generated");
+    if !generated_dir.exists() {
+        fs::create_dir(generated_dir).await?;
+    }
+
+    let mut generated_lockfile = false;
     if cargo.exists() && !lockfile.exists() {
-        tracing::error!("Missing Cargo.lock");
-        fs::remove_dir_all(&tmp_repo).await?;
-        return Ok(None);
+        tracing::info!("Generating Cargo.lock");
+
+        let generate_lockfile = Command::new("cargo")
+            .args(["generate-lockfile"])
+            .current_dir(&tmp_repo)
+            .output()
+            .await?;
+
+        if !generate_lockfile.status.success() {
+            tracing::error!("Failed to generate Cargo.lock");
+            fs::remove_dir_all(&tmp_repo).await?;
+            return Ok(None);
+        }
+
+        let stored_lockfile = generated_dir.join(format!("{id}.lock"));
+        fs::copy(&lockfile, &stored_lockfile).await?;
+
+        generated_lockfile = true;
     }
 
     let prefetch = Command::new("nix-prefetch-git")
@@ -117,7 +138,7 @@ pub async fn process_extension(
     }
 
     let kind = if cargo.exists() {
-        process_rust_extension(&id, &lockfile).await?
+        process_rust_extension(&id, &lockfile, generated_lockfile).await?
     } else {
         ExtensionKind::Plain
     };
@@ -216,7 +237,11 @@ async fn process_grammar(
 }
 
 #[tracing::instrument(fields(id = %id))]
-async fn process_rust_extension(id: &str, lockfile: &Path) -> anyhow::Result<ExtensionKind> {
+async fn process_rust_extension(
+    id: &str,
+    lockfile: &Path,
+    generated_lockfile: bool,
+) -> anyhow::Result<ExtensionKind> {
     let tmp_vendor = temp_dir().join(format!("{id}_vendor"));
     if tmp_vendor.exists() {
         fs::remove_dir_all(&tmp_vendor).await?;
@@ -250,8 +275,16 @@ async fn process_rust_extension(id: &str, lockfile: &Path) -> anyhow::Result<Ext
 
     tracing::info!(hash = ?cargo_hash, "Pre-fetched cargo hash");
 
+    let cargo_lock: Option<CargoLock> = if generated_lockfile {
+        Some(CargoLock {
+            lock_file: PathBuf::from(format!("/generated/{id}.lock")),
+        })
+    } else {
+        None
+    };
+
     Ok(ExtensionKind::Rust {
-        use_fetch_cargo_vendor: true,
         cargo_hash,
+        cargo_lock,
     })
 }
