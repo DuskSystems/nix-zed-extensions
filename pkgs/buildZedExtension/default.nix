@@ -5,6 +5,7 @@
   rust-bin,
   llvmPackages,
   wasip1-component-adapter,
+  clang,
   wasm-tools,
   nix-zed-extensions,
   libiconv,
@@ -29,6 +30,7 @@ let
     rustc = rust;
   };
 
+  isZed = src.url == "https://github.com/zed-industries/zed";
   buildZedExtension = if (kind == "rust") then rustPlatform.buildRustPackage else stdenv.mkDerivation;
 in
 buildZedExtension (
@@ -40,6 +42,7 @@ buildZedExtension (
     LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
 
     nativeBuildInputs = [
+      clang
       wasm-tools
       nix-zed-extensions
     ];
@@ -47,9 +50,17 @@ buildZedExtension (
     buildPhase = lib.optionalString (kind == "rust") ''
       runHook preBuild
 
+      ${lib.optionalString isZed ''
+        pushd extensions/${name}
+      ''}
+
       cargo build \
         --release \
         --target wasm32-wasip1
+
+      ${lib.optionalString isZed ''
+        popd
+      ''}
 
       runHook postBuild
     '';
@@ -64,14 +75,26 @@ buildZedExtension (
         wasm-tools validate extension.wasm
       ''}
 
+      ${lib.optionalString isZed ''
+        pushd extensions/${name}
+      ''}
+
       # Manifest
       nix-zed-extensions populate
+
+      ${lib.optionalString isZed ''
+        popd
+      ''}
     '';
 
     installPhase = ''
       runHook preInstall
 
       mkdir -p $out/share/zed/extensions/${name}
+
+      ${lib.optionalString isZed ''
+        pushd extensions/${name}
+      ''}
 
       # Manifest
       cp extension.toml $out/share/zed/extensions/${name}
@@ -99,6 +122,10 @@ buildZedExtension (
       if [ -f "snippets.json" ]; then
         cp snippets.json $out/share/zed/extensions/${name}
       fi
+
+      ${lib.optionalString isZed ''
+        popd
+      ''}
 
       runHook postInstall
     '';

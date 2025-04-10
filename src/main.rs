@@ -9,14 +9,12 @@ use tokio::sync::Semaphore;
 use tracing_subscriber::EnvFilter;
 
 use crate::api::ApiResponse;
-use crate::config::Config;
 use crate::manifest::ExtensionManifest;
 use crate::output::NixExtensions;
 use crate::sync::process_extension;
 use crate::wasm::extract_zed_api_version;
 
 pub mod api;
-pub mod config;
 pub mod manifest;
 pub mod output;
 pub mod sync;
@@ -53,14 +51,6 @@ async fn main() -> anyhow::Result<()> {
         .init();
 
     let cli = Cli::parse();
-
-    let config = Path::new("config.toml");
-    let config: Config = if config.exists() {
-        toml::from_str(&fs::read_to_string(config).await?)?
-    } else {
-        Config::default()
-    };
-
     match &cli.command {
         Commands::Sync => {
             let output_path = Path::new("extensions.json");
@@ -80,16 +70,6 @@ async fn main() -> anyhow::Result<()> {
             let extensions = extensions
                 .into_iter()
                 .filter(|extension| {
-                    // Skip repositories in the config skip list.
-                    if config.skip.contains(&extension.repository) {
-                        tracing::debug!(
-                            repo = extension.repository,
-                            "Skipping repository from config"
-                        );
-
-                        return false;
-                    }
-
                     // Skip extension that haven't chaned.
                     if let Some(existing) = output
                         .extensions

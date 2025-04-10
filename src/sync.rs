@@ -52,15 +52,28 @@ pub async fn process_extension(
     let rev = String::from_utf8(rev.stdout)?.trim().to_string();
     tracing::info!(rev = rev, "Current revision");
 
-    let manifest = &tmp_repo.join("extension.toml");
-    if fs::metadata(manifest).await.is_err() {
+    let is_zed = repo == "https://github.com/zed-industries/zed";
+
+    let (extension_dir, manifest) = if is_zed {
+        let extension_dir = tmp_repo.join("extensions").join(&id);
+        (extension_dir.clone(), extension_dir.join("extension.toml"))
+    } else {
+        (tmp_repo.clone(), tmp_repo.join("extension.toml"))
+    };
+
+    if fs::metadata(&manifest).await.is_err() {
         tracing::error!("Missing extension.toml");
         fs::remove_dir_all(&tmp_repo).await?;
         return Ok(None);
     }
 
-    let cargo = &tmp_repo.join("Cargo.toml");
-    let lockfile = &tmp_repo.join("Cargo.lock");
+    let cargo = extension_dir.join("Cargo.toml");
+    let lockfile = if is_zed {
+        tmp_repo.join("Cargo.lock")
+    } else {
+        extension_dir.join("Cargo.lock")
+    };
+
     if cargo.exists() && !lockfile.exists() {
         tracing::error!("Missing Cargo.lock");
         fs::remove_dir_all(&tmp_repo).await?;
@@ -104,7 +117,7 @@ pub async fn process_extension(
     }
 
     let kind = if cargo.exists() {
-        process_rust_extension(&id, lockfile).await?
+        process_rust_extension(&id, &lockfile).await?
     } else {
         ExtensionKind::Plain
     };

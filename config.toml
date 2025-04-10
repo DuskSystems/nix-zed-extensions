@@ -1,4 +1,0 @@
-skip = [
-  # Can't build monorepos
-  "https://github.com/zed-industries/zed",
-]
