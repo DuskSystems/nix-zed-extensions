@@ -37,7 +37,7 @@ stdenv.mkDerivation {
 
   src = fetchurl urls.${stdenv.hostPlatform.system};
 
-  nativeBuildInputs = [
+  nativeBuildInputs = lib.optionals stdenv.isLinux [
     stdenv.cc.cc
     autoPatchelfHook
   ];
@@ -46,6 +46,8 @@ stdenv.mkDerivation {
     mkdir -p $out
     cp -r . $out
   '';
+
+  dontStrip = true;
 
   meta = {
     description = "WASI SDK for compiling C/C++ to WebAssembly.";
