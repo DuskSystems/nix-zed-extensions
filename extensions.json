@@ -3237,7 +3237,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2024-12-27T15:35:01Z"
+      "published_at": "2025-04-10T16:17:59Z"
     },
     {
       "id": "gruber-flavors",
@@ -3336,14 +3336,14 @@
     },
     {
       "id": "hami-melon-theme",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/isunjn/hami-melon-zed",
-        "rev": "59ec70dbb4b360c64f6df851fae569b5de5fd4e9",
-        "date": "2024-11-10T15:17:01+08:00",
-        "path": "/nix/store/5fwqh7675g2bjlcmwh67nrafqjlw5dfk-hami-melon-zed-59ec70d",
-        "sha256": "0r1q2ks6r4v0vm3fx72fxsd8zb4hc6fg02iy6j33kd1dm3v702bi",
-        "hash": "sha256-cQlw9qgttDmGND4K8JxhkKyPmu5OnO5G3WCTbPQUOGQ=",
+        "rev": "2540440ab58c0811f13528475167359096425b39",
+        "date": "2025-04-11T01:55:57+08:00",
+        "path": "/nix/store/4q4nzwclfbakba7sjc6rsm6gnh34i7gd-hami-melon-zed-2540440",
+        "sha256": "09a9y0g2iklr842prjxz40vgkqzryxmv77bla9smv9b4a9ilh6is",
+        "hash": "sha256-OhpIY1JkpV11UnSds2v3+eP5NiC/y3wFQZnOKB7wSSU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3351,7 +3351,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2024-11-12T16:08:25Z"
+      "published_at": "2025-04-10T18:09:34Z"
     },
     {
       "id": "haml",
