@@ -196,7 +196,7 @@ result
                 ├── extension.toml
                 ├── extension.wasm
                 ├── grammars
-                │   └── nix.wasm
+                │   └── nix.wasm -> /nix/store/...
                 └── languages
                     └── nix
                         ├── brackets.scm

@@ -117,7 +117,7 @@ lib.extendMkDerivation {
         # Grammars
         ${lib.concatMapStrings (grammar: ''
           mkdir -p $out/share/zed/extensions/${name}/grammars
-          cp -r ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
+          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
         '') grammars}
 
         # Assets
