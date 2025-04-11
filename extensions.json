@@ -3420,14 +3420,14 @@
     },
     {
       "id": "haskell",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/zed-extensions/haskell",
-        "rev": "346a478a68720ed9c83b5cc01db79ad575ed6d03",
-        "date": "2025-03-23T00:05:55-04:00",
-        "path": "/nix/store/99dvqwyciz1w3j7hfyjj4k2cdlv7v4r3-haskell-346a478",
-        "sha256": "1zwbz8m50micjbd4anhrj6z5yr62xpmqxnbl7r0h328rp8dr6d62",
-        "hash": "sha256-wjSTG7oZiQFBPnTZjuvtwmRfvpEZWkXakixWUCr6i/8=",
+        "rev": "a4ac88b930c9030ff8b6f012374c8abd1a352f11",
+        "date": "2025-04-11T16:34:48-04:00",
+        "path": "/nix/store/z8wpkvwmdm9dlfrgh2rp19sapxb8q9is-haskell-a4ac88b",
+        "sha256": "0wjlngkaakw7dq3mdny2mp98pqps6n4pvgdrz7kbn7gapqw1ak29",
+        "hash": "sha256-SUwVOL7qHbvm+bm9fYk1+uKL0q3C21YHbodPpeazVHI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3438,8 +3438,8 @@
         "haskell_haskell"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-QeKOG0XRVVL/cB7aIighrIWrDU3XZVgP/c16D2lyPGM=",
-      "published_at": "2025-03-07T22:20:01Z"
+      "cargoHash": "sha256-paQHUql2zYDO6u54gMCtk41Y5Gqc+0ek8nAQDMbIetM=",
+      "published_at": "2025-04-11T20:40:04Z"
     },
     {
       "id": "haxe",
@@ -5527,14 +5527,14 @@
     },
     {
       "id": "nvim-nightfox",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "src": {
         "url": "https://github.com/cange/nightfox.zed",
-        "rev": "628d1d2e12c021c92afd9667a0ed5922d498f7fb",
-        "date": "2025-03-30T22:37:05+02:00",
-        "path": "/nix/store/k8wjfcv48555qinkrz8qz6iww6vvhz80-nightfox.zed-628d1d2",
-        "sha256": "0vdnndvjgslfgbhqm6k90slni9qd0h7r5njpd1vjji086myr4lrf",
-        "hash": "sha256-LlOSfTUIRCl3aFfakg8EDadoqQZpmorheo7qJ3eztm0=",
+        "rev": "c364b51491125471089dd3e8ff315b7390b0d653",
+        "date": "2025-04-11T21:34:17+02:00",
+        "path": "/nix/store/dlb6rrm9ya9zsikwxrgggd80k6dksch6-nightfox.zed-c364b51",
+        "sha256": "09hsgc8pimhq379csc5jkka3sr5w4zqvhkqfp8nq8i0cvxdk1acn",
+        "hash": "sha256-lqkwW98MRIQtug5PuPEnvGQ91JyyMM3SGRjWeBF7GiY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5542,7 +5542,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-03-20T00:17:33Z"
+      "published_at": "2025-04-11T20:23:33Z"
     },
     {
       "id": "nyxvamp-theme",
@@ -9223,14 +9223,14 @@
     },
     {
       "id": "yara",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/egibs/yara.zed",
-        "rev": "535d9ddea99ec3060f284d14e2f00ee347c33a19",
-        "date": "2024-12-24T21:57:29-06:00",
-        "path": "/nix/store/k2jc7rcyvqpznhw6a7fprw244qaawf7b-yara.zed-535d9dd",
-        "sha256": "1lqdxzngp318w3n0cl3dh9g6nq8bcv2p5fx60xbvdgxgpmy2nwkx",
-        "hash": "sha256-fXIrfL2vv7ZXB6a7csVmC2FrXoJtUAbs4CiM++zvDdM=",
+        "rev": "abb1db528725658b3e24fd1acd45c4c2ecdcae44",
+        "date": "2025-04-11T09:09:39-05:00",
+        "path": "/nix/store/gn9x612cfx5gf0xydasidz5ii7066gp6-yara.zed-abb1db5",
+        "sha256": "0iw4k5jydglva3g7p7nhibj1kccv2dlybmdlgk3xaa2gb65f051s",
+        "hash": "sha256-OhTgillPKNXHfLTV5WkTm7EZ5IrQnnveUJu+5mWZhEc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9239,8 +9239,12 @@
       "grammars": [
         "yara_yara"
       ],
-      "kind": "plain",
-      "published_at": "2024-12-27T15:33:55Z"
+      "kind": "rust",
+      "cargoHash": "sha256-GrwTN4nSH4XRf5AssdpwVdIUQtQKZHL2niLEUvtqi7Y=",
+      "cargoLock": {
+        "lockFile": "/generated/yara.lock"
+      },
+      "published_at": "2025-04-11T20:25:12Z"
     },
     {
       "id": "yellowed",
