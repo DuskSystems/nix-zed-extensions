@@ -1,5 +1,6 @@
 final: prev: {
   buildZedExtension = prev.callPackage ../pkgs/buildZedExtension { };
+  buildZedRustExtension = prev.callPackage ../pkgs/buildZedRustExtension { };
   buildZedGrammar = prev.callPackage ../pkgs/buildZedGrammar { };
 
   nix-zed-extensions = prev.callPackage ../pkgs/nix-zed-extensions { };
@@ -57,11 +58,12 @@ final: prev: {
     {
       lib,
       buildZedExtension,
+      buildZedRustExtension,
       fetchgit,
       zed-grammars,
     }:
 
-    buildZedExtension (
+    (if extension.kind == "rust" then buildZedRustExtension else buildZedExtension) (
       {
         inherit (extension) version kind;
         name = extension.id;

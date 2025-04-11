@@ -21,6 +21,8 @@ Nix expressions for Zed extensions.
 
 ### Overlay
 
+This will register all extensions as packages under `pkgs.zed-extensions`.
+
 ```nix
 nixpkgs.overlays = [
   zed-extensions.overlays.default
@@ -56,6 +58,122 @@ home-manager.sharedModules = [
     ];
   };
 }
+```
+
+### Building Grammars Manually
+
+Use the `buildZedGrammar` builder function.
+
+```nix
+{
+  buildZedGrammar,
+  fetchFromGitHub,
+}:
+
+buildZedGrammar (finalAttrs: {
+  name = "nix";
+  version = "b3cda619248e7dd0f216088bd152f59ce0bbe488";
+
+  src = fetchFromGitHub {
+    owner = "nix-community";
+    repo = "tree-sitter-nix";
+    rev = finalAttrs.version;
+    hash = "sha256-Ib83CECi3hvm2GfeAJXIkapeN8rrpFQxCWWFFsIvB/Y=";
+  };
+})
+```
+
+```shell
+result
+└── share
+    └── zed
+        └── grammars
+            └── nix.wasm
+```
+
+### Building Extensions Manually
+
+Use the `buildZedExtension` and `buildZedRustExtension` builder functions.
+
+```nix
+{
+  buildZedExtension,
+  fetchFromGitHub,
+}:
+
+buildZedExtension (finalAttrs: {
+  name = "catppuccin-icons";
+  version = "1.19.0";
+
+  src = fetchFromGitHub {
+    owner = "catppuccin";
+    repo = "zed-icons";
+    rev = "v${finalAttrs.version}";
+    hash = "sha256-1S4I9fJyShkrBUqGaF8BijyRJfBgVh32HLn1ZoNlnsU=";
+  };
+})
+```
+
+```shell
+result
+└── share
+    └── zed
+        └── extensions
+            └── catppuccin-icons
+                ├── extension.toml
+                ├── icons
+                │   └── ...
+                └── icon_themes
+                    └── catppuccin-icons.json
+```
+
+#### Rust
+
+```nix
+{
+  buildZedRustExtension,
+  fetchFromGitHub,
+  zed-nix-grammar,
+}:
+
+buildZedRustExtension (finalAttrs: {
+  name = "nix";
+  version = "0.1.1";
+
+  src = fetchFromGitHub {
+    owner = "zed-extensions";
+    repo = "nix";
+    rev = "v${finalAttrs.version}";
+    hash = "sha256-2+Joy2kYqDK33E51pfUSYlLgWLFLLDrBlwJkPWyPUoo=";
+  };
+
+  useFetchCargoVendor = true;
+  cargoHash = "sha256-F+qW+5SIiZNxdMSmtiwKj9j73Sd9uy5HZXGptcd3vSY=";
+
+  grammars = [
+    zed-nix-grammar
+  ];
+})
+```
+
+```shell
+result
+└── share
+    └── zed
+        └── extensions
+            └── nix
+                ├── extension.toml
+                ├── extension.wasm
+                ├── grammars
+                │   └── nix.wasm
+                └── languages
+                    └── nix
+                        ├── brackets.scm
+                        ├── config.toml
+                        ├── highlights.scm
+                        ├── indents.scm
+                        ├── injections.scm
+                        └── outline.scm
 ```
 
 ## License
