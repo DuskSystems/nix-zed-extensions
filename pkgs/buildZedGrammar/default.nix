@@ -1,51 +1,62 @@
 {
+  lib,
   stdenvNoCC,
   wasi-sdk,
   ...
 }:
 
-{
-  name,
-  version,
-  src,
-  ...
-}@attrs:
+lib.extendMkDerivation {
+  constructDrv = stdenvNoCC.mkDerivation;
 
-stdenvNoCC.mkDerivation (
-  {
-    pname = "zed-grammar-${name}";
-    inherit src version;
+  excludeDrvArgNames = [
+    "name"
+    "version"
+    "src"
+  ];
 
-    buildInputs = [
-      wasi-sdk
-    ];
+  extendDrvArgs =
+    finalAttrs:
 
-    buildPhase = ''
-      runHook preBuild
+    {
+      name,
+      version,
+      src,
+      ...
+    }:
 
-      mkdir -p $out/share/zed/grammars
+    {
+      pname = "zed-grammar-${name}";
+      inherit src version;
 
-      SRC="src/parser.c"
-      if [ -f src/scanner.c ]; then
-        SRC="$SRC src/scanner.c"
-      fi
+      buildInputs = [
+        wasi-sdk
+      ];
 
-      clang \
-        --target=wasm32-wasip1 \
-        --sysroot=${wasi-sdk}/share/wasi-sysroot \
-        -fPIC \
-        -shared \
-        -Os \
-        -Wl,--export=tree_sitter_${name} \
-        -o $out/share/zed/grammars/${name}.wasm \
-        -I src \
-        $SRC
+      buildPhase = ''
+        runHook preBuild
 
-      runHook postBuild
-    '';
+        mkdir -p $out/share/zed/grammars
 
-    doCheck = false;
-    dontInstall = true;
-  }
-  // attrs
-)
+        SRC="src/parser.c"
+        if [ -f src/scanner.c ]; then
+          SRC="$SRC src/scanner.c"
+        fi
+
+        clang \
+          --target=wasm32-wasip1 \
+          --sysroot=${wasi-sdk}/share/wasi-sysroot \
+          -fPIC \
+          -shared \
+          -Os \
+          -Wl,--export=tree_sitter_${name} \
+          -o $out/share/zed/grammars/${name}.wasm \
+          -I src \
+          $SRC
+
+        runHook postBuild
+      '';
+
+      doCheck = false;
+      dontInstall = true;
+    };
+}
