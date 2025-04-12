@@ -19,7 +19,7 @@ final: prev: {
     ];
   } (builtins.readFile "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util.py");
 
-  data = builtins.fromJSON (builtins.readFile ../extensions.json);
+  zed-generated-data = builtins.fromJSON (builtins.readFile ../extensions.json);
 
   mkZedGrammar =
     grammar:
@@ -49,7 +49,7 @@ final: prev: {
     map (grammar: {
       name = grammar.id;
       value = final.callPackage (final.mkZedGrammar grammar) { };
-    }) final.data.grammars
+    }) final.zed-generated-data.grammars
   );
 
   mkZedExtension =
@@ -104,6 +104,6 @@ final: prev: {
       value = final.callPackage (final.mkZedExtension extension) {
         inherit (final) zed-grammars;
       };
-    }) final.data.extensions
+    }) final.zed-generated-data.extensions
   );
 }
