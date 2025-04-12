@@ -3568,14 +3568,14 @@
     },
     {
       "id": "html",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/zed-industries/zed",
-        "rev": "8ab25e2bac2fcfff3d413024d8154cd3dd3f3dea",
-        "date": "2025-04-10T14:29:36Z",
-        "path": "/nix/store/mbic1y25f0dx1bdjd64sw2qbw7ygkgy3-zed-8ab25e2",
-        "sha256": "1jsapm655d8lk5gv5mpj1v6i0z9bqza06frwacplzyjdgmivkskp",
-        "hash": "sha256-d+q5Y31N+k8vUzw7A9THK30QzQ7y1rJfmRS1Uky9Sss=",
+        "rev": "e4844b281d52a181802bb800f19d74853469766a",
+        "date": "2025-04-12T12:54:47Z",
+        "path": "/nix/store/7g3mhgfr3gdvqjp575if3hv10fq27sii-zed-e4844b2",
+        "sha256": "1rrwvq9z1086x0d25ma2sjvfan6xw6prqrd48kia3sf01gj794my",
+        "hash": "sha256-vpJ05AvA6aHiRKRlnK/h3VjlttRC1SIa6AaB8BPePOc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3585,8 +3585,8 @@
         "html_html"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-NbE7UH1iqiO/pWAfJKhiZ1gM7uE33NkAQCKN9DHM+/I=",
-      "published_at": "2025-03-27T14:08:43Z"
+      "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4=",
+      "published_at": "2025-04-12T12:36:56Z"
     },
     {
       "id": "http",
