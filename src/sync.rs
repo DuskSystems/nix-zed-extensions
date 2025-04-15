@@ -5,13 +5,16 @@ use futures::stream::{FuturesUnordered, StreamExt};
 use tokio::fs;
 use tokio::process::Command;
 
-use crate::api::ApiExtension;
 use crate::manifest::{ExtensionManifest, GrammarManifestEntry};
 use crate::output::{CargoLock, Extension, ExtensionKind, Grammar, Source};
+use crate::registry::RegistryExtension;
 
-#[tracing::instrument(skip(extension), fields(id = %extension.id, repo = %extension.repository))]
+#[tracing::instrument(
+    skip(extension),
+    fields(id = %extension.id, version = %extension.version, repo = %extension.repository, rev = %extension.rev)
+)]
 pub async fn process_extension(
-    extension: ApiExtension,
+    extension: RegistryExtension,
 ) -> anyhow::Result<Option<(Extension, Vec<Grammar>)>> {
     tracing::info!("Synching extension");
 
@@ -31,7 +34,7 @@ pub async fn process_extension(
     }
 
     let clone = Command::new("git")
-        .args(["clone", "--depth", "1", &repo, &tmp_repo.to_string_lossy()])
+        .args(["clone", &repo, &tmp_repo.to_string_lossy()])
         .output()
         .await?;
 
@@ -39,18 +42,15 @@ pub async fn process_extension(
         anyhow::bail!("Failed to clone")
     }
 
-    let rev = Command::new("git")
-        .args(["rev-parse", "HEAD"])
+    let checkout = Command::new("git")
+        .args(["checkout", &extension.rev])
         .current_dir(&tmp_repo)
         .output()
         .await?;
 
-    if !rev.status.success() {
-        anyhow::bail!("Failed to extract revision")
+    if !checkout.status.success() {
+        anyhow::bail!("Failed to checkout")
     }
-
-    let rev = String::from_utf8(rev.stdout)?.trim().to_string();
-    tracing::info!(rev = rev, "Current revision");
 
     let is_zed = repo == "https://github.com/zed-industries/zed";
 
@@ -107,7 +107,7 @@ pub async fn process_extension(
     }
 
     let prefetch = Command::new("nix-prefetch-git")
-        .args(["--url", &repo, "--rev", &rev, "--quiet"])
+        .args(["--url", &repo, "--rev", &extension.rev, "--quiet"])
         .output()
         .await?;
 
@@ -158,7 +158,6 @@ pub async fn process_extension(
             src,
             grammars: grammars.iter().map(|grammar| grammar.id.clone()).collect(),
             kind,
-            published_at: extension.published_at,
         },
         grammars,
     )))
