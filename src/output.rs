@@ -16,7 +16,6 @@ pub struct Extension {
     pub grammars: Vec<String>,
     #[serde(flatten)]
     pub kind: ExtensionKind,
-    pub published_at: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

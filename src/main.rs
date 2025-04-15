@@ -1,23 +1,26 @@
-use std::collections::HashSet;
+use std::collections::{HashMap, HashSet};
+use std::env::temp_dir;
 use std::path::Path;
+use std::process::Command;
 use std::sync::Arc;
 
 use clap::{Parser, Subcommand};
 use futures::StreamExt;
 use futures::stream::FuturesUnordered;
+use registry::RegistryExtension;
 use tokio::fs;
 use tokio::sync::Semaphore;
 use tracing_subscriber::EnvFilter;
 
-use crate::api::ApiResponse;
 use crate::manifest::ExtensionManifest;
 use crate::output::NixExtensions;
+use crate::registry::RegistryEntry;
 use crate::sync::process_extension;
 use crate::wasm::extract_zed_api_version;
 
-pub mod api;
 pub mod manifest;
 pub mod output;
+pub mod registry;
 pub mod sync;
 pub mod wasm;
 
@@ -62,15 +65,106 @@ async fn main() -> anyhow::Result<()> {
                 NixExtensions::default()
             };
 
-            let extensions = reqwest::get("https://api.zed.dev/extensions?max_schema_version=1")
-                .await?
-                .json::<ApiResponse>()
-                .await?
-                .data;
+            tracing::info!("Cloning extensions registry");
+            let tmp_registry = temp_dir().join("registry");
+            let clone = Command::new("git")
+                .args([
+                    "clone",
+                    "--depth",
+                    "1",
+                    "https://github.com/zed-industries/extensions",
+                    &tmp_registry.to_string_lossy(),
+                ])
+                .status()?;
 
-            let extension_ids: HashSet<String> = extensions
+            if !clone.success() {
+                anyhow::bail!("Failed to clone extensions repository");
+            }
+
+            // Lookup registry extensions
+            let registry = tmp_registry.join("extensions.toml");
+            let registry = fs::read_to_string(registry).await?;
+            let registry: HashMap<String, RegistryEntry> = toml::from_str(&registry)?;
+
+            // Parse submodule revisions
+            let submodules = Command::new("git")
+                .current_dir(&tmp_registry)
+                .args(["submodule", "status"])
+                .output()?;
+
+            if !submodules.status.success() {
+                anyhow::bail!("Failed to get submodule status");
+            }
+
+            let submodules = String::from_utf8(submodules.stdout)?.trim().to_string();
+
+            let mut revisions: HashMap<String, String> = HashMap::new();
+            for line in submodules.lines() {
+                let parts: Vec<&str> = line.splitn(2, " ").collect();
+
+                let revision = parts[0].trim_start_matches("-").to_string();
+                let path = parts[1].to_string();
+
+                revisions.insert(path, revision);
+            }
+
+            // Parse submodule repositories
+            let gitmodules = Command::new("git")
+                .current_dir(&tmp_registry)
+                .args(["config", "--file", ".gitmodules", "--list"])
+                .output()?;
+
+            if !gitmodules.status.success() {
+                anyhow::bail!("Failed to get submodule repositories");
+            }
+
+            let gitmodules = String::from_utf8(gitmodules.stdout)?.trim().to_string();
+
+            let mut repositories: HashMap<String, String> = HashMap::new();
+            for line in gitmodules.lines() {
+                let parts: Vec<&str> = line.splitn(2, "=").collect();
+
+                let path = parts[0]
+                    .trim_start_matches("submodule.")
+                    .trim_end_matches(".url")
+                    .to_string();
+                let repository = parts[1].trim_end_matches(".git").to_string();
+
+                repositories.insert(path, repository);
+            }
+
+            // Merge details
+            let mut extensions: Vec<RegistryExtension> = vec![];
+            for (id, entry) in registry.iter() {
+                let Some(repository) = repositories.get(&entry.submodule) else {
+                    tracing::warn!(
+                        submodule = ?entry.submodule,
+                        "Missing submodule repository"
+                    );
+
+                    continue;
+                };
+
+                let Some(revision) = revisions.get(&entry.submodule) else {
+                    tracing::warn!(
+                        submodule = ?entry.submodule,
+                        "Missing submodule revision"
+                    );
+
+                    continue;
+                };
+
+                extensions.push(RegistryExtension {
+                    id: id.clone(),
+                    version: entry.version.clone(),
+                    repository: repository.to_string(),
+                    rev: revision.to_string(),
+                });
+            }
+
+            let extension_ids: HashSet<String> = registry
                 .iter()
-                .map(|extension| extension.id.clone())
+                .map(|extension| extension.0.clone())
                 .collect();
 
             // Handle removed extensions/grammars
@@ -104,7 +198,7 @@ async fn main() -> anyhow::Result<()> {
                         .iter()
                         .find(|existing| existing.id == extension.id)
                     {
-                        if existing.published_at >= extension.published_at {
+                        if existing.version >= extension.version {
                             tracing::debug!(id = extension.id, "Skipping unchanged extension");
                             return false;
                         }
@@ -159,6 +253,7 @@ async fn main() -> anyhow::Result<()> {
             output.grammars.sort_by(|a, b| a.id.cmp(&b.id));
             let output = serde_json::to_string_pretty(&output)?;
             fs::write(output_path, output).await?;
+            fs::remove_dir_all(tmp_registry).await?;
         }
 
         Commands::Populate => {
