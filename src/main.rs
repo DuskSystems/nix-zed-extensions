@@ -1,3 +1,4 @@
+use std::collections::HashSet;
 use std::path::Path;
 use std::sync::Arc;
 
@@ -67,10 +68,37 @@ async fn main() -> anyhow::Result<()> {
                 .await?
                 .data;
 
+            let extension_ids: HashSet<String> = extensions
+                .iter()
+                .map(|extension| extension.id.clone())
+                .collect();
+
+            // Handle removed extensions/grammars
+            let removed_extensions: Vec<String> = output
+                .extensions
+                .iter()
+                .filter(|existing| !extension_ids.contains(&existing.id))
+                .map(|ext| ext.id.clone())
+                .collect();
+
+            for id in &removed_extensions {
+                tracing::info!(id = id, "Removing extension that is no longer maintained");
+                if let Some(extension) = output.extensions.iter().find(|e| &e.id == id) {
+                    output
+                        .grammars
+                        .retain(|grammar| !extension.grammars.contains(&grammar.id));
+                }
+            }
+
+            output
+                .extensions
+                .retain(|existing| !removed_extensions.contains(&existing.id));
+
+            // Filter remaining extensions/grammars
             let extensions = extensions
                 .into_iter()
                 .filter(|extension| {
-                    // Skip extension that haven't chaned.
+                    // Skip extension that haven't changed.
                     if let Some(existing) = output
                         .extensions
                         .iter()

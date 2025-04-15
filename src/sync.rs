@@ -79,6 +79,8 @@ pub async fn process_extension(
         fs::create_dir(generated_dir).await?;
     }
 
+    let stored_lockfile = generated_dir.join(format!("{id}.lock"));
+
     let mut generated_lockfile = false;
     if cargo.exists() && !lockfile.exists() {
         tracing::info!("Generating Cargo.lock");
@@ -95,10 +97,13 @@ pub async fn process_extension(
             return Ok(None);
         }
 
-        let stored_lockfile = generated_dir.join(format!("{id}.lock"));
         fs::copy(&lockfile, &stored_lockfile).await?;
-
         generated_lockfile = true;
+    }
+
+    if !generated_lockfile && stored_lockfile.exists() {
+        tracing::info!("Removing generated lockfile");
+        fs::remove_file(&stored_lockfile).await?;
     }
 
     let prefetch = Command::new("nix-prefetch-git")
