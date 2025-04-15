@@ -4506,14 +4506,14 @@
     },
     {
       "id": "lydia",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/dimitrisnl/lydia-zed-theme",
-        "rev": "c032cccc925626ef7decc357aaad8f4b58093916",
-        "date": "2025-02-24T10:04:52+02:00",
-        "path": "/nix/store/48lxjdmfbf4vyc0pwkb4sr44xzn7xx8z-lydia-zed-theme-c032ccc",
-        "sha256": "16sj02xa6wsz0g4yzb124szxy3hcn1pha2rxcdz3w93yrz2jwgdg",
-        "hash": "sha256-rz0uxc9+JD5+Yz0LBW+wDA7fvyYirO/JA19zo7oAUps=",
+        "rev": "e6e36a3289baa4416fa4589242396714325c459a",
+        "date": "2025-04-15T13:31:08+03:00",
+        "path": "/nix/store/vwc5q3jkvpkg1fw2dg7k1pq3sjw0nm8m-lydia-zed-theme-e6e36a3",
+        "sha256": "09sdyqcg9rz3ffqrmlxarllihm2399kb3r9ykg1h90d0c52g4xv6",
+        "hash": "sha256-ZnfyRGGggQTDmz7lsWZKQ1QYKc2q05qxc+Pn9Bj2TSc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4521,7 +4521,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-02-24T12:53:52Z"
+      "published_at": "2025-04-15T19:55:50Z"
     },
     {
       "id": "macos-classic",
