@@ -4,7 +4,7 @@
 
 Nix expressions for Zed extensions.
 
-- Over 400 [extensions generated](extensions.json).
+- Over 500 [extensions generated](extensions.json).
 - Daily sync from the [Zed extensions registry](https://github.com/zed-industries/extensions).
 
 ## Usage
@@ -32,7 +32,7 @@ nixpkgs.overlays = [
 Extensions are named like: `<extension_id>`.
 
 ```bash
-> nix eval --json nixpkgs#zed-extensions
+> nix eval --json .#zed-extensions
 {
   "0x96f": "/nix/store/hzmxbivy2hbv4456x92v2wfcfqrz4ylq-zed-extension-0x96f-1.3.1",
   "actionscript": "/nix/store/ld75wsldpf34m4v6n1l6dzbjkv65jc7j-zed-extension-actionscript-0.0.1",
@@ -44,7 +44,7 @@ Extensions are named like: `<extension_id>`.
 Grammars are named like: `<extension_id>_<grammar_id>`.
 
 ```bash
-> nix eval --json nixpkgs#zed-grammars
+> nix eval --json .#zed-grammars
 {
   "actionscript_actionscript": "/nix/store/skdvlxrzbgl5731xxgx6cnx3v86305fp-zed-grammar-actionscript-24919034fc78fdf9bedaac6616b6a60af20ab9b5",
   "ada_ada": "/nix/store/h7acvmsrrw0av4sk01255lxx19i99q2m-zed-grammar-ada-e8e2515465cc2d7c444498e68bdb9f1d86767f95",

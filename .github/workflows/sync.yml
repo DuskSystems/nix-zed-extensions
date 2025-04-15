@@ -13,6 +13,7 @@ concurrency:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   sync:
@@ -36,6 +37,7 @@ jobs:
         run: nix run .#nix-zed-extensions -- sync
 
       - name: Push changes
+        id: push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -43,33 +45,20 @@ jobs:
             git add .
             git commit -m "$(date --utc --rfc-email)"
             git push
+            echo "pushed=true" >> $GITHUB_OUTPUT
+          else
+            echo "pushed=false" >> $GITHUB_OUTPUT
           fi
 
-  test:
-    needs: sync
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - runner: ubuntu-24.04
-          - runner: ubuntu-24.04-arm
-          - runner: macos-13
-          - runner: macos-14
-    runs-on: ${{ matrix.runner }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: Trigger test workflow
+        if: steps.push.outputs.pushed == 'true'
+        uses: actions/github-script@v7
         with:
-          persist-credentials: false
-
-      - name: Install Nix
-        uses: nixbuild/nix-quick-install-action@v30
-
-      - name: Cache Nix
-        uses: nix-community/cache-nix-action@v6
-        with:
-          primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
-
-      - name: Test extension
-        run: nix build .#zed-extensions.nix
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'test.yml',
+              ref: 'main'
+            });

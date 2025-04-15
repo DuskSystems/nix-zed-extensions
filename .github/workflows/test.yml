@@ -1,0 +1,37 @@
+name: test
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: test
+  cancel-in-progress: false
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: ubuntu-24.04
+          - runner: ubuntu-24.04-arm
+          - runner: macos-13
+          - runner: macos-14
+    runs-on: ${{ matrix.runner }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install Nix
+        uses: nixbuild/nix-quick-install-action@v30
+
+      - name: Cache Nix
+        uses: nix-community/cache-nix-action@v6
+        with:
+          primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
+
+      - name: Test extension
+        run: nix build .#zed-extensions.nix
