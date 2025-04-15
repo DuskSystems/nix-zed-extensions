@@ -2,14 +2,14 @@
   "extensions": [
     {
       "id": "0x96f",
-      "version": "1.3.1",
+      "version": "1.3.3",
       "src": {
         "url": "https://github.com/filipjanevski/zed-theme",
-        "rev": "b09af33be2c014d4281553196726135bb9bd92ee",
-        "date": "2025-04-07T08:38:07+02:00",
-        "path": "/nix/store/xlxcdvx2kc0l19x8g2z7cvlq8ndi6ldc-zed-theme-b09af33",
-        "sha256": "0lgdsk00p2ab4k6fswx3iy44vw6v360z4nrcw0i41v5jb9w5ck43",
-        "hash": "sha256-g0xWeFqy7EAi4Cxb8oEZ2/BNiI+jc+3MJEuJC8DU7VE=",
+        "rev": "0736789501db965f50d5dbead08c755cc1986d7d",
+        "date": "2025-04-14T21:48:14+02:00",
+        "path": "/nix/store/akzapdmqsq5mf5948r336bdr6l5hg1ki-zed-theme-0736789",
+        "sha256": "1wq51ss6y4gm1zs93gr6w7fdqxv5xf80pmk0rxzqc98qc0v7l62v",
+        "hash": "sha256-Wxh6NmAYJYZ/z2DWC5DrZXfc3OEmv5H0D/URb7QOBfM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -17,7 +17,7 @@
       },
       "grammars": [],
       "kind": "plain",
-      "published_at": "2025-04-06T12:07:58Z"
+      "published_at": "2025-04-15T01:11:58Z"
     },
     {
       "id": "actionscript",
@@ -3839,14 +3839,14 @@
     },
     {
       "id": "java",
-      "version": "6.0.1",
+      "version": "6.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/java",
-        "rev": "a2d1d0bdf7cebebfb312191c2b87932b38d5d158",
-        "date": "2025-04-04T08:55:52-07:00",
-        "path": "/nix/store/n2yb038s9i5j9pqxjbvii7d5ppf1waqd-java-a2d1d0b",
-        "sha256": "1dbxzxnyjs2mmc6cwshbfdzw8v66n942p48sir1sbfd4hfapw9gd",
-        "hash": "sha256-7SV+lYOkuaVDjhqRK0iyxmzEf3MLas4Mq1Vo6W3/fbU=",
+        "rev": "778b8f6f1db0eb5d02b18ca6a0fd01eaa5b2a1db",
+        "date": "2025-04-14T10:42:55-07:00",
+        "path": "/nix/store/v03lsc9irx68h7441k94gxv5xm36sjd1-java-778b8f6",
+        "sha256": "05czl97pisj6r055i8nch3i95jsr8cjiz4vjjg3dff1d8idcsn1s",
+        "hash": "sha256-OljNWkQtONfGk3KTHyVDWcuS4oDMolgKyEbqeE+inxU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3856,11 +3856,11 @@
         "java_java"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-MrCXlorEyvv23A8TXyPYI6dt9F6bdDAGm6Ex790pw7c=",
+      "cargoHash": "sha256-svBTlDbmK8/O8BPZGr3lDryuw5+KUeNf8s+LUMgLS/c=",
       "cargoLock": {
         "lockFile": "/generated/java.lock"
       },
-      "published_at": "2025-03-28T21:50:52Z"
+      "published_at": "2025-04-14T18:02:15Z"
     },
     {
       "id": "java-eclipse-jdtls",
