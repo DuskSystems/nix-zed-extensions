@@ -30,7 +30,6 @@ let
     };
   };
 in
-
 stdenv.mkDerivation {
   pname = "wasi-sdk";
   inherit version;
