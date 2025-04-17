@@ -2057,14 +2057,14 @@
     },
     {
       "id": "d2",
-      "version": "0.1.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/gabeidx/zed-d2",
-        "rev": "47edacb1fcd7e5f51ffe1b7b28ab80393e9314b0",
-        "date": "2024-10-16T15:11:58+02:00",
-        "path": "/nix/store/i8vk66l68g6b4kvyklckwar3a0nmv6kz-zed-d2-47edacb",
-        "sha256": "00f7x0ix2qksr1dz0pcw82g0xz5y3nl6vzx3pb63r5d61i1wg42h",
-        "hash": "sha256-UJDHQwymlTzMuqP/bagdvvwOnkCcXfBbyHpi0SPoxwE=",
+        "rev": "546d913f5139ca2aafe4976fd8b3eccb357b827d",
+        "date": "2025-04-10T23:44:05+02:00",
+        "path": "/nix/store/qlivm8xs69nbz84kh7jbbdrh457sbsfm-zed-d2-546d913",
+        "sha256": "16dksg5vz32h4c886aykqr1ncc94bd84zf49c1fwlsykabsxymn6",
+        "hash": "sha256-xlbf9VLTa8pdYIm4T1BbJDFmQ8bTK4MQI1CMv8vTs5k=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5611,14 +5611,14 @@
     },
     {
       "id": "neocmake",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/k0tran/zed_neocmake",
-        "rev": "56eba6524920c1eaf4505eaa835751acae17370b",
-        "date": "2024-08-19T19:46:59+03:00",
-        "path": "/nix/store/wkhbz92filmqlznh307qw05c7041v3zr-zed_neocmake-56eba65",
-        "sha256": "0dzid2ipqy1slv5xy8v9xd1a305yw5drcwnalmijlhqy0vbj6dfy",
-        "hash": "sha256-3jUj1wYeQypjpcpyllvhvoChQutpI9/Lpjp4fKNo8Tc=",
+        "rev": "b890a9fb5daa904f90888362e120425d81c0aaed",
+        "date": "2025-04-17T13:45:31+03:00",
+        "path": "/nix/store/mhbzyxjxr02v65pr884mp3nrl8db2bgy-zed_neocmake-b890a9f",
+        "sha256": "0bn5pmnh1q9xaf80qbwhg3hyh26mnqq02k5pciiidplxhkdz2zvj",
+        "hash": "sha256-cn/x24Sd3hZjZLdMATC21Qjo4XiQLwyQUz3hAG29xS4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5628,7 +5628,7 @@
         "neocmake_cmake"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-mpuQNNn5gDpiiCEh9gtsFDfBm9Y1M4qPmZccLUYPrsY=",
+      "cargoHash": "sha256-b1g/7yE69kJQ8hvvsVH/vUOV2kXmV0RiMQz2M3/2K+8=",
       "cargoLock": {
         "lockFile": "/generated/neocmake.lock"
       }
