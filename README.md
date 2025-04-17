@@ -1,4 +1,5 @@
 [![sync](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/sync.yml/badge.svg)](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/sync.yml)
+[![test](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/test.yml/badge.svg)](https://github.com/DuskSystems/nix-zed-extensions/actions/workflows/test.yml)
 
 # `nix-zed-extensions`
 
