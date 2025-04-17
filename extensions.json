@@ -869,21 +869,22 @@
     },
     {
       "id": "blade",
-      "version": "0.0.5",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-laravel-blade",
-        "rev": "86aef374a3afccdb44be2bab68b9811de3e4a51c",
-        "date": "2025-03-23T11:50:34+05:30",
-        "path": "/nix/store/fxgkxwyhar47cj0yp7c544ac55yvj97q-zed-laravel-blade-86aef37",
-        "sha256": "0mih26r0s788dh2f3jvmrpvaf3jba9sss43wg4w5q7wlxzhf3ahh",
-        "hash": "sha256-EKrh4O+UH1w4eXwQrXVSSw6n9s11y+EEbAgdDbIRMFY=",
+        "rev": "be39d849b7cc75560879a864fa1048337626e400",
+        "date": "2025-04-16T15:01:29+05:30",
+        "path": "/nix/store/rdx82dpd7x7l1jzvr1ni0p1zakl7qkbl-zed-laravel-blade-be39d84",
+        "sha256": "0h5717llv7kjig386cdr7ym3wlcahrssv69l1idhln3a6n4nqyhl",
+        "hash": "sha256-FHpsiTVqWApbDDSZrXWGilE+qj+5MYPGi3KeTekJp0A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "blade_blade"
+        "blade_blade",
+        "blade_php_only"
       ],
       "kind": "rust",
       "cargoHash": "sha256-ByEAOwPhkPN9dfh0nLIgawjFilNuN7i3S8T/FL1X0Ug="
@@ -1240,14 +1241,14 @@
     },
     {
       "id": "catppuccin",
-      "version": "0.2.21",
+      "version": "0.2.22",
       "src": {
         "url": "https://github.com/catppuccin/zed",
-        "rev": "26d9da7a13c880a61574c4a65b58dec8881ab84e",
-        "date": "2025-03-17T09:33:48-07:00",
-        "path": "/nix/store/4msrbkmpmlv82fm4m13rchh5kwmk7ixx-zed-26d9da7",
-        "sha256": "1p285vak4fc7px5h8hqg1s5nx3rj4r3zxkvnzq7pjqwqz1jmvy9h",
-        "hash": "sha256-MPldZfiYY3kP/nbP/kcmMo9uiw4PQwRLv4c5MtUuSNw=",
+        "rev": "4e680a5f76459d929c15211eb8494c121782584f",
+        "date": "2025-04-16T10:23:15-07:00",
+        "path": "/nix/store/2g1gkbjij2cf39cv36j129spzgyh7y9w-zed-4e680a5",
+        "sha256": "05gpgrpw0akdzqpasf8cy2x0d5sicryignpwynp2x6x0d6hm8n6h",
+        "hash": "sha256-0FhUoWmgmy6u9fzaF31mUZcGuvAMOa0u/m0qwG9+9xU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6282,14 +6283,14 @@
     },
     {
       "id": "one-dark-flat",
-      "version": "0.1.1",
+      "version": "1.0.0",
       "src": {
         "url": "https://github.com/0PandaDEV/zed-one-dark-flat",
-        "rev": "fba69a5c5d2a59c0ccf7762e1f591dcb29edde18",
-        "date": "2025-02-23T23:11:54+01:00",
-        "path": "/nix/store/zmy3hzx91h0xiqapipk2n2asrirpifdm-zed-one-dark-flat-fba69a5",
-        "sha256": "0s6c8iwc7f2p31ykkw35mn6vriynpmjlvk85ppf0192mbfg1jjv6",
-        "hash": "sha256-ZksZnltVpADcvQXNTWW91se8ja1l8Dl9GFe4w3hEzGg=",
+        "rev": "d90856e4fa022530457b1deff71526bbf41ee8f6",
+        "date": "2025-04-15T22:42:10+02:00",
+        "path": "/nix/store/hzdimvf1wsyqzz4lpfg43h3bvy2mj938-zed-one-dark-flat-d90856e",
+        "sha256": "1194x5n1gnfanfbiad4jgnbwmqv6s3xsqqjpim18hlb79lcicqhf",
+        "hash": "sha256-DmIWGU1nUYhCjVdirPvQZuPKl32SNBWXs8rZF2zpJIU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6448,14 +6449,14 @@
     },
     {
       "id": "oscura",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/webhooked/oscura-zed",
-        "rev": "14f74089d45535ae06b73f3d0f7bdf0e1ddf6a4c",
-        "date": "2025-03-28T23:19:23+01:00",
-        "path": "/nix/store/hfp8n1fhi66cbjw89h236ba0v7gnz5af-oscura-zed-14f7408",
-        "sha256": "1nvpk8mcjk3dyrpm72s8him7hjs40bjd4nypnbr3wr9iiyin1kbs",
-        "hash": "sha256-es1go48xZT7ystdb0uQCREt4aoRIi1Nv9m1MySqad9s=",
+        "rev": "fa0e50c90c9f0fbdce8171e9608e10db3c8ca8c9",
+        "date": "2025-04-16T21:37:13+02:00",
+        "path": "/nix/store/s2rki9z57b0vq7vbz4f51k9v38l3h8m7-oscura-zed-fa0e50c",
+        "sha256": "1v1dw6v9h2nhy5q5fliv0carf93z7f10vrqw5df5x2vakr7iyagf",
+        "hash": "sha256-7ikfT55qi15cKxznDYI7fySXFQM7Uldw8dAKmLbhLew=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7719,6 +7720,24 @@
       "grammars": [],
       "kind": "rust",
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
+    },
+    {
+      "id": "rust-rover-dark-theme",
+      "version": "1.0.3",
+      "src": {
+        "url": "https://github.com/blkmlk/RustRover-Zed-Theme",
+        "rev": "55d80bc0d155e2f5424e3a535df61e8a08156c27",
+        "date": "2025-04-15T22:49:34+03:00",
+        "path": "/nix/store/nil6739w1k84m8r2nvj3b46cl5244bny-RustRover-Zed-Theme-55d80bc",
+        "sha256": "090h9k8lcan808k7jd4zyh9dx6sn1rgnsc8pddjyn56r4isxs37l",
+        "hash": "sha256-9AzddSTZFOtlaxcxbV8OVpveEvSfNHkmAsgqRtFMECQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "id": "s-dark-theme",
@@ -9719,6 +9738,27 @@
       "cargoHash": "sha256-2se/wqON2U34PdMj/cOz2bv4YwxAbOts+h3skRAfHOY="
     },
     {
+      "id": "wgsl-wesl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/lucascompython/wgsl-wesl-zed",
+        "rev": "302741137510db57df7df50c4ef4169163189d74",
+        "date": "2025-04-16T11:48:37+01:00",
+        "path": "/nix/store/f8fmpryf51j856i8sqxc6llq4hm7l9hd-wgsl-wesl-zed-3027411",
+        "sha256": "0pmrdaws1brlpim3axafsmaagh4nj96r6b26px7mlak9ii4shihc",
+        "hash": "sha256-DEaoSYxpKlpPv0Ysk02SlsCnVNVOdTVqvDSvoLlquV4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "wgsl-wesl_wesl"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-dG/e7fHY7OUcr5+8X0oTOya9KshLp8eIUnwTO6OWkjQ="
+    },
+    {
       "id": "whkd",
       "version": "0.1.0",
       "src": {
@@ -10342,14 +10382,31 @@
     {
       "id": "blade_blade",
       "name": "blade",
-      "version": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
+      "version": "bcdc4b01827cac21205f7453e9be02f906943128",
       "src": {
         "url": "https://github.com/EmranMR/tree-sitter-blade",
-        "rev": "47baa7ba1f9d5f436c7a72b052d2dac2166abf92",
-        "date": "2024-12-09T12:06:52Z",
-        "path": "/nix/store/byllx0zxcajzz0akg76j6v0qbwglrhra-tree-sitter-blade-47baa7b",
-        "sha256": "0z09n0k3m8fcw3g4xh1h21jk3viivxfcg23ccid7x19aag518x1p",
-        "hash": "sha256-N3QUylMqhX5aZGyIx1zfMe4xZRAwwE7e4MyhOiawCXw=",
+        "rev": "bcdc4b01827cac21205f7453e9be02f906943128",
+        "date": "2025-02-28T16:32:23Z",
+        "path": "/nix/store/bw0bp51za03sxbincjyqc88qfgvzgwd6-tree-sitter-blade-bcdc4b0",
+        "sha256": "0344a52vk03w664iaqfmzxy1ch475iz8njj9gmsps2qyrkyjixsa",
+        "hash": "sha256-Svco/cweC311fUlKi34sh0AWfP/VYRWJMXyAuUVRhAw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "blade_php_only",
+      "name": "php_only",
+      "version": "f7cf7348737d8cff1b13407a0bfedce02ee7b046",
+      "src": {
+        "url": "https://github.com/tree-sitter/tree-sitter-php",
+        "rev": "f7cf7348737d8cff1b13407a0bfedce02ee7b046",
+        "date": "2025-02-27T03:54:39-06:00",
+        "path": "/nix/store/8n33k86jixsrfrgz7pk8aadklcdpcgj7-tree-sitter-php-f7cf734",
+        "sha256": "05qhz14vvqgwpxgdfr1skwgrv041zwc3wxjyx6y679965nn0lrji",
+        "hash": "sha256-UWYKrC0mpWO86V52Phj/gYCdH586ZNdev/zhvUn4EBc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14056,6 +14113,23 @@
         "path": "/nix/store/m2mpnhyydnr0b0ps8zh41h6cwjxzp873-tree-sitter-wdl-e0ea84c",
         "sha256": "1z15dpar90mkflyb7w11nbzrgyd4v95afvad881yq08nm161apdp",
         "hash": "sha256-t10VTKgWAewDQk1tp0rapPmX/7Ih8LM8dbOClNVtJfw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "wgsl-wesl_wesl",
+      "name": "wesl",
+      "version": "94ee6122680ef8ce2173853ca7c99f7aaeeda8ce",
+      "src": {
+        "url": "https://github.com/wgsl-tooling-wg/tree-sitter-wesl",
+        "rev": "94ee6122680ef8ce2173853ca7c99f7aaeeda8ce",
+        "date": "2025-02-14T17:32:41+01:00",
+        "path": "/nix/store/8hnyrrl0vkvi1m8vcnnq66lqxgy3q8d7-tree-sitter-wesl-94ee612",
+        "sha256": "1dxpn7v6xl2zz4dvrslxkbhhfmq4nxk1zqq392jndja3kdpsip4z",
+        "hash": "sha256-n9yob5tDyWalSAPjH2a3BFcH4Zqd6rwb+V/Qbvaxt7c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
