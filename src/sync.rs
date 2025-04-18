@@ -52,10 +52,8 @@ pub async fn process_extension(
         anyhow::bail!("Failed to checkout")
     }
 
-    let is_zed = repo == "https://github.com/zed-industries/zed";
-
-    let (extension_dir, manifest) = if is_zed {
-        let extension_dir = tmp_repo.join("extensions").join(&id);
+    let (extension_dir, manifest) = if let Some(path) = &extension.path {
+        let extension_dir = tmp_repo.join(path);
         (extension_dir.clone(), extension_dir.join("extension.toml"))
     } else {
         (tmp_repo.clone(), tmp_repo.join("extension.toml"))
@@ -68,7 +66,7 @@ pub async fn process_extension(
     }
 
     let cargo = extension_dir.join("Cargo.toml");
-    let lockfile = if is_zed {
+    let lockfile = if extension.path.is_some() {
         tmp_repo.join("Cargo.lock")
     } else {
         extension_dir.join("Cargo.lock")
@@ -156,6 +154,7 @@ pub async fn process_extension(
             id,
             version: manifest.version,
             src,
+            extension_root: extension.path,
             grammars: grammars.iter().map(|grammar| grammar.id.clone()).collect(),
             kind,
         },

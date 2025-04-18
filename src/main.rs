@@ -158,6 +158,7 @@ async fn main() -> anyhow::Result<()> {
                     id: id.clone(),
                     version: entry.version.clone(),
                     repository: repository.to_string(),
+                    path: entry.path.clone(),
                     rev: revision.to_string(),
                 });
             }

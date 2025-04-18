@@ -59,6 +59,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4a5f13b858c8d314ee3e8f639011f7ccefe71f97f96e50151fb991f267928e2c"
 
 [[package]]
+name = "lean4"
+version = "0.0.2"
+dependencies = [
+ "zed_extension_api",
+]
+
+[[package]]
 name = "leb128"
 version = "0.2.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -312,18 +319,11 @@ dependencies = [
 
 [[package]]
 name = "zed_extension_api"
-version = "0.0.6"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "77ca8bcaea3feb2d2ce9dbeb061ee48365312a351faa7014c417b0365fe9e459"
+checksum = "5e580c3ea59a92fc876756f3b4612f7a47ec86a34a1b9be099a24bd55401ff31"
 dependencies = [
  "serde",
  "serde_json",
  "wit-bindgen",
-]
-
-[[package]]
-name = "zed_templ"
-version = "0.0.7"
-dependencies = [
- "zed_extension_api",
 ]
