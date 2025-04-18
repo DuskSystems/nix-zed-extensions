@@ -97,6 +97,9 @@
             fetch-cargo-vendor-util
             nix-prefetch-git
 
+            # CLI
+            tree
+
             # TOML
             taplo
 

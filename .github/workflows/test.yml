@@ -2,6 +2,7 @@ name: test
 
 on:
   workflow_dispatch:
+  pull_request:
 
 concurrency:
   group: test
@@ -15,7 +16,6 @@ jobs:
         include:
           - runner: ubuntu-24.04
           - runner: ubuntu-24.04-arm
-          - runner: macos-13
           - runner: macos-14
     runs-on: ${{ matrix.runner }}
     steps:
@@ -33,5 +33,23 @@ jobs:
           primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
           restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
 
-      - name: Test extension
-        run: nix build .#zed-extensions.nix
+      - name: Test extensions
+        shell: nix develop --command bash {0}
+        run: |
+          set -euxo pipefail
+
+          # Plain
+          nix build .#zed-extensions.catppuccin
+          tree result
+
+          # Rust
+          nix build .#zed-extensions.nix
+          tree result
+
+          # Monorepo Plain
+          nix build .#zed-extensions.aura-theme
+          tree result
+
+          # Monorepo Rust
+          nix build .#zed-extensions.ruff
+          tree result

@@ -27,8 +27,9 @@ lib.extendMkDerivation {
 
   excludeDrvArgNames = [
     "name"
-    "version"
     "src"
+    "version"
+    "extensionRoot"
     "grammars"
   ];
 
@@ -37,18 +38,16 @@ lib.extendMkDerivation {
 
     {
       name,
-      version,
       src,
+      version,
+      extensionRoot ? null,
       grammars ? [ ],
       ...
     }:
 
-    let
-      isZed = src.url == "https://github.com/zed-industries/zed";
-    in
     {
       pname = "zed-extension-${name}";
-      inherit version src;
+      inherit src version;
 
       RUSTFLAGS = "-C linker=${llvmPackages.lld}/bin/lld";
       LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
@@ -62,22 +61,19 @@ lib.extendMkDerivation {
       buildPhase = ''
         runHook preBuild
 
-        ${lib.optionalString isZed ''
-          pushd extensions/${name}
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
         ''}
 
+        # Rust
         cargo build \
           --release \
           --target wasm32-wasip1
 
-        ${lib.optionalString isZed ''
+        ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
 
-        runHook postBuild
-      '';
-
-      postBuild = ''
         # WASM
         wasm-tools component new target/wasm32-wasip1/release/*.wasm \
           --adapt wasi_snapshot_preview1=${wasip1-component-adapter}/bin/wasi_snapshot_preview1.wasm \
@@ -85,16 +81,18 @@ lib.extendMkDerivation {
 
         wasm-tools validate extension.wasm
 
-        ${lib.optionalString isZed ''
-          pushd extensions/${name}
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
         ''}
 
         # Manifest
         nix-zed-extensions populate
 
-        ${lib.optionalString isZed ''
+        ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
+
+        runHook postBuild
       '';
 
       installPhase = ''
@@ -102,8 +100,8 @@ lib.extendMkDerivation {
 
         mkdir -p $out/share/zed/extensions/${name}
 
-        ${lib.optionalString isZed ''
-          pushd extensions/${name}
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
         ''}
 
         # Manifest
@@ -133,7 +131,7 @@ lib.extendMkDerivation {
           cp snippets.json $out/share/zed/extensions/${name}
         fi
 
-        ${lib.optionalString isZed ''
+        ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
 

@@ -13,6 +13,8 @@ pub struct Extension {
     pub id: String,
     pub version: String,
     pub src: Source,
+    #[serde(rename = "extensionRoot", skip_serializing_if = "Option::is_none")]
+    pub extension_root: Option<String>,
     pub grammars: Vec<String>,
     #[serde(flatten)]
     pub kind: ExtensionKind,

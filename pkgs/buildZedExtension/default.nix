@@ -10,8 +10,9 @@ lib.extendMkDerivation {
 
   excludeDrvArgNames = [
     "name"
-    "version"
     "src"
+    "version"
+    "extensionRoot"
     "grammars"
   ];
 
@@ -20,29 +21,46 @@ lib.extendMkDerivation {
 
     {
       name,
-      version,
       src,
+      version,
+      extensionRoot ? null,
       grammars ? [ ],
       ...
     }:
 
     {
       pname = "zed-extension-${name}";
-      inherit version src;
+      inherit src version;
 
       nativeBuildInputs = [
         nix-zed-extensions
       ];
 
-      postBuild = ''
+      buildPhase = ''
+        runHook preBuild
+
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
+        ''}
+
         # Manifest
         nix-zed-extensions populate
+
+        ${lib.optionalString (extensionRoot != null) ''
+          popd
+        ''}
+
+        runHook postBuild
       '';
 
       installPhase = ''
         runHook preInstall
 
         mkdir -p $out/share/zed/extensions/${name}
+
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
+        ''}
 
         # Manifest
         cp extension.toml $out/share/zed/extensions/${name}
@@ -65,6 +83,10 @@ lib.extendMkDerivation {
         if [ -f "snippets.json" ]; then
           cp snippets.json $out/share/zed/extensions/${name}
         fi
+
+        ${lib.optionalString (extensionRoot != null) ''
+          popd
+        ''}
 
         runHook postInstall
       '';

@@ -19,8 +19,8 @@ lib.extendMkDerivation {
 
     {
       name,
-      version,
       src,
+      version,
       ...
     }:
 
