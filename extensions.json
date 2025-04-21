@@ -1754,14 +1754,14 @@
     },
     {
       "id": "cql",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/Akzestia/zed-cql",
-        "rev": "242f38df8136034e1634d75c5d3206b48a97d613",
-        "date": "2025-04-14T15:18:36+02:00",
-        "path": "/nix/store/lnj6vmjrn7cqsnb6hfaawm9m9gkrfxm0-zed-cql-242f38d",
-        "sha256": "1xpszafjpz47g4h497lw8gais1lr1da1b24599gzwdn5h3ljncja",
-        "hash": "sha256-SjIr6YDFNv5fSoWIFVQLmQYd1UOcnkQgeYf8K536+vY=",
+        "rev": "a94ac957fe8e16a88f38c2691854750bf48d2e4a",
+        "date": "2025-04-18T18:02:12+02:00",
+        "path": "/nix/store/lp931whikih8rwj6fasc6p33gxpmrsyr-zed-cql-a94ac95",
+        "sha256": "14nhwy03l7rn5fi74h6ds1rmysvx4asdg4n80s10fww8d5m6vbmq",
+        "hash": "sha256-uK5tammIcweCBsiS17QifWtfc9DNQHKiKzYfOoDn0JI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2900,6 +2900,24 @@
         "path": "/nix/store/6s4spnjkzzkcc1balv5vph5q9f3qki6a-zed-flexoki-theme-cb1a639",
         "sha256": "014j25p45ipxaaiydsq0iflsf89nvsy7jb79wz4x19g6gd2aw3nz",
         "hash": "sha256-3w6uRHvmpdDJ5+ksebzeNiGnqYsA6+ajUv3GQm4RkgQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "id": "flow-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/Rics-Dev/zed-flow-theme",
+        "rev": "23da6eba5a175e3c2850f6bf425df0ae72a8d80b",
+        "date": "2025-04-19T13:38:06+01:00",
+        "path": "/nix/store/9pfhgji45r650wf9hln9bxqkbgxvq8vy-zed-flow-theme-23da6eb",
+        "sha256": "0g7h17k07aqw8lvyf2aii9g5f0l03r51y4m2hac412s53fvvdlv6",
+        "hash": "sha256-ZtO2txtFi0CYgqISH0oegAJXXopRCec3RRyrA+YJ8Dw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4527,14 +4545,14 @@
     },
     {
       "id": "latex",
-      "version": "0.1.13",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/rzukic/zed-latex",
-        "rev": "5c905079431f64c3db6e3eeab88e0891cd4735f5",
-        "date": "2025-03-19T21:18:42Z",
-        "path": "/nix/store/m4kpg2mx8bz9m1ysy4ms2qn397h9gzz1-zed-latex-5c90507",
-        "sha256": "0c6dy1fa9msdryahfc1q9pin3m9sgi4xj9rxi8qnki02jf5kd8l4",
-        "hash": "sha256-hKI2i5MCxGkxij0n2Ul8OtVh4004MAeVz03XpFzwzTA=",
+        "rev": "3a225fb4e16d988503fd4f708c39c8ca3fab5b58",
+        "date": "2025-04-19T00:49:50+01:00",
+        "path": "/nix/store/3qralbm8kphv6f6n24sq6k4mll8bz06b-zed-latex-3a225fb",
+        "sha256": "03dzv7mqkbxm84lfiqlxdnj85nrp9bfkrhz2xp4jynv9i1l2bxj1",
+        "hash": "sha256-QfYlaIhpWy/J7eLDPN1KN9uCpG2d4ugoQbWvievZvw0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4545,7 +4563,7 @@
         "latex_latex"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-2MiwzL4fwl40g1w4R/ggP2eR9DAq5Eu9yB/Ntd/1K84="
+      "cargoHash": "sha256-rX6PAdEpTwRD6Nu/EhSd4OMZ5NBS0DAQ9loxI8/OuCc="
     },
     {
       "id": "lean4",
@@ -5453,14 +5471,14 @@
     },
     {
       "id": "modus-themes",
-      "version": "0.0.15",
+      "version": "0.0.16",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "f59197b580598445e0da7677bc3272e5edb4281c",
-        "date": "2025-04-07T18:47:26+02:00",
-        "path": "/nix/store/nzvy8mqi4a0vnmvagn9i1vz8is93xhg0-zed-modus-themes-f59197b",
-        "sha256": "0rk9k060p8r3scg098y1dislrph82jk5pijawmi64j5gj1q3ypsx",
-        "hash": "sha256-XV8/cJCvSGJi5UrGW6YUCN5MdWzBowQe0yOjCwyYaWY=",
+        "rev": "e827bdafdc4024ed80fa59c6f00efa6a06315e2d",
+        "date": "2025-04-18T22:26:47+02:00",
+        "path": "/nix/store/8ynp249k5bfdkvqalyx93w2hg8pbp4rn-zed-modus-themes-e827bda",
+        "sha256": "0labrv3whjm90ycpxjdd2lddan8rwaqqd5b5d2gsr0qmq2g47x3p",
+        "hash": "sha256-d/RDnsAVg6yfaGWVhrHiGVnVGhWtyX6ZB6lKyMfOS1E=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5533,6 +5551,24 @@
         "path": "/nix/store/m15bagp85c5x883c4wr0mqajg77nh17r-monosami-e6b6adb",
         "sha256": "0ssmlp7yfchsx4a1w88syygjvypadzzwm720drpcvi85rl0ir5r6",
         "hash": "sha256-JpccAc0Fxc1ubkCcyv9v6votn/caIR4U6Roy58+lVWs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "id": "monospace-icon-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/irmhonde/monospace-icon-theme",
+        "rev": "d3945937b46914248c256bbfadadd843608f34eb",
+        "date": "2025-04-19T17:09:16+02:00",
+        "path": "/nix/store/as75ypshl7wxnx1003mfsqpc5q0xgwvk-monospace-icon-theme-d394593",
+        "sha256": "0fbv4l6j6vv8cqas1hp2bcwsklpvbm9iackh9nbzajp1d9a5v6f8",
+        "hash": "sha256-yJldVGrhSvWXTXAyFVNd+9KpOVviwqAVZmhvIw0lezk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9307,14 +9343,14 @@
     },
     {
       "id": "v",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "src": {
         "url": "https://github.com/lv37/zed-v",
-        "rev": "1eca71bd85e154fc2a3e6a686656bbcfca1048cb",
-        "date": "2025-02-08T17:42:53+01:00",
-        "path": "/nix/store/6944jmv63xx923ny43q8wwslbavzgwlk-zed-v-1eca71b",
-        "sha256": "1m1bvbm9bx4iabahfnb6w0cg3ycmbdn1i4ksjdrw1whljwpr6i51",
-        "hash": "sha256-oUSTL5cU8sBzk3qSGGxblfnxGOBmWQfVUpH0leraK9Q=",
+        "rev": "2513620b5524e88dd32438d5553272d58abdf1ee",
+        "date": "2025-04-19T19:34:37+01:00",
+        "path": "/nix/store/gw0xk7827h1z94nnx5xfad9i3ds1ml9z-zed-v-2513620",
+        "sha256": "0pzks18nfjb849zgrjqni63qplhi8gyzfkh9gbw63rfnwrcm3zqj",
+        "hash": "sha256-Ev9RWebW5WH4eglO9/1DEdKLh4kWy/x+ImhJZ1HQ818=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9324,7 +9360,7 @@
         "v_v"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-Zvvr2uv9wDrs7g+T4ADgOOdEYd1HAQl4/gjHG/R1dKY=",
+      "cargoHash": "sha256-Kb8PXag0jAKWB3Uqqxkc6PEUhJzgVGqbOT6n4aKsrAA=",
       "cargoLock": {
         "lockFile": "/generated/v.lock"
       }
@@ -10872,14 +10908,14 @@
     {
       "id": "cql_cql",
       "name": "cql",
-      "version": "75237a0a16bf7badfab74c6caaf85ef26f042d91",
+      "version": "e8cb6629ee8ee00c76df88e6b1a9a41fd07afcab",
       "src": {
         "url": "https://github.com/Akzestia/tree-sitter-cql",
-        "rev": "75237a0a16bf7badfab74c6caaf85ef26f042d91",
-        "date": "2025-04-14T02:49:33+02:00",
-        "path": "/nix/store/zqzbpigkjib1dd70z5qagwdpxg0pi3m8-tree-sitter-cql-75237a0",
-        "sha256": "10xl7hk1dz3jnyz7b529nzvf454y615cdsy6vd392d8vpiqv7w6i",
-        "hash": "sha256-0fCzcbwbNZFG28brxkownhTi9rdJlHW+t3L8FiY8tIM=",
+        "rev": "e8cb6629ee8ee00c76df88e6b1a9a41fd07afcab",
+        "date": "2025-04-17T17:46:40+02:00",
+        "path": "/nix/store/mfircrfr2ifw4p2fdmhrjiwchwvfhysy-tree-sitter-cql-e8cb662",
+        "sha256": "1fpqnj1v2jxhyk2q3w37nipxf7srh8j8ayriaza0a37xwbsfs3br",
+        "hash": "sha256-eQ3t9OL9DAXUVzF7hSSCWR/Xb7Rn8IHF9LBLsYO0+Lo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14102,14 +14138,14 @@
     {
       "id": "v_v",
       "name": "v",
-      "version": "764882164bcc91414a7cf861bfe495847f6dff87",
+      "version": "8a380d4e12220748cbc0106cafd958f32ec8ecfc",
       "src": {
         "url": "https://github.com/lv37/v-tree-sitter",
-        "rev": "764882164bcc91414a7cf861bfe495847f6dff87",
-        "date": "2024-05-18T15:51:49+01:00",
-        "path": "/nix/store/1yr06vmd7m0dwlkzd8zhs5x4nvkljj89-v-tree-sitter-7648821",
-        "sha256": "0yn9hc91cfg2p488k318avax35mzimgrlydq7d20qnd8s5nxq7g5",
-        "hash": "sha256-5R3cbdGoWQxEO7h5ml+Nv5bR1VYojIkQueI5FhKDyXo=",
+        "rev": "8a380d4e12220748cbc0106cafd958f32ec8ecfc",
+        "date": "2025-04-19T12:54:54+01:00",
+        "path": "/nix/store/2mfiglq89vgp1496sqmv73zn7x8p5gm8-v-tree-sitter-8a380d4",
+        "sha256": "055arxlg2sma63c7l4gg0m9v4chh22wjkr8c8znzknvmczykq7zl",
+        "hash": "sha256-9B88/Wd12/ntRwzlKbkQEDKyUwXvEXrYMKpq8WjPqhQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
