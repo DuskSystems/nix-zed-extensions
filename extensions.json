@@ -273,14 +273,14 @@
     },
     {
       "id": "andromeda",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/ChocolateNao/andromeda-zed",
-        "rev": "f4382f5ac8261ea1f2b294ac44787216972b0c4d",
-        "date": "2025-04-13T02:21:17+03:00",
-        "path": "/nix/store/wg4zx2fm1s6gbxk80sx9kl2yjrgwmp7g-andromeda-zed-f4382f5",
-        "sha256": "0392q67nrzy91lsfyvw1pzlyk4m3g900bcgd0q9vbf724kqr1yrb",
-        "hash": "sha256-K/uQ8STiuLUTBu2xBUB6o5Lp6b+Bb+80Dcn/bI/BIg0=",
+        "rev": "4122ec281f6d54343f7ce5fa7d7c6e03c056b05e",
+        "date": "2025-04-21T02:14:03+03:00",
+        "path": "/nix/store/mm3r8jngzckwcl70fx6lx13pzjhsqxsg-andromeda-zed-4122ec2",
+        "sha256": "0r847yah02lmhx78fpirbwmlvwy86lqgf6y2ys99lampr5g67gix",
+        "hash": "sha256-Pb5jXsm3KpqS9sIb9zA1yPNNK185XodOh5UKAJU/BGU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5258,6 +5258,25 @@
       "cargoHash": "sha256-Hj/BIVmXs8v2Sq4fsRUkBDFjguQPTU9nrUlINlkFFs4="
     },
     {
+      "id": "mcp-server-firecrawl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/akbxr/firecrawl-mcp-zed",
+        "rev": "6bedcdcc6f0e583376db49cb2919be85e1b4b662",
+        "date": "2025-04-20T18:54:14+07:00",
+        "path": "/nix/store/i1bbyz6ximshm3g1m58s88c4rg93g1g4-firecrawl-mcp-zed-6bedcdc",
+        "sha256": "185g7jfmxw1179cx9vl8wxfz76g70q5bglfhvbm3gfn7bnpxjif9",
+        "hash": "sha256-yUXZr13Hujfq2tDRtwoG55nzXeeI7tRZOiHwXp08r6A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-8JZEc6RPXJR9cMZj62CRe24ziWJ8CyytYO/wGzi0LsY="
+    },
+    {
       "id": "mcp-server-github",
       "version": "0.0.2",
       "src": {
@@ -5275,6 +5294,25 @@
       "grammars": [],
       "kind": "rust",
       "cargoHash": "sha256-ScRpRpMy/9/qbWSDd62OojIrL6IifPfu9qm0JWJJCII="
+    },
+    {
+      "id": "mcp-server-gitlab",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/akbxr/gitlab-mcp-zed",
+        "rev": "6563b0e7d5fc1492cdc040ac20df2f9f622c1ed8",
+        "date": "2025-04-21T13:16:31+07:00",
+        "path": "/nix/store/67away5nsi7ql8v83ivi05h7fg5fw1if-gitlab-mcp-zed-6563b0e",
+        "sha256": "05xy2d6n712kripphxsyd4qcwzss5bbxl8i4l16h2d4gxixx4nsr",
+        "hash": "sha256-WVvSe+yPNAFNoCQi2tcqWn/OMGled3hvzFOEY00Tvhc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-g6yhCU068x+vZnGcLRC7EjsVqAs912n5e7XCBUtK6zM="
     },
     {
       "id": "mcp-server-linear",
@@ -5561,14 +5599,14 @@
     },
     {
       "id": "monospace-icon-theme",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/irmhonde/monospace-icon-theme",
-        "rev": "d3945937b46914248c256bbfadadd843608f34eb",
-        "date": "2025-04-19T17:09:16+02:00",
-        "path": "/nix/store/as75ypshl7wxnx1003mfsqpc5q0xgwvk-monospace-icon-theme-d394593",
-        "sha256": "0fbv4l6j6vv8cqas1hp2bcwsklpvbm9iackh9nbzajp1d9a5v6f8",
-        "hash": "sha256-yJldVGrhSvWXTXAyFVNd+9KpOVviwqAVZmhvIw0lezk=",
+        "rev": "a8e6f7db02d7d950c955d1839e27dd9852332c5c",
+        "date": "2025-04-21T09:13:46+02:00",
+        "path": "/nix/store/7qng5fdvr9xr3psniyz6annihby7sfzg-monospace-icon-theme-a8e6f7d",
+        "sha256": "04bry5cknpdp2n5k7sp3dbwsqgianjc83b0rjaccv8i4q32idj3p",
+        "hash": "sha256-d8gWxcAkos2YkhmsgZi0Kj6s+Wrj6jOLFbddO1nxeRE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8471,6 +8509,24 @@
       }
     },
     {
+      "id": "srcery",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/srcery-colors/srcery-zed",
+        "rev": "07423a194f4898ea57971c7a3271b44ee2bd6f7e",
+        "date": "2025-04-20T20:44:03+02:00",
+        "path": "/nix/store/3jj08qlx41hmgpnk21ghz9qlb3lwpb0w-srcery-zed-07423a1",
+        "sha256": "1rlqnhzv4a0jn1snggwg2gg7lcl2m532m6iahhvl5342844q5ahm",
+        "hash": "sha256-FaqCCUGCjEI3hCqaKkapgjJ63hOPv2d1sBIosj+0mOY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "id": "ssh-config",
       "version": "0.1.0",
       "src": {
@@ -10231,14 +10287,14 @@
     },
     {
       "id": "zedwaita",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/someone13574/zed-adwaita-theme",
-        "rev": "2d8b22db2fef302a3319e90639aca5083420ac6e",
-        "date": "2024-10-29T21:36:53-04:00",
-        "path": "/nix/store/xc9bzgrfabwvv53m4g167kfrnhj0ssa5-zed-adwaita-theme-2d8b22d",
-        "sha256": "0xcxinpaxp5chikv0qmkjyx39h44wavnw6q10zfkpmx3bcv0q1i2",
-        "hash": "sha256-IgYMNluj1zvdBwEbbrfihMA0upezYrBnhKzcrq6NnXU=",
+        "rev": "b16b788381d9a39a28226c4c70d001408b7c75fc",
+        "date": "2025-04-20T22:03:04-04:00",
+        "path": "/nix/store/5xsjk7ixly9pxcng1brc4l4j4c00ng7x-zed-adwaita-theme-b16b788",
+        "sha256": "18462y4mf61hfl2ia52mpad8pfrd082bi2psk68s5mbdm6d36a8p",
+        "hash": "sha256-Fykzmqlt1aKRmfqKuAQCLbuLmrpVFBUFdTAYV4kXhqA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
