@@ -4212,14 +4212,14 @@
     },
     {
       "id": "java",
-      "version": "6.0.2",
+      "version": "6.0.3",
       "src": {
         "url": "https://github.com/samuser107/zed-java-extension",
-        "rev": "778b8f6f1db0eb5d02b18ca6a0fd01eaa5b2a1db",
-        "date": "2025-04-14T10:42:55-07:00",
-        "path": "/nix/store/pc6d4armrcaq5alm698cynfxlhpdwdbx-zed-java-extension-778b8f6",
-        "sha256": "05czl97pisj6r055i8nch3i95jsr8cjiz4vjjg3dff1d8idcsn1s",
-        "hash": "sha256-OljNWkQtONfGk3KTHyVDWcuS4oDMolgKyEbqeE+inxU=",
+        "rev": "5f37a48cbae6ee8ac8264879032f853bf4d29006",
+        "date": "2025-04-22T09:51:28-07:00",
+        "path": "/nix/store/cifjfqksrapw0vfrbw366xz9l3jdqr0d-zed-java-extension-5f37a48",
+        "sha256": "0zaph5y5g0zhc845ccna1xlp7wx1k323z0jbsy2z4x01q3xa4sll",
+        "hash": "sha256-lGqi+sABdPKF10uCP8SYofNzaQ/KMlYIYvCDV3yBV30=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4229,7 +4229,7 @@
         "java_java"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-jeSIUGFaPVSz5ub4uxV7XCgcSUXht30vyxzt2pVG4IU=",
+      "cargoHash": "sha256-tOAvWclQn0HgvJzB9YOEXGzx5gkNKAOn62rMOuqHqmc=",
       "cargoLock": {
         "lockFile": "/generated/java.lock"
       }
@@ -4350,14 +4350,14 @@
     },
     {
       "id": "jsonnet",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "src": {
         "url": "https://github.com/narqo/zed-jsonnet",
-        "rev": "d4cfdf9671131a518aa28a0f82c6ecea16452e85",
-        "date": "2025-01-08T09:43:03+01:00",
-        "path": "/nix/store/69sdmvhzfm6ma6n5qk9zfyrk4zr9nsid-zed-jsonnet-d4cfdf9",
-        "sha256": "0v5slahhi77x2n64m0phpva75wabyx9mgl13j00cpg3p7xh4kvqa",
-        "hash": "sha256-Cu9JYD93vMsAkCPQV1P3S/Fy1L7wgkqMFf2cCKGiumw=",
+        "rev": "b97ea97b9339af014bef21287719be24b0fea350",
+        "date": "2025-04-22T21:59:12+02:00",
+        "path": "/nix/store/hkn7mzxlm3217ws4wdypgw26zav0ljib-zed-jsonnet-b97ea97",
+        "sha256": "00nyh3hrrbpgwrb606qxi42czb5w69hjwxy0qcyk9y8ilzns774p",
+        "hash": "sha256-l5yj7acR+TQ9w8B3LmEyvKzPBIkdG2BW5u+unOGA3gI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4367,7 +4367,7 @@
         "jsonnet_jsonnet"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-7/UeFWoNk3HVdRXSeXIGctYZuiDIdtOQ3AQe67EHVD4="
+      "cargoHash": "sha256-/H64XolLCWqbAkxd/QnVvWixzBe4CqAE3CTIqNe4FVI="
     },
     {
       "id": "julia",
@@ -8110,6 +8110,24 @@
         "path": "/nix/store/s3grl4lxpq2yh9v94fz91adnx239fh39-severance-zed-60eaeb0",
         "sha256": "0imfc0hnqr2z59gkcrbx2qiw8g58vf52y5wjwbzmjl1cqcaxvc7x",
         "hash": "sha256-/bDdFcMsUFn/4pIXL4rbqDzEIxZ9ZTZfKl9kbCFgrkY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "id": "shades-of-purple-theme",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/irmhonde/shades-of-purple-theme",
+        "rev": "031b4a650c725be3b02abc5c10ea2432fa5bc8b4",
+        "date": "2025-04-22T12:58:08+02:00",
+        "path": "/nix/store/m2f6vyvb43mxmq8bsxgqcb20pls0chmf-shades-of-purple-theme-031b4a6",
+        "sha256": "13r3xfvbr0mnjma7w30qz5fm2q7qgwpqfrbpdz1349n39jy0y5k5",
+        "hash": "sha256-ZRYPvEzDJjLCb3dlhy9/+GBRXfkYDH5UlbaCvLbrI48=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
