@@ -908,14 +908,14 @@
     },
     {
       "id": "blade",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-laravel-blade",
-        "rev": "be39d849b7cc75560879a864fa1048337626e400",
-        "date": "2025-04-16T15:01:29+05:30",
-        "path": "/nix/store/rdx82dpd7x7l1jzvr1ni0p1zakl7qkbl-zed-laravel-blade-be39d84",
-        "sha256": "0h5717llv7kjig386cdr7ym3wlcahrssv69l1idhln3a6n4nqyhl",
-        "hash": "sha256-FHpsiTVqWApbDDSZrXWGilE+qj+5MYPGi3KeTekJp0A=",
+        "rev": "e6389fd347d66c6bd4bc4982ba851eb05cffbcdd",
+        "date": "2025-04-23T15:54:07+05:30",
+        "path": "/nix/store/n9jcpwbmna0jxj54q88yv0iwznhc5f2i-zed-laravel-blade-e6389fd",
+        "sha256": "0xpmnk99ilbc9yfxpj188km4l90hxnslb6hrrwvgzgjqgfsv150r",
+        "hash": "sha256-GZSwtXtYvv82zxmaRbXtECRK6kQoyNudT2zRmNK09XY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2892,19 +2892,20 @@
     },
     {
       "id": "flexoki-themes",
-      "version": "0.0.1",
+      "version": "2.0.0",
       "src": {
-        "url": "https://github.com/oddship/zed-flexoki-theme",
-        "rev": "cb1a639c4ec79fc4e1bedaac8bf97164cdc43b14",
-        "date": "2024-07-11T14:21:52+05:30",
-        "path": "/nix/store/6s4spnjkzzkcc1balv5vph5q9f3qki6a-zed-flexoki-theme-cb1a639",
-        "sha256": "014j25p45ipxaaiydsq0iflsf89nvsy7jb79wz4x19g6gd2aw3nz",
-        "hash": "sha256-3w6uRHvmpdDJ5+ksebzeNiGnqYsA6+ajUv3GQm4RkgQ=",
+        "url": "https://github.com/kepano/flexoki",
+        "rev": "f289834aafa800ff2f595e48a7a2e326bb99fdc3",
+        "date": "2025-04-23T14:17:03-07:00",
+        "path": "/nix/store/mj4yy5kq3g4x6kz2xhzwm7hplkyxi2dk-flexoki-f289834",
+        "sha256": "1p6fbwdspy947jfifnd9x78apbnzbmxw77hfc3ih0ndg6scxmcwg",
+        "hash": "sha256-j7PamTavWQDjYA6ew3td366r0OmpWRedPCT5qxtfztw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
+      "extensionRoot": "zed",
       "grammars": [],
       "kind": "plain"
     },
@@ -5526,6 +5527,24 @@
       "kind": "plain"
     },
     {
+      "id": "monokai-night",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/farbodvand/zed-monokai-night",
+        "rev": "ad50ca36a8cf4988ff65e897dfcc1e00d8d3912a",
+        "date": "2025-04-23T04:59:11+03:30",
+        "path": "/nix/store/lrky3pnavbyy7wb9ys99qdkvbpm2mmx8-zed-monokai-night-ad50ca3",
+        "sha256": "1pd6bi2dykqapqv6z8db22ddailzc5zzyii40qknba807l7nqvx8",
+        "hash": "sha256-qG9sDz0AqWUnBiRG/39hn0bVmhCroW82vgpP30Rcpt0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "id": "monokai-reversed",
       "version": "0.0.2",
       "src": {
@@ -5599,14 +5618,14 @@
     },
     {
       "id": "monospace-icon-theme",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/irmhonde/monospace-icon-theme",
-        "rev": "a8e6f7db02d7d950c955d1839e27dd9852332c5c",
-        "date": "2025-04-21T09:13:46+02:00",
-        "path": "/nix/store/7qng5fdvr9xr3psniyz6annihby7sfzg-monospace-icon-theme-a8e6f7d",
-        "sha256": "04bry5cknpdp2n5k7sp3dbwsqgianjc83b0rjaccv8i4q32idj3p",
-        "hash": "sha256-d8gWxcAkos2YkhmsgZi0Kj6s+Wrj6jOLFbddO1nxeRE=",
+        "rev": "09b8a6b29352cb9335cd81c97e8fada5389e9a0c",
+        "date": "2025-04-23T10:49:12+02:00",
+        "path": "/nix/store/fanp6sr51sahy3lrdxp5p4gz98khspj9-monospace-icon-theme-09b8a6b",
+        "sha256": "1lwgmbsg0bjq3x6ls9rhiqvxryqvfa79mjxzdcgnrsmkbq61pgac",
+        "hash": "sha256-TL0bDF6z6mwfa7/Lmo5yG/vcN44wJ01NH1gu8PSqj9M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8045,14 +8064,14 @@
     },
     {
       "id": "scss",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-scss",
-        "rev": "b0774d22a5596f8a6ca76fea57c264455d615fce",
-        "date": "2025-03-23T11:42:17+05:30",
-        "path": "/nix/store/sf93s0pjgwwdavbn71z7p34j0hr4szwh-zed-scss-b0774d2",
-        "sha256": "13nbv6zw7x8k6kzmwkwyyrs5igzv82pwn89hvkxk0l3iqip2akiw",
-        "hash": "sha256-PE4lbsRxUDD73DAhy69A+79YdPaeT17/NBP1w7/Zy44=",
+        "rev": "0e7419f8f7e366e880861d61a5179cae48992575",
+        "date": "2025-04-23T15:43:50+05:30",
+        "path": "/nix/store/hnsm8qxc463hllyx2xignwl0drccgvmq-zed-scss-0e7419f",
+        "sha256": "07np4pir4m7v8br0ibrmml59d88bdp5r9k116djj6ishw3yb1qqh",
+        "hash": "sha256-EOOw/OBQRyNlMyHMlMttC6GWCq01rwjyQvtUkuMl1x4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8062,7 +8081,7 @@
         "scss_scss"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-Sd/CXE6+uExDSyPZM4sgjSJzrThMihPQKdL7nMF8ESU="
+      "cargoHash": "sha256-MV0sFqxQep5T1W1jUtn1oNDgIker9wMcPIHE8hwIWzc="
     },
     {
       "id": "sequoia",
@@ -10642,14 +10661,14 @@
     {
       "id": "blade_blade",
       "name": "blade",
-      "version": "bcdc4b01827cac21205f7453e9be02f906943128",
+      "version": "fbe5f81b54f0f6153961824ce306ffc805134980",
       "src": {
         "url": "https://github.com/EmranMR/tree-sitter-blade",
-        "rev": "bcdc4b01827cac21205f7453e9be02f906943128",
-        "date": "2025-02-28T16:32:23Z",
-        "path": "/nix/store/bw0bp51za03sxbincjyqc88qfgvzgwd6-tree-sitter-blade-bcdc4b0",
-        "sha256": "0344a52vk03w664iaqfmzxy1ch475iz8njj9gmsps2qyrkyjixsa",
-        "hash": "sha256-Svco/cweC311fUlKi34sh0AWfP/VYRWJMXyAuUVRhAw=",
+        "rev": "fbe5f81b54f0f6153961824ce306ffc805134980",
+        "date": "2025-04-19T20:12:23+01:00",
+        "path": "/nix/store/wkkk9lh6vnrgkm2gz96s0wyjf5a7iv90-tree-sitter-blade-fbe5f81",
+        "sha256": "1r08x0jqxzsp6428shmg1ch1n906hlqm1ys7lv00837q4gml85yc",
+        "hash": "sha256-zBdE6yP4DATApkf7UDGFBiQbIAuvQo0EMVf/jiXoCOQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
