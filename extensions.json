@@ -7679,14 +7679,14 @@
     },
     {
       "id": "relay",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/XiNiHa/relay-zed",
-        "rev": "93a9a0159ed813f5d825b12a265af61eea984041",
-        "date": "2024-12-09T23:24:34-08:00",
-        "path": "/nix/store/g9vwnis9qxi8i336awl1m5y2c28p6ybh-relay-zed-93a9a01",
-        "sha256": "187hmix4p3n8jdjbvkzf6jr968586az427cpwdwrq3iqas470114",
-        "hash": "sha256-JARwiFY4Dpx545cdQb4yqCCTsjTuz71kk8iOS3qs8KA=",
+        "rev": "717573dd90b16e1d20bbcbb9b32525cac5fe63d9",
+        "date": "2025-04-24T19:17:27+09:00",
+        "path": "/nix/store/96sigqa872w1w2j4v254wr99gh45rfnd-relay-zed-717573d",
+        "sha256": "1141k86asyks3ynb29661dnai2mhagsm0l3d8cdfzpq3w1wmydm1",
+        "hash": "sha256-oTZfeeAD3+8aQ21QUPVTsIqobAvGJLGsH3p6rQyagYQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7694,7 +7694,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-9Nr7o1kb02Vhps6V3nC43u/wjcTKDT9fxvknwbq4K8s="
+      "cargoHash": "sha256-isewpqh8PbCKFUuf49VKdaiHDwKDmoBXS+ScIvtINxc="
     },
     {
       "id": "replicant",
@@ -8139,14 +8139,14 @@
     },
     {
       "id": "shades-of-purple-theme",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/irmhonde/shades-of-purple-theme",
-        "rev": "031b4a650c725be3b02abc5c10ea2432fa5bc8b4",
-        "date": "2025-04-22T12:58:08+02:00",
-        "path": "/nix/store/m2f6vyvb43mxmq8bsxgqcb20pls0chmf-shades-of-purple-theme-031b4a6",
-        "sha256": "13r3xfvbr0mnjma7w30qz5fm2q7qgwpqfrbpdz1349n39jy0y5k5",
-        "hash": "sha256-ZRYPvEzDJjLCb3dlhy9/+GBRXfkYDH5UlbaCvLbrI48=",
+        "rev": "f7cf6d13474005d9e42b75ac674dd229b73dd060",
+        "date": "2025-04-24T12:02:26+02:00",
+        "path": "/nix/store/qxjddgkk25spa1j3kl5b5n3ys2w4xxph-shades-of-purple-theme-f7cf6d1",
+        "sha256": "1p7kj5fpivmdpfirgcd35fx6jgw82b3727s6hrrps2pc04bpd8v9",
+        "hash": "sha256-aaN2FwHsCn1zhkYfccYSiD9puiujsZeju63ueF2R89w=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
