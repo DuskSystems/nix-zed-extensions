@@ -9899,14 +9899,14 @@
     },
     {
       "id": "vue",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "src": {
         "url": "https://github.com/zed-extensions/vue",
-        "rev": "80ea2441976642c2a387e4a1f3a3b6500364cb2a",
-        "date": "2025-04-04T16:44:10-04:00",
-        "path": "/nix/store/iv7rnvk9zrwi0jp3dfah6cc123x1cyin-vue-80ea244",
-        "sha256": "10x09cfp19yvfjkhihbxqa40g3lcghbbj5x2phhdbbwh8k73bavf",
-        "hash": "sha256-bqs1zkSQr9UgvKIXuRZ8jI4HiMJ9wQindNuncB1LoIM=",
+        "rev": "c510e91abcfc5842bbeb31db557fbcd217604bf9",
+        "date": "2025-04-25T12:56:40-04:00",
+        "path": "/nix/store/n8wq11krcxqkx78yl9g9vs1adng18d3c-vue-c510e91",
+        "sha256": "0y90jqh3q8r730zjvi48l8x02wk501xr39m64wl1aj9gs4spfanx",
+        "hash": "sha256-3Sp3NdEvSRUoJ6amkXsAZXIBOqKIxC0/GCcjPCCWIHk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9916,7 +9916,7 @@
         "vue_vue"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-qJkOWyOn6n3P3k0GA2btSVTg9bdxat5uXL5C0I138G4="
+      "cargoHash": "sha256-1C+p2JuMu6bLfBUmwUGkejV+j2aGNQCw2N3GJd4lgbg="
     },
     {
       "id": "wakatime",
