@@ -155,9 +155,9 @@ dependencies = [
 
 [[package]]
 name = "syn"
-version = "2.0.100"
+version = "2.0.101"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b09a44accad81e1ba1cd74a32461ba89dee89095ba17b32f5d03683b1b1fc2a0"
+checksum = "8ce2b7fc941b3a24138a0a7cf8e858bfc6a992e7978a068a5c760deb0ed43caf"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -312,16 +312,16 @@ dependencies = [
 
 [[package]]
 name = "zed-blueprint"
-version = "0.1.0"
+version = "0.3.0"
 dependencies = [
  "zed_extension_api",
 ]
 
 [[package]]
 name = "zed_extension_api"
-version = "0.0.6"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "77ca8bcaea3feb2d2ce9dbeb061ee48365312a351faa7014c417b0365fe9e459"
+checksum = "5e580c3ea59a92fc876756f3b4612f7a47ec86a34a1b9be099a24bd55401ff31"
 dependencies = [
  "serde",
  "serde_json",
