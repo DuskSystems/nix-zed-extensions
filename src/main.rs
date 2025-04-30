@@ -4,13 +4,11 @@ use std::path::Path;
 use std::process::Command;
 use std::sync::Arc;
 
-use clap::{Parser, Subcommand};
 use futures::StreamExt;
 use futures::stream::FuturesUnordered;
 use registry::RegistryExtension;
 use tokio::fs;
 use tokio::sync::Semaphore;
-use tracing_subscriber::EnvFilter;
 
 use crate::manifest::ExtensionManifest;
 use crate::output::NixExtensions;
@@ -24,39 +22,17 @@ pub mod registry;
 pub mod sync;
 pub mod wasm;
 
-#[derive(Parser)]
-#[command(author, version, about, long_about = None)]
-struct Cli {
-    #[command(subcommand)]
-    command: Commands,
-}
-
-#[derive(Subcommand)]
-enum Commands {
-    /// Sync extensions from the Zed API.
-    Sync,
-
-    /// Populate extension manifest.
-    Populate,
-}
-
 #[tokio::main]
 async fn main() -> anyhow::Result<()> {
     tracing_subscriber::fmt()
         .compact()
         .without_time()
         .with_target(false)
-        .with_env_filter(
-            EnvFilter::builder()
-                .with_default_directive("nix_zed_extensions=debug".parse().unwrap())
-                .from_env()
-                .unwrap(),
-        )
         .init();
 
-    let cli = Cli::parse();
-    match &cli.command {
-        Commands::Sync => {
+    let args: Vec<String> = std::env::args().collect();
+    match args.get(1).map(|arg| arg.as_str()) {
+        Some("sync") => {
             let output_path = Path::new("extensions.json");
             let mut output: NixExtensions = if output_path.exists() {
                 tracing::info!("Loading existing extensions");
@@ -128,14 +104,14 @@ async fn main() -> anyhow::Result<()> {
                     .trim_start_matches("submodule.")
                     .trim_end_matches(".url")
                     .to_string();
-                let repository = parts[1].trim_end_matches(".git").to_string();
 
+                let repository = parts[1].trim_end_matches(".git").to_string();
                 repositories.insert(path, repository);
             }
 
             // Merge details
             let mut extensions: Vec<RegistryExtension> = vec![];
-            for (id, entry) in registry.iter() {
+            for (name, entry) in registry.iter() {
                 let Some(repository) = repositories.get(&entry.submodule) else {
                     tracing::warn!(
                         submodule = ?entry.submodule,
@@ -155,7 +131,7 @@ async fn main() -> anyhow::Result<()> {
                 };
 
                 extensions.push(RegistryExtension {
-                    id: id.clone(),
+                    name: name.clone(),
                     version: entry.version.clone(),
                     repository: repository.to_string(),
                     path: entry.path.clone(),
@@ -163,7 +139,7 @@ async fn main() -> anyhow::Result<()> {
                 });
             }
 
-            let extension_ids: HashSet<String> = registry
+            let extension_names: HashSet<String> = registry
                 .iter()
                 .map(|extension| extension.0.clone())
                 .collect();
@@ -172,13 +148,17 @@ async fn main() -> anyhow::Result<()> {
             let removed_extensions: Vec<String> = output
                 .extensions
                 .iter()
-                .filter(|existing| !extension_ids.contains(&existing.id))
-                .map(|ext| ext.id.clone())
+                .filter(|existing| !extension_names.contains(&existing.name))
+                .map(|ext| ext.name.clone())
                 .collect();
 
-            for id in &removed_extensions {
-                tracing::info!(id = id, "Removing extension that is no longer maintained");
-                if let Some(extension) = output.extensions.iter().find(|e| &e.id == id) {
+            for name in &removed_extensions {
+                tracing::info!(
+                    name = name,
+                    "Removing extension that is no longer maintained"
+                );
+
+                if let Some(extension) = output.extensions.iter().find(|e| &e.name == name) {
                     output
                         .grammars
                         .retain(|grammar| !extension.grammars.contains(&grammar.id));
@@ -187,7 +167,7 @@ async fn main() -> anyhow::Result<()> {
 
             output
                 .extensions
-                .retain(|existing| !removed_extensions.contains(&existing.id));
+                .retain(|existing| !removed_extensions.contains(&existing.name));
 
             // Filter remaining extensions/grammars
             let extensions = extensions
@@ -197,20 +177,20 @@ async fn main() -> anyhow::Result<()> {
                     if let Some(existing) = output
                         .extensions
                         .iter()
-                        .find(|existing| existing.id == extension.id)
+                        .find(|existing| existing.name == extension.name)
                     {
                         if existing.version >= extension.version {
-                            tracing::debug!(id = extension.id, "Skipping unchanged extension");
+                            tracing::debug!(name = extension.name, "Skipping unchanged extension");
                             return false;
                         }
 
-                        tracing::info!(id = extension.id, "New extension version");
+                        tracing::info!(name = extension.name, "New extension version");
 
                         // Remove outdated extensions and grammars from output.
                         let grammars = existing.grammars.clone();
                         output
                             .extensions
-                            .retain(|existing| existing.id != extension.id);
+                            .retain(|existing| existing.name != extension.name);
 
                         output
                             .grammars
@@ -221,7 +201,11 @@ async fn main() -> anyhow::Result<()> {
                 })
                 .collect::<Vec<_>>();
 
-            let limit = num_cpus::get() * 2;
+            let limit = std::thread::available_parallelism()
+                .map(|n| n.get())
+                .unwrap_or(1)
+                * 2;
+
             let semaphore = Arc::new(Semaphore::new(limit));
 
             let mut futures = FuturesUnordered::new();
@@ -250,14 +234,16 @@ async fn main() -> anyhow::Result<()> {
             }
 
             tracing::info!("Writing output");
-            output.extensions.sort_by(|a, b| a.id.cmp(&b.id));
+
+            output.extensions.sort_by(|a, b| a.name.cmp(&b.name));
             output.grammars.sort_by(|a, b| a.id.cmp(&b.id));
+
             let output = serde_json::to_string_pretty(&output)?;
             fs::write(output_path, output).await?;
             fs::remove_dir_all(tmp_registry).await?;
         }
 
-        Commands::Populate => {
+        Some("populate") => {
             let path = Path::new(".");
 
             let manifest_path = path.join("extension.toml");
@@ -326,6 +312,11 @@ async fn main() -> anyhow::Result<()> {
             tracing::info!("Writing output");
             let manifest = toml::to_string_pretty(&manifest)?;
             fs::write(manifest_path, manifest).await?;
+        }
+
+        _ => {
+            eprintln!("Unknown command");
+            std::process::exit(1);
         }
     }
 

@@ -15,15 +15,7 @@ tokio = { version = "1.44", features = ["full"] }
 futures = "0.3"
 
 # WASM
-wasmparser = "0.228"
-
-# CLI
-clap = { version = "4.5", features = ["derive"] }
-
-# HTTP
-reqwest = { version = "0.12", default-features = false, features = [
-  "rustls-tls",
-] }
+wasmparser = "0.229"
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }
@@ -32,10 +24,7 @@ toml = "0.8"
 
 # Logging
 tracing = "0.1"
-tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+tracing-subscriber = "0.3"
 
 # Errors
 anyhow = "1.0"
-
-# Hardware
-num_cpus = "1.16"

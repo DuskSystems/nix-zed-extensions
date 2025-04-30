@@ -10,7 +10,7 @@ pub struct NixExtensions {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Extension {
-    pub id: String,
+    pub name: String,
     pub version: String,
     pub src: Source,
     #[serde(rename = "extensionRoot", skip_serializing_if = "Option::is_none")]

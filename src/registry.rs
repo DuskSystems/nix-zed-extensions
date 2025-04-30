@@ -9,7 +9,7 @@ pub struct RegistryEntry {
 
 #[derive(Deserialize, Debug, Clone)]
 pub struct RegistryExtension {
-    pub id: String,
+    pub name: String,
     pub version: String,
     pub repository: String,
     pub path: Option<String>,

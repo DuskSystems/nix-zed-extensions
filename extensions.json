@@ -1,7 +1,7 @@
 {
   "extensions": [
     {
-      "id": "0x96f",
+      "name": "0x96f",
       "version": "1.3.3",
       "src": {
         "url": "https://github.com/filipjanevski/zed-theme",
@@ -19,7 +19,7 @@
       "kind": "plain"
     },
     {
-      "id": "actionscript",
+      "name": "actionscript",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/pngdrift/zed-actionscript",
@@ -39,7 +39,7 @@
       "kind": "plain"
     },
     {
-      "id": "activitywatch",
+      "name": "activitywatch",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/sachk/aw-watcher-zed",
@@ -55,13 +55,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-nbmQdZCOu5K5e/IZbJypzGutNtBFxwPGsKkPhX6JYN0=",
+      "cargoHash": "sha256-Yci2ts++7cO4rw+hGTqYeh8UDyXP7DKILZn4Sg2BHiY=",
       "cargoLock": {
         "lockFile": "/generated/activitywatch.lock"
       }
     },
     {
-      "id": "ada",
+      "name": "ada",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/wisn/zed-ada-language",
@@ -82,7 +82,7 @@
       "cargoHash": "sha256-vliwAR2jagNIcY3sPAaKWgkpA+CnQRFTThaRr2VXdCI="
     },
     {
-      "id": "adaltas-theme",
+      "name": "adaltas-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/adaltas/zed-adaltas-theme",
@@ -100,7 +100,7 @@
       "kind": "plain"
     },
     {
-      "id": "adech",
+      "name": "adech",
       "version": "2.0.1",
       "src": {
         "url": "https://github.com/adechlien/adech-theme-zed",
@@ -118,7 +118,7 @@
       "kind": "plain"
     },
     {
-      "id": "adwaita-pastel",
+      "name": "adwaita-pastel",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Benjamin-Davies/zed-theme-adwaita",
@@ -136,7 +136,7 @@
       "kind": "plain"
     },
     {
-      "id": "agda",
+      "name": "agda",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/haohanyang/agda-zed",
@@ -156,7 +156,7 @@
       "kind": "plain"
     },
     {
-      "id": "aiken",
+      "name": "aiken",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/aiken-lang/zed-aiken",
@@ -177,7 +177,7 @@
       "cargoHash": "sha256-43/+44pL4SoUvwKiFKLGFbHpeg7Nw/4y7Nsf/kdoKMw="
     },
     {
-      "id": "air",
+      "name": "air",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/posit-dev/air",
@@ -197,7 +197,7 @@
       "cargoHash": "sha256-yw2Y1sXIthj8x41z/hnMLt86SUlqmqeyiVMt068aOgA="
     },
     {
-      "id": "alabaster",
+      "name": "alabaster",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/tsimoshka/zed-theme-alabaster",
@@ -215,7 +215,7 @@
       "kind": "plain"
     },
     {
-      "id": "alabaster-dark",
+      "name": "alabaster-dark",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/findrakecil/alabaster-dark-zed-theme",
@@ -233,7 +233,7 @@
       "kind": "plain"
     },
     {
-      "id": "amber",
+      "name": "amber",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/Ph0enixKM/zed-amber-extension",
@@ -254,7 +254,7 @@
       "cargoHash": "sha256-sAGgURxO0HV44EydJFJKPJQ5BlUCAXD3ALPAOZ2VWEU="
     },
     {
-      "id": "amber-monochrome-monitor-crt-phosphor",
+      "name": "amber-monochrome-monitor-crt-phosphor",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed",
@@ -272,7 +272,7 @@
       "kind": "plain"
     },
     {
-      "id": "andromeda",
+      "name": "andromeda",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/ChocolateNao/andromeda-zed",
@@ -290,7 +290,7 @@
       "kind": "plain"
     },
     {
-      "id": "angular",
+      "name": "angular",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/nathansbradshaw/zed-angular",
@@ -311,7 +311,7 @@
       "cargoHash": "sha256-ST/gFXGNkNXUYOxjSMKyASHlXcnb7uxWzLb0bjJljE4="
     },
     {
-      "id": "ansible",
+      "name": "ansible",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/kartikvashistha/zed-ansible",
@@ -332,7 +332,7 @@
       "cargoHash": "sha256-KSXJaKcSg9Q/ppAC8I5YILcgxXdGWHznrFX+ZtzDnEU="
     },
     {
-      "id": "anysphere-theme",
+      "name": "anysphere-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/stpn48/anysphere-zed-theme",
@@ -350,7 +350,7 @@
       "kind": "plain"
     },
     {
-      "id": "aquarium-theme",
+      "name": "aquarium-theme",
       "version": "0.7.1",
       "src": {
         "url": "https://github.com/biaqat/aquarium-theme-zed",
@@ -368,7 +368,7 @@
       "kind": "plain"
     },
     {
-      "id": "arctic-depth",
+      "name": "arctic-depth",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/MarvellinusVincent/Arctic-Depth-Zed",
@@ -386,7 +386,7 @@
       "kind": "plain"
     },
     {
-      "id": "ariake",
+      "name": "ariake",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/artivilla/zed-ariake-theme",
@@ -404,7 +404,7 @@
       "kind": "plain"
     },
     {
-      "id": "asciidoc",
+      "name": "asciidoc",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/andreicek/zed-asciidoc",
@@ -424,7 +424,7 @@
       "kind": "plain"
     },
     {
-      "id": "ast-grep",
+      "name": "ast-grep",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/mathieulj/ast-grep-zed",
@@ -443,7 +443,7 @@
       "cargoHash": "sha256-xtqbPf+ajLQhxjvZBkIf7GWKPMrAPKae6iF+y5f5t2M="
     },
     {
-      "id": "astro",
+      "name": "astro",
       "version": "0.1.6",
       "src": {
         "url": "https://github.com/zed-extensions/astro",
@@ -464,7 +464,7 @@
       "cargoHash": "sha256-BYFNKmu3d6kzErEnvgXoqDDhCnvm/I/oRFYmg61n9Iw="
     },
     {
-      "id": "atomize",
+      "name": "atomize",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/zhouyuxiang0/atomize.zed",
@@ -482,7 +482,7 @@
       "kind": "plain"
     },
     {
-      "id": "aura-theme",
+      "name": "aura-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/daltonmenezes/aura-theme",
@@ -501,7 +501,7 @@
       "kind": "plain"
     },
     {
-      "id": "autocorrect",
+      "name": "autocorrect",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/huacnlee/zed-autocorrect",
@@ -520,7 +520,7 @@
       "cargoHash": "sha256-n5hjiKeWj+y1vJEsm5AGxqJx/ce5pDsItiNSwpz/5hA="
     },
     {
-      "id": "awk",
+      "name": "awk",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dangh/zed-awk",
@@ -540,7 +540,7 @@
       "kind": "plain"
     },
     {
-      "id": "axolosin",
+      "name": "axolosin",
       "version": "1.1.1",
       "src": {
         "url": "https://github.com/LightTreasure/axolosin-theme",
@@ -558,7 +558,7 @@
       "kind": "plain"
     },
     {
-      "id": "aylin-theme",
+      "name": "aylin-theme",
       "version": "0.6.1",
       "src": {
         "url": "https://github.com/biaqat/aylin-theme-zed",
@@ -576,7 +576,7 @@
       "kind": "plain"
     },
     {
-      "id": "aystra",
+      "name": "aystra",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/dotcypress/aystra",
@@ -594,7 +594,7 @@
       "kind": "plain"
     },
     {
-      "id": "ayu-darker",
+      "name": "ayu-darker",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/k4yt3x/zed-theme-ayu-darker",
@@ -612,7 +612,7 @@
       "kind": "plain"
     },
     {
-      "id": "barbenheimer",
+      "name": "barbenheimer",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/jayvicsanantonio/barbenheimer-zed-theme",
@@ -630,7 +630,7 @@
       "kind": "plain"
     },
     {
-      "id": "base16",
+      "name": "base16",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/bswinnerton/base16-zed",
@@ -648,7 +648,7 @@
       "kind": "plain"
     },
     {
-      "id": "basedpyright",
+      "name": "basedpyright",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/m1guer/basedpyright-zed",
@@ -664,13 +664,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-nad3TIyv98tJ/77wg30hYfdE/LY7e9fsP9ZokEcNZ7I=",
+      "cargoHash": "sha256-gDyVkVB3SfbUBLZKDBxs3qWlr1sYGsODG/ok4UIXgOk=",
       "cargoLock": {
         "lockFile": "/generated/basedpyright.lock"
       }
     },
     {
-      "id": "basher",
+      "name": "basher",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/d1y/bash.zed",
@@ -691,7 +691,7 @@
       "cargoHash": "sha256-fOPY6jXgZjhfZlJHDXnsoowPq1ZIwcRtiA/k6XojAP0="
     },
     {
-      "id": "batman",
+      "name": "batman",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/devzaidi/batman-theme-zed",
@@ -709,7 +709,7 @@
       "kind": "plain"
     },
     {
-      "id": "beancount",
+      "name": "beancount",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/zed-extensions/beancount",
@@ -730,7 +730,7 @@
       "cargoHash": "sha256-5NNnAZSJg7zt8DJIYMPHhrvrSDOY+BV3ENLP4Jd9rtY="
     },
     {
-      "id": "bearded",
+      "name": "bearded",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/lassejlv/bearded-themes",
@@ -748,7 +748,7 @@
       "kind": "plain"
     },
     {
-      "id": "bearded-icon-theme",
+      "name": "bearded-icon-theme",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/sethstha/bearded-icons-theme",
@@ -766,7 +766,7 @@
       "kind": "plain"
     },
     {
-      "id": "becker-theme",
+      "name": "becker-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Becker-Theme/zed",
@@ -784,7 +784,7 @@
       "kind": "plain"
     },
     {
-      "id": "bend",
+      "name": "bend",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/mrpedrobraga/zed-bend",
@@ -804,7 +804,7 @@
       "kind": "plain"
     },
     {
-      "id": "bicep",
+      "name": "bicep",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/oWretch/zed-extension-bicep",
@@ -822,13 +822,13 @@
         "bicep_bicep"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-EDIP0zVznWrmiSCTkvgZ0fiTF1wKJB0I1bjS8xxjlhE=",
+      "cargoHash": "sha256-t3L2Ws19rwuovUJYH1oN+RoWxKX+hhAf8UNKipUnnz8=",
       "cargoLock": {
         "lockFile": "/generated/bicep.lock"
       }
     },
     {
-      "id": "biome",
+      "name": "biome",
       "version": "0.1.5",
       "src": {
         "url": "https://github.com/biomejs/biome-zed",
@@ -847,7 +847,7 @@
       "cargoHash": "sha256-8x3FQ0j7QHnCIAMS6OVTn/f+CdJotN1qVnkowdL9GhI="
     },
     {
-      "id": "bitbake",
+      "name": "bitbake",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/anikinmd/zed_bitbake",
@@ -865,13 +865,13 @@
         "bitbake_bitbake"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-ng8pQ/VKi4Ftb+knMf+ezAwsTfnSRNmwTJ+ignSlG8M=",
+      "cargoHash": "sha256-LWkhiOIZlB8E+01eMVJNpNBKo8DKqoXYWCSxcHFhj5E=",
       "cargoLock": {
         "lockFile": "/generated/bitbake.lock"
       }
     },
     {
-      "id": "blackfox",
+      "name": "blackfox",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/matejcerny/BlackFoxZed",
@@ -889,7 +889,7 @@
       "kind": "plain"
     },
     {
-      "id": "blackula",
+      "name": "blackula",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/JacobCoffee/blackula",
@@ -907,7 +907,7 @@
       "kind": "plain"
     },
     {
-      "id": "blade",
+      "name": "blade",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-laravel-blade",
@@ -929,7 +929,7 @@
       "cargoHash": "sha256-ByEAOwPhkPN9dfh0nLIgawjFilNuN7i3S8T/FL1X0Ug="
     },
     {
-      "id": "blade-runner-2049",
+      "name": "blade-runner-2049",
       "version": "1.0.4",
       "src": {
         "url": "https://github.com/Takk8IS/blade-runner-2049-theme-for-zed",
@@ -947,7 +947,7 @@
       "kind": "plain"
     },
     {
-      "id": "blankeos-zen",
+      "name": "blankeos-zen",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/Blankeos/zen.zed",
@@ -965,7 +965,7 @@
       "kind": "plain"
     },
     {
-      "id": "blueprint",
+      "name": "blueprint",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/tfuxu/zed-blueprint",
@@ -989,7 +989,7 @@
       }
     },
     {
-      "id": "bluloco-theme",
+      "name": "bluloco-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/uloco/bluloco-zed",
@@ -1007,7 +1007,7 @@
       "kind": "plain"
     },
     {
-      "id": "bqn",
+      "name": "bqn",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/DavidZwitser/zed-bqn",
@@ -1025,13 +1025,13 @@
         "bqn_bqn"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-CldLpnBUJSf1wmqa29ZFp2P4d+o1tmuM8eRdyPNf57U=",
+      "cargoHash": "sha256-N9fnnybz+7fQeoXNo+e0QjEiCm0d171Pugx9g/KsdX4=",
       "cargoLock": {
         "lockFile": "/generated/bqn.lock"
       }
     },
     {
-      "id": "brainfuck",
+      "name": "brainfuck",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/JosephTLyons/zed-brainfuck",
@@ -1051,7 +1051,7 @@
       "kind": "plain"
     },
     {
-      "id": "brook-code-theme",
+      "name": "brook-code-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/brook-code-theme/zed-theme",
@@ -1069,7 +1069,7 @@
       "kind": "plain"
     },
     {
-      "id": "browser-tools-context-server",
+      "name": "browser-tools-context-server",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/mirageN1349/browser-tools-context-server",
@@ -1085,13 +1085,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-si35TE2kuzQx11onGkfyRlkxxkme9s/B3cX5C6dirrM=",
+      "cargoHash": "sha256-N+ZeXzt4L4zUmp62ZlR7F5zBLEw/RqLAVvqegCVQP3w=",
       "cargoLock": {
         "lockFile": "/generated/browser-tools-context-server.lock"
       }
     },
     {
-      "id": "c3",
+      "name": "c3",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/AineeJames/c3-zed",
@@ -1109,13 +1109,13 @@
         "c3_c3"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-nn7RvVirj9NMGO6rxU1sppq7gfZbEoOftxNoRHuVXTQ=",
+      "cargoHash": "sha256-WIdvF+CC/NBuLNdvtJFEfaGDt6iCBUujFTaMGK0xI0s=",
       "cargoLock": {
         "lockFile": "/generated/c3.lock"
       }
     },
     {
-      "id": "caddyfile",
+      "name": "caddyfile",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/nusnewob/caddyfile-zed",
@@ -1133,13 +1133,13 @@
         "caddyfile_caddyfile"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-Je7U1HAUwcGBcwyDs+fsy73MkDCj0Ax21uS5KprpAeQ=",
+      "cargoHash": "sha256-UO0Kar2LnzeOOOxZ4f5HGVq2sNSl1WPQKLv3jKKkjj8=",
       "cargoLock": {
         "lockFile": "/generated/caddyfile.lock"
       }
     },
     {
-      "id": "cadence",
+      "name": "cadence",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/janezpodhostnik/cadence.zed",
@@ -1157,13 +1157,13 @@
         "cadence_cadence"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-RsIYdpant8BBdACOQDZa7rgG1xh6etQEpDZDuXZMyZ4=",
+      "cargoHash": "sha256-gwzlKigCYAATQNKYr27MKhpae3zdFqXkOFgEj0TAflQ=",
       "cargoLock": {
         "lockFile": "/generated/cadence.lock"
       }
     },
     {
-      "id": "cairo",
+      "name": "cairo",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/trbutler4/zed-cairo",
@@ -1184,7 +1184,7 @@
       "cargoHash": "sha256-35rNS3cTMpBmTdRheoKqhXdpJEFr16RRZ5vYJ4HHYss="
     },
     {
-      "id": "call-trans-opt-received",
+      "name": "call-trans-opt-received",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/takk8is/call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed",
@@ -1202,7 +1202,7 @@
       "kind": "plain"
     },
     {
-      "id": "capnp",
+      "name": "capnp",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/cmackenzie1/zed-capnp",
@@ -1223,7 +1223,7 @@
       "cargoHash": "sha256-t4q29ayf/q82K18wP/zWmPJPQd/Sm3FCZ48LYvlC2qU="
     },
     {
-      "id": "cargo-appraiser",
+      "name": "cargo-appraiser",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/washanhanzi/zed-cargo-appraiser",
@@ -1242,7 +1242,7 @@
       "cargoHash": "sha256-8jKfW4sESEHaFNJCc6c5UrbRVpyi3j3Qesa/IvkDnY4="
     },
     {
-      "id": "cargo-tom",
+      "name": "cargo-tom",
       "version": "0.4.1",
       "src": {
         "url": "https://github.com/frederik-uni/zed-cargotom",
@@ -1261,7 +1261,7 @@
       "cargoHash": "sha256-MI/Os0NpEC6Gj/6KmFRB+luOEasiv7bEIGU58/L/myk="
     },
     {
-      "id": "catbox",
+      "name": "catbox",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/adibhanna/catbox",
@@ -1279,7 +1279,7 @@
       "kind": "plain"
     },
     {
-      "id": "catppuccin",
+      "name": "catppuccin",
       "version": "0.2.22",
       "src": {
         "url": "https://github.com/catppuccin/zed",
@@ -1297,7 +1297,7 @@
       "kind": "plain"
     },
     {
-      "id": "catppuccin-blur",
+      "name": "catppuccin-blur",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/jenslys/zed-catppuccin-blur",
@@ -1315,7 +1315,7 @@
       "kind": "plain"
     },
     {
-      "id": "catppuccin-blur-plus",
+      "name": "catppuccin-blur-plus",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/taciturnaxolotl/catppuccin-blur-zed",
@@ -1333,7 +1333,7 @@
       "kind": "plain"
     },
     {
-      "id": "catppuccin-icons",
+      "name": "catppuccin-icons",
       "version": "1.19.0",
       "src": {
         "url": "https://github.com/catppuccin/zed-icons",
@@ -1351,7 +1351,7 @@
       "kind": "plain"
     },
     {
-      "id": "cedar",
+      "name": "cedar",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/chrnorm/zed-cedar",
@@ -1371,7 +1371,7 @@
       "kind": "plain"
     },
     {
-      "id": "cfengine",
+      "name": "cfengine",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/olehermanse/zed-cfengine",
@@ -1391,7 +1391,7 @@
       "kind": "plain"
     },
     {
-      "id": "cfml",
+      "name": "cfml",
       "version": "0.1.5",
       "src": {
         "url": "https://github.com/cfmleditor/zed-cfml",
@@ -1414,7 +1414,7 @@
       "cargoHash": "sha256-t1gjNA4CwC1I189MYPW0ygQiPTXgqa6cFFG//kiZQM4="
     },
     {
-      "id": "chai-theme",
+      "name": "chai-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/rushabhcodes/zed-chai-theme",
@@ -1432,7 +1432,7 @@
       "kind": "plain"
     },
     {
-      "id": "chanterelle",
+      "name": "chanterelle",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/steffenhaug/chanterelle-zed",
@@ -1450,7 +1450,7 @@
       "kind": "plain"
     },
     {
-      "id": "charmed-icons",
+      "name": "charmed-icons",
       "version": "0.6.1",
       "src": {
         "url": "https://github.com/jmesrje/zed-charmed-icons",
@@ -1468,7 +1468,7 @@
       "kind": "plain"
     },
     {
-      "id": "chatgpt",
+      "name": "chatgpt",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/Takk8IS/chatgpt-theme-for-zed",
@@ -1486,7 +1486,7 @@
       "kind": "plain"
     },
     {
-      "id": "cisco-theme",
+      "name": "cisco-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/thommorais/zed-cisco-theme",
@@ -1504,7 +1504,7 @@
       "kind": "plain"
     },
     {
-      "id": "city-lights",
+      "name": "city-lights",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/DP19/zed-theme-city-lights",
@@ -1522,7 +1522,7 @@
       "kind": "plain"
     },
     {
-      "id": "clojure",
+      "name": "clojure",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/clojure",
@@ -1543,7 +1543,7 @@
       "cargoHash": "sha256-KDpRl2tk+P5Nan1ZQat1DGqc2h1t2jSyUve5IsCp0QA="
     },
     {
-      "id": "cobalt2",
+      "name": "cobalt2",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/wesbos/cobalt2-zed",
@@ -1561,7 +1561,7 @@
       "kind": "plain"
     },
     {
-      "id": "cobol",
+      "name": "cobol",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/willswire/zed-cobol",
@@ -1582,7 +1582,7 @@
       "cargoHash": "sha256-YHF48p4IHzcvvKroqT2vyOGJRfs1RLDvtBJ30DiO3zo="
     },
     {
-      "id": "code-stats",
+      "name": "code-stats",
       "version": "0.2.6",
       "src": {
         "url": "https://github.com/maxdeviant/zed-code-stats",
@@ -1601,7 +1601,7 @@
       "cargoHash": "sha256-1CvMEjKZ5kimzd5PFNfP83wNSh0+T8IgavfZ4xSiGR4="
     },
     {
-      "id": "codebook",
+      "name": "codebook",
       "version": "0.1.7",
       "src": {
         "url": "https://github.com/blopker/codebook-zed",
@@ -1620,7 +1620,7 @@
       "cargoHash": "sha256-6KzkV7hMBzvCYwSHdHQoFQDUHlwo1p0paiynwfpwdi8="
     },
     {
-      "id": "codesandbox-theme",
+      "name": "codesandbox-theme",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/MartinRybergLaude/zed-theme-codesandbox",
@@ -1638,7 +1638,7 @@
       "kind": "plain"
     },
     {
-      "id": "colored-zed-icons-theme",
+      "name": "colored-zed-icons-theme",
       "version": "0.3.1",
       "src": {
         "url": "https://github.com/TheRedXD/zed-icons-colored-theme",
@@ -1656,7 +1656,7 @@
       "kind": "plain"
     },
     {
-      "id": "colorizer",
+      "name": "colorizer",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/tamimhasandev/colorizer",
@@ -1674,7 +1674,7 @@
       "kind": "plain"
     },
     {
-      "id": "confluence-context-server",
+      "name": "confluence-context-server",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/mouhamadalmounayar/confluence-context-server",
@@ -1693,7 +1693,7 @@
       "cargoHash": "sha256-LflqoElJVMAcrio+xHU0/IpvfecuEFjOuS8v4LEcJ7k="
     },
     {
-      "id": "conl",
+      "name": "conl",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/ConradIrwin/zed-extension-conl",
@@ -1713,7 +1713,7 @@
       "kind": "plain"
     },
     {
-      "id": "cooklang",
+      "name": "cooklang",
       "version": "1.3.3",
       "src": {
         "url": "https://github.com/hugginsio/zed-cooklang",
@@ -1733,7 +1733,7 @@
       "kind": "plain"
     },
     {
-      "id": "cpp2",
+      "name": "cpp2",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/tsoj/zed-cpp2",
@@ -1753,7 +1753,7 @@
       "kind": "plain"
     },
     {
-      "id": "cql",
+      "name": "cql",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Akzestia/zed-cql",
@@ -1773,7 +1773,7 @@
       "kind": "plain"
     },
     {
-      "id": "crimson-theme",
+      "name": "crimson-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/kaem-e/zed-crimson-theme",
@@ -1791,7 +1791,7 @@
       "kind": "plain"
     },
     {
-      "id": "crystal",
+      "name": "crystal",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/crystal-lang-tools/zed-crystal",
@@ -1813,7 +1813,7 @@
       "cargoHash": "sha256-CRXMdzZo4noLT1Txxa1JgNVo/cBkNvuvQX6UUYLGc7Y="
     },
     {
-      "id": "crystal-theme",
+      "name": "crystal-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://gitlab.com/crystalnetwork-studio/themes/zed-editor",
@@ -1831,7 +1831,7 @@
       "kind": "plain"
     },
     {
-      "id": "csharp",
+      "name": "csharp",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/zed-extensions/csharp",
@@ -1852,7 +1852,7 @@
       "cargoHash": "sha256-WK8Edn6DE+/JWoJjfWCRYSNp0uZFpHVqTfbsTm4Hvho="
     },
     {
-      "id": "cspell",
+      "name": "cspell",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/mantou132/zed-cspell",
@@ -1868,13 +1868,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-CuNpb3bXFKraWoCn2J1W4rVV+ZK5s5VREgYg6meoVYk=",
+      "cargoHash": "sha256-ZQiWPvR9HDPFNNqmjPFpYhTOjeTgRl3XSXRudnb0uh4=",
       "cargoLock": {
         "lockFile": "/generated/cspell.lock"
       }
     },
     {
-      "id": "csv",
+      "name": "csv",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/huacnlee/zed-csv",
@@ -1895,7 +1895,7 @@
       "cargoHash": "sha256-oUL9bY3SQJfNK+y8/lvkSuAD9iRV0gWxrJKbEoZ7bPE="
     },
     {
-      "id": "cucumber",
+      "name": "cucumber",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/thlcodes/zed-extension-cucumber",
@@ -1916,7 +1916,7 @@
       "cargoHash": "sha256-a/aJGyYeTHdF48heJ5410hxDwKot4Sdvz9BZdDvl7uI="
     },
     {
-      "id": "cue",
+      "name": "cue",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/jkasky/zed-cue",
@@ -1937,7 +1937,7 @@
       "cargoHash": "sha256-rNygFScYxnzOUFkcbx1GgBFWGxugb7VgvztfVqsHvKY="
     },
     {
-      "id": "curry",
+      "name": "curry",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/fwcd/zed-curry",
@@ -1957,7 +1957,7 @@
       "kind": "plain"
     },
     {
-      "id": "cursor-dark-theme",
+      "name": "cursor-dark-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/loosheng/zed-cursor-dark-theme",
@@ -1975,7 +1975,7 @@
       "kind": "plain"
     },
     {
-      "id": "cyan-light-theme",
+      "name": "cyan-light-theme",
       "version": "0.7.1",
       "src": {
         "url": "https://github.com/biaqat/cyan-light-theme-zed",
@@ -1993,7 +1993,7 @@
       "kind": "plain"
     },
     {
-      "id": "cyberpunk-2077",
+      "name": "cyberpunk-2077",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/Takk8IS/cyberpunk-2077-theme-for-zed",
@@ -2011,7 +2011,7 @@
       "kind": "plain"
     },
     {
-      "id": "cylc",
+      "name": "cylc",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/elliotfontaine/zed-cylc",
@@ -2031,7 +2031,7 @@
       "kind": "plain"
     },
     {
-      "id": "cypher",
+      "name": "cypher",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/pupli/cypher",
@@ -2051,7 +2051,7 @@
       "kind": "plain"
     },
     {
-      "id": "cython",
+      "name": "cython",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/lgeiger/zed-cython",
@@ -2071,7 +2071,7 @@
       "kind": "plain"
     },
     {
-      "id": "d",
+      "name": "d",
       "version": "0.0.9",
       "src": {
         "url": "https://github.com/staysail/zed-d",
@@ -2089,13 +2089,13 @@
         "d_d"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-41goewUY7vnnwN4KWZNBsLNa/ATJ56U3bRYZcVezU0Y=",
+      "cargoHash": "sha256-4Q6bLXqQttJMCZYb/QOgL8enrZ1mUruZKaMI3niEBv8=",
       "cargoLock": {
         "lockFile": "/generated/d.lock"
       }
     },
     {
-      "id": "d2",
+      "name": "d2",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/gabeidx/zed-d2",
@@ -2115,7 +2115,7 @@
       "kind": "plain"
     },
     {
-      "id": "dafny",
+      "name": "dafny",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/WeetHet/dafny-zed",
@@ -2136,7 +2136,7 @@
       "cargoHash": "sha256-vEgdRMN+3e37aBVnoBIDDs2mnyIzH8tMdiWnusHBk6A="
     },
     {
-      "id": "darcula-dark",
+      "name": "darcula-dark",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/not-a-cowfr/Darcula-Dark",
@@ -2154,7 +2154,7 @@
       "kind": "plain"
     },
     {
-      "id": "dark-pop-ui",
+      "name": "dark-pop-ui",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/kunal-arora/zed-theme-dark-pop-ui",
@@ -2172,7 +2172,7 @@
       "kind": "plain"
     },
     {
-      "id": "darker-horizon",
+      "name": "darker-horizon",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/ewwwdp/dark-horizon-zed",
@@ -2190,7 +2190,7 @@
       "kind": "plain"
     },
     {
-      "id": "dart",
+      "name": "dart",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/dart",
@@ -2211,7 +2211,7 @@
       "cargoHash": "sha256-kidFVlpaeu/Lwfudb5UMQbF6BhQH/+rSdnq297wA4A0="
     },
     {
-      "id": "day-shift",
+      "name": "day-shift",
       "version": "1.0.2",
       "src": {
         "url": "https://github.com/Jean-Tinland/zed-theme-day-shift",
@@ -2229,7 +2229,7 @@
       "kind": "plain"
     },
     {
-      "id": "dbml",
+      "name": "dbml",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/shuklaayush/zed-dbml",
@@ -2249,7 +2249,7 @@
       "kind": "plain"
     },
     {
-      "id": "decorative-stitch",
+      "name": "decorative-stitch",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/keithrowell/zed-theme-decorative-stitch",
@@ -2267,7 +2267,7 @@
       "kind": "plain"
     },
     {
-      "id": "deno",
+      "name": "deno",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/zed-extensions/deno",
@@ -2286,7 +2286,7 @@
       "cargoHash": "sha256-LQfuN44GPT/oMPAWf46wM6zsBOoR0o1dIecnZGRFSPs="
     },
     {
-      "id": "devicetree",
+      "name": "devicetree",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/anikinmd/zed_devicetree",
@@ -2304,13 +2304,13 @@
         "devicetree_devicetree"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-oRmrl39pWrVodTGxIiVh1hdoaA063VAITdqf/i8nCsQ=",
+      "cargoHash": "sha256-9/6uG1/hllcUVPirDA3YYckd2OKm7bT5W3fNM45WGZ4=",
       "cargoLock": {
         "lockFile": "/generated/devicetree.lock"
       }
     },
     {
-      "id": "discord-presence",
+      "name": "discord-presence",
       "version": "0.2.3",
       "src": {
         "url": "https://github.com/xhyrom/zed-discord-presence",
@@ -2329,7 +2329,7 @@
       "cargoHash": "sha256-JLNCEeo9fKeV4vTtPs+Yj2wRO1RKP2fuetrPlXcPBjA="
     },
     {
-      "id": "docker-compose",
+      "name": "docker-compose",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/eth0net/zed-docker-compose",
@@ -2348,7 +2348,7 @@
       "cargoHash": "sha256-ZwtkTC4wDxu4ZSa8QZawBSbZfMLEbfdc5jC7UmzzcpQ="
     },
     {
-      "id": "dockerfile",
+      "name": "dockerfile",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/zed-extensions/dockerfile",
@@ -2369,7 +2369,7 @@
       "cargoHash": "sha256-acsmFr1OcNoznxUNO91xua+eLjp4vHwWfiqG6ExV4SU="
     },
     {
-      "id": "dracula",
+      "name": "dracula",
       "version": "0.9.3",
       "src": {
         "url": "https://github.com/dracula/zed",
@@ -2387,7 +2387,7 @@
       "kind": "plain"
     },
     {
-      "id": "duckyscript",
+      "name": "duckyscript",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Lalolog/duckyscript-zed-extension",
@@ -2405,7 +2405,7 @@
       "kind": "plain"
     },
     {
-      "id": "dune-theme",
+      "name": "dune-theme",
       "version": "1.2.0",
       "src": {
         "url": "https://github.com/Anvell/zed-dune-theme",
@@ -2423,7 +2423,7 @@
       "kind": "plain"
     },
     {
-      "id": "earthfile",
+      "name": "earthfile",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/glehmann/earthfile.zed",
@@ -2444,7 +2444,7 @@
       "cargoHash": "sha256-NA7QlxvuxpLtWkGb+3qzfhVtam2ype4UCf206c0NRxk="
     },
     {
-      "id": "edi",
+      "name": "edi",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/hugginsio/zed-edi",
@@ -2464,7 +2464,7 @@
       "kind": "plain"
     },
     {
-      "id": "eiffel-theme",
+      "name": "eiffel-theme",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/demiurg/zed-theme-eiffel",
@@ -2482,7 +2482,7 @@
       "kind": "plain"
     },
     {
-      "id": "ejs",
+      "name": "ejs",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dangh/zed-ejs",
@@ -2502,7 +2502,7 @@
       "kind": "plain"
     },
     {
-      "id": "elisp",
+      "name": "elisp",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/JosephTLyons/zed-elisp",
@@ -2522,7 +2522,7 @@
       "kind": "plain"
     },
     {
-      "id": "elixir",
+      "name": "elixir",
       "version": "0.1.7",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
@@ -2544,7 +2544,7 @@
       "cargoHash": "sha256-1gAi3o6RkeTDKyn++VKGQqgGLVpPBdLk/QUanUPKh/U="
     },
     {
-      "id": "elle",
+      "name": "elle",
       "version": "0.2.4",
       "src": {
         "url": "https://github.com/acquitelol/elle",
@@ -2566,7 +2566,7 @@
       "cargoHash": "sha256-8DaOnZHgbTeWlbxkyDEQN3z6Hvjfhi8VC3PPoODKpUE="
     },
     {
-      "id": "elm",
+      "name": "elm",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/elm",
@@ -2587,7 +2587,7 @@
       "cargoHash": "sha256-QxsgdO9it7eip9n0C+qPMYM5d4jn4svYqSZa3dQsnWQ="
     },
     {
-      "id": "ember",
+      "name": "ember",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/jylamont/zed-ember",
@@ -2607,7 +2607,7 @@
       "kind": "plain"
     },
     {
-      "id": "ember-theme",
+      "name": "ember-theme",
       "version": "0.9.1",
       "src": {
         "url": "https://github.com/biaqat/ember-theme-zed",
@@ -2625,7 +2625,7 @@
       "kind": "plain"
     },
     {
-      "id": "emerald-night",
+      "name": "emerald-night",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/iamngoni/emerald-night-theme",
@@ -2643,7 +2643,7 @@
       "kind": "plain"
     },
     {
-      "id": "emmet",
+      "name": "emmet",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -2663,7 +2663,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "env",
+      "name": "env",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/zarifpour/zed-env",
@@ -2683,7 +2683,7 @@
       "kind": "plain"
     },
     {
-      "id": "erlang",
+      "name": "erlang",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/zed-extensions/erlang",
@@ -2704,7 +2704,7 @@
       "cargoHash": "sha256-AAQ68Yj9braA1X9Y0iCwl1nZvGS2WrfqPP+acBdGXfg="
     },
     {
-      "id": "evil-rabbit-theme",
+      "name": "evil-rabbit-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/kettanaito/zed-theme-evil-rabbit",
@@ -2722,7 +2722,7 @@
       "kind": "plain"
     },
     {
-      "id": "exograph",
+      "name": "exograph",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/exograph/zed-extension",
@@ -2742,7 +2742,7 @@
       "kind": "plain"
     },
     {
-      "id": "exquisite",
+      "name": "exquisite",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/xqsit94/zed-xqsit-theme",
@@ -2760,7 +2760,7 @@
       "kind": "plain"
     },
     {
-      "id": "ezio-theme",
+      "name": "ezio-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/dsantolo/ezio-zed",
@@ -2778,7 +2778,7 @@
       "kind": "plain"
     },
     {
-      "id": "fiberplane-studio",
+      "name": "fiberplane-studio",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/keturiosakys/zed-fp-studio",
@@ -2797,7 +2797,7 @@
       "cargoHash": "sha256-86551BksVNpNLI5dIM/YWp8ztbpsDTOVf/PGfK5n1a4="
     },
     {
-      "id": "firebase-security-rules",
+      "name": "firebase-security-rules",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/ChemisTechlabs/zed-firebase-security-rules",
@@ -2817,7 +2817,7 @@
       "kind": "plain"
     },
     {
-      "id": "flask-snippets",
+      "name": "flask-snippets",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/ayberkgezer/flask-snippets",
@@ -2835,7 +2835,7 @@
       "kind": "plain"
     },
     {
-      "id": "flat-theme",
+      "name": "flat-theme",
       "version": "0.5.1",
       "src": {
         "url": "https://github.com/biaqat/flat-theme-zed",
@@ -2853,7 +2853,7 @@
       "kind": "plain"
     },
     {
-      "id": "flatbuffers",
+      "name": "flatbuffers",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/smpanaro/zed-flatbuffers",
@@ -2873,7 +2873,7 @@
       "kind": "plain"
     },
     {
-      "id": "fleet-themes",
+      "name": "fleet-themes",
       "version": "1.2.0",
       "src": {
         "url": "https://github.com/skarline/zed-fleet-themes",
@@ -2891,7 +2891,7 @@
       "kind": "plain"
     },
     {
-      "id": "flexoki-themes",
+      "name": "flexoki-themes",
       "version": "2.0.0",
       "src": {
         "url": "https://github.com/kepano/flexoki",
@@ -2910,7 +2910,7 @@
       "kind": "plain"
     },
     {
-      "id": "flow-theme",
+      "name": "flow-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/Rics-Dev/zed-flow-theme",
@@ -2928,7 +2928,7 @@
       "kind": "plain"
     },
     {
-      "id": "flutter-snippets",
+      "name": "flutter-snippets",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/luisdanieldlcg/flutter-snippets",
@@ -2946,7 +2946,7 @@
       "kind": "plain"
     },
     {
-      "id": "focus-theme",
+      "name": "focus-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/jigyansunanda/focus",
@@ -2964,7 +2964,7 @@
       "kind": "plain"
     },
     {
-      "id": "fortran",
+      "name": "fortran",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Xavier-Maruff/zed-fortran",
@@ -2982,13 +2982,13 @@
         "fortran_fortran"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-tKufAIcNmf06k5gGE1QZu9ZHCuqJULd0Es+QMs/pSAY=",
+      "cargoHash": "sha256-5vlueO03LIoIXcnqi6OCpA2X8EGlixSOKftNBXyr10k=",
       "cargoLock": {
         "lockFile": "/generated/fortran.lock"
       }
     },
     {
-      "id": "fountain",
+      "name": "fountain",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/LaPingvino/zed-fountain",
@@ -3008,7 +3008,7 @@
       "kind": "plain"
     },
     {
-      "id": "frosted-theme",
+      "name": "frosted-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/daviiiL/frosted-theme",
@@ -3026,7 +3026,7 @@
       "kind": "plain"
     },
     {
-      "id": "fsharp",
+      "name": "fsharp",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/nathanjcollins/zed-fsharp",
@@ -3047,7 +3047,7 @@
       "cargoHash": "sha256-Ni6w7oO2ogQrxylZ0hWPD2+gibuLcpkQYWJn8BhByhg="
     },
     {
-      "id": "fsm",
+      "name": "fsm",
       "version": "0.3.0",
       "src": {
         "url": "https://codeberg.org/reesericci/zed-extension-fsm",
@@ -3067,7 +3067,7 @@
       "kind": "plain"
     },
     {
-      "id": "gdscript",
+      "name": "gdscript",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/GDQuest/zed-gdscript",
@@ -3086,13 +3086,13 @@
         "gdscript_godot_resource"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-gQxFBbrHKb5vRuFzcw3ZJvzmlytt4eTPMwI/aEXWdsk=",
+      "cargoHash": "sha256-YuwJyImDJfZd1d41A1Qjd7hQqkG4yAh8bo6ybtVG+7M=",
       "cargoLock": {
         "lockFile": "/generated/gdscript.lock"
       }
     },
     {
-      "id": "gemini",
+      "name": "gemini",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/clseibold/gemini-zed",
@@ -3112,7 +3112,7 @@
       "kind": "plain"
     },
     {
-      "id": "gentle-dark",
+      "name": "gentle-dark",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/gentlelionstudios/gentle-dark-zed",
@@ -3130,7 +3130,7 @@
       "kind": "plain"
     },
     {
-      "id": "git-firefly",
+      "name": "git-firefly",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/d1y/git_firefly",
@@ -3155,7 +3155,7 @@
       "kind": "plain"
     },
     {
-      "id": "github-activity-summarizer",
+      "name": "github-activity-summarizer",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/rubiojr/gas",
@@ -3174,7 +3174,7 @@
       "cargoHash": "sha256-4R3qaW7gvMGDZZRGdjgz8nJFi7XfLbhZKqehDOkieJw="
     },
     {
-      "id": "github-copilot-theme",
+      "name": "github-copilot-theme",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/ssaunderss/zed-gh-copilot-theme",
@@ -3192,7 +3192,7 @@
       "kind": "plain"
     },
     {
-      "id": "github-dark-default",
+      "name": "github-dark-default",
       "version": "1.0.9",
       "src": {
         "url": "https://github.com/MordFustang21/zed-github-dark",
@@ -3210,7 +3210,7 @@
       "kind": "plain"
     },
     {
-      "id": "github-monochrome-theme",
+      "name": "github-monochrome-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Nishantdd/github-monochrome-zed",
@@ -3228,7 +3228,7 @@
       "kind": "plain"
     },
     {
-      "id": "github-theme",
+      "name": "github-theme",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/PyaeSoneAungRgn/github-zed-theme",
@@ -3246,7 +3246,7 @@
       "kind": "plain"
     },
     {
-      "id": "gitlab-ci-ls",
+      "name": "gitlab-ci-ls",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/tzabbi/zed-gitlab-ci-ls",
@@ -3265,7 +3265,7 @@
       "cargoHash": "sha256-QGxX+lczlbpU3zMVsDOexuD9hRlxs3OZLPvIm+ZJMuc="
     },
     {
-      "id": "glazier",
+      "name": "glazier",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/airgap/glazier",
@@ -3283,7 +3283,7 @@
       "kind": "plain"
     },
     {
-      "id": "gleam",
+      "name": "gleam",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/gleam-lang/zed-gleam",
@@ -3304,7 +3304,7 @@
       "cargoHash": "sha256-ue/27OoOBJC051KdsOZ6hzMrgo++j2QZDbNjVLhsV0Q="
     },
     {
-      "id": "gleam-theme",
+      "name": "gleam-theme",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/DanielleMaywood/gleam-theme-zed",
@@ -3322,7 +3322,7 @@
       "kind": "plain"
     },
     {
-      "id": "glsl",
+      "name": "glsl",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -3344,7 +3344,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "go-snippets",
+      "name": "go-snippets",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/ayberkgezer/go-zed-snippets",
@@ -3362,7 +3362,7 @@
       "kind": "plain"
     },
     {
-      "id": "golangci-lint",
+      "name": "golangci-lint",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/golangci-lint",
@@ -3381,7 +3381,7 @@
       "cargoHash": "sha256-OFU+47xT/5Z6qa8b4b4Scmoi7aMPM9ODI7himOs27+Y="
     },
     {
-      "id": "gosum",
+      "name": "gosum",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/kartikvashistha/zed-gosum",
@@ -3401,7 +3401,7 @@
       "kind": "plain"
     },
     {
-      "id": "graphene",
+      "name": "graphene",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/adinack/graphene",
@@ -3419,7 +3419,7 @@
       "kind": "plain"
     },
     {
-      "id": "graphql",
+      "name": "graphql",
       "version": "1.0.2",
       "src": {
         "url": "https://github.com/11bit/zed-extension-graphql",
@@ -3440,7 +3440,7 @@
       "cargoHash": "sha256-/CyocLBi4P/lm6AEZN0N4aFemsC4EuglhD4WzKVsDYo="
     },
     {
-      "id": "graphviz",
+      "name": "graphviz",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/gabeidx/zed-graphviz",
@@ -3460,7 +3460,7 @@
       "kind": "plain"
     },
     {
-      "id": "green-monochrome-monitor-crt-phosphor",
+      "name": "green-monochrome-monitor-crt-phosphor",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed",
@@ -3478,7 +3478,7 @@
       "kind": "plain"
     },
     {
-      "id": "gren",
+      "name": "gren",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/johanalkstal/gren-lang-extension",
@@ -3498,7 +3498,7 @@
       "kind": "plain"
     },
     {
-      "id": "grey-theme",
+      "name": "grey-theme",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/mvrcoag/zed-grey-theme",
@@ -3516,7 +3516,7 @@
       "kind": "plain"
     },
     {
-      "id": "groovy",
+      "name": "groovy",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/valentinegb/zed-groovy",
@@ -3537,7 +3537,7 @@
       "cargoHash": "sha256-7f5eskyo+ySWp4JpYYBsFL3JuNxhfPhdPGsuANv9T9Y="
     },
     {
-      "id": "groq",
+      "name": "groq",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/juice49/zed-groq",
@@ -3557,7 +3557,7 @@
       "kind": "plain"
     },
     {
-      "id": "gruber-darker",
+      "name": "gruber-darker",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/th0jensen/gruber-darker.zed",
@@ -3575,7 +3575,7 @@
       "kind": "plain"
     },
     {
-      "id": "gruber-flavors",
+      "name": "gruber-flavors",
       "version": "0.8.0",
       "src": {
         "url": "https://github.com/biaqat/gruber-theme-zed",
@@ -3593,7 +3593,7 @@
       "kind": "plain"
     },
     {
-      "id": "gruvbox-ish",
+      "name": "gruvbox-ish",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/LeoDog896/zed-gruvbox-ish",
@@ -3611,7 +3611,7 @@
       "kind": "plain"
     },
     {
-      "id": "gruvbox-material",
+      "name": "gruvbox-material",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/tokiory/zed-gruvbox-material",
@@ -3629,7 +3629,7 @@
       "kind": "plain"
     },
     {
-      "id": "hacker-night-vision",
+      "name": "hacker-night-vision",
       "version": "2.0.0",
       "src": {
         "url": "https://github.com/Takk8IS/hacker-night-vision-theme-for-zed",
@@ -3647,7 +3647,7 @@
       "kind": "plain"
     },
     {
-      "id": "hacker-theme",
+      "name": "hacker-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/N0TZ3R0/zedhacker",
@@ -3665,7 +3665,7 @@
       "kind": "plain"
     },
     {
-      "id": "haku-dark-theme",
+      "name": "haku-dark-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/ArthurBrussee/haku_dark",
@@ -3683,7 +3683,7 @@
       "kind": "plain"
     },
     {
-      "id": "halcyon",
+      "name": "halcyon",
       "version": "0.2.3",
       "src": {
         "url": "https://github.com/hichemfantar/halcyon-zed",
@@ -3701,7 +3701,7 @@
       "kind": "plain"
     },
     {
-      "id": "hami-melon-theme",
+      "name": "hami-melon-theme",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/isunjn/hami-melon-zed",
@@ -3719,7 +3719,7 @@
       "kind": "plain"
     },
     {
-      "id": "haml",
+      "name": "haml",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/davidcornu/zed-haml",
@@ -3739,7 +3739,7 @@
       "kind": "plain"
     },
     {
-      "id": "hare",
+      "name": "hare",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/xdBronch/hare-zed",
@@ -3759,7 +3759,7 @@
       "kind": "plain"
     },
     {
-      "id": "harper",
+      "name": "harper",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/Stef16Robbe/harper_zed",
@@ -3775,13 +3775,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-jO5JNNRawUkq/NDG/CR8uBtW/Xnf4+thi1DttGaL56A=",
+      "cargoHash": "sha256-afWs+pxmOfIg9E60tq96ATq4VrTLn70USqsWldFmvSw=",
       "cargoLock": {
         "lockFile": "/generated/harper.lock"
       }
     },
     {
-      "id": "haskell",
+      "name": "haskell",
       "version": "0.1.5",
       "src": {
         "url": "https://github.com/zed-extensions/haskell",
@@ -3803,7 +3803,7 @@
       "cargoHash": "sha256-paQHUql2zYDO6u54gMCtk41Y5Gqc+0ek8nAQDMbIetM="
     },
     {
-      "id": "haxe",
+      "name": "haxe",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/Frixuu/Zed-Haxe",
@@ -3824,7 +3824,7 @@
       "cargoHash": "sha256-DETwNtuXKDLrJkUy5EqJRmoSns7Miz36obv7E8bb8C0="
     },
     {
-      "id": "helm",
+      "name": "helm",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/cabrinha/helm.zed",
@@ -3842,13 +3842,13 @@
         "helm_helm"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-4BSTLb5gxRSUn7iBAP23mwxwh1mF7cQYqMFp0ppLJBI=",
+      "cargoHash": "sha256-QTpXVtvsl6bkH1Y3GTSnaDuQrU29HOmEZ3gz775KSqg=",
       "cargoLock": {
         "lockFile": "/generated/helm.lock"
       }
     },
     {
-      "id": "hex-light-theme",
+      "name": "hex-light-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/coghost/light-zed-theme",
@@ -3866,7 +3866,7 @@
       "kind": "plain"
     },
     {
-      "id": "hivacruz-theme",
+      "name": "hivacruz-theme",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/kinoute/zed-hivacruz-theme",
@@ -3884,7 +3884,7 @@
       "kind": "plain"
     },
     {
-      "id": "hlsl",
+      "name": "hlsl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/igordreher/zed-hlsl",
@@ -3904,7 +3904,7 @@
       "kind": "plain"
     },
     {
-      "id": "html",
+      "name": "html",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -3926,7 +3926,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "html-jinja",
+      "name": "html-jinja",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/JaagupAverin/html-jinja",
@@ -3947,7 +3947,7 @@
       "kind": "plain"
     },
     {
-      "id": "http",
+      "name": "http",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/tie304/zed-http",
@@ -3968,7 +3968,7 @@
       "cargoHash": "sha256-6GvJ9Fu8gRxzsIl9gAGxc0myXeFq1Hor9HLNKRRxVCQ="
     },
     {
-      "id": "hurl",
+      "name": "hurl",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/tommy/zed-hurl",
@@ -3988,7 +3988,7 @@
       "kind": "plain"
     },
     {
-      "id": "hyprlang",
+      "name": "hyprlang",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/WhySoBad/zed-hyprlang-extension",
@@ -4009,7 +4009,7 @@
       "cargoHash": "sha256-CxSzzuZ0i4kSLqydeplTTA/lBdOjhigAyUuGx0H1UPA="
     },
     {
-      "id": "ical",
+      "name": "ical",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/TitouanReal/zed-ical",
@@ -4030,7 +4030,7 @@
       "cargoHash": "sha256-SZTzG8AeobsofRVkZIao9nnKi5yhbuv1gNfMkR60VYI="
     },
     {
-      "id": "iceberg",
+      "name": "iceberg",
       "version": "0.2.10",
       "src": {
         "url": "https://github.com/EFDos/iceberg-zed-theme",
@@ -4048,7 +4048,7 @@
       "kind": "plain"
     },
     {
-      "id": "iceicebergy",
+      "name": "iceicebergy",
       "version": "0.3.14",
       "src": {
         "url": "https://github.com/jmsdnns/zed-iceicebergy",
@@ -4066,7 +4066,7 @@
       "kind": "plain"
     },
     {
-      "id": "idris2",
+      "name": "idris2",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/srghma/zed-idris2",
@@ -4085,13 +4085,13 @@
         "idris2_ipkg"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-RPuJpnLZRX2dgEJHwo9nsHhS6+J685OvwJVFpEFAKRs=",
+      "cargoHash": "sha256-36XclYf25NJqKVK8zva/Hv7e0KomJd678YK/f28EEDk=",
       "cargoLock": {
         "lockFile": "/generated/idris2.lock"
       }
     },
     {
-      "id": "inform6",
+      "name": "inform6",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/Or4c/zed-inform6",
@@ -4111,7 +4111,7 @@
       "kind": "plain"
     },
     {
-      "id": "ini",
+      "name": "ini",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-ini",
@@ -4131,7 +4131,7 @@
       "kind": "plain"
     },
     {
-      "id": "intellij-newui-theme",
+      "name": "intellij-newui-theme",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/kpitt/zed-theme-intellij-newui",
@@ -4149,7 +4149,7 @@
       "kind": "plain"
     },
     {
-      "id": "isle",
+      "name": "isle",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/eagr/zed-isle",
@@ -4170,7 +4170,7 @@
       "cargoHash": "sha256-TvUPhVJ5/NJgYGLs7IlNgqh+KqgW0SBIGp6+5qYYmf0="
     },
     {
-      "id": "iwe",
+      "name": "iwe",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/iwe-org/zed-iwe",
@@ -4186,13 +4186,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-c8bDbUpT2mAcgLMsYfFqX64VPJ+9IzehfAeKFSYYKXQ=",
+      "cargoHash": "sha256-tzSUe+G00YCpOjvA6htLa1JNi6IY7uC5XeaAZ9j96qY=",
       "cargoLock": {
         "lockFile": "/generated/iwe.lock"
       }
     },
     {
-      "id": "janet",
+      "name": "janet",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/vijaykiran/janet-zed",
@@ -4212,7 +4212,7 @@
       "kind": "plain"
     },
     {
-      "id": "java",
+      "name": "java",
       "version": "6.0.3",
       "src": {
         "url": "https://github.com/samuser107/zed-java-extension",
@@ -4230,13 +4230,13 @@
         "java_java"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-tOAvWclQn0HgvJzB9YOEXGzx5gkNKAOn62rMOuqHqmc=",
+      "cargoHash": "sha256-XroBGIi3O1VxkX35xePk03BV0b6qaoA0kdiX3BH+tis=",
       "cargoLock": {
         "lockFile": "/generated/java.lock"
       }
     },
     {
-      "id": "java-eclipse-jdtls",
+      "name": "java-eclipse-jdtls",
       "version": "0.2.4",
       "src": {
         "url": "https://github.com/ABckh/zed-java-language-support-jdtls",
@@ -4257,7 +4257,7 @@
       "cargoHash": "sha256-4cqDXPwihOznbgUfH95NkD9A2+tVj88Ezp4zRb0nwFU="
     },
     {
-      "id": "jellybeans-vim",
+      "name": "jellybeans-vim",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/rajerthat1/jellybeans.zed",
@@ -4275,7 +4275,7 @@
       "kind": "plain"
     },
     {
-      "id": "jetbrains-icons",
+      "name": "jetbrains-icons",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/ziishaned/zed-jetbrains-icons",
@@ -4293,7 +4293,7 @@
       "kind": "plain"
     },
     {
-      "id": "jetbrains-new-ui-icons",
+      "name": "jetbrains-new-ui-icons",
       "version": "2.1.0",
       "src": {
         "url": "https://github.com/ankddev/zed-jetbrains-newui-icons",
@@ -4311,7 +4311,7 @@
       "kind": "plain"
     },
     {
-      "id": "jinja2",
+      "name": "jinja2",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/ArcherHume/jinja2-support",
@@ -4331,7 +4331,7 @@
       "kind": "plain"
     },
     {
-      "id": "jira-slash-command",
+      "name": "jira-slash-command",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/trbroyles1/jira-slash-command",
@@ -4350,7 +4350,7 @@
       "cargoHash": "sha256-oS3/rQg9kRWLy7e4Z2QSRWoA/pQi/97mqhhvOzBUAoY="
     },
     {
-      "id": "jsonnet",
+      "name": "jsonnet",
       "version": "0.3.2",
       "src": {
         "url": "https://github.com/narqo/zed-jsonnet",
@@ -4371,7 +4371,7 @@
       "cargoHash": "sha256-/H64XolLCWqbAkxd/QnVvWixzBe4CqAE3CTIqNe4FVI="
     },
     {
-      "id": "julia",
+      "name": "julia",
       "version": "0.1.4",
       "src": {
         "url": "https://github.com/JuliaEditorSupport/zed-julia",
@@ -4392,7 +4392,7 @@
       "cargoHash": "sha256-1+sxEkqICOo8S/qOoCkf4ZUd9c76rdu4j8dZ/A9kdTg="
     },
     {
-      "id": "just",
+      "name": "just",
       "version": "0.1.4",
       "src": {
         "url": "https://github.com/jackTabsCode/zed-just",
@@ -4412,7 +4412,7 @@
       "kind": "plain"
     },
     {
-      "id": "kamui-dark-theme",
+      "name": "kamui-dark-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://gitlab.com/kamuiqf/zed-kamui-theme",
@@ -4430,7 +4430,7 @@
       "kind": "plain"
     },
     {
-      "id": "kanagawa-themes",
+      "name": "kanagawa-themes",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/ethangilmore/zed-kanagawa",
@@ -4448,7 +4448,7 @@
       "kind": "plain"
     },
     {
-      "id": "kcl",
+      "name": "kcl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/pisarenko91/kcl-zed-extension",
@@ -4469,7 +4469,7 @@
       "cargoHash": "sha256-RYnGzWGUz4Uec+yrPxPDQmQh2GpEXrlbjk6pPuJjV6w="
     },
     {
-      "id": "kconfig",
+      "name": "kconfig",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/hubertmis/zed-ext-kconfig",
@@ -4489,7 +4489,7 @@
       "kind": "plain"
     },
     {
-      "id": "kdl",
+      "name": "kdl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/elkowar/zed-kdl",
@@ -4509,7 +4509,7 @@
       "kind": "plain"
     },
     {
-      "id": "kotlin",
+      "name": "kotlin",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/zed-extensions/zed-kotlin",
@@ -4530,7 +4530,7 @@
       "cargoHash": "sha256-UoUigeQAvopf/2V0lG7aOFDAY4y+uQ+JGQEWEcU5+IM="
     },
     {
-      "id": "ktrz-monokai",
+      "name": "ktrz-monokai",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/pcminh0505/ktrz-monokai-zed-theme",
@@ -4548,7 +4548,7 @@
       "kind": "plain"
     },
     {
-      "id": "kubesong",
+      "name": "kubesong",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/helgelol/kubesong-zed-theme",
@@ -4566,7 +4566,7 @@
       "kind": "plain"
     },
     {
-      "id": "latex",
+      "name": "latex",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/rzukic/zed-latex",
@@ -4588,7 +4588,7 @@
       "cargoHash": "sha256-rX6PAdEpTwRD6Nu/EhSd4OMZ5NBS0DAQ9loxI8/OuCc="
     },
     {
-      "id": "lean4",
+      "name": "lean4",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/blackbird314/zed-lean4",
@@ -4606,13 +4606,13 @@
         "lean4_lean"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-yyk4GXbqsuSkDkdBCUGNWIQGRH/xiTplbsxWLcC/6xQ=",
+      "cargoHash": "sha256-ayM3eYH3M/IJ0IB6w63GE9aZLMgT7oWnZnUkHJz1fvo=",
       "cargoLock": {
         "lockFile": "/generated/lean4.lock"
       }
     },
     {
-      "id": "leblackque",
+      "name": "leblackque",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/gx0r/leblackque",
@@ -4630,7 +4630,7 @@
       "kind": "plain"
     },
     {
-      "id": "ledger",
+      "name": "ledger",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/mrkstwrt/zed-ledger",
@@ -4650,7 +4650,7 @@
       "kind": "plain"
     },
     {
-      "id": "less",
+      "name": "less",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/jimliang/zed-less",
@@ -4671,7 +4671,7 @@
       "cargoHash": "sha256-+uZ1DMj+DGRbJfgIHb5f08OpG1mCyUWrfBNHufiIAms="
     },
     {
-      "id": "libsql-context-server",
+      "name": "libsql-context-server",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/nicholasq/libsql-context-server",
@@ -4690,7 +4690,7 @@
       "cargoHash": "sha256-lcR9duGBcWrvbBhsH8O/ltb8cQfzomdIWnsoDvsQYFg="
     },
     {
-      "id": "lilypond",
+      "name": "lilypond",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/nwhetsell/lilypond-zed-extension",
@@ -4711,7 +4711,7 @@
       "kind": "plain"
     },
     {
-      "id": "liquid",
+      "name": "liquid",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/TheBeyondGroup/zed-shopify-liquid",
@@ -4732,7 +4732,7 @@
       "cargoHash": "sha256-9ddNfUivSGVrO/Dqd9OQ7FjrYk0fL5EqqZyVemPP/X4="
     },
     {
-      "id": "live-server",
+      "name": "live-server",
       "version": "0.3.1",
       "src": {
         "url": "https://github.com/frederik-uni/zed-live-server",
@@ -4751,7 +4751,7 @@
       "cargoHash": "sha256-z2QQayddQClBAcm4MG4e/LNVfhdPRWX6wHOVV1aEvsE="
     },
     {
-      "id": "log",
+      "name": "log",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/nervenes/zed-log",
@@ -4771,7 +4771,7 @@
       "kind": "plain"
     },
     {
-      "id": "logstash",
+      "name": "logstash",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/StrongTheDev/logstash-for-zed",
@@ -4791,7 +4791,7 @@
       "kind": "plain"
     },
     {
-      "id": "lox",
+      "name": "lox",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/arian81/zed-lox",
@@ -4811,7 +4811,7 @@
       "kind": "plain"
     },
     {
-      "id": "ltex",
+      "name": "ltex",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/vitallium/zed-ltex",
@@ -4830,7 +4830,7 @@
       "cargoHash": "sha256-u5tiXH5Y2b1m6OdJgwk0CnmV3ga5wP9w/OjlCXfB3oA="
     },
     {
-      "id": "lua",
+      "name": "lua",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/zed-extensions/lua",
@@ -4851,7 +4851,7 @@
       "cargoHash": "sha256-+sdHYkJdrCMzdPUECg1dFebSQ66vuh2VmMyzZS/6gWk="
     },
     {
-      "id": "luau",
+      "name": "luau",
       "version": "0.2.2",
       "src": {
         "url": "https://github.com/4teapo/zed-luau",
@@ -4869,13 +4869,13 @@
         "luau_luau"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-FMxf+uDjeqagYeGtIWLHQhdJNBts/yUXEuhQPykq7gk=",
+      "cargoHash": "sha256-oXANqJGSpVSmTkH2ePh9bNK9zm52MlXF65p0F5s61/I=",
       "cargoLock": {
         "lockFile": "/generated/luau.lock"
       }
     },
     {
-      "id": "lusch-theme",
+      "name": "lusch-theme",
       "version": "0.6.1",
       "src": {
         "url": "https://github.com/biaqat/lusch-theme-zed",
@@ -4893,7 +4893,7 @@
       "kind": "plain"
     },
     {
-      "id": "lydia",
+      "name": "lydia",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/dimitrisnl/lydia-zed-theme",
@@ -4911,7 +4911,7 @@
       "kind": "plain"
     },
     {
-      "id": "macos-classic",
+      "name": "macos-classic",
       "version": "0.2.3",
       "src": {
         "url": "https://github.com/huacnlee/zed-theme-macos-classic",
@@ -4929,7 +4929,7 @@
       "kind": "plain"
     },
     {
-      "id": "make",
+      "name": "make",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/caius/zed-make",
@@ -4949,7 +4949,7 @@
       "kind": "plain"
     },
     {
-      "id": "malibu",
+      "name": "malibu",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/michael-andreuzza/malibu-theme-zed",
@@ -4967,7 +4967,7 @@
       "kind": "plain"
     },
     {
-      "id": "maple-theme",
+      "name": "maple-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/bushuai/zed-maple",
@@ -4985,7 +4985,7 @@
       "kind": "plain"
     },
     {
-      "id": "marble",
+      "name": "marble",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/TeenCoder159/marble-theme",
@@ -5003,7 +5003,7 @@
       "kind": "plain"
     },
     {
-      "id": "mariana-theme",
+      "name": "mariana-theme",
       "version": "0.9.1",
       "src": {
         "url": "https://github.com/biaqat/mariana-theme-zed",
@@ -5021,7 +5021,7 @@
       "kind": "plain"
     },
     {
-      "id": "marine-dark",
+      "name": "marine-dark",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/MarineDark/marine-dark.zed",
@@ -5039,7 +5039,7 @@
       "kind": "plain"
     },
     {
-      "id": "markdown-oxide",
+      "name": "markdown-oxide",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/Feel-ix-343/markdown-oxide-zed",
@@ -5058,7 +5058,7 @@
       "cargoHash": "sha256-h0OfbrBLCsnltHL2bGaDAo4o+V/s9vQLD+Gx6r87fKA="
     },
     {
-      "id": "marksman",
+      "name": "marksman",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/vitallium/zed-marksman",
@@ -5077,7 +5077,7 @@
       "cargoHash": "sha256-0lA7zef5fTEW2kYqPoz9os/AKAQNfbS4CcH8cpbDQjU="
     },
     {
-      "id": "martianized",
+      "name": "martianized",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/clamjohnston/martianized",
@@ -5095,7 +5095,7 @@
       "kind": "plain"
     },
     {
-      "id": "material-dark",
+      "name": "material-dark",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/xerodark/zed-material-theme",
@@ -5113,7 +5113,7 @@
       "kind": "plain"
     },
     {
-      "id": "material-icon-theme",
+      "name": "material-icon-theme",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/zed-extensions/material-icon-theme",
@@ -5131,7 +5131,7 @@
       "kind": "plain"
     },
     {
-      "id": "material-theme",
+      "name": "material-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Codextor/zed-material-theme",
@@ -5149,7 +5149,7 @@
       "kind": "plain"
     },
     {
-      "id": "mau",
+      "name": "mau",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/mauscoelho/zed-mau-themes",
@@ -5167,7 +5167,7 @@
       "kind": "plain"
     },
     {
-      "id": "maya",
+      "name": "maya",
       "version": "0.4.5",
       "src": {
         "url": "https://github.com/sbowman/maya.zed",
@@ -5185,7 +5185,7 @@
       "kind": "plain"
     },
     {
-      "id": "mcp-server-axiom",
+      "name": "mcp-server-axiom",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-extensions/mcp-server-axiom",
@@ -5204,7 +5204,7 @@
       "cargoHash": "sha256-udFHfJ2H1gIcBwA4MmOjEvDa9jhJqKMGr23UbAbakrk="
     },
     {
-      "id": "mcp-server-brave-search",
+      "name": "mcp-server-brave-search",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/zed-extensions/mcp-server-brave-search",
@@ -5223,7 +5223,7 @@
       "cargoHash": "sha256-rIKKh2iZJbBy7uuFWQjP3WqBrn6tbTanrLPXk6JNsho="
     },
     {
-      "id": "mcp-server-context7",
+      "name": "mcp-server-context7",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/akbxr/zed-mcp-server-context7",
@@ -5242,7 +5242,7 @@
       "cargoHash": "sha256-t8iLmWU4wTGMTJYKDe/s6DkcBlZmYr49t8WDazaDmQg="
     },
     {
-      "id": "mcp-server-exa-search",
+      "name": "mcp-server-exa-search",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/exa-labs/zed-exa-mcp-extension",
@@ -5261,7 +5261,7 @@
       "cargoHash": "sha256-aup9NC+8dWMO4UaJcZhoVgFcZCrr29mau910B8rhis8="
     },
     {
-      "id": "mcp-server-figma",
+      "name": "mcp-server-figma",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-figma",
@@ -5280,7 +5280,7 @@
       "cargoHash": "sha256-Hj/BIVmXs8v2Sq4fsRUkBDFjguQPTU9nrUlINlkFFs4="
     },
     {
-      "id": "mcp-server-firecrawl",
+      "name": "mcp-server-firecrawl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/akbxr/firecrawl-mcp-zed",
@@ -5299,7 +5299,7 @@
       "cargoHash": "sha256-8JZEc6RPXJR9cMZj62CRe24ziWJ8CyytYO/wGzi0LsY="
     },
     {
-      "id": "mcp-server-github",
+      "name": "mcp-server-github",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-github",
@@ -5318,7 +5318,7 @@
       "cargoHash": "sha256-ScRpRpMy/9/qbWSDd62OojIrL6IifPfu9qm0JWJJCII="
     },
     {
-      "id": "mcp-server-gitlab",
+      "name": "mcp-server-gitlab",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/akbxr/gitlab-mcp-zed",
@@ -5337,7 +5337,7 @@
       "cargoHash": "sha256-g6yhCU068x+vZnGcLRC7EjsVqAs912n5e7XCBUtK6zM="
     },
     {
-      "id": "mcp-server-linear",
+      "name": "mcp-server-linear",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-linear",
@@ -5356,7 +5356,7 @@
       "cargoHash": "sha256-HfIucRzWbokGiIr3oiEF57E7F5idl7kbBAQcCBEYKRk="
     },
     {
-      "id": "mcp-server-puppeteer",
+      "name": "mcp-server-puppeteer",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/zed-extensions/mcp-server-puppeteer",
@@ -5375,7 +5375,7 @@
       "cargoHash": "sha256-DqOtfnVGB3NuCj8QAtntnH4lY8HFtFp7jFlvHi5GQaY="
     },
     {
-      "id": "mcp-server-sequential-thinking",
+      "name": "mcp-server-sequential-thinking",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-sequential-thinking",
@@ -5394,7 +5394,7 @@
       "cargoHash": "sha256-Dgym2/O3vzhZti9BOk6ooe+Y3fQAO+7AKRbpoX0gnG8="
     },
     {
-      "id": "mcp-server-shopify-dev",
+      "name": "mcp-server-shopify-dev",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/TheBeyondGroup/zed-mcp-server-shopify-dev",
@@ -5413,7 +5413,7 @@
       "cargoHash": "sha256-qI3f+oU8+ZZX/nIEqqOFrZ/MAC8qt5EdqwgV0R9eyeM="
     },
     {
-      "id": "mcp-server-webflow",
+      "name": "mcp-server-webflow",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-webflow",
@@ -5432,7 +5432,7 @@
       "cargoHash": "sha256-YAo9x3ZkXwiEeTWOobtvugb2MQHmOAKkkA0K988zgL4="
     },
     {
-      "id": "melange",
+      "name": "melange",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/adorabilis/melange-zed",
@@ -5450,7 +5450,7 @@
       "kind": "plain"
     },
     {
-      "id": "mermaid",
+      "name": "mermaid",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/gabeidx/zed-mermaid",
@@ -5470,7 +5470,7 @@
       "kind": "plain"
     },
     {
-      "id": "meson",
+      "name": "meson",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/hqnna/zed-meson",
@@ -5488,13 +5488,13 @@
         "meson_meson"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-gXdEjvrEYPCKvQkLkCOYP63ccbgTRnuOke3Ux4/u4fs=",
+      "cargoHash": "sha256-ySxbsBrT/belwihRhPV2+VCUY4eD6utc7YjiGvOEqg4=",
       "cargoLock": {
         "lockFile": "/generated/meson.lock"
       }
     },
     {
-      "id": "min-theme",
+      "name": "min-theme",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/phibr0/zed-min-theme/",
@@ -5512,7 +5512,7 @@
       "kind": "plain"
     },
     {
-      "id": "modest-dark",
+      "name": "modest-dark",
       "version": "0.1.7",
       "src": {
         "url": "https://github.com/timcole/modest-dark",
@@ -5530,7 +5530,7 @@
       "kind": "plain"
     },
     {
-      "id": "modus-themes",
+      "name": "modus-themes",
       "version": "0.0.16",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
@@ -5548,7 +5548,7 @@
       "kind": "plain"
     },
     {
-      "id": "monokai-night",
+      "name": "monokai-night",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/farbodvand/zed-monokai-night",
@@ -5566,7 +5566,7 @@
       "kind": "plain"
     },
     {
-      "id": "monokai-reversed",
+      "name": "monokai-reversed",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/everdrone/zed-monokai-reversed",
@@ -5584,7 +5584,7 @@
       "kind": "plain"
     },
     {
-      "id": "monokai-vibrant-amped",
+      "name": "monokai-vibrant-amped",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Ceebox/zed-monokai-vibrant-amped",
@@ -5602,7 +5602,7 @@
       "kind": "plain"
     },
     {
-      "id": "monolith",
+      "name": "monolith",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/someone13574/zed-monolith-theme",
@@ -5620,7 +5620,7 @@
       "kind": "plain"
     },
     {
-      "id": "monosami",
+      "name": "monosami",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/borngraced/monosami",
@@ -5638,7 +5638,7 @@
       "kind": "plain"
     },
     {
-      "id": "monospace-icon-theme",
+      "name": "monospace-icon-theme",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/irmhonde/monospace-icon-theme",
@@ -5656,7 +5656,7 @@
       "kind": "plain"
     },
     {
-      "id": "monospace-theme",
+      "name": "monospace-theme",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/Abhinav5383/zed-monospace-theme",
@@ -5674,7 +5674,7 @@
       "kind": "plain"
     },
     {
-      "id": "moonbit",
+      "name": "moonbit",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/quirk-lab/zed-moonbit",
@@ -5695,7 +5695,7 @@
       "cargoHash": "sha256-ZrNa6fipDQeR4QELZrnxiTCAeGgO+uEbpXa/uHzXA5U="
     },
     {
-      "id": "moonlight",
+      "name": "moonlight",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/Rick-VA/moonlight",
@@ -5713,7 +5713,7 @@
       "kind": "plain"
     },
     {
-      "id": "mosel",
+      "name": "mosel",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/pierrenel/mosel",
@@ -5731,7 +5731,7 @@
       "kind": "plain"
     },
     {
-      "id": "move",
+      "name": "move",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Tzal3x/move-zed-extension",
@@ -5752,7 +5752,7 @@
       "cargoHash": "sha256-yLiSa2XDqcU/u1Bl7FwaFIzOfgirgUlV/EsqQOtLZ8c="
     },
     {
-      "id": "move-aptos",
+      "name": "move-aptos",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/caoyang2002/zed-move-aptos",
@@ -5773,7 +5773,7 @@
       "cargoHash": "sha256-7MPmehtj/Hu9MZAWZdEfKo7l2uuCuh5OVA2dPVnphQI="
     },
     {
-      "id": "msun-dark",
+      "name": "msun-dark",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/mikesun/msun-dark-zed",
@@ -5791,7 +5791,7 @@
       "kind": "plain"
     },
     {
-      "id": "navi",
+      "name": "navi",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/navi-language/zed-navi",
@@ -5813,7 +5813,7 @@
       "cargoHash": "sha256-jPHO6pJLTrAZ+BTNRrzgRYrqjfIwLmNICFrUQKVsJfM="
     },
     {
-      "id": "nebula-pulse",
+      "name": "nebula-pulse",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/foxoman/nebula-pulse-zed-theme",
@@ -5831,7 +5831,7 @@
       "kind": "plain"
     },
     {
-      "id": "neo-brutalism",
+      "name": "neo-brutalism",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/vishnuroshan/zed-neo-brutalism",
@@ -5849,7 +5849,7 @@
       "kind": "plain"
     },
     {
-      "id": "neocmake",
+      "name": "neocmake",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/k0tran/zed_neocmake",
@@ -5867,13 +5867,13 @@
         "neocmake_cmake"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-b1g/7yE69kJQ8hvvsVH/vUOV2kXmV0RiMQz2M3/2K+8=",
+      "cargoHash": "sha256-9PwZkrqPtf/jPsuoGZaos+XrB8MtnY8DNmo6pJW1VkM=",
       "cargoLock": {
         "lockFile": "/generated/neocmake.lock"
       }
     },
     {
-      "id": "neon-cyberpunk",
+      "name": "neon-cyberpunk",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/arunk140/neon-zed-theme",
@@ -5891,7 +5891,7 @@
       "kind": "plain"
     },
     {
-      "id": "neosolarized",
+      "name": "neosolarized",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/carlocaione/NeoSolarized.zed",
@@ -5909,7 +5909,7 @@
       "kind": "plain"
     },
     {
-      "id": "neovim-default",
+      "name": "neovim-default",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/KimNorgaard/zed-neovim-default",
@@ -5927,7 +5927,7 @@
       "kind": "plain"
     },
     {
-      "id": "nestjs-snippets",
+      "name": "nestjs-snippets",
       "version": "0.1.4",
       "src": {
         "url": "https://github.com/ayberkgezer/nestjs-snippets",
@@ -5945,7 +5945,7 @@
       "kind": "plain"
     },
     {
-      "id": "new-darcula",
+      "name": "new-darcula",
       "version": "1.0.7",
       "src": {
         "url": "https://github.com/e-simpson/new-darcula-z",
@@ -5963,7 +5963,7 @@
       "kind": "plain"
     },
     {
-      "id": "nginx",
+      "name": "nginx",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/d1y/nginx-zed",
@@ -5984,7 +5984,7 @@
       "cargoHash": "sha256-E5lUWlRzMPpkOJzXPHYUPidALumD1F/XB7LqMGl7NXs="
     },
     {
-      "id": "nickel",
+      "name": "nickel",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/norpadon/zed-nickel-extension",
@@ -6004,7 +6004,7 @@
       "kind": "plain"
     },
     {
-      "id": "night-shift",
+      "name": "night-shift",
       "version": "1.0.2",
       "src": {
         "url": "https://github.com/Jean-Tinland/zed-theme-night-shift",
@@ -6022,7 +6022,7 @@
       "kind": "plain"
     },
     {
-      "id": "nightfox",
+      "name": "nightfox",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/ssaunderss/zed-nightfox",
@@ -6040,7 +6040,7 @@
       "kind": "plain"
     },
     {
-      "id": "nightfox-m",
+      "name": "nightfox-m",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/mpopadic/nightfox_m-zed",
@@ -6058,7 +6058,7 @@
       "kind": "plain"
     },
     {
-      "id": "nim",
+      "name": "nim",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/foxoman/zed-nim",
@@ -6077,13 +6077,13 @@
         "nim_nim_format_string"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-0p6Mg70LSPSklgnuUcudjcQKWuOTGqrQgAKai2xhUqI=",
+      "cargoHash": "sha256-f2cbLXe6En+/7Xk7Dg8FrS5/dXSVdAr21xUlddTCJxA=",
       "cargoLock": {
         "lockFile": "/generated/nim.lock"
       }
     },
     {
-      "id": "ninja",
+      "name": "ninja",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/c0mpiler/ninja.theme",
@@ -6102,7 +6102,7 @@
       "kind": "plain"
     },
     {
-      "id": "nix",
+      "name": "nix",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/hasit/zed-nix",
@@ -6123,7 +6123,7 @@
       "cargoHash": "sha256-F+qW+5SIiZNxdMSmtiwKj9j73Sd9uy5HZXGptcd3vSY="
     },
     {
-      "id": "nobin-theme",
+      "name": "nobin-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/NobinKhan/zed-themes",
@@ -6141,7 +6141,7 @@
       "kind": "plain"
     },
     {
-      "id": "noir",
+      "name": "noir",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/shuklaayush/zed-noir",
@@ -6162,7 +6162,7 @@
       "cargoHash": "sha256-8KleSHSnuombvyvuAXaqWVlffWFjti54xD6aXQ+2MD4="
     },
     {
-      "id": "nord",
+      "name": "nord",
       "version": "0.0.11",
       "src": {
         "url": "https://github.com/mikasius/zed-nord-theme",
@@ -6180,7 +6180,7 @@
       "kind": "plain"
     },
     {
-      "id": "nordic-nvim-theme",
+      "name": "nordic-nvim-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/kislikjeka/zed-theme-nordic",
@@ -6198,7 +6198,7 @@
       "kind": "plain"
     },
     {
-      "id": "nordic-theme",
+      "name": "nordic-theme",
       "version": "0.5.1",
       "src": {
         "url": "https://github.com/biaqat/nordic-theme-zed",
@@ -6216,7 +6216,7 @@
       "kind": "plain"
     },
     {
-      "id": "norminette",
+      "name": "norminette",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/DavidLee18/zed_norminette",
@@ -6232,13 +6232,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-Ep0CxYAqqxwVO/f5RBjMWyZ+iN75Tm/8FK1u8SmzC/0=",
+      "cargoHash": "sha256-WIjtkm1cByKZG0ESVWOBFdPthgn2ITMiY7nK3nhV7A8=",
       "cargoLock": {
         "lockFile": "/generated/norminette.lock"
       }
     },
     {
-      "id": "not-material-theme",
+      "name": "not-material-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/iamawatermelo/zed-hct-theme-maker",
@@ -6256,7 +6256,7 @@
       "kind": "plain"
     },
     {
-      "id": "nstlgy-dark",
+      "name": "nstlgy-dark",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/nstlgy/zed-nstlgy-dark",
@@ -6274,7 +6274,7 @@
       "kind": "plain"
     },
     {
-      "id": "nu",
+      "name": "nu",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/zed-extensions/nu",
@@ -6295,7 +6295,7 @@
       "cargoHash": "sha256-lDXms0/OTWrc/sna9JzvjaRhxrSbbzwdGTOuZOVt400="
     },
     {
-      "id": "nuisance",
+      "name": "nuisance",
       "version": "0.0.7",
       "src": {
         "url": "https://github.com/xtrasmal/zed-theme-nuisance",
@@ -6313,7 +6313,7 @@
       "kind": "plain"
     },
     {
-      "id": "nvim-nightfox",
+      "name": "nvim-nightfox",
       "version": "0.4.1",
       "src": {
         "url": "https://github.com/cange/nightfox.zed",
@@ -6331,7 +6331,7 @@
       "kind": "plain"
     },
     {
-      "id": "nyxvamp-theme",
+      "name": "nyxvamp-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/nyxvamp-theme/zed",
@@ -6349,7 +6349,7 @@
       "kind": "plain"
     },
     {
-      "id": "oasis",
+      "name": "oasis",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/aerendem/oasis-zed-theme",
@@ -6367,7 +6367,7 @@
       "kind": "plain"
     },
     {
-      "id": "obsidian-sunset",
+      "name": "obsidian-sunset",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/lczerniawski/ObsidianSunset-Zed",
@@ -6385,7 +6385,7 @@
       "kind": "plain"
     },
     {
-      "id": "ocaml",
+      "name": "ocaml",
       "version": "0.1.4",
       "src": {
         "url": "https://github.com/zed-extensions/ocaml",
@@ -6408,7 +6408,7 @@
       "cargoHash": "sha256-wwc4EHK2MMwZUhgUKIfHhm/xUMPo35ikNDmsVRrODAs="
     },
     {
-      "id": "ocean-dark-motifs",
+      "name": "ocean-dark-motifs",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/kirqe/zed-ocean-dark-motifs-theme",
@@ -6426,7 +6426,7 @@
       "kind": "plain"
     },
     {
-      "id": "oceanic-next",
+      "name": "oceanic-next",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/rkunev/oceanic-next",
@@ -6444,7 +6444,7 @@
       "kind": "plain"
     },
     {
-      "id": "odin",
+      "name": "odin",
       "version": "0.2.3",
       "src": {
         "url": "https://github.com/zed-extensions/odin",
@@ -6465,7 +6465,7 @@
       "cargoHash": "sha256-SN1Ul6X7km7ttWTIAMXVucZabDmpuLy1pVaBO8MIWGI="
     },
     {
-      "id": "oh-lucy",
+      "name": "oh-lucy",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/abdurrehman0206/Oh-Lucy",
@@ -6483,7 +6483,7 @@
       "kind": "plain"
     },
     {
-      "id": "omnetpp",
+      "name": "omnetpp",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/omnetpp/omnetpp-zed",
@@ -6504,7 +6504,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-black-theme",
+      "name": "one-black-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/serhiiboreiko/one-black-theme-zed",
@@ -6522,7 +6522,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-darkened",
+      "name": "one-dark-darkened",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/pavles6/one-dark-darkened",
@@ -6540,7 +6540,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-extended",
+      "name": "one-dark-extended",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/uonick/zed-one-dark-extended",
@@ -6558,7 +6558,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-flat",
+      "name": "one-dark-flat",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/0PandaDEV/zed-one-dark-flat",
@@ -6576,7 +6576,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-pro",
+      "name": "one-dark-pro",
       "version": "0.0.10",
       "src": {
         "url": "https://github.com/MordFustang21/zed-one-dark-pro",
@@ -6594,7 +6594,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-pro-max",
+      "name": "one-dark-pro-max",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/kussumma/one-dark-pro-max",
@@ -6612,7 +6612,7 @@
       "kind": "plain"
     },
     {
-      "id": "one-dark-pro-monokai-darker",
+      "name": "one-dark-pro-monokai-darker",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/9ssi7/zed-one-dark-pro-monokai-darker",
@@ -6630,7 +6630,7 @@
       "kind": "plain"
     },
     {
-      "id": "onurb",
+      "name": "onurb",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/brunoocrv/onurb-zed",
@@ -6648,7 +6648,7 @@
       "kind": "plain"
     },
     {
-      "id": "oolong",
+      "name": "oolong",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/jmg-duarte/oolong-zed",
@@ -6666,7 +6666,7 @@
       "kind": "plain"
     },
     {
-      "id": "openmoji-icons",
+      "name": "openmoji-icons",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/cotyhamilton/zed-emoji-icon-theme",
@@ -6684,7 +6684,7 @@
       "kind": "plain"
     },
     {
-      "id": "openscad",
+      "name": "openscad",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dotcypress/zed-openscad",
@@ -6704,7 +6704,7 @@
       "kind": "plain"
     },
     {
-      "id": "org",
+      "name": "org",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/hron/zed-org",
@@ -6724,7 +6724,7 @@
       "kind": "plain"
     },
     {
-      "id": "oscura",
+      "name": "oscura",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/webhooked/oscura-zed",
@@ -6742,7 +6742,7 @@
       "kind": "plain"
     },
     {
-      "id": "outrun",
+      "name": "outrun",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/Acepie/OutrunZedTheme",
@@ -6760,7 +6760,7 @@
       "kind": "plain"
     },
     {
-      "id": "oxc",
+      "name": "oxc",
       "version": "0.1.4",
       "src": {
         "url": "https://github.com/oxc-project/zed-oxc",
@@ -6779,7 +6779,7 @@
       "cargoHash": "sha256-SO7J8b86nI2iei/llG2a1QOCyOqUQI207XXFOOeU8gg="
     },
     {
-      "id": "oxlint",
+      "name": "oxlint",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/rchatrath7/zed-oxlint",
@@ -6798,7 +6798,7 @@
       "cargoHash": "sha256-EtgqaZZhSE9wYXyZN0H7kSJoTQfxRoun++Y0Uo6Ljsw="
     },
     {
-      "id": "oxocarbon",
+      "name": "oxocarbon",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/Takk8IS/oxocarbon-theme-for-zed",
@@ -6816,7 +6816,7 @@
       "kind": "plain"
     },
     {
-      "id": "pact",
+      "name": "pact",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/kadena-community/pact-zed",
@@ -6834,13 +6834,13 @@
         "pact_pact"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-jrTubLUz/YKnm7CW5YXYxekAsKM/njExa8CxtCoSuMM=",
+      "cargoHash": "sha256-P2I3EM5VPQLJ0IOm9VO1bnfoPeh+HhmCGc0mQPcA+8Y=",
       "cargoLock": {
         "lockFile": "/generated/pact.lock"
       }
     },
     {
-      "id": "palenight",
+      "name": "palenight",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/alanmontgomery/palenight-zed",
@@ -6858,7 +6858,7 @@
       "kind": "plain"
     },
     {
-      "id": "panda-theme",
+      "name": "panda-theme",
       "version": "0.8.1",
       "src": {
         "url": "https://github.com/biaqat/panda-theme-zed",
@@ -6876,7 +6876,7 @@
       "kind": "plain"
     },
     {
-      "id": "paraiso",
+      "name": "paraiso",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/treffynnon/zed-Paraiso",
@@ -6894,7 +6894,7 @@
       "kind": "plain"
     },
     {
-      "id": "path-of-exile",
+      "name": "path-of-exile",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/egibs/poe.zed",
@@ -6914,7 +6914,7 @@
       "kind": "plain"
     },
     {
-      "id": "penumbra",
+      "name": "penumbra",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/jbisits/penumbra-zed",
@@ -6932,7 +6932,7 @@
       "kind": "plain"
     },
     {
-      "id": "perfect-dusk",
+      "name": "perfect-dusk",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/Bikossor/Perfect-Dusk-Zed",
@@ -6950,7 +6950,7 @@
       "kind": "plain"
     },
     {
-      "id": "perl",
+      "name": "perl",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/tree-sitter-perl/zed-perl",
@@ -6971,7 +6971,7 @@
       "cargoHash": "sha256-tAV6jOS3S6i/1+kEgzIdZsgwq0dMEUxxzK+7iR6domY="
     },
     {
-      "id": "perm",
+      "name": "perm",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/theoriginalstove/perm",
@@ -6991,7 +6991,7 @@
       "kind": "plain"
     },
     {
-      "id": "perplexity",
+      "name": "perplexity",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -7011,7 +7011,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "pest",
+      "name": "pest",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/pest-parser/zed-pest",
@@ -7032,7 +7032,7 @@
       "cargoHash": "sha256-6K398ord7O/2lBxT+A50TfGU+w9gXjKeh4wU5LOGyWM="
     },
     {
-      "id": "phine-theme",
+      "name": "phine-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/phisch/phine-zed",
@@ -7050,7 +7050,7 @@
       "kind": "plain"
     },
     {
-      "id": "phosphor-icons-theme",
+      "name": "phosphor-icons-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/theoluciano/phosphor-icons-theme",
@@ -7068,7 +7068,7 @@
       "kind": "plain"
     },
     {
-      "id": "php",
+      "name": "php",
       "version": "0.2.8",
       "src": {
         "url": "https://github.com/zed-extensions/php",
@@ -7090,7 +7090,7 @@
       "cargoHash": "sha256-FfuwnpZAWMIxqThgWmYdapOrnn6795WlMtxPVYXNQ5E="
     },
     {
-      "id": "pica200",
+      "name": "pica200",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/Squareheron942/zed-pica200",
@@ -7110,7 +7110,7 @@
       "kind": "plain"
     },
     {
-      "id": "pinata-theme",
+      "name": "pinata-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/stevedylandev/pinata-theme-zed",
@@ -7128,7 +7128,7 @@
       "kind": "plain"
     },
     {
-      "id": "pkl",
+      "name": "pkl",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/Moshyfawn/pkl-zed",
@@ -7148,7 +7148,7 @@
       "kind": "plain"
     },
     {
-      "id": "plantuml",
+      "name": "plantuml",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/gabeidx/zed-plantuml",
@@ -7168,7 +7168,7 @@
       "kind": "plain"
     },
     {
-      "id": "playdate",
+      "name": "playdate",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/notpeter/playdate-zed-extension",
@@ -7189,7 +7189,7 @@
       "kind": "plain"
     },
     {
-      "id": "po",
+      "name": "po",
       "version": "0.1.0",
       "src": {
         "url": "https://git.disroot.org/gemmaro/zed-po",
@@ -7209,7 +7209,7 @@
       "kind": "plain"
     },
     {
-      "id": "poimandres",
+      "name": "poimandres",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/mshaugh/poimandres.zed",
@@ -7227,7 +7227,7 @@
       "kind": "plain"
     },
     {
-      "id": "polar-theme",
+      "name": "polar-theme",
       "version": "0.8.1",
       "src": {
         "url": "https://github.com/biaqat/polar-theme-zed",
@@ -7245,7 +7245,7 @@
       "kind": "plain"
     },
     {
-      "id": "postgres-context-server",
+      "name": "postgres-context-server",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/postgres-context-server",
@@ -7264,7 +7264,7 @@
       "cargoHash": "sha256-A0qxZMgaDCStuSZfK4T4bcmqXe7LPITAwlkeUGUozJE="
     },
     {
-      "id": "postgres-language-server",
+      "name": "postgres-language-server",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/LoamStudios/zed-postgres-language-server",
@@ -7283,7 +7283,7 @@
       "cargoHash": "sha256-XFntZ9V8fq2/756hpKV7iFI5UqtG9tFYu9KqkSyPH5U="
     },
     {
-      "id": "powershell",
+      "name": "powershell",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/wingyplus/zed-powershell",
@@ -7304,7 +7304,7 @@
       "cargoHash": "sha256-q1oC19cly0v8JYogK0K9eHf+D4OWcLlilcYPXe8m9fk="
     },
     {
-      "id": "prisma",
+      "name": "prisma",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-extensions/prisma",
@@ -7325,7 +7325,7 @@
       "cargoHash": "sha256-MaaTaHAkMgDc3AuF6Xf/oz7pgJNqEOmk4GEowo4tR5A="
     },
     {
-      "id": "prisma-mcp",
+      "name": "prisma-mcp",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/aqrln/prisma-mcp-zed",
@@ -7344,7 +7344,7 @@
       "cargoHash": "sha256-9S3jSF+pON1QTmiTbGZ1j9DzvzmUR5dGr0oSLI9jjOk="
     },
     {
-      "id": "prolog",
+      "name": "prolog",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Piefayth/zed-prolog",
@@ -7364,7 +7364,7 @@
       "kind": "plain"
     },
     {
-      "id": "proto",
+      "name": "proto",
       "version": "0.2.2",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -7386,7 +7386,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "psalm",
+      "name": "psalm",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/sebcode/psalm-zed",
@@ -7405,7 +7405,7 @@
       "cargoHash": "sha256-KMZJ2pyMfhnkMht2SYYj48Gm6aEAlWe0zeNKSgGzu/g="
     },
     {
-      "id": "pug",
+      "name": "pug",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Baw-Appie/zed-pug",
@@ -7425,7 +7425,7 @@
       "kind": "plain"
     },
     {
-      "id": "puppet",
+      "name": "puppet",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/AlexandarY/zed-puppet",
@@ -7446,7 +7446,7 @@
       "cargoHash": "sha256-K9Y1POlPNGQiOKwqnpQZBsXlSZFZ/d28z4htbT/9hOQ="
     },
     {
-      "id": "purescript",
+      "name": "purescript",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/zed-extensions/purescript",
@@ -7467,7 +7467,7 @@
       "cargoHash": "sha256-q4w2vapbv99xNbx7QknAt8ukrYOXo5fzf73YIqlL6Wk="
     },
     {
-      "id": "pylsp",
+      "name": "pylsp",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/rgbkrk/python-lsp-zed-extension",
@@ -7486,7 +7486,7 @@
       "cargoHash": "sha256-ovYO5kb38NZ8HNhMqiQQBd1dflLBpYaK6eOrjdjVrW4="
     },
     {
-      "id": "python-refactoring",
+      "name": "python-refactoring",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/rowillia/zed-python-refactoring",
@@ -7502,13 +7502,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-oPJxfnZXTxj+zH6Cy8jtVGYAl/jmeDeyJT5RUn0MlpE=",
+      "cargoHash": "sha256-M7uvivdQj+m4zBH7Zf4BF97GE4ifJQYA/0JqHbcTNzc=",
       "cargoLock": {
         "lockFile": "/generated/python-refactoring.lock"
       }
     },
     {
-      "id": "python-requirements",
+      "name": "python-requirements",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dargor/zed-python-requirements",
@@ -7528,7 +7528,7 @@
       "kind": "plain"
     },
     {
-      "id": "qml",
+      "name": "qml",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/lkroll/zed-qml",
@@ -7549,7 +7549,7 @@
       "cargoHash": "sha256-EtYYXMnJEogl0Q1KPyQk2m59qnzNZuRNo32/NFkDBL0="
     },
     {
-      "id": "quakec",
+      "name": "quakec",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/schraf/zed-quakec",
@@ -7569,7 +7569,7 @@
       "kind": "plain"
     },
     {
-      "id": "quiet-light-theme",
+      "name": "quiet-light-theme",
       "version": "0.7.1",
       "src": {
         "url": "https://github.com/biaqat/quiet-light-theme-zed",
@@ -7587,7 +7587,7 @@
       "kind": "plain"
     },
     {
-      "id": "r",
+      "name": "r",
       "version": "0.2.1",
       "src": {
         "url": "https://github.com/ocsmit/zed-r",
@@ -7605,13 +7605,13 @@
         "r_r"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-Tgm5fravWxAcRCK41NKpMfa9AgQk7FLK0Z5BnX99RyE=",
+      "cargoHash": "sha256-DgsLtG2LGEJVmp8QSVFN2FTn6HqkAAoWJFEGnidci+M=",
       "cargoLock": {
         "lockFile": "/generated/r.lock"
       }
     },
     {
-      "id": "racket",
+      "name": "racket",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/zed-extensions/racket",
@@ -7631,7 +7631,7 @@
       "kind": "plain"
     },
     {
-      "id": "railscast",
+      "name": "railscast",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/pbsds/railscast-zed",
@@ -7649,7 +7649,7 @@
       "kind": "plain"
     },
     {
-      "id": "rainbow-csv",
+      "name": "rainbow-csv",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/weartist/zed-rainbow-csv",
@@ -7670,7 +7670,7 @@
       "kind": "plain"
     },
     {
-      "id": "rcl",
+      "name": "rcl",
       "version": "0.8.0",
       "src": {
         "url": "https://github.com/rcl-lang/zed-rcl",
@@ -7690,7 +7690,7 @@
       "kind": "plain"
     },
     {
-      "id": "redscript",
+      "name": "redscript",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/jac3km4/redscript-zed",
@@ -7711,7 +7711,7 @@
       "cargoHash": "sha256-zb8LTavvl9uubWRU9nupE/8j5o58VLoE2qBGmj/pywI="
     },
     {
-      "id": "rego",
+      "name": "rego",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/StyraInc/zed-rego",
@@ -7729,13 +7729,13 @@
         "rego_rego"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-BOF2VHdKH0LrBSzrtGbrsIvytkX+QgrSe+Rz2mVsVXo=",
+      "cargoHash": "sha256-N7KX8P9hIRJf9t4GmQ9/nkKJ+ysDYviLk8hNigHjJ18=",
       "cargoLock": {
         "lockFile": "/generated/rego.lock"
       }
     },
     {
-      "id": "relay",
+      "name": "relay",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/XiNiHa/relay-zed",
@@ -7754,7 +7754,7 @@
       "cargoHash": "sha256-isewpqh8PbCKFUuf49VKdaiHDwKDmoBXS+ScIvtINxc="
     },
     {
-      "id": "replicant",
+      "name": "replicant",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/pierrenel/replicant",
@@ -7772,7 +7772,7 @@
       "kind": "plain"
     },
     {
-      "id": "rescript",
+      "name": "rescript",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/humaans/rescript-zed",
@@ -7793,7 +7793,7 @@
       "cargoHash": "sha256-Dt33h1x+WmAAxuCnsMyeSPzWhT5CaEriOo8QZVlHll8="
     },
     {
-      "id": "rhai",
+      "name": "rhai",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/elkowar/zed-rhai",
@@ -7813,7 +7813,7 @@
       "kind": "plain"
     },
     {
-      "id": "rich-vesper",
+      "name": "rich-vesper",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/zezic/rich-vesper-zed",
@@ -7831,7 +7831,7 @@
       "kind": "plain"
     },
     {
-      "id": "risor",
+      "name": "risor",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/rubiojr/zed-risor",
@@ -7851,7 +7851,7 @@
       "kind": "plain"
     },
     {
-      "id": "roc",
+      "name": "roc",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/h2000/zed-roc",
@@ -7869,13 +7869,13 @@
         "roc_roc"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-lzlGgx24lnGgVUKpHHsdV6r3MbQddOOP9M3w+2AwNKA=",
+      "cargoHash": "sha256-YpBRAnhPQboiBRZMTeqnwVnO9WNh1YGfrP5ZWcA6j0M=",
       "cargoLock": {
         "lockFile": "/generated/roc.lock"
       }
     },
     {
-      "id": "ron",
+      "name": "ron",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/onbjerg/zed-ron",
@@ -7895,7 +7895,7 @@
       "kind": "plain"
     },
     {
-      "id": "rose-pine-theme",
+      "name": "rose-pine-theme",
       "version": "1.3.1",
       "src": {
         "url": "https://github.com/rose-pine/zed",
@@ -7913,7 +7913,7 @@
       "kind": "plain"
     },
     {
-      "id": "rpmspec",
+      "name": "rpmspec",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/mtorromeo/zed-rpmspec-language",
@@ -7934,7 +7934,7 @@
       "cargoHash": "sha256-lOGl5OD20zSNS/XY0lemXbbbB17e9lNWt5cLavmzYQc="
     },
     {
-      "id": "rst",
+      "name": "rst",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/elmarco/zed-rst",
@@ -7952,13 +7952,13 @@
         "rst_rst"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-9w6gP3qi4sKDvVZXpKm/+SYYDUN8Z0tfzAWwCeZBAoM=",
+      "cargoHash": "sha256-7+gNtjL/clsZK/Q0YGINDwZl1pcOvQwjCtdKJv3hYVE=",
       "cargoLock": {
         "lockFile": "/generated/rst.lock"
       }
     },
     {
-      "id": "ruby",
+      "name": "ruby",
       "version": "0.4.6",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
@@ -7981,7 +7981,7 @@
       "cargoHash": "sha256-qYEBGVnkj4wBmUW8fPgTgW2QPKQvSIwKeLldp7EYvcI="
     },
     {
-      "id": "ruff",
+      "name": "ruff",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -8001,7 +8001,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "rust-rover-dark-theme",
+      "name": "rust-rover-dark-theme",
       "version": "1.0.3",
       "src": {
         "url": "https://github.com/blkmlk/RustRover-Zed-Theme",
@@ -8019,7 +8019,7 @@
       "kind": "plain"
     },
     {
-      "id": "s-dark-theme",
+      "name": "s-dark-theme",
       "version": "1.0.3",
       "src": {
         "url": "https://github.com/sinamombeiny/S-DarkTheme.zed",
@@ -8037,7 +8037,7 @@
       "kind": "plain"
     },
     {
-      "id": "sagemath",
+      "name": "sagemath",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/rot256/zed-sagemath",
@@ -8057,7 +8057,7 @@
       "kind": "plain"
     },
     {
-      "id": "scala",
+      "name": "scala",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/scalameta/metals-zed",
@@ -8075,13 +8075,13 @@
         "scala_scala"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-x+tNrO8dHw2fDOutmB6Rgwf3zwjH+hRxKXb3+P2KAlk=",
+      "cargoHash": "sha256-qe7csvF7MX4LP6SQSN4LFLeBbG8+aDFMPLKVKe+2lJ0=",
       "cargoLock": {
         "lockFile": "/generated/scala.lock"
       }
     },
     {
-      "id": "scheme",
+      "name": "scheme",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/zed-extensions/scheme",
@@ -8101,7 +8101,7 @@
       "kind": "plain"
     },
     {
-      "id": "scls",
+      "name": "scls",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/d1y/simple-completion-zed",
@@ -8120,7 +8120,7 @@
       "cargoHash": "sha256-970vAerVSg1yxfudcyKm5TX1ddAnUMZAy15ShcgpMT8="
     },
     {
-      "id": "scss",
+      "name": "scss",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-scss",
@@ -8141,7 +8141,7 @@
       "cargoHash": "sha256-9BAkaPC0YbPSBjYGvN8epQlf23qL7hekXRvWKjwvnTM="
     },
     {
-      "id": "sequoia",
+      "name": "sequoia",
       "version": "1.31.0",
       "src": {
         "url": "https://github.com/HarshNarayanJha/zed-sequoia-theme",
@@ -8159,7 +8159,7 @@
       "kind": "plain"
     },
     {
-      "id": "serendipity",
+      "name": "serendipity",
       "version": "0.0.7",
       "src": {
         "url": "https://github.com/meocoder31099/Serendipity-Theme-Zed",
@@ -8177,7 +8177,7 @@
       "kind": "plain"
     },
     {
-      "id": "severance-theme",
+      "name": "severance-theme",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/Zev18/severance-zed",
@@ -8195,7 +8195,7 @@
       "kind": "plain"
     },
     {
-      "id": "shades-of-purple-theme",
+      "name": "shades-of-purple-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/irmhonde/shades-of-purple-theme",
@@ -8213,7 +8213,7 @@
       "kind": "plain"
     },
     {
-      "id": "short-giraffe-theme",
+      "name": "short-giraffe-theme",
       "version": "2.0.0",
       "src": {
         "url": "https://github.com/Mehdi-Hp/Short-Giraffe",
@@ -8231,7 +8231,7 @@
       "kind": "plain"
     },
     {
-      "id": "simple-darker",
+      "name": "simple-darker",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/DP19/zed-theme-simple-darker",
@@ -8249,7 +8249,7 @@
       "kind": "plain"
     },
     {
-      "id": "simula",
+      "name": "simula",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/eirslett/simula-zed-extension",
@@ -8270,7 +8270,7 @@
       "cargoHash": "sha256-AM/kJIIL8XSDa/XPJjQGHgms/w6iO1GaLSxRosS2b7o="
     },
     {
-      "id": "siri",
+      "name": "siri",
       "version": "0.0.11",
       "src": {
         "url": "https://github.com/perragnar/zed-theme-siri",
@@ -8288,7 +8288,7 @@
       "kind": "plain"
     },
     {
-      "id": "slate",
+      "name": "slate",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/someone13574/zed-slate-theme",
@@ -8306,7 +8306,7 @@
       "kind": "plain"
     },
     {
-      "id": "slim",
+      "name": "slim",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/calmyournerves/zed-slim",
@@ -8326,7 +8326,7 @@
       "kind": "plain"
     },
     {
-      "id": "slint",
+      "name": "slint",
       "version": "0.0.3",
       "src": {
         "url": "https://gitlab.com/flukejones/zed-slint",
@@ -8347,7 +8347,7 @@
       "cargoHash": "sha256-l346xolorN5x0yLMIqT3TxdW4XiFQxreLUS1aHJmjEE="
     },
     {
-      "id": "sml",
+      "name": "sml",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/omarjatoi/zed-sml",
@@ -8368,7 +8368,7 @@
       "cargoHash": "sha256-vazD5+I6ZMc1FGbuidnaZQ5lUP421lLzvsWwpMAEwKY="
     },
     {
-      "id": "smooth",
+      "name": "smooth",
       "version": "1.0.1",
       "src": {
         "url": "https://github.com/segersniels/zed-smooth",
@@ -8386,7 +8386,7 @@
       "kind": "plain"
     },
     {
-      "id": "snakemake",
+      "name": "snakemake",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/lvignoli/zed-snakemake",
@@ -8406,7 +8406,7 @@
       "kind": "plain"
     },
     {
-      "id": "snippets",
+      "name": "snippets",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -8426,7 +8426,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "snow-fox-theme",
+      "name": "snow-fox-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/ProPrak01/zed-SnowFox-theme",
@@ -8444,7 +8444,7 @@
       "kind": "plain"
     },
     {
-      "id": "snowfall",
+      "name": "snowfall",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/freethinkel/snowfall-zed",
@@ -8462,7 +8462,7 @@
       "kind": "plain"
     },
     {
-      "id": "snowflake",
+      "name": "snowflake",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/bxxf/snowflake-zed",
@@ -8480,7 +8480,7 @@
       "kind": "plain"
     },
     {
-      "id": "solarized",
+      "name": "solarized",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/harmtemolder/Solarized.zed",
@@ -8498,7 +8498,7 @@
       "kind": "plain"
     },
     {
-      "id": "solidity",
+      "name": "solidity",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/zarifpour/zed-solidity",
@@ -8519,7 +8519,7 @@
       "cargoHash": "sha256-CXJ1RGRfLtW059w/v8FovC6RvcXMkUd+6CIscibeWxs="
     },
     {
-      "id": "sonokai",
+      "name": "sonokai",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/ciathefed/zed-sonokai",
@@ -8537,7 +8537,7 @@
       "kind": "plain"
     },
     {
-      "id": "sorbet",
+      "name": "sorbet",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/notchairmk/zed-sorbet",
@@ -8558,7 +8558,7 @@
       "cargoHash": "sha256-2IRcQDlvI3kbC5EwMQpyS71+d0geE/iaz2THrJYCyZA="
     },
     {
-      "id": "sourcepawn",
+      "name": "sourcepawn",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/tsuza/zed-sourcepawn-ext",
@@ -8579,7 +8579,7 @@
       "cargoHash": "sha256-mActk7tAzTGJK9DNC7QSMOLnZL8EytNXzcLybgsgn2c="
     },
     {
-      "id": "sql",
+      "name": "sql",
       "version": "1.1.2",
       "src": {
         "url": "https://github.com/nervenes/zed-sql",
@@ -8599,7 +8599,7 @@
       "kind": "plain"
     },
     {
-      "id": "sqruff",
+      "name": "sqruff",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/gvozdvmozgu/sqruff-zed",
@@ -8615,13 +8615,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-OkwWYZ2AmPAbYekez7LXTTMFLYfMxxWU1wIas/gZIdo=",
+      "cargoHash": "sha256-W4jWOmwx3ONWHlv9GZDn+gyYqJL4WQLE3ekoLwg7/pQ=",
       "cargoLock": {
         "lockFile": "/generated/sqruff.lock"
       }
     },
     {
-      "id": "srcery",
+      "name": "srcery",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/srcery-colors/srcery-zed",
@@ -8639,7 +8639,7 @@
       "kind": "plain"
     },
     {
-      "id": "ssh-config",
+      "name": "ssh-config",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/pranavmangal/zed-ssh-config",
@@ -8659,7 +8659,7 @@
       "kind": "plain"
     },
     {
-      "id": "stan",
+      "name": "stan",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/WardBrian/zed-stan-extension",
@@ -8679,7 +8679,7 @@
       "kind": "plain"
     },
     {
-      "id": "starlark",
+      "name": "starlark",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/zaucy/zed-starlark",
@@ -8701,7 +8701,7 @@
       "cargoHash": "sha256-p4XI1MbmXZM7IPdmJNyUTWsKmN8O1nCWLgvF1ah+9Zo="
     },
     {
-      "id": "stimulus",
+      "name": "stimulus",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/vitallium/zed-stimulus",
@@ -8717,13 +8717,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-k4wnKklZaMrPklz3UYq5s4RINTlgVKTbyUoDsR/DlMM=",
+      "cargoHash": "sha256-+4blP7m1LItJoKbz8JH6nZ84Mclylt4xnUqUmX5ZRyk=",
       "cargoLock": {
         "lockFile": "/generated/stimulus.lock"
       }
     },
     {
-      "id": "strace",
+      "name": "strace",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/sigmaSd/zed-strace",
@@ -8743,7 +8743,7 @@
       "kind": "plain"
     },
     {
-      "id": "struct-theme",
+      "name": "struct-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://gitlab.com/Fake.User/struct-zed-theme",
@@ -8761,7 +8761,7 @@
       "kind": "plain"
     },
     {
-      "id": "stylelint",
+      "name": "stylelint",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/florian-sanders/zed-stylelint",
@@ -8780,7 +8780,7 @@
       "cargoHash": "sha256-NTtbfuXfylp4eKE6EqLF0DJ2dr7RwOAUtA7A9FL6Sf8="
     },
     {
-      "id": "sublime-mariana-theme",
+      "name": "sublime-mariana-theme",
       "version": "1.1.1",
       "src": {
         "url": "https://github.com/hnatiukr/zed-mariana-theme",
@@ -8798,7 +8798,7 @@
       "kind": "plain"
     },
     {
-      "id": "supergreatmonokai",
+      "name": "supergreatmonokai",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/SuperGregM/SuperGreatMonokai-Zed",
@@ -8816,7 +8816,7 @@
       "kind": "plain"
     },
     {
-      "id": "superhtml",
+      "name": "superhtml",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/WeetHet/superhtml-zed",
@@ -8835,7 +8835,7 @@
       "cargoHash": "sha256-y3De8mbnQwEXMwX3owlEQuVYjPD3wm/xMgKLxPrZBBc="
     },
     {
-      "id": "surrealql",
+      "name": "surrealql",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/siteforge-io/surql-zed",
@@ -8855,7 +8855,7 @@
       "kind": "plain"
     },
     {
-      "id": "svelte",
+      "name": "svelte",
       "version": "0.2.7",
       "src": {
         "url": "https://github.com/zed-extensions/svelte",
@@ -8876,7 +8876,7 @@
       "cargoHash": "sha256-ls5ecaELCxNf5jDerJu1qiuqI2L0uPHjwHz+dVi8SwI="
     },
     {
-      "id": "svelte-snippets",
+      "name": "svelte-snippets",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/bobbymannino/svelte-snippets-for-zed",
@@ -8894,7 +8894,7 @@
       "kind": "plain"
     },
     {
-      "id": "swift",
+      "name": "swift",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/samuser107/zed-swift-extension",
@@ -8915,7 +8915,7 @@
       "cargoHash": "sha256-6eQsTJ7F+mvXzc3fKfE1xRx/FoIolK7lizQOeSWTkYY="
     },
     {
-      "id": "symbols",
+      "name": "symbols",
       "version": "0.2.2",
       "src": {
         "url": "https://github.com/sebastiandotdev/zed-symbols",
@@ -8933,7 +8933,7 @@
       "kind": "plain"
     },
     {
-      "id": "synthwave-alpha-theme",
+      "name": "synthwave-alpha-theme",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/vikpe/synthwave-alpha-zed",
@@ -8951,7 +8951,7 @@
       "kind": "plain"
     },
     {
-      "id": "t3-theme",
+      "name": "t3-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/stpn48/t3-zed-theme",
@@ -8969,7 +8969,7 @@
       "kind": "plain"
     },
     {
-      "id": "tailwind-theme",
+      "name": "tailwind-theme",
       "version": "0.6.0",
       "src": {
         "url": "https://github.com/biaqat/tailwind-theme-zed",
@@ -8987,7 +8987,7 @@
       "kind": "plain"
     },
     {
-      "id": "tanuki",
+      "name": "tanuki",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dylf/zed-tanuki",
@@ -9005,7 +9005,7 @@
       "kind": "plain"
     },
     {
-      "id": "templ",
+      "name": "templ",
       "version": "0.0.7",
       "src": {
         "url": "https://github.com/makifdb/zed-templ",
@@ -9023,13 +9023,13 @@
         "templ_templ"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-FqRU7t1gK9LEqMGeGPap+LJ3b0zPU6rSDCnwkliErs8=",
+      "cargoHash": "sha256-EDgn+4zdjL52kY3fhh70b4sO7mDHopuxUL2v/CcEXvY=",
       "cargoLock": {
         "lockFile": "/generated/templ.lock"
       }
     },
     {
-      "id": "tera",
+      "name": "tera",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/uncenter/zed-tera",
@@ -9049,7 +9049,7 @@
       "kind": "plain"
     },
     {
-      "id": "terraform",
+      "name": "terraform",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/zed-extensions/terraform",
@@ -9070,7 +9070,7 @@
       "cargoHash": "sha256-JKY4/YlpRTqtElEe60CjuhW1+Vu/6UGrcioPZCyz4Zc="
     },
     {
-      "id": "terrible-theme",
+      "name": "terrible-theme",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/nooooaaaaah/terrible-zed",
@@ -9088,7 +9088,7 @@
       "kind": "plain"
     },
     {
-      "id": "texpresso",
+      "name": "texpresso",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/lnay/zed-texpresso",
@@ -9107,7 +9107,7 @@
       "cargoHash": "sha256-ks7Yy2TrOzkVIoHEsYv1dIaM7zDiY1H/pIneNMZH0xo="
     },
     {
-      "id": "the-best-theme",
+      "name": "the-best-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/Nidal-Bakir/zed-the-best-theme",
@@ -9125,7 +9125,7 @@
       "kind": "plain"
     },
     {
-      "id": "the-dark-side",
+      "name": "the-dark-side",
       "version": "0.3.0",
       "src": {
         "url": "https://github.com/Imgkl/the-dark-side",
@@ -9143,7 +9143,7 @@
       "kind": "plain"
     },
     {
-      "id": "tmux",
+      "name": "tmux",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/dangh/zed-tmux",
@@ -9163,7 +9163,7 @@
       "kind": "plain"
     },
     {
-      "id": "tokyo-night",
+      "name": "tokyo-night",
       "version": "0.5.0",
       "src": {
         "url": "https://github.com/ssaunderss/zed-tokyo-night",
@@ -9181,7 +9181,7 @@
       "kind": "plain"
     },
     {
-      "id": "toml",
+      "name": "toml",
       "version": "0.1.3",
       "src": {
         "url": "https://github.com/zed-industries/zed",
@@ -9203,7 +9203,7 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
-      "id": "tomorrow-theme",
+      "name": "tomorrow-theme",
       "version": "1.1.0",
       "src": {
         "url": "https://github.com/biaqat/tomorrow-theme-zed",
@@ -9221,7 +9221,7 @@
       "kind": "plain"
     },
     {
-      "id": "tree-sitter-query",
+      "name": "tree-sitter-query",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/vitallium/zed-tree-sitter-query",
@@ -9241,7 +9241,7 @@
       "kind": "plain"
     },
     {
-      "id": "tsar",
+      "name": "tsar",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/x032205/tsar-zed-theme",
@@ -9259,7 +9259,7 @@
       "kind": "plain"
     },
     {
-      "id": "tsarcasm",
+      "name": "tsarcasm",
       "version": "0.0.9",
       "src": {
         "url": "https://github.com/xtrasmal/zed-theme-tsarcasm",
@@ -9277,7 +9277,7 @@
       "kind": "plain"
     },
     {
-      "id": "twig",
+      "name": "twig",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/YussufSassi/zed-twig",
@@ -9298,7 +9298,7 @@
       "cargoHash": "sha256-E95Yc3QLbjP3OQyAJmpRyPaHVkKnj95zX6fI3j0xSSE="
     },
     {
-      "id": "twilight",
+      "name": "twilight",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/tectiv3/twilight-zed",
@@ -9316,7 +9316,7 @@
       "kind": "plain"
     },
     {
-      "id": "typos",
+      "name": "typos",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/BaptisteRoseau/zed-typos",
@@ -9332,13 +9332,13 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-x51vWF/AwjpnJ6FVPsbxcR0bbmR2RFhSpImYEUVO5MQ=",
+      "cargoHash": "sha256-wiMcHXmNfqFUayMHb6LEzPCETtVedWcRo/pq41BOVbk=",
       "cargoLock": {
         "lockFile": "/generated/typos.lock"
       }
     },
     {
-      "id": "typst",
+      "name": "typst",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/WeetHet/typst.zed",
@@ -9359,7 +9359,7 @@
       "cargoHash": "sha256-5hZCvKtuPCOHUu4+BktrdgtI4jb3wLj93IwhSbORjrI="
     },
     {
-      "id": "uiua",
+      "name": "uiua",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/uiua",
@@ -9380,7 +9380,7 @@
       "cargoHash": "sha256-FW31qBqa5Fir7S4H1dWirgYu1je1PtTWBW1dE9XrgOM="
     },
     {
-      "id": "ultimate-dark-neo",
+      "name": "ultimate-dark-neo",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/rubjo/ultimate-dark-neo-zed",
@@ -9398,7 +9398,7 @@
       "kind": "plain"
     },
     {
-      "id": "ultralytics-snippets",
+      "name": "ultralytics-snippets",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/ayberkgezer/ultralytics-zed-snippets",
@@ -9416,7 +9416,7 @@
       "kind": "plain"
     },
     {
-      "id": "umbralkai",
+      "name": "umbralkai",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/platformer/zed-umbralkai",
@@ -9434,7 +9434,7 @@
       "kind": "plain"
     },
     {
-      "id": "underground-theme",
+      "name": "underground-theme",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/i-amdroid/zed-underground-theme",
@@ -9452,7 +9452,7 @@
       "kind": "plain"
     },
     {
-      "id": "unicode",
+      "name": "unicode",
       "version": "0.1.5",
       "src": {
         "url": "https://github.com/aripiprazole/zed-unicode",
@@ -9471,7 +9471,7 @@
       "cargoHash": "sha256-2koCAbfWi0jKjjQWYKucN/E9nB2snKo7RMq6eV5z8GU="
     },
     {
-      "id": "unison",
+      "name": "unison",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/zetashift/unison-zed",
@@ -9492,7 +9492,7 @@
       "cargoHash": "sha256-3yX1+FAEJS25/A2Bs9pNWUMIZuR9PI9mun4fNk5qqRQ="
     },
     {
-      "id": "unocss",
+      "name": "unocss",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-unocss",
@@ -9511,7 +9511,7 @@
       "cargoHash": "sha256-9jGbrBFUjaaFrv6fXBIgx2kSfGNYxiEve77fXWzsK9I="
     },
     {
-      "id": "unoflat",
+      "name": "unoflat",
       "version": "0.1.2",
       "src": {
         "url": "https://github.com/bryanbuchanan/unoflat",
@@ -9529,7 +9529,7 @@
       "kind": "plain"
     },
     {
-      "id": "v",
+      "name": "v",
       "version": "0.4.2",
       "src": {
         "url": "https://github.com/lv37/zed-v",
@@ -9547,13 +9547,13 @@
         "v_v"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-Kb8PXag0jAKWB3Uqqxkc6PEUhJzgVGqbOT6n4aKsrAA=",
+      "cargoHash": "sha256-YxQ1ftP/Y8BIvqQL+5l02272GGmwR5rzaQ9e2yF/GfQ=",
       "cargoLock": {
         "lockFile": "/generated/v.lock"
       }
     },
     {
-      "id": "v0-theme",
+      "name": "v0-theme",
       "version": "0.6.0",
       "src": {
         "url": "https://github.com/biaqat/v0-theme-zed",
@@ -9571,7 +9571,7 @@
       "kind": "plain"
     },
     {
-      "id": "vacuum",
+      "name": "vacuum",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/kovapatrik/zed-vacuum",
@@ -9590,7 +9590,7 @@
       "cargoHash": "sha256-/1+S4/qGAOcH5mV/eR1l3X0wXvuhYPM9NN0ogDu7GkI="
     },
     {
-      "id": "vala",
+      "name": "vala",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/FyraLabs/zed-vala",
@@ -9608,13 +9608,13 @@
         "vala_vala"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-qrRSyMKZRhECBl6psBrJDAb4pkFPn2JvHSPvBI7YGUw=",
+      "cargoHash": "sha256-8ryT6v4z9OOKM9FnHTNVEv4Fj/TcRLINmKD3wXvaa1A=",
       "cargoLock": {
         "lockFile": "/generated/vala.lock"
       }
     },
     {
-      "id": "vale",
+      "name": "vale",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/koozz/zed-vale",
@@ -9633,7 +9633,7 @@
       "cargoHash": "sha256-KLwDaTaaw6TRI8n526mZMoMjXycG3ykgpJtZezlmHU8="
     },
     {
-      "id": "vapor-theme",
+      "name": "vapor-theme",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/felipetesc/vapor-theme",
@@ -9651,7 +9651,7 @@
       "kind": "plain"
     },
     {
-      "id": "vcard",
+      "name": "vcard",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/TitouanReal/zed-vcard",
@@ -9672,7 +9672,7 @@
       "cargoHash": "sha256-SZTzG8AeobsofRVkZIao9nnKi5yhbuv1gNfMkR60VYI="
     },
     {
-      "id": "vento",
+      "name": "vento",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/dz4k/zed-vento",
@@ -9692,7 +9692,7 @@
       "kind": "plain"
     },
     {
-      "id": "vercel-theme",
+      "name": "vercel-theme",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/NathanBrodin/zed-vercel-theme",
@@ -9710,7 +9710,7 @@
       "kind": "plain"
     },
     {
-      "id": "verilog",
+      "name": "verilog",
       "version": "0.0.7",
       "src": {
         "url": "https://github.com/someone13574/zed-verilog-extension",
@@ -9731,7 +9731,7 @@
       "cargoHash": "sha256-bvmv7uxLFSofMYFJIjKDKvp9lzZfzN6LehzluaWQHnA="
     },
     {
-      "id": "vesper",
+      "name": "vesper",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/bdsqqq/vesper-zed",
@@ -9749,7 +9749,7 @@
       "kind": "plain"
     },
     {
-      "id": "vhdl",
+      "name": "vhdl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/rapgenic/zed-vhdl",
@@ -9770,7 +9770,7 @@
       "cargoHash": "sha256-42KCuJ3k4/Rb9H59a8HjdApex92dKXRhOsT3w2TM/NM="
     },
     {
-      "id": "vhs",
+      "name": "vhs",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/eth0net/zed-vhs",
@@ -9790,7 +9790,7 @@
       "kind": "plain"
     },
     {
-      "id": "viewtree",
+      "name": "viewtree",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/Dev-cmyser/zed-view.tree-mol-support",
@@ -9810,7 +9810,7 @@
       "kind": "plain"
     },
     {
-      "id": "visual-assist-dark",
+      "name": "visual-assist-dark",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/trojanfoe/visual-assist-dark.zed",
@@ -9828,7 +9828,7 @@
       "kind": "plain"
     },
     {
-      "id": "vitesse",
+      "name": "vitesse",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/d1y/vitesse.zed",
@@ -9846,7 +9846,7 @@
       "kind": "plain"
     },
     {
-      "id": "vitesse-theme-refined",
+      "name": "vitesse-theme-refined",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/colinlienard/zed-vitesse-theme-refined",
@@ -9864,7 +9864,7 @@
       "kind": "plain"
     },
     {
-      "id": "vrl",
+      "name": "vrl",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/belltoy/zed-vrl",
@@ -9884,7 +9884,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-classic-theme",
+      "name": "vscode-classic-theme",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/CharlesSBL/-vscode_classic_theme.zed",
@@ -9902,7 +9902,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-dark-high-contrast",
+      "name": "vscode-dark-high-contrast",
       "version": "1.0.0",
       "src": {
         "url": "https://github.com/nick-myrick/vscode-dark-high-contrast",
@@ -9920,7 +9920,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-dark-modern",
+      "name": "vscode-dark-modern",
       "version": "0.0.5",
       "src": {
         "url": "https://github.com/kcamcam/vscode_dark_modern.zed",
@@ -9938,7 +9938,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-great-icons",
+      "name": "vscode-great-icons",
       "version": "0.2.2",
       "src": {
         "url": "https://github.com/RandaZraik/zed-vscode-great-icons",
@@ -9956,7 +9956,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-icons",
+      "name": "vscode-icons",
       "version": "0.2.0",
       "src": {
         "url": "https://github.com/pranavmangal/zed-vscode-icons",
@@ -9974,7 +9974,7 @@
       "kind": "plain"
     },
     {
-      "id": "vscode-light-plus",
+      "name": "vscode-light-plus",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/MadLittleMods/zed-theme-vscode-light-plus",
@@ -9992,7 +9992,7 @@
       "kind": "plain"
     },
     {
-      "id": "vue",
+      "name": "vue",
       "version": "0.2.4",
       "src": {
         "url": "https://github.com/zed-extensions/vue",
@@ -10013,7 +10013,7 @@
       "cargoHash": "sha256-1C+p2JuMu6bLfBUmwUGkejV+j2aGNQCw2N3GJd4lgbg="
     },
     {
-      "id": "wakatime",
+      "name": "wakatime",
       "version": "0.1.8",
       "src": {
         "url": "https://github.com/wakatime/zed-wakatime",
@@ -10032,7 +10032,7 @@
       "cargoHash": "sha256-Pq071cJZDnSW2oDAzHHDqg2XGf6qTOLEBAZ8Of7iVuo="
     },
     {
-      "id": "wakfu-theme",
+      "name": "wakfu-theme",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/JulesSorensen/zed-wakfu-theme",
@@ -10050,7 +10050,7 @@
       "kind": "plain"
     },
     {
-      "id": "wat",
+      "name": "wat",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/g-plane/zed-wasm",
@@ -10071,7 +10071,7 @@
       "cargoHash": "sha256-JyRnXT1wUkuyHQ1DlNnNk9lTflzO5JygxTRQUqJxsgE="
     },
     {
-      "id": "wdl",
+      "name": "wdl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/broadinstitute/zed-wdl",
@@ -10092,7 +10092,7 @@
       "cargoHash": "sha256-2se/wqON2U34PdMj/cOz2bv4YwxAbOts+h3skRAfHOY="
     },
     {
-      "id": "wgsl-wesl",
+      "name": "wgsl-wesl",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/lucascompython/wgsl-wesl-zed",
@@ -10113,7 +10113,7 @@
       "cargoHash": "sha256-dG/e7fHY7OUcr5+8X0oTOya9KshLp8eIUnwTO6OWkjQ="
     },
     {
-      "id": "whkd",
+      "name": "whkd",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/LGUG2Z/zed-whkd",
@@ -10133,7 +10133,7 @@
       "kind": "plain"
     },
     {
-      "id": "wit",
+      "name": "wit",
       "version": "0.4.0",
       "src": {
         "url": "https://github.com/valentinegb/zed-wit",
@@ -10154,7 +10154,7 @@
       "cargoHash": "sha256-nkngUwXuuGETna+VE/ouGFhABzbDZjyP++r+SSUY/30="
     },
     {
-      "id": "xcode-themes",
+      "name": "xcode-themes",
       "version": "2.0.1",
       "src": {
         "url": "https://github.com/skarline/zed-xcode-themes",
@@ -10172,7 +10172,7 @@
       "kind": "plain"
     },
     {
-      "id": "xdr-naive",
+      "name": "xdr-naive",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/algebnaly/xdr.zed",
@@ -10192,7 +10192,7 @@
       "kind": "plain"
     },
     {
-      "id": "xml",
+      "name": "xml",
       "version": "0.0.8",
       "src": {
         "url": "https://github.com/sweetppro/zed-xml",
@@ -10212,7 +10212,7 @@
       "kind": "plain"
     },
     {
-      "id": "xy-zed",
+      "name": "xy-zed",
       "version": "0.1.1",
       "src": {
         "url": "https://github.com/zarifpour/xy-zed",
@@ -10230,7 +10230,7 @@
       "kind": "plain"
     },
     {
-      "id": "yaka",
+      "name": "yaka",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/edgarkanyes/yaka",
@@ -10248,7 +10248,7 @@
       "kind": "plain"
     },
     {
-      "id": "yara",
+      "name": "yara",
       "version": "0.0.4",
       "src": {
         "url": "https://github.com/egibs/yara.zed",
@@ -10266,13 +10266,13 @@
         "yara_yara"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-bk4oC9W4ldORJZKvzOMcOIAFnlkqRHa6IDC0DM4W81g=",
+      "cargoHash": "sha256-sEx67NMylb0hZ8n6EVp5Q9oVjMiGJSpdKnTCwBZM6QA=",
       "cargoLock": {
         "lockFile": "/generated/yara.lock"
       }
     },
     {
-      "id": "yellowed",
+      "name": "yellowed",
       "version": "0.0.3",
       "src": {
         "url": "https://github.com/Gael-Lopes-Da-Silva/YellowedZed",
@@ -10290,7 +10290,7 @@
       "kind": "plain"
     },
     {
-      "id": "yogi-amoled",
+      "name": "yogi-amoled",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/euyogi/Tema-YogiAmoled",
@@ -10309,7 +10309,7 @@
       "kind": "plain"
     },
     {
-      "id": "yue-theme",
+      "name": "yue-theme",
       "version": "1.2.1",
       "src": {
         "url": "https://github.com/biaqat/yue-theme-zed",
@@ -10327,7 +10327,7 @@
       "kind": "plain"
     },
     {
-      "id": "zed-legacy-themes",
+      "name": "zed-legacy-themes",
       "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/legacy-themes",
@@ -10345,7 +10345,7 @@
       "kind": "plain"
     },
     {
-      "id": "zedburn",
+      "name": "zedburn",
       "version": "0.1.0",
       "src": {
         "url": "https://github.com/rmoraes92/zedburn",
@@ -10363,7 +10363,7 @@
       "kind": "plain"
     },
     {
-      "id": "zedokai",
+      "name": "zedokai",
       "version": "1.2.2",
       "src": {
         "url": "https://github.com/slymax/zedokai",
@@ -10381,7 +10381,7 @@
       "kind": "plain"
     },
     {
-      "id": "zedokai-darkest-machine",
+      "name": "zedokai-darkest-machine",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/tuzemec/zedokai-darkest-machine",
@@ -10399,7 +10399,7 @@
       "kind": "plain"
     },
     {
-      "id": "zedrack-theme",
+      "name": "zedrack-theme",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/foorack/zed-theme",
@@ -10417,7 +10417,7 @@
       "kind": "plain"
     },
     {
-      "id": "zedwaita",
+      "name": "zedwaita",
       "version": "0.0.6",
       "src": {
         "url": "https://github.com/someone13574/zed-adwaita-theme",
@@ -10435,7 +10435,7 @@
       "kind": "plain"
     },
     {
-      "id": "zen-abyssal",
+      "name": "zen-abyssal",
       "version": "1.3.1",
       "src": {
         "url": "https://github.com/KevInCompile/ZenAbyssal",
@@ -10453,7 +10453,7 @@
       "kind": "plain"
     },
     {
-      "id": "zig",
+      "name": "zig",
       "version": "0.3.4",
       "src": {
         "url": "https://github.com/zed-extensions/zig",
@@ -10474,7 +10474,7 @@
       "cargoHash": "sha256-55c8WnJfOuc/COlB9hOD5EGQtCXUoYJztVzHD7qPl+c="
     },
     {
-      "id": "ziggy",
+      "name": "ziggy",
       "version": "0.0.1",
       "src": {
         "url": "https://github.com/lvignoli/zed-ziggy",

@@ -11,26 +11,20 @@ use crate::registry::RegistryExtension;
 
 #[tracing::instrument(
     skip(extension),
-    fields(id = %extension.id, version = %extension.version, repo = %extension.repository, rev = %extension.rev)
+    fields(name = %extension.name, version = %extension.version, repo = %extension.repository, rev = %extension.rev)
 )]
 pub async fn process_extension(
     extension: RegistryExtension,
 ) -> anyhow::Result<Option<(Extension, Vec<Grammar>)>> {
     tracing::info!("Synching extension");
 
-    let id = extension.id.to_string();
+    let name = extension.name.to_string();
     let repo = extension.repository.to_string();
     tracing::info!("Checking out repository");
 
-    let tmp_repo = temp_dir().join(&id);
+    let tmp_repo = temp_dir().join(&name);
     if tmp_repo.exists() {
         fs::remove_dir_all(&tmp_repo).await?;
-    }
-
-    let response = reqwest::get(&repo).await?;
-    if !response.status().is_success() {
-        tracing::error!("Repository does not exist or is not accessible");
-        return Ok(None);
     }
 
     let clone = Command::new("git")
@@ -77,7 +71,7 @@ pub async fn process_extension(
         fs::create_dir(generated_dir).await?;
     }
 
-    let stored_lockfile = generated_dir.join(format!("{id}.lock"));
+    let stored_lockfile = generated_dir.join(format!("{name}.lock"));
 
     let mut generated_lockfile = false;
     if cargo.exists() && !lockfile.exists() {
@@ -121,8 +115,8 @@ pub async fn process_extension(
     let manifest: ExtensionManifest = toml::from_str(&manifest)?;
 
     let mut futures = FuturesUnordered::new();
-    for (name, grammar) in manifest.grammars.iter() {
-        let future = process_grammar(name.clone(), grammar, id.clone());
+    for (grammar_name, grammar) in manifest.grammars.iter() {
+        let future = process_grammar(grammar_name.clone(), grammar, name.clone());
         futures.push(future);
     }
 
@@ -141,7 +135,7 @@ pub async fn process_extension(
     }
 
     let kind = if cargo.exists() {
-        process_rust_extension(&id, &lockfile, generated_lockfile).await?
+        process_rust_extension(&name, &lockfile, generated_lockfile).await?
     } else {
         ExtensionKind::Plain
     };
@@ -151,7 +145,7 @@ pub async fn process_extension(
 
     Ok(Some((
         Extension {
-            id,
+            name,
             version: manifest.version,
             src,
             extension_root: extension.path,
@@ -177,16 +171,6 @@ async fn process_grammar(
     let repo = grammar.repository.to_string();
     let rev = grammar.rev.clone();
     tracing::info!(repo = repo, rev = rev, "Checking out grammar repository");
-
-    let response = reqwest::get(&repo).await?;
-    if !response.status().is_success() {
-        tracing::error!(
-            repo = repo,
-            "Grammar repository does not exist or is not accessible"
-        );
-
-        return Ok(None);
-    }
 
     let clone = Command::new("git")
         .args(["clone", &repo, &tmp_repo.to_string_lossy()])
@@ -239,13 +223,13 @@ async fn process_grammar(
     }))
 }
 
-#[tracing::instrument(fields(id = %id))]
+#[tracing::instrument(fields(name = %name))]
 async fn process_rust_extension(
-    id: &str,
+    name: &str,
     lockfile: &Path,
     generated_lockfile: bool,
 ) -> anyhow::Result<ExtensionKind> {
-    let tmp_vendor = temp_dir().join(format!("{id}_vendor"));
+    let tmp_vendor = temp_dir().join(format!("{name}_vendor"));
     if tmp_vendor.exists() {
         fs::remove_dir_all(&tmp_vendor).await?;
     }
@@ -280,7 +264,7 @@ async fn process_rust_extension(
 
     let cargo_lock: Option<CargoLock> = if generated_lockfile {
         Some(CargoLock {
-            lock_file: PathBuf::from(format!("/generated/{id}.lock")),
+            lock_file: PathBuf::from(format!("/generated/{name}.lock")),
         })
     } else {
         None

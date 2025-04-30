@@ -65,8 +65,7 @@ final: prev: {
 
     (if extension.kind == "rust" then buildZedRustExtension else buildZedExtension) (
       {
-        name = extension.id;
-        inherit (extension) version;
+        inherit (extension) name version;
 
         src = fetchgit {
           inherit (extension.src)
@@ -88,7 +87,6 @@ final: prev: {
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // lib.optionalAttrs (extension.kind == "rust") {
-        useFetchCargoVendor = true;
         cargoHash = extension.cargoHash;
       }
       // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {
@@ -101,7 +99,8 @@ final: prev: {
 
   zed-extensions = builtins.listToAttrs (
     map (extension: {
-      name = extension.id;
+      inherit (extension) name;
+
       value = final.callPackage (final.mkZedExtension extension) {
         inherit (final) zed-grammars;
       };
