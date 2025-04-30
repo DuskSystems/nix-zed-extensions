@@ -6040,6 +6040,24 @@
       "kind": "plain"
     },
     {
+      "id": "nightfox-m",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/mpopadic/nightfox_m-zed",
+        "rev": "6de134e5363cd6c84791aeae8d85ad8ab8653c93",
+        "date": "2025-04-28T21:14:21+02:00",
+        "path": "/nix/store/x3hn15jkh2qf6d00339al2ikzpwfdva1-nightfox_m-zed-6de134e",
+        "sha256": "1xv5f75qp9s3gwcbyh38cxsfvqjbjm8j6r6fz4ic29q73pwn9n2q",
+        "hash": "sha256-WNhk+R0HJ8Ei+c5kI1GVS+LtdGdoQL8Yf0Oni8txZfc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "id": "nim",
       "version": "0.2.0",
       "src": {
