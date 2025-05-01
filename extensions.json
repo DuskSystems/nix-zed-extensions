@@ -613,14 +613,14 @@
     },
     {
       "name": "barbenheimer",
-      "version": "1.0.1",
+      "version": "1.3.1",
       "src": {
         "url": "https://github.com/jayvicsanantonio/barbenheimer-zed-theme",
-        "rev": "8931aa181219056b1f4cb66192c09d38147ca57f",
-        "date": "2024-12-02T07:22:13-08:00",
-        "path": "/nix/store/7zb4hsldhz021ccvqrhkqfjzsmc2jiy1-barbenheimer-zed-theme-8931aa1",
-        "sha256": "1bb55xrz9fwmxqpr3vp5z590543awpi3ca3nlp2bpzs47hjbwys6",
-        "hash": "sha256-Rnu+JDxE/7vEpXYoNuLlapACUvnl7pEv7pW79HMvZa0=",
+        "rev": "f362d332f66ef623814600e13fc525a514b8f1d5",
+        "date": "2025-04-29T00:07:51-07:00",
+        "path": "/nix/store/b7dd98cs0975wc4alvzkzkgxyfd1ybv2-barbenheimer-zed-theme-f362d33",
+        "sha256": "1cdkpprlrql9ji36vvqpg5iynqs28nsysjalixkq0frigy3jwpmp",
+        "hash": "sha256-t14uh38xO4Bnj1RJ7bVFQmPrY3kX721GlIniTPO9s7E=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2545,14 +2545,14 @@
     },
     {
       "name": "elle",
-      "version": "0.2.4",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/acquitelol/elle",
-        "rev": "457b01b3b7e599b3df6159d2c9d3dc26002270b8",
-        "date": "2025-04-18T16:40:18+01:00",
-        "path": "/nix/store/4lghai9lc7nkdp9hd1ibq6cpl02p9347-elle-457b01b",
-        "sha256": "0jm42z7rc4bjjblr1k2d5fxgiwasgcycxv5d1c0k4831va116x4f",
-        "hash": "sha256-jnQTgtphIDIBC63szjx7WvH4uitNzJDpknIRls8XpEo=",
+        "rev": "b6be937e95fad04ee525e4388a5d9bf5f0679922",
+        "date": "2025-04-30T16:08:27+01:00",
+        "path": "/nix/store/kwz1lz4ach5y4bvaaa19c64lwbzp53x9-elle-b6be937",
+        "sha256": "0lq1xnkgaavayvwx1psa2pbzdq5bfdhzdh271mddz69a42ff8plx",
+        "hash": "sha256-nV7knCAqmd9aDUfA9mFzq+D21xVK39D59mor9abtAVM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2563,7 +2563,7 @@
         "elle_elle"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-8DaOnZHgbTeWlbxkyDEQN3z6Hvjfhi8VC3PPoODKpUE="
+      "cargoHash": "sha256-o5OGoSU2eyUSrcfEwA+jtPeoo40sRcDpEPo50mO54zA="
     },
     {
       "name": "elm",
@@ -3090,6 +3090,26 @@
       "cargoLock": {
         "lockFile": "/generated/gdscript.lock"
       }
+    },
+    {
+      "name": "gem",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/mantou132/gem",
+        "rev": "4324cb75bc75f0a4d9e79bcbf994659d83535561",
+        "date": "2025-04-23T23:52:14+08:00",
+        "path": "/nix/store/cl2ixhmd15svlvivyvyjxmhvrqckdzrd-gem-4324cb7",
+        "sha256": "0i6dznypy6vbvk52c59zdc9d9gzxf6gscbvxw95fnkna6r37qql5",
+        "hash": "sha256-hWJ8RjbKTutK4n0vpp9x/b/UEms/FSbK3Gsbf739zUQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "crates/zed-plugin-gem",
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-r/7EyYwyqurshd6tFvHP8wVEUnaxS4O+cYJpWfN6ANU="
     },
     {
       "name": "gemini",
@@ -3849,14 +3869,14 @@
     },
     {
       "name": "hex-light-theme",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/coghost/light-zed-theme",
-        "rev": "1f95d8d612c39aedbb27a18b476c8f32a36cfe38",
-        "date": "2024-08-31T12:03:29+08:00",
-        "path": "/nix/store/hc5ksasp739bz120fcjmqizs2babijz5-light-zed-theme-1f95d8d",
-        "sha256": "04f2wz56zxkw5sfgz59n9jm7nlxn6nj1aa8d2f0q1lq9hmng3v0r",
-        "hash": "sha256-GezxbIUJ04CBEw0pFaQ1tlN7qkw2lf+cLnz2b8rnwhE=",
+        "rev": "07153d48b0b416f80e9a33aaf5713924f1403f6f",
+        "date": "2025-04-30T11:45:43+08:00",
+        "path": "/nix/store/yw4yflxqbnibizrhkvrwzd6sfs6dy6f5-light-zed-theme-07153d4",
+        "sha256": "0gb8n5pggia4ljw995ql8yynf3l2hw3l9k07fripfviv48npk4ir",
+        "hash": "sha256-OZJ5LSI7bndjdgfMRAeHgg5nvUcUl5S4pETF926xaD0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5531,14 +5551,14 @@
     },
     {
       "name": "modus-themes",
-      "version": "0.0.16",
+      "version": "0.0.17",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "e827bdafdc4024ed80fa59c6f00efa6a06315e2d",
-        "date": "2025-04-18T22:26:47+02:00",
-        "path": "/nix/store/8ynp249k5bfdkvqalyx93w2hg8pbp4rn-zed-modus-themes-e827bda",
-        "sha256": "0labrv3whjm90ycpxjdd2lddan8rwaqqd5b5d2gsr0qmq2g47x3p",
-        "hash": "sha256-d/RDnsAVg6yfaGWVhrHiGVnVGhWtyX6ZB6lKyMfOS1E=",
+        "rev": "18e7c7d35cc1668b53a0da00f5e7102ac554ef94",
+        "date": "2025-04-30T06:52:03+02:00",
+        "path": "/nix/store/584jqwza2s2bxkkks98ic1q7qsgc0hbm-zed-modus-themes-18e7c7d",
+        "sha256": "16mfik5iwi9n1q7z9gl0jwkpnppzhcqi4ann6fcv7hb5gdppp83x",
+        "hash": "sha256-faB7b3tlwbOZM9YqEjGD/157J5eAvvQPDjZFHsuMrpo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6505,14 +6525,14 @@
     },
     {
       "name": "one-black-theme",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/serhiiboreiko/one-black-theme-zed",
-        "rev": "64d69d780ea0d0b4ad899f59d422b4e162578d03",
-        "date": "2024-12-05T01:54:24+02:00",
-        "path": "/nix/store/pih57w5dqm869wb4kwjj7g8z2i9ij4zy-one-black-theme-zed-64d69d7",
-        "sha256": "10mz42rga2bv66na6qbvmvmgn1wr631nanzplc6d9i6c3nfxid2n",
-        "hash": "sha256-VrTYnR3MxNQMo/dbZcMwmQf76q57YaOsMXsJ9bIgv4I=",
+        "rev": "4dabb54d1c774b48f65364d2dd358ba712cc8bba",
+        "date": "2025-04-30T22:25:28+03:00",
+        "path": "/nix/store/8riwf0bdvja8wd14aq2r6chx9ibgbvzw-one-black-theme-zed-4dabb54",
+        "sha256": "1jc0jf9699nsnjc7nva3c8sr865vs0la3kjbyr7ijzqmxm1r9hjs",
+        "hash": "sha256-WsKUQ+0VfxlP9kvOoSjQuxiUNWJDbXuYtNqmZJKTgMk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7588,14 +7608,14 @@
     },
     {
       "name": "r",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "src": {
         "url": "https://github.com/ocsmit/zed-r",
-        "rev": "1d730e5be8a5a18c954c3d86a745fb0af1e9ed0d",
-        "date": "2025-03-22T22:15:44+01:00",
-        "path": "/nix/store/yw15x8a4nlkbcqkv7qmzb2ip8cap7mrj-zed-r-1d730e5",
-        "sha256": "07kvq5c7rpsiz6wi4kjnxm9yyrig5kvk6vw3d61pdyhisb5vgjkq",
-        "hash": "sha256-eMq3y9IR+naDaYNvM/csL2bvU+1WThK5+VHffFjBex4=",
+        "rev": "99c2b0c91a635974d1f35054ba74d4845dc2ee86",
+        "date": "2025-04-30T19:15:49+01:00",
+        "path": "/nix/store/dzpp558bxd0qqgl7a47kiqazr3mfq0d6-zed-r-99c2b0c",
+        "sha256": "05csw5gvshbzdca25mg28zjrv4h2mhm5xbpywn30gnpjb52rvgd9",
+        "hash": "sha256-qb2dRVny2geG5f6uXiqsApKd5Ufi1SIUa39BvV/hmhU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7605,7 +7625,7 @@
         "r_r"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-DgsLtG2LGEJVmp8QSVFN2FTn6HqkAAoWJFEGnidci+M=",
+      "cargoHash": "sha256-J2p7Msf7sMNtmwyUXzSNnzOcN027XdcgRSurR0Vgfl0=",
       "cargoLock": {
         "lockFile": "/generated/r.lock"
       }
@@ -7959,14 +7979,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.4.6",
+      "version": "0.5.6",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "a910ec7af318efe7951b3f26549f218b0fcfa45d",
-        "date": "2025-02-17T21:22:40+01:00",
-        "path": "/nix/store/ccm1qwaz8lppr6y5f4q2gr3plfpkckfh-ruby-a910ec7",
-        "sha256": "1gb5khx6ya0sgkhi0x2bj14p63s07yrkdc4xqpdrwl5viqx72bdl",
-        "hash": "sha256-tC1xOo67UJ7bxZ2wNrM/QA9zSZBLdBDhfBoobzqcZb0=",
+        "rev": "4f28e5eba78702b2289b6fd7a2a9029e157a28ba",
+        "date": "2025-04-30T20:41:55+02:00",
+        "path": "/nix/store/dgr1flzv2sizxdav9y46j2jy0y3ffk8d-ruby-4f28e5e",
+        "sha256": "0w1ndlx8k35l3pc8dzb167vszsfnmrhsb09np56xavp4b7blahsz",
+        "hash": "sha256-X0NF11nkbtVNuTaBpWGu1umv9zFh/YbYHbSMiTptNnA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7978,7 +7998,7 @@
         "ruby_ruby"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-qYEBGVnkj4wBmUW8fPgTgW2QPKQvSIwKeLldp7EYvcI="
+      "cargoHash": "sha256-3qXGRuVC5R9BRKi7mqpQyuAYz0mWG0TR90hifMldc9k="
     },
     {
       "name": "ruff",
@@ -9711,14 +9731,14 @@
     },
     {
       "name": "verilog",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "src": {
         "url": "https://github.com/someone13574/zed-verilog-extension",
-        "rev": "c723d83b42f5836e631a4baf51bd7b05584e0671",
-        "date": "2025-03-30T10:04:02-04:00",
-        "path": "/nix/store/b38cvi199y14r19kgz36ap2pcimd02nx-zed-verilog-extension-c723d83",
-        "sha256": "0a3i0glaazsaxdgzahdrdhvwh8wwgs67llfmhqgk151s967rsx8b",
-        "hash": "sha256-C3Wdj0k6lDAfhtVReox+nCPIN2y5QfVf60p/pegDcSg=",
+        "rev": "6540c8381d35879506dec0752a4ffddf59465d6e",
+        "date": "2025-04-29T10:08:41-04:00",
+        "path": "/nix/store/y2z891jfn0m6w27p5b6wbdr66frwdxjv-zed-verilog-extension-6540c83",
+        "sha256": "07alg7x4ykidh1y8pbngavnjxn08daj9yfkvimq700lgkdf8jb19",
+        "hash": "sha256-KSyJXJuPAnBwjXs6n6RqCNgu7VbProt8gC1OT/p5VB0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11503,14 +11523,14 @@
     {
       "id": "elle_elle",
       "name": "elle",
-      "version": "d14e60684b3c2e3151d937dba822e090d25960b4",
+      "version": "2bce706b50587ae7db3caa727b01f075098fc916",
       "src": {
         "url": "https://github.com/acquitelol/tree-sitter-elle/",
-        "rev": "d14e60684b3c2e3151d937dba822e090d25960b4",
-        "date": "2025-04-16T13:54:58+01:00",
-        "path": "/nix/store/wjjqgnzjwdhxlci71191mm8p8k92yl84-tree-sitter-elle-d14e606",
-        "sha256": "1ynsqx3q2dww96598yi5jizn8x0rgmcq7vbjnnmsdishxd0bgz0i",
-        "hash": "sha256-Efy3QOtQx6artXLtg1l9GXRkf5QlepSKSZw3gUfH2vo=",
+        "rev": "2bce706b50587ae7db3caa727b01f075098fc916",
+        "date": "2025-04-29T23:51:29+01:00",
+        "path": "/nix/store/1p8rgwzl27xq9x242088qsgfi87nhzn1-tree-sitter-elle-2bce706",
+        "sha256": "1c101biai155mlgs30dw3wyy6hngfyhld5y85ykpg9kdnkhs59v5",
+        "hash": "sha256-Zaei4bRtpnenL8iXRqF3z0LjPR+8gaEfraWEqOIKILA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14410,14 +14430,14 @@
     {
       "id": "verilog_verilog",
       "name": "verilog",
-      "version": "0dacb911daa9614a7c7e79a594d4cb9f478e6554",
+      "version": "ba3c1e305caf948f718293c86c6018a82ed5043e",
       "src": {
         "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog",
-        "rev": "0dacb911daa9614a7c7e79a594d4cb9f478e6554",
-        "date": "2024-09-28T20:24:15+02:00",
-        "path": "/nix/store/wr6gkfm9q2n7w6cjqhyvssiy2vqm19pv-tree-sitter-systemverilog-0dacb91",
-        "sha256": "1n3x51ki175hx0axxvbc2052pdk6swk5dg5ib3nzywzpwdayn12q",
-        "hash": "sha256-WATrVeP3c//tWLG8VibXZrYrChBs7d4V6LCcEGcofdg=",
+        "rev": "ba3c1e305caf948f718293c86c6018a82ed5043e",
+        "date": "2025-03-20T19:12:35+01:00",
+        "path": "/nix/store/4wvb8z0l0x3zg9lndgln8gniza3sagj3-tree-sitter-systemverilog-ba3c1e3",
+        "sha256": "1w00xl68akxbfyxd1grs2rj132qcz9w0lf5rvzcmlmcjd33hzsj6",
+        "hash": "sha256-RuoPx2iSVVrZ37k4Cnj6DIsRZBY6v9C6d6tPhQztAPA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
