@@ -4587,14 +4587,14 @@
     },
     {
       "name": "latex",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/rzukic/zed-latex",
-        "rev": "3a225fb4e16d988503fd4f708c39c8ca3fab5b58",
-        "date": "2025-04-19T00:49:50+01:00",
-        "path": "/nix/store/3qralbm8kphv6f6n24sq6k4mll8bz06b-zed-latex-3a225fb",
-        "sha256": "03dzv7mqkbxm84lfiqlxdnj85nrp9bfkrhz2xp4jynv9i1l2bxj1",
-        "hash": "sha256-QfYlaIhpWy/J7eLDPN1KN9uCpG2d4ugoQbWvievZvw0=",
+        "rev": "6d22b5cb6ee78a92b68b6f416cdf57e26146b22f",
+        "date": "2025-05-03T02:23:15+01:00",
+        "path": "/nix/store/qkky324qgnyjac0w19yjrhdgyj9rh9q8-zed-latex-6d22b5c",
+        "sha256": "0prmd65bp4bl5qpzbh6pb47pdy39pp0akgl6gdx6pd2jmd758gqp",
+        "hash": "sha256-Fz9UTqtStGt6e4a+qcC9afh2D1nXwPUvLnSRu4ppNV8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5244,14 +5244,14 @@
     },
     {
       "name": "mcp-server-context7",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/akbxr/zed-mcp-server-context7",
-        "rev": "2b6d2c6fabef95e717f6b5e55e162548be4cf2d5",
-        "date": "2025-04-18T00:06:01+07:00",
-        "path": "/nix/store/8dqzgf2iz8xxvyjy2j9pb5y76klb3lc2-zed-mcp-server-context7-2b6d2c6",
-        "sha256": "0idp23dix3b9n0a85glmng0mrjpl9q249vfl8phdq9f96x5ls2xf",
-        "hash": "sha256-rgtNSzfJJdzgRdTtRARO9MpcwbOVvoIUsGmNHtsQt0U=",
+        "rev": "dbb58b95ebe99cfe5ac1d408d6b04364afeac4c9",
+        "date": "2025-05-03T22:37:48+07:00",
+        "path": "/nix/store/ppfx7l8hpsrgwksr5i3zflqpja9frx17-zed-mcp-server-context7-dbb58b9",
+        "sha256": "067rlyrlj1mi1y3qfamxhj9ndbfjz9zywb4jr03qj437zzxc69sj",
+        "hash": "sha256-UifD+v9nEIkHyJIs7n/60q1mk4S9KoeHD7EGSbOn+Rg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5259,7 +5259,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-t8iLmWU4wTGMTJYKDe/s6DkcBlZmYr49t8WDazaDmQg="
+      "cargoHash": "sha256-JE3aNtepAfX910d7+Fpt42qUNERNzzogmeJgtNimjUc="
     },
     {
       "name": "mcp-server-exa-search",
@@ -9201,6 +9201,28 @@
       "kind": "plain"
     },
     {
+      "name": "tombi",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/tombi-toml/tombi",
+        "rev": "02d70fcee8f63c6abb0e2a97accc6216b2d28278",
+        "date": "2025-05-02T22:02:01+09:00",
+        "path": "/nix/store/j9l9fanm15cqnn2mcpi6nfclazrlvhda-tombi-02d70fc",
+        "sha256": "0455mb1snsair54qiphx64pqswl7rpxmm5p4kwjihs9wxcr85lss",
+        "hash": "sha256-WtOCMus8aRgln+SWWvvNh3KNLzEd3ohJyVFpq8OqpRA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "editors/zed",
+      "grammars": [
+        "tombi_toml"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-2FXo9/+mHjCdQS5X0my0npXFb/ver8BvJKQscgYbJP0="
+    },
+    {
       "name": "toml",
       "version": "0.1.3",
       "src": {
@@ -9242,14 +9264,14 @@
     },
     {
       "name": "tree-sitter-query",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/vitallium/zed-tree-sitter-query",
-        "rev": "3de1c66db7735f70c07cb73132c146d28640b41d",
-        "date": "2025-02-01T11:15:02+01:00",
-        "path": "/nix/store/pqwdkrg6yisdqrarnhz09qyjqy15cyn5-zed-tree-sitter-query-3de1c66",
-        "sha256": "06hq0k08s3687qnan0l84cbcjrwdfmg0b7dy0cpmd6rsh0nk0l7m",
-        "hash": "sha256-9VAwLYA6m1YvA76dBV51jWfJFiOIAqssPsgMjcAEGBo=",
+        "rev": "9e84c74901ee6f180de0299a7af146644c9dc50a",
+        "date": "2025-05-03T15:47:48+02:00",
+        "path": "/nix/store/sny62kqaw1dy18ya4xn257fkcb6dlmys-zed-tree-sitter-query-9e84c74",
+        "sha256": "094l3xk33r6ic2lpra3f1qy5vg9hy8wf38mfcdgcd33xbv988a4y",
+        "hash": "sha256-niiE0l59jMZeY66i4TjyML1dPA5uqHypYNHkMWYflCQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12543,14 +12565,14 @@
     {
       "id": "latex_latex",
       "name": "latex",
-      "version": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
+      "version": "858af2c24547c8ab9386281ece6ead6936dbc8d1",
       "src": {
-        "url": "https://github.com/latex-lsp/tree-sitter-latex",
-        "rev": "a6c812704b3d3e1541b0853aa0d6d561301320e1",
-        "date": "2024-04-01T09:14:05Z",
-        "path": "/nix/store/h674v0z90f86isr78jzmm6xjivh42sh7-tree-sitter-latex-a6c8127",
-        "sha256": "0lcwsrfifh0l9rppr0yb6l64h2l78ai02cbck09kcjvaxv60x7il",
-        "hash": "sha256-NJ4OzO5qSzYTmGwxAaJChwpIDDXLg3xvThRAF13WnFE=",
+        "url": "https://github.com/497e0bdf29873/tree-sitter-latex",
+        "rev": "858af2c24547c8ab9386281ece6ead6936dbc8d1",
+        "date": "2025-04-03T08:26:16-05:00",
+        "path": "/nix/store/pvn6yxvys6w3asv9fc4c1zllw8ymg9bj-tree-sitter-latex-858af2c",
+        "sha256": "0mmck09jzad0p939nq37wpj6df9k5il6h3fk815rlidh31gga1y6",
+        "hash": "sha256-xgf1XhiwRZpLQNMNaGgsM7lm5OVnYJtGuqCpLxOYrFY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14258,6 +14280,23 @@
       }
     },
     {
+      "id": "tombi_toml",
+      "name": "toml",
+      "version": "342d9be207c2dba869b9967124c679b5e6fd0ebe",
+      "src": {
+        "url": "https://github.com/tree-sitter/tree-sitter-toml",
+        "rev": "342d9be207c2dba869b9967124c679b5e6fd0ebe",
+        "date": "2022-04-21T16:26:30-07:00",
+        "path": "/nix/store/xvm2402hfks55pl7hy6p6nmz9z9y7ypg-tree-sitter-toml-342d9be",
+        "sha256": "00pigsc947qc2p6g21iki6xy4h497arq53fp2fjgiw50bqmknrsp",
+        "hash": "sha256-V2c7K16g8PikE9eNgrM6iUDiu4kzBvHMFQwfkph+8QI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
       "id": "toml_toml",
       "name": "toml",
       "version": "342d9be207c2dba869b9967124c679b5e6fd0ebe",
@@ -14277,14 +14316,14 @@
     {
       "id": "tree-sitter-query_query",
       "name": "query",
-      "version": "5c2d02747250bc326bc33687b3319b7db8554e24",
+      "version": "930202c2a80965a7a9ca018b5b2a08b25dfa7f12",
       "src": {
         "url": "https://github.com/tree-sitter-grammars/tree-sitter-query",
-        "rev": "5c2d02747250bc326bc33687b3319b7db8554e24",
-        "date": "2025-01-19T16:46:54+01:00",
-        "path": "/nix/store/jpsxv6pxgkfdfmnlp4sx2mizd5sh94ak-tree-sitter-query-5c2d027",
-        "sha256": "04xa61dyz8ifpa4v23j9bx67fi6690jin989xipckggpp8i1p7vd",
-        "hash": "sha256-bZ8bIrr3vclu7AklGyVIxkR3TF9JDrGJui6i71swqhM=",
+        "rev": "930202c2a80965a7a9ca018b5b2a08b25dfa7f12",
+        "date": "2025-03-18T14:33:12+01:00",
+        "path": "/nix/store/y8xmri8yb7d3i527lmql4sa40k0rcmg7-tree-sitter-query-930202c",
+        "sha256": "0274iz2z55m29yk56lmb7sans2k6hpd0nzgrznfx3jwr8dm2jw5r",
+        "hash": "sha256-uXApakOZy9Gd/fl9C9qFZgptlT6rUlOmT6KW8sWP5Ag=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
