@@ -87,6 +87,7 @@ final: prev: {
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // lib.optionalAttrs (extension.kind == "rust") {
+        useFetchCargoVendor = true;
         cargoHash = extension.cargoHash;
       }
       // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {

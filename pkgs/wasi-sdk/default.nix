@@ -51,10 +51,20 @@ stdenv.mkDerivation {
   meta = {
     description = "WASI SDK for compiling C/C++ to WebAssembly.";
     homepage = "https://github.com/WebAssembly/wasi-sdk";
-    license = [
-      lib.licenses.asl20
-      lib.licenses.llvm-exception
-    ];
+    # See:
+    # 1. https://github.com/NixOS/nixpkgs/pull/217867
+    # 2. https://github.com/NixOS/nixpkgs/pull/390638
+    # TLDR: nixpkgs 23.05 introduced asl20-llvm, then 25.05 reverted back to use llvm-exception.
+    license =
+      if (lib.versions.majorMinor lib.version) == "24.11" then
+        [
+          lib.licenses.asl20-llvm
+        ]
+      else
+        [
+          lib.licenses.asl20
+          lib.licenses.llvm-exception
+        ];
     platforms = [
       "x86_64-linux"
       "aarch64-linux"
