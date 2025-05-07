@@ -4507,6 +4507,24 @@
       "kind": "plain"
     },
     {
+      "name": "kanso",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/webhooked/kanso-zed",
+        "rev": "dc06cdc4851a7d34c3b429a1eb588347e8fe9f18",
+        "date": "2025-05-06T12:06:44+02:00",
+        "path": "/nix/store/smjq4xgqv4pkkqxya3vhygxryc7lb9vm-kanso-zed-dc06cdc",
+        "sha256": "039r5iwp4rg6khl986abhdr3x6s0vyd142rcd2w1cnqh3iya4dpc",
+        "hash": "sha256-7DaifBwQWxa4aCwLEprfQJs+coNLGZQonOZlcnksOQ0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "kcl",
       "version": "0.0.1",
       "src": {
@@ -5245,14 +5263,14 @@
     },
     {
       "name": "mcp-server-axiom",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/mcp-server-axiom",
-        "rev": "4b78515733ff2e0c2df55f963ad9015b976b336f",
-        "date": "2025-03-20T13:35:22-04:00",
-        "path": "/nix/store/qz8yyj73dc2vjkbcrz507cirl4f6d5i9-mcp-server-axiom-4b78515",
-        "sha256": "1djrrrhbrmxrpd0zq5c3cw0nmdxkzjd0fbvqmcix3r5r03lyl1sk",
-        "hash": "sha256-Uwfq6QC55NEjq3gvB5r8s7dqAWeDFfxBu7nXvGDOWbY=",
+        "rev": "260d7972a7ff4d5d40edad613dfd29ecd8789228",
+        "date": "2025-05-06T16:44:08+02:00",
+        "path": "/nix/store/2417l5xyvgyy1ghj5q6cwlxilhf4hgd8-mcp-server-axiom-260d797",
+        "sha256": "1n97zsvj9dv5c6rbc27kq4r9l99369hw3bn5d68lg6xva08z8x5d",
+        "hash": "sha256-rXT0EVC7m0eRacWuwWEyIyWaMsHzCLayYWW3JLf+J9k=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5260,18 +5278,18 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-udFHfJ2H1gIcBwA4MmOjEvDa9jhJqKMGr23UbAbakrk="
+      "cargoHash": "sha256-1130Zwp+doHTUcb0JV/SwHaxAYmCPZXLp2ciJCyQi2c="
     },
     {
       "name": "mcp-server-brave-search",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/mcp-server-brave-search",
-        "rev": "67065e20ca79670a45b8b86a36244c0d8390005c",
-        "date": "2025-03-28T17:56:16-06:00",
-        "path": "/nix/store/30ls4qd8l8qfxn1a8nq8ip132w0vnj3i-mcp-server-brave-search-67065e2",
-        "sha256": "0la1w6rpn4kic2497qnyc9af2aw2q5hiilkgrqwqh1mjqg4spg0i",
-        "hash": "sha256-EbyrycOyBog5zm/SGGHBgivhVGLe4pOIYHESe7PhQVE=",
+        "rev": "0ca685da16905bdc5e240972b578fad67c40f16a",
+        "date": "2025-05-06T16:48:53+02:00",
+        "path": "/nix/store/vb5217x6yhfri8syj2wr40kf4wrylfid-mcp-server-brave-search-0ca685d",
+        "sha256": "1hcmkmcnkgmh7z9grs3gj6834bxwbj1zbp7jw5jpjrw0b1fqrj6p",
+        "hash": "sha256-18iMXViAZ3ll4fLc9YNcvC8ykJFv6PzSP7C+aVmdlcE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5279,7 +5297,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-rIKKh2iZJbBy7uuFWQjP3WqBrn6tbTanrLPXk6JNsho="
+      "cargoHash": "sha256-mRq34rh7syT4fqSZcUT2V7V5s7gL9xShqUKxg9mfh/E="
     },
     {
       "name": "mcp-server-context7",
@@ -7305,14 +7323,14 @@
     },
     {
       "name": "postgres-context-server",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/zed-extensions/postgres-context-server",
-        "rev": "1842d60d54b0148b4c59dd5ebc76b0eebdd5a9d5",
-        "date": "2025-03-27T19:20:17-04:00",
-        "path": "/nix/store/7cm60591nz87fwzcjq1vp07n54y87wjr-postgres-context-server-1842d60",
-        "sha256": "0qjf4k130y92v19i7b1z1z2ccxgykkyafbvc8kmlkn0qkh585qbb",
-        "hash": "sha256-a+GCCpwY2EnrRGwvp/yc/nXGxA8/rBNT2CJ5MMIkTmI=",
+        "rev": "18420a1e739fd17766b0f969e8f08ea45675c7b6",
+        "date": "2025-05-06T16:30:14+02:00",
+        "path": "/nix/store/6y9lyiaikcgn6fbpn48ah0s6vqs5n5bd-postgres-context-server-18420a1",
+        "sha256": "012dk9cpxy2frh2v8yp1pqjwzqqc4p5xb2np8r4b2sw0v4iwqcwr",
+        "hash": "sha256-mTPMI9mAa7FIRteK1cslDOPPJb7herQFzE74flmaTQQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7320,7 +7338,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-A0qxZMgaDCStuSZfK4T4bcmqXe7LPITAwlkeUGUozJE="
+      "cargoHash": "sha256-MzoPZi5BKGS6G/7s5v8lwRUgSXe+Z+ymJKSV7r4h6/0="
     },
     {
       "name": "postgres-language-server",
@@ -8054,14 +8072,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.5.6",
+      "version": "0.7.0",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "4f28e5eba78702b2289b6fd7a2a9029e157a28ba",
-        "date": "2025-04-30T20:41:55+02:00",
-        "path": "/nix/store/dgr1flzv2sizxdav9y46j2jy0y3ffk8d-ruby-4f28e5e",
-        "sha256": "0w1ndlx8k35l3pc8dzb167vszsfnmrhsb09np56xavp4b7blahsz",
-        "hash": "sha256-X0NF11nkbtVNuTaBpWGu1umv9zFh/YbYHbSMiTptNnA=",
+        "rev": "9935ecfde9003ec0f865c3d7e9d956fd9b4f0968",
+        "date": "2025-05-06T19:40:12+02:00",
+        "path": "/nix/store/8nqq3cndfyz7sca6jnwrxbs7z2hm6dsr-ruby-9935ecf",
+        "sha256": "1ln102xfc7x973z8a2y8rkl19agid5jd6j4w5zgpy0v335vbaj02",
+        "hash": "sha256-Aki1dhljA3/fL5xI02Rp8akU6MzIC4X+OKkf5roAwdI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8073,7 +8091,7 @@
         "ruby_ruby"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-3qXGRuVC5R9BRKi7mqpQyuAYz0mWG0TR90hifMldc9k="
+      "cargoHash": "sha256-THRN+FgoaRkfUfivLyl42vM0xDGtNx5+CMYkqSkhLro="
     },
     {
       "name": "ruff",
@@ -8263,6 +8281,24 @@
         "path": "/nix/store/c1l801kdmilnh1n9bml9nm0klphjnxw4-Serendipity-Theme-Zed-a666bef",
         "sha256": "11daphsllm6ix9dpdh2gqaw7xwvdd186ygcpdnp09n8ygfyyh18z",
         "hash": "sha256-HwXovXse2QSubZc9b1BobfN+uMJPwHZb6tFUSjW8qoU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "seti-icons",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/d1y/zed-seti-icons",
+        "rev": "b69b82c8351460d091cff9d4f17a8e307b597585",
+        "date": "2025-05-06T19:23:49+08:00",
+        "path": "/nix/store/82jd9pgzw2gzpl2ng4svfflzd7gp1h8j-zed-seti-icons-b69b82c",
+        "sha256": "11r8mfvivk1jn8pm3lwyjs6lgfhcscdc9bpkhi0d243ny8n13xga",
+        "hash": "sha256-6vURLPJ2ENFAhPOuxBrTDLpHjZae01EvsjLMHberKIc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10131,14 +10167,14 @@
     },
     {
       "name": "wakatime",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "src": {
         "url": "https://github.com/wakatime/zed-wakatime",
-        "rev": "12462f4908145172122bc7bcfd75e5644886f12a",
-        "date": "2025-03-07T10:03:45+08:00",
-        "path": "/nix/store/ggpvz76rn5qzk7bn5zdvs9hzcf9yjpjl-zed-wakatime-12462f4",
-        "sha256": "1d55bl3bsipaaala3x9nnjwrysg6kas29qhzdifvfwacs56mh21z",
-        "hash": "sha256-PwhYTdFMcbddbB/iJLSa5mmfubQ29aGoUupGvQZdpbQ=",
+        "rev": "6be3ac09978b9a5a004f5479a2fe8a18de86d67f",
+        "date": "2025-05-06T11:26:43+08:00",
+        "path": "/nix/store/ghyb7wq80d6qfds4y5v9v11wnbggiiw9-zed-wakatime-6be3ac0",
+        "sha256": "0djhckbrss3kymn1kvfbj0yj0v9ppnkx94gl6a084mzx43kjw8hr",
+        "hash": "sha256-GSIu5yD9V4KAMvSR1Ke9N20gPZDL7Rls9XNonddkUDY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10146,7 +10182,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-Pq071cJZDnSW2oDAzHHDqg2XGf6qTOLEBAZ8Of7iVuo="
+      "cargoHash": "sha256-lKQ6U9mgdquoxBC/T3ZFlDtz1L4DTEGX5ZrCwOsPCEA="
     },
     {
       "name": "wakfu-theme",
