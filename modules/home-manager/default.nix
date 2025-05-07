@@ -7,6 +7,11 @@
 
 let
   cfg = config.programs.zed-editor-extensions;
+  extensionsDir =
+    if pkgs.stdenv.isDarwin then
+      "Library/Application Support/Zed/extensions/installed"
+    else
+      "${config.xdg.dataHome}/zed/extensions/installed";
 in
 {
   options.programs.zed-editor-extensions = {
@@ -23,7 +28,7 @@ in
   };
 
   config = lib.mkIf (cfg.enable && cfg.packages != [ ]) {
-    xdg.dataFile."zed/extensions/installed" = {
+    home.file.${extensionsDir} = {
       recursive = true;
       source = pkgs.runCommand "zed-extensions-installed" { } ''
         mkdir -p $out
