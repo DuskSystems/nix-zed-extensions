@@ -15,8 +15,22 @@ jobs:
       matrix:
         include:
           - runner: ubuntu-24.04
+            nixpkgs: github:NixOS/nixpkgs/nixos-24.11
+
+          - runner: ubuntu-24.04
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
+
           - runner: ubuntu-24.04-arm
+            nixpkgs: github:NixOS/nixpkgs/nixos-24.11
+
+          - runner: ubuntu-24.04-arm
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
+
           - runner: macos-14
+            nixpkgs: github:NixOS/nixpkgs/nixos-24.11
+
+          - runner: macos-14
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
     runs-on: ${{ matrix.runner }}
     steps:
       - name: Checkout code
@@ -27,29 +41,23 @@ jobs:
       - name: Install Nix
         uses: nixbuild/nix-quick-install-action@v30
 
-      - name: Cache Nix
-        uses: nix-community/cache-nix-action@v6
-        with:
-          primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
-
       - name: Test extensions
         shell: nix develop --command bash {0}
         run: |
           set -euxo pipefail
 
           # Plain
-          nix build .#zed-extensions.catppuccin
+          nix build .#zed-extensions.catppuccin --override-input nixpkgs ${{ matrix.nixpkgs }}
           tree result
 
           # Rust
-          nix build .#zed-extensions.nix
+          nix build .#zed-extensions.nix --override-input nixpkgs ${{ matrix.nixpkgs }}
           tree result
 
           # Monorepo Plain
-          nix build .#zed-extensions.aura-theme
+          nix build .#zed-extensions.aura-theme --override-input nixpkgs ${{ matrix.nixpkgs }}
           tree result
 
           # Monorepo Rust
-          nix build .#zed-extensions.ruff
+          nix build .#zed-extensions.ruff --override-input nixpkgs ${{ matrix.nixpkgs }}
           tree result

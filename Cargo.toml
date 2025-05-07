@@ -3,8 +3,8 @@
 name = "nix-zed-extensions"
 version = "0.0.0"
 authors = ["Cathal Mullan <contact@cathal.dev>"]
-edition = "2024"
-rust-version = "1.85"
+edition = "2021"
+rust-version = "1.82"
 repository = "https://github.com/DuskSystems/nix-zed-extensions"
 license = "GPL-3.0-or-later"
 publish = false

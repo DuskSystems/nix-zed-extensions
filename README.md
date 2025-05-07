@@ -178,6 +178,7 @@ buildZedRustExtension (finalAttrs: {
     hash = "sha256-2+Joy2kYqDK33E51pfUSYlLgWLFLLDrBlwJkPWyPUoo=";
   };
 
+  useFetchCargoVendor = true;
   cargoHash = "sha256-F+qW+5SIiZNxdMSmtiwKj9j73Sd9uy5HZXGptcd3vSY=";
 
   grammars = [
