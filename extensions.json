@@ -4471,6 +4471,25 @@
       "kind": "plain"
     },
     {
+      "name": "just-ls",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/sectore/zed-just-ls",
+        "rev": "42c110570912ae1f1d4ac796a62fec6dff51ac26",
+        "date": "2025-05-05T20:35:55+02:00",
+        "path": "/nix/store/93dwws16vr4778ycql0wh4fz9jqbqwj8-zed-just-ls-42c1105",
+        "sha256": "13p99q29g838h8xdcfz31kszpymhnz9bm9kh8lpa3rvbp7yc3lb8",
+        "hash": "sha256-aNHB/Llr56EuRXCmutK3sPr79QzjO9Y6gmiglwRO6Y4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-iN+bPM6GPhA92bTXW4qf4UH3XcZldFH3pbXLa9+/dwo="
+    },
+    {
       "name": "kamui-dark-theme",
       "version": "0.0.1",
       "src": {
