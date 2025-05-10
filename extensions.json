@@ -464,14 +464,14 @@
     },
     {
       "name": "astro",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "src": {
         "url": "https://github.com/zed-extensions/astro",
-        "rev": "65ac3712948443cd9136adf069b2c7f9e22771eb",
-        "date": "2025-04-04T16:28:53-04:00",
-        "path": "/nix/store/xrycy6a55riip35qv1vkrgsfwka09qkp-astro-65ac371",
-        "sha256": "1bl3c4i45kkh9khpb6b0mxkgmgmc0jl8ipzqhlhmkghzxiak277l",
-        "hash": "sha256-9BwxVewfvlkhhfjfiKgErL76Zq9gmXXhTHDOQiJhg64=",
+        "rev": "a2436025528f2689a8c738fadf270a59a9006909",
+        "date": "2025-05-05T05:06:48+05:30",
+        "path": "/nix/store/csdf87lhsfwfylrjljsaxscfbjmvx0vk-astro-a243602",
+        "sha256": "077f9kxpj4gskgbcnd773hbi23cbh6k9iwx8ivacrghh286jqs99",
+        "hash": "sha256-KWksDRIQvszUjqjzmKaBiw0RFxznNMvWm/oReftM7hw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -481,7 +481,7 @@
         "astro_astro"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-BYFNKmu3d6kzErEnvgXoqDDhCnvm/I/oRFYmg61n9Iw="
+      "cargoHash": "sha256-+yGXmVgzu6QjxOExiwJ6XatBVrMSN49Z2SpelXfsTvU="
     },
     {
       "name": "atomize",
@@ -1184,14 +1184,14 @@
     },
     {
       "name": "cairo",
-      "version": "0.0.5",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/trbutler4/zed-cairo",
-        "rev": "d04089f5dd8011c48572b2d8f1c9f3637fcdd97c",
-        "date": "2024-09-04T08:21:00-05:00",
-        "path": "/nix/store/hhvijdzhd3zaphlhnkwv61wqdndzdapz-zed-cairo-d04089f",
-        "sha256": "0yzbnv9s6wzr7cj9ns156jzyfxx75ymwv6lcfwa0xiwml3c1hrdi",
-        "hash": "sha256-sWUY2KCVxw4Ud4yazasvp3fnvzQlaJskO/lzo9O263s=",
+        "rev": "9a21361c1ead086fb481f83d39c1e902715b23f8",
+        "date": "2025-05-07T21:27:04-05:00",
+        "path": "/nix/store/iq83rbnszqx68h5r5iminhn1qm3n0f9w-zed-cairo-9a21361",
+        "sha256": "058j5kwp2icz3lw999vvqdnrnn851cji1nhlb8bam21wl11l2b1r",
+        "hash": "sha256-OSxBQ6A8iKoWWhTaECULBVmbbcN7p5Q4HZ9FcfksEhU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1201,7 +1201,7 @@
         "cairo_cairo"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-35rNS3cTMpBmTdRheoKqhXdpJEFr16RRZ5vYJ4HHYss="
+      "cargoHash": "sha256-P7S8RfPVslSFoHT5brk97ABea9+qZXRvFTYUvVDGYZk="
     },
     {
       "name": "call-trans-opt-received",
@@ -1471,14 +1471,14 @@
     },
     {
       "name": "charmed-icons",
-      "version": "0.6.1",
+      "version": "0.7.1",
       "src": {
         "url": "https://github.com/jmesrje/zed-charmed-icons",
-        "rev": "0c37be29ca5d0b59a38815c635f097744d94431d",
-        "date": "2025-03-07T23:36:43-06:00",
-        "path": "/nix/store/2rb58sbmp34mg2vxsq0z5ff7cvsdj0nf-zed-charmed-icons-0c37be2",
-        "sha256": "07b4gyzdskk489vxnmk80g6jnhb9w8nh6pkq42vqbdhbqmcirqqf",
-        "hash": "sha256-DuMcWcULtoW3IHheAy3iaUErzQNoVtt3QmRO3b5/ZB0=",
+        "rev": "691c573ce3e873b30fd8c02bcd76bce8a687173f",
+        "date": "2025-05-07T20:19:21-05:00",
+        "path": "/nix/store/l68nxcf2vp7plgm8az40mx8jqa1rr0cz-zed-charmed-icons-691c573",
+        "sha256": "0krqnm67wdgsk6w2zimhq67xn7958ksmw4nkpsyyyfcv4aipy45w",
+        "hash": "sha256-vBB/oyKbOe+9vtMSXvVEJR3bj8Gwxi+4mfo1fky1OE8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3172,14 +3172,14 @@
     },
     {
       "name": "gentle-dark",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "src": {
         "url": "https://github.com/gentlelionstudios/gentle-dark-zed",
-        "rev": "56e2dde6c7212214ddb6ee1eec989c0de589f7d5",
-        "date": "2025-02-01T15:57:31-06:00",
-        "path": "/nix/store/59f8q9rkf2d7n3lvcm84sacb93dbyg4p-gentle-dark-zed-56e2dde",
-        "sha256": "1b3nlfynafdhisd8kdyakqc6i4slj7nq0n3s0jczsxrw6nvw667x",
-        "hash": "sha256-/RjDtzU8d/2ZBHpYgO2RVJNoGJ7Kt4majrA5Zb2jdqw=",
+        "rev": "c2ed031bbb484afe4c018b934019b974f97245b9",
+        "date": "2025-05-07T19:46:20-05:00",
+        "path": "/nix/store/q8m1nciclihiqpzbpphrb2wdl9g4wh1c-gentle-dark-zed-c2ed031",
+        "sha256": "0swj9n10qxaa87z2kzpi5ca2zcsvdmzf0ri9nljakm54h19h3ij9",
+        "hash": "sha256-ScYBU4Ck1KkktSlm4H5tW7MvFCvx/in+QUp1DIJNkms=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5608,6 +5608,24 @@
       "kind": "plain"
     },
     {
+      "name": "mnemonic",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/mnemonic-theme/zed",
+        "rev": "955ec720c290fe7944ad0f528988907ed732d8d2",
+        "date": "2025-05-09T03:29:24-04:00",
+        "path": "/nix/store/4d9z62xp9hxm44lk014vakc6mxn45nmn-zed-955ec72",
+        "sha256": "1nivm62izf3vrcwhivm71ylf125d0s98xwlhz0wn112jrwvrva28",
+        "hash": "sha256-SKidN89ShGA5+JDyjpIGrYjgqA+n7gg5y3u4H4WpO9o=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "modest-dark",
       "version": "0.1.7",
       "src": {
@@ -6256,6 +6274,24 @@
       ],
       "kind": "rust",
       "cargoHash": "sha256-8KleSHSnuombvyvuAXaqWVlffWFjti54xD6aXQ+2MD4="
+    },
+    {
+      "name": "noir-and-blanc-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/chaseweaver/noir-and-blanc",
+        "rev": "cb295f37a9bc02de35b53c75f64303d9bc0e96e1",
+        "date": "2025-05-08T11:55:14-04:00",
+        "path": "/nix/store/f58hhdg21cmzjbzsx2ar9ldn9cfx7zj5-noir-and-blanc-cb295f3",
+        "sha256": "1bwllb61h6jh2vfykqn1nsmafp6g7yv6j91y32y3jd122d38ngcg",
+        "hash": "sha256-jz2LRhMiNDm8GD4kabY/z1ynqrbB4undFlAaGMyilK8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "nord",
@@ -8091,14 +8127,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.7.1",
+      "version": "0.7.3",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "c4bd1dfe10141b68e8a09ebe6a51748a53652910",
-        "date": "2025-05-07T17:26:23+02:00",
-        "path": "/nix/store/g2zkdcgmzxm0sm8n033kgxak5dn16fdi-ruby-c4bd1df",
-        "sha256": "0rv5di073xmf734jcycads7vdn64q1cpqm04x67l3wi2j3iw9b4p",
-        "hash": "sha256-l6zE45Ai8kGP6QRUfFnAxNi2j26KeSbJOK72cUBsZWc=",
+        "rev": "ec7c1efddd598fa7b8d86f15d2f507861dbcd457",
+        "date": "2025-05-08T10:29:49+02:00",
+        "path": "/nix/store/4cqrcxylm10pvdays1p2wzk6ckc9vhjx-ruby-ec7c1ef",
+        "sha256": "1nnq471qi2fy4p7zsm6xi3wkisyqv195xn9d3jhr1dvphm3ws5rh",
+        "hash": "sha256-MBfNR4V3t5ChHC3ZXlLY2Os4+YjdVP3PJd6JiMMh2No=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8110,7 +8146,7 @@
         "ruby_ruby"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-b+H/Mut4NX1eGXvAaxy1Ce2nmvc1Gj2ctOUacTwoGCA="
+      "cargoHash": "sha256-WJVoaOzVRcDF/UETDjWXNts/xRtpiDVhFvMkslYIqtQ="
     },
     {
       "name": "ruff",
@@ -8949,14 +8985,14 @@
     },
     {
       "name": "supergreatmonokai",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/SuperGregM/SuperGreatMonokai-Zed",
-        "rev": "16c053033d8f8b7c0504923b10e183e67113fd22",
-        "date": "2025-04-07T20:20:16-07:00",
-        "path": "/nix/store/b9zxd7fb9h21nrqqfiki4a5m5q59kf8k-SuperGreatMonokai-Zed-16c0530",
-        "sha256": "1gbgwv1cxh2mjma3gcki3a98cirbgaw1ir6xdn81aspirh947kx9",
-        "hash": "sha256-qc9DEszxahWQbd3kGLh6K0eGkhpxsjdUlVXAzsLmb70=",
+        "rev": "28db92fb04307e31600b2308903d67152e12464e",
+        "date": "2025-05-07T21:45:33-07:00",
+        "path": "/nix/store/cj1h03vpnj6y8crqpjk1nd31z5h2m37s-SuperGreatMonokai-Zed-28db92f",
+        "sha256": "1amsnsyv4bzhg4c9nzxr5ca0sn7ckk4k6rcn4m5dl37yz0l2q5jn",
+        "hash": "sha256-VhYsKPj+DNpKJZZlM8mc7FgNFCu5f5sYefAvsr22uqo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10111,14 +10147,14 @@
     },
     {
       "name": "vscode-great-icons",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/RandaZraik/zed-vscode-great-icons",
-        "rev": "b32c34fe302181348abc74d081017f273b73ba9b",
-        "date": "2025-03-21T13:22:17+02:00",
-        "path": "/nix/store/m8c2rj0wz797jqw8q8mnky3dhc9rdamq-zed-vscode-great-icons-b32c34f",
-        "sha256": "0cxc988p3f1j52qwv66hca08h7n2w79lrm09rp6j957gvgir8j53",
-        "hash": "sha256-o0iU49vvlCTNzQnUTNPhwh6IgGLQmM2xKDK4cRFKrDM=",
+        "rev": "34b6017689319e42a1382200a94025a63badd892",
+        "date": "2025-05-08T13:03:43+03:00",
+        "path": "/nix/store/xvh8l8dqafv0a5ws0rlxk5cvys940k0x-zed-vscode-great-icons-34b6017",
+        "sha256": "0m4nj9d876kr602wcs0n81bb4346gssvpvdglikqjxw8zjhasdbr",
+        "hash": "sha256-eTWtoPyId4lnpK/tu7V+hgyyVkAWaMYFMHmag1qSllQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10165,14 +10201,14 @@
     },
     {
       "name": "vue",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "src": {
         "url": "https://github.com/zed-extensions/vue",
-        "rev": "c510e91abcfc5842bbeb31db557fbcd217604bf9",
-        "date": "2025-04-25T12:56:40-04:00",
-        "path": "/nix/store/n8wq11krcxqkx78yl9g9vs1adng18d3c-vue-c510e91",
-        "sha256": "0y90jqh3q8r730zjvi48l8x02wk501xr39m64wl1aj9gs4spfanx",
-        "hash": "sha256-3Sp3NdEvSRUoJ6amkXsAZXIBOqKIxC0/GCcjPCCWIHk=",
+        "rev": "3704e9c6183fb91b45a4b6a9211fc387b64ee591",
+        "date": "2025-05-05T05:03:30+05:30",
+        "path": "/nix/store/204nf3r23qm50ick0wfqcmc2lmrm99z7-vue-3704e9c",
+        "sha256": "1hi07r62pqwzypj4zaxs0vcn58ylny8wcbbldfkp694gi93n5mgl",
+        "hash": "sha256-9NViR4qPJHOna3QtxpG31KNi2Qa6q0/k9Z/jK0w+IMI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10182,7 +10218,7 @@
         "vue_vue"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-1C+p2JuMu6bLfBUmwUGkejV+j2aGNQCw2N3GJd4lgbg="
+      "cargoHash": "sha256-vX4xu3iR/TJRurZEx4EnS1tmMh2gRdLupiYplfv/Dao="
     },
     {
       "name": "wakatime",
@@ -11080,14 +11116,14 @@
     {
       "id": "cairo_cairo",
       "name": "cairo",
-      "version": "d5733e05aa19ab69a47026780b1cece213d3e015",
+      "version": "4c6a25680546761b80a710ead1dd34e76c203125",
       "src": {
         "url": "https://github.com/starkware-libs/tree-sitter-cairo",
-        "rev": "d5733e05aa19ab69a47026780b1cece213d3e015",
-        "date": "2024-07-26T11:44:02+02:00",
-        "path": "/nix/store/c4j87svzramv7i7mpy0kj53dg6zp2qsp-tree-sitter-cairo-d5733e0",
-        "sha256": "0aa6wc979axaj9g741r1in9wfjjph9ykpg03wlwf9n2y60641k8a",
-        "hash": "sha256-Cs1ADDBe2OQ45QO8O32CV0rHk40hB3JekqqrdBLjRik=",
+        "rev": "4c6a25680546761b80a710ead1dd34e76c203125",
+        "date": "2025-01-27T18:25:16+01:00",
+        "path": "/nix/store/zrs9yydnnillvxr2ai0fs1d5kalprwck-tree-sitter-cairo-4c6a256",
+        "sha256": "1aj4f3zgb87ckj4dklw9kmfqldhxwhx0kvhyvzjm0zjf9qlgqj92",
+        "hash": "sha256-Ikn8KE5OflDl3x7uCTrkHTaKXZ2J09mInOyg9f5wRKo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
