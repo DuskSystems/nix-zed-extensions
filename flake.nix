@@ -6,6 +6,10 @@
       url = "github:NixOS/nixpkgs/nixos-24.11";
     };
 
+    nixpkgs-unstable = {
+      url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    };
+
     rust-overlay = {
       url = "github:oxalica/rust-overlay";
       inputs.nixpkgs.follows = "nixpkgs";
