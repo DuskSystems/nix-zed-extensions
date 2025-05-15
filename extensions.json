@@ -9693,6 +9693,28 @@
       "kind": "plain"
     },
     {
+      "name": "ty",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/zed-extensions/ty",
+        "rev": "6fee7c6771ebd6017fd2f8d70032a5019f08d77c",
+        "date": "2025-05-14T17:06:09+02:00",
+        "path": "/nix/store/pfn6w044m0aaxnqy6fr6gbb1d5fjdlpd-ty-6fee7c6",
+        "sha256": "1ijcm1aa6y5hnllx9fs1riqgkb0w8y1jznw67q7pzqp7ck19i72q",
+        "hash": "sha256-WJyYwmTn4n8PPobbL4NHHKz5cMxBu9QptbB4o1SoTMY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-pujnJAoE9ygWekvpZRMtHXCYqdj15/34BALRBq/Jx9I=",
+      "cargoLock": {
+        "lockFile": "/generated/ty.lock"
+      }
+    },
+    {
       "name": "typos",
       "version": "0.0.5",
       "src": {
