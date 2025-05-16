@@ -1830,14 +1830,14 @@
     },
     {
       "name": "crates-lsp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/appelgriebsch/zed-crates-lsp",
-        "rev": "91232c0c08b285a5c43255d25f145bf52ded5132",
-        "date": "2025-05-04T18:12:57+02:00",
-        "path": "/nix/store/9sisbv8zyzir35lmwr1fc7k1r8hhvp5m-zed-crates-lsp-91232c0",
-        "sha256": "0hsfs742v55y4mjmvzlc0fwsb2qnqp3vzx0978kzy1dc3cjb5jvv",
-        "hash": "sha256-e8uyJBusBf8nOgn0v8fFFouluQOM/l1lJb6ULcjRTkM=",
+        "rev": "b3ed0a7d4529048f3dd06409625d8d4cde094dfd",
+        "date": "2025-05-13T17:51:19+02:00",
+        "path": "/nix/store/jq5fzskcwsrfrpc1sj6b0q3kyd11b7wa-zed-crates-lsp-b3ed0a7",
+        "sha256": "0xjj8ijc4q0njgjxv3r791y7cm8y40aqwhgaaswxisidbppqhx8z",
+        "hash": "sha256-H3WI710t6ti5VupBjhUgHlV2fEgnj93lkxZgwmREUnY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1845,7 +1845,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-VjW1ijPhSyuZoIFGPMRC1lzbNcfwaM57hlCIShE8rsM="
+      "cargoHash": "sha256-+yAg0WaNPXrys+d1Xy8ODtQxg+D03XYsvooc2iTUc6k="
     },
     {
       "name": "crimson-theme",
@@ -3251,14 +3251,14 @@
     },
     {
       "name": "github-activity-summarizer",
-      "version": "0.4.0",
+      "version": "0.5.1",
       "src": {
         "url": "https://github.com/rubiojr/gas",
-        "rev": "e2a01709d4056629861dca6c1793ac09e1027f01",
-        "date": "2025-03-28T15:35:59Z",
-        "path": "/nix/store/xbqzbpwgf9ic8x149xp3qdy16dq2j7zb-gas-e2a0170",
-        "sha256": "1749bky9mrn5msl45cdaab63af12mxwzv2vbf1kfrh8zvqphz8wr",
-        "hash": "sha256-maMPL94fwexmcGuL/XmvIjg1zFKqsUKorsXmmvxciZw=",
+        "rev": "f7bc45238f40d3a70e0c071483a914604944da14",
+        "date": "2025-05-08T14:39:08+02:00",
+        "path": "/nix/store/a3f9kj4iv10avf3nxw8r9rj3jwrbx5fm-gas-f7bc452",
+        "sha256": "1n1f22hyxm6krysiq7fppwah95dkcdfdcy78asdbvggzwn3q4apr",
+        "hash": "sha256-+SqCh+X/vb2aVuh41lxjs5UEFb/XHRy1z9PU7qEQLtg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3266,7 +3266,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-4R3qaW7gvMGDZZRGdjgz8nJFi7XfLbhZKqehDOkieJw="
+      "cargoHash": "sha256-3e0HEr+dRLDP4f09pNOmib5p0orgix40Qeb59QGDxKU="
     },
     {
       "name": "github-copilot-theme",
@@ -4941,14 +4941,14 @@
     },
     {
       "name": "live-template",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/jekst/zed-snippets",
-        "rev": "c9519f1b379a8e3710051faf0f77145b6ffae360",
-        "date": "2025-05-13T17:47:18+08:00",
-        "path": "/nix/store/nxhc20zwbip0y230yfcc90x8w19njxmn-zed-snippets-c9519f1",
-        "sha256": "0jcz825wk1wd028jjjl2w67yfd3s2gfbbyyd0w4318w5q9gp8dsn",
-        "hash": "sha256-Vjd0X8KFozAIB837tdwTejTnj+GCSimRAI2HyYtAn0k=",
+        "rev": "ee1d55012d818157661cedbecc9e2104c6612c8c",
+        "date": "2025-05-14T12:16:03+08:00",
+        "path": "/nix/store/kvm9fbi8kjn75y7c9grhz69zcdi0md08-zed-snippets-ee1d550",
+        "sha256": "03j02334j707bmsh9qldl1szdk7sczgnsmnaxs4vzh2flnhgv26x",
+        "hash": "sha256-3Yj9oKVOwL+J7spWbd9n+sz2daCN4gR1XQccScYQQA4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5430,6 +5430,28 @@
       "cargoHash": "sha256-mRq34rh7syT4fqSZcUT2V7V5s7gL9xShqUKxg9mfh/E="
     },
     {
+      "name": "mcp-server-buildkite",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/mcncl/zed-mcp-server-buildkite",
+        "rev": "1bce43f67debef32d2e8d34a93f62b4dc0cc10cd",
+        "date": "2025-05-08T13:08:54+10:00",
+        "path": "/nix/store/84rxlg71g21klbcpby3nv1z8s2pgndiq-zed-mcp-server-buildkite-1bce43f",
+        "sha256": "0jh71wsqgzlh6pxdpn3958cvyk81y9bm87jazr2xm2w6x969s5pp",
+        "hash": "sha256-9xadTOqGi9pF/koeVFfyAU2/GSpp2Nv6NZD+hzUPB0o=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-FoTuenGMpJDKN+tS/1uU54+Q0RoTA4FV/P9gLRaqfoQ=",
+      "cargoLock": {
+        "lockFile": "/generated/mcp-server-buildkite.lock"
+      }
+    },
+    {
       "name": "mcp-server-context7",
       "version": "0.0.2",
       "src": {
@@ -5544,6 +5566,25 @@
       "cargoHash": "sha256-eWstNAesGM/JZ3lvISKmfHEjPGtjcBe3EX4Y8Ikh36Y="
     },
     {
+      "name": "mcp-server-grafana",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/sd2k/zed-mcp-grafana",
+        "rev": "2d5a5b553821c7a9cce0daa075dbd750a8492473",
+        "date": "2025-05-14T09:53:51+02:00",
+        "path": "/nix/store/ks05aliyfbqx10ccjvnkay8dldm887s9-zed-mcp-grafana-2d5a5b5",
+        "sha256": "0m5pp45x962qscmc12z7jsfb14r6x3h6kvf0yank8v3rdhxrp5ab",
+        "hash": "sha256-S5WbO2x5bDSt8sDtaeDoJpOwnJbni8Aq01iY1Au5t1Q=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-tc4Z5yY0gOfyfA0uKJGo3nd7dZ3gChnlwjEELA2CcGg="
+    },
+    {
       "name": "mcp-server-linear",
       "version": "0.0.1",
       "src": {
@@ -5618,6 +5659,25 @@
       "grammars": [],
       "kind": "rust",
       "cargoHash": "sha256-qI3f+oU8+ZZX/nIEqqOFrZ/MAC8qt5EdqwgV0R9eyeM="
+    },
+    {
+      "name": "mcp-server-slack",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/semioz/zed-slack-mcp",
+        "rev": "839c3f6777a4a2c06953385e0e026a3912e7df7a",
+        "date": "2025-05-09T20:32:56+03:00",
+        "path": "/nix/store/1ligji9hch35g9vp8sisirdkmpzg00cg-zed-slack-mcp-839c3f6",
+        "sha256": "02yflznxl8473602jyiwcczbd89bcr7flqvhj7qq2sndpzhqs5wd",
+        "hash": "sha256-jReN4b/NaoHxkXBj6k5mK6G2PmM8eimAGYcg2u2nzgs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-Af3mdDE/Em5oeuoTCz7iU16S+rDhsfwVstln+x6+zZo="
     },
     {
       "name": "mcp-server-webflow",
@@ -9694,14 +9754,14 @@
     },
     {
       "name": "ty",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/zed-extensions/ty",
-        "rev": "6fee7c6771ebd6017fd2f8d70032a5019f08d77c",
-        "date": "2025-05-14T17:06:09+02:00",
-        "path": "/nix/store/pfn6w044m0aaxnqy6fr6gbb1d5fjdlpd-ty-6fee7c6",
-        "sha256": "1ijcm1aa6y5hnllx9fs1riqgkb0w8y1jznw67q7pzqp7ck19i72q",
-        "hash": "sha256-WJyYwmTn4n8PPobbL4NHHKz5cMxBu9QptbB4o1SoTMY=",
+        "rev": "5d24c82ab396c9cdb38ba23be53ac5e1a5d29dfd",
+        "date": "2025-05-15T10:50:13+02:00",
+        "path": "/nix/store/11krm8f8x6s7nnkwfw4xhyl0qd00v41y-ty-5d24c82",
+        "sha256": "0s1pq29sdh630ha4x3n5qsiis5qjzcl1l87k42akp69ak1xbbi7k",
+        "hash": "sha256-88S1epgqmTuVIPMgGij7Ehcdo8bFjk4UBMPAppPAN2g=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9709,7 +9769,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-pujnJAoE9ygWekvpZRMtHXCYqdj15/34BALRBq/Jx9I=",
+      "cargoHash": "sha256-gJhNCHVPl3nN48xHvOSLvfv5Z/RaK+cOloFG0SWG9H0=",
       "cargoLock": {
         "lockFile": "/generated/ty.lock"
       }
@@ -9780,14 +9840,14 @@
     },
     {
       "name": "ultimate-dark-neo",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "src": {
         "url": "https://github.com/rubjo/ultimate-dark-neo-zed",
-        "rev": "222125d41e732da0754133e9eb7587ef711dc204",
-        "date": "2025-03-06T11:02:40+01:00",
-        "path": "/nix/store/im09ddk8m6h0050qn2xgv6r8j35hhxfg-ultimate-dark-neo-zed-222125d",
-        "sha256": "1zw1r59zvhrmym9w3dflfbwqhqasylqgjzz3cfxhc3gq2zazmyb7",
-        "hash": "sha256-Z/n61Rf4DQa7Y+N/+TD1WmGI+XLUtcFT9TXD/VPJgf8=",
+        "rev": "91d4b3afbe8b973b40b4ac01c47783f7e5716463",
+        "date": "2025-05-14T07:41:38+02:00",
+        "path": "/nix/store/s1fgigfd11ppxvhf54mw76q3k8qyvrnc-ultimate-dark-neo-zed-91d4b3a",
+        "sha256": "05ky0i7slfzf305dlra4vyj48vghn3br2677rliwjippi3wg9i30",
+        "hash": "sha256-YMT0+Ij3RskjzecYkdew8G1EpN9EZdoKGO47qk8EfhY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
