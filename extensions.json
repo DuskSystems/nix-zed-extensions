@@ -1372,14 +1372,14 @@
     },
     {
       "name": "catppuccin-icons",
-      "version": "1.19.0",
+      "version": "1.20.0",
       "src": {
         "url": "https://github.com/catppuccin/zed-icons",
-        "rev": "9b64f88b0a33c5f3b99c0040d62525bb44664484",
-        "date": "2025-03-21T22:50:37-07:00",
-        "path": "/nix/store/hm4qn1mii2qr6d8sqs44lax4ahx0nxy3-zed-icons-9b64f88",
-        "sha256": "1icycn1ndxdr3kv1smk0y0jr2g4a05gni1ja0lmijjkjybshhbnm",
-        "hash": "sha256-1S4I9fJyShkrBUqGaF8BijyRJfBgVh32HLn1ZoNlnsU=",
+        "rev": "6dfced3e4a9a56f1b13549d4ea7690c0fc3e136c",
+        "date": "2025-05-15T22:48:41-07:00",
+        "path": "/nix/store/s224yarxbk8gbr5i0vgyh5p7gshx2d3w-zed-icons-6dfced3",
+        "sha256": "1f0jqva1kab10ad68cis9c7bigzcks4hc7ncypyr9lkbvllhg0jr",
+        "hash": "sha256-WYIHKd1r0pT99cweBome7L+4Dks6MmSaAmGpGdTGErg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5431,14 +5431,14 @@
     },
     {
       "name": "mcp-server-buildkite",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/mcncl/zed-mcp-server-buildkite",
-        "rev": "1bce43f67debef32d2e8d34a93f62b4dc0cc10cd",
-        "date": "2025-05-08T13:08:54+10:00",
-        "path": "/nix/store/84rxlg71g21klbcpby3nv1z8s2pgndiq-zed-mcp-server-buildkite-1bce43f",
-        "sha256": "0jh71wsqgzlh6pxdpn3958cvyk81y9bm87jazr2xm2w6x969s5pp",
-        "hash": "sha256-9xadTOqGi9pF/koeVFfyAU2/GSpp2Nv6NZD+hzUPB0o=",
+        "rev": "ba8ff791e047fa0c9d14e488229eca8b698ea1a1",
+        "date": "2025-05-13T21:19:13+10:00",
+        "path": "/nix/store/michvw0kpcl9wxx6238yaw2qsz8mkzdx-zed-mcp-server-buildkite-ba8ff79",
+        "sha256": "0njskkavj2icaqi6qc85lkzv51bkjpr0xz5c3g2ly93m614y3di4",
+        "hash": "sha256-JLbhSTB1JE/FG6z8DvKVc4Wy/6QFMWwiViwKudWcWlo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5446,7 +5446,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-FoTuenGMpJDKN+tS/1uU54+Q0RoTA4FV/P9gLRaqfoQ=",
+      "cargoHash": "sha256-iERpGaY8QCOfpzvjElJvsWq5TjnDTq8etA8ApKiGaus=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-buildkite.lock"
       }
@@ -5824,6 +5824,24 @@
         "path": "/nix/store/584jqwza2s2bxkkks98ic1q7qsgc0hbm-zed-modus-themes-18e7c7d",
         "sha256": "16mfik5iwi9n1q7z9gl0jwkpnppzhcqi4ann6fcv7hb5gdppp83x",
         "hash": "sha256-faB7b3tlwbOZM9YqEjGD/157J5eAvvQPDjZFHsuMrpo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "monokai-nebula",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/JacobCallahan/monokai-nebula-zed",
+        "rev": "4ecf6290b621c74749695455d864afce95b32db3",
+        "date": "2025-05-15T11:02:51-04:00",
+        "path": "/nix/store/2zi6skf166ssf35gbk5ashl29m9x9961-monokai-nebula-zed-4ecf629",
+        "sha256": "185wjg6z23jv29q1daqfkml2pbpfcmvpss4nxfy0sabmwn63lkci",
+        "hash": "sha256-kU06jOV1KQ2865ZofXdl7q4raJ0OqxZwElsO8c2TvKA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7808,6 +7826,25 @@
       "cargoHash": "sha256-ovYO5kb38NZ8HNhMqiQQBd1dflLBpYaK6eOrjdjVrW4="
     },
     {
+      "name": "pyrefly",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/zed-extensions/pyrefly",
+        "rev": "e2669286fb89946a567cb66b3b6739760c5c7fe3",
+        "date": "2025-05-16T10:41:13+02:00",
+        "path": "/nix/store/6cxms0l5zf9flmzyzyczaflgx6sgljnf-pyrefly-e266928",
+        "sha256": "1sam023z8m0mx8wmc3fmqwc8cizbjlhsh2i6q8a08rzddymkghx9",
+        "hash": "sha256-qcM3q2/tZwQUwiYKqCGV60eGGMfVDVY56hVU9IcAVek=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-/FM5u50dM8l4K9o+9ruQD4gVkGkzwmazmnXi4Dx191Q="
+    },
+    {
       "name": "python-refactoring",
       "version": "0.0.3",
       "src": {
@@ -9640,6 +9677,24 @@
       "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
     },
     {
+      "name": "tomorrow-min-theme",
+      "version": "1.1.0",
+      "src": {
+        "url": "https://github.com/biaqat/tomorrow-min-theme-zed",
+        "rev": "58c95c50c266e0a22e9e71fa6785d24ae63ecf90",
+        "date": "2025-05-15T21:20:10-04:00",
+        "path": "/nix/store/080qamcdbspmwmqyn7jrmip7hmfkzj9h-tomorrow-min-theme-zed-58c95c5",
+        "sha256": "02yb77rz5ki25i1940lqlzk64chdvlvdfi7hml2wbfvlpcvfkscr",
+        "hash": "sha256-menpNrt0u8UFrfBE1zbdDTJi5qeYApJCLCLO8vM5yws=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "tomorrow-theme",
       "version": "1.1.0",
       "src": {
@@ -10388,6 +10443,24 @@
         "path": "/nix/store/a1xfj9bzaky09j6ips4a5j00ba8r0qkk-vscode_dark_modern.zed-36bc946",
         "sha256": "0xb9j27prx3qvkx9l5zww6100isp1001m0h4gir5drr40gcbqy6g",
         "hash": "sha256-z3i82AMk51ZyfASCGgAIV0cAguH8F5r63Hj0fI+QaXU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "vscode-dark-polished",
+      "version": "0.0.5",
+      "src": {
+        "url": "https://github.com/yayashn/vscode-dark-polished",
+        "rev": "caaaec8ee7338fb19200bd43822be09fc24e606b",
+        "date": "2025-05-16T02:02:06+01:00",
+        "path": "/nix/store/f2xmrylzmk3xl461sbgmq2swiwwxhhch-vscode-dark-polished-caaaec8",
+        "sha256": "083ksvp74dy05i93dlrhjj1ln9xpqd5ldp6pax0gpfjzign9bzjm",
+        "hash": "sha256-Vf6V7ItfuvtAV9fcRkvDtydLg5Qw0zZSLMA3cu7WcyA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
