@@ -691,24 +691,22 @@
     },
     {
       "name": "basher",
-      "version": "0.0.1",
+      "version": "0.0.3",
       "src": {
-        "url": "https://github.com/d1y/bash.zed",
-        "rev": "7e302844d5cd93e6ea222ee7db1fa2f9e92da4a2",
-        "date": "2024-04-30T23:35:34+08:00",
-        "path": "/nix/store/3f581f48jdx884n3mj0rjz6zah0g8j8d-bash.zed-7e30284",
-        "sha256": "0zxxmr33cs0as561790ff03nx20v0mhglmllk5zq3xs5ymghs1h9",
-        "hash": "sha256-CQYNX/VF94F/mZRW+mAFG4huB3AOpBNM0QpoNkauvX8=",
+        "url": "https://github.com/zed-extensions/bash",
+        "rev": "562286e24c929b645ecaaba722b27f0332e4d1d2",
+        "date": "2025-05-19T11:25:05-04:00",
+        "path": "/nix/store/qcf65ywg6dpjgw29wgln694w65agvdhy-bash-562286e",
+        "sha256": "12iahmrf2hnb7bhz6khivzbqmp776qqidl04rjdgaw6k4d692nni",
+        "hash": "sha256-0VqRTCPTcPWazATQFjE259yK198RTvPhOstC4XKFKoo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
-      "grammars": [
-        "basher_bash"
-      ],
+      "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-fOPY6jXgZjhfZlJHDXnsoowPq1ZIwcRtiA/k6XojAP0="
+      "cargoHash": "sha256-sQ4jmOvfs8q3MXOb7+glX1IGOqzTPFtdG313pzSWd7M="
     },
     {
       "name": "batman",
@@ -1928,14 +1926,14 @@
     },
     {
       "name": "cspell",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/mantou132/zed-cspell",
-        "rev": "76febfacf24e6793ad07cfabd2249f2393154106",
-        "date": "2025-01-21T00:11:33+08:00",
-        "path": "/nix/store/j7lrmk1xq813pgabr2yhhq3snhjbq06m-zed-cspell-76febfa",
-        "sha256": "1sps3zdvlfxnkqp0kc268xl50zvmfhshr7vp5j3cxha3k5wh0hrp",
-        "hash": "sha256-N0MAeZlDwc6GLHefDDV0dX9QaEdGsAkunrY7utsf+uo=",
+        "rev": "27337428d2d0169b0b6a8a66326f891487492690",
+        "date": "2025-05-17T00:44:13+08:00",
+        "path": "/nix/store/45167zwdnmnwm41lz8zflh83py9p7n7g-zed-cspell-2733742",
+        "sha256": "1bv45gahmxpqm7873zbiggwirzbw5p5v14f2g118pjzlc9qf439k",
+        "hash": "sha256-Mw3icGL0y4tCeMKRsMstfP0c+Xtx/XHQqfj2CtUrZK8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1943,9 +1941,32 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-ZQiWPvR9HDPFNNqmjPFpYhTOjeTgRl3XSXRudnb0uh4=",
+      "cargoHash": "sha256-Cs+p/VjlbLC6s/t6xXqZ4zaeM0ODCJApMLnXBfU46ik=",
       "cargoLock": {
         "lockFile": "/generated/cspell.lock"
+      }
+    },
+    {
+      "name": "css-modules-kit",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/mizdra/css-modules-kit",
+        "rev": "43f6c07af76fb5322831f38cdfcab87bc2b9c843",
+        "date": "2025-05-18T18:45:37+09:00",
+        "path": "/nix/store/nyrbc2wac983r6ik55bv884ii1iayx7i-css-modules-kit-43f6c07",
+        "sha256": "1kk4dnh3sfnxha7k4q9szic99bh6zkaa2xsfsvsl5xqrqw8x6jmv",
+        "hash": "sha256-u0rTEccZ90L11k53odT8Bq6UWPw6YTKPgt06PaBtZM4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "crates/zed",
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-FsTvpgz9RU+DVQEfUub6qoALuIou1dQG7dCrJQkPETM=",
+      "cargoLock": {
+        "lockFile": "/generated/css-modules-kit.lock"
       }
     },
     {
@@ -2598,14 +2619,14 @@
     },
     {
       "name": "elixir",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
-        "rev": "5b75205cddf57f4654973a20c0f5f1859d314997",
-        "date": "2025-03-26T17:14:44-04:00",
-        "path": "/nix/store/qx2z34lwp8law1kdirvlpwjaf2l3q7k8-elixir-5b75205",
-        "sha256": "0yps33m3vdn7h5z19glz3rwfn6c617k39pi8n2nbg562akb46z3b",
-        "hash": "sha256-a3xD1lTClLessCjeNOYJhhnreB6fvhR+gce2PeoY+no=",
+        "rev": "7a59e67311ad060e5a8c2475102b5964f516f0a2",
+        "date": "2025-05-19T08:57:50-04:00",
+        "path": "/nix/store/bw9lfqc9chcxa5i76szqbp4ff0msqxvq-elixir-7a59e67",
+        "sha256": "0bf5vbw37skqspsvb22qqsfgq062rh1xx6an5yjp36h93njccwim",
+        "hash": "sha256-NXLGpB0JmnGlL1aZ3gPMwgD8nMZYiLX11XjqM/jaxS0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2616,7 +2637,7 @@
         "elixir_heex"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-1gAi3o6RkeTDKyn++VKGQqgGLVpPBdLk/QUanUPKh/U="
+      "cargoHash": "sha256-XJgweoboX7IWHibQ7bb4xTUZFCjnASbYs1dNyihrYvQ="
     },
     {
       "name": "elle",
@@ -4409,14 +4430,14 @@
     },
     {
       "name": "jetbrains-themes",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
-        "rev": "c4939c6b81afb37ec1b2451603e3b3e3ee519a19",
-        "date": "2025-05-11T20:02:30+03:00",
-        "path": "/nix/store/s25h3mwwdwypfdrrnpd3zifa17w9ian0-zed-theme-jetbrains-c4939c6",
-        "sha256": "0r9zgnvwm1k0w6qkf26hhb7nny0mql6s55bv8rw4g4pz1an72hp7",
-        "hash": "sha256-50JxrAr/kkd4RnuVog3FFXhrz4LQCDex4WCGyrd9P2U=",
+        "rev": "a96b47101ee52c417e3619fb65308e07490ff598",
+        "date": "2025-05-18T13:07:11+03:00",
+        "path": "/nix/store/rjl16bl0r1i7dj09s0a2snav6zhv0ahh-zed-theme-jetbrains-a96b471",
+        "sha256": "05lcip1mz5gbpb29vq2d018h1mgijvzf2dqf4pa9xzkffcp03fm3",
+        "hash": "sha256-o7oBLnNu/p7UJQ434f6W8dUAUQBN4J3EuuuVX8ONjBY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4921,6 +4942,24 @@
       ],
       "kind": "rust",
       "cargoHash": "sha256-9ddNfUivSGVrO/Dqd9OQ7FjrYk0fL5EqqZyVemPP/X4="
+    },
+    {
+      "name": "liquid-snippets",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/hcmlopes/zed-liquid-snippets",
+        "rev": "c046c2240c10ea6d15a353e290755f29757e6699",
+        "date": "2025-05-16T19:37:18-04:00",
+        "path": "/nix/store/h4w92kl4rvgvxr4gs5kg6drdwblhqgbs-zed-liquid-snippets-c046c22",
+        "sha256": "1f0qadaqaj6ggcpkb8zm8qcgimla9zglrjyhxh3mfmpc1q1982c0",
+        "hash": "sha256-gAmUAg7sVlcH7NDLTN9Pitb4GEb1ozUve89IhVVTGLg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "live-server",
@@ -6637,14 +6676,14 @@
     },
     {
       "name": "nvim-nightfox",
-      "version": "0.4.1",
+      "version": "0.4.2",
       "src": {
         "url": "https://github.com/cange/nightfox.zed",
-        "rev": "06879cb624be906c8df40488a45fe9785cf64214",
-        "date": "2025-04-11T21:27:09+02:00",
-        "path": "/nix/store/7j63i76m9r8kqk21w6iljchdhaqjcnc1-nightfox.zed-06879cb",
-        "sha256": "1kf1immbqhc6pbnydbrrpk2wazixh1p2rjch7ycp2s9fnxqxipzg",
-        "hash": "sha256-79/YcbcuaXGZP5DJLG6APX7Fxbw5r+btuoZBvGqNwc0=",
+        "rev": "c05f53219f418229d41246ce603b9a02d5464591",
+        "date": "2025-05-18T18:01:08+02:00",
+        "path": "/nix/store/waig5zkvw25z8s33zayzxvfz231z7cix-nightfox.zed-c05f532",
+        "sha256": "0rvkac5whm0mpvki4zb08byfsadcr5b7ic547v0q3wjal1rnvkv8",
+        "hash": "sha256-aM9tc6BK8oHBPqSweFbJrCnt/EJgfRLnvhVUyAtTc2c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7567,6 +7606,25 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "polar-context-server",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/polarsource/zed-polar-context-server",
+        "rev": "0ff38250f95beb9f7618badbfec0b4cd30c794e7",
+        "date": "2025-05-16T14:45:10+02:00",
+        "path": "/nix/store/dfrjs4bhv1vm5843cgqbrcjss9m1fvkz-zed-polar-context-server-0ff3825",
+        "sha256": "0q7vhwfa70d5i50g621ba6vs1pq0z8vsfz46x8rfmjx1y66j54dk",
+        "hash": "sha256-s5EijfGhy+oy6oZ8pzf6AN+gt1ErCPNAiaWBoxyH+2A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-9G3SksKhB94h28FgkqIgDs1I5AehAs+kahGSyUPjfWw="
     },
     {
       "name": "polar-theme",
@@ -8742,14 +8800,14 @@
     },
     {
       "name": "slint",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "src": {
         "url": "https://gitlab.com/flukejones/zed-slint",
-        "rev": "af1487aa22ce6799fb49e427a9fc89b3b04d623b",
-        "date": "2025-04-29T03:26:54Z",
-        "path": "/nix/store/xj6z9vkq9687sj6yv3883kafz1m2036f-zed-slint-af1487a",
-        "sha256": "1wa51h9ghics0mly3k792430farjphkhiyb5knrvvgn88aafq2dq",
-        "hash": "sha256-uAnslELIvr2znWX5CCe8MisHBhHpzOFpBZpF+BIMRfE=",
+        "rev": "2b3f4de5ec072b578b9802eb192fd61e5d1fb34c",
+        "date": "2025-05-19T09:00:55Z",
+        "path": "/nix/store/lavimgkizcsmxrijcqava3qajfqm8yjj-zed-slint-2b3f4de",
+        "sha256": "08qqdr4byvq5klfgs9pz6yrspp95ik7y6lq3mncr93yxnwff7a5p",
+        "hash": "sha256-t6jjHLfdj5SZrQNT48+MJd2rszf/Jv0cnQVvv0huGCM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8759,7 +8817,7 @@
         "slint_slint"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-oNjWjVQ4jWXWT46GnGCrik8Erpn0wfXigmBi6RG9k/c="
+      "cargoHash": "sha256-SVnPYHBpSCK6GwtMUNx3MFBBGh7yJafuxQsAgyBeibc="
     },
     {
       "name": "sml",
@@ -9134,6 +9192,27 @@
       "cargoHash": "sha256-p4XI1MbmXZM7IPdmJNyUTWsKmN8O1nCWLgvF1ah+9Zo="
     },
     {
+      "name": "statamic-antlers",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/mynetx/zed-statamic-antlers",
+        "rev": "30a30660573e91322fbb71e8f2ff57b6e77fc29b",
+        "date": "2025-05-19T09:39:33+02:00",
+        "path": "/nix/store/v56n0qbmq6cs3sf2ppsfq07lwphfkn51-zed-statamic-antlers-30a3066",
+        "sha256": "046lhzb5r1wpkwbks8yvg0q54vz9zci070507bm1vmkjm13ycg8c",
+        "hash": "sha256-DD3mR6hy1h3qOqCAAyL76W9SMHjbIz0Xn5eHXNaH1BA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "statamic-antlers_antlers"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-uTfODGav6VFSHuH0hD9eJ6ejLws5qDsHzxq8qe52lQM="
+    },
+    {
       "name": "stimulus",
       "version": "0.0.2",
       "src": {
@@ -9438,6 +9517,26 @@
       "kind": "plain"
     },
     {
+      "name": "tcl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/richnou/kissb-zed-tcl",
+        "rev": "29c9f2b5a63fffbc36947e8bc00378391fd7ddc2",
+        "date": "2025-05-19T16:35:01+02:00",
+        "path": "/nix/store/2q9064wxaxa8lklbign0g1dhfzls5fc4-kissb-zed-tcl-29c9f2b",
+        "sha256": "1awyjkxmq4l9law9k74wlnadm0m6182wbi188fk1zcaj4qybjw2h",
+        "hash": "sha256-UHC5PCZSsR+mQyjExQUKpoLalKWcnJm4ookSXPuUnqs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "tcl_tcl"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "templ",
       "version": "0.0.7",
       "src": {
@@ -9636,14 +9735,14 @@
     },
     {
       "name": "tombi",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/tombi-toml/tombi",
-        "rev": "c1a2e02ac677b067bbbbe94e5913be2bdeb42242",
-        "date": "2025-05-07T21:31:53+09:00",
-        "path": "/nix/store/g1wkcjf51n1532f79610qxkimndjlgmq-tombi-c1a2e02",
-        "sha256": "02v3j9zmgr9hvvy4giqlxg1yrbxag1ykm1j3yahcnd3hl6s4mbzw",
-        "hash": "sha256-/K9KtKFwNMug8kOGOn14qq/sw+sUx0f83jDlV3+SYws=",
+        "rev": "5276296f9955f65bce72cfa047fe0dd99899878c",
+        "date": "2025-05-19T23:00:24+09:00",
+        "path": "/nix/store/dw9g6xf9q48fd2fcmhv66x95g39wy3yz-tombi-5276296",
+        "sha256": "1zjc67mmc952ziw76hi7yxyw7hipszky7za953d0d44n3h1mf974",
+        "hash": "sha256-5CRXAxyWkAbaKEn94+fXN8LDffcnQnN4/KIkVusxTP4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9654,7 +9753,7 @@
         "tombi_toml"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-7BukbCjFxb01aaepajN2BnOQPu6T8hgST7G0CWm+dwA="
+      "cargoHash": "sha256-r4V8fJ0p9h65gyOiZZLkTxxXWp15C3IyE1gVCeqgjTo="
     },
     {
       "name": "toml",
@@ -9769,6 +9868,27 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "turtle",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/MoskitoHero/zed-turtle",
+        "rev": "3602afa942da632d9c18758497c66fe881d00ed5",
+        "date": "2025-05-16T14:24:13+02:00",
+        "path": "/nix/store/a5lnngb12baf1ha0s55wl18ah8323nk3-zed-turtle-3602afa",
+        "sha256": "079dysqr6hwhblrs9ldh40d9czv6w0834ap6dk86b5caz9wnr2ry",
+        "hash": "sha256-PotsefqKlWXQbOYqMhDgZn+WGiCw0aQzXZBDk7H2LR0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "turtle_turtle"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-YGSf+0IWLbsqjcSfFu9qrfJP2gqGyv6NqXvxTMvQHdc="
     },
     {
       "name": "twig",
@@ -10455,14 +10575,14 @@
     },
     {
       "name": "vscode-dark-polished",
-      "version": "0.0.5",
+      "version": "0.0.9",
       "src": {
         "url": "https://github.com/yayashn/vscode-dark-polished",
-        "rev": "caaaec8ee7338fb19200bd43822be09fc24e606b",
-        "date": "2025-05-16T02:02:06+01:00",
-        "path": "/nix/store/f2xmrylzmk3xl461sbgmq2swiwwxhhch-vscode-dark-polished-caaaec8",
-        "sha256": "083ksvp74dy05i93dlrhjj1ln9xpqd5ldp6pax0gpfjzign9bzjm",
-        "hash": "sha256-Vf6V7ItfuvtAV9fcRkvDtydLg5Qw0zZSLMA3cu7WcyA=",
+        "rev": "bf65eaa91fa721f039faf50f2851536a8223710f",
+        "date": "2025-05-16T14:10:15+01:00",
+        "path": "/nix/store/crv656sqk4zz2rsigi27a3nifklbsqz7-vscode-dark-polished-bf65eaa",
+        "sha256": "0x5b20qbzgljsg5zc0k070nb3r6rfbvapqf2083z30ga013n9rjk",
+        "hash": "sha256-U+ZkRwDqgfEHAsLhq/Zy2eSxLDhgAvbL05K+vzAQq3Q=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11230,23 +11350,6 @@
         "path": "/nix/store/m49cblqf763h5126wnfkp3d533vggb1h-tree-sitter-awk-ba74721",
         "sha256": "0nvq5v1pklh31jhvzi67killbscisk3hgvzmcia0zbcx03vxs2nb",
         "hash": "sha256-ywrd9wCdrQ9UZPXvB8fUkelFaZzHxL+hDAPSecMueFs=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      }
-    },
-    {
-      "id": "basher_bash",
-      "name": "bash",
-      "version": "152c934b24cd7b3290e77cd6c9d80401f23fc915",
-      "src": {
-        "url": "https://github.com/tree-sitter/tree-sitter-bash",
-        "rev": "152c934b24cd7b3290e77cd6c9d80401f23fc915",
-        "date": "2024-03-12T20:31:22-04:00",
-        "path": "/nix/store/wls79rnfc0n7pg1s7961bmdh7kqjf2l1-tree-sitter-bash-152c934",
-        "sha256": "1a6a086phrvibq7dn9hpz2da04x2d9wah7kpia4d1j4qfd4r8kjp",
-        "hash": "sha256-V06USXOYyNCIinceqHhqohOgmvgXJtsOXnFneA0Cyqg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12038,14 +12141,14 @@
     {
       "id": "elixir_elixir",
       "name": "elixir",
-      "version": "a2861e88a730287a60c11ea9299c033c7d076e30",
+      "version": "450a8194f5a66561135962cfc8d7545a27b61c4c",
       "src": {
         "url": "https://github.com/elixir-lang/tree-sitter-elixir",
-        "rev": "a2861e88a730287a60c11ea9299c033c7d076e30",
-        "date": "2023-07-27T09:25:48+02:00",
-        "path": "/nix/store/w2a2lc80w5i7v7kmihfyfk1p0xyag4ds-tree-sitter-elixir-a2861e8",
-        "sha256": "1206ph6lzb5j2pw2pdhc2lb4z8sk15agmkwq7k8lk3l1fx1yl4c4",
-        "hash": "sha256-hBHqQ3eBjknRPJjP+lQJU6NPFhUMtiv4FbKsTw28Bog=",
+        "rev": "450a8194f5a66561135962cfc8d7545a27b61c4c",
+        "date": "2025-03-03T22:48:11+09:00",
+        "path": "/nix/store/il4hsddc5xz0ka181f32j3r6k1gsg4f5-tree-sitter-elixir-450a819",
+        "sha256": "02nh1j35ca9y9rfvlyhwd6xlgrw20j9gy1z3g96kxvlzp09zrhp1",
+        "hash": "sha256-4cL8E7if7j5NeuMH/5IEgudHu2kcerpdTj4pVoYM0Ao=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14722,6 +14825,23 @@
       }
     },
     {
+      "id": "statamic-antlers_antlers",
+      "name": "antlers",
+      "version": "ed922d8e2d681f2744c417fb2f6edbd6902ea5f9",
+      "src": {
+        "url": "https://github.com/Robertsson/tree-sitter-antlers",
+        "rev": "ed922d8e2d681f2744c417fb2f6edbd6902ea5f9",
+        "date": "2025-05-12T11:08:12+02:00",
+        "path": "/nix/store/1sa09qmybv9g7i47hs795glzksfpsp8w-tree-sitter-antlers-ed922d8",
+        "sha256": "1m248zqd0qv7ljgzbr4k0jqlv8rqbkwl90n05ziib2w6r2biwl9v",
+        "hash": "sha256-O1Eel8iGixXjL8CCRPlcOKNNsQST5PWfpGdj0PBHRNQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
       "id": "strace_strace",
       "name": "strace",
       "version": "0dc85e4cfcd0cc4b33f855ddb782d81d1297bf6e",
@@ -14783,6 +14903,23 @@
         "path": "/nix/store/kg71q1l0ih7705z6zxmwav9ccznqajb2-tree-sitter-swift-33e56e4",
         "sha256": "1a69zpbr930xwgrjm1m4wmhiyxa9yv7k0nvw3dxs5vkmm4qq3frn",
         "hash": "sha256-NruBMal17qJ7G3xbMM/2SXUfYeWkhirz4x2MlNf9yag=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "tcl_tcl",
+      "name": "tcl",
+      "version": "8f11ac7206a54ed11210491cee1e0657e2962c47",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-tcl",
+        "rev": "8f11ac7206a54ed11210491cee1e0657e2962c47",
+        "date": "2025-05-14T20:27:09+01:00",
+        "path": "/nix/store/b952qrym6wqxh8gcskml0dr6mm6p0336-tree-sitter-tcl-8f11ac7",
+        "sha256": "0dkxh6bn0kqn1gbyd5qwkg21fm634mxvas3w4ahv6zr5d8f95c96",
+        "hash": "sha256-JrGSHGolf7OhInxotXslw1QXxJscl+bXCxZPYJeBfTY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14919,6 +15056,23 @@
         "path": "/nix/store/y8xmri8yb7d3i527lmql4sa40k0rcmg7-tree-sitter-query-930202c",
         "sha256": "0274iz2z55m29yk56lmb7sans2k6hpd0nzgrznfx3jwr8dm2jw5r",
         "hash": "sha256-uXApakOZy9Gd/fl9C9qFZgptlT6rUlOmT6KW8sWP5Ag=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "turtle_turtle",
+      "name": "turtle",
+      "version": "7f789ea7ef765080f71a298fc96b7c957fa24422",
+      "src": {
+        "url": "https://github.com/GordianDziwis/tree-sitter-turtle",
+        "rev": "7f789ea7ef765080f71a298fc96b7c957fa24422",
+        "date": "2024-07-02T13:41:07+02:00",
+        "path": "/nix/store/943vfzmdxbn7x4h23hyk9h9k3ax414zf-tree-sitter-turtle-7f789ea",
+        "sha256": "0c3diz97lrnxqkq410s9rlmxddjqgnswyc4spdfny045xgfzp9yg",
+        "hash": "sha256-z6f73euFAG9du5owz7V9WLbWK81Jg0DwxN1metKPbTA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
