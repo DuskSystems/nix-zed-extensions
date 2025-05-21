@@ -632,6 +632,24 @@
       "kind": "plain"
     },
     {
+      "name": "azutiku-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/bwind/zed-azutiku-theme",
+        "rev": "7917fb66f3b729e6827358fdc6e9b884ea4d500d",
+        "date": "2025-05-19T19:20:36+02:00",
+        "path": "/nix/store/wpkgrlkwdfbx13p3zshj23ym6vrqv5im-zed-azutiku-theme-7917fb6",
+        "sha256": "0xphc5lpvkqw60fcb4bpr3w7mkc56lxhb0nyjidvd6swv1fha3cw",
+        "hash": "sha256-nA0FXdhcm7ZblN6CBTs1hc16+Mh3kcUcMBzPfWlh8HY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "barbenheimer",
       "version": "1.3.1",
       "src": {
@@ -1477,6 +1495,24 @@
         "path": "/nix/store/ajq4k2v6hqcfvxxpiizj0ad52bdxp46s-chanterelle-zed-2f6cad9",
         "sha256": "0d54jw3jk4bcbi71xlx1hjdpdrp9kp97ikl8qc421gcqxfk3h5wr",
         "hash": "sha256-mRc4puuYvSAIw4jOeNKd6eZ2m4Sh0x5OXGyRKQeXpDQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "chaos-theory-theme",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/FeurJak/Chaos-Theory-Zed",
+        "rev": "b997ff56992cf9dc6492da95706c08e74e2d05a1",
+        "date": "2025-05-20T11:51:02+10:00",
+        "path": "/nix/store/1sbnwrgv701cx0vn5nk10cmaba8jaf06-Chaos-Theory-Zed-b997ff5",
+        "sha256": "1cy40zx7iz54aw1gbj1ng3ja9918j3g49ywl109f8mlbqm1h5bkl",
+        "hash": "sha256-dK4CQ8WLVuQSCJT7RN6QKKSk5Hg2yPUCV6T8ePoHxLM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2724,14 +2760,14 @@
     },
     {
       "name": "emerald-night",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/iamngoni/emerald-night-theme",
-        "rev": "0f1929a8a9f0e510bca8957df5ee7fb4c0ca8d7b",
-        "date": "2025-03-14T00:37:47+02:00",
-        "path": "/nix/store/vbapnby3ss3ysjmi6sk2kjvcbfj302gs-emerald-night-theme-0f1929a",
-        "sha256": "0ir215ip14ih06h48m8i5ya7b672d6gpbvfqwdprkhb03d1y7bfr",
-        "hash": "sha256-2a3jQxtgwZlv49jtdZ9p4ph1lC8RVUSgATCScGMJIkc=",
+        "rev": "e3b4b2fc4ab2477281b4327046c9eb0cae71e9af",
+        "date": "2025-05-20T10:57:54+03:00",
+        "path": "/nix/store/j4r7fdzq6xqp0charr669j3dk2fbaq4v-emerald-night-theme-e3b4b2f",
+        "sha256": "15brn8slqp72grl2zjj7mncvgadzgg02055sf6am3fvnhd3n3ppa",
+        "hash": "sha256-6t5hR4N2u1GVcboUIMB7v6m3ma1Hyi9ofuJcTDWyeZU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4945,14 +4981,14 @@
     },
     {
       "name": "liquid-snippets",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/hcmlopes/zed-liquid-snippets",
-        "rev": "c046c2240c10ea6d15a353e290755f29757e6699",
-        "date": "2025-05-16T19:37:18-04:00",
-        "path": "/nix/store/h4w92kl4rvgvxr4gs5kg6drdwblhqgbs-zed-liquid-snippets-c046c22",
-        "sha256": "1f0qadaqaj6ggcpkb8zm8qcgimla9zglrjyhxh3mfmpc1q1982c0",
-        "hash": "sha256-gAmUAg7sVlcH7NDLTN9Pitb4GEb1ozUve89IhVVTGLg=",
+        "rev": "99f9c5862590b85d2ef92b9f777022f2adda9f79",
+        "date": "2025-05-20T11:57:51-04:00",
+        "path": "/nix/store/w66w7pkmd9yb8bp9gf95hrfgs2y4f6ja-zed-liquid-snippets-99f9c58",
+        "sha256": "1j665vjs1y1yk57g57zv3ayamwb1x4hhviw0ma5jmpxnmb6gdr04",
+        "hash": "sha256-BOT2zKq23yqLqoDHDSHpYfGqvBr7n/JOmT74oOUuxsg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5645,6 +5681,25 @@
       "cargoHash": "sha256-HfIucRzWbokGiIr3oiEF57E7F5idl7kbBAQcCBEYKRk="
     },
     {
+      "name": "mcp-server-newsnow",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/benmooo/zed-mcp-server-newsnow",
+        "rev": "e9cdee391f1ad9c8789df84eb016d0489e3d0021",
+        "date": "2025-05-20T16:45:56+08:00",
+        "path": "/nix/store/qk2alp35c1vpqnpkkgcqhh7jj910p4x4-zed-mcp-server-newsnow-e9cdee3",
+        "sha256": "0q0gvzbmad6hv0pz9cm0q9g21r15gjd686kqkrvn79iw9p29nfja",
+        "hash": "sha256-SjqbxE08pmN3nngaZJp8JeQgXsKgsvQv2NA0VdffD2A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-SIKzquqCNV2xwGCqa8NbLT69s2AyDRdN9xQqlwNGKCM="
+    },
+    {
       "name": "mcp-server-puppeteer",
       "version": "0.0.1",
       "src": {
@@ -5741,14 +5796,14 @@
     },
     {
       "name": "melange",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/adorabilis/melange-zed",
-        "rev": "a985c21783b462d5103cee6866d68875aa7c03e0",
-        "date": "2025-05-10T03:32:18+08:00",
-        "path": "/nix/store/18s47625p8m1n927saibjnqq3ql3k4nk-melange-zed-a985c21",
-        "sha256": "03fzr80ngbcl4phkl8qmik62g418x3wz9zzkyr581pv6jgwqww6s",
-        "hash": "sha256-2nCO+ZNm34BK9vP/9PnoKJAnzIwVIzrhJZStZwHK3w0=",
+        "rev": "1eecd663a65f1a3b967b8fd5ac15e36a014b1781",
+        "date": "2025-05-20T23:45:30+08:00",
+        "path": "/nix/store/dckb1l3ycj14iyfycfzb4rffcl3mxd6z-melange-zed-1eecd66",
+        "sha256": "04vqdi50a2r729rbq47dxivvb1xacljhrsgkf8f0pnnbcxq9k38g",
+        "hash": "sha256-D42ZcGfL2gsccvPpDCVlqoe1d+ztELxyEicLBUpseBM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5857,14 +5912,14 @@
     },
     {
       "name": "modus-themes",
-      "version": "0.0.17",
+      "version": "0.0.19",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "18e7c7d35cc1668b53a0da00f5e7102ac554ef94",
-        "date": "2025-04-30T06:52:03+02:00",
-        "path": "/nix/store/584jqwza2s2bxkkks98ic1q7qsgc0hbm-zed-modus-themes-18e7c7d",
-        "sha256": "16mfik5iwi9n1q7z9gl0jwkpnppzhcqi4ann6fcv7hb5gdppp83x",
-        "hash": "sha256-faB7b3tlwbOZM9YqEjGD/157J5eAvvQPDjZFHsuMrpo=",
+        "rev": "fc4f04bc3b6c62bd1957eef595e11110f03edc29",
+        "date": "2025-05-20T06:55:36+02:00",
+        "path": "/nix/store/yynpbdq7nd1z2n15gm6zjsjr7xd63a5x-zed-modus-themes-fc4f04b",
+        "sha256": "0w7xr7lwi6jqmn9kdril5v8i06cnr89n52d36cqybfix9gj5pqx1",
+        "hash": "sha256-oeNb5Es9uuUxM6OJYhPKlhkQ0S405jaTrViayOnJ/XA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6385,14 +6440,14 @@
     },
     {
       "name": "nightfox-m",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/mpopadic/nightfox_m-zed",
-        "rev": "03a20b6fa7a27addc38b4ae314f3c1f7fe8a0102",
-        "date": "2025-05-02T09:04:33+02:00",
-        "path": "/nix/store/c5jxrc394n1bcv9lm3c90zx5p5l0pg6b-nightfox_m-zed-03a20b6",
-        "sha256": "1khhlywc5a3w8syj0rf5xx0r420pa8a70w2x55yimzk6x8qhxrjn",
-        "hash": "sha256-VuYOMepm/hp9KV1wcBRSFwiSQe/FZSC9RnyowrinEM4=",
+        "rev": "bc6cb842e8d8c8c0b78672cef42214499c745518",
+        "date": "2025-05-20T09:49:46+02:00",
+        "path": "/nix/store/7fal6gn3r80hvgx2j51r9lpj7dix0vxx-nightfox_m-zed-bc6cb84",
+        "sha256": "0wm7rq8r6jm4qaryqbhfaxj216kp81bxc8zwh13p9sm012x6vyda",
+        "hash": "sha256-qvltugig6nRHgPwj1ldAd5ogZFcOLuyzwqRKkxHOp3I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9171,14 +9226,14 @@
     },
     {
       "name": "starlark",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/zaucy/zed-starlark",
-        "rev": "858866d318a43be81f883733d930324392e66b52",
-        "date": "2024-07-22T08:57:12-07:00",
-        "path": "/nix/store/id9h4v5pcp125wffqa1fxgkybz7xjdhy-zed-starlark-858866d",
-        "sha256": "057h7lkv91ascfj7x6sy39jrfv4lirn4yw6arr96a08b60l16msx",
-        "hash": "sha256-XVcTKDALAWVSzspwT2yOlGyXZRpem36kY1qFtCc98BQ=",
+        "rev": "54baaa7bb5a78f3a39425b3a83db0bc80aa832fb",
+        "date": "2025-05-19T15:44:04-07:00",
+        "path": "/nix/store/c6wzhc8g6qkiaw2b88kxpdhpr778f1rj-zed-starlark-54baaa7",
+        "sha256": "091hdiy01d2786d1624yjcqrcsbddsq93xlzqsx1gv33fsais6qz",
+        "hash": "sha256-HxsdlXZj7Be6xp/2kbBubWmWMZOeCBOaQUe0AHxsMCQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9189,7 +9244,7 @@
         "starlark_starlark"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-p4XI1MbmXZM7IPdmJNyUTWsKmN8O1nCWLgvF1ah+9Zo="
+      "cargoHash": "sha256-p4A3R8Q0l7hYyf0U4Lbuy8Sx/Y54HAzcDOMC7rjLvbc="
     },
     {
       "name": "statamic-antlers",
