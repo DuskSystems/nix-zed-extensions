@@ -312,14 +312,14 @@
     },
     {
       "name": "ansible",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/kartikvashistha/zed-ansible",
-        "rev": "cb7bd309542c800d86a205826d2abb1356541f9e",
-        "date": "2025-04-09T19:41:56+01:00",
-        "path": "/nix/store/38kckjz1f5h0isbclswq886328iwxl8s-zed-ansible-cb7bd30",
-        "sha256": "06d7xfh8i5lszpldw54wv14wgqpw7yv8a99b1xmjy271b8yr1ls9",
-        "hash": "sha256-SdOQPVrhCC9rDyslhbY//OLHSdicFN7o/ZqWiKDrpxk=",
+        "rev": "0d050dfe0d8b66f17c9e343f5df37c1bd2c789e9",
+        "date": "2025-05-21T12:32:15+01:00",
+        "path": "/nix/store/39gb4mb5w0bygcpvr7s49c3cdbaxxs7h-zed-ansible-0d050df",
+        "sha256": "1q6cxyzqgfbd29s9q0sv5lz5h2g87xxi6qiacsrj7wmms7w8yb5z",
+        "hash": "sha256-vyyP+NG18iOzZipiE3s/6AlYPi1bA5x0Em25h7/vzOA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2895,14 +2895,14 @@
     },
     {
       "name": "ezio-theme",
-      "version": "0.0.3",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/dsantolo/ezio-zed",
-        "rev": "d7e17897162e886f698b9647f7c43197a6d6d8aa",
-        "date": "2025-02-28T18:11:53-08:00",
-        "path": "/nix/store/2ggb5mpqa1akjy4nf279ijs8129bi47j-ezio-zed-d7e1789",
-        "sha256": "1bm2sr514mjccwnay6m4ci3n04b82q2xzr96b5i4d646dzd5l3na",
-        "hash": "sha256-yg5a2m+GmEZiWSbl3wUWaBFgR2SkGq8sZ0xWEkrWoq4=",
+        "rev": "98ec509a66fcf02dbb4f32d872803ddc51885a05",
+        "date": "2025-05-20T15:38:56-07:00",
+        "path": "/nix/store/1mm1ffciyvbsqb8fdkc1c2aqalv23zjw-ezio-zed-98ec509",
+        "sha256": "030ygzr0jjv7l4j0m06rad7inlahll2skfclbg1gb3z8c6y330x8",
+        "hash": "sha256-qIMxvGHoj/XCW5S5qQWlUFEbT1PZgAokoWdLCfJ/Hgw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5530,14 +5530,14 @@
     },
     {
       "name": "mcp-server-context7",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/akbxr/zed-mcp-server-context7",
-        "rev": "dbb58b95ebe99cfe5ac1d408d6b04364afeac4c9",
-        "date": "2025-05-03T22:37:48+07:00",
-        "path": "/nix/store/ppfx7l8hpsrgwksr5i3zflqpja9frx17-zed-mcp-server-context7-dbb58b9",
-        "sha256": "067rlyrlj1mi1y3qfamxhj9ndbfjz9zywb4jr03qj437zzxc69sj",
-        "hash": "sha256-UifD+v9nEIkHyJIs7n/60q1mk4S9KoeHD7EGSbOn+Rg=",
+        "rev": "db9893054641e7f542c6ac528779b112cea0e587",
+        "date": "2025-05-21T13:37:23+07:00",
+        "path": "/nix/store/ky1adqjgyv845g85zv5h1j4fw9lzlq4c-zed-mcp-server-context7-db98930",
+        "sha256": "13z6zjh9lp68szikc3a8wdl2b552crcc0hbda70chqm7g0ivx0da",
+        "hash": "sha256-qoG+I3inYsjAUW1BwFhmopQlaONIDTbj18hcmqD85o8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5545,7 +5545,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-JE3aNtepAfX910d7+Fpt42qUNERNzzogmeJgtNimjUc="
+      "cargoHash": "sha256-uhGpZde6K6vgjhsm41UqqY0xzA2NPLJssDfcMoYT0t8="
     },
     {
       "name": "mcp-server-exa-search",
@@ -5625,14 +5625,14 @@
     },
     {
       "name": "mcp-server-gitlab",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/akbxr/gitlab-mcp-zed",
-        "rev": "9a6ca2b76ac96de4600e31f9db3c4f2b4737a2eb",
-        "date": "2025-05-05T22:08:30+07:00",
-        "path": "/nix/store/j6qa5j2rs3y25aqnb734vf6psb8pn0yl-gitlab-mcp-zed-9a6ca2b",
-        "sha256": "18xp53nz73gkx05hpccrqmmnsj3lsh2bjl1hx8dqdlkyij9mw8sn",
-        "hash": "sha256-ViNek4x+0oYb6jBQuQTUdEhta8WZsQsL6PON8+0ot6M=",
+        "rev": "b666d3c17d63dacb31564296b7079931c62baae8",
+        "date": "2025-05-21T13:17:31+07:00",
+        "path": "/nix/store/54r3fd6aixb4rd2dj4bj3k7662j3kxg0-gitlab-mcp-zed-b666d3c",
+        "sha256": "1l8vvlzz76ckpzwyxrkx2c9slk4is99zkrm1cvl05mq75r2c0ajc",
+        "hash": "sha256-TCrARC4H1wLoZqHm+VPSkUyqExN95u75v5OZ8z/dG9E=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5884,6 +5884,24 @@
         "path": "/nix/store/4d9z62xp9hxm44lk014vakc6mxn45nmn-zed-955ec72",
         "sha256": "1nivm62izf3vrcwhivm71ylf125d0s98xwlhz0wn112jrwvrva28",
         "hash": "sha256-SKidN89ShGA5+JDyjpIGrYjgqA+n7gg5y3u4H4WpO9o=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "modern-icons",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/BadRat-in/zed-modern-icons",
+        "rev": "96be54085ba4d980dbb0960e3013fbb892397ede",
+        "date": "2025-05-20T23:52:40+05:30",
+        "path": "/nix/store/6j5zzi3a4r05397m8lfzyaxrb669h2fa-zed-modern-icons-96be540",
+        "sha256": "10hg15qp8rqrznci9jgcdwp8l43xw64r0a74v3sxz03dzz0h903c",
+        "hash": "sha256-bIAEwf9tgN/12OQokInhfRCKLm/syRSZ/RlndHEJD4I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9423,14 +9441,14 @@
     },
     {
       "name": "svelte",
-      "version": "0.2.7",
+      "version": "0.2.8",
       "src": {
         "url": "https://github.com/zed-extensions/svelte",
-        "rev": "55eda603f3a87f076683ecca9faa5d21b73a039b",
-        "date": "2025-04-04T16:36:27-04:00",
-        "path": "/nix/store/f29gz2rzww13mhf7m5agp0gi9rrxnbii-svelte-55eda60",
-        "sha256": "1kkv6iszfsz03kr5gp69vmbv6dg7cf0f1a6xn4ccvpn1w87pjjc4",
-        "hash": "sha256-hEl5D+LB3s0Ysd2o4IBj5zWzV93J3FfyHOBr93U0e84=",
+        "rev": "f9045465838f51179aa62cc4a8d0f2037369f2c5",
+        "date": "2025-05-21T13:16:16-04:00",
+        "path": "/nix/store/my6q9v4lf77r3bcdc9szhcl8lpg25bzl-svelte-f904546",
+        "sha256": "1rdqwr52y8q5a7src30f7krvbni0lvag9xnkd2kqadp42v488wy1",
+        "hash": "sha256-wXOEyBbkNoWnaNP29NSmINq18zwODJb1UQUjL0rmuOU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9440,7 +9458,7 @@
         "svelte_svelte"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-ls5ecaELCxNf5jDerJu1qiuqI2L0uPHjwHz+dVi8SwI="
+      "cargoHash": "sha256-mPtTMANccKUJweUoWzprz1HFVoLTbQCK8NfgTxBb6AU="
     },
     {
       "name": "svelte-snippets",
@@ -9462,14 +9480,14 @@
     },
     {
       "name": "swift",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "src": {
         "url": "https://github.com/samuser107/zed-swift-extension",
-        "rev": "8d710c0d6dc7f15132ed69d0af6ce61c3baac1c1",
-        "date": "2025-03-23T16:23:33-04:00",
-        "path": "/nix/store/hqgvayfnnfylg8a6zs2rv62w3qxpcldl-zed-swift-extension-8d710c0",
-        "sha256": "0002cw8c0rvawhripir9qkvdh01ri6b0d0lv68abf722pj8d2c1c",
-        "hash": "sha256-LDDRkLxCHLcUMpuCBpaJOQDY9sQpxxsz5GpnwBBnAgA=",
+        "rev": "c63b25ae05ab9df6653b64f164b2010d9ad4bf76",
+        "date": "2025-05-21T14:33:10-04:00",
+        "path": "/nix/store/c9r38ab1yqjy15dgrw48jm6dw8j6h13d-zed-swift-extension-c63b25a",
+        "sha256": "070i51l1388q5hcv9l09yxlbrbxhzs3gaxwqxh8m80l8hkgpcwxb",
+        "hash": "sha256-q3N234SIAlQR7Jh39Yb+sK+8aPcJ0LQZLBihEWgoERw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9479,7 +9497,7 @@
         "swift_swift"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-6eQsTJ7F+mvXzc3fKfE1xRx/FoIolK7lizQOeSWTkYY="
+      "cargoHash": "sha256-GuxDsEAxy2UPN63qbFgGei1tLbDvQ0AAMCyb2NhY9AA="
     },
     {
       "name": "symbols",
@@ -11045,6 +11063,24 @@
         "path": "/nix/store/b114v04h31nl180mdg3kajxynw9xvq7v-yue-theme-zed-078f75e",
         "sha256": "0y6i6a10xm7nk2s2pnm0k3xcx1mkin0a8g55cbl3lh5aphf37152",
         "hash": "sha256-ooQzHLyqQDroYqU8pICNs4bO+pig2iu0mPbUDoIy0Xg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "yugen",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/frank-vdm/yugen",
+        "rev": "8219af9ecf5b1862e106fbc1ffa73011d947d952",
+        "date": "2025-05-21T19:39:11+02:00",
+        "path": "/nix/store/li7bsj0krjjfisgn8c4gif40k7i1r1qz-yugen-8219af9",
+        "sha256": "07c17xagpdfxxvvvn9x6i9vbmij0yzvv0cwjbsqn4g2kghac41x1",
+        "hash": "sha256-oQfCFHxTPGKxXpIzsPf3QMa6doqmJ7v37t21+1Q/gR0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
