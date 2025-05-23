@@ -4367,14 +4367,14 @@
     },
     {
       "name": "java",
-      "version": "6.0.3",
+      "version": "6.0.4",
       "src": {
         "url": "https://github.com/samuser107/zed-java-extension",
-        "rev": "5f37a48cbae6ee8ac8264879032f853bf4d29006",
-        "date": "2025-04-22T09:51:28-07:00",
-        "path": "/nix/store/cifjfqksrapw0vfrbw366xz9l3jdqr0d-zed-java-extension-5f37a48",
-        "sha256": "0zaph5y5g0zhc845ccna1xlp7wx1k323z0jbsy2z4x01q3xa4sll",
-        "hash": "sha256-lGqi+sABdPKF10uCP8SYofNzaQ/KMlYIYvCDV3yBV30=",
+        "rev": "d9fc21aa7888b46f1cac949ee2f0b5d393cf586f",
+        "date": "2025-05-21T22:57:42-07:00",
+        "path": "/nix/store/r2ai2ab3fmlg87gk80xaya5fni5lsg6k-zed-java-extension-d9fc21a",
+        "sha256": "0n5f7jmczxbx8zjh999kd4ypmz1hy6jak6l6wws2w685lc3ivaa8",
+        "hash": "sha256-SKkdB6MFGS4054aaqaTxMPx6PWkzpQTlR331z6o8rlg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4384,7 +4384,7 @@
         "java_java"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-XroBGIi3O1VxkX35xePk03BV0b6qaoA0kdiX3BH+tis=",
+      "cargoHash": "sha256-BOImiqq9ahfiVFeaOJs83QIVRfN2rop51ZXJ/pj8/cY=",
       "cargoLock": {
         "lockFile": "/generated/java.lock"
       }
@@ -5343,14 +5343,14 @@
     },
     {
       "name": "marksman",
-      "version": "0.0.3",
+      "version": "0.0.5",
       "src": {
         "url": "https://github.com/vitallium/zed-marksman",
-        "rev": "f363fb9c7348e613e0ce8cc9c41bdefd0114ecf1",
-        "date": "2024-11-27T17:21:03+01:00",
-        "path": "/nix/store/fc51pdq6isdwi3ymcbmsyf0bjxy3in7h-zed-marksman-f363fb9",
-        "sha256": "1vn6yzp4lp013hk63ad9y4vp8kwywkfz2fcbx4yxf4jpl9hkdd72",
-        "hash": "sha256-4rQ2YaJXEtc96Ys58d3knk90N/GpqWEmHAFcSu73xu4=",
+        "rev": "2095eb7a16c530ba7da326dd94a90cfde9c863a9",
+        "date": "2025-05-21T23:10:08+02:00",
+        "path": "/nix/store/zqz2qdp0kilskgja5fslbsmq6h9l17h4-zed-marksman-2095eb7",
+        "sha256": "1i72xhq2nwixg76b3r8qd2ws5bik50la34k3zj2nhddvkc463krv",
+        "hash": "sha256-O89hCJu7NWiF/GOSoSgoM66iuWgY5bHMeT1yKzDs4sQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5358,7 +5358,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-0lA7zef5fTEW2kYqPoz9os/AKAQNfbS4CcH8cpbDQjU="
+      "cargoHash": "sha256-5UDs/9yMOdYVK1FInG3P7pkrXghcuW47JGAjOUQQdrc="
     },
     {
       "name": "martianized",
@@ -5549,14 +5549,14 @@
     },
     {
       "name": "mcp-server-exa-search",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/exa-labs/zed-exa-mcp-extension",
-        "rev": "8e05d009373cfe6373d0d6c434b103f38873eeaf",
-        "date": "2025-04-13T15:03:20-07:00",
-        "path": "/nix/store/jm8z8nlfgzqbk4ycxp8y5i4qgcdpr1q2-zed-exa-mcp-extension-8e05d00",
-        "sha256": "04c495ixyb9cng60wflv43z0skjnyi87f9q8v78d8plki3g8y9ld",
-        "hash": "sha256-jSaP3oiTXtTQ2Qgnd1D0Vk4N/iCbOg7Msywt32NJhBE=",
+        "rev": "3e17d8adc8ee0ec06b9dbb22a173abd8fa142e94",
+        "date": "2025-05-21T19:43:40-07:00",
+        "path": "/nix/store/fbiflawh7vw1mgsrj9yhw3qm7ac28sq0-zed-exa-mcp-extension-3e17d8a",
+        "sha256": "08nvsl7dslf62w0zmlq2zmbkpfdlj0nll7q70fdipd35r6mbqnhb",
+        "hash": "sha256-C1q8qslltBubAwcfSi2QtLk7V/0C0/oBF8ZR3Q7V2yI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5564,7 +5564,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-aup9NC+8dWMO4UaJcZhoVgFcZCrr29mau910B8rhis8="
+      "cargoHash": "sha256-5oBcxYXqJF+Lf+MgvjAd9QSd8tR6upi4XmO4eP/wKgU="
     },
     {
       "name": "mcp-server-figma",
@@ -9941,6 +9941,25 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "tsgo",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/zed-extensions/tsgo",
+        "rev": "ed4f7405af33f38d89042e72dbba7e339c61e290",
+        "date": "2025-05-22T19:19:55+02:00",
+        "path": "/nix/store/8ca6cipva674lzxlf476czsaq88vqc7p-tsgo-ed4f740",
+        "sha256": "1knypjlf0c1wn342fbchn7a0hp00kjy4p9dx2lk3z7w9llmkjbgd",
+        "hash": "sha256-7S05K6WJnz8mFb2lS7ycAFwI1LGQLSfIsDww4Ki83s4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-QcBqpL7Cva8ZWRtHbR9JXgprRmv8gocLx7atUfUSQ8U="
     },
     {
       "name": "turtle",
