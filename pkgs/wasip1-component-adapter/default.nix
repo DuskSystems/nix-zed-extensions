@@ -20,18 +20,18 @@ let
 in
 rustPlatform.buildRustPackage (finalAttrs: {
   pname = "wasip1-component-adapter";
-  version = "32.0.0";
+  version = "33.0.0";
 
   src = fetchFromGitHub {
     owner = "bytecodealliance";
     repo = "wasmtime";
     rev = "v${finalAttrs.version}";
-    hash = "sha256-MGeLnxUmhhuW1FInBCc1xzppgvf3W8J0sy9v9QjgBIA=";
+    hash = "sha256-/i//5kPN1/zQnfDZWuJldKdFWk/DKAf5b5P4F58rgPI=";
     fetchSubmodules = true;
   };
 
   useFetchCargoVendor = true;
-  cargoHash = "sha256-m9TsTTx/ExqE9/W3xVkYxtgKh8AlGUJTlGPMIDK2xog=";
+  cargoHash = "sha256-4ziMGmBbQ4anXvF6wwK1ezYXHY7JBvMRmPDreNME0H8=";
 
   buildPhase = ''
     cargo build \

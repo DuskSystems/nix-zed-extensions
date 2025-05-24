@@ -15,7 +15,7 @@ tokio = { version = "1.44", features = ["full"] }
 futures = "0.3"
 
 # WASM
-wasmparser = "0.229"
+wasmparser = "0.231"
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }

@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   pull_request:
 
-concurrency:
-  group: test
-  cancel-in-progress: false
-
 jobs:
   test:
     strategy:
@@ -18,16 +14,25 @@ jobs:
             input: nixpkgs
 
           - runner: ubuntu-24.04
+            input: nixpkgs-deprecated
+
+          - runner: ubuntu-24.04
             input: nixpkgs-unstable
 
           - runner: ubuntu-24.04-arm
             input: nixpkgs
+
+          - runner: ubuntu-24.04-arm
+            input: nixpkgs-deprecated
 
           - runner: ubuntu-24.04-arm
             input: nixpkgs-unstable
 
           - runner: macos-14
             input: nixpkgs
+
+          - runner: macos-14
+            input: nixpkgs-deprecated
 
           - runner: macos-14
             input: nixpkgs-unstable
@@ -40,12 +45,6 @@ jobs:
 
       - name: Install Nix
         uses: nixbuild/nix-quick-install-action@v30
-
-      - name: Cache Nix
-        uses: nix-community/cache-nix-action@v6
-        with:
-          primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
 
       - name: Test extensions
         shell: nix develop --command bash {0}
@@ -74,7 +73,7 @@ jobs:
           tree result
 
           # Monorepo Rust
-          nix build .#zed-extensions.ruff \
+          nix build .#zed-extensions.toml \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 

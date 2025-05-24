@@ -30,8 +30,8 @@ jobs:
       - name: Cache Nix
         uses: nix-community/cache-nix-action@v6
         with:
-          primary-key: nix-sync-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-sync-${{ runner.os }}-${{ runner.arch }}-
+          primary-key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
+          restore-prefixes-first-match: nix-${{ runner.os }}-${{ runner.arch }}-
 
       - name: Sync extensions
         run: nix run .#nix-zed-extensions -- sync
