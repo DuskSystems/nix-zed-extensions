@@ -46,12 +46,6 @@ jobs:
       - name: Install Nix
         uses: nixbuild/nix-quick-install-action@v30
 
-      - name: Cache Nix
-        uses: nix-community/cache-nix-action@v6
-        with:
-          primary-key: nix-test-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-test-${{ runner.os }}-${{ runner.arch }}-
-
       - name: Test extensions
         shell: nix develop --command bash {0}
         run: |
