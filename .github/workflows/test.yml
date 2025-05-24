@@ -4,10 +4,6 @@ on:
   workflow_dispatch:
   pull_request:
 
-concurrency:
-  group: test
-  cancel-in-progress: false
-
 jobs:
   test:
     strategy:
@@ -83,7 +79,7 @@ jobs:
           tree result
 
           # Monorepo Rust
-          nix build .#zed-extensions.ruff \
+          nix build .#zed-extensions.toml \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 
