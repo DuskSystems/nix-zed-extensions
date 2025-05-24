@@ -1523,14 +1523,14 @@
     },
     {
       "name": "charmed-icons",
-      "version": "0.8.1",
+      "version": "0.9.1",
       "src": {
         "url": "https://github.com/jmesrje/zed-charmed-icons",
-        "rev": "1f5fcba1bd228ded61b9154bcd585c383f66b481",
-        "date": "2025-05-11T08:52:43-05:00",
-        "path": "/nix/store/nk2nfwdwbf0id6gfnbjxla9i7dj5nhk7-zed-charmed-icons-1f5fcba",
-        "sha256": "12kisayaxsn0b1pj4cqr9w4hbk53qg40qw0dx5ny25lwqfds1dvy",
-        "hash": "sha256-fregm8OcFuFt6Q1wDMjDo8wFCU8ZMyJvWMDqrrzScYo=",
+        "rev": "46bb58edd35aba9aa45a06c9866206344ff3a57e",
+        "date": "2025-05-23T16:19:55-05:00",
+        "path": "/nix/store/823xaz3bygzchm4wxcjs3zkq2xx2aisb-zed-charmed-icons-46bb58e",
+        "sha256": "0wxaw7gcfr47qkhc1nw2s519924p75wjkr1whzz3zrhxv7snv34r",
+        "hash": "sha256-mYxt9dkd5j/+hzzkKXk5l4iUQtGC28DgxIdkx97hqnM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3958,24 +3958,25 @@
     },
     {
       "name": "haxe",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "src": {
         "url": "https://github.com/Frixuu/Zed-Haxe",
-        "rev": "3f48f5a86bbea22609ab89dda9867779e072041b",
-        "date": "2025-03-08T13:19:33+01:00",
-        "path": "/nix/store/4cq3didcw1ms89asddxhczm3l7khanv4-Zed-Haxe-3f48f5a",
-        "sha256": "02h73mf8ykiaqsgfxq7kr19fyz0wmhv7cjdysp2sj84d00hs935v",
-        "hash": "sha256-u4ykIQCNIKnF1b5JdjasHHzvUsjz4O6exipOj1wdBwo=",
+        "rev": "dc76fee54414688e0e522265889d8a1e6ce7ecb3",
+        "date": "2025-05-13T00:15:21+02:00",
+        "path": "/nix/store/h3n5fclxgqb85cz69pv0s8p6jdsi4adz-Zed-Haxe-dc76fee",
+        "sha256": "1dpayrvh0jcyz3qbzjhf1w2x1r807k0qyvaaaz73k2cw0yzx746m",
+        "hash": "sha256-1ZDTvweciTnOV0ptj8E8AOXQBQ8Oyr/w+J5JAHf26rY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "haxe_haxe"
+        "haxe_haxe",
+        "haxe_hxml"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-DETwNtuXKDLrJkUy5EqJRmoSns7Miz36obv7E8bb8C0="
+      "cargoHash": "sha256-uHVp5Cd6kTAQSQohiJbb6bO10BJjq2iqIUX81+GeEGk="
     },
     {
       "name": "helm",
@@ -4960,14 +4961,14 @@
     },
     {
       "name": "liquid",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/TheBeyondGroup/zed-shopify-liquid",
-        "rev": "58a487cc1d6efaa18c7e202c6c7772e3c881b0a3",
-        "date": "2025-03-06T14:39:14-08:00",
-        "path": "/nix/store/pay36xhvqz44n9kn6ndm9br2bgi2r4vg-zed-shopify-liquid-58a487c",
-        "sha256": "0adch5v1jkh3cn3mahfw0j4mx169vjzif78cwnx5cdnaw8q6zx9r",
-        "hash": "sha256-OfVvMOLKNla65QwdF7/cyYReiQTcQVWHZQNOGXaBrCk=",
+        "rev": "ab9d28f68ee0d7c9e2e021fb8ebe96a304be6913",
+        "date": "2025-05-23T10:43:29-07:00",
+        "path": "/nix/store/4bf47psb1d1cn89qifmmnhx7vg43xjmh-zed-shopify-liquid-ab9d28f",
+        "sha256": "1g8ag5b6knw69cv2ig5ickblwlfvpr46a1vks642avljdp8dm1my",
+        "hash": "sha256-voba0G2SbiWI0XMHZUi+21FO12SxvCg2S4bbaVZ5Cr0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4977,7 +4978,7 @@
         "liquid_liquid"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-9ddNfUivSGVrO/Dqd9OQ7FjrYk0fL5EqqZyVemPP/X4="
+      "cargoHash": "sha256-xhqufVIMf4sJNm8KoXqpphBVzHPWjOyjkHUJD6nAc9I="
     },
     {
       "name": "liquid-snippets",
@@ -6146,6 +6147,30 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "motoko",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/perforate-org/zed-motoko",
+        "rev": "9df3abb8d11bf4c2d8bc012661e564c367003a7b",
+        "date": "2025-05-23T13:20:32+09:00",
+        "path": "/nix/store/5qr0ny6rraz54imjwhwaxl3d8m3rx89p-zed-motoko-9df3abb",
+        "sha256": "1cr938i6pyn2wm19hby44j5w98ba1gx40mdgdrgp6sw83ricik58",
+        "hash": "sha256-qMzIYh6Ia3Nfbq9VQPoLaqHEiyTEL5hC5cL6ayIaKbM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "motoko_motoko"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-T6D7OepndViz+jEGBDqXPYVo+4dwfMx6428iGCQHL4c=",
+      "cargoLock": {
+        "lockFile": "/generated/motoko.lock"
+      }
     },
     {
       "name": "move",
@@ -9808,14 +9833,14 @@
     },
     {
       "name": "tombi",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "src": {
         "url": "https://github.com/tombi-toml/tombi",
-        "rev": "5276296f9955f65bce72cfa047fe0dd99899878c",
-        "date": "2025-05-19T23:00:24+09:00",
-        "path": "/nix/store/dw9g6xf9q48fd2fcmhv66x95g39wy3yz-tombi-5276296",
-        "sha256": "1zjc67mmc952ziw76hi7yxyw7hipszky7za953d0d44n3h1mf974",
-        "hash": "sha256-5CRXAxyWkAbaKEn94+fXN8LDffcnQnN4/KIkVusxTP4=",
+        "rev": "bdd430d7861da1ff6b004c35649d88fac32eff27",
+        "date": "2025-05-24T00:28:22+09:00",
+        "path": "/nix/store/3qkp68288iva0nqh5593947aq3hsxv7p-tombi-bdd430d",
+        "sha256": "08jalm1kl0cadav1ymp35m6yg9005aivg6s9b938gbdvwvq1lbk5",
+        "hash": "sha256-ZS4a8Oa7rYdGWkmbt6MqAKTnTS3jVh+2aooBOkOlSiI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9826,7 +9851,7 @@
         "tombi_toml"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-r4V8fJ0p9h65gyOiZZLkTxxXWp15C3IyE1gVCeqgjTo="
+      "cargoHash": "sha256-YUInKe8/Sj1MO9EPTwFP/5+FdZL7qUUE2392A3QF/K8="
     },
     {
       "name": "toml",
@@ -12895,6 +12920,23 @@
       }
     },
     {
+      "id": "haxe_hxml",
+      "name": "hxml",
+      "version": "a1e005fdaf2a50e013ed073a029039fa0a6188e3",
+      "src": {
+        "url": "https://github.com/Frixuu/tree-sitter-hxml",
+        "rev": "a1e005fdaf2a50e013ed073a029039fa0a6188e3",
+        "date": "2025-04-18T20:26:08+02:00",
+        "path": "/nix/store/4g13x57cr3m05dwmmj1fislrydjjl5k5-tree-sitter-hxml-a1e005f",
+        "sha256": "1l8f5br3rpddmrkv5ga0lwv2xkbq0w2zqlkv7gvhjv9c3rirw2wv",
+        "hash": "sha256-mwueYx4sbQn3O3tS/AUHeM0uNqdAvbJnrq3dPPIqDtE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
       "id": "helm_helm",
       "name": "helm",
       "version": "9d3f6e526dd074b9edae9070b7bb778f00e87a5b",
@@ -13458,14 +13500,14 @@
     {
       "id": "liquid_liquid",
       "name": "liquid",
-      "version": "d68a255c393cfefa9d3185023e2f1684a52907ed",
+      "version": "d6ebde3974742cd1b61b55d1d94aab1dacb41056",
       "src": {
         "url": "https://github.com/hankthetank27/tree-sitter-liquid",
-        "rev": "d68a255c393cfefa9d3185023e2f1684a52907ed",
-        "date": "2025-02-20T23:46:00-05:00",
-        "path": "/nix/store/g3xyfsbq62srn0xcja6izhdnqdzca9p8-tree-sitter-liquid-d68a255",
-        "sha256": "03qihxaq7969xl9afx80zgdjg8k3hkcqsvcimxs5l6j1x3q0096h",
-        "hash": "sha256-0CQA8OhBGlp0r5FtjdmEY6In2/sAdacS7cmkg1WHEQ8=",
+        "rev": "d6ebde3974742cd1b61b55d1d94aab1dacb41056",
+        "date": "2025-05-23T10:38:45-04:00",
+        "path": "/nix/store/hc6qpy7jln1h98aghca5injisz5l9ab2-tree-sitter-liquid-d6ebde3",
+        "sha256": "04jvix1bzi6rfca258s22ya476f4nhfpbd74v216nfxjm2impi5d",
+        "hash": "sha256-rcRbo6iyO2uC2OS0dR20xJlDlBdCoyIUc9nEv0KPWxI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13619,6 +13661,23 @@
         "path": "/nix/store/srrvsb8d519gl5qs1zg223w3dhn1nw03-tree-sitter-moonbit-2900947",
         "sha256": "08gxzwcsz89gy3nfxvzs6bgd8n300485rmchg6in78lyzs81kl4h",
         "hash": "sha256-kNAZkP6eomOjeZDVXBABYFjU3jL67+7s8C+hrxn//SE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "motoko_motoko",
+      "name": "motoko",
+      "version": "d023c718e005365234ab66ecd5ccff72c80bf587",
+      "src": {
+        "url": "https://github.com/christoph-dfinity/tree-sitter-motoko",
+        "rev": "d023c718e005365234ab66ecd5ccff72c80bf587",
+        "date": "2025-04-30T19:26:55+02:00",
+        "path": "/nix/store/qwa2fc3rk0da2clr98vwxw8b1f0dk28d-tree-sitter-motoko-d023c71",
+        "sha256": "0b10fv7k1wggxcm7b5sq4ah4yc5m6mpj94fn7apdyv8pilnkprnx",
+        "hash": "sha256-3eY7LY0Xbd+uOtaRJG81tTBPoCJYl3Uq6+/xMM92ICw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
