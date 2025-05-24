@@ -4737,14 +4737,14 @@
     },
     {
       "name": "kotlin",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/zed-extensions/zed-kotlin",
-        "rev": "2fa5b8dd0bef735f2ec48cc2d1ec6a5f4953d399",
-        "date": "2024-08-22T22:42:12-04:00",
-        "path": "/nix/store/a6ia1lgz3kh5kfzb3bvwh2b7nmakxmyp-zed-kotlin-2fa5b8d",
-        "sha256": "1qzf4n2ygyj2sifh531azvn5a6h74gfmm9ihpavg39izmlirsmf4",
-        "hash": "sha256-xFWdI60/pvG2ujCmWt0jBxpV7P4qjAJd1EL654Ul7uM=",
+        "rev": "b645136608b37fd8c6af9323d99f802213df8668",
+        "date": "2025-05-23T07:27:11+01:00",
+        "path": "/nix/store/0imxb0732nfs7iay01p4abvd9qikzb7r-zed-kotlin-b645136",
+        "sha256": "1s46vgamb6pf5s2s8p4x06lgf0h97fjb1p5ric1ad1g0m0vagsnk",
+        "hash": "sha256-0+qnNqjghaYCi7ncsKQ7CQL3qAGdXKSFLu6aVdXbhug=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4754,7 +4754,7 @@
         "kotlin_kotlin"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-UoUigeQAvopf/2V0lG7aOFDAY4y+uQ+JGQEWEcU5+IM="
+      "cargoHash": "sha256-AxldhMabNrlq12Ea6iuMO27X5n1FxeLlTJNNXuLIsEo="
     },
     {
       "name": "koto",
@@ -5549,14 +5549,14 @@
     },
     {
       "name": "mcp-server-exa-search",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/exa-labs/zed-exa-mcp-extension",
-        "rev": "3e17d8adc8ee0ec06b9dbb22a173abd8fa142e94",
-        "date": "2025-05-21T19:43:40-07:00",
-        "path": "/nix/store/fbiflawh7vw1mgsrj9yhw3qm7ac28sq0-zed-exa-mcp-extension-3e17d8a",
-        "sha256": "08nvsl7dslf62w0zmlq2zmbkpfdlj0nll7q70fdipd35r6mbqnhb",
-        "hash": "sha256-C1q8qslltBubAwcfSi2QtLk7V/0C0/oBF8ZR3Q7V2yI=",
+        "rev": "fd28f078602e2283c0afde229eb5360254530268",
+        "date": "2025-05-22T11:32:09-07:00",
+        "path": "/nix/store/8abi5khdqwsv06769x2wrpbl408zapji-zed-exa-mcp-extension-fd28f07",
+        "sha256": "0xlpa50j3j6kcfrg931ciywpiyrxbqad1lnv0m14qcki4n0ay1ly",
+        "hash": "sha256-ngavgCVxMkxCBdvS0BRePft4uY8sjPSyY9PIIUFRl3Y=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7778,14 +7778,14 @@
     },
     {
       "name": "prisma",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/zed-extensions/prisma",
-        "rev": "222136203e8d3d917e485e84f2982ed9e8b3a39a",
-        "date": "2025-01-30T13:44:00-05:00",
-        "path": "/nix/store/l15jd8z085l37wsr74l97ivj71xazxfp-prisma-2221362",
-        "sha256": "0nzkhi37njnxkxx9v4bgf619vgl05hk5mgkmf2jpscz0lifw22km",
-        "hash": "sha256-dQrBXaTgM32lcHW+WiYsgL6dgnFvkZ16n91Ke0aE81s=",
+        "rev": "fb87eb7ecf0dfdad10a76aafba5826eef7b44eaf",
+        "date": "2025-05-23T16:24:54-04:00",
+        "path": "/nix/store/qvz5ka45vdshwj7s862bbyk5drh345zg-prisma-fb87eb7",
+        "sha256": "18735hc8jhg4579rflglrzb3r84xg0n5kh0xlwh4669zswb439am",
+        "hash": "sha256-VaVBFtc/GUMgpx3AWSx4naA81s/0UZfTKeRBiRgs46A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7795,7 +7795,7 @@
         "prisma_prisma"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-MaaTaHAkMgDc3AuF6Xf/oz7pgJNqEOmk4GEowo4tR5A="
+      "cargoHash": "sha256-qGB03Jj2A9WNT3bQ6DQSUjuaAln3MLtKZCTUEsWMWFA="
     },
     {
       "name": "prisma-mcp",
@@ -9830,14 +9830,14 @@
     },
     {
       "name": "toml",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "src": {
         "url": "https://github.com/zed-industries/zed",
-        "rev": "d1ffda9bfeccfdf9bea3f76251350bf9cf7f6e1b",
-        "date": "2025-04-11T22:36:26-03:00",
-        "path": "/nix/store/70rd5ga5rvbrk0inqsdzzd3gc3872l5n-zed-d1ffda9",
-        "sha256": "04f7g6n2x0242vkgfagsvrh3vlrniw8396n19s8318nv21fali2q",
-        "hash": "sha256-WESqXBDbojCQTsGaNBCPNtM9YN76KffmFkSALqx5xxE=",
+        "rev": "0201d1e0b4867d55209b34c65b80ec4ba4c06a65",
+        "date": "2025-05-23T14:55:08+02:00",
+        "path": "/nix/store/ixb40llq7lwpqf127za95873l3qagd8c-zed-0201d1e",
+        "sha256": "1bg4asgm09nvy8s9rjh4mvdd3hny33877zsnwngsxqmsa5fshs26",
+        "hash": "sha256-RmioXVG64q6f5Vb/c9AY3sLR2q4Eypw08tsmUJ9W5K0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9848,7 +9848,7 @@
         "toml_toml"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-bSk1GsbonwvX4Twd41T6gSoB8Q26tLulRP/CvSn7DK4="
+      "cargoHash": "sha256-wKmHpDtNHqyup18+0bFeYtqFiCOkK4Sva2DdeaYhUcs="
     },
     {
       "name": "tomorrow-min-theme",
