@@ -18,16 +18,25 @@ jobs:
             input: nixpkgs
 
           - runner: ubuntu-24.04
+            input: nixpkgs-deprecated
+
+          - runner: ubuntu-24.04
             input: nixpkgs-unstable
 
           - runner: ubuntu-24.04-arm
             input: nixpkgs
+
+          - runner: ubuntu-24.04-arm
+            input: nixpkgs-deprecated
 
           - runner: ubuntu-24.04-arm
             input: nixpkgs-unstable
 
           - runner: macos-14
             input: nixpkgs
+
+          - runner: macos-14
+            input: nixpkgs-deprecated
 
           - runner: macos-14
             input: nixpkgs-unstable
