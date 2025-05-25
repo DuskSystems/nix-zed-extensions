@@ -1,4 +1,4 @@
-use std::env::temp_dir;
+use std::env::{current_dir, temp_dir};
 use std::path::{Path, PathBuf};
 
 use futures::stream::{FuturesUnordered, StreamExt};
@@ -72,8 +72,8 @@ pub async fn process_extension(
     }
 
     let stored_lockfile = generated_dir.join(format!("{name}.lock"));
+    let mut altered_lockfile = false;
 
-    let mut generated_lockfile = false;
     if cargo.exists() && !lockfile.exists() {
         tracing::info!("Generating Cargo.lock");
 
@@ -90,11 +90,30 @@ pub async fn process_extension(
         }
 
         fs::copy(&lockfile, &stored_lockfile).await?;
-        generated_lockfile = true;
+        altered_lockfile = true;
     }
 
-    if !generated_lockfile && stored_lockfile.exists() {
-        tracing::info!("Removing generated lockfile");
+    // HACK: Special treatment to fix duplicate dependency in lockfile
+    if repo == "https://github.com/zed-industries/zed" {
+        tracing::info!("Patching Cargo.lock");
+
+        let patch = current_dir()?.join("patches/zed-duplicate-reqwest.patch");
+        let apply = Command::new("git")
+            .args(["apply", &patch.to_string_lossy()])
+            .current_dir(&tmp_repo)
+            .output()
+            .await?;
+
+        if !apply.status.success() {
+            anyhow::bail!("Failed to patch Cargo.lock");
+        }
+
+        fs::copy(&lockfile, &stored_lockfile).await?;
+        altered_lockfile = true;
+    }
+
+    if !altered_lockfile && stored_lockfile.exists() {
+        tracing::info!("Removing old generated lockfile");
         fs::remove_file(&stored_lockfile).await?;
     }
 
@@ -135,7 +154,7 @@ pub async fn process_extension(
     }
 
     let kind = if cargo.exists() {
-        process_rust_extension(&name, &lockfile, generated_lockfile).await?
+        process_rust_extension(&name, &lockfile, altered_lockfile).await?
     } else {
         ExtensionKind::Plain
     };
