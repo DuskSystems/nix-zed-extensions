@@ -32,9 +32,13 @@ in
       recursive = true;
       source = pkgs.runCommand "zed-extensions-installed" { } ''
         mkdir -p $out
-        ${lib.concatMapStringsSep "\n" (ext: ''
-          ln -s ${ext}/share/zed/extensions/* $out
-        '') cfg.packages}
+        ${lib.concatMapStringsSep "\n" (
+          ext:
+          assert builtins.pathExists "${ext}/share/zed/extensions" || throw "Invalid Zed extension passed to home-manager module: ${ext.pname}";
+          ''
+            ln -s ${ext}/share/zed/extensions/* $out
+          ''
+        ) cfg.packages}
       '';
     };
   };
