@@ -47,7 +47,7 @@ lib.extendMkDerivation {
 
     {
       pname = "zed-extension-${name}";
-      inherit src version;
+      inherit name src version;
 
       RUSTFLAGS = "-C linker=${llvmPackages.lld}/bin/lld";
       LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
@@ -95,6 +95,24 @@ lib.extendMkDerivation {
         runHook postBuild
       '';
 
+      doCheck = true;
+      checkPhase = ''
+        runHook preCheck
+
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
+        ''}
+
+        # Checks
+        nix-zed-extensions check ${name} ${lib.concatMapStringsSep " " (grammar: grammar.name) grammars}
+
+        ${lib.optionalString (extensionRoot != null) ''
+          popd
+        ''}
+
+        runHook postCheck
+      '';
+
       installPhase = ''
         runHook preInstall
 
@@ -137,7 +155,5 @@ lib.extendMkDerivation {
 
         runHook postInstall
       '';
-
-      doCheck = false;
     };
 }
