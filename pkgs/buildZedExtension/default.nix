@@ -30,7 +30,7 @@ lib.extendMkDerivation {
 
     {
       pname = "zed-extension-${name}";
-      inherit src version;
+      inherit name src version;
 
       nativeBuildInputs = [
         nix-zed-extensions
@@ -51,6 +51,24 @@ lib.extendMkDerivation {
         ''}
 
         runHook postBuild
+      '';
+
+      doCheck = true;
+      checkPhase = ''
+        runHook preCheck
+
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
+        ''}
+
+        # Checks
+        nix-zed-extensions check ${name} ${lib.concatMapStringsSep " " (grammar: grammar.name) grammars}
+
+        ${lib.optionalString (extensionRoot != null) ''
+          popd
+        ''}
+
+        runHook postCheck
       '';
 
       installPhase = ''
@@ -90,7 +108,5 @@ lib.extendMkDerivation {
 
         runHook postInstall
       '';
-
-      doCheck = false;
     };
 }

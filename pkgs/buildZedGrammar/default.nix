@@ -10,8 +10,8 @@ lib.extendMkDerivation {
 
   excludeDrvArgNames = [
     "name"
-    "version"
     "src"
+    "version"
   ];
 
   extendDrvArgs =
@@ -26,7 +26,7 @@ lib.extendMkDerivation {
 
     {
       pname = "zed-grammar-${name}";
-      inherit src version;
+      inherit name src version;
 
       buildInputs = [
         wasi-sdk

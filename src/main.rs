@@ -4,8 +4,8 @@ use std::path::Path;
 use std::process::Command;
 use std::sync::Arc;
 
-use futures::StreamExt;
 use futures::stream::FuturesUnordered;
+use futures::StreamExt;
 use registry::RegistryExtension;
 use tokio::fs;
 use tokio::sync::Semaphore;
@@ -314,9 +314,62 @@ async fn main() -> anyhow::Result<()> {
             fs::write(manifest_path, manifest).await?;
         }
 
+        Some("check") => {
+            let nix_name = &args[2];
+            tracing::info!(
+                name = ?nix_name,
+                "Nix Name"
+            );
+
+            let nix_grammars: HashSet<String> = args[3..].iter().cloned().collect();
+            tracing::info!(
+                grammars = ?nix_grammars,
+                "Nix Grammars"
+            );
+
+            let manifest_path = Path::new("extension.toml");
+            if !manifest_path.exists() {
+                anyhow::bail!("Missing extension.toml");
+            }
+
+            let manifest = fs::read_to_string(&manifest_path).await?;
+            let manifest: ExtensionManifest = toml::from_str(&manifest)?;
+
+            let toml_id = &manifest.id;
+            tracing::info!(
+                id = ?toml_id,
+                "Extension ID"
+            );
+
+            let toml_grammars: HashSet<String> = manifest.grammars.keys().cloned().collect();
+            tracing::info!(
+                grammars = ?toml_grammars,
+                "Extension Grammars"
+            );
+
+            if toml_id != nix_name {
+                anyhow::bail!(
+                    "Extension ID '{toml_id}' does not match Nix package name '{nix_name}'"
+                );
+            }
+
+            for toml_grammar in &toml_grammars {
+                if !nix_grammars.contains(toml_grammar) {
+                    anyhow::bail!("Missing Nix grammar package: '{toml_grammar}'");
+                }
+            }
+
+            for nix_grammar in &nix_grammars {
+                if !toml_grammars.contains(nix_grammar) {
+                    anyhow::bail!("Unexpected Nix grammar package: '{nix_grammar}'");
+                }
+            }
+
+            tracing::info!("Nix extension is valid!");
+        }
+
         _ => {
-            eprintln!("Unknown command");
-            std::process::exit(1);
+            anyhow::bail!("Unknown command");
         }
     }
 
