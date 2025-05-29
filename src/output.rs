@@ -1,4 +1,4 @@
-use std::path::PathBuf;
+use std::{collections::BTreeMap, path::PathBuf};
 
 use serde::{Deserialize, Serialize};
 
@@ -37,24 +37,31 @@ pub enum ExtensionKind {
 pub struct CargoLock {
     #[serde(rename = "lockFile")]
     pub lock_file: PathBuf,
+
+    #[serde(
+        rename = "outputHashes",
+        skip_serializing_if = "BTreeMap::is_empty",
+        default
+    )]
+    pub output_hashes: BTreeMap<String, String>,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Source {
-    url: String,
-    rev: String,
-    date: String,
-    path: String,
-    sha256: String,
-    hash: String,
+    pub url: String,
+    pub rev: String,
+    pub date: String,
+    pub path: String,
+    pub sha256: String,
+    pub hash: String,
     #[serde(rename = "fetchLFS")]
-    fetch_lfs: bool,
+    pub fetch_lfs: bool,
     #[serde(rename = "fetchSubmodules")]
-    fetch_submodules: bool,
+    pub fetch_submodules: bool,
     #[serde(rename = "deepClone")]
-    deep_clone: bool,
+    pub deep_clone: bool,
     #[serde(rename = "leaveDotGit")]
-    leave_dot_git: bool,
+    pub leave_dot_git: bool,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]

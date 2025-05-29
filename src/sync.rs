@@ -1,9 +1,14 @@
+use std::collections::BTreeMap;
 use std::env::{current_dir, temp_dir};
 use std::path::{Path, PathBuf};
+use std::str::FromStr;
+use std::sync::Arc;
 
+use cargo_lock::Lockfile;
 use futures::stream::{FuturesUnordered, StreamExt};
 use tokio::fs;
 use tokio::process::Command;
+use tokio::sync::Semaphore;
 
 use crate::manifest::{ExtensionManifest, GrammarManifestEntry};
 use crate::output::{CargoLock, Extension, ExtensionKind, Grammar, Source};
@@ -282,8 +287,11 @@ async fn process_rust_extension(
     tracing::info!(hash = ?cargo_hash, "Pre-fetched cargo hash");
 
     let cargo_lock: Option<CargoLock> = if generated_lockfile {
+        let output_hashes = calculate_output_hashes(lockfile).await?;
+
         Some(CargoLock {
             lock_file: PathBuf::from(format!("/generated/{name}.lock")),
+            output_hashes,
         })
     } else {
         None
@@ -293,4 +301,117 @@ async fn process_rust_extension(
         cargo_hash,
         cargo_lock,
     })
+}
+
+#[tracing::instrument]
+async fn calculate_output_hashes(lockfile: &Path) -> anyhow::Result<BTreeMap<String, String>> {
+    tracing::info!("Calculating output hashes for git dependencies");
+
+    let lockfile_content = fs::read_to_string(lockfile).await?;
+    let lockfile = Lockfile::from_str(&lockfile_content)?;
+
+    let mut output = BTreeMap::new();
+    let mut futures = FuturesUnordered::new();
+
+    let limit = std::thread::available_parallelism()
+        .map(|n| n.get())
+        .unwrap_or(1);
+
+    let semaphore = Arc::new(Semaphore::new(limit));
+
+    for package in lockfile.packages {
+        let Some(source) = &package.source else {
+            continue;
+        };
+
+        if !source.is_git() {
+            continue;
+        }
+
+        let name = &package.name;
+        let version = &package.version;
+
+        let url = source.url().to_string();
+        let rev = match source.precise() {
+            Some(rev) => rev.to_string(),
+            None => {
+                tracing::warn!(
+                    package = ?name,
+                    url = url,
+                    "Git dependency missing precise revision"
+                );
+
+                continue;
+            }
+        };
+
+        tracing::debug!(
+            package = %name,
+            version = %version,
+            url = %url,
+            rev = %rev,
+            "Found git dependency"
+        );
+
+        let key = format!("{name}-{version}");
+        let semaphore = semaphore.clone();
+
+        let future = async move {
+            let _permit = semaphore.acquire().await.unwrap();
+            calculate_git_hash(key, url, rev).await
+        };
+
+        futures.push(future);
+    }
+
+    if futures.is_empty() {
+        tracing::info!("No git dependencies found");
+        return Ok(output);
+    }
+
+    while let Some(result) = futures.next().await {
+        match result {
+            Ok((key, hash)) => {
+                tracing::info!(key = key, hash = hash, "Calculated git dependency hash");
+                output.insert(key, hash);
+            }
+
+            Err(err) => {
+                tracing::error!(
+                    err = ?err,
+                    "Failed to calculate git dependency hash"
+                );
+            }
+        }
+    }
+
+    Ok(output)
+}
+
+#[tracing::instrument(fields(key = %key, url = %url, rev = %rev))]
+async fn calculate_git_hash(
+    key: String,
+    url: String,
+    rev: String,
+) -> anyhow::Result<(String, String)> {
+    let prefetch = Command::new("nix-prefetch-git")
+        .args([
+            "--url",
+            &url,
+            "--rev",
+            &rev,
+            "--fetch-submodules",
+            "--quiet",
+        ])
+        .output()
+        .await?;
+
+    if !prefetch.status.success() {
+        anyhow::bail!("Failed to pre-fetch git dependency")
+    }
+
+    let src: Source = serde_json::from_slice(&prefetch.stdout)?;
+    tracing::info!(src = ?src, "Pre-fetched git dependency");
+
+    Ok((key, src.hash))
 }

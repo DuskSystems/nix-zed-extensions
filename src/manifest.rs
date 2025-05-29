@@ -1,5 +1,5 @@
 use std::{
-    collections::{BTreeMap, HashMap},
+    collections::{BTreeMap},
     path::PathBuf,
 };
 
@@ -68,7 +68,7 @@ pub struct LanguageServerManifestEntry {
     #[serde(default)]
     languages: Vec<String>,
     #[serde(default)]
-    pub language_ids: HashMap<String, String>,
+    pub language_ids: BTreeMap<String, String>,
     #[serde(default)]
     pub code_action_kinds: Option<Vec<String>>,
 }
