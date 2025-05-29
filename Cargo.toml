@@ -14,6 +14,9 @@ publish = false
 tokio = { version = "1.44", features = ["full"] }
 futures = "0.3"
 
+# Cargo
+cargo-lock = "10.0"
+
 # WASM
 wasmparser = "0.231"
 

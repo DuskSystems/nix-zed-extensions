@@ -1,4 +1,4 @@
-use std::collections::{HashMap, HashSet};
+use std::collections::{BTreeMap, HashSet};
 use std::env::temp_dir;
 use std::path::Path;
 use std::process::Command;
@@ -60,7 +60,7 @@ async fn main() -> anyhow::Result<()> {
             // Lookup registry extensions
             let registry = tmp_registry.join("extensions.toml");
             let registry = fs::read_to_string(registry).await?;
-            let registry: HashMap<String, RegistryEntry> = toml::from_str(&registry)?;
+            let registry: BTreeMap<String, RegistryEntry> = toml::from_str(&registry)?;
 
             // Parse submodule revisions
             let submodules = Command::new("git")
@@ -74,7 +74,7 @@ async fn main() -> anyhow::Result<()> {
 
             let submodules = String::from_utf8(submodules.stdout)?.trim().to_string();
 
-            let mut revisions: HashMap<String, String> = HashMap::new();
+            let mut revisions: BTreeMap<String, String> = BTreeMap::new();
             for line in submodules.lines() {
                 let parts: Vec<&str> = line.splitn(2, " ").collect();
 
@@ -96,7 +96,7 @@ async fn main() -> anyhow::Result<()> {
 
             let gitmodules = String::from_utf8(gitmodules.stdout)?.trim().to_string();
 
-            let mut repositories: HashMap<String, String> = HashMap::new();
+            let mut repositories: BTreeMap<String, String> = BTreeMap::new();
             for line in gitmodules.lines() {
                 let parts: Vec<&str> = line.splitn(2, "=").collect();
 

@@ -93,6 +93,7 @@ final: prev: {
       // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {
         cargoLock = {
           lockFile = ../. + extension.cargoLock.lockFile;
+          outputHashes = extension.cargoLock.outputHashes or { };
           allowBuiltinFetchGit = true;
         };
       }
