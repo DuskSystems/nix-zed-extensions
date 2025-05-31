@@ -2,14 +2,14 @@
   "extensions": [
     {
       "name": "0x96f",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "src": {
         "url": "https://github.com/filipjanevski/zed-theme",
-        "rev": "4d36f86ff107f017777385d7cc0ef1ab4dc95e6c",
-        "date": "2025-05-07T21:40:52+02:00",
-        "path": "/nix/store/p7lnanqxzzs1snxb0f4sns4s4gdrli62-zed-theme-4d36f86",
-        "sha256": "0qn0zf5cfn02q03f3h4bwkn088pw2hzbw1vqjpfpzjp8q7p2a7hq",
-        "hash": "sha256-GB4l7sHoyn/dlXgHvj4U/CIE7OSLwOEGwAJYx4r7wGI=",
+        "rev": "ecfc098d7b9756b1708509bdcace0851b8666791",
+        "date": "2025-05-29T14:00:14+02:00",
+        "path": "/nix/store/clwg24nx5c4f6m5az8vbrgwfi2wpsrml-zed-theme-ecfc098",
+        "sha256": "13f2v6xrwid9jpk4sizmdy7mf526v8kbh5ngpzh5kc9gq9yr8k76",
+        "hash": "sha256-5kyUfcIvsVngv88WuCbaRhRXj2/1R03mlalFnrvZwo0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3806,6 +3806,24 @@
       "kind": "plain"
     },
     {
+      "name": "grimaces-birthday",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/ssaunderss/grimaces-birthday",
+        "rev": "a20c7f5450362efb759552aea7095d3e936fc0fc",
+        "date": "2025-05-28T09:39:09-05:00",
+        "path": "/nix/store/iaw0a2l81233m8ph7y6iyxfx3h0007kd-grimaces-birthday-a20c7f5",
+        "sha256": "0ry7q9cpcbd8nr3kb4q0014pgar9pkdf8mk2cgm0i5r4vxkqz4w7",
+        "hash": "sha256-h5OPZ98klwjqY2JW5Nq8Kat3SQAAkzVHtqgtdlnCx2c=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "groovy",
       "version": "1.1.0",
       "src": {
@@ -3874,6 +3892,24 @@
         "path": "/nix/store/jxag016qsayrvn7w6wpf8cyv4kbdk8nw-gruber-theme-zed-a076ecd",
         "sha256": "1c0y5lilkcqyccwbhvdv7wbbkyx91qpdm3ssi62iq2smp3i80n4z",
         "hash": "sha256-n1iA4rhVCxyFiVqP2i4Oqfu5Fj+7bbg4Yx6zSSMtHrA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "gruvbox-crisp-themes",
+      "version": "0.1.2",
+      "src": {
+        "url": "https://github.com/VatsalSy/zed-gruvbox_custom_themes",
+        "rev": "f7191979698384e1071e788fc51f0ab4e2c77501",
+        "date": "2025-05-24T07:51:38+02:00",
+        "path": "/nix/store/k2g99jx9x6p9zx5v67jj4na05mncyjpj-zed-gruvbox_custom_themes-f719197",
+        "sha256": "13c2rx84lph62ajxl3bfkvrnffivlpv88bv0993a7p1975w5jc61",
+        "hash": "sha256-wTBZeDkp3KNGSmAvhPalOzpn855uDdqlEgZeSlDPgo0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4669,14 +4705,14 @@
     },
     {
       "name": "jetbrains-themes",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
-        "rev": "a96b47101ee52c417e3619fb65308e07490ff598",
-        "date": "2025-05-18T13:07:11+03:00",
-        "path": "/nix/store/rjl16bl0r1i7dj09s0a2snav6zhv0ahh-zed-theme-jetbrains-a96b471",
-        "sha256": "05lcip1mz5gbpb29vq2d018h1mgijvzf2dqf4pa9xzkffcp03fm3",
-        "hash": "sha256-o7oBLnNu/p7UJQ434f6W8dUAUQBN4J3EuuuVX8ONjBY=",
+        "rev": "bdb5d3679c45f04a5096f94a563f0e06b4dd20e5",
+        "date": "2025-05-25T13:52:24+03:00",
+        "path": "/nix/store/fq5b0vwnxcl3b5gb8x7k63qvarbzzskc-zed-theme-jetbrains-bdb5d36",
+        "sha256": "1zzcq8syhsdzhl8p6lrhvx0zwh541bhkg70vzn13yc9r0hqnyrgf",
+        "hash": "sha256-7mVvMQQ5MT+C/RucN+EKpED+Qd8wU3MRhb9p6DXC7P8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4765,14 +4801,14 @@
     },
     {
       "name": "julia",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/JuliaEditorSupport/zed-julia",
-        "rev": "a7a2b64b31c001d34faa41874aa2fc7433aeeadc",
-        "date": "2024-12-12T19:12:10+01:00",
-        "path": "/nix/store/lhnyqlm7vw73s9snpmd4d2v7kfv0r2r2-zed-julia-a7a2b64",
-        "sha256": "02110lg8n83r9hanf4c2msclzblkbnvz8zqpic79glvc3mg1llgw",
-        "hash": "sha256-/FEaXh1s05cOixd/9Lddk65Pma6CEWcVTHkgix4FIQg=",
+        "rev": "0610e9b2a4dfc782a18abc4d58243628f9eee816",
+        "date": "2025-05-29T12:32:38+02:00",
+        "path": "/nix/store/3g0bkklzcmwvyn7aqq60msd8wzhqinf0-zed-julia-0610e9b",
+        "sha256": "1vb1giqa12yrq31hdky6m366xg8by3ad4g86fbsspbyclp4v3ivb",
+        "hash": "sha256-a8exyaXMr6v1cgY90tTwC71uzKjGzwbDwNmLoHB8Ye0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4861,14 +4897,14 @@
     },
     {
       "name": "kanso",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "src": {
         "url": "https://github.com/webhooked/kanso-zed",
-        "rev": "c0ae24ef7947d5fe55b1af97b36f8fa3dc4b5cf1",
-        "date": "2025-05-12T09:34:11+02:00",
-        "path": "/nix/store/7pclw96mzyj8ch5h8bcqhacqcf6024sj-kanso-zed-c0ae24e",
-        "sha256": "1qbbczyxhirlvcj7yql366xdrvi5x1wl6w4xsy0q6ygad79r1azn",
-        "hash": "sha256-9quQ02nqeYOB151wQ3noJe7cujGDYn8k2zRH2P1na+E=",
+        "rev": "8a5bb890e6f14380d96943ed3e1f57c830775289",
+        "date": "2025-05-25T00:43:57+02:00",
+        "path": "/nix/store/p2fgxjz36wrsfrwmf5qqk11mrdd7cdl6-kanso-zed-8a5bb89",
+        "sha256": "10v0yh8l4azd9pmp4zvqv7wvfxi5z64n308s20vl694fzh13b1pd",
+        "hash": "sha256-7YY1AvyOJEM3EBqBYYn5JXa3+dl4f3LrTe0rQhH0YIM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5101,6 +5137,26 @@
       "kind": "plain"
     },
     {
+      "name": "leptos",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/zed-extensions/leptos",
+        "rev": "8dffcf2bf0d87e333895410729171776f6664a33",
+        "date": "2025-05-16T11:02:07+02:00",
+        "path": "/nix/store/m9drxh52hm5xx9j6cfj7xak7ng5lnzcm-leptos-8dffcf2",
+        "sha256": "0wmcdmz35y15kjjn5qxxh4ac5jgg48x9498s7vn8gmhjf9mx8xk4",
+        "hash": "sha256-ZHbUa3IS1ofsPholkjoi78nCFIG942KlnCX4Mn5trHI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "leptos_rstml"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "less",
       "version": "0.0.1",
       "src": {
@@ -5163,14 +5219,14 @@
     },
     {
       "name": "liquid",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "src": {
         "url": "https://github.com/TheBeyondGroup/zed-shopify-liquid",
-        "rev": "ab9d28f68ee0d7c9e2e021fb8ebe96a304be6913",
-        "date": "2025-05-23T10:43:29-07:00",
-        "path": "/nix/store/4bf47psb1d1cn89qifmmnhx7vg43xjmh-zed-shopify-liquid-ab9d28f",
-        "sha256": "1g8ag5b6knw69cv2ig5ickblwlfvpr46a1vks642avljdp8dm1my",
-        "hash": "sha256-voba0G2SbiWI0XMHZUi+21FO12SxvCg2S4bbaVZ5Cr0=",
+        "rev": "e0999c45d368eef11e59784081f89b592cd21bc0",
+        "date": "2025-05-25T04:55:17-07:00",
+        "path": "/nix/store/m9k8rhqqfz8kjq45shw23k55p6cyrc5g-zed-shopify-liquid-e0999c4",
+        "sha256": "1l2k8khn1xinbz3yrp7k8i0ly8hn2xlbin8nwbg39w6fsixphhns",
+        "hash": "sha256-2kJ4e9TO8DTe4hbZuGgXFiJPQUTz3OzHXzb2YOFEU9A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5473,14 +5529,14 @@
     },
     {
       "name": "marble",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/TeenCoder159/marble-theme",
-        "rev": "50de97ef166d85b706ed6069fab1dff74c08536d",
-        "date": "2025-04-11T22:06:30+08:00",
-        "path": "/nix/store/fdpq6pxv6q2bgv8jpw8i26wrq9bvxa27-marble-theme-50de97e",
-        "sha256": "179ycfwf0g95yywazqv0gl25vag4vsfbh8fdjfgzjc69gk92lv0p",
-        "hash": "sha256-F2wq0nzJMPmfk80huJze5KldBH1g46+49yU94LhjPp0=",
+        "rev": "f3c0d6ee63529a6db1127fcd823372863c3fd65d",
+        "date": "2025-05-29T14:14:15+08:00",
+        "path": "/nix/store/iajxzdzn41pix90csa4llr6021w62vxl-marble-theme-f3c0d6e",
+        "sha256": "0md4bxvxw1crnsc6zgd3ag5hpvwf7bkcpl3p8yzdg8p8w6lh7pqq",
+        "hash": "sha256-GN8DqeHoote+R3fQy+Y6ju8Ly1OjvW+YtpkF3ndfpFU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5672,6 +5728,28 @@
       "kind": "plain"
     },
     {
+      "name": "mcp-planetscale",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/hunterjsb/zed-planetscale-mcp",
+        "rev": "c3842ace32adf4da3550bacec785b6b473867810",
+        "date": "2025-05-24T02:05:02-04:00",
+        "path": "/nix/store/vxs59q3wkp933m4zic43rbyx8br72rzi-zed-planetscale-mcp-c3842ac",
+        "sha256": "0sxmmnn1y5691m8ph3vlvx0ryi5aw2p8hhv0m2dgix9abb2hlyyz",
+        "hash": "sha256-33sKxVoq9fiaqGBDiK7gqkSfQd90D3hRDckUH6yttWs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-F/f3ZHLgCQv3S7mhVnVIxgedIA/TSofr/0AQc0x2ufw=",
+      "cargoLock": {
+        "lockFile": "/generated/mcp-planetscale.lock"
+      }
+    },
+    {
       "name": "mcp-server-axiom",
       "version": "0.2.0",
       "src": {
@@ -5711,14 +5789,14 @@
     },
     {
       "name": "mcp-server-buildkite",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/mcncl/zed-mcp-server-buildkite",
-        "rev": "ba8ff791e047fa0c9d14e488229eca8b698ea1a1",
-        "date": "2025-05-13T21:19:13+10:00",
-        "path": "/nix/store/michvw0kpcl9wxx6238yaw2qsz8mkzdx-zed-mcp-server-buildkite-ba8ff79",
-        "sha256": "0njskkavj2icaqi6qc85lkzv51bkjpr0xz5c3g2ly93m614y3di4",
-        "hash": "sha256-JLbhSTB1JE/FG6z8DvKVc4Wy/6QFMWwiViwKudWcWlo=",
+        "rev": "d5dc7fc651edd2b3398801cae7b27bbf3326e175",
+        "date": "2025-05-24T14:35:04+10:00",
+        "path": "/nix/store/sf8l0qcc3nh2wysph04v3ba6852kn3nq-zed-mcp-server-buildkite-d5dc7fc",
+        "sha256": "1lw6n5mgpq3nvwp0i9xzidy8j4qdarvl8lwq330cgxx8j76wjfg0",
+        "hash": "sha256-4DnJzZGo98fAGJhTRHdWDROJfIu/pwgu33bg+2qxhtM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5726,7 +5804,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-+ptCE83eO0JuIJcUgZW5dhdzNtbxTMShVduRbWwF0ps=",
+      "cargoHash": "sha256-cg1hCuQCPUYvlUwfSa3JLIA/x+8GcSELoZPY2FYUgi0=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-buildkite.lock"
       }
@@ -5790,14 +5868,14 @@
     },
     {
       "name": "mcp-server-firecrawl",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/akbxr/firecrawl-mcp-zed",
-        "rev": "01765e6b3daa0b8e8fc3d02e31bdc746471ebfd2",
-        "date": "2025-05-05T12:36:38+07:00",
-        "path": "/nix/store/56kk7yvc67ysqi2g4bap0lynajfn0cgm-firecrawl-mcp-zed-01765e6",
-        "sha256": "1ifrfjhynwahhnagz88mc1by4f9rdcdvxqlsa5jf3i84mj03di81",
-        "hash": "sha256-AcU2gKwExeFkUZrivhtrOTniV2AVof+UhVBx66F02cU=",
+        "rev": "9eaeb1f344b8668f611ed1b4613d7199ae84644d",
+        "date": "2025-05-23T11:25:14+07:00",
+        "path": "/nix/store/v37a3fyj4mmw3c33qjf712g5c7zyy907-firecrawl-mcp-zed-9eaeb1f",
+        "sha256": "1jvwsw49xlfk78iyb6wv9nw1ra4rq9xdznha6sfvf4lvpiamad7a",
+        "hash": "sha256-6jRVVbybEredNgra33rCmagcuE2bm+UjOtPRngjXfMs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5805,7 +5883,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-HNKbYRy2Kt7+ifHKvPtF8oyJNJ6b1heGtcS4VDY30kY="
+      "cargoHash": "sha256-a1TgqgME+L86kT4VAce51vwRpQ9Oyur9izVp6wfKqcM="
     },
     {
       "name": "mcp-server-github",
@@ -6151,14 +6229,14 @@
     },
     {
       "name": "monokai-nebula",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/JacobCallahan/monokai-nebula-zed",
-        "rev": "4ecf6290b621c74749695455d864afce95b32db3",
-        "date": "2025-05-15T11:02:51-04:00",
-        "path": "/nix/store/2zi6skf166ssf35gbk5ashl29m9x9961-monokai-nebula-zed-4ecf629",
-        "sha256": "185wjg6z23jv29q1daqfkml2pbpfcmvpss4nxfy0sabmwn63lkci",
-        "hash": "sha256-kU06jOV1KQ2865ZofXdl7q4raJ0OqxZwElsO8c2TvKA=",
+        "rev": "40ca9c58e2a4bff48af187c393699967c50633c9",
+        "date": "2025-05-30T13:45:54-04:00",
+        "path": "/nix/store/b5f3rdbmxqrchjyc1mib1iizpnly3qac-monokai-nebula-zed-40ca9c5",
+        "sha256": "1l2xidk5yz44madrvjagv9fpggnyfqgq5wb9fymclxdpqy4fds86",
+        "hash": "sha256-BunmiMe3dcqqd2nxgh923r53XdpPyZ2bqoR8X2aLXdA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6535,6 +6613,24 @@
       "kind": "plain"
     },
     {
+      "name": "neon-pulse-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/ArnoldWW/neon-pulse-theme",
+        "rev": "e0fdc1ab52a159132269ecc3feeafb9eb0ff9d29",
+        "date": "2025-05-28T21:59:42-05:00",
+        "path": "/nix/store/b3745shca6hzbrczqvvqngxpwx8sph7l-neon-pulse-theme-e0fdc1a",
+        "sha256": "1jwsmp3w65l987pzxlxxl3hf262csa4r04vi761is3r3xjzjwxj0",
+        "hash": "sha256-QHYuv+wjDx2DOXETkInSTBjh4KC90/7vQYkWw8etmss=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "neosolarized",
       "version": "0.0.2",
       "src": {
@@ -6580,6 +6676,24 @@
         "path": "/nix/store/196a7hbbfk1v38ql1d2dci138qyimxk1-nestjs-snippets-6cc779a",
         "sha256": "147b4adrhc85iqn7dc4q3xpm57vhadyqgaav6fqplkm2616zvq6m",
         "hash": "sha256-1eD9TTCiTnqxM1uph31TcJ9Sbx+YsHYsjgUxmJsi65A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "neutral-theme",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/dustinbturner/neutral-theme",
+        "rev": "1ed2398bbb31154c3a9c63de71a3b8530693e14a",
+        "date": "2025-05-22T12:11:49-04:00",
+        "path": "/nix/store/r87x4v042hc8xqjdpz138hsffj130vw3-neutral-theme-1ed2398",
+        "sha256": "01asv9rv64vsbr5lg3k98fimyahd3cminjwgdgghq22z0gpmidz3",
+        "hash": "sha256-47dY7wNfCAzfa49LGysbDSpfo0NpjkdLXnoTs3PaWgU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6807,14 +6921,14 @@
     },
     {
       "name": "noir-and-blanc-theme",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/chaseweaver/noir-and-blanc",
-        "rev": "cb295f37a9bc02de35b53c75f64303d9bc0e96e1",
-        "date": "2025-05-08T11:55:14-04:00",
-        "path": "/nix/store/f58hhdg21cmzjbzsx2ar9ldn9cfx7zj5-noir-and-blanc-cb295f3",
-        "sha256": "1bwllb61h6jh2vfykqn1nsmafp6g7yv6j91y32y3jd122d38ngcg",
-        "hash": "sha256-jz2LRhMiNDm8GD4kabY/z1ynqrbB4undFlAaGMyilK8=",
+        "rev": "b225413e5910d0eadd022e518f97522c4523b92a",
+        "date": "2025-05-22T17:41:03-04:00",
+        "path": "/nix/store/4cqmfjf6hwxzy9h69ih9g28zibn0kl2l-noir-and-blanc-b225413",
+        "sha256": "0qzglxvx315cgswwkvqyqladbksza2jn1340qi9q0n2wcwyqc2fc",
+        "hash": "sha256-zAmGPWdcWIBTxICMYKVQX8/VFMUe78m5fqyE0Xen72M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9113,14 +9227,14 @@
     },
     {
       "name": "serendipity",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "src": {
         "url": "https://github.com/meocoder31099/Serendipity-Theme-Zed",
-        "rev": "a666befeeb8fe20bd3b4cc6bb6b4e2e172a06575",
-        "date": "2024-10-02T22:24:20+07:00",
-        "path": "/nix/store/c1l801kdmilnh1n9bml9nm0klphjnxw4-Serendipity-Theme-Zed-a666bef",
-        "sha256": "11daphsllm6ix9dpdh2gqaw7xwvdd186ygcpdnp09n8ygfyyh18z",
-        "hash": "sha256-HwXovXse2QSubZc9b1BobfN+uMJPwHZb6tFUSjW8qoU=",
+        "rev": "59b8656ea0c0e19d2d80a5e2ee871bb42e8e4b7f",
+        "date": "2025-05-29T10:57:39+07:00",
+        "path": "/nix/store/l2n80c95pzny58i1r7izgm5kc45mp72j-Serendipity-Theme-Zed-59b8656",
+        "sha256": "1nxkl6xbwkq4q6d6gjlnha2rwf28mzn82mgl1ay6h4vfx45qp14x",
+        "hash": "sha256-nYSLC+luE2i8CvRVgeyvSDiehYKWymeawQRPvrqhs9s=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9593,14 +9707,14 @@
     },
     {
       "name": "sorbet",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/notchairmk/zed-sorbet",
-        "rev": "98e308d02e913137e2080693218d241d718e0756",
-        "date": "2024-11-11T09:21:49-08:00",
-        "path": "/nix/store/0g43d6jdmw5k77571gnjfp6m4iizj5vc-zed-sorbet-98e308d",
-        "sha256": "0y20zp6pfk90jc1vmraga5nz13jf0bpgfgjm30lvx1mca5fr1rvk",
-        "hash": "sha256-c+eQXVGshr4pGFU+9+4CTo7wbVFP5boDkyBNd839QHg=",
+        "rev": "21f37e353b205dda92ac9de91213730ddd029326",
+        "date": "2025-05-29T07:14:55-07:00",
+        "path": "/nix/store/qky6kmglhsiggng07igb5nkdmg38hkfv-zed-sorbet-21f37e3",
+        "sha256": "1sa0f1jqvhwbgq9w1968kccrvmllamflmciv0lsv203y7ia1kql3",
+        "hash": "sha256-g+IZVDx+ALE1BTuySl1VlNadGZvIpMATfovDjWVwQOk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10043,6 +10157,27 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "tact",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/mikalsande/zed-tact",
+        "rev": "4dbcdbf01ba271869898c9d6b0c649285993fe18",
+        "date": "2025-05-26T22:03:09+02:00",
+        "path": "/nix/store/v0j1wzd7bcimimkn0pfd1acvvw1wxhk9-zed-tact-4dbcdbf",
+        "sha256": "05j964jni8yc0kj6gm2byq6byraq4pxyjx7d3ykrsy70dzxnh3kz",
+        "hash": "sha256-fw5o+2/geJ2nH+106fslWGW/DPZL1GfkBMyjaCUxSRY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "tact_tact"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-v8/mzctAPPjqOUqyl2pFFV8RXWA3A9axJO54z4CGq6I="
     },
     {
       "name": "tailwind-theme",
@@ -13794,14 +13929,14 @@
     {
       "id": "julia_julia",
       "name": "julia",
-      "version": "e01c928d11375513138a175a68485c4d53e55ea9",
+      "version": "18b739c1563c83fc816170a4241adfa4b69e5c47",
       "src": {
         "url": "https://github.com/tree-sitter/tree-sitter-julia",
-        "rev": "e01c928d11375513138a175a68485c4d53e55ea9",
-        "date": "2024-11-16T14:44:12-05:00",
-        "path": "/nix/store/8sdl3ncsnvhp1vnr8fgrq015iywxc53p-tree-sitter-julia-e01c928",
-        "sha256": "0vmg7fyq47dv3hd0dlgapjq3p450wn0by85qk52nvq2nynj5zqj0",
-        "hash": "sha256-QOJfpPVW4G1Fmbggv4DloJA7sLzq0QYaHLsdgr07r24=",
+        "rev": "18b739c1563c83fc816170a4241adfa4b69e5c47",
+        "date": "2025-04-15T19:00:52-05:00",
+        "path": "/nix/store/jgv0fy1kgv6dimmyv8w5mpidj6hgf5qr-tree-sitter-julia-18b739c",
+        "sha256": "16rvil2xxx39i8gk6n7yz2pxnwc44a1cps3hkhid827yzaxxpg0c",
+        "hash": "sha256-DLzbu/r+CNQinHDoy4IihHHbr/j+WDMfimn03gWNO5s=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13972,6 +14107,23 @@
         "path": "/nix/store/33c163wfzadskwjaraqaf74rdan09075-tree-sitter-ledger-8a841fb",
         "sha256": "12mfn42nhn0i8gf39aqbqfkccqc1mbn5z1vw5gh98pc9392jccq4",
         "hash": "sha256-BDMmRRqJXZTgK3yHX+yqgWHGpsMLqzTcQxFYaAWxroo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "leptos_rstml",
+      "name": "rstml",
+      "version": "4ab78c0bb76735dbf4e1bd1a2ec43e953949edb7",
+      "src": {
+        "url": "https://github.com/rayliwell/tree-sitter-rstml",
+        "rev": "4ab78c0bb76735dbf4e1bd1a2ec43e953949edb7",
+        "date": "2025-02-14T14:18:44Z",
+        "path": "/nix/store/f1skld9pjzkxl0cyicb3cy8nwnmraff5-tree-sitter-rstml-4ab78c0",
+        "sha256": "04liw06l5cc4apxv2cr60kjvnnzy3y9i35ff4f1kxrwqv4qpwma8",
+        "hash": "sha256-SFV+MdmY5z6DI86VEZMf/lu75QQmM7H7VYSxQg3gkRI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15604,6 +15756,23 @@
         "path": "/nix/store/kg71q1l0ih7705z6zxmwav9ccznqajb2-tree-sitter-swift-33e56e4",
         "sha256": "1a69zpbr930xwgrjm1m4wmhiyxa9yv7k0nvw3dxs5vkmm4qq3frn",
         "hash": "sha256-NruBMal17qJ7G3xbMM/2SXUfYeWkhirz4x2MlNf9yag=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "tact_tact",
+      "name": "tact",
+      "version": "a6267c2091ed432c248780cec9f8d42c8766d9ad",
+      "src": {
+        "url": "https://github.com/tact-lang/tree-sitter-tact",
+        "rev": "a6267c2091ed432c248780cec9f8d42c8766d9ad",
+        "date": "2025-05-01T17:18:11+02:00",
+        "path": "/nix/store/bma2bw891n40s7gbvz84jf2k2ngrfr01-tree-sitter-tact-a6267c2",
+        "sha256": "18w8rvxpbq0lm02qh9h4bzww9f7qpa32vpj9hss75br8avyhs1fq",
+        "hash": "sha256-2AUN/VYor3K0hkneLYa6+LjE+V8EJogFqBTgdfvOiKM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
