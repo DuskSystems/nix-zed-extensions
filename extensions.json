@@ -336,6 +336,24 @@
       "cargoHash": "sha256-KSXJaKcSg9Q/ppAC8I5YILcgxXdGWHznrFX+ZtzDnEU="
     },
     {
+      "name": "anthracite-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/boycsuk/anthracite-theme",
+        "rev": "eacf20ba599a17e82055c989a0458be74dd69269",
+        "date": "2025-05-30T20:26:13+02:00",
+        "path": "/nix/store/hf0br3pg75h95bz9c9id43rqgrfl9fnl-anthracite-theme-eacf20b",
+        "sha256": "1lbackbk7gxzvmd719pjqpvsjjaqp2cj8fvd0wv79anrwzdg4wd8",
+        "hash": "sha256-qHHy2ufZqnQ2B207JJm4WEmp98XypnBa3b+/M9dkatE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "anysphere-theme",
       "version": "0.0.1",
       "src": {
@@ -444,6 +462,26 @@
       },
       "grammars": [
         "ass_ass"
+      ],
+      "kind": "plain"
+    },
+    {
+      "name": "assembly",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/DevBlocky/zed-asm",
+        "rev": "1d98bf0f1b61d550168bf50adafa1465b90c3903",
+        "date": "2025-05-30T19:56:15-07:00",
+        "path": "/nix/store/z63kll6kx1x0jk95493c2n3wzv1an64z-zed-asm-1d98bf0",
+        "sha256": "1bnllcfpqv606zmss3r9dd9wl4da0fszzjih6kb3p56c7ff62wdq",
+        "hash": "sha256-uHFhnDvMlDvWNDDK/7UDqhHKU2spD63rN8BsfB2j1K4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "assembly_asm"
       ],
       "kind": "plain"
     },
@@ -645,6 +683,24 @@
         "path": "/nix/store/wpkgrlkwdfbx13p3zshj23ym6vrqv5im-zed-azutiku-theme-7917fb6",
         "sha256": "0xphc5lpvkqw60fcb4bpr3w7mkc56lxhb0nyjidvd6swv1fha3cw",
         "hash": "sha256-nA0FXdhcm7ZblN6CBTs1hc16+Mh3kcUcMBzPfWlh8HY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "bamboo-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/LoamStudios/zed-bamboo-theme",
+        "rev": "e65ee1668527e1fbcef6e1efdd9743c7b229cd4e",
+        "date": "2025-05-23T08:02:53-07:00",
+        "path": "/nix/store/if231h0255jxs0jdrbin5g8sqab3lggq-zed-bamboo-theme-e65ee16",
+        "sha256": "0jvvblcc4hyl1w5s2hs3qmj5jrgmgpnbi37p4vbgwdxbk49wlwki",
+        "hash": "sha256-cXLKE5mrN/7WJveMuOx99WVZZMVDQ6ELD9RDwhhde0s=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -863,24 +919,25 @@
     },
     {
       "name": "bicep",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "src": {
         "url": "https://github.com/oWretch/zed-extension-bicep",
-        "rev": "ee3b9c0af30beb75f704d25dfa8c25853114da90",
-        "date": "2025-02-19T20:33:15Z",
-        "path": "/nix/store/a5pf5k9illiab1mnxjvaxckld1q68723-zed-extension-bicep-ee3b9c0",
-        "sha256": "04wyar59a1n2qvapnghz93mmpzk24aazj46grhvmpn35z029rgyc",
-        "hash": "sha256-zL+cBPhl2Fs3zM8Q+ZUiYv5b60gfPnvVxsIGlUpWnhM=",
+        "rev": "9c30e7282015447b6a6e1af714922b98b41fba96",
+        "date": "2025-05-31T09:51:14+12:00",
+        "path": "/nix/store/ymh7n5s9kbn8hmdhnc142y8nyvdny57c-zed-extension-bicep-9c30e72",
+        "sha256": "0wcs2cdn6bc6c9lhy733fh9zpb238zbkff0nc41xwmhcblzd2fwh",
+        "hash": "sha256-kDvRPl0MVt4DYRY4N9dHQ6z7E3RjHA9pYoYtYxsTmnE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
       "grammars": [
-        "bicep_bicep"
+        "bicep_bicep",
+        "bicep_bicep_params"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-GLdiod2nIBZsBBOIpdHSZoFKCKMNcKM/z+/1+H3/hfQ=",
+      "cargoHash": "sha256-b4YWM/KA758OaYxWP7ESIQrSd95XUEQlcpjsOrcerng=",
       "cargoLock": {
         "lockFile": "/generated/bicep.lock"
       }
@@ -1751,14 +1808,14 @@
     },
     {
       "name": "colorizer",
-      "version": "0.0.4",
+      "version": "1.0.6",
       "src": {
         "url": "https://github.com/tamimhasandev/colorizer",
-        "rev": "fcc20469f2cb51b7fa9b661c34d6f3fa6de41bb9",
-        "date": "2024-09-04T01:41:15+06:00",
-        "path": "/nix/store/algnzrhqs2ww8hs5h0z3fc3mk5c5r07j-colorizer-fcc2046",
-        "sha256": "07q6mxkj0fa72n10yp3ypp8i6xn853ggzq41638jmb7y0pbxbx6n",
-        "hash": "sha256-1vTV1wX+rCrRMIHg/94oyHYT0b1+XA+CFUc5IGevBh8=",
+        "rev": "28b559c72043fa09d690a3a955d045dddc2d7c92",
+        "date": "2025-05-31T12:38:34+06:00",
+        "path": "/nix/store/yxip99sna74grgb4rj25yqcvwj0pgifh-colorizer-28b559c",
+        "sha256": "047lkb9hx1hkalvjii8k9w1fk20kr00n41b2w3373gdwh96zyj8d",
+        "hash": "sha256-DUn/TYK8vXHG4GIFYgHIE4jpAk8TxSg3VROGDtOa9BA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5355,14 +5412,14 @@
     },
     {
       "name": "ltex",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "src": {
         "url": "https://github.com/vitallium/zed-ltex",
-        "rev": "9041f00c2fc9bae2ae0fca8a5a4a76210ec80c19",
-        "date": "2025-01-26T20:31:31+01:00",
-        "path": "/nix/store/dfrz5mr2n650zz12mmmgs2hy94mirjn3-zed-ltex-9041f00",
-        "sha256": "09jwf72566adl0dinzrlmnzicwgn2jl251ns7sxgsjrwljgmrjj8",
-        "hash": "sha256-SMpcn6Q8S/26PtqGIqgU9nEWv600fxsboE0ZU8RxXCY=",
+        "rev": "fe7408acf054831bb676ca83f82c552c8f32c697",
+        "date": "2025-05-31T12:46:48+02:00",
+        "path": "/nix/store/y9m7222c8vic861jvas4fm1g5zhx4slb-zed-ltex-fe7408a",
+        "sha256": "0qyagjzxax08qwk98kzcvqkf9jnw0dr4fy1dyg7j0h4qb9a7zand",
+        "hash": "sha256-zap/VFqYQCDP8y14R3ID3MrkJt7sT5Qmxwh01b98ymM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5370,7 +5427,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-u5tiXH5Y2b1m6OdJgwk0CnmV3ga5wP9w/OjlCXfB3oA="
+      "cargoHash": "sha256-S4OFo3vqykOe2MIn+vc8ZFtDzfGou6uQlBzYb7ynb2k="
     },
     {
       "name": "lua",
@@ -12125,6 +12182,23 @@
       }
     },
     {
+      "id": "assembly_asm",
+      "name": "asm",
+      "version": "6ace266be7ad6bf486a95427ca3fc949aff66211",
+      "src": {
+        "url": "https://github.com/RubixDev/tree-sitter-asm",
+        "rev": "6ace266be7ad6bf486a95427ca3fc949aff66211",
+        "date": "2024-01-29T10:20:37+08:00",
+        "path": "/nix/store/sv22184whqyniwvwnpnzr5dp7fp1f4a1-tree-sitter-asm-6ace266",
+        "sha256": "1bbmrbmrqbg75b4z99mvwvlqyi62pwl6nzv1hj6wk9jah29jbidh",
+        "hash": "sha256-sMUlk4BKpsmNhGF/ayi/wkSP6ea7pvTJKuctnOvKda0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
       "id": "astro_astro",
       "name": "astro",
       "version": "4be180759ec13651f72bacee65fa477c64222a1a",
@@ -12195,14 +12269,31 @@
     {
       "id": "bicep_bicep",
       "name": "bicep",
-      "version": "bff59884307c0ab009bd5e81afd9324b46a6c0f9",
+      "version": "8288b2b7a0313842d3b2997b36bf1cbd2b60abc0",
       "src": {
-        "url": "https://github.com/tree-sitter-grammars/tree-sitter-bicep",
-        "rev": "bff59884307c0ab009bd5e81afd9324b46a6c0f9",
-        "date": "2024-12-21T22:22:12-05:00",
-        "path": "/nix/store/kn6i9kvxz1vh975yrf7gi8nq2dz5k6cd-tree-sitter-bicep-bff5988",
-        "sha256": "0ydz1vf6n8ky0vcgcmihr6ddfdlswnz8xa59zjiwdcra0qkf3azs",
-        "hash": "sha256-+qvhJgYqs8aj/Kmojr7lmjbXmskwVvbYBn4ia9wOv3k=",
+        "url": "https://github.com/oWretch/tree-sitter-bicep",
+        "rev": "8288b2b7a0313842d3b2997b36bf1cbd2b60abc0",
+        "date": "2025-05-30T20:44:18+12:00",
+        "path": "/nix/store/jf3bx7bkfa188w92g1cj301hsh1b06ap-tree-sitter-bicep-8288b2b",
+        "sha256": "0017w3qsqdasav8x4cg94bn1kwg7p6800da5pwsrdlq4v4h8ndha",
+        "hash": "sha256-CjaLINkE05Y1v0U1AJC55/EZ7CLpMdLRVlo1rPHgJwA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "bicep_bicep_params",
+      "name": "bicep_params",
+      "version": "119641e7ae85ea1b201cd2c5f909a017fcd8ad68",
+      "src": {
+        "url": "https://github.com/oWretch/tree-sitter-bicep-params",
+        "rev": "119641e7ae85ea1b201cd2c5f909a017fcd8ad68",
+        "date": "2025-05-30T20:52:51+12:00",
+        "path": "/nix/store/hjm01w4icrd48pzpwlbprffamgkhz9ww-tree-sitter-bicep-params-119641e",
+        "sha256": "15qziqbzx2ag1pq7310kfr0ah0ibyn40psc7wxfvkd9fdi0l29zf",
+        "hash": "sha256-7idBQWwutbld54fpC4j1KwKoQHYThHHwDU+J/heOH5c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
