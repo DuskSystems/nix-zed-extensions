@@ -1905,14 +1905,14 @@
     },
     {
       "name": "cql",
-      "version": "0.0.2",
+      "version": "1.0.0",
       "src": {
         "url": "https://github.com/Akzestia/zed-cql",
-        "rev": "a94ac957fe8e16a88f38c2691854750bf48d2e4a",
-        "date": "2025-04-18T18:02:12+02:00",
-        "path": "/nix/store/lp931whikih8rwj6fasc6p33gxpmrsyr-zed-cql-a94ac95",
-        "sha256": "14nhwy03l7rn5fi74h6ds1rmysvx4asdg4n80s10fww8d5m6vbmq",
-        "hash": "sha256-uK5tammIcweCBsiS17QifWtfc9DNQHKiKzYfOoDn0JI=",
+        "rev": "9819c963a46d2ae423c0fa3dc9bcde75cd98db83",
+        "date": "2025-06-02T00:17:48+02:00",
+        "path": "/nix/store/nz8ff7bw4f4i66vm31caqi0ngfp0sfdx-zed-cql-9819c96",
+        "sha256": "0va4mwsvn6cvj3cnmjm5ybz6zw3zn9d94cwxrr9i73s5p513kv30",
+        "hash": "sha256-YOw5QrlFjxNTzp0zklqyf/Bv/vKlymrZkJsZuzWvRG0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1921,18 +1921,19 @@
       "grammars": [
         "cql_cql"
       ],
-      "kind": "plain"
+      "kind": "rust",
+      "cargoHash": "sha256-uQpXBapJe71JNPJ9ExyLwM/vnOAPvyNng+H9WOAhGK4="
     },
     {
       "name": "crates-lsp",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/appelgriebsch/zed-crates-lsp",
-        "rev": "b3ed0a7d4529048f3dd06409625d8d4cde094dfd",
-        "date": "2025-05-13T17:51:19+02:00",
-        "path": "/nix/store/jq5fzskcwsrfrpc1sj6b0q3kyd11b7wa-zed-crates-lsp-b3ed0a7",
-        "sha256": "0xjj8ijc4q0njgjxv3r791y7cm8y40aqwhgaaswxisidbppqhx8z",
-        "hash": "sha256-H3WI710t6ti5VupBjhUgHlV2fEgnj93lkxZgwmREUnY=",
+        "rev": "9eed9e25bb93ccd0192bf94ede1339d4a1045e49",
+        "date": "2025-06-02T22:02:00+02:00",
+        "path": "/nix/store/qdps9g119pp496dnf9bb53vnif5irn9n-zed-crates-lsp-9eed9e2",
+        "sha256": "0kw3y3khzhxnr2iaayg2fv3svdr2n3ij9zz6dcpp9im51h5iaxyh",
+        "hash": "sha256-0HcVCwylxnQva+b/JOOwIretx3bieaWiyLbDD+fwg08=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1940,7 +1941,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-+yAg0WaNPXrys+d1Xy8ODtQxg+D03XYsvooc2iTUc6k="
+      "cargoHash": "sha256-rthmmT33gJTSg3nYw7tRKaAshCaBLw2NWKZNqEXeRGU="
     },
     {
       "name": "crimson-theme",
@@ -3453,6 +3454,24 @@
       "grammars": [],
       "kind": "rust",
       "cargoHash": "sha256-3e0HEr+dRLDP4f09pNOmib5p0orgix40Qeb59QGDxKU="
+    },
+    {
+      "name": "github-classic",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/meocoder31099/Github-Classic-Theme-Zed",
+        "rev": "7ae814bb51659189f82916d371d7b842b198fb98",
+        "date": "2025-06-02T22:33:37+07:00",
+        "path": "/nix/store/30ib6f76pii0szx7ly8wds4q4g8miqfg-Github-Classic-Theme-Zed-7ae814b",
+        "sha256": "0fwydhzgk0w5x949qkp1qifr9kqgiml4s5g28nr2vw6ryxaf5ijl",
+        "hash": "sha256-VMbiVPfZ8C2yReIVTWiND8+UXcThTpxI6oWD+T5snjs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "github-copilot-theme",
@@ -9806,14 +9825,14 @@
     },
     {
       "name": "sql",
-      "version": "1.1.2",
+      "version": "1.1.3",
       "src": {
         "url": "https://github.com/nervenes/zed-sql",
-        "rev": "848c25658e6f1f112fd3dd4565f16db77cf92d40",
-        "date": "2024-08-27T18:28:36+02:00",
-        "path": "/nix/store/yi0bnzmsm3ag3qz7r6xq8hz46s1zyxm1-zed-sql-848c256",
-        "sha256": "0lnp4hnk33nfygdhfzbhf43g6kpqk5d1997604sni1gbl8wqsvwq",
-        "hash": "sha256-mG+NOaLrhWg1AeakFFqZ+E7zBnFwfQfb886OMS0k11I=",
+        "rev": "932a50120cfe7b41b8da6e6375b15fbae6c529ef",
+        "date": "2025-06-03T14:09:23-04:00",
+        "path": "/nix/store/f1mkr67smmvzqnlqrxy7icnvsp24kya4-zed-sql-932a501",
+        "sha256": "14ymarhv4jghx9qdph1bvk8s22jnfdx9zfaa006j0z5y3dlbddh8",
+        "hash": "sha256-CLa2aBu+fCANAEq5n3pzVgqh0dwrwNtw6vBJsmFW1ZM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12660,14 +12679,14 @@
     {
       "id": "cql_cql",
       "name": "cql",
-      "version": "e8cb6629ee8ee00c76df88e6b1a9a41fd07afcab",
+      "version": "2308816fff904b04307139e4119b8ebbbd28042e",
       "src": {
         "url": "https://github.com/Akzestia/tree-sitter-cql",
-        "rev": "e8cb6629ee8ee00c76df88e6b1a9a41fd07afcab",
-        "date": "2025-04-17T17:46:40+02:00",
-        "path": "/nix/store/mfircrfr2ifw4p2fdmhrjiwchwvfhysy-tree-sitter-cql-e8cb662",
-        "sha256": "1fpqnj1v2jxhyk2q3w37nipxf7srh8j8ayriaza0a37xwbsfs3br",
-        "hash": "sha256-eQ3t9OL9DAXUVzF7hSSCWR/Xb7Rn8IHF9LBLsYO0+Lo=",
+        "rev": "2308816fff904b04307139e4119b8ebbbd28042e",
+        "date": "2025-05-18T20:09:55+02:00",
+        "path": "/nix/store/kf8ynylfa0x86bf8kgzwwwkdaw2yxrdr-tree-sitter-cql-2308816",
+        "sha256": "1kqsikkiv80rdc5q3nh9ldk9zvdn4ips1zhzycw0x2dzl8y8p2n1",
+        "hash": "sha256-wYqLPKK/iQ448x/+oG8ktu2fZqMJ2oELaxmgHeeMGs8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15686,14 +15705,14 @@
     {
       "id": "sql_sql",
       "name": "sql",
-      "version": "6dfca8b6dcb196d943c10e9cabab25e60232d332",
+      "version": "4a99c73f5384f2be10adc55208c84d95a7eb1137",
       "src": {
-        "url": "https://github.com/nervenes/tree-sitter-sql",
-        "rev": "6dfca8b6dcb196d943c10e9cabab25e60232d332",
-        "date": "2024-05-23T13:44:48+02:00",
-        "path": "/nix/store/pwipv2gyks7dc015g21hsvcknz33783b-tree-sitter-sql-6dfca8b",
-        "sha256": "0kpbbxw2ddk216rgk1ir5g171p01dh2lnclzrpdl09gngcyd4pl5",
-        "hash": "sha256-hV7SPHv2JUDbzZ8ySwVsAdxwwis5hvmyCWK2Jnhf604=",
+        "url": "https://github.com/DerekStride/tree-sitter-sql",
+        "rev": "4a99c73f5384f2be10adc55208c84d95a7eb1137",
+        "date": "2025-03-11T13:46:15Z",
+        "path": "/nix/store/qlqcd6c2jjpazis5cvbgz3rz47xxmk7d-tree-sitter-sql-4a99c73",
+        "sha256": "1dk9rkh2r54xin7rg74h5lw9vy77qgj8g3rrjzkf9v5m9k912fra",
+        "hash": "sha256-KjsR0ky17OTmlzmPh+TD5/idOC2QnJePjZ2ULODMabY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
