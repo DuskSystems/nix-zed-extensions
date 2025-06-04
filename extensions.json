@@ -1655,6 +1655,27 @@
       "kind": "plain"
     },
     {
+      "name": "clarity",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/hirosystems/clarity-zed",
+        "rev": "74ed85e0251f7855f83977a0cec59f69030a5c8a",
+        "date": "2025-06-03T15:39:22-04:00",
+        "path": "/nix/store/k103dcbkf7dnqap7wmc8jg954fh0rrzl-clarity-zed-74ed85e",
+        "sha256": "1mgxfnpcnmi3khnm9h0l3wwsmnyhwyvdnvnnq8x0hf10p5jn780a",
+        "hash": "sha256-CqBjZbkgOAg6wtZu27bn0NuqOR8UwFQtnCNWy651/dU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "clarity_clarity"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-Cb/xkbXoz8to29XePlCZis9vUiy54uPg5icZbogV/No="
+    },
+    {
       "name": "clojure",
       "version": "0.2.0",
       "src": {
@@ -6251,14 +6272,14 @@
     },
     {
       "name": "modern-icons",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/BadRat-in/zed-modern-icons",
-        "rev": "96be54085ba4d980dbb0960e3013fbb892397ede",
-        "date": "2025-05-20T23:52:40+05:30",
-        "path": "/nix/store/6j5zzi3a4r05397m8lfzyaxrb669h2fa-zed-modern-icons-96be540",
-        "sha256": "10hg15qp8rqrznci9jgcdwp8l43xw64r0a74v3sxz03dzz0h903c",
-        "hash": "sha256-bIAEwf9tgN/12OQokInhfRCKLm/syRSZ/RlndHEJD4I=",
+        "rev": "fc271543cdb5e9ab3898584d7656837897ab8b8d",
+        "date": "2025-06-03T23:10:13+05:30",
+        "path": "/nix/store/r2gi24j75c88670p37znn2bp8j9499sd-zed-modern-icons-fc27154",
+        "sha256": "0zx5y1qzw0mf5hpibdkrd5z69dxb1jvrvzqc826lqfh6dmyg3ysp",
+        "hash": "sha256-V/vxfG0GOkyNQAz/nbcMq7dkfml5thUvLK4C/nHwpX8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11507,14 +11528,14 @@
     },
     {
       "name": "vue",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "src": {
         "url": "https://github.com/zed-extensions/vue",
-        "rev": "3704e9c6183fb91b45a4b6a9211fc387b64ee591",
-        "date": "2025-05-05T05:03:30+05:30",
-        "path": "/nix/store/204nf3r23qm50ick0wfqcmc2lmrm99z7-vue-3704e9c",
-        "sha256": "1hi07r62pqwzypj4zaxs0vcn58ylny8wcbbldfkp694gi93n5mgl",
-        "hash": "sha256-9NViR4qPJHOna3QtxpG31KNi2Qa6q0/k9Z/jK0w+IMI=",
+        "rev": "c7adc2faa8eac1f39c1335211e4f3618e0279161",
+        "date": "2025-06-03T15:13:25-04:00",
+        "path": "/nix/store/8bw30kvscw6a5jiplash6sdsqbnwpxad-vue-c7adc2f",
+        "sha256": "0k3qinq9s2c5pxmvp4a2lxp1hlzfxxpgqajjm1yjny797jmgr47x",
+        "hash": "sha256-/ZD8qjzpeCt9qFIq/G7v7lMYbqdCkbtrv4UJnbCNeEw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11524,7 +11545,7 @@
         "vue_vue"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-vX4xu3iR/TJRurZEx4EnS1tmMh2gRdLupiYplfv/Dao="
+      "cargoHash": "sha256-kp9ziiSHdr75CzI82tYAsG/SQz+FhPtLc8c85fWE68g="
     },
     {
       "name": "vue-snippets",
@@ -12585,6 +12606,23 @@
         "path": "/nix/store/l7nrkpx8v0v6kpqxngk372hz801laqlq-tree-sitter-cfml-b165e10",
         "sha256": "0y2kris1rxrwcny88dr00ba761j413r0hv5vb236g6xlnaxgsa4w",
         "hash": "sha256-nCj9urK0m2eGWLtsCPIIRAZz1AIgN4S8ZTz3HHTMU3g=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "clarity_clarity",
+      "name": "clarity",
+      "version": "7fa54825fdd971a1a676f885384f024fe2b7384a",
+      "src": {
+        "url": "https://github.com/xlittlerag/tree-sitter-clarity",
+        "rev": "7fa54825fdd971a1a676f885384f024fe2b7384a",
+        "date": "2024-12-17T11:36:55-03:00",
+        "path": "/nix/store/8q522qj1zysqbqair4w0jrxjvwvsc03k-tree-sitter-clarity-7fa5482",
+        "sha256": "0kvq7nmlymaqn466z7y1id2lj4qfmxym5ks5kins9r6sr8sal1pg",
+        "hash": "sha256-7waqNMra5KRtnEXPUn2vDhNJRYvBn28MsVhVT6s9eE8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
