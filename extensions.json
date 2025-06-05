@@ -1004,6 +1004,24 @@
       "kind": "plain"
     },
     {
+      "name": "blackrain-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/kurokirasama/zed_blackrain_theme",
+        "rev": "3fa6399ae24fb587c7e1648ab54b9b7b65f47092",
+        "date": "2025-06-03T21:53:32-04:00",
+        "path": "/nix/store/wgd9f31hjbmjq9faybqhy427ang3w39n-zed_blackrain_theme-3fa6399",
+        "sha256": "11b4i73bk35h59666xvg6qkxj1x2rpmv2whnhzha73rmksinbhw4",
+        "hash": "sha256-hMNlo541j6PghxZysevNogfZJzZvd2NMKrCMucaJZIU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "blackula",
       "version": "0.1.1",
       "src": {
@@ -4143,14 +4161,14 @@
     },
     {
       "name": "haml",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/davidcornu/zed-haml",
-        "rev": "f1e2823791125e463c50001a7d132322f276cba5",
-        "date": "2025-01-08T20:44:26-05:00",
-        "path": "/nix/store/05pw2raqm05a4ilfhgk57g015ypflf78-zed-haml-f1e2823",
-        "sha256": "0n81b6rg0gimkn98gcrbbs1dq3kx7ajmnzjhh17kmhkbvng3fmz1",
-        "hash": "sha256-4Vc3nt1rwjpPgFB+W6U6fQ7cgl4rs4eSnTU+8LJZAVk=",
+        "rev": "d07ee843e170a207da988e6b42e5e0a2fa7b9819",
+        "date": "2025-06-03T16:16:57-04:00",
+        "path": "/nix/store/3ls3cv02rf7bacc11q5lygv63a9pbls2-zed-haml-d07ee84",
+        "sha256": "0x60qp4c4brlisl6bygp14hx9knhy2insb16xg3jm7wxk9mr91ra",
+        "hash": "sha256-KoeUa5qdnyrH6yYsbaPw0M7UIQn3+WWojjQvwsjFwHQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6154,6 +6172,25 @@
       "cargoHash": "sha256-Af3mdDE/Em5oeuoTCz7iU16S+rDhsfwVstln+x6+zZo="
     },
     {
+      "name": "mcp-server-supabase",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/maximoffua/zed-mcp-server-supabase",
+        "rev": "3c533f613667d8380566d38a30bacb3087aa0668",
+        "date": "2025-05-22T22:24:18+02:00",
+        "path": "/nix/store/ylm40h3r83yvp4jwqzhldkg2ky98gmjq-zed-mcp-server-supabase-3c533f6",
+        "sha256": "06n187lwnqwp4cyrn38ls0al28gj5nr97d7z7mzkparjbdyki50k",
+        "hash": "sha256-E5Q4fVsyqzt/Pf+0k7It8iFBFdAUDZs9I5djy+lBwRo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-vmFsnX0pQrLYQZnKZoH+B2B+0U7m7FaZlfX7S4QnIkM="
+    },
+    {
       "name": "mcp-server-webflow",
       "version": "0.0.2",
       "src": {
@@ -6316,6 +6353,24 @@
         "path": "/nix/store/yynpbdq7nd1z2n15gm6zjsjr7xd63a5x-zed-modus-themes-fc4f04b",
         "sha256": "0w7xr7lwi6jqmn9kdril5v8i06cnr89n52d36cqybfix9gj5pqx1",
         "hash": "sha256-oeNb5Es9uuUxM6OJYhPKlhkQ0S405jaTrViayOnJ/XA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "molten-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/vaqxai/zed-molten-theme",
+        "rev": "3267676441f3876b9d320e04148ed7a0ba6d6006",
+        "date": "2025-05-23T11:55:48+02:00",
+        "path": "/nix/store/f9ziyln70majrzr3b2krkcay9xbvkj53-zed-molten-theme-3267676",
+        "sha256": "0wyvyx45wqalv0cnfmndf7kdgyqndsw6snkaq89riw0pv3r1r0p9",
+        "hash": "sha256-6YIc8tgX8JgTwmpabbhuFvvX5nHNVmcZ2FRhXkj323M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6527,14 +6582,14 @@
     },
     {
       "name": "motoko",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/perforate-org/zed-motoko",
-        "rev": "9df3abb8d11bf4c2d8bc012661e564c367003a7b",
-        "date": "2025-05-23T13:20:32+09:00",
-        "path": "/nix/store/5qr0ny6rraz54imjwhwaxl3d8m3rx89p-zed-motoko-9df3abb",
-        "sha256": "1cr938i6pyn2wm19hby44j5w98ba1gx40mdgdrgp6sw83ricik58",
-        "hash": "sha256-qMzIYh6Ia3Nfbq9VQPoLaqHEiyTEL5hC5cL6ayIaKbM=",
+        "rev": "1814d9116431285459ca36a691009e5ec454b72c",
+        "date": "2025-06-04T09:45:02+09:00",
+        "path": "/nix/store/sl5y9qwl976s8q564wz6q3nkajkhf6bj-zed-motoko-1814d91",
+        "sha256": "0wbhyl13a5xmm0mkidbvidsqxvvhhx3ldld78xnqhfm9dbd1q0yd",
+        "hash": "sha256-zQMc2mqpOohtR6fRRkeHcO+OdYt7tTgrqLUXNQL1cHE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6544,7 +6599,7 @@
         "motoko_motoko"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-T6D7OepndViz+jEGBDqXPYVo+4dwfMx6428iGCQHL4c=",
+      "cargoHash": "sha256-8tqUTHEJccrH5KVTeaJXw6K//aMJ07hbIL5Iz7KQ/Pc=",
       "cargoLock": {
         "lockFile": "/generated/motoko.lock"
       }
@@ -13652,14 +13707,14 @@
     {
       "id": "haml_haml",
       "name": "haml",
-      "version": "ca002c14a373534affb32079dad6ca4a493451b2",
+      "version": "a2af65572be29bb79ef00dd787776b57a82ab16d",
       "src": {
         "url": "https://github.com/vitallium/tree-sitter-haml",
-        "rev": "ca002c14a373534affb32079dad6ca4a493451b2",
-        "date": "2024-12-21T19:38:14+01:00",
-        "path": "/nix/store/0a486dvgnvc1zbmvns35340k0s0fbg3q-tree-sitter-haml-ca002c1",
-        "sha256": "0jmxn3k3g4z1cjq916m1rc3j5s8bzmzb3kbwb5zb7bcmikxwfrzf",
-        "hash": "sha256-7mfH+4yVrbN+WXzNsX79C+kiB8uhmpCwZOGTN+awvUo=",
+        "rev": "a2af65572be29bb79ef00dd787776b57a82ab16d",
+        "date": "2025-05-01T07:32:48+02:00",
+        "path": "/nix/store/sg34s0hazskgqjz3z383ia6scxj60cxx-tree-sitter-haml-a2af655",
+        "sha256": "0s7hf5pb2rscb13g2kqxhk411qr4wv5kv4sqzbzksjfpjp0plq33",
+        "hash": "sha256-Y2B6wZXXST3/+liTPcvmJOMQyIQdT/FGWExnsW5x8Gg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14502,14 +14557,14 @@
     {
       "id": "motoko_motoko",
       "name": "motoko",
-      "version": "d023c718e005365234ab66ecd5ccff72c80bf587",
+      "version": "baf083737baf0750be3ea25538a5b2d98937a51c",
       "src": {
         "url": "https://github.com/christoph-dfinity/tree-sitter-motoko",
-        "rev": "d023c718e005365234ab66ecd5ccff72c80bf587",
-        "date": "2025-04-30T19:26:55+02:00",
-        "path": "/nix/store/qwa2fc3rk0da2clr98vwxw8b1f0dk28d-tree-sitter-motoko-d023c71",
-        "sha256": "0b10fv7k1wggxcm7b5sq4ah4yc5m6mpj94fn7apdyv8pilnkprnx",
-        "hash": "sha256-3eY7LY0Xbd+uOtaRJG81tTBPoCJYl3Uq6+/xMM92ICw=",
+        "rev": "baf083737baf0750be3ea25538a5b2d98937a51c",
+        "date": "2025-05-28T06:44:24+02:00",
+        "path": "/nix/store/82qha3jln8f3dmgpgar3f8bcl5bza45n-tree-sitter-motoko-baf0837",
+        "sha256": "07vhvss1rlmdda413c4nn9sdi9x66lqagkpdhfrmsxj0s127pzgr",
+        "hash": "sha256-+f17RNBAdl2zg+3OpzA1pqfYdLKWsBGIaq3SHLTecB8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
