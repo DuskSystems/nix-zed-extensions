@@ -1637,6 +1637,24 @@
       "kind": "plain"
     },
     {
+      "name": "chawyehsu-vscode-icons",
+      "version": "0.3.0",
+      "src": {
+        "url": "https://github.com/chawyehsu/zed-vscode-icons-theme",
+        "rev": "2e25d043c0f96716949579c4a60b255ee1320096",
+        "date": "2025-06-06T22:09:38+08:00",
+        "path": "/nix/store/nsdzzfzw332qaz6zaviy41am9girij0p-zed-vscode-icons-theme-2e25d04",
+        "sha256": "1nfzdbpv844kzj07byv77j271srnh423sih8z81g7db8mb2n9f7m",
+        "hash": "sha256-9bhkxapotfMC+ghGPQSBNutwhDxn+3WA/JMQtO9q39k=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "cisco-theme",
       "version": "1.0.0",
       "src": {
@@ -2675,6 +2693,26 @@
       ],
       "kind": "rust",
       "cargoHash": "sha256-NA7QlxvuxpLtWkGb+3qzfhVtam2ype4UCf206c0NRxk="
+    },
+    {
+      "name": "edge",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/Hexacker/zed-edge",
+        "rev": "96fb9f03a90eb00c34727c532be4e32d18ec659e",
+        "date": "2025-06-05T13:56:02-04:00",
+        "path": "/nix/store/qsgia1pfpylmf7nlg4ky1jybdm1qh0kc-zed-edge-96fb9f0",
+        "sha256": "0m4pc9r33i3vw87j1ygql04vndhn2hx50r41kacfmch7ppidma7x",
+        "hash": "sha256-/aja4r0HsuqYmoFkUDoUFja7CaD4+SAP4nvEMXJil1Q=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "edge_edge"
+      ],
+      "kind": "plain"
     },
     {
       "name": "edi",
@@ -4916,14 +4954,14 @@
     },
     {
       "name": "julia",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/JuliaEditorSupport/zed-julia",
-        "rev": "0610e9b2a4dfc782a18abc4d58243628f9eee816",
-        "date": "2025-05-29T12:32:38+02:00",
-        "path": "/nix/store/3g0bkklzcmwvyn7aqq60msd8wzhqinf0-zed-julia-0610e9b",
-        "sha256": "1vb1giqa12yrq31hdky6m366xg8by3ad4g86fbsspbyclp4v3ivb",
-        "hash": "sha256-a8exyaXMr6v1cgY90tTwC71uzKjGzwbDwNmLoHB8Ye0=",
+        "rev": "1f8f74c2d6ab150c05be6ba1c770e1014e11d863",
+        "date": "2025-06-06T12:01:13+02:00",
+        "path": "/nix/store/kcsb3gbk4dcif5xi3hsqy7jcxd4shdvq-zed-julia-1f8f74c",
+        "sha256": "1216yzyjhif8xx6h1fmbqbc1vwf23qfq27f6qfh6py10lv9kdr0i",
+        "hash": "sha256-EeQ206Yg+Gugw8YdgR0ewvEd2MKrugBN78hFKP33Jog=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5169,14 +5207,14 @@
     },
     {
       "name": "latex",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "src": {
         "url": "https://github.com/rzukic/zed-latex",
-        "rev": "6d22b5cb6ee78a92b68b6f416cdf57e26146b22f",
-        "date": "2025-05-03T02:23:15+01:00",
-        "path": "/nix/store/qkky324qgnyjac0w19yjrhdgyj9rh9q8-zed-latex-6d22b5c",
-        "sha256": "0prmd65bp4bl5qpzbh6pb47pdy39pp0akgl6gdx6pd2jmd758gqp",
-        "hash": "sha256-Fz9UTqtStGt6e4a+qcC9afh2D1nXwPUvLnSRu4ppNV8=",
+        "rev": "e17c677c4dc970252d7bd969c87cff8b897a9214",
+        "date": "2025-06-06T15:43:27+01:00",
+        "path": "/nix/store/xci5vdrynhv341dak3algg57h4p5h3g8-zed-latex-e17c677",
+        "sha256": "1lzq4441ngf19id08c6l953k17afbxq44j7ibdzbybf39yfn8r3w",
+        "hash": "sha256-fGRknU/DLb9+W/FIQnBfTp0wR0nUMARaTME9Gwgh+NM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5588,14 +5626,14 @@
     },
     {
       "name": "make",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "src": {
         "url": "https://github.com/caius/zed-make",
-        "rev": "4783d87bcf810b4d60edd1c50b22093498e4dc12",
-        "date": "2025-03-16T16:46:48Z",
-        "path": "/nix/store/ig2hzwdc13r9j2b83nh7riph5fn60cl0-zed-make-4783d87",
-        "sha256": "1s635ispif571w8f3q0cy2fml4j7h04bbnansyzr70510izwghzy",
-        "hash": "sha256-/sPHfwShgJO/11bZtQiARxJanfAM4OEQD6e4eHUsw+g=",
+        "rev": "97735b32b8c7c6a915984183d365077a2c59e83a",
+        "date": "2025-06-06T19:02:27+01:00",
+        "path": "/nix/store/wvw30rcff4yvbzcbz0wbxwan6w3c7xq6-zed-make-97735b3",
+        "sha256": "0b1k5wc4863k3r4gsnlnb7zd7fgy7ym0mqyny3dq7xy7lxx9y50c",
+        "hash": "sha256-DBSfeqfH94Pb8NbjCqo//rnT/lmWWv1IHnMYRBgvMyw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6230,14 +6268,14 @@
     },
     {
       "name": "melange",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "src": {
         "url": "https://github.com/adorabilis/melange-zed",
-        "rev": "1eecd663a65f1a3b967b8fd5ac15e36a014b1781",
-        "date": "2025-05-20T23:45:30+08:00",
-        "path": "/nix/store/dckb1l3ycj14iyfycfzb4rffcl3mxd6z-melange-zed-1eecd66",
-        "sha256": "04vqdi50a2r729rbq47dxivvb1xacljhrsgkf8f0pnnbcxq9k38g",
-        "hash": "sha256-D42ZcGfL2gsccvPpDCVlqoe1d+ztELxyEicLBUpseBM=",
+        "rev": "7630eae3eac7df9c81428ff6241214e0a881c0e0",
+        "date": "2025-06-06T10:43:21+08:00",
+        "path": "/nix/store/q6q0zyj1arvmc0nfmyamajzx81wdxbrw-melange-zed-7630eae",
+        "sha256": "1l2nil3lbk47yn01i8dlpf60nxw2kalq65nipfkww8qlv7v3waav",
+        "hash": "sha256-Wyk+9tkUI86nu9EWg6magncLjLu0oRiA9YfMRQeNVtA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8844,6 +8882,24 @@
       "kind": "plain"
     },
     {
+      "name": "react-snippets",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/tamimhasandev/react-snippets",
+        "rev": "1113cbb5ddc2be8fb817418ca2cd3686c6902bdc",
+        "date": "2025-06-06T12:10:28+06:00",
+        "path": "/nix/store/w4cpw9f7vvbcsqz5r3hlq9vc5b3msmzw-react-snippets-1113cbb",
+        "sha256": "1j1ybcr0jikgjparrl65nz5wfxriwndrsy4kswjnigkg7znv40q4",
+        "hash": "sha256-BAOy7T9vvmgl15N4nZvlMXfHy7fF0JzVlW9GCTJbPsg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "react-typescript-snippets",
       "version": "0.1.0",
       "src": {
@@ -9083,6 +9139,25 @@
       },
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "rover",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/rover-app/zed-extension",
+        "rev": "21bdfaca99798e32118c279f8e44d3921b313e16",
+        "date": "2025-06-05T19:16:39+02:00",
+        "path": "/nix/store/ihca5pda9fxdspb88i49bkxn8zmy4wv9-zed-extension-21bdfac",
+        "sha256": "1h20fj4hn42sc28ykq8z2fp69rsa7yym696z06zh3lgwzh20cnm2",
+        "hash": "sha256-oloGBPz80QG/Ad8kU70/SudkrhMf4emRYFoQC4l0QMA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-IxPKuUv20sxtpbS2EL0rPhjZde/p02KCGBNqvKwmaE8="
     },
     {
       "name": "rpmspec",
@@ -10432,14 +10507,14 @@
     },
     {
       "name": "tera",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "src": {
         "url": "https://github.com/uncenter/zed-tera",
-        "rev": "514749a17d8c71af2441a6671fd1b0d6203726aa",
-        "date": "2025-01-10T17:25:23-05:00",
-        "path": "/nix/store/vab3b5qkzshcjk5dc7am2nnd39gjq07k-zed-tera-514749a",
-        "sha256": "0dxs5kkz1w2394531cwahj04pl8sjss2ji3zxmbd0gdm3gajjh97",
-        "hash": "sha256-J0Ep1Ru1PdBW7X9EKbSWGtFLgISKszAKSUPw8Ocsujc=",
+        "rev": "02354d9c55b6726e619b397bade42850173df391",
+        "date": "2025-06-05T19:18:35-04:00",
+        "path": "/nix/store/82xlnzhnqvi611zbn5r9sikhva13nvcn-zed-tera-02354d9",
+        "sha256": "0n3jx0p9q182ci6fnbhm9sv9ahg32cmysmh62sjazqj92nmk4dr8",
+        "hash": "sha256-KDcyqxVJ4q+kFgZW7SsT40GVtk4VLutMZAIFnC7oclg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10449,6 +10524,27 @@
         "tera_tera"
       ],
       "kind": "plain"
+    },
+    {
+      "name": "termux",
+      "version": "0.1.2",
+      "src": {
+        "url": "https://gitlab.com/paveloom-g/rust/zed-termux",
+        "rev": "609a766041988398a9d9e21fb2c2bc892d0c0402",
+        "date": "2025-06-06T22:41:05+03:00",
+        "path": "/nix/store/c09bspqfsr6kmijbpx6nrq5kj8mb6nsw-zed-termux-609a766",
+        "sha256": "1wx8gf1rl9ha6d9bd497pmcy0rg1qcmwyzr28xqgzzcl6isvdypn",
+        "hash": "sha256-9vq2dTSU/f9wRyJ/zyvD4WXgWb0nkbZSMwommoN7qPM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [
+        "termux_bash"
+      ],
+      "kind": "rust",
+      "cargoHash": "sha256-UNOrpMEbkjiwacWMiuvTHk4hT6/7kzrsVAbeASgT3SY="
     },
     {
       "name": "terraform",
@@ -13105,6 +13201,23 @@
         "path": "/nix/store/dv2pwd944pd8ilcsq04bfd5ckfan90y7-tree-sitter-earthfile-336001d",
         "sha256": "1lz0dl220wqyyyvjvajllc1lj7cmnr2kmkajkdhld3b0cvmidsqc",
         "hash": "sha256-DOsW62ZgjUZhm1LNOkW2lR1JA6NUqi239x5zIARt4NM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "edge_edge",
+      "name": "edge",
+      "version": "25d5a714e1217011caec90c5cc91caa904d90db7",
+      "src": {
+        "url": "https://github.com/Hexacker/tree-sitter-edge",
+        "rev": "25d5a714e1217011caec90c5cc91caa904d90db7",
+        "date": "2025-06-04T16:20:00-04:00",
+        "path": "/nix/store/3q0d5dglcks7bhw55ncjp32kwp1w84ma-tree-sitter-edge-25d5a71",
+        "sha256": "1ffshij7p8yh8mqd74qlhqh6sjmvj7i2i2qm76hz4rhpk3dyy490",
+        "hash": "sha256-IBHv25gXZvKhORWLKOKRu0ptIIYUk9NwRdCje2SE2rk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -16046,6 +16159,23 @@
         "path": "/nix/store/y4khc4llzda826kh7mya197af2zjx8mh-tree-sitter-tera-e8d679a",
         "sha256": "0lz6x2yd9rjklc1821x6jd577820izv5bmwhf957gxj0nlrixhj7",
         "hash": "sha256-R8IeM7VA9ndKcpDXVfaPQKBzSpOmB4ECo1Pm1Lzo5lM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      }
+    },
+    {
+      "id": "termux_bash",
+      "name": "bash",
+      "version": "487734f87fd87118028a65a4599352fa99c9cde8",
+      "src": {
+        "url": "https://github.com/tree-sitter/tree-sitter-bash",
+        "rev": "487734f87fd87118028a65a4599352fa99c9cde8",
+        "date": "2024-11-11T01:52:16-05:00",
+        "path": "/nix/store/vbadl2c5p3cp7gq9vyv2nd6n09k5ngnf-tree-sitter-bash-487734f",
+        "sha256": "1smlcfkxxknhya1b1h72zj3ccg35szbg9mii2xwh7iq9acnlzpgc",
+        "hash": "sha256-7N1PLVMJxwN5FzHW9NbXZTzGhvziwLCC8tDO3qdjtOo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
