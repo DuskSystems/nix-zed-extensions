@@ -6172,6 +6172,25 @@
       "cargoHash": "sha256-DqOtfnVGB3NuCj8QAtntnH4lY8HFtFp7jFlvHi5GQaY="
     },
     {
+      "name": "mcp-server-resend",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/danilo-leal/zed-resend-mcp-server",
+        "rev": "73e88d33b53783902258d16a2dc4955d0f5b16bd",
+        "date": "2025-06-07T19:58:09-05:00",
+        "path": "/nix/store/1lrphypg6yy083y9cqgnd1dgf5zj539p-zed-resend-mcp-server-73e88d3",
+        "sha256": "0dmaj1q9v857pg0apxhpwd77wcxiya4v4lqh181m1jiwhwadvvqf",
+        "hash": "sha256-Du/dFIc8ylADChBTsonysTN+TuMX9qvAu6egnXCQqjY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "rust",
+      "cargoHash": "sha256-K+xLXsv6AGwwk5g/T43HlylpAWK3qRvAImFh74pSMas="
+    },
+    {
       "name": "mcp-server-sequential-thinking",
       "version": "0.0.2",
       "src": {
