@@ -739,8 +739,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "zed-motoko"
-version = "0.0.3"
+name = "zed-sieve"
+version = "0.1.6"
 dependencies = [
  "zed_extension_api",
 ]
