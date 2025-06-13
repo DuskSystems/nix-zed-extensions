@@ -6968,6 +6968,24 @@
       "kind": "plain"
     },
     {
+      "name": "nextjs-react-snippets",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/Konstantinos-Ps/zed-nextjs-react-snippets",
+        "rev": "4a0be6acf7ffeb1a9ed82b0d19b5e54a3fc2a446",
+        "date": "2025-06-13T01:34:10+03:00",
+        "path": "/nix/store/srq4sxvvc4fq936jwk5q25b5g796bxjv-zed-nextjs-react-snippets-4a0be6a",
+        "sha256": "0ac7g8c0zn2qa4492pkwcixn6hvd3x7df67d349ipy5qlfmw6nxq",
+        "hash": "sha256-uFvDq6O4+BsTGe0Y104fbUNje2R8XpEIUVjYDxh6hyk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "nginx",
       "version": "0.0.1",
       "src": {
@@ -7644,6 +7662,24 @@
         "path": "/nix/store/vmwlzimblqfb5q58jaizv0rhxmw5jxgz-zed-one-dark-pro-monokai-darker-b7f810c",
         "sha256": "0msqllpm3adsy0k0dii49i7mraj5sav39dw2sb9h6l4ppjpdwsfm",
         "hash": "sha256-1WnerryXUAPT0oK3NLbSRapcT0wkxgYm8LqpUS+lWFc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "one-thing-theme",
+      "version": "1.0.1",
+      "src": {
+        "url": "https://github.com/one-thing-theme/zed",
+        "rev": "519adafb1f4c84d0b74a4bf0f6ea8186331b2d97",
+        "date": "2025-06-12T18:22:09+08:00",
+        "path": "/nix/store/kq5n9msg0kgrgjhsxv01z63wq04saivf-zed-519adaf",
+        "sha256": "0a88g5jbkm5qs4bzk8bi5q83v40fc621myiqrn0fhdz4cd2nca4h",
+        "hash": "sha256-kChmRWPkN+iAzTj6GoRhDpA9EC5xofkX0bjUuWR5CCk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9619,14 +9655,14 @@
     },
     {
       "name": "sieve",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "src": {
         "url": "https://github.com/aRustyDev/zed-sieve",
-        "rev": "517adb9298893637380f5e0de5df250087f0c9df",
-        "date": "2025-06-08T07:41:40-04:00",
-        "path": "/nix/store/d850nyscaaxmpay66889967bykdajjw2-zed-sieve-517adb9",
-        "sha256": "14kvc424dbx2ls6d3lhcqr80dr9vy2mvj5z8bq61yfybawwfisw5",
-        "hash": "sha256-hevoOFfLOx8MXugXuavwO+UGUMYM0tGMpqKvRgRhe5I=",
+        "rev": "69630a685da576b1959ce7e426f5c7c61e05383b",
+        "date": "2025-06-09T13:50:50-04:00",
+        "path": "/nix/store/q3z7amyi3z9rf2lwaw9d9s22cphk2fff-zed-sieve-69630a6",
+        "sha256": "0yxngzw5vr9cj7amabhb7gjcj48a9vvm2shmfrmyjxjh79lqlcfr",
+        "hash": "sha256-2TGKaTpQdulrdhVqUfdOChHJ5DsLLlXVkSzlXfh/tns=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9634,7 +9670,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-cVPzGvi2EeC/zYOudDsQWtaYZc5Go/hFVEJ8Ux+9ydI=",
+      "cargoHash": "sha256-gUhuDbSeBkWD+9EdJ/YzJcWJ0AOAIOxmuBypAhRya4Y=",
       "cargoLock": {
         "lockFile": "/generated/sieve.lock"
       }
@@ -10128,6 +10164,24 @@
       "kind": "plain"
     },
     {
+      "name": "sqlc-snippets",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/NarmadaWeb/sqlc-snippets-zed",
+        "rev": "85d6f01fd179695364cd9f69ff40a5ec99304904",
+        "date": "2025-06-10T22:07:36+08:00",
+        "path": "/nix/store/716mcb1sqh5s6xi4lddrby2z9pv7gjy2-sqlc-snippets-zed-85d6f01",
+        "sha256": "0hli3nvnbhj4hmhxnpia42hgsfd0wmq667cg6p0xxc031wx20r1w",
+        "hash": "sha256-PGQgOg8DsN7BNY8dY3DloDn9oCAqXtthhUTCZbcdkUI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "sqruff",
       "version": "0.1.0",
       "src": {
@@ -10339,6 +10393,24 @@
         "path": "/nix/store/53kg3d0w3wijki0xh11czcfxh3yhchsz-zed-mariana-theme-d466f50",
         "sha256": "0xl1f9z0dcixarhyzr8mgr9jmy46zmvk0c0wwx37975bxyv4j540",
         "hash": "sha256-gBRJtu+rnHRG5xwwMHf9hvgqU34V5e9hVj2yBn5ygXY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "supaglass",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/piyush-kacha/zed-supaglass",
+        "rev": "023541806e4fdcc8b734a4da9bcdf61e78e20a34",
+        "date": "2025-06-12T12:06:01+05:30",
+        "path": "/nix/store/5m17l2zsnywv1x7w6q0za8x8h6gb4zyx-zed-supaglass-0235418",
+        "sha256": "0wk8cmr2qxmciq9y6p53c5abxgl33s691s6cg5q21lwq17z1pp5v",
+        "hash": "sha256-u9wb/gmY0yBweczokIweg76+VGGjXOMTjqx2LHJlaHI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11273,14 +11345,14 @@
     },
     {
       "name": "unison",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/zetashift/unison-zed",
-        "rev": "b9ebd26add5619fb2860cbe84fc15dd4669ee66a",
-        "date": "2024-12-29T14:05:31+01:00",
-        "path": "/nix/store/bsfb38ysxar2al5v6z9hd1kzazx2013j-unison-zed-b9ebd26",
-        "sha256": "1kf179njbylphcapzzbg6kqzznpywpr051zdjy3xhc44wj5zr1s3",
-        "hash": "sha256-Q4f8i+SEMNiHl+2HAvLl/tr/8TRv/X8Vg5f6JW06wc0=",
+        "rev": "617007440c14617a62808663a9678bb75834e2fc",
+        "date": "2025-06-11T23:46:01+02:00",
+        "path": "/nix/store/prxn7sr9a0vqkcggaskwjyxcp4kxmxj2-unison-zed-6170074",
+        "sha256": "1hkk3fq7y0647bdlhplqmzpnngzvcx5v35sdx3mzjb5ldgb90ayv",
+        "hash": "sha256-2yuQ1mu0LPnr6E2XsUtn+z9r76+YXkjbOsQAf7Abc8I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -16469,14 +16541,14 @@
     {
       "id": "unison_unison",
       "name": "unison",
-      "version": "3c97db76d3cdbd002dfba493620c2d5df2fd6fa9",
+      "version": "169e7f748a540ec360c0cb086b448faad012caa4",
       "src": {
         "url": "https://github.com/kylegoetz/tree-sitter-unison",
-        "rev": "3c97db76d3cdbd002dfba493620c2d5df2fd6fa9",
-        "date": "2024-11-07T00:53:11-06:00",
-        "path": "/nix/store/g2hzjs7w8hr5kk7wa7yv615yblqn9vsl-tree-sitter-unison-3c97db7",
-        "sha256": "1cxskqzmzw86gnqk15xlcnjwxx9m9xcnq4gri1g8g4c2j118xxy6",
-        "hash": "sha256-xveOQpCCkYdeiPkRbFlPNfXOpWW0lzCxfQbxXz+eurM=",
+        "rev": "169e7f748a540ec360c0cb086b448faad012caa4",
+        "date": "2025-03-05T23:06:44-06:00",
+        "path": "/nix/store/lssab4jqcplgg4j9q6vvlc06l5yy8iww-tree-sitter-unison-169e7f7",
+        "sha256": "1ylh2amjz2iiximyyhg4j4l1ds0mfcz8b70a35d1gkbmp2s8nwyh",
+        "hash": "sha256-0HOLtLh1zRdaGQqchT5zFegWKJHkQe9r7DGKL6sSkPo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
