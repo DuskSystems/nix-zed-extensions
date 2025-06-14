@@ -1,7 +1,6 @@
-use std::{
-    collections::{BTreeMap},
-    path::PathBuf,
-};
+//! See <https://github.com/zed-industries/zed/blob/16366cf9f26b2f41a95c36e613acc6ed0c78c94c/crates/extension/src/extension_manifest.rs/>
+
+use std::{collections::BTreeMap, path::PathBuf};
 
 use serde::{Deserialize, Serialize};
 
@@ -31,14 +30,27 @@ pub struct ExtensionManifest {
     pub grammars: BTreeMap<String, GrammarManifestEntry>,
     #[serde(default)]
     pub language_servers: BTreeMap<String, LanguageServerManifestEntry>,
+    #[allow(clippy::zero_sized_map_values)]
     #[serde(default)]
     pub context_servers: BTreeMap<String, ContextServerManifestEntry>,
     #[serde(default)]
     pub slash_commands: BTreeMap<String, SlashCommandManifestEntry>,
+    #[allow(clippy::zero_sized_map_values)]
     #[serde(default)]
     pub indexed_docs_providers: BTreeMap<String, IndexedDocsProviderEntry>,
     #[serde(default)]
     pub snippets: Option<PathBuf>,
+    #[serde(default)]
+    pub capabilities: Vec<ExtensionCapability>,
+    #[serde(default)]
+    pub debug_adapters: Vec<String>,
+}
+
+#[derive(Debug, PartialEq, Eq, Clone, Serialize, Deserialize)]
+#[serde(tag = "kind")]
+pub enum ExtensionCapability {
+    #[serde(rename = "process:exec")]
+    ProcessExec { command: String, args: Vec<String> },
 }
 
 #[derive(Debug, Default, Serialize, Deserialize)]

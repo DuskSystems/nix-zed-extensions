@@ -1,5 +1,6 @@
 use std::collections::{BTreeMap, HashSet};
 use std::env::temp_dir;
+use std::num::NonZero;
 use std::path::Path;
 use std::process::Command;
 use std::sync::Arc;
@@ -31,7 +32,7 @@ async fn main() -> anyhow::Result<()> {
         .init();
 
     let args: Vec<String> = std::env::args().collect();
-    match args.get(1).map(|arg| arg.as_str()) {
+    match args.get(1).map(String::as_str) {
         Some("sync") => {
             let output_path = Path::new("extensions.json");
             let mut output: NixExtensions = if output_path.exists() {
@@ -72,14 +73,14 @@ async fn main() -> anyhow::Result<()> {
                 anyhow::bail!("Failed to get submodule status");
             }
 
-            let submodules = String::from_utf8(submodules.stdout)?.trim().to_string();
+            let submodules = String::from_utf8(submodules.stdout)?.trim().to_owned();
 
             let mut revisions: BTreeMap<String, String> = BTreeMap::new();
             for line in submodules.lines() {
-                let parts: Vec<&str> = line.splitn(2, " ").collect();
+                let parts: Vec<&str> = line.splitn(2, ' ').collect();
 
-                let revision = parts[0].trim_start_matches("-").to_string();
-                let path = parts[1].to_string();
+                let revision = parts[0].trim_start_matches('-').to_owned();
+                let path = parts[1].to_owned();
 
                 revisions.insert(path, revision);
             }
@@ -94,24 +95,24 @@ async fn main() -> anyhow::Result<()> {
                 anyhow::bail!("Failed to get submodule repositories");
             }
 
-            let gitmodules = String::from_utf8(gitmodules.stdout)?.trim().to_string();
+            let gitmodules = String::from_utf8(gitmodules.stdout)?.trim().to_owned();
 
             let mut repositories: BTreeMap<String, String> = BTreeMap::new();
             for line in gitmodules.lines() {
-                let parts: Vec<&str> = line.splitn(2, "=").collect();
+                let parts: Vec<&str> = line.splitn(2, '=').collect();
 
                 let path = parts[0]
                     .trim_start_matches("submodule.")
                     .trim_end_matches(".url")
-                    .to_string();
+                    .to_owned();
 
-                let repository = parts[1].trim_end_matches(".git").to_string();
+                let repository = parts[1].trim_end_matches(".git").to_owned();
                 repositories.insert(path, repository);
             }
 
             // Merge details
             let mut extensions: Vec<RegistryExtension> = vec![];
-            for (name, entry) in registry.iter() {
+            for (name, entry) in &registry {
                 let Some(repository) = repositories.get(&entry.submodule) else {
                     tracing::warn!(
                         submodule = ?entry.submodule,
@@ -202,7 +203,7 @@ async fn main() -> anyhow::Result<()> {
                 .collect::<Vec<_>>();
 
             let limit = std::thread::available_parallelism()
-                .map(|n| n.get())
+                .map(NonZero::get)
                 .unwrap_or(1)
                 * 2;
 
@@ -210,7 +211,7 @@ async fn main() -> anyhow::Result<()> {
 
             let mut futures = FuturesUnordered::new();
             for extension in extensions {
-                let semaphore = semaphore.clone();
+                let semaphore = Arc::clone(&semaphore);
                 let future = async move {
                     let _acquire = semaphore.acquire().await.unwrap();
                     process_extension(extension).await
@@ -225,7 +226,7 @@ async fn main() -> anyhow::Result<()> {
                         output.extensions.push(extension);
                         output.grammars.extend(grammars);
                     }
-                    Ok(None) => (),
+                    Ok(_) => (),
                     Err(err) => tracing::error!(
                         err = ?err,
                         "Error processing extension"

@@ -3,10 +3,9 @@
   stdenv,
   makeRustPlatform,
   rust-bin,
-  llvmPackages,
-  wasip1-component-adapter,
   clang,
   wasm-tools,
+  jq,
   nix-zed-extensions,
   libiconv,
   ...
@@ -14,7 +13,7 @@
 
 let
   rust = rust-bin.stable.latest.default.override {
-    targets = [ "wasm32-wasip1" ];
+    targets = [ "wasm32-wasip2" ];
   };
 
   rustPlatform = makeRustPlatform {
@@ -49,12 +48,12 @@ lib.extendMkDerivation {
       pname = "zed-extension-${name}";
       inherit name src version;
 
-      RUSTFLAGS = "-C linker=${llvmPackages.lld}/bin/lld";
       LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
 
       nativeBuildInputs = [
         clang
         wasm-tools
+        jq
         nix-zed-extensions
       ];
 
@@ -68,18 +67,22 @@ lib.extendMkDerivation {
         # Rust
         cargo build \
           --release \
-          --target wasm32-wasip1
+          --target wasm32-wasip2
 
         ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
 
         # WASM
-        wasm-tools component new target/wasm32-wasip1/release/*.wasm \
-          --adapt wasi_snapshot_preview1=${wasip1-component-adapter}/bin/wasi_snapshot_preview1.wasm \
-          --output extension.wasm
-
+        mv target/wasm32-wasip2/release/*.wasm extension.wasm
+        wasm-tools metadata show extension.wasm
         wasm-tools validate extension.wasm
+
+        # Ensure this is actually a WASI component, not a module
+        if ! wasm-tools metadata show --json extension.wasm | jq -e '.component' > /dev/null; then
+          echo "Failed to produce a WASI component"
+          exit 1
+        fi
 
         ${lib.optionalString (extensionRoot != null) ''
           pushd ${extensionRoot}

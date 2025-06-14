@@ -46,6 +46,7 @@ pub struct CargoLock {
     pub output_hashes: BTreeMap<String, String>,
 }
 
+#[allow(clippy::struct_excessive_bools)]
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct Source {
     pub url: String,
