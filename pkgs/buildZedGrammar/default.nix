@@ -43,7 +43,7 @@ lib.extendMkDerivation {
         fi
 
         clang \
-          --target=wasm32-wasip1 \
+          --target=wasm32-wasip2 \
           --sysroot=${wasi-sdk}/share/wasi-sysroot \
           -fPIC \
           -shared \

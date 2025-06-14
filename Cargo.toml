@@ -9,6 +9,45 @@ repository = "https://github.com/DuskSystems/nix-zed-extensions"
 license = "GPL-3.0-or-later"
 publish = false
 
+# https://doc.rust-lang.org/rustc/lints/groups.html
+[lints.rust]
+unsafe_code = "forbid"
+
+unused = { level = "deny", priority = -2 }
+future-incompatible = { level = "deny", priority = -1 }
+keyword-idents = { level = "deny", priority = -1 }
+let-underscore = { level = "deny", priority = -1 }
+nonstandard-style = { level = "deny", priority = -1 }
+refining-impl-trait = { level = "deny", priority = -1 }
+rust-2018-compatibility = { level = "deny", priority = -1 }
+rust-2018-idioms = { level = "deny", priority = -1 }
+rust-2021-compatibility = { level = "deny", priority = -1 }
+# rust-2024-compatibility = { level = "deny", priority = -1 }
+
+# https://rust-lang.github.io/rust-clippy/master/index.html
+[lints.clippy]
+cargo = { level = "deny", priority = -1 }
+complexity = { level = "deny", priority = -1 }
+correctness = { level = "deny", priority = -1 }
+nursery = { level = "deny", priority = -1 }
+pedantic = { level = "deny", priority = -1 }
+perf = { level = "deny", priority = -1 }
+style = { level = "deny", priority = -1 }
+suspicious = { level = "deny", priority = -1 }
+
+# Personal Preferences
+clone_on_ref_ptr = "deny"
+cognitive_complexity = "allow"
+module_name_repetitions = "allow"
+option_if_let_else = "allow"
+str_to_string = "deny"
+too_many_lines = "allow"
+
+# TODO
+multiple_crate_versions = "allow"
+missing_errors_doc = "allow"
+missing_panics_doc = "allow"
+
 [dependencies]
 # Async
 tokio = { version = "1.44", features = ["full"] }
@@ -18,7 +57,7 @@ futures = "0.3"
 cargo-lock = "10.0"
 
 # WASM
-wasmparser = "0.231"
+wasmparser = "0.235"
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }

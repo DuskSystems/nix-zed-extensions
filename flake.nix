@@ -16,7 +16,6 @@
 
     rust-overlay = {
       url = "github:oxalica/rust-overlay";
-      inputs.nixpkgs.follows = "nixpkgs";
     };
   };
 
@@ -66,7 +65,6 @@
         zed-extensions = pkgs.zed-extensions;
 
         wasi-sdk = pkgs.wasi-sdk;
-        wasip1-component-adapter = pkgs.wasip1-component-adapter;
       });
 
       apps = perSystemPkgs (pkgs: {
@@ -96,6 +94,7 @@
             clippy
             rustfmt
             rust-analyzer
+            taplo
             cargo-outdated
 
             # WASM
@@ -108,8 +107,8 @@
             # CLI
             tree
 
-            # TOML
-            taplo
+            # GitHub
+            zizmor
 
             # Nix
             nix-update

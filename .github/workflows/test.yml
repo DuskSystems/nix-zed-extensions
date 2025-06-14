@@ -37,6 +37,8 @@ jobs:
           - runner: macos-14
             input: nixpkgs-unstable
     runs-on: ${{ matrix.runner }}
+    permissions:
+      actions: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -44,7 +46,7 @@ jobs:
           persist-credentials: false
 
       - name: Install Nix
-        uses: nixbuild/nix-quick-install-action@v30
+        uses: nixbuild/nix-quick-install-action@5bb6a3b3abe66fd09bbf250dce8ada94f856a703 # v30
 
       - name: Test extensions
         shell: nix develop --command bash {0}

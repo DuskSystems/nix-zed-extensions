@@ -1,5 +1,6 @@
 use std::collections::BTreeMap;
 use std::env::{current_dir, temp_dir};
+use std::num::NonZero;
 use std::path::{Path, PathBuf};
 use std::str::FromStr;
 use std::sync::Arc;
@@ -77,9 +78,7 @@ pub async fn process_extension(
     }
 
     let stored_lockfile = generated_dir.join(format!("{name}.lock"));
-    let mut altered_lockfile = false;
-
-    if cargo.exists() && !lockfile.exists() {
+    let altered_lockfile = if cargo.exists() && !lockfile.exists() {
         tracing::info!("Generating Cargo.lock");
 
         let generate_lockfile = Command::new("cargo")
@@ -95,11 +94,8 @@ pub async fn process_extension(
         }
 
         fs::copy(&lockfile, &stored_lockfile).await?;
-        altered_lockfile = true;
-    }
-
-    // HACK: Special treatment to fix duplicate dependency in lockfile
-    if repo == "https://github.com/zed-industries/zed" {
+        true
+    } else if repo == "https://github.com/zed-industries/zed" {
         tracing::info!("Patching Cargo.lock");
 
         let patch = current_dir()?.join("patches/zed-duplicate-reqwest.patch");
@@ -114,8 +110,10 @@ pub async fn process_extension(
         }
 
         fs::copy(&lockfile, &stored_lockfile).await?;
-        altered_lockfile = true;
-    }
+        true
+    } else {
+        false
+    };
 
     if !altered_lockfile && stored_lockfile.exists() {
         tracing::info!("Removing old generated lockfile");
@@ -139,7 +137,7 @@ pub async fn process_extension(
     let manifest: ExtensionManifest = toml::from_str(&manifest)?;
 
     let mut futures = FuturesUnordered::new();
-    for (grammar_name, grammar) in manifest.grammars.iter() {
+    for (grammar_name, grammar) in &manifest.grammars {
         let future = process_grammar(grammar_name.clone(), grammar, name.clone());
         futures.push(future);
     }
@@ -150,7 +148,7 @@ pub async fn process_extension(
             Ok(Some(grammar)) => {
                 grammars.push(grammar);
             }
-            Ok(None) => (),
+            Ok(_) => (),
             Err(err) => tracing::error!(
                 err = ?err,
                 "Error processing grammar"
@@ -282,7 +280,7 @@ async fn process_rust_extension(
 
     let cargo_hash = String::from_utf8_lossy(&cargo_hash.stdout)
         .trim()
-        .to_string();
+        .to_owned();
 
     tracing::info!(hash = ?cargo_hash, "Pre-fetched cargo hash");
 
@@ -314,7 +312,7 @@ async fn calculate_output_hashes(lockfile: &Path) -> anyhow::Result<BTreeMap<Str
     let mut futures = FuturesUnordered::new();
 
     let limit = std::thread::available_parallelism()
-        .map(|n| n.get())
+        .map(NonZero::get)
         .unwrap_or(1);
 
     let semaphore = Arc::new(Semaphore::new(limit));
@@ -332,17 +330,16 @@ async fn calculate_output_hashes(lockfile: &Path) -> anyhow::Result<BTreeMap<Str
         let version = &package.version;
 
         let url = source.url().to_string();
-        let rev = match source.precise() {
-            Some(rev) => rev.to_string(),
-            None => {
-                tracing::warn!(
-                    package = ?name,
-                    url = url,
-                    "Git dependency missing precise revision"
-                );
+        let rev = if let Some(rev) = source.precise() {
+            rev.to_owned()
+        } else {
+            tracing::warn!(
+                package = ?name,
+                url = url,
+                "Git dependency missing precise revision"
+            );
 
-                continue;
-            }
+            continue;
         };
 
         tracing::debug!(
@@ -354,7 +351,7 @@ async fn calculate_output_hashes(lockfile: &Path) -> anyhow::Result<BTreeMap<Str
         );
 
         let key = format!("{name}-{version}");
-        let semaphore = semaphore.clone();
+        let semaphore = Arc::clone(&semaphore);
 
         let future = async move {
             let _permit = semaphore.acquire().await.unwrap();
@@ -411,7 +408,10 @@ async fn calculate_git_hash(
     }
 
     let src: Source = serde_json::from_slice(&prefetch.stdout)?;
-    tracing::info!(src = ?src, "Pre-fetched git dependency");
+    tracing::info!(
+        src = ?src,
+        "Pre-fetched git dependency"
+    );
 
     Ok((key, src.hash))
 }
