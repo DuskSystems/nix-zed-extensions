@@ -7,7 +7,6 @@
   wasm-tools,
   jq,
   nix-zed-extensions,
-  libiconv,
   ...
 }:
 
@@ -48,8 +47,6 @@ lib.extendMkDerivation {
       pname = "zed-extension-${name}";
       inherit name src version;
 
-      LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
-
       nativeBuildInputs = [
         clang
         wasm-tools
@@ -58,8 +55,6 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
-        runHook preBuild
-
         ${lib.optionalString (extensionRoot != null) ''
           pushd ${extensionRoot}
         ''}
@@ -94,14 +89,10 @@ lib.extendMkDerivation {
         ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
-
-        runHook postBuild
       '';
 
       doCheck = true;
       checkPhase = ''
-        runHook preCheck
-
         ${lib.optionalString (extensionRoot != null) ''
           pushd ${extensionRoot}
         ''}
@@ -112,13 +103,9 @@ lib.extendMkDerivation {
         ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
-
-        runHook postCheck
       '';
 
       installPhase = ''
-        runHook preInstall
-
         mkdir -p $out/share/zed/extensions/${name}
 
         ${lib.optionalString (extensionRoot != null) ''
@@ -128,16 +115,18 @@ lib.extendMkDerivation {
         # Manifest
         cp extension.toml $out/share/zed/extensions/${name}
 
+        ${lib.optionalString (extensionRoot != null) ''
+          popd
+        ''}
+
         # WASM
         if [ -f "extension.wasm" ]; then
           cp extension.wasm $out/share/zed/extensions/${name}
         fi
 
-        # Grammars
-        ${lib.concatMapStrings (grammar: ''
-          mkdir -p $out/share/zed/extensions/${name}/grammars
-          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
-        '') grammars}
+        ${lib.optionalString (extensionRoot != null) ''
+          pushd ${extensionRoot}
+        ''}
 
         # Assets
         for DIR in themes icons icon_themes languages; do
@@ -156,7 +145,11 @@ lib.extendMkDerivation {
           popd
         ''}
 
-        runHook postInstall
+        # Grammars
+        ${lib.concatMapStrings (grammar: ''
+          mkdir -p $out/share/zed/extensions/${name}/grammars
+          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
+        '') grammars}
       '';
     };
 }

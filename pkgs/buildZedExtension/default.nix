@@ -37,8 +37,6 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
-        runHook preBuild
-
         ${lib.optionalString (extensionRoot != null) ''
           pushd ${extensionRoot}
         ''}
@@ -49,14 +47,10 @@ lib.extendMkDerivation {
         ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
-
-        runHook postBuild
       '';
 
       doCheck = true;
       checkPhase = ''
-        runHook preCheck
-
         ${lib.optionalString (extensionRoot != null) ''
           pushd ${extensionRoot}
         ''}
@@ -67,13 +61,9 @@ lib.extendMkDerivation {
         ${lib.optionalString (extensionRoot != null) ''
           popd
         ''}
-
-        runHook postCheck
       '';
 
       installPhase = ''
-        runHook preInstall
-
         mkdir -p $out/share/zed/extensions/${name}
 
         ${lib.optionalString (extensionRoot != null) ''
@@ -82,12 +72,6 @@ lib.extendMkDerivation {
 
         # Manifest
         cp extension.toml $out/share/zed/extensions/${name}
-
-        # Grammars
-        ${lib.concatMapStrings (grammar: ''
-          mkdir -p $out/share/zed/extensions/${name}/grammars
-          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
-        '') grammars}
 
         # Assets
         for DIR in themes icons icon_themes languages; do
@@ -106,7 +90,11 @@ lib.extendMkDerivation {
           popd
         ''}
 
-        runHook postInstall
+        # Grammars
+        ${lib.concatMapStrings (grammar: ''
+          mkdir -p $out/share/zed/extensions/${name}/grammars
+          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
+        '') grammars}
       '';
     };
 }

@@ -33,8 +33,6 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
-        runHook preBuild
-
         mkdir -p $out/share/zed/grammars
 
         SRC="src/parser.c"
@@ -52,8 +50,6 @@ lib.extendMkDerivation {
           -o $out/share/zed/grammars/${name}.wasm \
           -I src \
           $SRC
-
-        runHook postBuild
       '';
 
       doCheck = false;
