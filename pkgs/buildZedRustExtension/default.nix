@@ -1,6 +1,5 @@
 {
   lib,
-  stdenv,
   makeRustPlatform,
   rust-bin,
   clang,
