@@ -7,7 +7,6 @@
   wasm-tools,
   jq,
   nix-zed-extensions,
-  libiconv,
   ...
 }:
 
@@ -47,8 +46,6 @@ lib.extendMkDerivation {
     {
       pname = "zed-extension-${name}";
       inherit name src version;
-
-      LIBRARY_PATH = lib.optionalString stdenv.isDarwin "${libiconv}/lib";
 
       nativeBuildInputs = [
         clang
