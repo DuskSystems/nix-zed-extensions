@@ -30,6 +30,7 @@
 
       "initialization_options": {
         "cargo": {
+          "targetDir": true,
           "features": "all"
         },
         "check": {
