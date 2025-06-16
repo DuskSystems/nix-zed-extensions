@@ -55,28 +55,32 @@ jobs:
 
           # Plain
           nix build .#zed-extensions.catppuccin \
+            --quiet \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 
-          tree result
+          tree result/share/zed/extensions/catppuccin
 
           # Rust
           nix build .#zed-extensions.nix \
+            --quiet \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 
-          tree result
+          tree result/share/zed/extensions/nix
 
           # Monorepo Plain
           nix build .#zed-extensions.aura-theme \
+            --quiet \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 
-          tree result
+          tree result/share/zed/extensions/aura-theme
 
           # Monorepo Rust
           nix build .#zed-extensions.toml \
+            --quiet \
             --inputs-from . \
             --override-input nixpkgs ${{ matrix.input }}
 
-          tree result
+          tree result/share/zed/extensions/toml

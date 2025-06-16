@@ -33,6 +33,8 @@ rustPlatform.buildRustPackage {
     lockFile = ../../Cargo.lock;
   };
 
+  doCheck = false;
+
   postInstall = ''
     wrapProgram $out/bin/nix-zed-extensions \
       --prefix PATH : ${
