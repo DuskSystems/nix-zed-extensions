@@ -55,7 +55,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-OWQ5pk84DV2yLmJb7FmlGuGZDt+car9Zh2oGdUNItZc=",
+      "cargoHash": "sha256-OethAsPNEf12Sq+TuTVfhFOYAdJl+6hm+CQ0CPV4Uu4=",
       "cargoLock": {
         "lockFile": "/generated/activitywatch.lock",
         "outputHashes": {
@@ -944,14 +944,14 @@
     },
     {
       "name": "biome",
-      "version": "0.1.5",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/biomejs/biome-zed",
-        "rev": "ec21fc24471bb60d64e2a4da2ad70efa5505657f",
-        "date": "2025-03-25T11:20:48Z",
-        "path": "/nix/store/5nla16ayzcpry1szxl3pm7msc9d7b903-biome-zed-ec21fc2",
-        "sha256": "04jpkvf5zyk3sw4ivbs22c5ggzp7l7bmr2lcvfk2dvzhnn8l9sph",
-        "hash": "sha256-8OpEkbXw7yam24yKXNeh5/73ChNCrx0J12P6X9yeVxI=",
+        "rev": "7ed58ff7f7652e88ddb3e5415721de549b02f0dc",
+        "date": "2025-06-17T22:49:55+09:00",
+        "path": "/nix/store/61pgm3bx1c0gp1cpjf7fykghv619f514-biome-zed-7ed58ff",
+        "sha256": "136mralkvcm2ipqr1877qqvp5g02if2hv4is5kizhvrivwk1gnlk",
+        "hash": "sha256-k9oXJt8xb/jjLDqSDYWLArxyN8bnoJDxjaKyPanK1Yw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -959,7 +959,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-8x3FQ0j7QHnCIAMS6OVTn/f+CdJotN1qVnkowdL9GhI="
+      "cargoHash": "sha256-WjXPRa8H9dGdlCtAtF137bRf+jVqur7cfM5hcEVkwrk="
     },
     {
       "name": "bitbake",
@@ -2119,7 +2119,7 @@
       "extensionRoot": "crates/zed",
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-erHujl+PoHDMXdmnK+RYMnzmGV+HD/aSteP6sIRd/iM=",
+      "cargoHash": "sha256-SB/tUrNNuvYerWb70N70vSiTkVo+Q3Cxh3e8pMU/jEs=",
       "cargoLock": {
         "lockFile": "/generated/css-modules-kit.lock"
       }
@@ -5947,7 +5947,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-a8O4k3lxO19k70ra+ZTSZJ1apvjDEU4nCTtGKQU0zDE=",
+      "cargoHash": "sha256-9a2C0tjLCOkMMt9MaX5FP+VB53nPTGeoLIk6ZvwW3BY=",
       "cargoLock": {
         "lockFile": "/generated/mcp-planetscale.lock"
       }
@@ -6007,7 +6007,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-NQdLHUT7sWKu/y79LWUymQU3YEIZHVy0T08h0FL8DkE=",
+      "cargoHash": "sha256-WYLoGhpo63X9tP+/kiZBjq45X5TtF0lGvAzhVvGo8R8=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-buildkite.lock"
       }
@@ -6744,7 +6744,7 @@
         "motoko_motoko"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-kUWo8v13xoAzYv/hdWScgMsFn0Z4y+a7cou5m/0Bsn4=",
+      "cargoHash": "sha256-vU6b3vvQvkQjAosKBa2Sh2FRuD7STwP6HZuBqd2MZoM=",
       "cargoLock": {
         "lockFile": "/generated/motoko.lock"
       }
@@ -8921,7 +8921,7 @@
         "r_r"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-yhwTQdpR//apVPukO43sFJtpFqp1lLI2pQU06ACuYGw=",
+      "cargoHash": "sha256-I76TfMvdvG1g6PF6DnzL4oXohcPvvsx0XvBBTfBvqTo=",
       "cargoLock": {
         "lockFile": "/generated/r.lock"
       }
@@ -9720,7 +9720,7 @@
       },
       "grammars": [],
       "kind": "rust",
-      "cargoHash": "sha256-gUhuDbSeBkWD+9EdJ/YzJcWJ0AOAIOxmuBypAhRya4Y=",
+      "cargoHash": "sha256-0Y14eds7OhFFNa3NeAope4Qd8i/BtCggHlhVArkCybg=",
       "cargoLock": {
         "lockFile": "/generated/sieve.lock"
       }
@@ -10955,14 +10955,14 @@
     },
     {
       "name": "tombi",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/tombi-toml/tombi",
-        "rev": "dabbd18168eefba6154a019f058c6c689c5bb348",
-        "date": "2025-06-14T01:49:33+09:00",
-        "path": "/nix/store/anni2w267ir2pddx9yigy80yr8qkn8f3-tombi-dabbd18",
-        "sha256": "03na4f2p1klk1kf3inc835d595c201s73f0rs6ricbbg0if2zllj",
-        "hash": "sha256-ktIvXARvLRaz0Rm4cXQAgpVUWhmI2TjcDJPOcIUjyg4=",
+        "rev": "bd54738a85ba2ebd4d10ab7921231f16c43c63ec",
+        "date": "2025-06-18T23:33:00+09:00",
+        "path": "/nix/store/5kzk9cvd5jc214rm4mnc2j88swl28n33-tombi-bd54738",
+        "sha256": "0h70pw9mivhq8kpfmwwfcviighxkpj5ivg98cwvnm95pm24hgxvw",
+        "hash": "sha256-fPcHiai3pGo3Zyi9HYu8s8MX42aO8+ruRBjuWBO/4EA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10973,7 +10973,7 @@
         "tombi_toml"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-cVj0dL9vGVm3WPQ5IA2LDxDLHia5T+pLi6rTQxAqoC4="
+      "cargoHash": "sha256-cYWcroSmky20CUCzmMC40cRera2dYl6dHo+pyRI7NeI="
     },
     {
       "name": "toml",

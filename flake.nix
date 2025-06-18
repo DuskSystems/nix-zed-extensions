@@ -67,13 +67,6 @@
         wasi-sdk = pkgs.wasi-sdk;
       });
 
-      apps = perSystemPkgs (pkgs: {
-        default = {
-          type = "app";
-          program = "${pkgs.nix-zed-extensions}/bin/nix-zed-extensions";
-        };
-      });
-
       devShells = perSystemPkgs (pkgs: {
         # nix develop
         default = pkgs.mkShell {
