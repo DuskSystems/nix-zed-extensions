@@ -2460,14 +2460,14 @@
     },
     {
       "name": "dart",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/zed-extensions/dart",
-        "rev": "4b93c2e7e13cac173ee66ac06650369fcb46cc2d",
-        "date": "2025-03-24T13:43:31-04:00",
-        "path": "/nix/store/law4k2ca514dhahwy7zgsx1y11hrlmqd-dart-4b93c2e",
-        "sha256": "0g52vanf21cb68phqsf751cw74zjcbznyqfz1nw2kjv1yywb40a3",
-        "hash": "sha256-QwGyuPdhyym4Dd9hb/9i8pPDWSjHaQwvMosF4azaojw=",
+        "rev": "9c5da8d95fbcb8ccc26c404bb8ea5d9c0d2c4626",
+        "date": "2025-06-23T09:51:37-04:00",
+        "path": "/nix/store/s0zqbcpixj907nqpmigd16928w4m350m-dart-9c5da8d",
+        "sha256": "1zx75lbn72zzhghb1r813aypfgkiq6ahq3sy232l837khmxhgcdq",
+        "hash": "sha256-uLEHe4XzDETFEF4PDJXBcT53vRoB5bDgg/+LYxctp/8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2477,7 +2477,7 @@
         "dart_dart"
       ],
       "kind": "rust",
-      "cargoHash": "sha256-kidFVlpaeu/Lwfudb5UMQbF6BhQH/+rSdnq297wA4A0="
+      "cargoHash": "sha256-ECpiYaN0YMimfSVEDqfslUjxC+TMzFE0qOleOvfaW4o="
     },
     {
       "name": "day-shift",
