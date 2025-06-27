@@ -28,6 +28,9 @@ lib.extendMkDerivation {
       ...
     }:
 
+    let
+      extensionDir = if extensionRoot != null then extensionRoot else ".";
+    in
     {
       pname = "zed-extension-${name}";
       inherit name src version;
@@ -37,58 +40,38 @@ lib.extendMkDerivation {
       ];
 
       buildPhase = ''
-        ${lib.optionalString (extensionRoot != null) ''
-          pushd ${extensionRoot}
-        ''}
-
         # Manifest
+        pushd ${extensionDir}
         nix-zed-extensions populate
-
-        ${lib.optionalString (extensionRoot != null) ''
-          popd
-        ''}
+        popd
       '';
 
       doCheck = true;
       checkPhase = ''
-        ${lib.optionalString (extensionRoot != null) ''
-          pushd ${extensionRoot}
-        ''}
-
         # Checks
+        pushd ${extensionDir}
         nix-zed-extensions check ${name} ${lib.concatMapStringsSep " " (grammar: grammar.name) grammars}
-
-        ${lib.optionalString (extensionRoot != null) ''
-          popd
-        ''}
+        popd
       '';
 
       installPhase = ''
         mkdir -p $out/share/zed/extensions/${name}
 
-        ${lib.optionalString (extensionRoot != null) ''
-          pushd ${extensionRoot}
-        ''}
-
         # Manifest
-        cp extension.toml $out/share/zed/extensions/${name}
+        cp ${extensionDir}/extension.toml $out/share/zed/extensions/${name}
 
         # Assets
         for DIR in themes icons icon_themes languages; do
-          if [ -d "$DIR" ]; then
+          if [ -d "${extensionDir}/$DIR" ]; then
             mkdir -p $out/share/zed/extensions/${name}/$DIR
-            cp -r $DIR/* $out/share/zed/extensions/${name}/$DIR
+            cp -r ${extensionDir}/$DIR/* $out/share/zed/extensions/${name}/$DIR
           fi
         done
 
         # Snippets
-        if [ -f "snippets.json" ]; then
-          cp snippets.json $out/share/zed/extensions/${name}
+        if [ -f "${extensionDir}/snippets.json" ]; then
+          cp ${extensionDir}/snippets.json $out/share/zed/extensions/${name}
         fi
-
-        ${lib.optionalString (extensionRoot != null) ''
-          popd
-        ''}
 
         # Grammars
         ${lib.concatMapStrings (grammar: ''

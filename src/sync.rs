@@ -7,6 +7,7 @@ use std::sync::Arc;
 
 use cargo_lock::Lockfile;
 use futures::stream::{FuturesUnordered, StreamExt};
+use serde_json::Value;
 use tokio::fs;
 use tokio::process::Command;
 use tokio::sync::Semaphore;
@@ -59,17 +60,80 @@ pub async fn process_extension(
         (tmp_repo.clone(), tmp_repo.join("extension.toml"))
     };
 
-    if fs::metadata(&manifest).await.is_err() {
+    if !manifest.exists() {
         tracing::error!("Missing extension.toml");
         fs::remove_dir_all(&tmp_repo).await?;
         return Ok(None);
     }
 
     let cargo = extension_dir.join("Cargo.toml");
-    let lockfile = if extension.path.is_some() {
-        tmp_repo.join("Cargo.lock")
+
+    // Figure out if we're in a Cargo workspace, and if there's a lockfile.
+    let (root, lockfile) = if let Some(path) = &extension.path {
+        let metadata = Command::new("cargo")
+            .args(["metadata", "--format-version=1", "--no-deps"])
+            .current_dir(&extension_dir)
+            .output()
+            .await?;
+
+        let root_workspace = if metadata.status.success() {
+            let metadata_json: Value = serde_json::from_slice(&metadata.stdout)?;
+            metadata_json
+                .get("workspace_root")
+                .and_then(|value| value.as_str())
+                .is_some_and(|workspace_root| Path::new(workspace_root) != extension_dir)
+        } else {
+            false
+        };
+
+        if root_workspace {
+            let repo_lockfile = tmp_repo.join("Cargo.lock");
+
+            tracing::info!(
+                lockfile = ?repo_lockfile,
+                root = ".",
+                "Using root lockfile"
+            );
+
+            (None, repo_lockfile)
+        } else {
+            let extension_lockfile = extension_dir.join("Cargo.lock");
+
+            tracing::info!(
+                lockfile = ?extension_lockfile,
+                root = ?path,
+                "Using extension lockfile"
+            );
+
+            (Some(path.clone()), extension_lockfile)
+        }
     } else {
-        extension_dir.join("Cargo.lock")
+        let extension_lockfile = extension_dir.join("Cargo.lock");
+
+        tracing::info!(
+            lockfile = ?extension_lockfile,
+            root = ".",
+            "Using extension lockfile"
+        );
+
+        (None, extension_lockfile)
+    };
+
+    // Ensure extension root is relative to the cargo root
+    let extension_root = if let (Some(cargo_root), Some(extension_path)) = (&root, &extension.path)
+    {
+        let Ok(relative) = Path::new(extension_path).strip_prefix(cargo_root) else {
+            anyhow::bail!("Extension path isn't within the Cargo root");
+        };
+
+        let relative = relative.to_string_lossy();
+        if relative.is_empty() {
+            None
+        } else {
+            Some(relative.to_string())
+        }
+    } else {
+        extension.path.clone()
     };
 
     let generated_dir = Path::new("generated");
@@ -83,7 +147,7 @@ pub async fn process_extension(
 
         let generate_lockfile = Command::new("cargo")
             .args(["generate-lockfile"])
-            .current_dir(&tmp_repo)
+            .current_dir(&extension_dir)
             .output()
             .await?;
 
@@ -157,7 +221,7 @@ pub async fn process_extension(
     }
 
     let kind = if cargo.exists() {
-        process_rust_extension(&name, &lockfile, altered_lockfile).await?
+        process_rust_extension(&name, root, &lockfile, altered_lockfile).await?
     } else {
         ExtensionKind::Plain
     };
@@ -170,7 +234,7 @@ pub async fn process_extension(
             name,
             version: manifest.version,
             src,
-            extension_root: extension.path,
+            extension_root,
             grammars: grammars.iter().map(|grammar| grammar.id.clone()).collect(),
             kind,
         },
@@ -248,6 +312,7 @@ async fn process_grammar(
 #[tracing::instrument(fields(name = %name))]
 async fn process_rust_extension(
     name: &str,
+    cargo_root: Option<String>,
     lockfile: &Path,
     generated_lockfile: bool,
 ) -> anyhow::Result<ExtensionKind> {
@@ -255,6 +320,12 @@ async fn process_rust_extension(
     if tmp_vendor.exists() {
         fs::remove_dir_all(&tmp_vendor).await?;
     }
+
+    tracing::info!(
+        lockfile = ?lockfile,
+        vendor = ?tmp_vendor,
+        "Running Cargo vendor"
+    );
 
     let vendor = Command::new("fetch-cargo-vendor-util")
         .args([
@@ -296,6 +367,7 @@ async fn process_rust_extension(
     };
 
     Ok(ExtensionKind::Rust {
+        cargo_root,
         cargo_hash,
         cargo_lock,
     })

@@ -78,18 +78,25 @@ final: prev: {
             ;
         };
 
-        postPatch = lib.optionalString (extension.kind == "rust" && extension ? cargoLock) ''
-          cp ${../. + extension.cargoLock.lockFile} Cargo.lock
-        '';
-
         extensionRoot = if extension ? extensionRoot then extension.extensionRoot else null;
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // lib.optionalAttrs (extension.kind == "rust") {
-        useFetchCargoVendor = true;
         cargoHash = extension.cargoHash;
       }
+      // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoRoot) {
+        cargoRoot = extension.cargoRoot;
+      }
       // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {
+        postPatch = ''
+          ${
+            if extension ? cargoRoot then
+              "cp ${../. + extension.cargoLock.lockFile} ${extension.cargoRoot}/Cargo.lock"
+            else
+              "cp ${../. + extension.cargoLock.lockFile} Cargo.lock"
+          }
+        '';
+
         cargoLock = {
           lockFile = ../. + extension.cargoLock.lockFile;
           outputHashes = extension.cargoLock.outputHashes or { };

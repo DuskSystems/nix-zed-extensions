@@ -6,10 +6,6 @@
       url = "github:NixOS/nixpkgs/nixos-25.05";
     };
 
-    nixpkgs-deprecated = {
-      url = "github:NixOS/nixpkgs/nixos-24.11";
-    };
-
     nixpkgs-unstable = {
       url = "github:NixOS/nixpkgs/nixpkgs-unstable";
     };
@@ -99,6 +95,10 @@
 
             # CLI
             tree
+
+            # Spellchecking
+            typos
+            typos-lsp
 
             # GitHub
             zizmor
