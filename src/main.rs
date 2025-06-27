@@ -43,7 +43,12 @@ async fn main() -> anyhow::Result<()> {
             };
 
             tracing::info!("Cloning extensions registry");
+
             let tmp_registry = temp_dir().join("registry");
+            if tmp_registry.exists() {
+                fs::remove_dir_all(&tmp_registry).await?;
+            }
+
             let clone = Command::new("git")
                 .args([
                     "clone",

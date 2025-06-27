@@ -63,6 +63,12 @@
         "path": "taplo",
         "arguments": ["lsp", "stdio"]
       }
+    },
+
+    "typos": {
+      "binary": {
+        "path": "typos-lsp"
+      }
     }
   }
 }

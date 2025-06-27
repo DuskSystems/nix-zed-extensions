@@ -26,6 +26,8 @@ pub enum ExtensionKind {
     Plain,
 
     Rust {
+        #[serde(rename = "cargoRoot", skip_serializing_if = "Option::is_none")]
+        cargo_root: Option<String>,
         #[serde(rename = "cargoHash")]
         cargo_hash: String,
         #[serde(rename = "cargoLock", skip_serializing_if = "Option::is_none")]
