@@ -13,7 +13,7 @@ pub struct Extension {
     pub name: String,
     pub version: String,
     pub src: Source,
-    #[serde(rename = "extensionRoot", skip_serializing_if = "Option::is_none")]
+    #[serde(rename = "extensionRoot")]
     pub extension_root: Option<String>,
     pub grammars: Vec<String>,
     #[serde(flatten)]
@@ -26,7 +26,7 @@ pub enum ExtensionKind {
     Plain,
 
     Rust {
-        #[serde(rename = "cargoRoot", skip_serializing_if = "Option::is_none")]
+        #[serde(rename = "cargoRoot")]
         cargo_root: Option<String>,
         #[serde(rename = "cargoHash")]
         cargo_hash: String,
@@ -39,12 +39,7 @@ pub enum ExtensionKind {
 pub struct CargoLock {
     #[serde(rename = "lockFile")]
     pub lock_file: PathBuf,
-
-    #[serde(
-        rename = "outputHashes",
-        skip_serializing_if = "BTreeMap::is_empty",
-        default
-    )]
+    #[serde(rename = "outputHashes", default)]
     pub output_hashes: BTreeMap<String, String>,
 }
 
@@ -73,4 +68,6 @@ pub struct Grammar {
     pub name: String,
     pub version: String,
     pub src: Source,
+    #[serde(rename = "grammarRoot")]
+    pub grammar_root: Option<String>,
 }

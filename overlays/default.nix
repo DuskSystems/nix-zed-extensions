@@ -29,7 +29,7 @@ final: prev: {
     }:
 
     buildZedGrammar {
-      inherit (grammar) name version;
+      inherit (grammar) name version grammarRoot;
 
       src = fetchgit {
         inherit (grammar.src)
@@ -64,7 +64,7 @@ final: prev: {
 
     (if extension.kind == "rust" then buildZedRustExtension else buildZedExtension) (
       {
-        inherit (extension) name version;
+        inherit (extension) name version extensionRoot;
 
         src = fetchgit {
           inherit (extension.src)
@@ -78,19 +78,15 @@ final: prev: {
             ;
         };
 
-        extensionRoot = if extension ? extensionRoot then extension.extensionRoot else null;
         grammars = map (id: zed-grammars."${id}") extension.grammars;
       }
       // lib.optionalAttrs (extension.kind == "rust") {
-        cargoHash = extension.cargoHash;
-      }
-      // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoRoot) {
-        cargoRoot = extension.cargoRoot;
+        inherit (extension) cargoRoot cargoHash;
       }
       // lib.optionalAttrs (extension.kind == "rust" && extension ? cargoLock) {
         postPatch = ''
           ${
-            if extension ? cargoRoot then
+            if extension.cargoRoot != null then
               "cp ${../. + extension.cargoLock.lockFile} ${extension.cargoRoot}/Cargo.lock"
             else
               "cp ${../. + extension.cargoLock.lockFile} Cargo.lock"
@@ -99,7 +95,7 @@ final: prev: {
 
         cargoLock = {
           lockFile = ../. + extension.cargoLock.lockFile;
-          outputHashes = extension.cargoLock.outputHashes or { };
+          outputHashes = extension.cargoLock.outputHashes;
           allowBuiltinFetchGit = true;
         };
       }

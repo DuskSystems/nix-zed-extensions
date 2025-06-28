@@ -218,7 +218,7 @@ async fn main() -> anyhow::Result<()> {
             for extension in extensions {
                 let semaphore = Arc::clone(&semaphore);
                 let future = async move {
-                    let _acquire = semaphore.acquire().await.unwrap();
+                    let _acquire = semaphore.acquire().await?;
                     process_extension(extension).await
                 };
 
