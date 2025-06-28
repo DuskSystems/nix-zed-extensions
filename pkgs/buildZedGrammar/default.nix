@@ -12,6 +12,7 @@ lib.extendMkDerivation {
     "name"
     "src"
     "version"
+    "grammarRoot"
   ];
 
   extendDrvArgs =
@@ -21,9 +22,13 @@ lib.extendMkDerivation {
       name,
       src,
       version,
+      grammarRoot ? null,
       ...
     }:
 
+    let
+      grammarDir = if grammarRoot == null then "." else grammarRoot;
+    in
     {
       pname = "zed-grammar-${name}";
       inherit name src version;
@@ -34,6 +39,8 @@ lib.extendMkDerivation {
 
       buildPhase = ''
         mkdir -p $out/share/zed/grammars
+
+        pushd ${grammarDir}
 
         SRC="src/parser.c"
         if [ -f src/scanner.c ]; then
@@ -50,6 +57,8 @@ lib.extendMkDerivation {
           -o $out/share/zed/grammars/${name}.wasm \
           -I src \
           $SRC
+
+        popd
       '';
 
       doCheck = false;

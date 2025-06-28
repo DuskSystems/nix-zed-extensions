@@ -45,15 +45,7 @@ lib.extendMkDerivation {
     }:
 
     let
-      buildDir =
-        if cargoRoot != null then
-          cargoRoot
-        else if extensionRoot != null then
-          extensionRoot
-        else
-          ".";
-
-      extensionDir = if extensionRoot != null then extensionRoot else buildDir;
+      extensionDir = if extensionRoot == null then (if cargoRoot == null then "." else cargoRoot) else extensionRoot;
     in
     {
       pname = "zed-extension-${name}";
@@ -73,16 +65,16 @@ lib.extendMkDerivation {
 
       buildPhase = ''
         # Rust
-        pushd ${buildDir}
+        pushd ${extensionDir}
         cargo build --release --target wasm32-wasip2 --target-dir target
         popd
 
         # WASM
-        mv ${buildDir}/target/wasm32-wasip2/release/*.wasm ${buildDir}/extension.wasm
-        wasm-tools metadata show ${buildDir}/extension.wasm
-        wasm-tools validate ${buildDir}/extension.wasm
+        mv ${extensionDir}/target/wasm32-wasip2/release/*.wasm ${extensionDir}/extension.wasm
+        wasm-tools metadata show ${extensionDir}/extension.wasm
+        wasm-tools validate ${extensionDir}/extension.wasm
 
-        if ! wasm-tools metadata show --json ${buildDir}/extension.wasm | jq -e '.component' > /dev/null; then
+        if ! wasm-tools metadata show --json ${extensionDir}/extension.wasm | jq -e '.component' > /dev/null; then
           echo "Failed to produce a WASI component"
           exit 1
         fi
@@ -104,7 +96,7 @@ lib.extendMkDerivation {
         mkdir -p $out/share/zed/extensions/${name}
 
         # WASM
-        cp ${buildDir}/extension.wasm $out/share/zed/extensions/${name}
+        cp ${extensionDir}/extension.wasm $out/share/zed/extensions/${name}
 
         # Manifest
         cp ${extensionDir}/extension.toml $out/share/zed/extensions/${name}
