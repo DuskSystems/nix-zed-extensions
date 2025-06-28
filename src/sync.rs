@@ -120,7 +120,15 @@ async fn prefetch_git_repo(
 ) -> anyhow::Result<Source> {
     tracing::info!("Pre-fetching git source");
 
-    let mut args = vec!["--url", repo, "--rev", rev];
+    let rev = if (rev.len() == 40 && rev.chars().all(|char| char.is_ascii_hexdigit()))
+        || rev.starts_with("refs/")
+    {
+        rev.to_owned()
+    } else {
+        format!("refs/heads/{rev}")
+    };
+
+    let mut args = vec!["--url", repo, "--rev", &rev];
     if fetch_submodules {
         args.push("--fetch-submodules");
     }
