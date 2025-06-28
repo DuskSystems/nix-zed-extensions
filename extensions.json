@@ -2933,25 +2933,6 @@
       "kind": "plain"
     },
     {
-      "name": "duckyscript",
-      "version": "0.0.1",
-      "src": {
-        "url": "https://github.com/Lalolog/duckyscript-zed-extension",
-        "rev": "f3d98f14093f4ad7771c64b7f0f3196d3db6d427",
-        "date": "2024-08-18T22:14:47+07:00",
-        "path": "/nix/store/r83igx3wplfdyjgkbpp6hnrilriq7g5f-duckyscript-zed-extension-f3d98f1",
-        "sha256": "1n96c77x3s1fzc8x34fdih0k11rj2967gf5c9dsfszl7p7hdf7h3",
-        "hash": "sha256-Ax7X4LmHfu10S6y4d0wSMocwAYzNkdER+y7o0c9hJtk=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "extensionRoot": null,
-      "grammars": [],
-      "kind": "plain"
-    },
-    {
       "name": "dune-theme",
       "version": "1.2.0",
       "src": {

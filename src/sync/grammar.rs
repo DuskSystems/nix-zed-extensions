@@ -17,7 +17,7 @@ pub struct ProcessedGrammars {
 pub async fn process_grammars(
     grammars: &BTreeMap<String, GrammarManifestEntry>,
     name: &str,
-) -> ProcessedGrammars {
+) -> anyhow::Result<ProcessedGrammars> {
     let mut futures = FuturesUnordered::new();
     for (grammar_name, grammar) in grammars {
         let future = process_grammar(grammar_name.clone(), grammar, name.to_owned());
@@ -31,20 +31,24 @@ pub async fn process_grammars(
                 processed_grammars.push(grammar);
             }
             Ok(_) => (),
-            Err(err) => tracing::error!(
-                err = ?err,
-                "Error processing grammar"
-            ),
+            Err(err) => {
+                tracing::error!(
+                    err = ?err,
+                    "Error processing grammar"
+                );
+
+                return Err(err);
+            }
         }
     }
 
     processed_grammars.sort_by(|a, b| a.id.cmp(&b.id));
     let ids = processed_grammars.iter().map(|g| g.id.clone()).collect();
 
-    ProcessedGrammars {
+    Ok(ProcessedGrammars {
         grammars: processed_grammars,
         ids,
-    }
+    })
 }
 
 #[tracing::instrument(fields(name = %name, extension = %extension))]
