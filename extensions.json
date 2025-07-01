@@ -3841,14 +3841,14 @@
     },
     {
       "name": "gentle-dark",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "src": {
         "url": "https://github.com/gentlelionstudios/gentle-dark-zed",
-        "rev": "c2ed031bbb484afe4c018b934019b974f97245b9",
-        "date": "2025-05-07T19:46:20-05:00",
-        "path": "/nix/store/q8m1nciclihiqpzbpphrb2wdl9g4wh1c-gentle-dark-zed-c2ed031",
-        "sha256": "0swj9n10qxaa87z2kzpi5ca2zcsvdmzf0ri9nljakm54h19h3ij9",
-        "hash": "sha256-ScYBU4Ck1KkktSlm4H5tW7MvFCvx/in+QUp1DIJNkms=",
+        "rev": "ab2acaee37ad56da151ec6594ef365a23906e6f2",
+        "date": "2025-06-29T11:12:32-05:00",
+        "path": "/nix/store/rb2kjmqkm8wrfpkxpjwxhclj4qz7cq94-gentle-dark-zed-ab2acae",
+        "sha256": "1a7vq1is3b9hz6p4al13y77dd0frjnzfgy56d13vcbq8v288ll2n",
+        "hash": "sha256-VlCKkNgIL7ZHaKb4576V2YHWzvEjUEWu+TCtoWPA+6g=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3907,14 +3907,14 @@
     },
     {
       "name": "github-classic",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/meocoder31099/Github-Classic-Theme-Zed",
-        "rev": "7ae814bb51659189f82916d371d7b842b198fb98",
-        "date": "2025-06-02T22:33:37+07:00",
-        "path": "/nix/store/30ib6f76pii0szx7ly8wds4q4g8miqfg-Github-Classic-Theme-Zed-7ae814b",
-        "sha256": "0fwydhzgk0w5x949qkp1qifr9kqgiml4s5g28nr2vw6ryxaf5ijl",
-        "hash": "sha256-VMbiVPfZ8C2yReIVTWiND8+UXcThTpxI6oWD+T5snjs=",
+        "rev": "7cee28a1405276728efb25e90b8c149ee9788c50",
+        "date": "2025-06-30T14:23:35+07:00",
+        "path": "/nix/store/6a3k3l10c2ny9d0in6nq6gd3xywkd2ww-Github-Classic-Theme-Zed-7cee28a",
+        "sha256": "056vkmwn022frsnlkbrbgh5inb47z42kd43zg0pbh3r24bz14bfg",
+        "hash": "sha256-zy0S/iIiD7gueH+QNgX5hywbC3wrr0mtzk4IYHmd2xQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4394,14 +4394,14 @@
     },
     {
       "name": "groovy",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "src": {
         "url": "https://github.com/valentinegb/zed-groovy",
-        "rev": "719e00c25d2574345cb7f7d662facf1a0d0edf3c",
-        "date": "2024-05-16T22:18:25-07:00",
-        "path": "/nix/store/vi9cbkxxl2lyh6fdxvlhv20s9y51v8iz-zed-groovy-719e00c",
-        "sha256": "1wh10bd180dq2kw23mkhcd0m6w8ik78ls6vkapzhm9cxnkgn9742",
-        "hash": "sha256-gpxk37SdpQr/VXMbTdGZEXFTQWNw1iH4FLgBFNoCAfI=",
+        "rev": "d40a53d23fc3467e91afc3dfa9a5dc9494e5407b",
+        "date": "2025-06-29T09:59:27-07:00",
+        "path": "/nix/store/zdcz255lgv2yp84dx9r4xblwnr706fx9-zed-groovy-d40a53d",
+        "sha256": "0k5w3w7j7xlw9x25c9k8601sjbxafrn41vxa778nrcbp42cfqgj5",
+        "hash": "sha256-RT7smCB3sWzROarvQGx2qi+pAzBoJlZET5z2Iw8fvEw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4413,7 +4413,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-7f5eskyo+ySWp4JpYYBsFL3JuNxhfPhdPGsuANv9T9Y="
+      "cargoHash": "sha256-o3UTW/Jl0jvaLwTrwG2rFJ9YlIGXcXxuEXTMxwFV6oM="
     },
     {
       "name": "groq",
@@ -6933,6 +6933,31 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-vmFsnX0pQrLYQZnKZoH+B2B+0U7m7FaZlfX7S4QnIkM="
+    },
+    {
+      "name": "mcp-server-vercel",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/Takk8IS/vercel-mcp-server-for-zed",
+        "rev": "e18b83eed4e2ae30342d9e9c9f1dc58215ad1f9c",
+        "date": "2025-06-29T07:39:33+02:00",
+        "path": "/nix/store/l8xmfl8byhb2nm40bwlqmd341s0q4ky1-vercel-mcp-server-for-zed-e18b83e",
+        "sha256": "1x1bjahj4m6wsgfg7qvsni4llc759mbkl3cxjlkqp20jzbk6qvfh",
+        "hash": "sha256-0G1s5voSiIsnlZ0NOldN5TBKSbR64/Pc09xUIqGSK/Q=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-6HzMu5u97ie47V1aAYhWwneft++2q0FhKT+0YH0qo20=",
+      "cargoLock": {
+        "lockFile": "/generated/mcp-server-vercel.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "mcp-server-webflow",
@@ -10947,14 +10972,14 @@
     },
     {
       "name": "snowfall",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/freethinkel/snowfall-zed",
-        "rev": "92120af77f1e8f72b6f225e91cff6d86cec90eab",
-        "date": "2025-03-19T22:56:38+05:00",
-        "path": "/nix/store/jp6mphl286y4cs5qd94cg5yf68dlx7yj-snowfall-zed-92120af",
-        "sha256": "01wzf5wjnqxxvrhy2y18z19c8jkcfrsrpn4li3z0qqyrv7hz3gi9",
-        "hash": "sha256-Kb7x4dnZYwz+iJTYm3V2bErEUvgoeOFh3r1jK3lxnwc=",
+        "rev": "d250659b1b06c1478632515c634e555308e2b98d",
+        "date": "2025-06-23T12:39:47+05:00",
+        "path": "/nix/store/lry3svm41w4izs66vcn44lhqqw0b1qq3-snowfall-zed-d250659",
+        "sha256": "1wmjypc2ygs5idm43zjm4zywkj6pmb9j0zi3a9452h05y3ba74z3",
+        "hash": "sha256-45Oj1vAFQFFIUiN+INOq18jJ/SdV/kFqi0U/L9j1svI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
