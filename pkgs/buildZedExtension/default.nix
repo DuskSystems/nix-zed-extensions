@@ -61,7 +61,7 @@ lib.extendMkDerivation {
         cp ${extensionDir}/extension.toml $out/share/zed/extensions/${name}
 
         # Assets
-        for DIR in themes icons icon_themes languages; do
+        for DIR in themes icons icon_themes languages debug_adapter_schemas; do
           if [ -d "${extensionDir}/$DIR" ]; then
             mkdir -p $out/share/zed/extensions/${name}/$DIR
             cp -r ${extensionDir}/$DIR/* $out/share/zed/extensions/${name}/$DIR
