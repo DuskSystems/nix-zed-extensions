@@ -5202,6 +5202,25 @@
       "kind": "plain"
     },
     {
+      "name": "icons-modern-material",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/JosMiguelMM/icons-modern-material",
+        "rev": "38930d6fe37ab7f2d68622b8d75fcb0726d79602",
+        "date": "2025-07-05T19:09:14-05:00",
+        "path": "/nix/store/6zxg09mp85m2l6p8451vwlcxwyhzf4x5-icons-modern-material-38930d6",
+        "sha256": "0bz9lallg98iffni6jvb7k2qcqdlc6k985nq3wls1jrxffswc0s4",
+        "hash": "sha256-RAPGtXM9y6ApH9gWlKZhtGGGxTxrSxOtcxGlR6mi6S8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "inform6",
       "version": "1.0.0",
       "src": {
@@ -6199,14 +6218,14 @@
     },
     {
       "name": "lua",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "src": {
         "url": "https://github.com/zed-extensions/lua",
-        "rev": "afeef557779842d18789820ab9f2f7f7f6b7b2a0",
-        "date": "2025-07-05T00:20:10-04:00",
-        "path": "/nix/store/djnvm5444dpky91vbry74g5cgqfz4fzw-lua-afeef55",
-        "sha256": "1aq0nbad47ym4w2h2wc9fl6xr9lmz2ya7ba3v791ijm4807rkg0m",
-        "hash": "sha256-FbyZD0CkyhjS2UOto7z4labcDXWJcQEFJ9Uf0tSyAKs=",
+        "rev": "343870dfe82ea4e316fd0577669ff007ea524a0e",
+        "date": "2025-07-10T02:46:18+05:30",
+        "path": "/nix/store/3ywk78zd9zhr6snpn1lmpbp7iiaz1mr1-lua-343870d",
+        "sha256": "03yml3s19a1war01varh9siy8was9ihkvk39mxzz8y6qhb3nm3jy",
+        "hash": "sha256-Xo5qx4LYePR/r2nMPWFMWnHko04wqx1AVjyoFPSg1Q8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6218,7 +6237,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-6T0JNJb5IPK1qW075yO2lvAMFz0eY7YbIbGacw0L0nM="
+      "cargoHash": "sha256-OaBjaZ/rRTAncO+Vaqf+kkrjZOkZ/w1YYx+n/9pK8yk="
     },
     {
       "name": "luau",
@@ -9104,14 +9123,14 @@
     },
     {
       "name": "php",
-      "version": "0.2.8",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/zed-extensions/php",
-        "rev": "35e12bf70513620a1ccdb6fc29a9bf92fcbeac1c",
-        "date": "2025-04-07T09:39:17-04:00",
-        "path": "/nix/store/4s474djm1rb79khlmf66ap9nvx19yk0q-php-35e12bf",
-        "sha256": "15n3l425dfmsfd89r1w4sagcnx9rxhbfdxgc7b7dvd9rb5r2x5wi",
-        "hash": "sha256-kZcuclk5td3OOuz15hbsOXXLntKEh5xQc7q6VgShw5Y=",
+        "rev": "afdbea1cc1d2df24fa25b1d23aea456a906524e8",
+        "date": "2025-07-09T22:56:04+02:00",
+        "path": "/nix/store/0jr7jf0ihrd7yzyg3hjbamr9liqm2i6x-php-afdbea1",
+        "sha256": "0d1rqbjx6j3qv4f4wark6bp4lh61mhgl9yvlf0dnm3xb07bcqi73",
+        "hash": "sha256-40TM1gGrj2obcHT7RB+swUBK7jIzK04c2XhI0+XCOTQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9124,7 +9143,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-FfuwnpZAWMIxqThgWmYdapOrnn6795WlMtxPVYXNQ5E="
+      "cargoHash": "sha256-LkkYA5goWvBwXv816vlDp9lmzwm/L2kpf3wR+vc6yyQ="
     },
     {
       "name": "pica200",
@@ -10830,26 +10849,30 @@
     },
     {
       "name": "slint",
-      "version": "0.0.7",
+      "version": "0.0.8",
       "src": {
-        "url": "https://gitlab.com/flukejones/zed-slint",
-        "rev": "2b3f4de5ec072b578b9802eb192fd61e5d1fb34c",
-        "date": "2025-05-19T09:00:55Z",
-        "path": "/nix/store/lavimgkizcsmxrijcqava3qajfqm8yjj-zed-slint-2b3f4de",
-        "sha256": "08qqdr4byvq5klfgs9pz6yrspp95ik7y6lq3mncr93yxnwff7a5p",
-        "hash": "sha256-t6jjHLfdj5SZrQNT48+MJd2rszf/Jv0cnQVvv0huGCM=",
+        "url": "https://github.com/slint-ui/slint",
+        "rev": "8bfaa4b62447f1fc84d1299d9913d160c884ebaf",
+        "date": "2025-07-09T17:44:07+02:00",
+        "path": "/nix/store/idll95r8aj1gzmgylb8j2ikhzyav5xsq-slint-8bfaa4b",
+        "sha256": "0bpkacp5zq02y9qrha6rd0ybs7jjih6w4lrdjqw6b9bk6iv2v9qn",
+        "hash": "sha256-FqctdjRzpWU4li1Twg2MUh69PGjZKJhx8gLgXy5T8y4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
-      "extensionRoot": null,
+      "extensionRoot": "editors/zed",
       "grammars": [
         "slint_slint"
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-SVnPYHBpSCK6GwtMUNx3MFBBGh7yJafuxQsAgyBeibc="
+      "cargoHash": "sha256-92cA/lIsMJC+ddV9IndHBjvGBaXZAvsFNBYFcU3LhYo=",
+      "cargoLock": {
+        "lockFile": "/generated/slint.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "sml",
