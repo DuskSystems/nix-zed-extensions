@@ -6220,14 +6220,14 @@
     },
     {
       "name": "lua",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/zed-extensions/lua",
-        "rev": "343870dfe82ea4e316fd0577669ff007ea524a0e",
-        "date": "2025-07-10T02:46:18+05:30",
-        "path": "/nix/store/3ywk78zd9zhr6snpn1lmpbp7iiaz1mr1-lua-343870d",
-        "sha256": "03yml3s19a1war01varh9siy8was9ihkvk39mxzz8y6qhb3nm3jy",
-        "hash": "sha256-Xo5qx4LYePR/r2nMPWFMWnHko04wqx1AVjyoFPSg1Q8=",
+        "rev": "0659e1efae873684b0e19d1e397bb09018d3b800",
+        "date": "2025-07-15T02:59:10+05:30",
+        "path": "/nix/store/pmbb2mcxxfk6hhpimybkq38k8mk2w7ys-lua-0659e1e",
+        "sha256": "09cr3xi6wyv2q1v0k0hwnl9qpy7cny5y3y3kyg8djz2jv7af989x",
+        "hash": "sha256-PaHk1NlSfNnQ83P44Yu37PiLE7Ucggl2wGJ7bmIfmSU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6239,7 +6239,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-OaBjaZ/rRTAncO+Vaqf+kkrjZOkZ/w1YYx+n/9pK8yk="
+      "cargoHash": "sha256-/IAeF7mlViDjMh6bFlrBbzxuymZWEcDoLjmoNoEUvMY="
     },
     {
       "name": "luau",
@@ -11487,14 +11487,14 @@
     },
     {
       "name": "stylelint",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/florian-sanders/zed-stylelint",
-        "rev": "65f653d726278912c2de19066a97cc1e1f2537ff",
-        "date": "2025-07-05T14:32:12+02:00",
-        "path": "/nix/store/09cwscd8vbd31ljrg79z1i0m3jwacrm6-zed-stylelint-65f653d",
-        "sha256": "0c59ikl4sn7ih8axz6pxr68lyhlbjyw27gfwq2wd28wkk0gpb9rc",
-        "hash": "sha256-LKd1H5iTI9G4wNy9I7iXi0JPkcn9mt8VgvFYTeiMqTA=",
+        "rev": "5a08156e5745df10293d557954976085532a383e",
+        "date": "2025-07-14T14:11:13+02:00",
+        "path": "/nix/store/5k8m27lcshhjn6r21gcrjg809w9jydf3-zed-stylelint-5a08156",
+        "sha256": "1bdccjgrf20a3pvfq8szppj6ncwgiy8vmgfslxsww4vc31gah9mm",
+        "hash": "sha256-tSaoXhhsE851p9q9upGPjzNr5L1fI+z2HQoIl59krK0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11504,7 +11504,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-rqWDT6JaxV9NPGwRUy0thvqly6ysY5y2l0HbiUd3cZk="
+      "cargoHash": "sha256-Vde+2XRDvurzrxrH8z+3/dRw9yoBR6OTQ2dS22WHWiY="
     },
     {
       "name": "sublime-mariana-theme",
