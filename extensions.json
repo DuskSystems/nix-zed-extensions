@@ -130,6 +130,25 @@
       "kind": "plain"
     },
     {
+      "name": "adwaita",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/somepaulo/adwaita-zed-theme",
+        "rev": "cd0584b9df3eb6767f64bcef9958b2569f98fdaa",
+        "date": "2025-07-15T23:34:26+01:00",
+        "path": "/nix/store/6mm14bhmbz968qh1639pawwhc8vmpm4a-adwaita-zed-theme-cd0584b",
+        "sha256": "1rz7f7xhh9yz4wzsh13ryb5hdyzib060ld86xnkhvsphqm09qr1s",
+        "hash": "sha256-OmScQMXw6g2n7QY1CgxY8fsGy/J5BKg/J98nCPtx5+c=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "adwaita-pastel",
       "version": "0.0.2",
       "src": {
@@ -5488,14 +5507,14 @@
     },
     {
       "name": "java-eclipse-jdtls",
-      "version": "0.2.4",
+      "version": "0.2.5",
       "src": {
         "url": "https://github.com/ABckh/zed-java-language-support-jdtls",
-        "rev": "90581d18e899c895d00f3c5c708a4616c30ae397",
-        "date": "2024-09-10T09:25:18+03:00",
-        "path": "/nix/store/pxs2czdxbxrg35fbdr4sp6hfs7zpvnvv-zed-java-language-support-jdtls-90581d1",
-        "sha256": "1ds67299wmcfi4v74j7jk17rjzvvcaj5sj78kf855f02d999vd3h",
-        "hash": "sha256-cLSdUmoCuFKQm+hIXaRie3+ZT5jySHI2iY5VnpI4Rrc=",
+        "rev": "a2e376a4fcc0778e103ad0be1bf00b10e23f40e2",
+        "date": "2025-07-17T20:55:02+03:00",
+        "path": "/nix/store/s0lw1ck36bz045l9xq7jhzx3lbbg7i3b-zed-java-language-support-jdtls-a2e376a",
+        "sha256": "1pkisbyha4rbymd6j5z2lfwkyim6zvgmnxpmrsl0alyrs8sg3cha",
+        "hash": "sha256-CrLxNNLZUwWozvV2W9/+pkY/uaPiF2la9SsTBf3Scd4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5503,11 +5522,12 @@
       },
       "extensionRoot": null,
       "grammars": [
-        "java-eclipse-jdtls_java"
+        "java-eclipse-jdtls_java",
+        "java-eclipse-jdtls_properties"
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-4cqDXPwihOznbgUfH95NkD9A2+tVj88Ezp4zRb0nwFU="
+      "cargoHash": "sha256-qYS8McmTzn98OZulyRQHzesPgasUut1cCTJ/OSOtLO4="
     },
     {
       "name": "jellybeans-vim",
@@ -5587,14 +5607,14 @@
     },
     {
       "name": "jetbrains-themes",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "src": {
         "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
-        "rev": "65c810e9d14d98eb56ea3acb4e27255faf54fd2d",
-        "date": "2025-07-03T21:23:06+03:00",
-        "path": "/nix/store/qnik4i3ibzwp0zznd6v5nl8y55gc14lh-zed-theme-jetbrains-65c810e",
-        "sha256": "07grxcy4x9ysqi6ii247hyz0j489l9vkcvrrnwmmn00k7gdcbyv4",
-        "hash": "sha256-ZPvF2jsTAFsrtzlvNneiCREJvoeHiBhNxNqnTjzr+R0=",
+        "rev": "cfc6fcda673135d4a674c6104b26955168b3bb00",
+        "date": "2025-07-17T21:29:13+03:00",
+        "path": "/nix/store/khgr8d6jsy58y16hil6y0a7mgzjvrzf5-zed-theme-jetbrains-cfc6fcd",
+        "sha256": "1xw6sck4yvg7dvziwf1qd6rnjjf5i54bp7wza8f486m99rrv8k8w",
+        "hash": "sha256-HE20c06pGkQcUp+fu0iJxUlps2k4OB7/budtTybThvc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -16120,6 +16140,24 @@
         "path": "/nix/store/j3s9f48b35i90lm60234rnnnbb9i4rv5-tree-sitter-java-953abfc",
         "sha256": "0f0mi8s0sm9l3hkz23rcfgmdww9lfadj2qmyg44s68skqwzc9sh8",
         "hash": "sha256-COrEPsdTI6MJeb5iIZtyNHHe6nMsD/EnHDRVDTSKFTg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "java-eclipse-jdtls_properties",
+      "name": "properties",
+      "version": "9d09f5f200c356c50c4103d36441309fd61b48d1",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties",
+        "rev": "9d09f5f200c356c50c4103d36441309fd61b48d1",
+        "date": "2024-02-28T21:48:28+02:00",
+        "path": "/nix/store/bardqvb7dbf87p6qwa97j0lhp4zwpgmc-tree-sitter-properties-9d09f5f",
+        "sha256": "1vv1379lyk3p3nafs9if6j3n8ks7jpl9fakgq9lzxq47l0p2bd1a",
+        "hash": "sha256-KrQlLqCH4P5pwm8ql+iVR09khzQuJu2UHXdMT9MZYe8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
