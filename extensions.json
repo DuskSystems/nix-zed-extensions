@@ -5052,6 +5052,25 @@
       "kind": "plain"
     },
     {
+      "name": "hot-dog-stand",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/CoasterFan5/hotdog-stand-zed",
+        "rev": "3bc2204aab1ed376230456ad9001b705edebde6a",
+        "date": "2025-07-17T17:38:30-04:00",
+        "path": "/nix/store/2z94gyzycsqqn98f7jmsz44hi3k9n0nc-hotdog-stand-zed-3bc2204",
+        "sha256": "016qg7shc6izlbpbbkqdfr9q6asz81wk1w0h6xy4g725sk2y9j6j",
+        "hash": "sha256-0sjkxdRFnEd8NxDwMHlAXyuDU3YNz7Xuoj8aBvV52AQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "html",
       "version": "0.2.1",
       "src": {
@@ -9303,14 +9322,14 @@
     },
     {
       "name": "php",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "src": {
         "url": "https://github.com/zed-extensions/php",
-        "rev": "bcb178a115c78e431dde2e5903dd4a4112e883c5",
-        "date": "2025-07-15T13:27:22+02:00",
-        "path": "/nix/store/gw5swi3p4iaa9ql96v3p37ap1r4h7zl8-php-bcb178a",
-        "sha256": "1vvhs1dd788383yvhmzc0wnknaa7gn65zbx99snwzrsm2wqwdgjy",
-        "hash": "sha256-Xr7GMRdV58+tTqmvX4x9Ryk7LQfsV7j9QAOh01rQcO8=",
+        "rev": "ee6c834438605abaec4bc924cb45f18a6d6fc246",
+        "date": "2025-07-19T02:01:32+05:30",
+        "path": "/nix/store/ad89kdkhdba2r9wv1fc20047wv3afvkq-php-ee6c834",
+        "sha256": "084x0skl7hrdybapfgfq686if0lscg260n080af1hca0f0diibxj",
+        "hash": "sha256-sq8YG3BAMRicAghYYMRjmgIXDTLYPXfV8i3DQ6cGnSA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9323,7 +9342,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-LkkYA5goWvBwXv816vlDp9lmzwm/L2kpf3wR+vc6yyQ="
+      "cargoHash": "sha256-2YlwJ+ZkvLPp7CPugkFqjVfRUujmy2u8AOxYursn0lU="
     },
     {
       "name": "pica200",
