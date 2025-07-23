@@ -5,8 +5,8 @@ use std::path::Path;
 use std::process::Command;
 use std::sync::Arc;
 
-use futures::stream::FuturesUnordered;
 use futures::StreamExt;
+use futures::stream::FuturesUnordered;
 use registry::RegistryExtension;
 use tokio::fs;
 use tokio::sync::Semaphore;
