@@ -8736,6 +8736,25 @@
       "kind": "plain"
     },
     {
+      "name": "oldbook-theme",
+      "version": "1.4.8",
+      "src": {
+        "url": "https://github.com/gko/oldbook-theme",
+        "rev": "c31ddf7eb8cbbd86fabd351637e1efd335e2d1c3",
+        "date": "2025-07-30T22:55:19+02:00",
+        "path": "/nix/store/g787hc27c2qwfm33a4ccysk377myi1ly-oldbook-theme-c31ddf7",
+        "sha256": "1gqf3xhins8ba7y5d959izgrz5zz7259n421i77fdlpv9wplimw7",
+        "hash": "sha256-h9dIL0/70ubOiUEQm4o4/5ef34+ppFb8UQtpG2EfDr8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "omnetpp",
       "version": "0.0.4",
       "src": {
