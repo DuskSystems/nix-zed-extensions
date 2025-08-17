@@ -516,14 +516,14 @@
     },
     {
       "name": "assembly",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/DevBlocky/zed-asm",
-        "rev": "1d98bf0f1b61d550168bf50adafa1465b90c3903",
-        "date": "2025-05-30T19:56:15-07:00",
-        "path": "/nix/store/z63kll6kx1x0jk95493c2n3wzv1an64z-zed-asm-1d98bf0",
-        "sha256": "1bnllcfpqv606zmss3r9dd9wl4da0fszzjih6kb3p56c7ff62wdq",
-        "hash": "sha256-uHFhnDvMlDvWNDDK/7UDqhHKU2spD63rN8BsfB2j1K4=",
+        "rev": "334f0fc5bf899105f45e72f7cb6cbda1d9500af3",
+        "date": "2025-08-02T18:44:59-07:00",
+        "path": "/nix/store/jrizcbywgmn6cxwk3gdxkpvhlralq4qq-zed-asm-334f0fc",
+        "sha256": "1z2vgh0x79bkzvp6nd92d5n0qm5bmkkad86r4kczn8l4v9af57lw",
+        "hash": "sha256-nJ7iVNqEIvvZJNmgpuasq1QMbGkiNWvu/nOl0wF8W/w=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -533,7 +533,9 @@
       "grammars": [
         "assembly_asm"
       ],
-      "kind": "plain"
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-kUkPQxkW+BJtiPyg0Styg9pFbtTKSzAGfJOHjBoo714="
     },
     {
       "name": "ast-grep",
@@ -619,14 +621,14 @@
     },
     {
       "name": "authzed",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/mleonidas/authzed-zed",
-        "rev": "45aaa354646a158dc693c5561fcd30bf8d9399c6",
-        "date": "2025-07-31T09:54:43-04:00",
-        "path": "/nix/store/aks60gjvz3ygr4ws0smm3yl49fw2djdk-authzed-zed-45aaa35",
-        "sha256": "0mqh41pyr05sfi6x7vq638w8wjswmwz4s5zjl9dlj06rr95zpaln",
-        "hash": "sha256-lqr7S8rZAElbovIXTT6vXEuOOBoG79NNdLqA7G8gEFc=",
+        "rev": "10647223ac869e20e33127dfdeee67979b1cc99d",
+        "date": "2025-08-08T17:21:07-04:00",
+        "path": "/nix/store/y5nj1fwa67k94a90ic7r60hm6ww53lg9-authzed-zed-1064722",
+        "sha256": "1dxmij4v15c7z4dv583y5jzfg8zcyj7d1982h1la2bpnf8lbwz6g",
+        "hash": "sha256-z3y+KHL2LqFogAKl0I707KPnvix+oLIb+YeVsImMtbc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -636,7 +638,9 @@
       "grammars": [
         "authzed_authzed"
       ],
-      "kind": "plain"
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-RysyD5X+CNaTA3CQfUOr+5hwu8b1Bd3mXV8hYKWEAns="
     },
     {
       "name": "autocorrect",
@@ -820,6 +824,33 @@
       "kind": "plain"
     },
     {
+      "name": "baml",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/BoundaryML/zed-baml",
+        "rev": "670e3adf382a7d6443161fdb53d7fbf7aec7da67",
+        "date": "2025-07-29T20:43:10Z",
+        "path": "/nix/store/v26khha6aqvzli7iq6ydp4k3x8kyk77v-zed-baml-670e3ad",
+        "sha256": "0s8h5q4xghk778vvn11d5h5v65xnsvacddhrk19q65q4lpnyxddh",
+        "hash": "sha256-sLXu7aUEF4NTmBm2xtTWthezCywtBLs3OmfC1wkuEGk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "baml_baml"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-zbg1hSsr5thr8z08kAfVlr2WcBK/1McXCj0Wyy7Xcc0=",
+      "cargoLock": {
+        "lockFile": "/generated/baml.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "barbenheimer",
       "version": "1.3.1",
       "src": {
@@ -993,25 +1024,6 @@
         "path": "/nix/store/svq54f1gs1pkkgra8abbv4z8nb6cgva5-bearded-icons-theme-ad39c68",
         "sha256": "1afww10zkx21yqwcrxfzrq74l0ijsg5lpnin6c7ly459jmfi5vck",
         "hash": "sha256-k+0SXZWpEE8PMzbaS8vTMgJKDs7f9cw49kH0+UHg3Kk=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "extensionRoot": null,
-      "grammars": [],
-      "kind": "plain"
-    },
-    {
-      "name": "becker-theme",
-      "version": "0.0.2",
-      "src": {
-        "url": "https://github.com/Becker-Theme/zed",
-        "rev": "50d3ce38096068ded8e3f8d15d3498371c10876a",
-        "date": "2024-07-15T21:37:30-03:00",
-        "path": "/nix/store/vbxnqlk419jwy8ijgjp6fsvbbksjlq0k-zed-50d3ce3",
-        "sha256": "1cwap4d541y8kpnndpdw9ij04hhbc993fmxj8gqadl4biygmx70c",
-        "hash": "sha256-DJxen4+L0KbwQ7JXN1JiC0ICZEy83WbtncgHUhq5irM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3248,6 +3260,25 @@
       "kind": "plain"
     },
     {
+      "name": "elderberry",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/IronGeek/zed-theme-elderberry",
+        "rev": "29d6877cb20b2d245977e8523ac21417a3161e62",
+        "date": "2025-08-13T21:43:34+07:00",
+        "path": "/nix/store/3i5m3vcq8xaii2wg6524jymgd4llq3c7-zed-theme-elderberry-29d6877",
+        "sha256": "0f5zngbnnw93pxla95bq4ghhf8ny09cm4hmnai2rygrwjkk6c4rs",
+        "hash": "sha256-OhNm5pQ8P59FVLZCUlkC3iIH4SN4laRovyNxa9ezvzg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "elisp",
       "version": "0.0.4",
       "src": {
@@ -3405,93 +3436,24 @@
     },
     {
       "name": "emmet",
-      "version": "0.0.6",
+      "version": "0.0.7",
       "src": {
-        "url": "https://github.com/zed-industries/zed",
-        "rev": "4238e640fa9a99acfa7edd08f1f7b27b5f5a649f",
-        "date": "2025-08-13T16:55:02Z",
-        "path": "/nix/store/57khii6ipww2x4srx68vl5v5x2fgvlsq-zed-4238e64",
-        "sha256": "1m54g4m27cxzj62dnpl0cd9mzkr44gcidyj66rn9djjjj0h88bw2",
-        "hash": "sha256-gi+EIJBSypZsNkb6FtkjJM9fU2OAXtuEkb+zIyp5pNQ=",
+        "url": "https://github.com/zed-extensions/emmet",
+        "rev": "2b254be8ec838eebaf39d02bf102aac459f22d8a",
+        "date": "2025-08-16T12:38:40-04:00",
+        "path": "/nix/store/jzsrb2i2mm7z5nfnzah8f7m4m2jk4pkw-emmet-2b254be",
+        "sha256": "05cf1f4ihk0rdv6yvgyv93k744a9vfwh8k4prnsx3qafkn6qbfkc",
+        "hash": "sha256-bLqFjZ1O4dG1zZdMBLnbSRFy5kjbv+3NbhlMGIkLjhU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
-      "extensionRoot": "extensions/emmet",
+      "extensionRoot": null,
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-GfU/pXrIsuZF9R8h0avZ63gLeAP7ejy6S7BTVK7KDsA=",
-      "cargoLock": {
-        "lockFile": "/generated/emmet.lock",
-        "outputHashes": {
-          "alacritty_terminal-0.25.1-dev": "sha256-YBfVHOgouvNogY8w//eojWe+jDD7WVTmndsHIklohuc=",
-          "async-pipe-0.1.3": "sha256-g120X88HGT8P6GNCrzpS5SutALx5H+45Sf4iSSxzctE=",
-          "async-stripe-0.40.0": "sha256-kVdYCmlM8DilSrcOGxI1tvSiUjSrXdnmKqBA9WUJgMw=",
-          "blade-graphics-0.6.0": "sha256-LwJEok+iIuJqmz2BSc7vRZVtZIvmyaXlxDcoWuX+itk=",
-          "blade-macros-0.3.0": "sha256-LwJEok+iIuJqmz2BSc7vRZVtZIvmyaXlxDcoWuX+itk=",
-          "blade-util-0.2.0": "sha256-LwJEok+iIuJqmz2BSc7vRZVtZIvmyaXlxDcoWuX+itk=",
-          "dap-types-0.0.1": "sha256-H8QwXMcq5CH8qjzNw1eXQhNhPet+662kmn5LomIBzGo=",
-          "font-kit-0.14.1": "sha256-/l1o3L4ZRMfmoOJqCDup3dCU3rXG4FUznEvRkHWzHBQ=",
-          "jj-lib-0.29.0": "sha256-+PChmZ46pH4z2MSvT9KNaz2HH29kRf4vZ+2fXxR/SAY=",
-          "jj-lib-proc-macros-0.29.0": "sha256-+PChmZ46pH4z2MSvT9KNaz2HH29kRf4vZ+2fXxR/SAY=",
-          "jupyter-protocol-0.6.0": "sha256-v+avgSYYT9BJ1+lIEF+Vp1V9D0YH8LGH4XEjweN/pLs=",
-          "jupyter-websocket-client-0.9.0": "sha256-v+avgSYYT9BJ1+lIEF+Vp1V9D0YH8LGH4XEjweN/pLs=",
-          "libwebrtc-0.3.10": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "livekit-0.7.8": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "livekit-api-0.4.2": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "livekit-protocol-0.3.9": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "livekit-runtime-0.4.0": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "lsp-types-0.95.1": "sha256-pLavGU2/96Qzi107rN0erbUzXcApVpfSUZrLgu4hUdU=",
-          "nbformat-0.10.0": "sha256-v+avgSYYT9BJ1+lIEF+Vp1V9D0YH8LGH4XEjweN/pLs=",
-          "notify-8.0.0": "sha256-09ai0jQ9ti63SvP30fcNDOKagypg6N1T6TRzUW9GVeA=",
-          "notify-types-2.0.0": "sha256-09ai0jQ9ti63SvP30fcNDOKagypg6N1T6TRzUW9GVeA=",
-          "nvim-rs-0.9.2": "sha256-cnG18TL/L4NUze4ltz4IKo2uLhuRwmwZd/yNWrCweC4=",
-          "pet-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-conda-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-core-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-env-var-path-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-fs-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-global-virtualenvs-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-homebrew-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-jsonrpc-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-linux-global-python-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-mac-commandlinetools-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-mac-python-org-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-mac-xcode-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-pipenv-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-pixi-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-poetry-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-pyenv-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-python-utils-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-reporter-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-telemetry-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-venv-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-virtualenv-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-virtualenvwrapper-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-windows-registry-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "pet-windows-store-0.1.0": "sha256-DVLyPNQLzYuebe9wVldYyhKD09IoUZL19J1jwDgHOeU=",
-          "reqwest-0.12.15": "sha256-G7RRaNP6aqixSThXFJybPZ1AnesYn+f97p210FHf3qw=",
-          "runtimelib-0.25.0": "sha256-v+avgSYYT9BJ1+lIEF+Vp1V9D0YH8LGH4XEjweN/pLs=",
-          "scap-0.0.8": "sha256-3DdcZoDImYuP+QmdsyaoMDiL61xqkC3zodDi9CgWiXg=",
-          "tiktoken-rs-0.8.0": "sha256-3nbhoyvIJkRL1vdQhbAENnvaQCnIDKPqlyuQgdzu/j4=",
-          "tree-sitter-gitcommit-0.0.1": "sha256-Z1BDWFXve4lRa6cTQyVHAfVo2ZFhcxKdRYpyWqbU4lY=",
-          "tree-sitter-gomod-1.1.1": "sha256-KD6Fio9qie3wbGAvQaYsMdYOK1QjnRrGExt1oL/6mis=",
-          "tree-sitter-gowork-0.0.1": "sha256-WRMgGjOlJ+bT/YnSBeSLRTLlltA5WwTvV0Ow/949+BE=",
-          "tree-sitter-heex-0.0.1": "sha256-SnjhL0WVsHOKuUp3dkTETnCgC/Z7WN0XmpQdJPBeBhw=",
-          "tree-sitter-md-0.3.2": "sha256-q2/aJx+385B8HiU0soZ1vtRvjkE21ABGzIyR1qwKFOU=",
-          "tree-sitter-python-0.23.6": "sha256-Ik535qt0cU0+u3GUyWGw+LYpMIFoqo5yimck9tZAsj4=",
-          "tree-sitter-yaml-0.6.1": "sha256-95u/bq74SiUHW8lVp3RpanmYS/lyVPW0Inn8gR7N3IQ=",
-          "webrtc-sys-0.3.7": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "webrtc-sys-build-0.3.6": "sha256-DNC1SfTHpAzO5qFeUBivmr+O+Dar9gAJpjGVd8REBKw=",
-          "windows-capture-1.4.3": "sha256-k07Jpk4mcDo1JsZDF7AZMHRqlqFKHt60G2X3BUjMhBc=",
-          "xim-0.4.0": "sha256-BXyaIBoqMNbzaSJqMadmofdjtlEVSoU6iogF66YP6a4=",
-          "xim-ctext-0.3.0": "sha256-BXyaIBoqMNbzaSJqMadmofdjtlEVSoU6iogF66YP6a4=",
-          "xim-parser-0.2.1": "sha256-BXyaIBoqMNbzaSJqMadmofdjtlEVSoU6iogF66YP6a4=",
-          "yawc-0.2.4": "sha256-C/iUVbny697xkZMD5fdv69/cQZ0YlxX7X4BzF9gHXc4="
-        }
-      }
+      "cargoHash": "sha256-24Lg/S2/DWkjAcYW5kGNMF2PhzPm/4Wv/BzdF3/yt3k="
     },
     {
       "name": "env",
@@ -4135,6 +4097,29 @@
       "kind": "plain"
     },
     {
+      "name": "github-actions",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/neoncitylights/zed-github-actions",
+        "rev": "1bc384bf0b76cda8e8e9c539b040f2da309e591b",
+        "date": "2025-08-08T03:01:34-05:00",
+        "path": "/nix/store/hhan9nqi4wm6801i3zsvh3rf2wb110ys-zed-github-actions-1bc384b",
+        "sha256": "13i7wcsjx7vdy60dfxw1i02fh13q9lzk3zjcyfcmyga3q37dii2y",
+        "hash": "sha256-XsTYzsBDPV+Z80z+MT9NeAToBIiBd9eA8W2fLjXjJ44=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "github-actions_yaml"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-EDxlFoShkQM4i/TVe6zs5SCm2mJiipDw1nVI+DnDfHc="
+    },
+    {
       "name": "github-activity-summarizer",
       "version": "0.5.1",
       "src": {
@@ -4260,6 +4245,25 @@
         "path": "/nix/store/lbjbi63dzxbwqjglj44jlrc90kpvx1zv-github-zed-theme-b6af92f",
         "sha256": "1j1jjdg6v3vkiasdmxhrzkzxlsfdyhrnr6akhkp73yf6kpskdvj2",
         "hash": "sha256-Qu429Z3G+XHuhFOZbDP0zWna//wZ9tq0inOPbV6TMsg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "gitignore-templates",
+      "version": "2025.08.0",
+      "src": {
+        "url": "https://github.com/hjr265/zed-gitignore-templates",
+        "rev": "6a5d99cf76eac0236004ac1c4cee37e5498438a7",
+        "date": "2025-08-13T11:28:53+06:00",
+        "path": "/nix/store/nhs8cnfv86jqmlayz8n2r6d46p16czm8-zed-gitignore-templates-6a5d99c",
+        "sha256": "1wznqp3q68hfil76nqppj0b41zrapdkh5h2xcm21hkb9pkkkgcqm",
+        "hash": "sha256-FbM357xpTRhEZV3AAme7Kv9AFpD3YmsOjQ4ig8fF9vM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4666,14 +4670,14 @@
     },
     {
       "name": "groovy",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "src": {
         "url": "https://github.com/valentinegb/zed-groovy",
-        "rev": "d40a53d23fc3467e91afc3dfa9a5dc9494e5407b",
-        "date": "2025-06-29T09:59:27-07:00",
-        "path": "/nix/store/zdcz255lgv2yp84dx9r4xblwnr706fx9-zed-groovy-d40a53d",
-        "sha256": "0k5w3w7j7xlw9x25c9k8601sjbxafrn41vxa778nrcbp42cfqgj5",
-        "hash": "sha256-RT7smCB3sWzROarvQGx2qi+pAzBoJlZET5z2Iw8fvEw=",
+        "rev": "5ab55ac07c93cc32dc4ed6f8917ba8d497a35c9a",
+        "date": "2025-08-05T10:44:31-07:00",
+        "path": "/nix/store/fjpdz3gxpq2cv9qarjsmyy00zq42mggi-zed-groovy-5ab55ac",
+        "sha256": "0glya4nm7c82nxiypbv7ppayrbldb0fhmqgbnqc1vcsdrxw4d1ag",
+        "hash": "sha256-T4VGeM9Nsx0YtuvhCh1Yja7s1b1nr+tjtwKxUy1Rnj4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4685,7 +4689,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-o3UTW/Jl0jvaLwTrwG2rFJ9YlIGXcXxuEXTMxwFV6oM="
+      "cargoHash": "sha256-+QPCGkYzRbb6wVHjRrpix7EFmdCXkHIakxD2V/zib/8="
     },
     {
       "name": "groq",
@@ -4843,14 +4847,14 @@
     },
     {
       "name": "hacker-theme",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
-        "url": "https://github.com/N0TZ3R0/zedhacker",
-        "rev": "7fd72a3d308e2468264617d7548fca236568d184",
-        "date": "2025-03-25T18:32:25-06:00",
-        "path": "/nix/store/3p4sh6w43w5qh8x6dxm6n63njdg79cqv-zedhacker-7fd72a3",
-        "sha256": "1k8df1gv597p1z4m4g7jxipmqi6j4sr619m1nirqy52c7ha646gx",
-        "hash": "sha256-/RliFDxMFI9ztKGmYLIm0kRcb+zyPFLJD/eksl9wDc0=",
+        "url": "https://github.com/0xSandiem/zedhacker",
+        "rev": "cf2c03158d4f53d434a7b080ea7b215401a18c72",
+        "date": "2025-08-14T18:49:29-03:00",
+        "path": "/nix/store/zwj54s39zdnbajbhgvvxb40i1ci4plc8-zedhacker-cf2c031",
+        "sha256": "03xjwl5mzfkbxbypwdz5bky24paykqabirp3cv2yirkh2pspi1yk",
+        "hash": "sha256-04d49RVw5ujFZuPmuBSeXl0i/FzlN3796mu6Xwvlsg8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5478,6 +5482,29 @@
       "kind": "plain"
     },
     {
+      "name": "ink",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/yuna0x0/zed-ink",
+        "rev": "6d69608fb615cce7fe8fa8873921004b426f474a",
+        "date": "2025-08-09T02:16:13+08:00",
+        "path": "/nix/store/wg1v4v4d7ck2y2w5xagp3phh9g4dcm4p-zed-ink-6d69608",
+        "sha256": "1c36gbaylcgkmv851022vx9cbshi1ip7rfc6bb3h81drmnmra91z",
+        "hash": "sha256-PySVq625BQTHWoa5fG4MEerFUt9CgFDQrvMx6tV6ZrA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "ink_ink"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-L3mQT0Xg4Qe5qvQyqNSe9ScIHo9SMMRcTXsb9FvCvQY="
+    },
+    {
       "name": "intellij-newui-theme",
       "version": "0.1.0",
       "src": {
@@ -5861,6 +5888,27 @@
       "cargoHash": "sha256-XlC6FbEPoldM67TiOxrX9uF7hTmQAgveo5bZeA5Fo9Y="
     },
     {
+      "name": "jsp",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/tartarughina/zed-jsp",
+        "rev": "952fc28dd651a219b840f35e400812259695d243",
+        "date": "2025-08-10T11:36:13+02:00",
+        "path": "/nix/store/1w7119kj3zlhwgj3mdb4jc8mq070w3hq-zed-jsp-952fc28",
+        "sha256": "088c2060c3rzc8wygfk419wx0zdlbbc4nm4qcai9gb4v8psni2j4",
+        "hash": "sha256-RIpo9UWbrJeiYphUS9hatH3QeQpkuuc5Yj8PBgwQDCE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "jsp_jsp"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "julia",
       "version": "0.1.7",
       "src": {
@@ -6133,14 +6181,14 @@
     },
     {
       "name": "latex",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/rzukic/zed-latex",
-        "rev": "e17c677c4dc970252d7bd969c87cff8b897a9214",
-        "date": "2025-06-06T15:43:27+01:00",
-        "path": "/nix/store/xci5vdrynhv341dak3algg57h4p5h3g8-zed-latex-e17c677",
-        "sha256": "1lzq4441ngf19id08c6l953k17afbxq44j7ibdzbybf39yfn8r3w",
-        "hash": "sha256-fGRknU/DLb9+W/FIQnBfTp0wR0nUMARaTME9Gwgh+NM=",
+        "rev": "e7d957b3bb603cc24683e3af2c262a4ec1c88d56",
+        "date": "2025-08-10T19:20:57+01:00",
+        "path": "/nix/store/nx2g7p4lzd90l3yzy9cbj69c6qbzxqsg-zed-latex-e7d957b",
+        "sha256": "14nwwm5g4ja7gghvghih4b6jccjvm4679c6jzlww9y8mxjqvlnqc",
+        "hash": "sha256-DFu6sewV+cQ5/dKwdAypWzImzSIwwrfhe0dJ8krl3JI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6153,7 +6201,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-rX6PAdEpTwRD6Nu/EhSd4OMZ5NBS0DAQ9loxI8/OuCc="
+      "cargoHash": "sha256-KlenYp3+kY0f40NJ3MVlLOw+DjUfZedYeGrkQmwZLIM="
     },
     {
       "name": "lean4",
@@ -7511,6 +7559,25 @@
       "kind": "plain"
     },
     {
+      "name": "missing-theme",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://codeberg.org/dz4k/zed-missing",
+        "rev": "87dbd45f8d66ecd10b0348e6a5191299d53bc255",
+        "date": "2025-08-14T14:28:32+03:00",
+        "path": "/nix/store/3wd31hw0r66qrq5zkz0mqq3486dfs9kz-zed-missing-87dbd45",
+        "sha256": "02kdp4az98211v54kh0dwdraida5ibhb7zkgzadzy88ak0dlz0zf",
+        "hash": "sha256-7oNPG5gKIf+b+m/+s+CKRbWocuMNwEnKDkGg9BW5bQo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "mnemonic",
       "version": "0.0.1",
       "src": {
@@ -8702,6 +8769,27 @@
       "kind": "plain"
     },
     {
+      "name": "objectscript",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/intersystems/zed-objectscript",
+        "rev": "347d96a0882e8de6c738487930784806ac88577a",
+        "date": "2025-08-16T12:37:04-04:00",
+        "path": "/nix/store/smynpsqssjkyghzk1sgb2gqrafjwm7j2-zed-objectscript-347d96a",
+        "sha256": "0cy3xn8flj2cj5wsw8vh9w7a9s5dbpd5izgji8f33lbhvqsd1171",
+        "hash": "sha256-4YTQNN5w0TEcivL9WNpdreikDk9wI655kUxI6pDtwzM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "objectscript_objectscript_udl"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "obsidian-sunset",
       "version": "1.1.0",
       "src": {
@@ -8827,14 +8915,14 @@
     },
     {
       "name": "oldbook-theme",
-      "version": "1.5.2",
+      "version": "1.5.4",
       "src": {
         "url": "https://github.com/gko/oldbook-theme",
-        "rev": "7ba83f3897314509088cdb7a52f4f3686c5061ad",
-        "date": "2025-08-08T18:56:07+02:00",
-        "path": "/nix/store/hvkzdzlacp8lsi7r03h92689111cybad-oldbook-theme-7ba83f3",
-        "sha256": "0rf3lw0n8334kg4l0y5zcv6gah24wi984gbjxk7k49m9cicn8269",
-        "hash": "sha256-yQhkWWSpJjLP7HI9glLkRED1zGa/eEDJm2QMZAGnw2U=",
+        "rev": "09a194e84b598005a94cb561580374f907677013",
+        "date": "2025-08-09T05:47:53+02:00",
+        "path": "/nix/store/lklnp93zk13gwkn3dn9vqdgd0r744vq7-oldbook-theme-09a194e",
+        "sha256": "1llmjzd5xb0pqz1kszc7wjq3cv28bv5y1xb9ny5q8vgl6iqj31b2",
+        "hash": "sha256-YoUhcTT0bYSLt2n14MteSGw2sOSHfT3DxxesXtqXldI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9316,6 +9404,25 @@
         "path": "/nix/store/zi23r8bxy77k1xgiyz0bfchq3nllk9lj-panda-theme-zed-8b868fc",
         "sha256": "0l5nl6h2fdizwjl3f45hjqka1x949pj8fs34hzm7pzy2yihkg77q",
         "hash": "sha256-+Jw3YfTC/3vqh2Roh+RNJPWgJpawEDeo5D82J6ChtlA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "papercolor",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/emirror-de/papercolor-zed",
+        "rev": "1ddbf9ae59ebab78161efe1be931455ebcd5fc71",
+        "date": "2025-08-13T14:31:51+02:00",
+        "path": "/nix/store/w7d3y5glqqq9ksxnzv3f0nvz41z9ynmv-papercolor-zed-1ddbf9a",
+        "sha256": "1mwrwyc7d9d3xas56l2qwiim1sv5crv4w68zbv03av7f1ax2zdfg",
+        "hash": "sha256-z7UvugrubDXAXh8ZTnZmZetQY+RYUFO06qOldpjnmdc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12232,6 +12339,27 @@
       "kind": "plain"
     },
     {
+      "name": "systemrdl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/alex-torregrosa/zed-systemrdl-extension",
+        "rev": "c59194926c2a4faef21cfa9eeb14a5e9c08a580d",
+        "date": "2025-08-13T00:22:38+02:00",
+        "path": "/nix/store/415048wfcfgni1s3zixsm4lwzykv7505-zed-systemrdl-extension-c591949",
+        "sha256": "0igrhcq9n5v2yl04lmdbfg3a2xzmqfbzffpp6kp4a7l85z58fmv4",
+        "hash": "sha256-ZFeHyi+IHkXuNPc695fD9XehxnOrVUoA9WIXmzCD+UU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "systemrdl_systemrdl"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "t3-theme",
       "version": "0.0.3",
       "src": {
@@ -12802,6 +12930,27 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "ts-macro",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/XiNiHa/ts-macro-zed",
+        "rev": "00e347214d9adbaa273d033cce80e3407366b3fb",
+        "date": "2025-08-06T16:30:49+09:00",
+        "path": "/nix/store/x7zrzk8a6kmdkkk87a40fsh0jvw313mz-ts-macro-zed-00e3472",
+        "sha256": "1h20pi7q19c3y6c89rcp5nycjj07hrij1g1ih924prf9wsbqf35i",
+        "hash": "sha256-sQyHl+bJ5UtEgjG8IGOGB0jJvC2X5YSY8YOlgE+8QMA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-zi5gTsnAP8oerSoQCUkNZVGtX3YpBrOaQxTEszyyhvA="
     },
     {
       "name": "tsar",
@@ -13664,14 +13813,14 @@
     },
     {
       "name": "vscode-dark-modern",
-      "version": "0.0.5",
+      "version": "0.0.6",
       "src": {
         "url": "https://github.com/kcamcam/vscode_dark_modern.zed",
-        "rev": "36bc9462266ae7a17af54791db8fc5c2d8ebd98a",
-        "date": "2024-12-03T12:22:28-05:00",
-        "path": "/nix/store/a1xfj9bzaky09j6ips4a5j00ba8r0qkk-vscode_dark_modern.zed-36bc946",
-        "sha256": "0xb9j27prx3qvkx9l5zww6100isp1001m0h4gir5drr40gcbqy6g",
-        "hash": "sha256-z3i82AMk51ZyfASCGgAIV0cAguH8F5r63Hj0fI+QaXU=",
+        "rev": "0fe089fc185a668c1bfb949a10a68c3b90467f98",
+        "date": "2025-08-11T17:32:01-04:00",
+        "path": "/nix/store/ninfqmnzf7m0ssdf6wkgw5kmrvf0dyc1-vscode_dark_modern.zed-0fe089f",
+        "sha256": "18d4ngi7zw8cdr3f66xvpncpn8f9w8rbiilbmiw63gcqfp177dsv",
+        "hash": "sha256-W7dzwnWYvWF4rIvGuDLiySF7mb27G+NGbgzxf+KzpKE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13972,6 +14121,27 @@
       "cargoHash": "sha256-nkngUwXuuGETna+VE/ouGFhABzbDZjyP++r+SSUY/30="
     },
     {
+      "name": "wxml",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/BlockLune/zed-wxml",
+        "rev": "94ca6c29b0c8da5ff091e90d9fa43c6d956cafea",
+        "date": "2025-08-06T17:19:11+08:00",
+        "path": "/nix/store/58dx9d593q33k9p7z7vpdb2pg3mmblgr-zed-wxml-94ca6c2",
+        "sha256": "1v5qnyrsmpyi7dabd7sp8bpd1nngmrrxy394vialfrkvzbmp4k1m",
+        "hash": "sha256-NUxy6/p7ZkdV3CQN33Ouz9rQ7kJXn7ZUO9HfqrO3uOw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "wxml_wxml"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "xcode-themes",
       "version": "2.0.1",
       "src": {
@@ -14117,6 +14287,29 @@
         "lockFile": "/generated/yara.lock",
         "outputHashes": {}
       }
+    },
+    {
+      "name": "yarn-spinner",
+      "version": "0.0.9",
+      "src": {
+        "url": "https://github.com/yuna0x0/zed-yarn-spinner",
+        "rev": "7a7cf6f9eefd2335763b707527d2f5d950cea622",
+        "date": "2025-08-08T18:36:16+08:00",
+        "path": "/nix/store/c9a0wm5ajb93lqv4f661w9szsyrkva04-zed-yarn-spinner-7a7cf6f",
+        "sha256": "1nnn5wbyv32rwwrvfl683jzrgws5l44r9v6k2rvrcjccbj9bn128",
+        "hash": "sha256-SAS7klyMSZZ3FtPslAmhRfOXvxzIULcz51mM7Rcv1to=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "yarn-spinner_yarn_spinner"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-I7aiqRKbwgVz37uJ4GlJd6w5ONXTdnxVHtyqRUySexg="
     },
     {
       "name": "yellowed",
@@ -14560,14 +14753,14 @@
     {
       "id": "assembly_asm",
       "name": "asm",
-      "version": "6ace266be7ad6bf486a95427ca3fc949aff66211",
+      "version": "04962e15f6b464cf1d75eada59506dc25090e186",
       "src": {
         "url": "https://github.com/RubixDev/tree-sitter-asm",
-        "rev": "6ace266be7ad6bf486a95427ca3fc949aff66211",
-        "date": "2024-01-29T10:20:37+08:00",
-        "path": "/nix/store/sv22184whqyniwvwnpnzr5dp7fp1f4a1-tree-sitter-asm-6ace266",
-        "sha256": "1bbmrbmrqbg75b4z99mvwvlqyi62pwl6nzv1hj6wk9jah29jbidh",
-        "hash": "sha256-sMUlk4BKpsmNhGF/ayi/wkSP6ea7pvTJKuctnOvKda0=",
+        "rev": "04962e15f6b464cf1d75eada59506dc25090e186",
+        "date": "2025-03-09T16:20:23+01:00",
+        "path": "/nix/store/hzqhzm92wq0dx0cns4dxim1ad07x3syg-tree-sitter-asm-04962e1",
+        "sha256": "0v5lwymz2n4d9212drh595ymf3kdirwvhdniszzdfx85jjc1pz3b",
+        "hash": "sha256-a/wbmJQFddf+19E2uHmObQ5XfUkF5iaCSI1Y8avntGw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14622,6 +14815,24 @@
         "path": "/nix/store/m49cblqf763h5126wnfkp3d533vggb1h-tree-sitter-awk-ba74721",
         "sha256": "0nvq5v1pklh31jhvzi67killbscisk3hgvzmcia0zbcx03vxs2nb",
         "hash": "sha256-ywrd9wCdrQ9UZPXvB8fUkelFaZzHxL+hDAPSecMueFs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "baml_baml",
+      "name": "baml",
+      "version": "3edd0d25e2cf352295ade681f4a2c2f3a9cdc58b",
+      "src": {
+        "url": "https://github.com/BoundaryML/tree-sitter-baml",
+        "rev": "3edd0d25e2cf352295ade681f4a2c2f3a9cdc58b",
+        "date": "2025-04-04T14:59:40-07:00",
+        "path": "/nix/store/1p7s5l2ls2j5akf4kmy6gdhnc88isqqh-tree-sitter-baml-3edd0d2",
+        "sha256": "1hpd5g4hhypwhf5vr143nnbpaxk9cykj2qzc1jinz48bqlcbrc1i",
+        "hash": "sha256-MbC8GMULkW+jDOxjIadnaXZ1l7WDhLyLg/x6CMkr7cI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15998,6 +16209,24 @@
       "grammarRoot": null
     },
     {
+      "id": "github-actions_yaml",
+      "name": "yaml",
+      "version": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
+      "src": {
+        "url": "https://github.com/zed-industries/tree-sitter-yaml",
+        "rev": "baff0b51c64ef6a1fb1f8390f3ad6015b83ec13a",
+        "date": "2024-09-11T16:50:50-04:00",
+        "path": "/nix/store/f35in6psiq0xkxmn9510nahkrgbgqqcb-tree-sitter-yaml-baff0b5",
+        "sha256": "1ji9n73c8kjsyfrf047r6zq36yyw3qd74cszb19hhm9n198vr5wm",
+        "hash": "sha256-lZe8UQo2VQhTWF8zchoe3Hsz8Df5EOCy81pOxMaxKco=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "gleam_gleam",
       "name": "gleam",
       "version": "6ece453acf8b14568c10f629f8cd25d3dde3794f",
@@ -16144,14 +16373,14 @@
     {
       "id": "groovy_groovy",
       "name": "groovy",
-      "version": "6c5c8813233fe326e24c5ef032858d13f8006a8d",
+      "version": "86911590a8e46d71301c66468e5620d9faa5b6af",
       "src": {
         "url": "https://github.com/murtaza64/tree-sitter-groovy",
-        "rev": "6c5c8813233fe326e24c5ef032858d13f8006a8d",
-        "date": "2024-04-16T09:58:13-04:00",
-        "path": "/nix/store/h5js7387d8vx3793rm1j0mmcyslnszv1-tree-sitter-groovy-6c5c881",
-        "sha256": "11hhlcyg1y6mf46q0r8l6f947362jqpwq3mi0ddnj1n3kr2frsin",
-        "hash": "sha256-NursRJ7DBmlbA7EOzC+WwoxDkjMUZYANcdX48DyjEIY=",
+        "rev": "86911590a8e46d71301c66468e5620d9faa5b6af",
+        "date": "2025-01-22T07:09:50+02:00",
+        "path": "/nix/store/787sk2iis8ndgq6m5sh2d1crlhsphj07-tree-sitter-groovy-8691159",
+        "sha256": "0vbsg5xkdja6xyp8nm7g9fs4ndaq3qz6lq8vk9c7l2znw6bb17gb",
+        "hash": "sha256-652wluH2C3pYmhthaj4eWDVLtEvvVIuu70bJNnt5em0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -16502,6 +16731,24 @@
       "grammarRoot": null
     },
     {
+      "id": "ink_ink",
+      "name": "ink",
+      "version": "3bafa20b888b97a505164fa9ee3812c331b2b809",
+      "src": {
+        "url": "https://github.com/rhizoome/tree-sitter-ink",
+        "rev": "3bafa20b888b97a505164fa9ee3812c331b2b809",
+        "date": "2025-02-05T11:15:10+01:00",
+        "path": "/nix/store/1v37bw9rfflmh0f34vkv85p80l0354pm-tree-sitter-ink-3bafa20",
+        "sha256": "08infgdbig32gq4v9q0jnx6lcas96ma9ld6hkxv3rkc0m1wvxrwb",
+        "hash": "sha256-i+e+eaiAzTx2n9A0mlQ1SStGTbcS4LQJfmK8uNpzNiI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "ion_ion",
       "name": "ion",
       "version": "98f399982252649eca1e74c684aa828763579f58",
@@ -16692,6 +16939,24 @@
         "path": "/nix/store/znirgm641msi0zh5wgbwc5amyk04iwdv-tree-sitter-jsonnet-ddd075f",
         "sha256": "1bfdjxp0h95d124bzlhlvc9b5q19cdj716aym41nyl6z5a992c9q",
         "hash": "sha256-ODGRkirfUG8DqV6ZcGRjKeCyEtsU0r+ICK0kCG6Xza0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "jsp_jsp",
+      "name": "jsp",
+      "version": "527dff4962bf47a9bad0814d4db172e6aadb9090",
+      "src": {
+        "url": "https://github.com/tartarughina/tree-sitter-jsp",
+        "rev": "527dff4962bf47a9bad0814d4db172e6aadb9090",
+        "date": "2025-08-10T11:16:45+02:00",
+        "path": "/nix/store/y7z0lrfhk1sbifw7dkc2w2a3z04s989y-tree-sitter-jsp-527dff4",
+        "sha256": "1svsykfkcw28drgxwjlrlb1c4jgf787rdg69iqk13l9rzzj028z6",
+        "hash": "sha256-5iMB5P850REmjsm8lg867knCwqKZSt5fbkhwNt30eus=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -17418,6 +17683,24 @@
         "leaveDotGit": false
       },
       "grammarRoot": null
+    },
+    {
+      "id": "objectscript_objectscript_udl",
+      "name": "objectscript_udl",
+      "version": "f53770ad22dfdebbecfaedb05c32f6f4924fcba7",
+      "src": {
+        "url": "https://github.com/intersystems/tree-sitter-objectscript",
+        "rev": "f53770ad22dfdebbecfaedb05c32f6f4924fcba7",
+        "date": "2025-08-05T11:15:31-04:00",
+        "path": "/nix/store/38im7ngb900458rnlzvsn18jyz7acrls-tree-sitter-objectscript-f53770a",
+        "sha256": "0qxgjzdkhp5zcqlc7npq6cfqks91lwkzgacqry2mpdpawrs30wyz",
+        "hash": "sha256-33MwdObqtluFz5ip9yenIemJHTP42sMoZr9cONuXr2M=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": "udl"
     },
     {
       "id": "ocaml_dune",
@@ -18716,6 +18999,24 @@
       "grammarRoot": null
     },
     {
+      "id": "systemrdl_systemrdl",
+      "name": "systemrdl",
+      "version": "c13d48cc9b2da3269486f3921e3a7722be4114b2",
+      "src": {
+        "url": "https://github.com/alex-torregrosa/tree-sitter-systemrdl",
+        "rev": "c13d48cc9b2da3269486f3921e3a7722be4114b2",
+        "date": "2025-08-02T12:49:56+02:00",
+        "path": "/nix/store/gw3li1fs2nbh94p9jihbmf4ni099xrhq-tree-sitter-systemrdl-c13d48c",
+        "sha256": "1lgigk9zh67kb4xpdsq39drm43ngf48dz7drcac3c81c6zgzvszk",
+        "hash": "sha256-8+v93zcsIDaYYrmd3xBxzw5Sc0sD63Y7WfMY+NN88dE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "tact_tact",
       "name": "tact",
       "version": "a6267c2091ed432c248780cec9f8d42c8766d9ad",
@@ -19400,6 +19701,24 @@
       "grammarRoot": null
     },
     {
+      "id": "wxml_wxml",
+      "name": "wxml",
+      "version": "997bd575d9d03669baaf2f097031828c039f43c4",
+      "src": {
+        "url": "https://github.com/BlockLune/tree-sitter-wxml",
+        "rev": "997bd575d9d03669baaf2f097031828c039f43c4",
+        "date": "2025-08-06T17:07:09+08:00",
+        "path": "/nix/store/ax7r8zfvrgz1kln7jhpml53xny3pfgp9-tree-sitter-wxml-997bd57",
+        "sha256": "0x91idgm4amsswacmw6valv9xqxwgfqg5dgbqdb1mlbmmng5i2xg",
+        "hash": "sha256-r4tYnq110RpWw+u18rB7vOOeNlXb8MoU17oqUl+LIXU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "xdr-naive_naive_xdr",
       "name": "naive_xdr",
       "version": "7308244bdad8bf4c42e431e9198f36aa392f4adc",
@@ -19464,6 +19783,24 @@
         "path": "/nix/store/8hpz6345pmzkz79s09h45p1aiy8nrd3s-tree-sitter-yara-eb3ede2",
         "sha256": "0x74sq7m6454kg0smpfrb1v1wc3g1qia26r1fq7lsf6acwpin1xp",
         "hash": "sha256-twcbL2fKOE0PdiEboSIObzAedljZ3arBm6QQUw/W5HQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "yarn-spinner_yarn_spinner",
+      "name": "yarn_spinner",
+      "version": "bdb90c2be17abe6bfd3d49ea444b627d603c8224",
+      "src": {
+        "url": "https://github.com/yuna0x0/tree-sitter-yarn-spinner",
+        "rev": "bdb90c2be17abe6bfd3d49ea444b627d603c8224",
+        "date": "2025-08-08T18:22:21+08:00",
+        "path": "/nix/store/ns8xbws7s2f8cd0kzajw1qg18vhb2j48-tree-sitter-yarn-spinner-bdb90c2",
+        "sha256": "08m0n4q56i5r7yr8d81hmncjdimnp942d8ijbxkkbiqyn0ppa2jf",
+        "hash": "sha256-Tgp1L7AexzVnXzKiJki6tsYmma0woIayP7lEUzCxoCI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
