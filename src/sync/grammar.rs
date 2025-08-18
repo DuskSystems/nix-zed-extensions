@@ -1,8 +1,7 @@
 use std::collections::BTreeMap;
 use std::env::temp_dir;
 
-use futures::stream::{FuturesUnordered, StreamExt};
-use tokio::fs;
+use tokio::{fs, task::JoinSet};
 
 use crate::{manifest::GrammarManifestEntry, output::Grammar};
 
@@ -15,17 +14,17 @@ pub struct ProcessedGrammars {
 
 #[tracing::instrument(fields(name = %name))]
 pub async fn process_grammars(
-    grammars: &BTreeMap<String, GrammarManifestEntry>,
+    grammars: BTreeMap<String, GrammarManifestEntry>,
     name: &str,
 ) -> anyhow::Result<ProcessedGrammars> {
-    let mut futures = FuturesUnordered::new();
+    let mut futures = JoinSet::new();
     for (grammar_name, grammar) in grammars {
         let future = process_grammar(grammar_name.clone(), grammar, name.to_owned());
-        futures.push(future);
+        futures.spawn(future);
     }
 
     let mut processed_grammars = vec![];
-    while let Some(result) = futures.next().await {
+    while let Some(Ok(result)) = futures.join_next().await {
         match result {
             Ok(Some(grammar)) => {
                 processed_grammars.push(grammar);
@@ -54,7 +53,7 @@ pub async fn process_grammars(
 #[tracing::instrument(fields(name = %name, extension = %extension))]
 async fn process_grammar(
     name: String,
-    grammar: &GrammarManifestEntry,
+    grammar: GrammarManifestEntry,
     extension: String,
 ) -> anyhow::Result<Option<Grammar>> {
     let id = format!("{extension}_{name}");

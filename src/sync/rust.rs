@@ -6,11 +6,11 @@ use std::str::FromStr;
 use std::sync::Arc;
 
 use cargo_lock::Lockfile;
-use futures::stream::{FuturesUnordered, StreamExt};
 use serde_json::Value;
 use tokio::fs;
 use tokio::process::Command;
 use tokio::sync::Semaphore;
+use tokio::task::JoinSet;
 
 use crate::output::{CargoLock, ExtensionKind};
 use crate::registry::RegistryExtension;
@@ -252,7 +252,7 @@ async fn calculate_cargo_output_hashes(
     let lockfile = Lockfile::from_str(&lockfile_content)?;
 
     let mut output = BTreeMap::new();
-    let mut futures = FuturesUnordered::new();
+    let mut futures = JoinSet::new();
 
     let limit = std::thread::available_parallelism()
         .map(NonZero::get)
@@ -302,7 +302,7 @@ async fn calculate_cargo_output_hashes(
             anyhow::Ok((key, src.hash))
         };
 
-        futures.push(future);
+        futures.spawn(future);
     }
 
     if futures.is_empty() {
@@ -310,7 +310,7 @@ async fn calculate_cargo_output_hashes(
         return Ok(output);
     }
 
-    while let Some(result) = futures.next().await {
+    while let Some(Ok(result)) = futures.join_next().await {
         match result {
             Ok((key, hash)) => {
                 tracing::info!(key = key, hash = hash, "Calculated git dependency hash");
