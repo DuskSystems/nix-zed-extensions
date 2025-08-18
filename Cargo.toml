@@ -50,14 +50,22 @@ missing_panics_doc = "allow"
 
 [dependencies]
 # Async
-tokio = { version = "1.44", features = ["full"] }
-futures = "0.3"
+tokio = { version = "1.47", default-features = false, features = [
+  "fs",
+  "macros",
+  "process",
+  "rt-multi-thread",
+  "sync",
+] }
+tokio-stream = { version = "0.1", default-features = false }
 
 # Cargo
-cargo-lock = "10.0"
+cargo-lock = "10.1"
 
 # WASM
-wasmparser = "0.235"
+wasmparser = { version = "0.236", default-features = false, features = [
+  "component-model",
+] }
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }

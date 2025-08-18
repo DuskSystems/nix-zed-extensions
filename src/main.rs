@@ -5,11 +5,10 @@ use std::path::Path;
 use std::process::Command;
 use std::sync::Arc;
 
-use futures::StreamExt;
-use futures::stream::FuturesUnordered;
 use registry::RegistryExtension;
 use tokio::fs;
 use tokio::sync::Semaphore;
+use tokio::task::JoinSet;
 
 use crate::manifest::ExtensionManifest;
 use crate::output::NixExtensions;
@@ -214,7 +213,7 @@ async fn main() -> anyhow::Result<()> {
 
             let semaphore = Arc::new(Semaphore::new(limit));
 
-            let mut futures = FuturesUnordered::new();
+            let mut futures = JoinSet::new();
             for extension in extensions {
                 let semaphore = Arc::clone(&semaphore);
                 let future = async move {
@@ -222,10 +221,10 @@ async fn main() -> anyhow::Result<()> {
                     process_extension(extension).await
                 };
 
-                futures.push(future);
+                futures.spawn(future);
             }
 
-            while let Some(result) = futures.next().await {
+            while let Some(Ok(result)) = futures.join_next().await {
                 match result {
                     Ok(Some((extension, grammars))) => {
                         output.extensions.push(extension);
