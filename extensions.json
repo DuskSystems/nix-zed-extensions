@@ -2538,14 +2538,14 @@
     },
     {
       "name": "cursor",
-      "version": "1.0.0",
+      "version": "1.1.2",
       "src": {
-        "url": "https://github.com/Takk8IS/cursor-theme-for-zed",
-        "rev": "1f3f9ce43f76ddfd118ef303a7c313afef02927a",
-        "date": "2025-07-27T06:26:32+02:00",
-        "path": "/nix/store/hyfbasr4k41vgaq1aw4w95axgznxzbac-cursor-theme-for-zed-1f3f9ce",
-        "sha256": "03k3a1kg0ngisqpv33zzk6rnv7xgpzqk12mff2qj58k613qzlnqw",
-        "hash": "sha256-HFv68QhmoiKxcK6KMPG/r59ts5n/j7Ev1vFZ8GZQYw4=",
+        "url": "https://github.com/takk8is/cursor-theme-for-zed",
+        "rev": "492e39fb6313d30873e8db3f6b20e00eb3f6bd85",
+        "date": "2025-08-09T02:41:41+02:00",
+        "path": "/nix/store/blp3zy4xj3xf61y6rvi8vhxvlrgzdywf-cursor-theme-for-zed-492e39f",
+        "sha256": "1bly9c2mz185yq9f9y61jcq1c60njb3fgxmfq7j2cqgpamxa55r1",
+        "hash": "sha256-IZeielX3YSbkwa7258aSFhgWMJPB+OQS9gWFXwVLnq4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5483,14 +5483,14 @@
     },
     {
       "name": "ink",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/yuna0x0/zed-ink",
-        "rev": "6d69608fb615cce7fe8fa8873921004b426f474a",
-        "date": "2025-08-09T02:16:13+08:00",
-        "path": "/nix/store/wg1v4v4d7ck2y2w5xagp3phh9g4dcm4p-zed-ink-6d69608",
-        "sha256": "1c36gbaylcgkmv851022vx9cbshi1ip7rfc6bb3h81drmnmra91z",
-        "hash": "sha256-PySVq625BQTHWoa5fG4MEerFUt9CgFDQrvMx6tV6ZrA=",
+        "rev": "6a4fc4bf8da59f26bdeca37af27e0f303856ac84",
+        "date": "2025-08-17T13:16:53+08:00",
+        "path": "/nix/store/cj8vjscvgna2r8bvkgfkvdjlampnwqqn-zed-ink-6a4fc4b",
+        "sha256": "1pid3zv4r2cs080j0cd8fflyij2hkmz2xxzfiqf96gd0lbdm1hsq",
+        "hash": "sha256-WMNQ26KgPZMcju73Ln6dUMjoqXOoMSABApqJTPYfLd4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5502,7 +5502,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-L3mQT0Xg4Qe5qvQyqNSe9ScIHo9SMMRcTXsb9FvCvQY="
+      "cargoHash": "sha256-0fifGN4E8z5gtSgojhXh7tWxHaKsKFvIiNh0e0TFvpw="
     },
     {
       "name": "intellij-newui-theme",
