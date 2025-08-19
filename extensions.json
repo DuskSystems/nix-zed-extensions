@@ -1151,14 +1151,14 @@
     },
     {
       "name": "blackrain-theme",
-      "version": "0.1.1",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/kurokirasama/zed_blackrain_theme",
-        "rev": "05808c6b29da2ba9aa6561a5e6796c21fd90496d",
-        "date": "2025-06-10T12:20:26-04:00",
-        "path": "/nix/store/3768xghcd1shq485rh612pwqmiqajh4q-zed_blackrain_theme-05808c6",
-        "sha256": "12vc20m80gnhhbb61kxak9faynxmx0pk9swpf2d8k982wzi86hgq",
-        "hash": "sha256-+EGD4ucCpYmacJfrNC/otVuvXJqqz2DWgtA+gCoQbIs=",
+        "rev": "f9768749175418a907ab0a58ff9b3fa6559cdc21",
+        "date": "2025-08-11T11:37:50-04:00",
+        "path": "/nix/store/jagmwmb5fxgrgspm5ipi4d0jr6gac0sn-zed_blackrain_theme-f976874",
+        "sha256": "0w7z0hc0i1x9r1cagnjyvbqhdbia9hycrslpdbl9zi5gllgpl245",
+        "hash": "sha256-hQh6H6WvxJ/oapfqzDxMKq4G8dpe2qdYyKmHCBgE/3A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6100,6 +6100,25 @@
       "kind": "plain"
     },
     {
+      "name": "kiro",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/Takk8IS/kiro-theme-for-zed",
+        "rev": "e4c8d5933459ea2008918ba2908f6281e235af72",
+        "date": "2025-08-18T07:36:00+02:00",
+        "path": "/nix/store/3vq9406lz2y8nfc4x1f5q2bmily5nisx-kiro-theme-for-zed-e4c8d59",
+        "sha256": "1xfrc5867xgbyxjd0sd5iiymwj2wscdd93csv9yipy6qzcmwmzm9",
+        "hash": "sha256-qf7KK/vY+Bt92pqN1BrTXEhefYyladBk9+v1Y1Bh2fU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "kotlin",
       "version": "0.1.2",
       "src": {
@@ -7025,14 +7044,14 @@
     },
     {
       "name": "mcp-server-byterover",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
-        "url": "https://github.com/ngduyanhece/byterover-zed-extension",
-        "rev": "45c7324078a6c19387ec1ff09b0e0e4581292db5",
-        "date": "2025-06-09T10:20:37+07:00",
-        "path": "/nix/store/1as3srqbvgr8qiz6h4wicg9n446vzjyi-byterover-zed-extension-45c7324",
-        "sha256": "1xl3yj91362pny3mv91452s4b4i7k86a64zbvg1dn68i3hzvzrzf",
-        "hash": "sha256-7ue/PxwRGdvC2+sTowyaJ5JFtCgkpF2Ht1eYEZL0g/Y=",
+        "url": "https://github.com/campfirein/byterover-zed-extension",
+        "rev": "1ed5c4139ffc4523981cba9571e4ceae093354b4",
+        "date": "2025-08-18T11:48:49+07:00",
+        "path": "/nix/store/rwm89fnsh25rh0ppnpgrrfqpjm5ys8cc-byterover-zed-extension-1ed5c41",
+        "sha256": "0qvswq5plf2nar2agpp8qgwzjbqvfi6rvqv7kx9viqfaxgps603r",
+        "hash": "sha256-eQCj7+vK4bhTn2fjnU10Gy/5+cPo3qdEVlY4egvmemM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7042,7 +7061,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-zIcsvzo9SqsqVkjJHv6xFvCE1uWfgah7kzmAPIvL77o="
+      "cargoHash": "sha256-Rh4kXRbWCp0oZp2j0pyx9FoHxbWspspwgPYg57hSo+U="
     },
     {
       "name": "mcp-server-container-use",
@@ -8717,14 +8736,14 @@
     },
     {
       "name": "nvim-nightfox",
-      "version": "0.5.2",
+      "version": "0.6.0",
       "src": {
         "url": "https://github.com/cange/nightfox.zed",
-        "rev": "94a6f1bb6301f6638c61bd3d6fc8f3f4394e31c7",
-        "date": "2025-07-25T22:03:26+02:00",
-        "path": "/nix/store/zk3jp45y2bjb6cwkskwygwksgbjf03nz-nightfox.zed-94a6f1b",
-        "sha256": "11g0jhjfvxka84gn9ll1rck9bmc4hyznig93llg92cas56zsq40s",
-        "hash": "sha256-GhCsvylaMZEepSO9aL+HhNWVJsuB0mQfQWr27SSU4IU=",
+        "rev": "678ca2a1a8c74654171126ae9a9c4fb71146ef92",
+        "date": "2025-08-19T00:36:41+02:00",
+        "path": "/nix/store/kbf1p3g5wky74h1vl5bh0m7j0r0dhb30-nightfox.zed-678ca2a",
+        "sha256": "17i62fwjih7alawd8l01lsdqrpbw3sj3r1ja2gn7iibi2b4f2sd9",
+        "hash": "sha256-qWnhyBJxxXjsE0qGPKQefN2Mm6YBUNS4ourAKLkTJp4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10134,14 +10153,14 @@
     },
     {
       "name": "puppet",
-      "version": "0.0.1",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/AlexandarY/zed-puppet",
-        "rev": "8bf286411177b0aeaa47eeecc55ae472bb2e2407",
-        "date": "2025-04-14T18:13:02+03:00",
-        "path": "/nix/store/qa7xnvhxh7kd2jip25wlgwxbbbz667r1-zed-puppet-8bf2864",
-        "sha256": "0i85wxrmmary6kfh1kjsg4wkl6wgw8y50ckcv83a3ml6c1dfmn37",
-        "hash": "sha256-Z9jqWmCG1qEG2mwyUDzijxs6OXlazgDdND6rWnPnBUU=",
+        "rev": "be99e0a38666488592d59c88a3fd174cdbe25bf6",
+        "date": "2025-08-18T16:47:46+03:00",
+        "path": "/nix/store/ifn0wrc80zn9bb8s84ll99zgz1nq3sr3-zed-puppet-be99e0a",
+        "sha256": "1k59n8ipm7bacgmh790qg3wl34xgv96mwwr693fhjy3xa4x6rz5y",
+        "hash": "sha256-vvxsOlF9eAndSCZzXk3ar5NB+XgYpAPrY2qdeiOyqcw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10153,7 +10172,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-K9Y1POlPNGQiOKwqnpQZBsXlSZFZ/d28z4htbT/9hOQ="
+      "cargoHash": "sha256-+YcgdsB7ebdndD01kjJZ5TnSRA+ZiwdjmjQO4G3RuY4="
     },
     {
       "name": "purescript",
@@ -13862,14 +13881,14 @@
     },
     {
       "name": "vscode-great-icons",
-      "version": "0.2.3",
+      "version": "0.2.4",
       "src": {
         "url": "https://github.com/RandaZraik/zed-vscode-great-icons",
-        "rev": "34b6017689319e42a1382200a94025a63badd892",
-        "date": "2025-05-08T13:03:43+03:00",
-        "path": "/nix/store/xvh8l8dqafv0a5ws0rlxk5cvys940k0x-zed-vscode-great-icons-34b6017",
-        "sha256": "0m4nj9d876kr602wcs0n81bb4346gssvpvdglikqjxw8zjhasdbr",
-        "hash": "sha256-eTWtoPyId4lnpK/tu7V+hgyyVkAWaMYFMHmag1qSllQ=",
+        "rev": "0064c592d3c30bbd0de4135e10898cfc12bdc3fe",
+        "date": "2025-08-18T14:38:44+03:00",
+        "path": "/nix/store/766352fqf82vac18h0s1jm3zpi8pndrw-zed-vscode-great-icons-0064c59",
+        "sha256": "16fl4p7kjc9yry7mx7104cqvx4j8lrfs15jidnv0y8d1sg4gilfa",
+        "hash": "sha256-ytH4yNOhIQ+2bVGWoF2mSJK+MSMgnF6Pzz4xOc8l1Jk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14596,6 +14615,29 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-DxmOmBX+Rpk6xP2d6L+ieRBdLvixsiNJe+Kapj9EPSo="
+    },
+    {
+      "name": "zwirn",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://codeberg.org/polymorphicengine/zwirn-zed-extension",
+        "rev": "47ef2ce297d83d415fe4ea435c7135d72dca0876",
+        "date": "2025-08-18T09:55:50+02:00",
+        "path": "/nix/store/jwlsmr616q0c85gyjddgxynpj6glcvkn-zwirn-zed-extension-47ef2ce",
+        "sha256": "1j7mdmr8jflms41q0ns6i5vl0ha35jx9xk5mgz0gs2im8cwl2v2g",
+        "hash": "sha256-T2xBOUM1Cv3Af7XMnrosQ0FAd4lGW4AD0ZU6iXJt9cg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "zwirn_zwirn"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-/UKgLcVtG2KEcTlZq/ZAww8ZrF3yV1nn2xP4n6AiTLU="
     }
   ],
   "grammars": [
@@ -19866,6 +19908,24 @@
         "path": "/nix/store/1m27kb1nhgzxxhmiy0jrjj3ppiqqzfww-tree-sitter-ziggy-schema-b621d01",
         "sha256": "0j5dr84r0g9v2wy3fkaghw7a7vfab55lrykgq35g4ba66kax9kp9",
         "hash": "sha256-6c7U1TRGLfLKwG/6TEtZyu2jDodPTTc8Fzs9kAnKrUg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "zwirn_zwirn",
+      "name": "zwirn",
+      "version": "0f0789d488d109ace3af5d7adab52de81ddeb8b3",
+      "src": {
+        "url": "https://codeberg.org/polymorphicengine/tree-sitter-zwirn",
+        "rev": "0f0789d488d109ace3af5d7adab52de81ddeb8b3",
+        "date": "2025-08-12T11:52:19+02:00",
+        "path": "/nix/store/6f6gf8vp9czxnfsjg1hj21nrkczwimdr-tree-sitter-zwirn-0f0789d",
+        "sha256": "03gph826acvq63xyr177d5l3amnzzliq8k90qid7cqhmclcfg7jn",
+        "hash": "sha256-Vp7nGGUVYnZaxCBNhCP931Y1aGnnhOz7MHgzZQSC9w0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
