@@ -1056,14 +1056,14 @@
     },
     {
       "name": "bicep",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "src": {
         "url": "https://github.com/oWretch/zed-extension-bicep",
-        "rev": "e9ed7c5a0c7d20454b9378248fa35f7fe46cbd9e",
-        "date": "2025-06-08T08:15:01Z",
-        "path": "/nix/store/nah4chrpp3961zk36yvyxp93in867g3f-zed-extension-bicep-e9ed7c5",
-        "sha256": "06n7djp57r1599nxy5iqww2dk5b7600hkfbg0w933msh2nhsp07j",
-        "hash": "sha256-8oCroRVQ1zESB2+5CQEwZ5XZBOc4Ft9tSiXkU65sxxo=",
+        "rev": "41b379594b50010736d5558f0455c30016a4bdcc",
+        "date": "2025-08-19T07:29:39Z",
+        "path": "/nix/store/z0kvjff7vww0fxq0zw585a02qkrs4af8-zed-extension-bicep-41b3795",
+        "sha256": "0461zki301bbjlry1lc252xyj4783g64jrw8509h04rmqijs9zap",
+        "hash": "sha256-V/2kZcQ1EwATKIhnScwb6BDpuyiC0eAzlWsFMOL8wRA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1076,7 +1076,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-QMtG8Rz3yywhKPxtZf/ciBCtHO3jHh3U0pw57LhiER0=",
+      "cargoHash": "sha256-DGfmyrPtQaKYd32/r9FVT3JaMMBAcVWfCsicV0lX1x0=",
       "cargoLock": {
         "lockFile": "/generated/bicep.lock",
         "outputHashes": {}
@@ -8793,14 +8793,14 @@
     },
     {
       "name": "objectscript",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/intersystems/zed-objectscript",
-        "rev": "347d96a0882e8de6c738487930784806ac88577a",
-        "date": "2025-08-16T12:37:04-04:00",
-        "path": "/nix/store/smynpsqssjkyghzk1sgb2gqrafjwm7j2-zed-objectscript-347d96a",
-        "sha256": "0cy3xn8flj2cj5wsw8vh9w7a9s5dbpd5izgji8f33lbhvqsd1171",
-        "hash": "sha256-4YTQNN5w0TEcivL9WNpdreikDk9wI655kUxI6pDtwzM=",
+        "rev": "91c4b235422687cc204b8e8e6432a6c5352feb6a",
+        "date": "2025-08-19T19:59:40-04:00",
+        "path": "/nix/store/9brk3y2bpnsif1mw0fxbc0s6gqzvly2x-zed-objectscript-91c4b23",
+        "sha256": "0d768vbswiqzh1n5r6m4187zghlf86hf9999grqg27xa3rlhglmp",
+        "hash": "sha256-t9IHaR6qH/Fwfiml5KBBjsL3DwqkmlxsgB9HrtdG5jQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9291,14 +9291,14 @@
     },
     {
       "name": "oxc",
-      "version": "0.1.4",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/oxc-project/zed-oxc",
-        "rev": "56323721bbd400d2306c0ec14b2f8237067b6f47",
-        "date": "2025-03-30T10:56:37+08:00",
-        "path": "/nix/store/4aixpjysrb4q08fm6h94md90xi1lgqz2-zed-oxc-5632372",
-        "sha256": "1hy40i658s6y706v7s3z3ygzgfm9529az6qk3npbf2pj00cv1msi",
-        "hash": "sha256-UdewGQDyCreuHRObr5Ioqbr3nx9/6LMNON5oVEwExMM=",
+        "rev": "e11f6ffb9252d32ca3969146f580bb01004bc74b",
+        "date": "2025-08-19T15:58:47+01:00",
+        "path": "/nix/store/787m79dhlqny9gap4rbz7nff3iv2mys3-zed-oxc-e11f6ff",
+        "sha256": "1n15f3dawcwyvbf058m1lwjqwv0wpi8icy1q9b0lnrfyzl2rhyv8",
+        "hash": "sha256-aHuYBf3eZUvBSjh4FlG8HGyOJaehogLc2p4zrtpwJdg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9308,18 +9308,18 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-SO7J8b86nI2iei/llG2a1QOCyOqUQI207XXFOOeU8gg="
+      "cargoHash": "sha256-diN7xnEIOM80o+AXwnefjWQ+GT5NkFzlHxSGJGtnF+Q="
     },
     {
       "name": "oxlint",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/rchatrath7/zed-oxlint",
-        "rev": "a359c820c781019d4deaab5460f841c289f7c6e0",
-        "date": "2024-09-09T16:18:12-07:00",
-        "path": "/nix/store/6gbhk6yk480dwwrqpknhywm1k48am76q-zed-oxlint-a359c82",
-        "sha256": "0s0b43kgqi8x8hap0v2p7s790dig62f1b1fk7hni5w8vihi66h8v",
-        "hash": "sha256-G0FjIowb8RItPNOFFZwwLzaQjj5XbHAVRB1F/OYgC2g=",
+        "rev": "ca2f53fae0143081492a7524e46539f44a1cb947",
+        "date": "2025-08-19T18:31:34-07:00",
+        "path": "/nix/store/xycc4bc9kf3v194x475bs2518yk058bg-zed-oxlint-ca2f53f",
+        "sha256": "075xijvijahzg75v3qfjfhgwdz6cnfs1i15vl8vi0j6c85094z7x",
+        "hash": "sha256-/XySQEHMSBA3oruEGLSzzPzGH3TS4bHLeR8qGbeMvRw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12583,6 +12583,31 @@
       "cargoHash": "sha256-kOBMUpLMtYbJqmo7sdn5T4FNTZraZRCGL40u/wKpp5A="
     },
     {
+      "name": "terraform-context-server",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/oWretch/zed-extension-terraform-mcp",
+        "rev": "3de67cc535da464a0dc85bbac878d98a2e0b8418",
+        "date": "2025-08-19T19:51:47+12:00",
+        "path": "/nix/store/pfi3bshiiz3kyybb647jy2g51zns71nw-zed-extension-terraform-mcp-3de67cc",
+        "sha256": "1nqjaz9251k1zaapwl5cvmh192h3hqgaarzfa0f7g55k0jyv39dp",
+        "hash": "sha256-t6WxvQSzlHccUO5npR6GA4oUYN2sUH6V+mGGItJXEts=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-G6xMIW5qLA2emKP1EaQKlB/EQ/vqGSyMGrjot2FsL1I=",
+      "cargoLock": {
+        "lockFile": "/generated/terraform-context-server.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "terrible-theme",
       "version": "0.0.3",
       "src": {
@@ -12720,6 +12745,27 @@
       "extensionRoot": null,
       "grammars": [
         "tmux_tmux"
+      ],
+      "kind": "plain"
+    },
+    {
+      "name": "todotxt",
+      "version": "0.2.3",
+      "src": {
+        "url": "https://github.com/pursvir/zed-todotxt",
+        "rev": "a66cd4170316a9ed47d26c54710bedfeff58178a",
+        "date": "2025-08-11T13:30:21+03:00",
+        "path": "/nix/store/2bhyjpjihv2mv4w7z7csnq39miqicxxj-zed-todotxt-a66cd41",
+        "sha256": "03fppmmj023g3dj6lsrbs1g0nxbknggvnz5sg7r2v057amj4h7an",
+        "hash": "sha256-Vh1IZFWngC3yebp8u9+zc3ULXtAra2pkG28IIGu91w0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "todotxt_todotxt"
       ],
       "kind": "plain"
     },
@@ -17740,14 +17786,14 @@
     {
       "id": "objectscript_objectscript_udl",
       "name": "objectscript_udl",
-      "version": "f53770ad22dfdebbecfaedb05c32f6f4924fcba7",
+      "version": "320a28654593428e5a7da76b034ce9d5a1cc528a",
       "src": {
         "url": "https://github.com/intersystems/tree-sitter-objectscript",
-        "rev": "f53770ad22dfdebbecfaedb05c32f6f4924fcba7",
-        "date": "2025-08-05T11:15:31-04:00",
-        "path": "/nix/store/38im7ngb900458rnlzvsn18jyz7acrls-tree-sitter-objectscript-f53770a",
-        "sha256": "0qxgjzdkhp5zcqlc7npq6cfqks91lwkzgacqry2mpdpawrs30wyz",
-        "hash": "sha256-33MwdObqtluFz5ip9yenIemJHTP42sMoZr9cONuXr2M=",
+        "rev": "320a28654593428e5a7da76b034ce9d5a1cc528a",
+        "date": "2025-08-19T19:53:43-04:00",
+        "path": "/nix/store/kq85bizlir28hrj13gxsrrpav989wgid-tree-sitter-objectscript-320a286",
+        "sha256": "0bcbl7vhvrgdpg51nslfy4jp0pbssvwfzx5pcxwzbwb6irdyrz8f",
+        "hash": "sha256-Dv3sW45m8fV5Z7f07/jWel1wJfGOahvKu+3lDfehiy0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -19206,6 +19252,24 @@
         "path": "/nix/store/nf0nyg49h87s2zvb05lp0698ssl4f59d-tree-sitter-tmux-7499587",
         "sha256": "10avsi8rb8mwpj4jn1dyk6vgi48rzcywxcl4gsqb6rj71dlq0dyk",
         "hash": "sha256-0zeAaQtHZrOwfoSyzj37GZH4tpm+BSuJvLyilVHUW4E=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "todotxt_todotxt",
+      "name": "todotxt",
+      "version": "3937c5cd105ec4127448651a21aef45f52d19609",
+      "src": {
+        "url": "https://github.com/arnarg/tree-sitter-todotxt",
+        "rev": "3937c5cd105ec4127448651a21aef45f52d19609",
+        "date": "2024-01-15T09:45:57+01:00",
+        "path": "/nix/store/3wq2nbq47wxgigdbygyl2g27ifhgv4kr-tree-sitter-todotxt-3937c5c",
+        "sha256": "0551fdv77bdrxsc04gsi3zrc07si34r4gnhaqjg3h5fwbbkj3q1r",
+        "hash": "sha256-OeAh51rcFTiexAraRzIZUR/A8h9RPwKY7rmtc3ZzoRQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
