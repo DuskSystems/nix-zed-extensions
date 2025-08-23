@@ -1960,14 +1960,14 @@
     },
     {
       "name": "clojure",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/zed-extensions/clojure",
-        "rev": "1d8bcf22106fea09b1abe7aa66317105095f51d4",
-        "date": "2025-01-29T22:50:21-05:00",
-        "path": "/nix/store/na4xiififi2r533b7ddnil9vw8z98f8f-clojure-1d8bcf2",
-        "sha256": "11gb3psxdv4sa47iyympz2q9h3ay6zsi0y9ka90fl66vrd0z67k2",
-        "hash": "sha256-Yh7zQcvbGOpAUjN5EPU3Xg2YsPi3eh8PUZrs1vUd64U=",
+        "rev": "7c4ecb8f80829cc410c0150f00e01dc8f5055b28",
+        "date": "2025-08-22T16:59:26+02:00",
+        "path": "/nix/store/7hsrc3kb22kdxcfrzdr5minw5ppb83pj-clojure-7c4ecb8",
+        "sha256": "0604ixki6bk77ch2zzdfbmwas1g9rcs24hghqkvjfagynb6pk9s5",
+        "hash": "sha256-Rad5zbL+KSf3xPBBIjTL6QWteF2u/S8gO2cuE2ePBBg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1979,7 +1979,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-KDpRl2tk+P5Nan1ZQat1DGqc2h1t2jSyUve5IsCp0QA="
+      "cargoHash": "sha256-HdIdMvi5Agp+NmgNFKcwXzKXIwmFhNAhQH2R/CUjDZc="
     },
     {
       "name": "cobalt2",
