@@ -5870,14 +5870,14 @@
     },
     {
       "name": "jq",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/dangh/zed-jq",
-        "rev": "04c9046977010f7538fdd4ebcde01c86e102e271",
-        "date": "2025-08-26T00:32:29+08:00",
-        "path": "/nix/store/31z731h38awvg1qaaf67kqyfh7bh4lbw-zed-jq-04c9046",
-        "sha256": "1fcb18nhv05iiccvjzx58r9id1xli51bhd5c3559snm9i8bc5fxq",
-        "hash": "sha256-uLvCFoqpWp1KGaw0uEKJtIcWU0alf7kZi7GADS0Ki7k=",
+        "rev": "b711df1684586f96143660044f55d26d4d2caaef",
+        "date": "2025-08-26T04:23:39+08:00",
+        "path": "/nix/store/qcf60csx9hz6qhjb3hhxb08ilp81l697-zed-jq-b711df1",
+        "sha256": "1hjjs29mnglrlpdywnirq1nmdi1fa4zkl73dxkmkjc6gnk3nrx5m",
+        "hash": "sha256-tfRsx7TPMDnr7G0cOj9RLsRWbcA5Wu7bpZk+W5PQUsI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6162,14 +6162,14 @@
     },
     {
       "name": "kotlin",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "src": {
         "url": "https://github.com/zed-extensions/zed-kotlin",
-        "rev": "7a9e25ba2d2a0246a78a98d68d7d82d2e0c0f28c",
-        "date": "2025-08-25T15:37:24+02:00",
-        "path": "/nix/store/6m65whi4g6dlxp5422966mddrphb3gs6-zed-kotlin-7a9e25b",
-        "sha256": "1lk9c124pi1zx65ilsl60ailh95xx4w1hqpimv1kxydv9mvzb5nh",
-        "hash": "sha256-0Jb1d027+T7DrvFiGDjpvSRIowKGahqL6T/ES0RgadI=",
+        "rev": "8b40274d91c925906589b2ceacac9fe548b40015",
+        "date": "2025-08-26T12:27:22+02:00",
+        "path": "/nix/store/7nhn13dyvyd12b5zhv6g6sdl6v2h71h0-zed-kotlin-8b40274",
+        "sha256": "1hx7qryfm421x93f93kq4bwf8sv8m9di90hn6jcm4p0n22fz438j",
+        "hash": "sha256-Eg3ynRAWXFKZNBaCFFuqaGvk+CJ4juRG6kGQ6nzGp8M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6181,7 +6181,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-OPRhn/CkdtQO8pPnI4Y3iVbnchPWQltkRUESK3g27WQ="
+      "cargoHash": "sha256-FzW/A7fpz5OsUmcbVSX9LocGgy0vXDvWRXEFup5si5I="
     },
     {
       "name": "koto",
@@ -9750,14 +9750,14 @@
     },
     {
       "name": "phpcs",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/GeneaLabs/zed-phpcs-lsp",
-        "rev": "f8f1343237001cc59bedd56bb606a9be072b0f80",
-        "date": "2025-08-24T17:53:33Z",
-        "path": "/nix/store/vvx7acglp7v08bhmrxp1yqb6rj5lfrac-zed-phpcs-lsp-f8f1343",
-        "sha256": "1vxjpn7d0s8930i0zmdn2laqvx5qky72xqlajg26lcxvcax98w2m",
-        "hash": "sha256-VXCUumK7M2rEk4riLo6fuPSNFRW21Q8iGAlp0I69su8=",
+        "rev": "74101982e81991fa6020d9fd69b8ab07f764e0e2",
+        "date": "2025-08-25T16:48:51-07:00",
+        "path": "/nix/store/2yl829nwdfqi29xkqwsx5wal492pdnc5-zed-phpcs-lsp-7410198",
+        "sha256": "04a16phvqmkm4wy4z3v3li8csh5cklfplmqhqv8ks8bhf2m13qgw",
+        "hash": "sha256-/OERqnBwIT3RxhBXeh2drEDNUKRjj088J3VWvOE1QRE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9767,7 +9767,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-aos22UtzDfyeT5kyAj6kwM7Qz71O2eigNuD8baMfBGg="
+      "cargoHash": "sha256-gmrg9yuzUWUp/Yzlve/1xmxs9Y7B61UQrJnY/YeT5Vc="
     },
     {
       "name": "pica200",
@@ -9976,14 +9976,14 @@
     },
     {
       "name": "postgres-context-server",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/zed-extensions/postgres-context-server",
-        "rev": "18420a1e739fd17766b0f969e8f08ea45675c7b6",
-        "date": "2025-05-06T16:30:14+02:00",
-        "path": "/nix/store/6y9lyiaikcgn6fbpn48ah0s6vqs5n5bd-postgres-context-server-18420a1",
-        "sha256": "012dk9cpxy2frh2v8yp1pqjwzqqc4p5xb2np8r4b2sw0v4iwqcwr",
-        "hash": "sha256-mTPMI9mAa7FIRteK1cslDOPPJb7herQFzE74flmaTQQ=",
+        "rev": "cf4bc29001eecb55e779b19f4b8bb7884f99d38b",
+        "date": "2025-08-26T13:01:59+02:00",
+        "path": "/nix/store/pagnzrghfa18s7n55ll1zs6dy20bxfc3-postgres-context-server-cf4bc29",
+        "sha256": "19y25a1ni83pg6lprglmvlwv3m7w4im99x5iixy6rk012w2l7vjc",
+        "hash": "sha256-TO5DBRcBzGx8j7H0lGok/NSxOd2VvnypeXegaIMqwqc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9993,7 +9993,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-MzoPZi5BKGS6G/7s5v8lwRUgSXe+Z+ymJKSV7r4h6/0="
+      "cargoHash": "sha256-EuVL/rFOSeVclhXFvrDpb/CznOPasF29Y+ey9nxSYlo="
     },
     {
       "name": "postgres-language-server",
@@ -14787,6 +14787,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-DxmOmBX+Rpk6xP2d6L+ieRBdLvixsiNJe+Kapj9EPSo="
+    },
+    {
+      "name": "zoegi-theme",
+      "version": "0.4.0",
+      "src": {
+        "url": "https://github.com/nikitapashinsky/zoegi-theme",
+        "rev": "f5a378e816425d7dc4e7ed5b4c5aedecfc8adbb9",
+        "date": "2025-08-25T12:40:37+02:00",
+        "path": "/nix/store/lqfjf1l7rsa3k81ivqcd3vb9jhsyvnki-zoegi-theme-f5a378e",
+        "sha256": "0q2a9rq93p1bb5hkbgiqb5bxc2fp3brdp6g5lr98kq2lnf5q3rc8",
+        "hash": "sha256-iOWBi7NU4IlSpuWZ2/Ia1wnWV1k4vjVhWSvckXBOSmA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "zwirn",
