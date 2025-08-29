@@ -3322,14 +3322,14 @@
     },
     {
       "name": "elixir",
-      "version": "0.1.10",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
-        "rev": "493163715f3741297c918b35261acde842b3c382",
-        "date": "2025-08-05T09:52:30-04:00",
-        "path": "/nix/store/hyxfcfw7cgmkcbbb9xd05gwcmf8dspgw-elixir-4931637",
-        "sha256": "1aqv1yq02lic0mssr34839zr48rnjgf3s6g7q08va6hmvcq07dy9",
-        "hash": "sha256-ybcDMNsVGrURwOcZPdyTNiOSfxqIjKx1BSxSAbAPG6s=",
+        "rev": "96fd0581d84cfac857a23c1351e2405836de39fd",
+        "date": "2025-08-28T18:27:07-04:00",
+        "path": "/nix/store/vv4fmgcvbgfqp57rkbz41lbzsdwr5pv9-elixir-96fd058",
+        "sha256": "16sjjp7dbr909dza065k1hg6w64alsvjb5l4drl6dcfqhnl7bs63",
+        "hash": "sha256-w+h1qIXYsWZoboSWJbemihhuHgyzGKB+SyDl1c6VUps=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3342,7 +3342,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-+o7JyWO9I/ip0Ti4hG8owfMIFzBG8Wzt3ltFaPukTDw="
+      "cargoHash": "sha256-8JwpOFuAmLkqA15FvhlBM3KY8LoMw16EyIpzlHQP1x8="
     },
     {
       "name": "elle",
@@ -5187,14 +5187,14 @@
     },
     {
       "name": "html",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "src": {
         "url": "https://github.com/zed-industries/zed",
-        "rev": "15a1eb2a2e3e249eae5ee402fc8a7a3d19260bf6",
-        "date": "2025-08-16T17:02:51Z",
-        "path": "/nix/store/j03109nbrry2hs7mrgv1yqnabwkiw055-zed-15a1eb2",
-        "sha256": "00lfvx80y55nl4pql7b98390f2nc8400v34lcayymvzv34zw2bll",
-        "hash": "sha256-lC7BPxn77+q9YpSMDQBBzAoH0kBpHYovobYUD1DfjgI=",
+        "rev": "29fc324a78d5fdf664cec63c950df59135114634",
+        "date": "2025-08-28T17:07:06Z",
+        "path": "/nix/store/jj16v9c54sb5gbhy8g01gyagbgsv7ybq-zed-29fc324",
+        "sha256": "1hphzjg25n7f9151p7nks2shkxs7nr3kv1k311knl8678b667lq5",
+        "hash": "sha256-BdNjzELHIGpnCGOGPUe2R/cJtdDTnhtKSO7YIp788MI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5206,7 +5206,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-FMZNRHR4MFG8l7DMSnofPEBZbzuppq9DaxSMj6kne68=",
+      "cargoHash": "sha256-x4ah3Tel3GcDxiH0B7ZI1QPp1c2guyjsKva7VaeOVVI=",
       "cargoLock": {
         "lockFile": "/generated/html.lock",
         "outputHashes": {
@@ -5259,6 +5259,7 @@
           "runtimelib-0.25.0": "sha256-v+avgSYYT9BJ1+lIEF+Vp1V9D0YH8LGH4XEjweN/pLs=",
           "scap-0.0.8": "sha256-3DdcZoDImYuP+QmdsyaoMDiL61xqkC3zodDi9CgWiXg=",
           "tiktoken-rs-0.8.0": "sha256-3nbhoyvIJkRL1vdQhbAENnvaQCnIDKPqlyuQgdzu/j4=",
+          "tree-sitter-cpp-0.23.4": "sha256-s9/n09EruafAMF3g6xOkfu6L+WXUx83PpcVKn1Tnmg8=",
           "tree-sitter-gitcommit-0.0.1": "sha256-Z1BDWFXve4lRa6cTQyVHAfVo2ZFhcxKdRYpyWqbU4lY=",
           "tree-sitter-gomod-1.1.1": "sha256-KD6Fio9qie3wbGAvQaYsMdYOK1QjnRrGExt1oL/6mis=",
           "tree-sitter-gowork-0.0.1": "sha256-WRMgGjOlJ+bT/YnSBeSLRTLlltA5WwTvV0Ow/949+BE=",
@@ -5271,8 +5272,7 @@
           "windows-capture-1.4.3": "sha256-k07Jpk4mcDo1JsZDF7AZMHRqlqFKHt60G2X3BUjMhBc=",
           "xim-0.4.0": "sha256-H5hq7viVIurJty4aqkoOiC/oXhRKFZ/nEfUnCMZaZ9s=",
           "xim-ctext-0.3.0": "sha256-H5hq7viVIurJty4aqkoOiC/oXhRKFZ/nEfUnCMZaZ9s=",
-          "xim-parser-0.2.1": "sha256-H5hq7viVIurJty4aqkoOiC/oXhRKFZ/nEfUnCMZaZ9s=",
-          "yawc-0.2.4": "sha256-C/iUVbny697xkZMD5fdv69/cQZ0YlxX7X4BzF9gHXc4="
+          "xim-parser-0.2.1": "sha256-H5hq7viVIurJty4aqkoOiC/oXhRKFZ/nEfUnCMZaZ9s="
         }
       }
     },
@@ -5660,14 +5660,14 @@
     },
     {
       "name": "java",
-      "version": "6.3.0",
+      "version": "6.4.0",
       "src": {
         "url": "https://github.com/samuser107/zed-java-extension",
-        "rev": "301f4146f86002ddc5bcff65f5c05f5dd03b2523",
-        "date": "2025-08-22T14:59:39-07:00",
-        "path": "/nix/store/lwr80kf9cn4p5z53yz4w0g33sqvcbzg9-zed-java-extension-301f414",
-        "sha256": "10178bplf1afkbbwrmj1nsfszgihwz7vawxp7vgvygbahkdrw8wl",
-        "hash": "sha256-lCOe24RqPb/fPrdztc/nML6vnbZB1szXmk4FR+9CJ4A=",
+        "rev": "9ca8918089f4ac0c18540e953c10b4fab11132ed",
+        "date": "2025-08-27T16:16:26-07:00",
+        "path": "/nix/store/hzglijvb5760jikiijjfxl4ky7qlgwg9-zed-java-extension-9ca8918",
+        "sha256": "090hm9mynrk0gdis189w3qi20a645ax0nvsmd98rlj1pqbnxwndy",
+        "hash": "sha256-vlne7cI3SJpRalVvC7oqxCggIh48oaBje2Bm62uqECQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5680,7 +5680,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-9SIdRkBh2MjS+sZpMM32c61TKt+aMetC3AKtoeYE8Sc=",
+      "cargoHash": "sha256-ksKZbU+YvDJZvz27Qg2QjdKJyl3pOZ3QX6CytCOoJTU=",
       "cargoLock": {
         "lockFile": "/generated/java.lock",
         "outputHashes": {}
@@ -7914,14 +7914,14 @@
     },
     {
       "name": "monospace-theme",
-      "version": "0.1.3",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/Abhinav5383/zed-monospace-theme",
-        "rev": "2dbf021859d1aa714a33f12eed01be7410275e97",
-        "date": "2024-12-27T11:18:56+05:30",
-        "path": "/nix/store/sg943n2nznkvn0998m80wh3v0pbh0z46-zed-monospace-theme-2dbf021",
-        "sha256": "0mm8c1sa0rcnphdm2phz361hz3wqvwpskdq2l421h3lg24mqr5k3",
-        "hash": "sha256-Y5aMKxGPDhgEoQK3qS/fmI8PgxkfXlEbvJZloHRgqFY=",
+        "rev": "6ea0ff31ffd981585018b521d67d21aeea338f73",
+        "date": "2025-08-28T18:41:29+05:30",
+        "path": "/nix/store/myaqzdb3il29025yvhpmpm5pb0mbdpqi-zed-monospace-theme-6ea0ff3",
+        "sha256": "1nv2nznrp62acbcqhb3hysq88rd8g4zdy8aqqqi706ld2dd8ri8b",
+        "hash": "sha256-C8WMWhONGnAixlgh3z55qGWEsPZwLIjZYkqYm+23Yts=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12332,14 +12332,14 @@
     },
     {
       "name": "svelte",
-      "version": "0.2.8",
+      "version": "0.2.9",
       "src": {
         "url": "https://github.com/zed-extensions/svelte",
-        "rev": "f9045465838f51179aa62cc4a8d0f2037369f2c5",
-        "date": "2025-05-21T13:16:16-04:00",
-        "path": "/nix/store/my6q9v4lf77r3bcdc9szhcl8lpg25bzl-svelte-f904546",
-        "sha256": "1rdqwr52y8q5a7src30f7krvbni0lvag9xnkd2kqadp42v488wy1",
-        "hash": "sha256-wXOEyBbkNoWnaNP29NSmINq18zwODJb1UQUjL0rmuOU=",
+        "rev": "ddf6239e77cf5de5e239df86800deb5ff812e019",
+        "date": "2025-08-28T20:40:39+02:00",
+        "path": "/nix/store/00x4a3ypvp2pwsykzs9kzjqw49w52v5v-svelte-ddf6239",
+        "sha256": "1ibr6jajlnc0i81hvjdvsb8q6h3pvyl9vf9pz2519q746g589fzk",
+        "hash": "sha256-87uEyjPk4BSK+De5najfd0CD0dK7yQ0DioBZKpU0ecU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12351,7 +12351,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-mPtTMANccKUJweUoWzprz1HFVoLTbQCK8NfgTxBb6AU="
+      "cargoHash": "sha256-s9SFnEpBtR5ozHItStE193VRk9wPU/pANSCPADqHRQE="
     },
     {
       "name": "svelte-snippets",
