@@ -271,6 +271,25 @@
       "kind": "plain"
     },
     {
+      "name": "alpinejs-snippets",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/A909M/zed-alpinejs-snippets",
+        "rev": "7e619a90a1214e3298f790faff8fa7006d2a5f97",
+        "date": "2025-08-30T23:52:42+03:00",
+        "path": "/nix/store/7whxlccl0b4mn37y0ahjr8z5llgbh0q6-zed-alpinejs-snippets-7e619a9",
+        "sha256": "1cxyji4zkx56iy1rairngqjwzv5z8h15dlddnnkk4bxdjp7v8xbh",
+        "hash": "sha256-cHW0z5WtLzKnta3RVgJEv+zPJX42R5WDj6b0+UmUvrM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "amber",
       "version": "0.2.0",
       "src": {
@@ -4163,14 +4182,14 @@
     },
     {
       "name": "github-classic",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/meocoder31099/Github-Classic-Theme-Zed",
-        "rev": "7cee28a1405276728efb25e90b8c149ee9788c50",
-        "date": "2025-06-30T14:23:35+07:00",
-        "path": "/nix/store/6a3k3l10c2ny9d0in6nq6gd3xywkd2ww-Github-Classic-Theme-Zed-7cee28a",
-        "sha256": "056vkmwn022frsnlkbrbgh5inb47z42kd43zg0pbh3r24bz14bfg",
-        "hash": "sha256-zy0S/iIiD7gueH+QNgX5hywbC3wrr0mtzk4IYHmd2xQ=",
+        "rev": "751146a4387066dd4e2fb7ee4ff91ab089d7c7dd",
+        "date": "2025-07-18T14:50:57+07:00",
+        "path": "/nix/store/vd597ggk77mlrrarfrzhks0jj5i9i5sw-Github-Classic-Theme-Zed-751146a",
+        "sha256": "02sh3h6g662ib8ss37s0qw7hki9iqvdxz5plb8jd8rxm9i8al1j5",
+        "hash": "sha256-RQaqUEy1Z9QkWvSW39vGMcUJD8dAn6E1WlEY8wwcUAs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7515,6 +7534,27 @@
       "cargoHash": "sha256-vmFsnX0pQrLYQZnKZoH+B2B+0U7m7FaZlfX7S4QnIkM="
     },
     {
+      "name": "mcp-server-tavily",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/chlorodose/zed-mcp-server-tavily",
+        "rev": "702feb46a8f0717e2b2d73949903905d08c6e364",
+        "date": "2025-08-27T17:16:22+08:00",
+        "path": "/nix/store/0ff4g1bqhcihcpa7sjkj21ccq4f13jgs-zed-mcp-server-tavily-702feb4",
+        "sha256": "0w5jcr0l126ji3vynzdsbws4qj6nkw18gm6iyflsw6c03clk0cdz",
+        "hash": "sha256-vzEwKRuAGa6p89HUhwKf1khMNF+6fev3iNKIQEFmsnA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-cjWtpFfhvNBTPX6JwhZmfBEKXkVZBT1VNass7SUISvk="
+    },
+    {
       "name": "mcp-server-vercel",
       "version": "1.0.1",
       "src": {
@@ -9750,14 +9790,14 @@
     },
     {
       "name": "phpcs",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "src": {
         "url": "https://github.com/GeneaLabs/zed-phpcs-lsp",
-        "rev": "f68923a9ac6804c1cb8220d7c49a268a98556523",
-        "date": "2025-08-28T13:57:55Z",
-        "path": "/nix/store/4gjyq9v8mcwgmph2qgcnqvabb499ajl2-zed-phpcs-lsp-f68923a",
-        "sha256": "0j316id17bg7bafpfi5j2qwaxd3n7pl788xwlkdhip7d3mzczgc5",
-        "hash": "sha256-hb3Pfh3t3AjbpLwjdOg9drSuOBayRHedWuetE1o0YUg=",
+        "rev": "49313ab82866f1b8faf45ac83dcf8883cf100423",
+        "date": "2025-08-29T20:58:25Z",
+        "path": "/nix/store/y8gqi33pv2hlfs32k6095c8vb38zd1b8-zed-phpcs-lsp-49313ab",
+        "sha256": "1sl9rqnqlh8n6m9g4md4pkk9ggk3c003bz4cjsf7lnckyrzr2ing",
+        "hash": "sha256-z0aRf/aTWXqcloz8NQBgY76X5rykVfJSNRZBii3Oieo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9767,7 +9807,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-PnLOH7SrocaFVmBEMLNSmXwy9yppIcezmVSVY7jforc="
+      "cargoHash": "sha256-sAmtTvxp6Wi8IpLsFVhboZrogyxLTRypoY02UBXXj/c="
     },
     {
       "name": "pica200",
@@ -11338,14 +11378,14 @@
     },
     {
       "name": "serendipity",
-      "version": "0.0.8",
+      "version": "0.0.9",
       "src": {
         "url": "https://github.com/meocoder31099/Serendipity-Theme-Zed",
-        "rev": "59b8656ea0c0e19d2d80a5e2ee871bb42e8e4b7f",
-        "date": "2025-05-29T10:57:39+07:00",
-        "path": "/nix/store/l2n80c95pzny58i1r7izgm5kc45mp72j-Serendipity-Theme-Zed-59b8656",
-        "sha256": "1nxkl6xbwkq4q6d6gjlnha2rwf28mzn82mgl1ay6h4vfx45qp14x",
-        "hash": "sha256-nYSLC+luE2i8CvRVgeyvSDiehYKWymeawQRPvrqhs9s=",
+        "rev": "01d238a488fb69ab881cb5803601c9c4c096d495",
+        "date": "2025-08-30T23:58:15+07:00",
+        "path": "/nix/store/g3a6fmzq3k83dmpnr0x7abkxaff5rsxw-Serendipity-Theme-Zed-01d238a",
+        "sha256": "05i82bp3dwzaxmbdmj5immvgdyrj3by9hvrjc880lxas71y6m88x",
+        "hash": "sha256-HaFqfDhadQoQYjJvmPwaMvv2dq2xyNpW7erzNu4SKBY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12941,14 +12981,14 @@
     },
     {
       "name": "tombi",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "src": {
         "url": "https://github.com/tombi-toml/tombi",
-        "rev": "2c4b3d320217f6d86c1cfd25467b7a284c346940",
-        "date": "2025-08-22T09:21:54+09:00",
-        "path": "/nix/store/8vm0ff7kp2m8axj42dh3kpx0iakyzyj3-tombi-2c4b3d3",
-        "sha256": "0nnym7gz1yby20b7p57znpiv1b6nabx21i75qkljyc688lxvgwnr",
-        "hash": "sha256-2fK3O0XIMC/pxOXEIPpS1qyw47X/lHsWEH758N+p3lo=",
+        "rev": "1fbd9d7c07953c0761fc4f7421b4cb33321fd5f8",
+        "date": "2025-08-30T20:24:41+09:00",
+        "path": "/nix/store/7dy2y8j3pr2k2148lr80ybhm6hybqnkq-tombi-1fbd9d7",
+        "sha256": "1gnzl95aj74qpg40a8530zhmi714hp4diiiqv2rankda6fjk9d70",
+        "hash": "sha256-4LQ0pTOqTauy2DjG2MiFJJxY4QejIAXIu5gcqUqi374=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12960,7 +13000,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-w/Dxbg09k5op8Zj869EYZhnpOpM3E3UZIf//AoYYFsM="
+      "cargoHash": "sha256-CCTmVFQYpFFJUu/5UL3UfN6PHwQf15wE3mYtrM/w920="
     },
     {
       "name": "toml",
