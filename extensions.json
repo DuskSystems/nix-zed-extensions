@@ -11645,14 +11645,14 @@
     },
     {
       "name": "slint",
-      "version": "0.1.0",
+      "version": "1.13.0",
       "src": {
         "url": "https://github.com/slint-ui/slint",
-        "rev": "876a24ea14a3165ac9d3a9920f4a2f0bf1423f2b",
-        "date": "2025-07-16T02:18:02+03:00",
-        "path": "/nix/store/zvays0ylwbsrwpns0rhx27wvvfcbb0i4-slint-876a24e",
-        "sha256": "1kppmzyppccxzisg1fbzwdvm7jhhzdx1n05cfhgm55jmhxsjvj6w",
-        "hash": "sha256-3MgtdYdVllIfdKwAG3r7EMpTd+N/ufB0/J2xe/2v984=",
+        "rev": "9b0b620b4473c6d59c86cfaf6068f9cd19d50a0f",
+        "date": "2025-09-03T14:53:09+02:00",
+        "path": "/nix/store/lmhfymqv4w8sdyc740n2vrz1kqcjyq9y-slint-9b0b620",
+        "sha256": "1lgvrz9v2gfr88kybci1flhyj7zyf8ci81j4khpw0z76rbahsx9h",
+        "hash": "sha256-MHUN1crmfMAvnEQGFBly/h/pIXUhsuUnQtk9sdPP+9E=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11664,11 +11664,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-DCyw6Bt/frCkmAngQAtDZMJ4NBShGJmPmiBqlMr4qj0=",
-      "cargoLock": {
-        "lockFile": "/generated/slint.lock",
-        "outputHashes": {}
-      }
+      "cargoHash": "sha256-Kt0H4B+3ebTzxK7ciaW+02d9pzoAkzrJicdlegs+EOY="
     },
     {
       "name": "sml",
@@ -19097,14 +19093,14 @@
     {
       "id": "slint_slint",
       "name": "slint",
-      "version": "4e2765d4cac1f03ada6f635eeb6008d1d0aff5a3",
+      "version": "96bc969d20ff347030519184ea2467f4046a524d",
       "src": {
         "url": "https://github.com/slint-ui/tree-sitter-slint.git",
-        "rev": "4e2765d4cac1f03ada6f635eeb6008d1d0aff5a3",
-        "date": "2024-10-04T04:38:14Z",
-        "path": "/nix/store/qfzp7lz2x35s5skgq7357rpnr1yhv0sd-tree-sitter-slint-4e2765d",
-        "sha256": "0c9rsajr9zg3vlivql2q99dzkc4rrxzh145sf56gxx6az9iasj3h",
-        "hash": "sha256-cEitYvrK9P5McbqQAH/PmbD5W0pYULwj3eP9lKXSOTE=",
+        "rev": "96bc969d20ff347030519184ea2467f4046a524d",
+        "date": "2025-07-13T19:36:58Z",
+        "path": "/nix/store/imjsi1mfgfqdiqmcsx6lv5iw5z35088x-tree-sitter-slint-96bc969",
+        "sha256": "0q55q7rjf53jvhdxxr4qbnxwi5j1vxbda6g9pw18swn11nw72dn9",
+        "hash": "sha256-yTZxuA3Bco0Cv+kZ1VbfQZbIu12Y5N4b3HIUJ/PBpWA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
