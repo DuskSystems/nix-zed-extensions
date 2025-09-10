@@ -2204,14 +2204,14 @@
     },
     {
       "name": "color-highlight",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/huacnlee/color-lsp",
-        "rev": "528c2a75c25d86bf8a7973ca1c521ffdbf5681e7",
-        "date": "2025-06-27T10:08:04+08:00",
-        "path": "/nix/store/4w5mcp8y2d35356ga057snfk3zhspzd4-color-lsp-528c2a7",
-        "sha256": "0aw8xdzn9wf3i6hidi6blrn08z3ha38ixpgrnjgx85pp32dnic7c",
-        "hash": "sha256-7LBomxj3FtSftPndHtFQcHwEbKbLxBahicPxZH/riCs=",
+        "rev": "b9e49d005fcba4dc174daf916ded4aa02179df4a",
+        "date": "2025-09-05T10:07:18+08:00",
+        "path": "/nix/store/d8118zfk6d2kp7yky4fdxl1l42v6knr1-color-lsp-b9e49d0",
+        "sha256": "155a693yf4qfzax7171mbfw0w2iqg63lbpqkbv8jkzid2fqmvfb8",
+        "hash": "sha256-aLldsRMt/inRXhPfRYd5OAoOuFs1nHC6+g4T50cyqpQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2221,7 +2221,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-2C3wOUQoiCG4rdgn798fQOq/r/3pqIdKUS+mNZo0LXc="
+      "cargoHash": "sha256-SUUBGeyOWDljnjAFWk+8cVZ5Wwfz6xjszntm9EgjOdw="
     },
     {
       "name": "colored-zed-icons-theme",
@@ -4395,14 +4395,14 @@
     },
     {
       "name": "gleam",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "src": {
         "url": "https://github.com/gleam-lang/zed-gleam",
-        "rev": "88b908ba7d67bb0571cab8d20b0b4c602bbdd2c0",
-        "date": "2025-07-26T21:24:28-04:00",
-        "path": "/nix/store/6sz9ry6n64q93d0rhm8dpahgg02p832s-zed-gleam-88b908b",
-        "sha256": "16sgi2w6rn31c6dnh53p9dycq81jnqws0wgignsln4fmmy0d2x57",
-        "hash": "sha256-p3TRgK/VEUu1ffFxoDm2MiDMfEt3FGibYWHYbLiIT5s=",
+        "rev": "775be920d98edf64a7147134045f5e4223d7da13",
+        "date": "2025-09-09T15:52:50-04:00",
+        "path": "/nix/store/7qk9fw0nf9vjja1af1gdn02826hjivg1-zed-gleam-775be92",
+        "sha256": "1aas8qkiq15sy7hg52kzmxibq63hiv4jpbyc85c8865fljc69wq7",
+        "hash": "sha256-B/NkmKSuGIRYQcyvK8mOcBi8Yq9/ivLg8boEHCdGWqk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4414,7 +4414,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-IiHMs0Qr6Hfo74WcyXsK/ejWXsVdY223/LQZ2/wc00E="
+      "cargoHash": "sha256-kRO3QIrzJfeUc+9RFi9FzcNycOeuOMU+h+WKenm6lIw="
     },
     {
       "name": "gleam-theme",
@@ -16548,14 +16548,14 @@
     {
       "id": "gleam_gleam",
       "name": "gleam",
-      "version": "6ece453acf8b14568c10f629f8cd25d3dde3794f",
+      "version": "dae1551a9911b24f41d876c23f2ab05ece0a9d4c",
       "src": {
         "url": "https://github.com/gleam-lang/tree-sitter-gleam",
-        "rev": "6ece453acf8b14568c10f629f8cd25d3dde3794f",
-        "date": "2025-05-17T12:51:15Z",
-        "path": "/nix/store/ngdmpfyvip714y6zazmz14sc81j8n87x-tree-sitter-gleam-6ece453",
-        "sha256": "00f481cjn1mz0319jq89775a81nlmqnkc6fvv3qblpiq37fplzcz",
-        "hash": "sha256-n3163Rk4Xrrw2NsZNi2u1AakyjkJYZnCAL8GK1lAxAE=",
+        "rev": "dae1551a9911b24f41d876c23f2ab05ece0a9d4c",
+        "date": "2025-07-21T17:56:49Z",
+        "path": "/nix/store/q3cb27wpvk06j6glr1nd66rnycsjn1v8-tree-sitter-gleam-dae1551",
+        "sha256": "0d7z5bk6x0qi3wy4d8174a69wxsc4287c7fcdfabkn8dixpa920q",
+        "hash": "sha256-GIikbo8N2bmUa8wddpAgTHeejCInoEY8HxGDbuYq/zQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
