@@ -253,14 +253,14 @@
     },
     {
       "name": "alabaster-dark",
-      "version": "0.0.4",
+      "version": "0.0.5",
       "src": {
         "url": "https://github.com/findrakecil/alabaster-dark-zed-theme",
-        "rev": "e83311caa7e837da8e48d4fe89dcc7d70da095df",
-        "date": "2025-08-23T16:57:34+07:00",
-        "path": "/nix/store/chig17h7vgxw1q54s749qgajg0yh6vbp-alabaster-dark-zed-theme-e83311c",
-        "sha256": "1j8k2sjiax84zdddkc3hp1yrc4z5gqwi7cgnr7d0yclkf1x0qi3f",
-        "hash": "sha256-bkQMenCTMg/ayfaxEzl+5ROWfbhwsNla+wR1FaUWE8k=",
+        "rev": "056a83176eb11258bed1e04dfc6db46598d2bc53",
+        "date": "2025-08-26T08:37:23+07:00",
+        "path": "/nix/store/bbv4dp0rswb8mx77f4n2r717lljymld6-alabaster-dark-zed-theme-056a831",
+        "sha256": "0m1q1xf5a7z1dvgaglrk82adflfkczhbmkil9idp7idaklmxs4nw",
+        "hash": "sha256-3BLdK52qxXNbTDTOuuBn01HXlEAz06febuEfVVwPOFQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3381,14 +3381,14 @@
     },
     {
       "name": "elixir",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/zed-extensions/elixir",
-        "rev": "618c283d728aa99d97502420817e77b2857492fa",
-        "date": "2025-09-04T20:37:36+02:00",
-        "path": "/nix/store/al33flc3fh1z450q1z4x6rlidjrr5wzy-elixir-618c283",
-        "sha256": "1yqdb8pz6a0vkiqqxjrg2mr88fvnqzv6y7hz08nvdfbmpql5aywd",
-        "hash": "sha256-jXtVKL51ubYtAh8eb/bHdjuEchUvy45xnBso8y9aDfs=",
+        "rev": "f8dd0b590eaf58cd144ca3887ff5f95753ea04ee",
+        "date": "2025-09-10T23:34:48+05:30",
+        "path": "/nix/store/hbgs5mkb8bllvjlxppj7j4a8nxc4niix-elixir-f8dd0b5",
+        "sha256": "1df1ma5gq9y4hvrvnj1pjb9s3qsb7ibn86938lfa1kalgzm21361",
+        "hash": "sha256-wYwg6n9UzaAcRSMZZFc8S+Oh05I3SLvzhsQn/IqqwbU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3401,7 +3401,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-8IsN/+2vGBYCNLyCkTEHdugr08Hkp7ej/RScj8YP1Bc="
+      "cargoHash": "sha256-cOcWUKcSmgwwx+g0fgU0NKtbO0LDj0B0uQ6Iib5pD1g="
     },
     {
       "name": "elle",
@@ -6015,14 +6015,14 @@
     },
     {
       "name": "julia",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "src": {
         "url": "https://github.com/JuliaEditorSupport/zed-julia",
-        "rev": "8978acdc436f53a80482f703cf9adf2e324b2369",
-        "date": "2025-07-03T09:51:48+02:00",
-        "path": "/nix/store/jvbxaqvsa75lc9nw1w23llby0svsdnql-zed-julia-8978acd",
-        "sha256": "0c9xcvr1419i8rb4fwji5rsqj6fimics3vpwrlibsgc14sm8720w",
-        "hash": "sha256-HIiDqiaBPb0izfzuoVms0RmJdS5RckdWRjEFEvJmPTE=",
+        "rev": "89f6920babbf050ffe8e968e8cfad72cf593dd2d",
+        "date": "2025-09-10T20:03:28+02:00",
+        "path": "/nix/store/a0r1mpdxr0jik5qvkhqg7j2fx0ilgxvc-zed-julia-89f6920",
+        "sha256": "07bj5v9qrvqbyyswvlmkndhcr0lrw3f9wq11s4x4zvz7fvimidp8",
+        "hash": "sha256-6LZY43bn70860SFgntzgmYLMYLOz0s219wvvjNMuch0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6817,14 +6817,14 @@
     },
     {
       "name": "marble",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/TeenCoder159/marble-theme",
-        "rev": "f3c0d6ee63529a6db1127fcd823372863c3fd65d",
-        "date": "2025-05-29T14:14:15+08:00",
-        "path": "/nix/store/iajxzdzn41pix90csa4llr6021w62vxl-marble-theme-f3c0d6e",
-        "sha256": "0md4bxvxw1crnsc6zgd3ag5hpvwf7bkcpl3p8yzdg8p8w6lh7pqq",
-        "hash": "sha256-GN8DqeHoote+R3fQy+Y6ju8Ly1OjvW+YtpkF3ndfpFU=",
+        "rev": "edfb9044315e7c803325c86c97931903b68d6539",
+        "date": "2025-08-28T17:03:17+08:00",
+        "path": "/nix/store/jznhhy3yfgx0dsn8y08ipz0c6pja6z9s-marble-theme-edfb904",
+        "sha256": "1kdmxpd1y8w9k2a9svkn4q6j5xmsv31hyisnr0m63a8cx4gxwdrz",
+        "hash": "sha256-PzfeH+kMqWEqyFZHD8PYuvYiDSZ2bp2UmIkjH9rttc0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9063,6 +9063,31 @@
       "cargoHash": "sha256-SN1Ul6X7km7ttWTIAMXVucZabDmpuLy1pVaBO8MIWGI="
     },
     {
+      "name": "odoo",
+      "version": "0.12.1",
+      "src": {
+        "url": "https://github.com/odoo/odoo-zed",
+        "rev": "8d234942614acf73fb12340ee5bbf17c21fd004d",
+        "date": "2025-09-10T16:57:08+02:00",
+        "path": "/nix/store/sglclfnqjlgham2cm5c7kb72mcjkdwl5-odoo-zed-8d23494",
+        "sha256": "16rbm8bpv70c74yfqr28912g2q4zfmig1075vkd82xvhrzhxaliy",
+        "hash": "sha256-PlLV4c9wd4Ha3OWA8GJ1n2DxREhIZOw8OQycfReqK5s=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-WrVPmkSQfhcQcBkdu6YJKSHiXBkwioZXvac4Ng/kjGQ=",
+      "cargoLock": {
+        "lockFile": "/generated/odoo.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "oh-lucy",
       "version": "0.0.1",
       "src": {
@@ -9436,14 +9461,14 @@
     },
     {
       "name": "oxc",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/oxc-project/zed-oxc",
-        "rev": "e11f6ffb9252d32ca3969146f580bb01004bc74b",
-        "date": "2025-08-19T15:58:47+01:00",
-        "path": "/nix/store/787m79dhlqny9gap4rbz7nff3iv2mys3-zed-oxc-e11f6ff",
-        "sha256": "1n15f3dawcwyvbf058m1lwjqwv0wpi8icy1q9b0lnrfyzl2rhyv8",
-        "hash": "sha256-aHuYBf3eZUvBSjh4FlG8HGyOJaehogLc2p4zrtpwJdg=",
+        "rev": "12c16ee45b04cfde2c0ecd55cf4eceb793471e3c",
+        "date": "2025-09-09T12:10:32+08:00",
+        "path": "/nix/store/d5n9xp48237vy7fc665rcmd7p7rf9ydd-zed-oxc-12c16ee",
+        "sha256": "0hl6gj0xmiikg8kwprmxzl1ynf4rfj2qiihqs46qf8pvf8mi5wvj",
+        "hash": "sha256-cvMSK3L7IocN0RjGiIV0mTjrA/295ssnejPG2oF8hkI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9453,7 +9478,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-diN7xnEIOM80o+AXwnefjWQ+GT5NkFzlHxSGJGtnF+Q="
+      "cargoHash": "sha256-aH0uAH4s6Jv9/Vq9uPxrtR/Sdo8x6TqDg96ek67+SEk="
     },
     {
       "name": "oxlint",
@@ -10646,14 +10671,14 @@
     },
     {
       "name": "rainbow",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "src": {
         "url": "https://github.com/athxx/zed-theme-rainbow",
-        "rev": "f1fe49db5fdb2bdce308b9e77ce85c6d165492c6",
-        "date": "2025-06-09T10:53:45+12:00",
-        "path": "/nix/store/44hw90fc3gyhh09p7dbl8zv3xr4ylypv-zed-theme-rainbow-f1fe49d",
-        "sha256": "1pr3fiyh8nqc6r1g6ib737kggdxx9qgwac6s0j2w99mklk84yvrr",
-        "hash": "sha256-OW9P0KSzpsSFBNowxR9Ovbf35hlnRfNCNgxbBH10I98=",
+        "rev": "7391d2e838f0b0c7635ee88f49f9a5ea90ef56c0",
+        "date": "2025-09-10T21:42:34+12:00",
+        "path": "/nix/store/y4v9dba61xy9mrxjm6lglpqf6vfvpbz9-zed-theme-rainbow-7391d2e",
+        "sha256": "1p9dh771f1f5d3370dxnf9ls95iq2vb03x1v714h1pb7gzx36zx4",
+        "hash": "sha256-pH8z+n9n3QBJODv0AdYWOJakaXK2N3DGaMUFF86BLd0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
