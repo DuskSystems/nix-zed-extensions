@@ -11123,14 +11123,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.13.1",
+      "version": "0.13.2",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "8a610947751051144e9e7b5bdeff5e6002d1af02",
-        "date": "2025-08-24T19:19:18+02:00",
-        "path": "/nix/store/scq7nfbp82xq81by0hkb5mg8ja0nkvdb-ruby-8a61094",
-        "sha256": "07y4zwzjx0390v5r9rpskh2h9yr791kl4cqdxzg1zigky1l0q84k",
-        "hash": "sha256-kyAMaPDzxR/e7w0zQmdIJ/sEBZz65pTLBmmALj//xB8=",
+        "rev": "fe829bb41acb5bf9f4ee14aa0c002b7b8147740d",
+        "date": "2025-09-11T17:00:07+02:00",
+        "path": "/nix/store/vjs117qqzq2ld6x063win9jq2k0s3xv7-ruby-fe829bb",
+        "sha256": "03yq8r17kh45c0flkd5nmhkw0q7b2r4c5fy8rl1511x8k403m3qr",
+        "hash": "sha256-GY86AJmoh1ACzci7wkgW62DAJ6y2tEkdYIXAeUJG2A8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11144,7 +11144,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ZENJ01YUXiqZIvGLzQCLGrfPSEp0J5KsUhHXEuqXBxE="
+      "cargoHash": "sha256-nFwfBJ1PGi0rHO29Um+LCPl4SO7fux4PVTKGRxCclXU="
     },
     {
       "name": "ruff",
