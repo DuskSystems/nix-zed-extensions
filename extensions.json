@@ -2239,6 +2239,27 @@
       "kind": "plain"
     },
     {
+      "name": "comment",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/thedadams/zed-comment",
+        "rev": "fd8fd930750cfcaed2fc434e3d0c4a4fdea37982",
+        "date": "2025-09-20T00:26:01-04:00",
+        "path": "/nix/store/x0fcjl7pd1makdjp746944mi05dlapli-zed-comment-fd8fd93",
+        "sha256": "0g2c30bp803iivmp6hnf8fs85clhzqjgg4lp744hclv6shzn8y1q",
+        "hash": "sha256-OHhkP9RmUwYJOZeS9yT+kLKCtEPOQnPrjnEAdBcYTDw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "comment_comment"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "confluence-context-server",
       "version": "1.0.0",
       "src": {
@@ -12156,14 +12177,14 @@
     },
     {
       "name": "spai-zero-theme",
-      "version": "0.1.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/BasaiCorp/zed-spai-zero-theme",
-        "rev": "59a189b3cc0263c529d661d6843a64cf8e693cd7",
-        "date": "2025-06-08T21:16:03+05:30",
-        "path": "/nix/store/d4m52h239x95s3ndx37ncmql60sbb3y1-zed-spai-zero-theme-59a189b",
-        "sha256": "1ks2pi1qmhrlyw7x0yhrhx2nlbmx9jp8czb65wdlfm9hqanzda5p",
-        "hash": "sha256-t6j2rcIwVUcbL2Z9hq5MvS5qRYcZetAP9zTDikO8Qs8=",
+        "rev": "6b9c4bbf37034cd9dccb6955e03ee79a373780b6",
+        "date": "2025-09-20T14:14:39+05:30",
+        "path": "/nix/store/1765k3vvrsqvf6ip0hha7f3s1h0f1ik8-zed-spai-zero-theme-6b9c4bb",
+        "sha256": "1xksbxqvps3b9m1nv3kzmxbdjzlkvnd4cx7g0w6w45rh120l15m5",
+        "hash": "sha256-pZZAgQgwF8INB+90Rprdk37ZVq9/jm1DTWvou3FfevY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15722,6 +15743,24 @@
         "path": "/nix/store/zrny2yrb75m4zdk8q0ffysm8isd098q4-tree-sitter-cobol-934ac8b",
         "sha256": "13zpnhr96q3qa4q2y44gdhs2sjwg8da38nnji64vmsyr797vq99s",
         "hash": "sha256-OiW8TzrZ67qJidJaNFRDj0stNGyPEC8wUXhgkzK0948=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "comment_comment",
+      "name": "comment",
+      "version": "689be73775bd2dd57b938b8e12bf50fec35a6ca3",
+      "src": {
+        "url": "https://github.com/stsewd/tree-sitter-comment",
+        "rev": "689be73775bd2dd57b938b8e12bf50fec35a6ca3",
+        "date": "2025-05-03T18:43:55-05:00",
+        "path": "/nix/store/wjvdpyx8cy8ngd7vmam0pj2wydhzvymy-tree-sitter-comment-689be73",
+        "sha256": "1x0l8phr4x07n739z0ax8faxq0l6irmpkdprrv1z088zqdr43l1v",
+        "hash": "sha256-O9BBcsMfIfDDzvm2eWuOhgLclUNdgZ/GsQd0kuFFFPQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
