@@ -3713,6 +3713,25 @@
       "kind": "plain"
     },
     {
+      "name": "fiber-snippets",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/ayberkgezer/fiber-zed-snippets",
+        "rev": "77252ee84746ceb49abcc8eb24124e567d523f92",
+        "date": "2025-04-17T18:37:51+03:00",
+        "path": "/nix/store/52300331zvmyw8fqc3as49lsfq07l2l2-fiber-zed-snippets-77252ee",
+        "sha256": "1n9qkpjm703q6f9wfa5vl9cd8dlp6j6jqwj4m1a8xxwzq9738bgi",
+        "hash": "sha256-8S00TsKf945UqERyLI00lzbUWKK7KMeTM3iAU+WdONk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "fiberplane-studio",
       "version": "0.1.1",
       "src": {
@@ -5124,14 +5143,14 @@
     },
     {
       "name": "helm",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/cabrinha/helm.zed",
-        "rev": "7da08970c8f273ebc144eb7a5334c5eeeefabb11",
-        "date": "2024-10-10T10:44:00-07:00",
-        "path": "/nix/store/9c4a1bnsf04ilxs1a4sbqzmi0r7g4djf-helm.zed-7da0897",
-        "sha256": "022vypq5q410nryccbb7lxm8j266ax04h6sv35m89bigyw1gaasd",
-        "hash": "sha256-TSv1AvcvroRqGVsbSEBXxgiJaqdnLcZ8tiAQXPD1Wwg=",
+        "rev": "90f81015a2040b4e4d8647a40ea03d01aa84add7",
+        "date": "2025-08-26T12:03:49-04:00",
+        "path": "/nix/store/j1l6df0jvq4nr0jjkj7p85rnbxh2x75i-helm.zed-90f8101",
+        "sha256": "10c9pkkrldh6ylqq641d8qs0h8xg0h7yzfdlfbsgcqssby6vi7s0",
+        "hash": "sha256-QJ+4jV9aY/b0crS57w8EryMINEYtEIMx9QY2mue8iYE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5143,7 +5162,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-X0DL1bMk3Coury25iMvD8tmqyVHYxGQUy2C4GgOlBbg=",
+      "cargoHash": "sha256-N7PFklkdJ0568yldxtLheo6h2kvWUoNXjyeHUu9V1qo=",
       "cargoLock": {
         "lockFile": "/generated/helm.lock",
         "outputHashes": {}
@@ -5170,14 +5189,14 @@
     },
     {
       "name": "hivacruz-theme",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/kinoute/zed-hivacruz-theme",
-        "rev": "2b82f64b4bc8b0a5f513eb06f196dea0763779ce",
-        "date": "2024-10-15T09:51:24+02:00",
-        "path": "/nix/store/ax617p4r7xbnk0j6kvs8wbkzjxd8ml91-zed-hivacruz-theme-2b82f64",
-        "sha256": "0khmg9rk1zpg3bp05ds7n1mgjqyjwhvcrc90r6ybah51ix326iwa",
-        "hash": "sha256-ikcjRo+hQLW8ySCxzDbk0mP5arBHtwLuGu/+MHN6FU4=",
+        "rev": "38a41f1088ae038baf4f6ebc31c5ce56828d4c6c",
+        "date": "2025-09-20T18:44:10+02:00",
+        "path": "/nix/store/j37yvs9lhcxc79sbg03k5ry9afngxsmf-zed-hivacruz-theme-38a41f1",
+        "sha256": "1yffgmz0v8ryndzs3ccvfxch1cm3ykdh5k23qdzp8s7743ls01kf",
+        "hash": "sha256-bgag6SDnaHR/w0PMAtv0o7IAWXebsaF/sz6jDX59zvk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5851,14 +5870,14 @@
     },
     {
       "name": "jetbrains-themes",
-      "version": "0.0.8",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
-        "rev": "6e927bb310f9d1ab51766836f87113b6eb286dea",
-        "date": "2025-08-06T07:48:28+03:00",
-        "path": "/nix/store/1v7fbh2qbibp2wp06ljhwv6xn36c72x6-zed-theme-jetbrains-6e927bb",
-        "sha256": "0pq198y9ak9by87lgz152ilmv653xlxaa6ywdrqxi78dx208fcbc",
-        "hash": "sha256-bDGHgOgNndhxbtwbpTrto5hdaRQl/EcP8itNlTxKAV8=",
+        "rev": "e4cfd033bd511bb7ddda7ee3e6769f8efc10d1b7",
+        "date": "2025-09-21T11:52:40+03:00",
+        "path": "/nix/store/mgsqnbxc4zz6gz23kr6m7p7bplhc14hi-zed-theme-jetbrains-e4cfd03",
+        "sha256": "1fm64p6g70zr47x66rk5f60kxn1ym61jaszcnr7ycspsc5yidyl3",
+        "hash": "sha256-g/oWfWH6auZPtuxrJYOpPtg+gXFlZmP6IfmD88wlpro=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7638,14 +7657,14 @@
     },
     {
       "name": "mcp-server-tavily",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/chlorodose/zed-mcp-server-tavily",
-        "rev": "702feb46a8f0717e2b2d73949903905d08c6e364",
-        "date": "2025-08-27T17:16:22+08:00",
-        "path": "/nix/store/0ff4g1bqhcihcpa7sjkj21ccq4f13jgs-zed-mcp-server-tavily-702feb4",
-        "sha256": "0w5jcr0l126ji3vynzdsbws4qj6nkw18gm6iyflsw6c03clk0cdz",
-        "hash": "sha256-vzEwKRuAGa6p89HUhwKf1khMNF+6fev3iNKIQEFmsnA=",
+        "rev": "f23e7596773731a857e5bc61bcfb926576638242",
+        "date": "2025-09-19T14:40:44+08:00",
+        "path": "/nix/store/6k91ncn1rd0ywn6l1bgzq8nkvwd38l7p-zed-mcp-server-tavily-f23e759",
+        "sha256": "0vyh3263a875pmlz47pyx5hd8prg1f8a47048nq4kcl91xkxsnwl",
+        "hash": "sha256-lFvdZw+JskmwRQQcopALL1/UYOn+HvJpveUgNYwY0G8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7655,7 +7674,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-cjWtpFfhvNBTPX6JwhZmfBEKXkVZBT1VNass7SUISvk="
+      "cargoHash": "sha256-UqiGq9ULIJdOGJ/YI+cAvD5rZ2rE3bvsaSN2WH4v0wM="
     },
     {
       "name": "mcp-server-vercel",
@@ -10294,6 +10313,27 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-9S3jSF+pON1QTmiTbGZ1j9DzvzmUR5dGr0oSLI9jjOk="
+    },
+    {
+      "name": "probe-rs",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/probe-rs/zed-extension",
+        "rev": "9b4859351029e71d7363bdfba167ed3ba08f443d",
+        "date": "2025-09-21T22:01:47+02:00",
+        "path": "/nix/store/irgwhxpni00vb5s0yq8y23xas6w1qd9v-zed-extension-9b48593",
+        "sha256": "1h9rcfh9ljrb52m7gf6xffqdf6y1y4p1rr19v7bxfff0b33bmrxf",
+        "hash": "sha256-rue6xljAOdfX2SnkHC7xwRvXsHPduHeqKCtLmqBjOcE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-u+CB5qVVfF4OuEyRe/eoRAEQXGDp2DEoIl9O6keVjhk="
     },
     {
       "name": "prolog",
@@ -13009,6 +13049,33 @@
       "cargoHash": "sha256-2sHBNpyiQ2laRgUOYuiPHPHlLL9nQG6O/S2I6LP8/4M="
     },
     {
+      "name": "textproto",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/mikn/zed-textproto",
+        "rev": "4c7c3ae089671a96f4abeed41b49b02a3aac77a2",
+        "date": "2025-09-18T16:35:16+02:00",
+        "path": "/nix/store/j54fffzfnjshaxy81c1h7sq8df1mdssy-zed-textproto-4c7c3ae",
+        "sha256": "07ydig55iwcnf31zifp2nbzknx730gcg5zr6l8dz2i8cjizfbknj",
+        "hash": "sha256-0s7lfpQMRfEboib/8tgD43Q7/7LiuvjDcJbxWMqLzR8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "textproto_textproto"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-avlX8elmE7xjP3TaXUTCJvZSfACXrQ8O9UZgMOW1/Ws=",
+      "cargoLock": {
+        "lockFile": "/generated/textproto.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "the-best-theme",
       "version": "0.0.1",
       "src": {
@@ -13128,6 +13195,25 @@
       "grammars": [
         "todotxt_todotxt"
       ],
+      "kind": "plain"
+    },
+    {
+      "name": "tokyo-maple-theme",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/Cateds/Tokyo-Maple-Theme",
+        "rev": "e6c0de309ea33c5d59a64b3b5df755ee0f2cf6d9",
+        "date": "2025-08-09T19:08:35+08:00",
+        "path": "/nix/store/7a8s0byy9m84sg4yn42czr03zvxvq6bx-Tokyo-Maple-Theme-e6c0de3",
+        "sha256": "03z97l7yjsfphazbf480pdiavvrm9i94ar9978wx4lxwhksdvk7q",
+        "hash": "sha256-+Mzd9IS8U9I5OillRVJMNe+tYrsAEbe+gtdp6Q896Q8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "packages/zed",
+      "grammars": [],
       "kind": "plain"
     },
     {
@@ -13257,6 +13343,27 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-dxdltc6k6lvCK04iKS8B5JrmzLpX2sBSj103zlcKIU8="
+    },
+    {
+      "name": "tql",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/tenzir/zed-tql",
+        "rev": "5907b4b115c1f8c05276ba9d53d08973bd047e1d",
+        "date": "2025-09-21T21:28:41+02:00",
+        "path": "/nix/store/jmpdaj4w4q39m0xlwisznwzgi7kawsd7-zed-tql-5907b4b",
+        "sha256": "1vhcmc20qbn4mvqw04hsb5fl7vkbvzcxmqqnllsxygsshpddib8i",
+        "hash": "sha256-Ea3Y2oVaP981pRbj2tnfa+5DXVkaEsDxrsQuDASrDO4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "tql_tql"
+      ],
+      "kind": "plain"
     },
     {
       "name": "tree-sitter-query",
@@ -19729,6 +19836,24 @@
       "grammarRoot": null
     },
     {
+      "id": "textproto_textproto",
+      "name": "textproto",
+      "version": "568471b80fd8793d37ed01865d8c2208a9fefd1b",
+      "src": {
+        "url": "https://github.com/PorterAtGoogle/tree-sitter-textproto",
+        "rev": "568471b80fd8793d37ed01865d8c2208a9fefd1b",
+        "date": "2024-10-16T16:56:37Z",
+        "path": "/nix/store/zpdnvgrl13nvp8fn555rddl5rab81rfj-tree-sitter-textproto-568471b",
+        "sha256": "056h95fn779p73ik1gyr4n0y0r5w9pk09z25ly6mm42v5jlzq22l",
+        "hash": "sha256-VAj8qSxbkFqNp0X8BOZNvGTggSXZvzDjODedY11J0BQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "thrift_thrift",
       "name": "thrift",
       "version": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf",
@@ -19901,6 +20026,24 @@
         "path": "/nix/store/nqyfsb27dxr9j1dcvr34kg8nnxf0vmv8-tree-sitter-tolk-ac7d442",
         "sha256": "1hijkacck1hl2grsx9yd2xk2z1z6xqi1a1zsvpka20wry955zwdz",
         "hash": "sha256-v/FfSvKZA6Hm3foHFSLu5ocvZhfNp67zExSGyZiaMsI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "tql_tql",
+      "name": "tql",
+      "version": "a942c7244a01c0e32b8b0c690f9b9327169695e9",
+      "src": {
+        "url": "https://github.com/tenzir/tree-sitter-tql",
+        "rev": "a942c7244a01c0e32b8b0c690f9b9327169695e9",
+        "date": "2025-09-21T21:08:01+02:00",
+        "path": "/nix/store/dlk7ica8099fryggkrz2jpbsh9lyvsnr-tree-sitter-tql-a942c72",
+        "sha256": "02f42h6zpz2q9fckylmgxns0444rfhjhdm50dslzszwmbwv8ifv5",
+        "hash": "sha256-ZbuINl+Vf/2pbqDUBiV0mRACtO2vUj+ZS1j8+w0UxAk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
