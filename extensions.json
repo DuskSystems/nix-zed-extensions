@@ -437,6 +437,25 @@
       "kind": "plain"
     },
     {
+      "name": "apisartisan",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/TCeason/zed-theme/",
+        "rev": "7457e3720a82a102e2409f0eab45854e3968b35a",
+        "date": "2025-08-29T21:51:23+08:00",
+        "path": "/nix/store/b3h5k91z3wq1v2rl03g01w5rc66jwpn8-zed-theme-7457e37",
+        "sha256": "0yci9dfy8564dk27lbmwd5zryz6vnsf69f9v546nmrr6z1f454rl",
+        "hash": "sha256-NJNCXPgm52oNKTu5ZJy223yff2m8LnrEbMQU5F1LkXk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "aquarium-theme",
       "version": "0.7.1",
       "src": {
@@ -1549,6 +1568,25 @@
       "cargoHash": "sha256-t4q29ayf/q82K18wP/zWmPJPQd/Sm3FCZ48LYvlC2qU="
     },
     {
+      "name": "carbonfox",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/harrisonablack/carbonfox-zed",
+        "rev": "f1de666b30bb575eb27dcf4ce5faa8f7dc955496",
+        "date": "2025-09-07T18:22:44+10:00",
+        "path": "/nix/store/h9y2lmk2qczkhdfj88nz0xb3ydiyry8v-carbonfox-zed-f1de666",
+        "sha256": "15wjzb9b93hpmvwpzhcprx8ffycp4p8dh32g78764anarr46gncf",
+        "hash": "sha256-jtlnSM7KKmIOOk8M2NAll3nnUM+XwX/5rheOtNL6kpc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "cargo-appraiser",
       "version": "0.0.1",
       "src": {
@@ -1974,6 +2012,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-Cb/xkbXoz8to29XePlCZis9vUiy54uPg5icZbogV/No="
+    },
+    {
+      "name": "claude-code-inspired-dark",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/ericbuess/claude-code-inspired-dark",
+        "rev": "c8c4987c936b917d4d3187dcf19381a65cc7acff",
+        "date": "2025-09-05T12:35:26-05:00",
+        "path": "/nix/store/g4c0ggzyqnnjhgbl380r8r3yd4nbgp3b-claude-code-inspired-dark-c8c4987",
+        "sha256": "1iqd6gzdifxr7hiyfj3ayhb0xmck5cn3vd02kbcaibi9yigab1v5",
+        "hash": "sha256-ZYelXvQprqjYmgK0PSwrk9UOFvRqSOcjPLm72P4zDcc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "clean-vscode-icons",
@@ -3065,6 +3122,27 @@
       "cargoHash": "sha256-F6Xbwup2Udc+HhKnna+f2wW7RzWATuI3zk0Ns4whfEw="
     },
     {
+      "name": "desktop",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/mikaeladev/zed-desktop-entry",
+        "rev": "6b3b22b2a0eec6d4bf7d0802c019b845165d0081",
+        "date": "2025-09-21T17:26:04+01:00",
+        "path": "/nix/store/vg7iglxhhr58k7r3kc4mnzcgmbvzhyrb-zed-desktop-entry-6b3b22b",
+        "sha256": "08jidnipg1bgy31m5x6y9fnwdd730wc82ly13680cdw44vbdijsq",
+        "hash": "sha256-WMvY1iaENwaQGcFTgRgH47TGrUve9FLD8G+Fd6NtUSI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "desktop_desktop"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "devicetree",
       "version": "0.0.1",
       "src": {
@@ -3174,6 +3252,27 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "dprint",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/panikkastudio/dprint-zed",
+        "rev": "537c8753f89bbf79de8c8e85c2921bc23bdf4ed0",
+        "date": "2025-09-23T14:58:54+08:00",
+        "path": "/nix/store/3j9ksr1sh27bbz21rrj1rcrlp9f6n26s-dprint-zed-537c875",
+        "sha256": "1w0bdhxwz65kalzf270myhvhi24rjivqhasr46ksfrvivdimnzwr",
+        "hash": "sha256-mX9bY9txZ6enIVkriHeUmYgIN/QVHOE+VbOYzztsC/A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-EzzyGNB5H+Dn4nsQf7+Agt047ueYkeE7n9CmknMeq5I="
     },
     {
       "name": "dracula",
@@ -3703,6 +3802,25 @@
         "path": "/nix/store/xchsfyaa143flj4gdbfxlr8cym0ji5am-fastapi-snippets-zed-f844a3f",
         "sha256": "10h5zn07ypgrk8dhnf6i95i2pi2f8hncg4a0zs0q3zw9v30r5hv7",
         "hash": "sha256-Z8OSwdiJ/4GB/kCRxyxETsQrYknROAsbmvldf4D9BYI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "fedaykin-themes",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/btriapitsyn/zed-fedaykin-themes",
+        "rev": "934336e88f593d26de33468b6efe44a4adf3f9a2",
+        "date": "2025-08-10T02:13:48+03:00",
+        "path": "/nix/store/5yymc69kma12790gnq3c0i1npcph15rf-zed-fedaykin-themes-934336e",
+        "sha256": "0n7zkb0j985innfxkr2gfafdwvg2fbspz5aka2jajwzzhpmxnamf",
+        "hash": "sha256-rirb64X/c6mkUFOVf/Vy4m3enHJP5NmdtbGgJMGa/1g=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -4601,6 +4719,27 @@
       "extensionRoot": null,
       "grammars": [
         "gosum_gosum"
+      ],
+      "kind": "plain"
+    },
+    {
+      "name": "gotmpl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/hjr265/zed-gotmpl",
+        "rev": "dfaaf4e16ff37113fb8f785a5cd7e923c3dd963c",
+        "date": "2025-08-03T18:34:54+06:00",
+        "path": "/nix/store/wp64y7nj18iz3n7di2ips101i676n5ba-zed-gotmpl-dfaaf4e",
+        "sha256": "0gq83xa3vi5dvk72g906d9kw5724i175fgsqya6zi2d9v1nn39kw",
+        "hash": "sha256-fKZhbdipifiN8lg/V06IRJzCZ2oGpCfO3K3EPVQfCD8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "gotmpl_gotmpl"
       ],
       "kind": "plain"
     },
@@ -5793,6 +5932,27 @@
       "cargoHash": "sha256-qYS8McmTzn98OZulyRQHzesPgasUut1cCTJ/OSOtLO4="
     },
     {
+      "name": "jdl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/alessandrobrunoh/zed-grammar-jdl",
+        "rev": "0301b170127330e9c1817e9379c3953d446b712b",
+        "date": "2025-09-10T21:30:31+02:00",
+        "path": "/nix/store/9v6jnlagi6sjin1pbw3li7a03hkj5qs5-zed-grammar-jdl-0301b17",
+        "sha256": "0wpnmal7kx0pb49qa3vwkz0i3bvs5gyy7n8fqxm47l2jkcyxl7z7",
+        "hash": "sha256-5x/aPZtS0ENqxw7Z4/0req8RwZ98D4UTWRf0eaiq9nI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "jdl_jdl"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "jellybeans-vim",
       "version": "0.0.2",
       "src": {
@@ -5973,14 +6133,14 @@
     },
     {
       "name": "json5",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/ChunzhengLab/json5-zed-extension",
-        "rev": "6282582ba8a8f1aafca790cd033b86d8417a4c76",
-        "date": "2025-05-13T13:34:05+02:00",
-        "path": "/nix/store/lhwv36pb439ganpbi8xypjc68kgbwsm1-json5-zed-extension-6282582",
-        "sha256": "0m1n2384jszyqxqq8k1jqsdd7gwbzvzzjmhiyz2w5ag7j67nv7yf",
-        "hash": "sha256-zp9tj5HnqcLF9xFW+f/+i7/TmsYyTIRxx/5rSdAQNlQ=",
+        "rev": "081db280d3f5e0c57c4c13ffa7db0c90e39bc7d3",
+        "date": "2025-09-22T21:58:02+02:00",
+        "path": "/nix/store/a7lf6nppwwqvqddy8bwfcx51c72gxbqw-json5-zed-extension-081db28",
+        "sha256": "044jp0p5kz7j6izhs97rzqcr97fc6f3i5h7w49vr0k9fs6rqsmw6",
+        "hash": "sha256-hleNs9EuTZB3IvzAEoczzJ2UGf75JA1/NPL8WS64khA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6504,6 +6664,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-lcR9duGBcWrvbBhsH8O/ltb8cQfzomdIWnsoDvsQYFg="
+    },
+    {
+      "name": "lights-out",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/Ajiva-D/lights-out-theme-zed",
+        "rev": "20c0bf6232feeb055d10c04e850887116152c906",
+        "date": "2025-09-22T11:14:11+01:00",
+        "path": "/nix/store/xcv01mn7d6bp1lr9fkfbl71i48fvl8kj-lights-out-theme-zed-20c0bf6",
+        "sha256": "01r2q98ql4mp9ssnbnir669kw018mlrngn2fppg94ikw65i8zq2b",
+        "hash": "sha256-S+CPYjF8RpLevU7YZzOtKAA+kzE52mW1TrcSilHCIgc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "lilypond",
@@ -7042,14 +7221,14 @@
     },
     {
       "name": "material-icon-theme",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "src": {
         "url": "https://github.com/zed-extensions/material-icon-theme",
-        "rev": "c71bd3984a30b0e4ce294be250bbca659d84900a",
-        "date": "2025-09-15T16:43:13-04:00",
-        "path": "/nix/store/ijsd2fmyv6nlh3pal868f391azrnm284-material-icon-theme-c71bd39",
-        "sha256": "1nwrnsh6swkfy10wccds32n3m7kybrslcir3ngikg1ijk56sy6z2",
-        "hash": "sha256-4huvTZkyhjfjsyNHRnVefp46rBi6McZB8G5ybaC2mds=",
+        "rev": "1a05c68e4d5e9798e6440e5b3053318f4bda82c2",
+        "date": "2025-09-23T15:21:01Z",
+        "path": "/nix/store/mx863jk6ll323fd6ai8ridyxjrrrc7q8-material-icon-theme-1a05c68",
+        "sha256": "1fha5zv3fi60pn40qdczppikpyvyc7ryzx4zr4diznj5ad9d6q99",
+        "hash": "sha256-KWHTUlNF2h8byZ/07/Nhfvs7472fNQyIvcBEN/YvCro=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7909,14 +8088,14 @@
     },
     {
       "name": "modus-themes",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/vitallium/zed-modus-themes",
-        "rev": "03adfa6e727bda48a2db9d9a724f78e2e7a36e98",
-        "date": "2025-06-28T10:16:47+02:00",
-        "path": "/nix/store/31szy1422kg8ig88j8mmnmhli18bmdyc-zed-modus-themes-03adfa6",
-        "sha256": "12w7nr848yl6aqlkwg6cqpv8y7163vkwzcm0c4xasbgfhazgagf8",
-        "hash": "sha256-yD31voLuLa06YaCyz+ceJhyP9sXMPD4pVoZ6RFC2h4s=",
+        "rev": "4ae187358bec507d233371db46f3f1fcc67c0685",
+        "date": "2025-09-23T20:47:03+02:00",
+        "path": "/nix/store/p088malv5nm5ch9492g1raxvf4r4nikl-zed-modus-themes-4ae1873",
+        "sha256": "07940rjh6hf2yksl6vdm26v2q97xmk9jrcvx88hqdab5ni025v5p",
+        "hash": "sha256-t+wiQLRlqYYhQn2zLNOs/SQsthG1bUP19MJBA2UGJB0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8354,14 +8533,14 @@
     },
     {
       "name": "neocmake",
-      "version": "0.0.6",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/k0tran/zed_neocmake",
-        "rev": "b890a9fb5daa904f90888362e120425d81c0aaed",
-        "date": "2025-04-17T13:45:31+03:00",
-        "path": "/nix/store/mhbzyxjxr02v65pr884mp3nrl8db2bgy-zed_neocmake-b890a9f",
-        "sha256": "0bn5pmnh1q9xaf80qbwhg3hyh26mnqq02k5pciiidplxhkdz2zvj",
-        "hash": "sha256-cn/x24Sd3hZjZLdMATC21Qjo4XiQLwyQUz3hAG29xS4=",
+        "rev": "7d401222fb2fa3709becaf620df14c147cc83212",
+        "date": "2025-09-23T16:05:13+03:00",
+        "path": "/nix/store/bdpv3wzhl800kfk4wwbzp1kkxpvp8zzk-zed_neocmake-7d40122",
+        "sha256": "0pd68jr45s29p9m1if10hfd3i7mvm3v92hrycf26hab1x371jc36",
+        "hash": "sha256-ZjAZzuhhKWiEYz5Dkfaou544moMguBhquknoQrJEpl0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8373,7 +8552,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-DAoejR7X4vJKm+2epujE96T6R/PN6fRwjb5tmjde5Ww=",
+      "cargoHash": "sha256-WQkz3n3Eg1FKRP1Xb/YYevPb4e4RbVTSDf6BLwE4FPk=",
       "cargoLock": {
         "lockFile": "/generated/neocmake.lock",
         "outputHashes": {}
@@ -9443,6 +9622,27 @@
       "kind": "plain"
     },
     {
+      "name": "openfga",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/rosnovsky/zed-extension-fga",
+        "rev": "c402cea6d70928d285c73f78660e403939c19c38",
+        "date": "2025-09-11T23:09:38-07:00",
+        "path": "/nix/store/si9v4gwwiwrv5yp06a94c2x4r0n8blsm-zed-extension-fga-c402cea",
+        "sha256": "1qg68rjx8dghdax1s9bk0fl8nxhh04y5wkp03krjqb5dhc1vqrqn",
+        "hash": "sha256-Fme8A4OtLCzzHOBOXjwBEHaLqANzJR26avA11GVG5uE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "openfga_fga"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "openmoji-icons",
       "version": "0.2.0",
       "src": {
@@ -10079,6 +10279,27 @@
       "extensionRoot": null,
       "grammars": [
         "plantuml_plantuml"
+      ],
+      "kind": "plain"
+    },
+    {
+      "name": "platformio",
+      "version": "v0.0.1",
+      "src": {
+        "url": "https://github.com/weirdo-adam/zed-platformio",
+        "rev": "6a85c044915d812035aad7813f4a46036f191e49",
+        "date": "2025-08-26T10:00:41+08:00",
+        "path": "/nix/store/75mcxvqgiyhf981xpq56q1plwik0j9v8-zed-platformio-6a85c04",
+        "sha256": "098s2nm4k9f8v5288jz1f7nb8mj0h3sb805s0qcskycs496fbl64",
+        "hash": "sha256-xNDlTCKa+akZBroAtPSAQFa07HHhS4RE2cilSaoVGiU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "platformio_ini"
       ],
       "kind": "plain"
     },
@@ -13346,14 +13567,14 @@
     },
     {
       "name": "tql",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/tenzir/zed-tql",
-        "rev": "5907b4b115c1f8c05276ba9d53d08973bd047e1d",
-        "date": "2025-09-21T21:28:41+02:00",
-        "path": "/nix/store/jmpdaj4w4q39m0xlwisznwzgi7kawsd7-zed-tql-5907b4b",
-        "sha256": "1vhcmc20qbn4mvqw04hsb5fl7vkbvzcxmqqnllsxygsshpddib8i",
-        "hash": "sha256-Ea3Y2oVaP981pRbj2tnfa+5DXVkaEsDxrsQuDASrDO4=",
+        "rev": "3468b4818a59d0ac034ff6f39798ac394d4d0f14",
+        "date": "2025-09-23T08:01:22+02:00",
+        "path": "/nix/store/2mb1a8w7zwq26c2rabr7319rph7ry8qn-zed-tql-3468b48",
+        "sha256": "12cz7ni5ps5004864pq6r7myf4762y1lz8w69ryzpj2ckhq33088",
+        "hash": "sha256-CIExMJxMyPt9ToajT4MX5hDn68kGX2IQAaDoW6I9n4k=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14028,14 +14249,14 @@
     },
     {
       "name": "vcard",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/TitouanReal/zed-vcard",
-        "rev": "93ac803efcbc80ea14c8a31dbfed39edb67322ac",
-        "date": "2025-02-11T12:27:24+01:00",
-        "path": "/nix/store/k14i7d14gxlzwwf1vbzvhax93ixg86hr-zed-vcard-93ac803",
-        "sha256": "11ig84gfdbnwdr14nfj5nc2qfz8q74pqvwq8qfmfwhzrnwqxncy5",
-        "hash": "sha256-xTPbMbf5Q+6qwwjzjS85GH2HBbNFOktCbtyu5h5BL4Y=",
+        "rev": "0b5c1fdc7c52bd1e0e86bd3dbcfda78b9bc0813f",
+        "date": "2025-09-21T16:22:53+02:00",
+        "path": "/nix/store/31lwv6da63ldnwygas47mg4dgs6rgn3j-zed-vcard-0b5c1fd",
+        "sha256": "0rs5sxsm03f9dqx2ndpijpks092yj1rn9ad49xr6p0npzllafxmf",
+        "hash": "sha256-rnanKP3XgmtyT6SpZHOQXiSg55XxNis6bskNUHXXRWc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14047,7 +14268,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-SZTzG8AeobsofRVkZIao9nnKi5yhbuv1gNfMkR60VYI="
+      "cargoHash": "sha256-Mj3WZDas0QfVrGwMMA71bJLsCmKJRiWvqckZaHEUzzk="
     },
     {
       "name": "vento",
@@ -16218,6 +16439,24 @@
       "grammarRoot": null
     },
     {
+      "id": "desktop_desktop",
+      "name": "desktop",
+      "version": "4a0a5eec8644a7f3357f852d7a16d2550bb2cbc2",
+      "src": {
+        "url": "https://github.com/ValdezFOmar/tree-sitter-desktop",
+        "rev": "4a0a5eec8644a7f3357f852d7a16d2550bb2cbc2",
+        "date": "2025-09-15T22:24:51-07:00",
+        "path": "/nix/store/jinzzz40ib3i5sjm51331wrkaycck148-tree-sitter-desktop-4a0a5ee",
+        "sha256": "1vlvrm75x8ipf3rwbdm9yi6f6v0zgxblsxkhm7glqap8g1zdraxk",
+        "hash": "sha256-s6vcfnjoKkzfqXB2TVd/H2zjTPSptsXzcDeiXk7Nm+4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "devicetree_devicetree",
       "name": "devicetree",
       "version": "296b3c294a8bcfca6673296d99f9cd37049b8026",
@@ -16884,6 +17123,24 @@
       "grammarRoot": null
     },
     {
+      "id": "gotmpl_gotmpl",
+      "name": "gotmpl",
+      "version": "5f19a36bb1eebb30454e277b222b278ceafed0dd",
+      "src": {
+        "url": "https://github.com/ngalaiko/tree-sitter-go-template",
+        "rev": "5f19a36bb1eebb30454e277b222b278ceafed0dd",
+        "date": "2025-01-29T18:19:22Z",
+        "path": "/nix/store/m65pg4v8nbmk4yys5jc0li47b5clxk52-tree-sitter-go-template-5f19a36",
+        "sha256": "1nm9ybwb4if6g7cs911i6msb3q2f1plbl70k2y4icbxk2p57k5ka",
+        "hash": "sha256-apZ5yhWzLxaJFxMcuugNTuCxdDUxhKTZecZFsvjyqdo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "graphql_graphql",
       "name": "graphql",
       "version": "951bde9fb3145b5f676204231e35f8b21d21f7b3",
@@ -17496,6 +17753,24 @@
       "grammarRoot": null
     },
     {
+      "id": "jdl_jdl",
+      "name": "jdl",
+      "version": "39cab5b7b32e5e726c2d2e2a9ce03c9d1bcd3017",
+      "src": {
+        "url": "https://github.com/alessandrobrunoh/tree-sitter-jdl",
+        "rev": "39cab5b7b32e5e726c2d2e2a9ce03c9d1bcd3017",
+        "date": "2025-09-09T20:59:37+02:00",
+        "path": "/nix/store/k1gg1ydd5k3kzbyfpgxvas9lxi8d5vcw-tree-sitter-jdl-39cab5b",
+        "sha256": "0ggydmrmvafmffvpllfq879bp49khxpsf041qbc5x95dsrnrc7cz",
+        "hash": "sha256-nx2WbdatpF7YwoEAp2+HM5G70kHYUXq3c9WpXXNt/j0=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "jinja2_jinja2",
       "name": "jinja2",
       "version": "f5c7baa443b9d20746d2335230967234e01c934c",
@@ -17534,14 +17809,14 @@
     {
       "id": "json5_json5",
       "name": "json5",
-      "version": "master",
+      "version": "8cb4114a4d7e5bab75d74466422e032de31d83df",
       "src": {
         "url": "https://github.com/Joakker/tree-sitter-json5",
-        "rev": "ab0ba8229d639ec4f3fa5f674c9133477f4b77bd",
-        "date": "2024-04-30T19:40:01-04:00",
-        "path": "/nix/store/3ag1lv1h8wg3cvbjbigyqmvqr0jy1i48-tree-sitter-json5",
-        "sha256": "0n33v04d5q79j1qp1l26ygfqywl7vxfam38dap78g6i7ys78581d",
-        "hash": "sha256-LaCCjvYnmofOVQ2Nqlzfh3KP3fNG0HBxkOng0gjYY1g=",
+        "rev": "8cb4114a4d7e5bab75d74466422e032de31d83df",
+        "date": "2025-09-20T19:19:04-03:00",
+        "path": "/nix/store/vr3qbkshsf282rdws857r3p3q1vq1qav-tree-sitter-json5-8cb4114",
+        "sha256": "0ckxr80dbzaxkasn9dldwcl0klkyxs8kiiqibk82y9mx8x2ymz21",
+        "hash": "sha256-QfzqRUe9Ji/QXBHHOJHuftIJKOONtmS1ml391QDKfTI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -18164,14 +18439,14 @@
     {
       "id": "neocmake_cmake",
       "name": "cmake",
-      "version": "47564fb0045710aaaa26b4972f4f986297a78280",
+      "version": "cf9799600b2ba5e6620fdabddec3b2db8306bc46",
       "src": {
         "url": "https://github.com/uyha/tree-sitter-cmake",
-        "rev": "47564fb0045710aaaa26b4972f4f986297a78280",
-        "date": "2023-06-28T13:15:38Z",
-        "path": "/nix/store/br9mjfpdzllqrd2hi4z11jn3w2rb855d-tree-sitter-cmake-47564fb",
-        "sha256": "071q1ds7whish8mz11ba47gngv6yfhhf27vdkp31rs8kxnbxqzmd",
-        "hash": "sha256-rX7cl+0T6RzGnW0f4SB03uxn3yFqhfArgjpCfnQLOBw=",
+        "rev": "cf9799600b2ba5e6620fdabddec3b2db8306bc46",
+        "date": "2025-05-23T09:02:01Z",
+        "path": "/nix/store/wig8ql53qhzvfqlj27i0f73mdg8mmkcg-tree-sitter-cmake-cf97996",
+        "sha256": "0mqkmdqw0x7b2a83is8w8va32s0qzf3dlfzx0hwxfz7rn5dn459v",
+        "hash": "sha256-OxViW7H5fNc5BP072ob7GGgx1EYc6TiQEut0wHGrE1c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -18450,6 +18725,24 @@
       "grammarRoot": null
     },
     {
+      "id": "openfga_fga",
+      "name": "fga",
+      "version": "ee713b95766f8488206330ba8e5e810daadacf86",
+      "src": {
+        "url": "https://github.com/matoous/tree-sitter-fga",
+        "rev": "ee713b95766f8488206330ba8e5e810daadacf86",
+        "date": "2025-08-12T08:19:29+02:00",
+        "path": "/nix/store/bf1w21kabkzgfp2mi4y4yfn2qmm5c0c5-tree-sitter-fga-ee713b9",
+        "sha256": "0h3pxc3r9ihvxjqxg3zqfkcji70w5qbabc4lqn33aakiffmjiyrp",
+        "hash": "sha256-N/soq3NxKjWGxZSwpRYuHJwo2XT4j9ex7BvGlAfrd0A=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "openscad_openscad",
       "name": "openscad",
       "version": "bb1e12023e59489c0892af0c0c9a5b323af69df6",
@@ -18676,6 +18969,24 @@
         "path": "/nix/store/wygkbad7riih47dwvrbcjkzb0w3s80cb-tree-sitter-plantuml-a3cfbf8",
         "sha256": "1n3vyajl6ky3x2479g21nys2q6rvzg1cyayn404hg34ddzdj1ap3",
         "hash": "sha256-46og22+NjAcJINYrz8L7OxsstLdBvHSI6MNPQ6Xye9g=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "platformio_ini",
+      "name": "ini",
+      "version": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
+      "src": {
+        "url": "https://github.com/justinmk/tree-sitter-ini",
+        "rev": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
+        "date": "2025-03-11T05:49:16-07:00",
+        "path": "/nix/store/xmd7nva6jlagy6ajlznqcggkzq9bb19l-tree-sitter-ini-32b3186",
+        "sha256": "0sp9075fllimy6zrw2gx5mij0igl9zvcrakh23wn7m5wh0w9lq4i",
+        "hash": "sha256-kWCaOIC81GP5EHCqzPZP9EUgYy39CZ6/8TVS6soB6Wo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20036,14 +20347,14 @@
     {
       "id": "tql_tql",
       "name": "tql",
-      "version": "a942c7244a01c0e32b8b0c690f9b9327169695e9",
+      "version": "010356ee9db16a265910b77b248f0cacb9fdf21e",
       "src": {
         "url": "https://github.com/tenzir/tree-sitter-tql",
-        "rev": "a942c7244a01c0e32b8b0c690f9b9327169695e9",
-        "date": "2025-09-21T21:08:01+02:00",
-        "path": "/nix/store/dlk7ica8099fryggkrz2jpbsh9lyvsnr-tree-sitter-tql-a942c72",
-        "sha256": "02f42h6zpz2q9fckylmgxns0444rfhjhdm50dslzszwmbwv8ifv5",
-        "hash": "sha256-ZbuINl+Vf/2pbqDUBiV0mRACtO2vUj+ZS1j8+w0UxAk=",
+        "rev": "010356ee9db16a265910b77b248f0cacb9fdf21e",
+        "date": "2025-09-22T11:21:15+02:00",
+        "path": "/nix/store/fgkbiprsm3lypqaf373386fg46417jp6-tree-sitter-tql-010356e",
+        "sha256": "16qas7za5kxifjgrd98h62mac49cmlw02zz41873d9plx499x1yg",
+        "hash": "sha256-z4eeEun0pjYOCuR/ATitLBGmqjAQpZafdLHPov7RCps=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20252,14 +20563,14 @@
     {
       "id": "vcard_vcard",
       "name": "vcard",
-      "version": "eff051d170d379de728119429046cf50453dc75c",
+      "version": "f8016385059fd3b2a5668ef92131293932d8907b",
       "src": {
         "url": "https://github.com/TitouanReal/tree-sitter-vcard",
-        "rev": "eff051d170d379de728119429046cf50453dc75c",
-        "date": "2025-02-11T12:00:52+01:00",
-        "path": "/nix/store/2a18g847dd9m6m3y9chh3kzxaa1kr9d6-tree-sitter-vcard-eff051d",
-        "sha256": "0jlkndj9929r8jbnsc90sch0ym99gsklslsaw8czvjfjfcm1vwa7",
-        "hash": "sha256-R/EdKnPSyf0Z4kpTTad+KVUPINMgMW2XRDmJlGSzk0o=",
+        "rev": "f8016385059fd3b2a5668ef92131293932d8907b",
+        "date": "2025-09-21T16:17:37+02:00",
+        "path": "/nix/store/9yi055pjmvkj7hp68i0kmvzmhrglrxfb-tree-sitter-vcard-f801638",
+        "sha256": "0h580hq2q9nxizcm7msmbhcrzjzpyfjlrq7brpspxhzhg87f5nkv",
+        "hash": "sha256-e9riDnrww371zevgTKXz98ufGVxV11PZj90mLDAEqEA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
