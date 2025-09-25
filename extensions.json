@@ -9766,14 +9766,14 @@
     },
     {
       "name": "oxc",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "src": {
         "url": "https://github.com/oxc-project/zed-oxc",
-        "rev": "a444895995041fb5610af7da89552fee8fd809aa",
-        "date": "2025-09-13T21:47:02+08:00",
-        "path": "/nix/store/2wxzfd6laf4srsxd5qrg1zxl5jfj4h5b-zed-oxc-a444895",
-        "sha256": "01g7gck619hjg6x94y7lr682sb7v4q7571vb3j2zhz3x6z43nmck",
-        "hash": "sha256-k1U7yDd9fPiFHGuHUw4m+ywtkMn0eJK6eRKmYCZ75wU=",
+        "rev": "5d031d2000355c1767b595372f43461d2e20570b",
+        "date": "2025-09-24T08:08:37+08:00",
+        "path": "/nix/store/awv3slyicljy7l3mvvn6qpymb8n5bg0j-zed-oxc-5d031d2",
+        "sha256": "193wvrnngw614kg5p57k0f144fhjca0s7fhymm5ln8ndg443jmnv",
+        "hash": "sha256-21Y5CHnNIktLrR66o4FiEjpCggPzlFveJMHwZ23efKQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9783,7 +9783,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-tUib+i0TZb96XNBJDgo2drRwXl60Li6GdCoB0+5QD9E="
+      "cargoHash": "sha256-LlRoQSyuIxwpntMwkTdqtg4XVy+1aK6Ha5K695Be0P8="
     },
     {
       "name": "oxlint",
@@ -11491,14 +11491,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.13.2",
+      "version": "0.13.3",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "fe829bb41acb5bf9f4ee14aa0c002b7b8147740d",
-        "date": "2025-09-11T17:00:07+02:00",
-        "path": "/nix/store/vjs117qqzq2ld6x063win9jq2k0s3xv7-ruby-fe829bb",
-        "sha256": "03yq8r17kh45c0flkd5nmhkw0q7b2r4c5fy8rl1511x8k403m3qr",
-        "hash": "sha256-GY86AJmoh1ACzci7wkgW62DAJ6y2tEkdYIXAeUJG2A8=",
+        "rev": "23b752799d213b75f2d340a22f96e059b478e98c",
+        "date": "2025-09-24T17:23:35+02:00",
+        "path": "/nix/store/sxw94brhv9wdpq2rnv1h1j9a207igkxi-ruby-23b7527",
+        "sha256": "1106ris6iy67w08plggflcn00ki56m8jzssv5dwsjgf5d840yvj9",
+        "hash": "sha256-SW4PCGrFPal5K1vrL1E1JU4ALKPuPXoR4Mf4aHTMBoQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11512,7 +11512,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-nFwfBJ1PGi0rHO29Um+LCPl4SO7fux4PVTKGRxCclXU="
+      "cargoHash": "sha256-Icpi4Gp9PhdigZ7hZFrSV2fEBdFTXEfC5iXChdLQEDE="
     },
     {
       "name": "ruff",
@@ -11810,6 +11810,27 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "serena-context-server",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/delano/zed-mcp-server-serena",
+        "rev": "adb86ea46cc5e0855909976a0a1dbfc48518ce9b",
+        "date": "2025-09-02T18:58:15-07:00",
+        "path": "/nix/store/1b4cd9jdsai1jk5czaiyad4v6vh3mi79-zed-mcp-server-serena-adb86ea",
+        "sha256": "0iak366mvcn42lx2c6imf768vh3f9jz91071jhamysccn0wxgc6k",
+        "hash": "sha256-07DXObCMaV8VlOGAkL5MbsCNzHE1GiY6FcSyXY0ZU0U=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-uCCmzPY0yU3i5pNFlhVYD+za4HhNJo36FhcNGvRDM8A="
     },
     {
       "name": "serendipity",
