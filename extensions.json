@@ -377,14 +377,14 @@
     },
     {
       "name": "ansible",
-      "version": "0.1.2",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/kartikvashistha/zed-ansible",
-        "rev": "0d050dfe0d8b66f17c9e343f5df37c1bd2c789e9",
-        "date": "2025-05-21T12:32:15+01:00",
-        "path": "/nix/store/39gb4mb5w0bygcpvr7s49c3cdbaxxs7h-zed-ansible-0d050df",
-        "sha256": "1q6cxyzqgfbd29s9q0sv5lz5h2g87xxi6qiacsrj7wmms7w8yb5z",
-        "hash": "sha256-vyyP+NG18iOzZipiE3s/6AlYPi1bA5x0Em25h7/vzOA=",
+        "rev": "f0cd7047ea8eb1316a2ee563a2e664e59375a8a1",
+        "date": "2025-09-28T11:09:39+01:00",
+        "path": "/nix/store/571nj6aaal8xx5ix6q1wsx8xbblysa20-zed-ansible-f0cd704",
+        "sha256": "1g8h7srj1gyn3bb245k0zvj8sgpb8x71lvj0h9wrz5xkdc5f82g5",
+        "hash": "sha256-5QnkCmuzl595gkBuGk5H6z6N5P5gFiLWGta/ILM+EL0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -396,7 +396,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-KSXJaKcSg9Q/ppAC8I5YILcgxXdGWHznrFX+ZtzDnEU="
+      "cargoHash": "sha256-Z3Jimm6ZQC9wR/BNMpxbJiQwgqre95NBQOdBIQOQ+Hc="
     },
     {
       "name": "anthracite-theme",
@@ -3419,14 +3419,14 @@
     },
     {
       "name": "eiffel-theme",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/demiurg/zed-theme-eiffel",
-        "rev": "f17cad4db4a8f699c80e7d8317a1d42401622170",
-        "date": "2025-04-27T20:25:21-04:00",
-        "path": "/nix/store/0bjv6vcjn2s384cfzcs47fmdrw484ddl-zed-theme-eiffel-f17cad4",
-        "sha256": "16gjgnxilvb8wg9vc4fwh5pyx7fipnj13p458bgbbcrp6v667i1r",
-        "hash": "sha256-OcRjzDY3s7XeQoXcEaS90Z3ub4HcEbbT42htGrt98pk=",
+        "rev": "b6cfc1df1f0ea4a2006de0cab74faff83c868b9d",
+        "date": "2025-09-28T18:33:49-04:00",
+        "path": "/nix/store/9qxr4sldg85mbijj6fx90zx0dbjkdhbm-zed-theme-eiffel-b6cfc1d",
+        "sha256": "05q4icnkzfdji7zpxrffqlmimhqblv4cn13cfsa3jc05kprf30ss",
+        "hash": "sha256-WoPh8p0FMDmUdmwEy8imC8MaK8XO5X7/ibK5Py2LBBc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7180,14 +7180,14 @@
     },
     {
       "name": "markdownlint",
-      "version": "0.1.2",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/vitallium/zed-markdownlint",
-        "rev": "21d5eda8b202ea7859882d2b2e58d96014a972ac",
-        "date": "2025-07-11T18:23:16+02:00",
-        "path": "/nix/store/qsrz22gyq4hj7syxib5nvnbrhcy0iyc9-zed-markdownlint-21d5eda",
-        "sha256": "1xavbwxz41fssmh15rmlxj6cznl2w6s9vfqa4s0i6nhn6l5xf3lj",
-        "hash": "sha256-kg7XCzUWWhOBJgq7nbThgtrPjOy05hJg1doF8jtfW/U=",
+        "rev": "2fae265edc14f2ecc3c78a535d9dcbd7e7cbdadd",
+        "date": "2025-09-29T18:04:24+02:00",
+        "path": "/nix/store/chyg7f9s62p85n6sn95b7mww50cpbkdp-zed-markdownlint-2fae265",
+        "sha256": "0i9k8k8vm98vqzi6fn28my3j3w1lcpwvij5vaabn4qn254wvg94n",
+        "hash": "sha256-lqS3OSnCYmKXUrvIuPllNPAhh69IWGfixxulutFEM0U=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7197,7 +7197,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-6qcf8pzKGWM1Dx6PsrDkpEZWcJhuZXTb1jOoe+M56bY=",
+      "cargoHash": "sha256-Nrk+0kPz3+HbCd0QrnMOdP2rHFXRCeuiSO6C2UMKaME=",
       "cargoLock": {
         "lockFile": "/generated/markdownlint.lock",
         "outputHashes": {}
@@ -7205,14 +7205,14 @@
     },
     {
       "name": "marksman",
-      "version": "0.0.6",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/vitallium/zed-marksman",
-        "rev": "1c31c05c9de9daec8ca2f7db91819eed7d57f290",
-        "date": "2025-08-20T12:31:49+02:00",
-        "path": "/nix/store/lcwbfg7pfyzg7n6yra582i98hwl44ph3-zed-marksman-1c31c05",
-        "sha256": "189agi1k1fy1k8dfyaz75xmdkjdhma7di42mipvn2wr4ic3f5wdc",
-        "hash": "sha256-rPHiBoskc2H3jVWQ2I6qsMnZai/nK+8amsG7MEN8KqE=",
+        "rev": "ab88f6a1d1a6570bf83479e6a799754c065342da",
+        "date": "2025-09-29T18:03:42+02:00",
+        "path": "/nix/store/lp2knqy5zbi86kdk9q209rmygzvwy8fn-zed-marksman-ab88f6a",
+        "sha256": "1a589h2gbmzkv844g5p4l0p2sgs22ggirkzqskqd793j735fh3qy",
+        "hash": "sha256-Hg/oyjhypNPw1PjPHN8TQj8tLqDklkcI2vPX9QRMqKg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7222,7 +7222,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-mCSYWJmJo0ey0A1+/hu2dJIn9qL6Z4vDe0PAD5J664k="
+      "cargoHash": "sha256-nioVdjzhKwLELLNGX4abZO3q2fcxpby+X0rpWnGaTM4="
     },
     {
       "name": "martianized",
@@ -10578,14 +10578,14 @@
     },
     {
       "name": "prisma",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/zed-extensions/prisma",
-        "rev": "994680b32df05b0b63c38550c378a40c7d699f7c",
-        "date": "2025-09-26T16:17:35-07:00",
-        "path": "/nix/store/jvm11sfar0zg03ddw7r95ginkxqyn2zq-prisma-994680b",
-        "sha256": "0kjx8vy9zvxq9wm8gbz854161zfzp5g8vjik5d103q86h5z8fhhi",
-        "hash": "sha256-EUKHfoEG4QFCKzPKjV653/1gAinor4cqT7jvn/xGXU4=",
+        "rev": "fba905b82c2fb25788a1c7dd87b90e17c4d30570",
+        "date": "2025-09-29T12:45:35+02:00",
+        "path": "/nix/store/94kpmb57apdz1bjs20rpr18x86jq8nl8-prisma-fba905b",
+        "sha256": "1910nz70whvgpiyqrb98y3an6jzipgi9xp1c97pvzxasma9l0ris",
+        "hash": "sha256-OmZAk6pa9b/vSSzcnuK78Utj1fAorYx9vG9DDs63IKQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10597,7 +10597,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-2M5HDvy2+m/LwKhZZNZ/vrKwiFZZp/+iUoxOsB7YdPU="
+      "cargoHash": "sha256-UeVcpyZ/NUi+e3BGUguNDAaMMlRM1vC/KeLnxLuGVyo="
     },
     {
       "name": "prisma-mcp",
@@ -10992,14 +10992,14 @@
     },
     {
       "name": "quadlet",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/mufeedali/zed-quadlet",
-        "rev": "ba4726a5732776202609619a1c203adfb2aac1e9",
-        "date": "2025-08-23T16:20:15+05:30",
-        "path": "/nix/store/px62y09v96md984pxij183dnzwl0yx5s-zed-quadlet-ba4726a",
-        "sha256": "0r9wnmmgxwvzp3j8sibpqha0g2d0bxn5azdv16dx2qqhrrhjyzdb",
-        "hash": "sha256-q30vYc4QY9GbCbt9VWxfoIkHFMR3RY3kuH/z/mq1PGU=",
+        "rev": "b11411e10530d3db16ab983ce36549d1143f252a",
+        "date": "2025-09-28T02:52:48+05:30",
+        "path": "/nix/store/80klpq5i3akwg5lqfbxy0rnjcdjjn3b3-zed-quadlet-b11411e",
+        "sha256": "1plnr0gmhd7w4q2qv13ql5h0ysnqql3jfxm7qlhl6j0xwfwsrhg4",
+        "hash": "sha256-5MGsueMdSEMhxad2JwfF2GoPYKF4hI0FJvw0WB/Ilt4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11011,7 +11011,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-G4HfgTS5uG8A6Psj/pL0R6HEUBceflGkxWqsuPPlZsU="
+      "cargoHash": "sha256-ZqNEiBXGeiQ8izhFbsRJzGmlfZ5zq1zC7wpbHTLX41Q="
     },
     {
       "name": "quakec",
@@ -11837,14 +11837,14 @@
     },
     {
       "name": "scss",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-scss",
-        "rev": "8d57c4a58b924f65ab05b6ee60c3435ea5e7954c",
-        "date": "2025-06-29T10:41:52+05:30",
-        "path": "/nix/store/i2wzcqk3mgnn836021cq1w9fvikh240s-zed-scss-8d57c4a",
-        "sha256": "13093ys86w8c703sgcqynrsm73jznxp1g8vcgqsvmw8bxdi2klnc",
-        "hash": "sha256-zNIpYusL8bo1fmyjF263X45TdbYes6cHOAxxg7QfCYw=",
+        "rev": "c3efa30bcc70aa086b2bf6b73d778931be985dc7",
+        "date": "2025-09-29T13:54:04+05:30",
+        "path": "/nix/store/rfarz1dfz3ags9dmbzss669hzcyxizlf-zed-scss-c3efa30",
+        "sha256": "19jmml9h92y4ch3lmgvf22i2dmgj3yb67drvj21b47y2p1xp4m8g",
+        "hash": "sha256-D1Vye7jCH7KCkDu3Y5Yf8tUmohBuv0oHZMSLBBOtVaY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11856,7 +11856,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-9BAkaPC0YbPSBjYGvN8epQlf23qL7hekXRvWKjwvnTM="
+      "cargoHash": "sha256-eN/DpaivJf1aeuwQWkKOWDFQ25vADgO+6Ktr4mkq/cg="
     },
     {
       "name": "seoul256",
@@ -13545,14 +13545,14 @@
     },
     {
       "name": "tokyo-night",
-      "version": "0.5.0",
+      "version": "0.6.0",
       "src": {
         "url": "https://github.com/ssaunderss/zed-tokyo-night",
-        "rev": "7d22acbd37a2c1503922eb95e58a37cedd244925",
-        "date": "2025-02-08T08:31:09-06:00",
-        "path": "/nix/store/ggcq3wan5x21l015kprhm5yihm907f3s-zed-tokyo-night-7d22acb",
-        "sha256": "093q6f9w7mz85vc0qihyy5lcjk2ayaj03ss758rjf7i0g7xhdcwy",
-        "hash": "sha256-nrMG+3kgHiczKkfrAaTySkzJaPEeRgzYLujXw5MzeCQ=",
+        "rev": "e513034e4a34434214d78593f4aa9d32e8e26c9d",
+        "date": "2025-09-27T08:01:24-05:00",
+        "path": "/nix/store/k095gg0dghgpk08hrk6zh9n5fn8gma9b-zed-tokyo-night-e513034",
+        "sha256": "0mxwn0m7ff6xdb8dshwsxxgrvwdjimwai0rl48vwyz36miwwp8dx",
+        "hash": "sha256-vaHLeaxmfM83IjSDqHiNsvGdX++aQ93Qat04dyqwvFc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14162,14 +14162,14 @@
     },
     {
       "name": "unocss",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-unocss",
-        "rev": "54da40abf0ea797c5f3f0bb699e1c53532f9ff2d",
-        "date": "2025-05-03T07:33:31+05:30",
-        "path": "/nix/store/1xbkiaqrw0dy1ji3x6ri76bar8qj4qly-zed-unocss-54da40a",
-        "sha256": "1mxcz0z9lvxkch9g5iy1z9fhdni38wk0bmarnf20n1a1ys4x5zxf",
-        "hash": "sha256-rv/SifZBBQuEs1nVBSZHI9oGXfrBx/ISZLNvmj74rNc=",
+        "rev": "5d487ceef3fc6097c5787843d4e1569f84df1587",
+        "date": "2025-09-27T15:57:35+05:30",
+        "path": "/nix/store/73z5yrg3p0fwgi419wga927dlgzjykda-zed-unocss-5d487ce",
+        "sha256": "1vwnqvjsvsibc74rqslrpfab1xvrnyc9gjql1ysb9kipk4hd6mmd",
+        "hash": "sha256-rVbTIJk3zrS0DxTLl5i3efewlLuZapzJYSvqreXGlu8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14179,7 +14179,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-9jGbrBFUjaaFrv6fXBIgx2kSfGNYxiEve77fXWzsK9I="
+      "cargoHash": "sha256-dYGy6odrcYURiN8jvoYfoMB499SjH4YM0h3zcuqIL+8="
     },
     {
       "name": "unoflat",
@@ -14797,14 +14797,14 @@
     },
     {
       "name": "vynora",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/QuarkPixel/Vynora",
-        "rev": "b51fe0e16af7ad60b34513a106e9d0ed5fda7f03",
-        "date": "2025-09-26T10:39:28+08:00",
-        "path": "/nix/store/qyich4vr7khkaf51f9jralxnckh7nbgz-Vynora-b51fe0e",
-        "sha256": "0j03n3ayyprpg5vls4y27yi1nwl5qkw99an7cdlbifal2l0vkclb",
-        "hash": "sha256-i7K5ARVUubhoY8eqlPjEhXIboj/CE013eTdf79WwA0g=",
+        "rev": "fbbfe5e6330dc01f4e7555ea055ceee46a1a4742",
+        "date": "2025-09-27T14:00:39+08:00",
+        "path": "/nix/store/jjy16i9981hlhxfx01c7vq5x16f79gnz-Vynora-fbbfe5e",
+        "sha256": "19i1cm6f5923f27pf0p8kk3adj0vq9h5zvps6jinzx0j2w7ildsg",
+        "hash": "sha256-TzcaDxcS9G+jNPruX2DCG8imxpzoAnePcEOk4kxlIaY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
