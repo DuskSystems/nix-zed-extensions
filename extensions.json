@@ -2533,14 +2533,14 @@
     },
     {
       "name": "cspell",
-      "version": "0.0.3",
+      "version": "0.0.5",
       "src": {
         "url": "https://github.com/mantou132/zed-cspell",
-        "rev": "27337428d2d0169b0b6a8a66326f891487492690",
-        "date": "2025-05-17T00:44:13+08:00",
-        "path": "/nix/store/45167zwdnmnwm41lz8zflh83py9p7n7g-zed-cspell-2733742",
-        "sha256": "1bv45gahmxpqm7873zbiggwirzbw5p5v14f2g118pjzlc9qf439k",
-        "hash": "sha256-Mw3icGL0y4tCeMKRsMstfP0c+Xtx/XHQqfj2CtUrZK8=",
+        "rev": "7665eb4c100382c427de97b765b19f90f826e97d",
+        "date": "2025-10-01T11:52:06+08:00",
+        "path": "/nix/store/0lqwb8vhbhznyhw5726jmm6iznmfa2d5-zed-cspell-7665eb4",
+        "sha256": "1xiy5jchyk5i7gghx4aqmyfy72m90r8h6qy9jgz5wzgvvnjlik9h",
+        "hash": "sha256-MM1Ipd37fV7+k8ljA1EGqYrjna9YkQ7fO7FMD5ksPvY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2550,7 +2550,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-1ERoMmx3dRlOtInre0EitaR8QGnT6FyG+5+lndIKWkI=",
+      "cargoHash": "sha256-ZqX9jBKcFHzYAQQXyVEDZqFJxgHIeDbjJp9uF2d1rBM=",
       "cargoLock": {
         "lockFile": "/generated/cspell.lock",
         "outputHashes": {}
@@ -12141,6 +12141,25 @@
       "kind": "plain"
     },
     {
+      "name": "sitruuna",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/menduz/sitruuna-zed",
+        "rev": "23786ccabc7f0602d4b7fc68827e803a28707fea",
+        "date": "2025-09-30T19:09:26-03:00",
+        "path": "/nix/store/qkdda95s6fnba97hskfg4d6c7fgp9cvf-sitruuna-zed-23786cc",
+        "sha256": "0lygf2qlhw13pg1kzzdkg10p0y3rbw6fpkpj8fi3vgwl4k4wqqpj",
+        "hash": "sha256-8mLMySSUvz2iQ/LO6wxfeXhwQXiz/T/DuyNwSLFwz1M=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "slang",
       "version": "0.0.1",
       "src": {
@@ -15392,14 +15411,14 @@
     },
     {
       "name": "zen",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/kennyheard/zed-theme-zen",
-        "rev": "97b66079a5d64c92ea895f2f86af545860e08026",
-        "date": "2025-09-26T21:53:54+01:00",
-        "path": "/nix/store/pbvzw9blr4qlkscxfircjsssgrkm5pbw-zed-theme-zen-97b6607",
-        "sha256": "1whx7yiwfj8vxx7n8w4kcr68i1lhfg7v61513anbgffhi36j1xh3",
-        "hash": "sha256-A/YgzYjQubesGqEEs89zkIaITGaTcGRP7xtJx6M/HfI=",
+        "rev": "68e0916fda25d0cf80f04bdd77d8abb7d40a74fe",
+        "date": "2025-10-01T10:36:05+01:00",
+        "path": "/nix/store/s7363s38z0ddxbalivpm7nmqgbsb1zzf-zed-theme-zen-68e0916",
+        "sha256": "09yxwwz3vqifyf9lxxn2h0bdyq6sk412h7r8ry6ssfbdaylssjwc",
+        "hash": "sha256-jEutqVdtOa2NzygfKAKZ2mDfFoDC9k6T8y7iPT7n3Sc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
