@@ -1204,14 +1204,14 @@
     },
     {
       "name": "blade",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "src": {
         "url": "https://github.com/bajrangCoder/zed-laravel-blade",
-        "rev": "e2966b782624b53980c31330777a0b475c81b0e2",
-        "date": "2025-09-12T18:30:15+05:30",
-        "path": "/nix/store/kxr4n4zxnp5zp8kil7kdk395jmzl20qp-zed-laravel-blade-e2966b7",
-        "sha256": "1j60khljnyp1dlqgzp3p0miw0s0k5vfgqvk2g1xadbgcviv7ywsl",
-        "hash": "sha256-VHN/dtzsraZ6eGJu/NwuE2jAYwV33P8wbeF6KymcwMg=",
+        "rev": "b06efd015ac2b66fa158e4937b49f48eccbb6701",
+        "date": "2025-10-02T20:57:22+05:30",
+        "path": "/nix/store/vapnfnn4m37vbzpg0wmb2ry9d1fgqpzn-zed-laravel-blade-b06efd0",
+        "sha256": "1sir5vfl0jamf40sggk8m50pg1j5g766m1jslc666rzvi9ibbkkd",
+        "hash": "sha256-bc61Yor7Z2MMo1qGasx5RYZ3QalovqcBcVVJQN0uOeo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1224,7 +1224,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-mRQ1VVGbAPZTdGKUG0HExv1GuN9qtS0YArWlhKLV6pU="
+      "cargoHash": "sha256-MPKPs9SG1P+zBHa4GmqUVhKWSHjuNCGmAyaA4Fzyeys="
     },
     {
       "name": "blade-runner-2049",
@@ -5188,14 +5188,14 @@
     },
     {
       "name": "haml",
-      "version": "0.1.1",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/davidcornu/zed-haml",
-        "rev": "d07ee843e170a207da988e6b42e5e0a2fa7b9819",
-        "date": "2025-06-03T16:16:57-04:00",
-        "path": "/nix/store/3ls3cv02rf7bacc11q5lygv63a9pbls2-zed-haml-d07ee84",
-        "sha256": "0x60qp4c4brlisl6bygp14hx9knhy2insb16xg3jm7wxk9mr91ra",
-        "hash": "sha256-KoeUa5qdnyrH6yYsbaPw0M7UIQn3+WWojjQvwsjFwHQ=",
+        "rev": "7dfe9169b24846edf4923bec96e088fbbe14f7c5",
+        "date": "2025-10-02T10:56:56-04:00",
+        "path": "/nix/store/rpvk9b4l6563i4zwwimv280d701kbhkf-zed-haml-7dfe916",
+        "sha256": "1gnxjbg6jwgzlr0qd3abzlhgsivckj26fxryvp2v2jg599cagfqr",
+        "hash": "sha256-GbunWErlSbHF3T53Z4ScbEf9IP1LjYZBpv9xad6S3b4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6033,14 +6033,14 @@
     },
     {
       "name": "jetbrains-new-ui-icons",
-      "version": "2.1.0",
+      "version": "2.2.1",
       "src": {
         "url": "https://github.com/ankddev/zed-jetbrains-newui-icons",
-        "rev": "dca96eb290923e8860e0c728dc054d211a2cf4d8",
-        "date": "2025-03-06T07:17:12+03:00",
-        "path": "/nix/store/01bzilviyqchji9d4rggd6wnihmmb5va-zed-jetbrains-newui-icons-dca96eb",
-        "sha256": "180y6pn3nbq54s99hfn7rijh9j25s8drrkqan1qf1qbra6cfval1",
-        "hash": "sha256-gartmFF54eBwsArPnBvSRcgEZczHOpiSJgUvO+w1HqA=",
+        "rev": "9dd485d8bc7532a4d85491d9d6011f4258ee5da8",
+        "date": "2025-10-02T18:11:45+03:00",
+        "path": "/nix/store/ih7p0nc8gma0wr78rayip581ywn0d2ir-zed-jetbrains-newui-icons-9dd485d",
+        "sha256": "0qk7bl0hqmxdq9f0k7i39h5kma2cyzv793vc2f5ii6cjqva1mf7s",
+        "hash": "sha256-+rga1MaSmRiLE2yPdPb3TKg6C0wjnglcwq1XDAFdZ2I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6978,14 +6978,14 @@
     },
     {
       "name": "luau",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "src": {
         "url": "https://github.com/4teapo/zed-luau",
-        "rev": "fa527e3aeb83624c0a5033b13b1ac935a9d31f16",
-        "date": "2025-08-02T17:42:34+02:00",
-        "path": "/nix/store/3vl8jf4b2mjh7k9v80ycll6swd8r0b2z-zed-luau-fa527e3",
-        "sha256": "08am9kgy4h8ipgxywj0jr5mlkdjhwqs60c4jm1bgp6cf8bfscvv7",
-        "hash": "sha256-Z2+m3UKOmftWqJIwYDTmULZJa8kSSO77uxFB4t9MVSE=",
+        "rev": "f66566642823f91c97b562c24cda71b726d3b18d",
+        "date": "2025-10-01T19:48:05+02:00",
+        "path": "/nix/store/8wqs64vghnmbbg4pq04wv73pxwpqf24d-zed-luau-f665666",
+        "sha256": "149r2z785cc4id946ln0pbm8vf4jkdic58zkwih1x7sb2hn4f5pm",
+        "hash": "sha256-9RZHLBRLnx5g5POjwmKbkriN6rrAUkNSi4Sxgs4XOZE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6997,7 +6997,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-qoerumhsA51Aw7AEh4cDIn/uYtblG+U2w1ZdDRHcN1I=",
+      "cargoHash": "sha256-In6D4fXh5FEQ7iezeZzTT+o2U1Mhp3x1qrmRG6tPJf8=",
       "cargoLock": {
         "lockFile": "/generated/luau.lock",
         "outputHashes": {}
@@ -7579,14 +7579,14 @@
     },
     {
       "name": "mcp-server-firecrawl",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/akbxr/firecrawl-mcp-zed",
-        "rev": "9eaeb1f344b8668f611ed1b4613d7199ae84644d",
-        "date": "2025-05-23T11:25:14+07:00",
-        "path": "/nix/store/v37a3fyj4mmw3c33qjf712g5c7zyy907-firecrawl-mcp-zed-9eaeb1f",
-        "sha256": "1jvwsw49xlfk78iyb6wv9nw1ra4rq9xdznha6sfvf4lvpiamad7a",
-        "hash": "sha256-6jRVVbybEredNgra33rCmagcuE2bm+UjOtPRngjXfMs=",
+        "rev": "2a03b7bbc93e151be6f35ff05235ec2adc6a1030",
+        "date": "2025-10-01T07:00:35+07:00",
+        "path": "/nix/store/gsqqdg6hwh9lysfhcrbnffdw4p7ws8hz-firecrawl-mcp-zed-2a03b7b",
+        "sha256": "090r23dqfcxbzh2j7nhiffbhqy8817fkp0kyffg1bzvvg83kic3j",
+        "hash": "sha256-crA4B3p7/xWec36CO90JCHkMl3MR2iMF/Kszh9sQGSQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7596,7 +7596,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-a1TgqgME+L86kT4VAce51vwRpQ9Oyur9izVp6wfKqcM="
+      "cargoHash": "sha256-BUpFcDCVghfplrU698301YNXAgRPywTtnwR6wZRA57c="
     },
     {
       "name": "mcp-server-github",
@@ -7814,14 +7814,14 @@
     },
     {
       "name": "mcp-server-sequential-thinking",
-      "version": "0.0.3",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-sequential-thinking",
-        "rev": "7a06ad75adf58a34fc5c8e3825b76c1ef6072647",
-        "date": "2025-09-29T15:38:25-07:00",
-        "path": "/nix/store/aj5l806jfg6fr8clkzc8986qc0z76hh3-zed-mcp-server-sequential-thinking-7a06ad7",
-        "sha256": "0fd6hvl8gjwmhsvkszhb0sjp11yfavja3qs7z08pr97bqv72yc5y",
-        "hash": "sha256-vjAvzsbrpHwR+EfjoeRWzodwpQYLfj23hpXLh+iGpjk=",
+        "rev": "140f2251f388536a9359d72a361ee5c8c45b5e68",
+        "date": "2025-10-02T11:07:39-07:00",
+        "path": "/nix/store/ni0zm4w4qs8q01g8h4h0crrb573hx67r-zed-mcp-server-sequential-thinking-140f225",
+        "sha256": "1z0n6xm33zkmks10bz5a5r2p6c7d3nbjf0ww5awsbyn2mi6an9sn",
+        "hash": "sha256-VierTKzC+qW5KpwDJ5cd7TBzRS6q/AWCnnX+MWo3Fvw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7831,7 +7831,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-sSvjSM/17+7eP7/kl1NuK1Rmw9RSkLN1CW3Tttw7Y5A="
+      "cargoHash": "sha256-RnmszuHupIWlQrA5aWqyv5Y04c6CRT2jtQN/kVhMN98="
     },
     {
       "name": "mcp-server-shopify-dev",
@@ -7986,14 +7986,14 @@
     },
     {
       "name": "mcp-server-webflow",
-      "version": "0.0.2",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/LoamStudios/zed-mcp-server-webflow",
-        "rev": "037bcf82f63bcc52340b191159c021a482435e47",
-        "date": "2025-05-07T06:23:45-07:00",
-        "path": "/nix/store/vjwjl7wi60yzf5jjgxcmq78g5jhgjpja-zed-mcp-server-webflow-037bcf8",
-        "sha256": "1s2ny5xa56k4rjkfm1pyv32v2pjqnhy9prmcgmpi5mkls76kq2d6",
-        "hash": "sha256-pgk8zdF01hJvfazmmzy0WF6xxdj+huqmzGSaonrxVug=",
+        "rev": "b2beffd754951cac09ca9befa8d68c5e8b1ab4d2",
+        "date": "2025-10-02T10:51:38-07:00",
+        "path": "/nix/store/raq69a213x0g51lwfnfc9lgh2gh85386-zed-mcp-server-webflow-b2beffd",
+        "sha256": "1k1lvxx0z4k4kfra6j25swfkszqibwaj4r3rlsdxwg68y0a4i6g3",
+        "hash": "sha256-45lIFPDIPN6bpnlkIhVfEX89HddFSKOym2SSD3rfNMw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10620,14 +10620,14 @@
     },
     {
       "name": "prisma-mcp",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/aqrln/prisma-mcp-zed",
-        "rev": "02cabc508966b018fead033735b156e19c011d7b",
-        "date": "2025-04-09T13:35:02+02:00",
-        "path": "/nix/store/bh483zxl2irrbnkkf9g33n3856rq4x0k-prisma-mcp-zed-02cabc5",
-        "sha256": "01alvxn96rghmf1pqvj1xgai3sn4v4n48nambvjc31prz67jldqk",
-        "hash": "sha256-Ezcqj/n5hsHkXlVZRCzZxOoR1etBbnyDq/Blk2zfVAU=",
+        "rev": "d91bdbabe5526287de6db7ab40373945978c37a2",
+        "date": "2025-10-02T10:37:02+02:00",
+        "path": "/nix/store/qxz0pskhc1m7fiyh9l00zgqqn9za5ri6-prisma-mcp-zed-d91bdba",
+        "sha256": "1x6mzw7fgjjwx64920hm3l8hfvbw49dq0n88aad0vz2m6b1q3ag3",
+        "hash": "sha256-46mBwzJV/A2aUghZgFsifG0HER0VApGI6VzK5w7/1fQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10637,7 +10637,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-9S3jSF+pON1QTmiTbGZ1j9DzvzmUR5dGr0oSLI9jjOk="
+      "cargoHash": "sha256-djdUuUoQdkJ2CitKffgwgPixmbzcVplMCEt5S06NYvA="
     },
     {
       "name": "probe-rs",
@@ -13958,6 +13958,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-Fu5akyoZoRf+JfmiI9vkL9l04VvullOmncGM8cj3hTw="
+    },
+    {
+      "name": "typescript-snippets",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/seekode/zed-ts-snippets",
+        "rev": "a3dec89782fc937beb8e9cf6ac22f4623cb47844",
+        "date": "2025-10-01T16:36:53+02:00",
+        "path": "/nix/store/r5y7p84g78734wywy09w4876g4ym4kxp-zed-ts-snippets-a3dec89",
+        "sha256": "0hcvpkp8f4l3q8gg3nrnw7pb383wna8gfpa0ybh23l1rhgxbqlgc",
+        "hash": "sha256-7FG8+oM50CHg8kBd95CyfKCx7uE22/EewoMSh+68m0E=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "typespec",
