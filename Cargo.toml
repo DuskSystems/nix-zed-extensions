@@ -63,7 +63,7 @@ tokio-stream = { version = "0.1", default-features = false }
 cargo-lock = "10.1"
 
 # WASM
-wasmparser = { version = "0.236", default-features = false, features = [
+wasmparser = { version = "0.239", default-features = false, features = [
   "component-model",
 ] }
 

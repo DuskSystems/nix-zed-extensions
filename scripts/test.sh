@@ -43,16 +43,16 @@ test -f result/share/zed/extensions/aura-theme/extension.toml
 test -d result/share/zed/extensions/aura-theme/themes
 
 # Monorepo Rust
-nix build .#zed-extensions.toml \
+nix build .#zed-extensions.html \
   --quiet \
   --inputs-from . \
   --override-input nixpkgs $NIXPKGS
 
-tree result/share/zed/extensions/toml
-test -f result/share/zed/extensions/toml/extension.toml
-test -f result/share/zed/extensions/toml/extension.wasm
-test -d result/share/zed/extensions/toml/grammars
-test -d result/share/zed/extensions/toml/languages
+tree result/share/zed/extensions/html
+test -f result/share/zed/extensions/html/extension.toml
+test -f result/share/zed/extensions/html/extension.wasm
+test -d result/share/zed/extensions/html/grammars
+test -d result/share/zed/extensions/html/languages
 
 # Workspace Rust
 nix build .#zed-extensions.deputy \
