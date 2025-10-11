@@ -437,6 +437,27 @@
       "kind": "plain"
     },
     {
+      "name": "apache-avro",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/victorhqc/zed-apache-avro",
+        "rev": "ebf0b6b1dd15746239673e12be0d71c5683aa69a",
+        "date": "2025-10-05T21:49:48+02:00",
+        "path": "/nix/store/h33x47kwahh7y6r10v5w6ffqrxvk4j0g-zed-apache-avro-ebf0b6b",
+        "sha256": "0kh83hl9zyvcwycgbdfbvzqskw54i8ihb59crjni2kb5lp7rbcrk",
+        "hash": "sha256-M7OVz6VlTRGtzCyVBSOKpPCp8d/LtfWY52z7nygcCE4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "apache-avro_apache_avro"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "apisartisan",
       "version": "0.0.1",
       "src": {
@@ -684,14 +705,14 @@
     },
     {
       "name": "autocorrect",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/huacnlee/zed-autocorrect",
-        "rev": "8767d2834f00f1809b4aae1e2eb6a87b5ead71e7",
-        "date": "2025-10-03T15:29:31+08:00",
-        "path": "/nix/store/5lmbrjkr4icmmr5vpwfw1d2yyscdd4kd-zed-autocorrect-8767d28",
-        "sha256": "1zd9p622nczx4wpi4b2qf7z6qgaknddj45b6zj3drhsh58v1fwb3",
-        "hash": "sha256-Y3EXNipQw9yG/GYVIluzUz1s/nFYLBIvJ/0zK4S5qf0=",
+        "rev": "21a870204a71fa7a523e4b198e8a1e7d0d381fb8",
+        "date": "2025-10-08T21:26:47+08:00",
+        "path": "/nix/store/kls834zr2d3ap1hlzhcjck0zra5d6cqc-zed-autocorrect-21a8702",
+        "sha256": "0jz87a936sv60kbrs6ysjrbmiwddcshp4xxqarfyb381zqr2sy02",
+        "hash": "sha256-AngtMv4BjeVdVrh3cqFmrfFYV5baG53XBGZrM5I66Es=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2510,14 +2531,14 @@
     },
     {
       "name": "csharp",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/zed-extensions/csharp",
-        "rev": "59aeed74664d990268577f56893fb0cf31f2a5f3",
-        "date": "2025-03-05T17:09:03-05:00",
-        "path": "/nix/store/hdp2apc7086qhr6i1lfz7nrk6cad6jhs-csharp-59aeed7",
-        "sha256": "095zwkw3n4lcbnj6k5n54g3pm3wxqjrxkvq1fhkmx2bclhvn4q2x",
-        "hash": "sha256-XWBiN6RsiV4ndAHv2bPEnY96xyPFlmmkXYwSO/jkvyQ=",
+        "rev": "8bfe8f0d5cfa2154eecca6f76c3cb4d5e66254a3",
+        "date": "2025-10-10T16:11:42+02:00",
+        "path": "/nix/store/l2ra2s57jzz4l6aikk22wqbslvps8xjj-csharp-8bfe8f0",
+        "sha256": "1zqvylv8ssf1wi9ndv438hf9y1i4hsphjj9xgbhm0iq15jz7i0zf",
+        "hash": "sha256-7oN4viwBR1Dhej1JCa+GJAafHESD7GZT5MFpjTb1G/8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2529,7 +2550,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-WK8Edn6DE+/JWoJjfWCRYSNp0uZFpHVqTfbsTm4Hvho="
+      "cargoHash": "sha256-QvMnPvSbqZGrG2wkuEo3sj9P8Qq5n9t+Ekoa+eJtuw4="
     },
     {
       "name": "cspell",
@@ -3377,14 +3398,14 @@
     },
     {
       "name": "edge",
-      "version": "0.2.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/Hexacker/zed-edge",
-        "rev": "8f890c21e469e9963b55fd0a3a941cc46761867e",
-        "date": "2025-09-12T18:00:33-04:00",
-        "path": "/nix/store/zp05d83ajxikz637brzivhw2sk8qcmql-zed-edge-8f890c2",
-        "sha256": "0qd2m2v3byzfsl8hjkqk9c9zq8vm0aayblbg4r5vxgmgv1j8dlzi",
-        "hash": "sha256-8dOGZNivvr5LJm/R5ZUCdSP8E0sTTwkR1e77NbaoomE=",
+        "rev": "e3fe08623f2a7ff9b2e6687d529603b2feb43e68",
+        "date": "2025-10-09T12:23:25-04:00",
+        "path": "/nix/store/yjb7cjl2dfv06mz1sk97p0b5bcvfhj4n-zed-edge-e3fe086",
+        "sha256": "00kjz0isvbpg2dkajb90wgn594q0rvrk94psxrfw8ngx0s82mhgm",
+        "hash": "sha256-9cEqkAb9WcRd7vqSNPPOAJNU7OMgLalmE++urSP4cgI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3394,7 +3415,13 @@
       "grammars": [
         "edge_edge"
       ],
-      "kind": "plain"
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-0GABjiXd+JGUY4e4HpdXf6+4wblpECg6ULNfshcJAaw=",
+      "cargoLock": {
+        "lockFile": "/generated/edge.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "edi",
@@ -3893,14 +3920,14 @@
     },
     {
       "name": "firebase-security-rules",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/ChemisTechlabs/zed-firebase-security-rules",
-        "rev": "17ff91d80847eb31718bb0ebc179335752c7bc3f",
-        "date": "2025-05-13T08:56:26-03:00",
-        "path": "/nix/store/3sds0sfbisqg216gs5kz1815v4ihlr37-zed-firebase-security-rules-17ff91d",
-        "sha256": "1bpipp4v4nsyq3pqbsypvdb25jzwwx51dsqfm32qd1qw71pfsl2k",
-        "hash": "sha256-U1Dtbjgch4bFqA7rFkrn/MsiVtvX64XvwF5bssm98a4=",
+        "rev": "aa2ec4a2c7510451fa1437249e81e78ec99aaac7",
+        "date": "2025-10-08T02:09:36-03:00",
+        "path": "/nix/store/44ycs5i6zwsv0brzbbqhvxflzd2wcg8p-zed-firebase-security-rules-aa2ec4a",
+        "sha256": "1zqzz3br6i21g6rq9liimwxpxl12wx73pqzgyr6a42a3aznlkkyb",
+        "hash": "sha256-y89J7VdDCaJM9u/jO07nItB+O68x0oSzeUFEk9f4H/8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8360,14 +8387,14 @@
     },
     {
       "name": "monospace-icon-theme",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/irmhonde/monospace-icon-theme",
-        "rev": "7083c7cac2887213ab58bb086fc0def96b94d9e1",
-        "date": "2025-09-29T18:17:49+02:00",
-        "path": "/nix/store/p2h1mkj93l7h8jbvwj67cbcc2ws8nwx0-monospace-icon-theme-7083c7c",
-        "sha256": "0af5ljnqk8126gayx4va31scvgmj9md053m1pjda2cxm7wa16xqs",
-        "hash": "sha256-GncTFD+1M6GavKGOAlpNsr7NdBhqk+7VMyKgia2kxSk=",
+        "rev": "dcb5f21f99da2f19453ebce42878bfbd69a59d65",
+        "date": "2025-10-05T21:24:25+02:00",
+        "path": "/nix/store/3z34g6n0j9bix25xm9m6cpmb3gmk77aq-monospace-icon-theme-dcb5f21",
+        "sha256": "0jdwcjs0q8x142ayjpr1x31di3i71ailn5ih9hwzrh0jan8n6ha7",
+        "hash": "sha256-R0FjkVUSwPw5TDAWS6MKJ47YwughX+mVIKEjDLRkvEk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8680,14 +8707,14 @@
     },
     {
       "name": "neon-pulse-theme",
-      "version": "1.1.0",
+      "version": "2.0.0",
       "src": {
         "url": "https://github.com/ArnoldWW/neon-pulse-theme",
-        "rev": "eea05755d4a974e785426ded9b8dd5080e83fa9c",
-        "date": "2025-06-08T13:11:23-05:00",
-        "path": "/nix/store/8kkpdrmgs95w0pcp593njfw1sk8r9g6x-neon-pulse-theme-eea0575",
-        "sha256": "1rqq9yxzj663jz7bys1sbwc8j46qd74iahq48ai0jjxgk4y8qpk1",
-        "hash": "sha256-YV6MPJmvSwmiQgRDFclp2BCJGF86aL/Ol8MY+btPGOc=",
+        "rev": "64f1f6a88881c61a0dc7a46d70585f6903ad6992",
+        "date": "2025-10-08T18:49:47-05:00",
+        "path": "/nix/store/xr25zgni0yziwyir8v6hwz2dh33vnsj3-neon-pulse-theme-64f1f6a",
+        "sha256": "1gxbq9pdiaci22q99h2r4gdqaxc34p4zff5sjw5aqqix3jfy7ihp",
+        "hash": "sha256-F8bjnRw9YqwKl7o498klg3WF2yNZwJSwEJGp2G7Cq78=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10051,6 +10078,27 @@
       },
       "extensionRoot": null,
       "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "pascal",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/ChemisTechlabs/zed-pascal",
+        "rev": "389a692e4b4622857af9f6da48cc71e9b50d7efe",
+        "date": "2025-10-08T04:41:16-03:00",
+        "path": "/nix/store/fivlr209rn3wq1mh2jbb5jwbr5jpzh9n-zed-pascal-389a692",
+        "sha256": "0is8zq7npz7c9yzhlcg5mn10rr5vb0c91a4lbfpp42s7bh0qsph1",
+        "hash": "sha256-AV6NAVxHC3KvW5SokBhYu+QMgq3lMQq/T+z8aw/+SEc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "pascal_pascal"
+      ],
       "kind": "plain"
     },
     {
@@ -12798,14 +12846,14 @@
     },
     {
       "name": "stimulus",
-      "version": "0.0.3",
+      "version": "0.1.5",
       "src": {
         "url": "https://github.com/vitallium/zed-stimulus",
-        "rev": "2f158f46ab24d45944d6bd60c3e20560c287c223",
-        "date": "2025-07-25T07:23:22+02:00",
-        "path": "/nix/store/zq2sn1ib5rm6kdv5jcg9fnvswgrapjkj-zed-stimulus-2f158f4",
-        "sha256": "05j16a5yaxs07y00677zhq8q1hqpkf9dxjb1m40yr93j2759w187",
-        "hash": "sha256-BwWeyhFypOwBqWHJ3pKbF8OAEYb/HAOAP0B35YsyQRY=",
+        "rev": "79aa5beb5859ee1a069fe44ecfc941a7d03eed6e",
+        "date": "2025-10-10T16:01:09+02:00",
+        "path": "/nix/store/iig57h5crpad89iaqxwq8lfgmlapz1c3-zed-stimulus-79aa5be",
+        "sha256": "1nnn4gk1zdigd8m76yjs2nijzf3744y61mqkw800xa7xkfxjzxia",
+        "hash": "sha256-KvYvu5v9qA4A4hPXYDwhZ7gvoxVaenMqai+2H+Yj1to=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12815,7 +12863,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-66GSEiSoK5CXVO9kjNIz29mW7r/+tBO22QnMBKJgvMM="
+      "cargoHash": "sha256-GFYq5oPXhZ41bbXeEQXF8LiY+47XJGGr9t9v+M4Olmc="
     },
     {
       "name": "strace",
@@ -14417,14 +14465,14 @@
     },
     {
       "name": "vcard",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/TitouanReal/zed-vcard",
-        "rev": "0b5c1fdc7c52bd1e0e86bd3dbcfda78b9bc0813f",
-        "date": "2025-09-21T16:22:53+02:00",
-        "path": "/nix/store/31lwv6da63ldnwygas47mg4dgs6rgn3j-zed-vcard-0b5c1fd",
-        "sha256": "0rs5sxsm03f9dqx2ndpijpks092yj1rn9ad49xr6p0npzllafxmf",
-        "hash": "sha256-rnanKP3XgmtyT6SpZHOQXiSg55XxNis6bskNUHXXRWc=",
+        "rev": "27823c87867b67a983dcd46ac57391dae928513a",
+        "date": "2025-10-07T21:46:06+02:00",
+        "path": "/nix/store/y654kay4qk47bcq0h6byq6z46h1mkrys-zed-vcard-27823c8",
+        "sha256": "12gy0swgaw89rd8rkc9mvfwmcqawjddk7rmww5gcxb9cz9wigil3",
+        "hash": "sha256-g8YXefosrc5e4bzmM1uTXGFWuds1sZlRywlx9bgG/ok=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14436,7 +14484,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Mj3WZDas0QfVrGwMMA71bJLsCmKJRiWvqckZaHEUzzk="
+      "cargoHash": "sha256-w8UKwaUW0/lTwZXbsgLZxHzHneoN4BGHUGa/ttJFigY="
     },
     {
       "name": "vento",
@@ -14480,14 +14528,14 @@
     },
     {
       "name": "verilog",
-      "version": "0.0.10",
+      "version": "0.0.11",
       "src": {
         "url": "https://github.com/someone13574/zed-verilog-extension",
-        "rev": "2b3960b1c7c8f5f3f1f53f5325ba74f1cae7bfaa",
-        "date": "2025-07-15T21:01:20-04:00",
-        "path": "/nix/store/ificc3xpap1idsc6z6i6w6b63nyaqwvw-zed-verilog-extension-2b3960b",
-        "sha256": "135ffl7cxdlv85yp8h681mx3m047mmnq4qks1xq6y2ghmkc1aff3",
-        "hash": "sha256-wzkV2KzwCW9wD3pigm2th4A6eg3IQHR9QZu2zg51row=",
+        "rev": "37aec01bf6e12d1d73e90ca317239beaf9f7e173",
+        "date": "2025-10-09T13:23:27-04:00",
+        "path": "/nix/store/z8j74svf58p1ia4h9fp8xzvgm50ivpx2-zed-verilog-extension-37aec01",
+        "sha256": "0f4r2lxl05s9idp485q0zwk8pd5c8acss5chmidl2s8f6d505am7",
+        "hash": "sha256-p6oCSjMOaUFbrJAVrZlCrLSLJv8AF0Rui0kXQDsVmTg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14499,7 +14547,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-OGNI1XlS+5rpCamOUGdQBvRFz5/Pss2zOo8lQJENiVc="
+      "cargoHash": "sha256-B2TLqd0fNYWtW731T3pDnwRXJ3nieXFNY3igqCn0gSA="
     },
     {
       "name": "vesper",
@@ -15727,6 +15775,24 @@
       "grammarRoot": null
     },
     {
+      "id": "apache-avro_apache_avro",
+      "name": "apache_avro",
+      "version": "ca58349187a30c3d33cf44315e33cf1cf7b886a6",
+      "src": {
+        "url": "https://github.com/victorhqc/tree-sitter-apache-avro",
+        "rev": "ca58349187a30c3d33cf44315e33cf1cf7b886a6",
+        "date": "2025-10-05T21:44:09+02:00",
+        "path": "/nix/store/fcail1ikap9d7n6w3k9qb1xslhlw1mlh-tree-sitter-apache-avro-ca58349",
+        "sha256": "1v6nzqpkiw86r27nx51vwz1398najiz4c40ap1pn2w694s123c8v",
+        "hash": "sha256-G7EhgibJcGFvuAoQRn6UyqI0wuc7lG6PyAbxOC/+1uw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "asciidoc_asciidoc",
       "name": "asciidoc",
       "version": "736ab072da132283b5d9397100d70f14b4fb71ae",
@@ -16719,14 +16785,14 @@
     {
       "id": "edge_edge",
       "name": "edge",
-      "version": "a53d25ad1fae73fab97bbbd78fb5548ac29045c6",
+      "version": "e18511cbab58d115484b321b1e6afcfa19023ffc",
       "src": {
         "url": "https://github.com/Hexacker/tree-sitter-edge",
-        "rev": "a53d25ad1fae73fab97bbbd78fb5548ac29045c6",
-        "date": "2025-09-12T17:02:41-04:00",
-        "path": "/nix/store/qh90r5xgs91s62cp2wn20vlq6rrnlqpi-tree-sitter-edge-a53d25a",
-        "sha256": "1dwxdxn4x54zpjzp0wa2y054x1pm2di0k5wr8lk5ldz13h8a7q8f",
-        "hash": "sha256-DuGjEBzhN1omRZmXCWIT9YZOCvBCcXC/vJ+UTmxvnbc=",
+        "rev": "e18511cbab58d115484b321b1e6afcfa19023ffc",
+        "date": "2025-09-28T23:23:02-04:00",
+        "path": "/nix/store/lkbkndlbkv352zx6r9qnxc166ljs825a-tree-sitter-edge-e18511c",
+        "sha256": "0bh4k44z4l30hkscs8brw5dl0ckzdfmys3mjzw7n8b55lqyx4rbf",
+        "hash": "sha256-bmXSPaalLGQP/7IO7atrfzJAW+F5Ic30hGBQ8gmZBC4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -19093,6 +19159,24 @@
       "grammarRoot": null
     },
     {
+      "id": "pascal_pascal",
+      "name": "pascal",
+      "version": "489e273895a452a79dc74749ed99793d20ee85c1",
+      "src": {
+        "url": "https://github.com/ChemisTechlabs/tree-sitter-pascal",
+        "rev": "489e273895a452a79dc74749ed99793d20ee85c1",
+        "date": "2025-10-08T04:33:05-03:00",
+        "path": "/nix/store/6rlqpac2zdp7nax74y0nmq0ssyw8yap4-tree-sitter-pascal-489e273",
+        "sha256": "0gycqh3r16ivfqp0k5jphgyk5skcg8sxymw6w5aqmg66sh1fch5a",
+        "hash": "sha256-qkDmAtTGvIpV4YZX3zV6bOoy/YNXlgkudjuakAfEzD8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
       "id": "path-of-exile_filter",
       "name": "filter",
       "version": "2f2a4c818570fe7140c5564dbb8872bc533b2a62",
@@ -20841,14 +20925,14 @@
     {
       "id": "vcard_vcard",
       "name": "vcard",
-      "version": "f8016385059fd3b2a5668ef92131293932d8907b",
+      "version": "efbcc000ff33ecf1806b34b020345528fab03776",
       "src": {
         "url": "https://github.com/TitouanReal/tree-sitter-vcard",
-        "rev": "f8016385059fd3b2a5668ef92131293932d8907b",
-        "date": "2025-09-21T16:17:37+02:00",
-        "path": "/nix/store/9yi055pjmvkj7hp68i0kmvzmhrglrxfb-tree-sitter-vcard-f801638",
-        "sha256": "0h580hq2q9nxizcm7msmbhcrzjzpyfjlrq7brpspxhzhg87f5nkv",
-        "hash": "sha256-e9riDnrww371zevgTKXz98ufGVxV11PZj90mLDAEqEA=",
+        "rev": "efbcc000ff33ecf1806b34b020345528fab03776",
+        "date": "2025-10-07T21:41:41+02:00",
+        "path": "/nix/store/cm6pccnjyk10d5850xii4p32h2b0ny39-tree-sitter-vcard-efbcc00",
+        "sha256": "134iggd5waxpkpkmqzkz9i1bwcgfy13423hdmdxrb3k6bai459al",
+        "hash": "sha256-VKVColpmjpV7qw0OQUbw7jG+Qkx/flznnbcrXtp7kYw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20877,14 +20961,14 @@
     {
       "id": "verilog_systemverilog",
       "name": "systemverilog",
-      "version": "f34d166ab50f6dcd5c546d9ed342cc6b96445f80",
+      "version": "e88937e66adc3ee7be0bfe40b7e937eafe4212bb",
       "src": {
         "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog",
-        "rev": "f34d166ab50f6dcd5c546d9ed342cc6b96445f80",
-        "date": "2025-06-25T14:44:16+02:00",
-        "path": "/nix/store/1sdb3113mzw8wxbf96jp6zv3dc41fqqk-tree-sitter-systemverilog-f34d166",
-        "sha256": "09k8xs3rnnawd9c7nz4gv7r5r88hbwlq20xxymk9sxb3qdl0aymk",
-        "hash": "sha256-s3oFaMNjdZ1m9b0DgSlfEKFc8tmPfHtYalxZm4fuaCY=",
+        "rev": "e88937e66adc3ee7be0bfe40b7e937eafe4212bb",
+        "date": "2025-10-08T21:13:22+02:00",
+        "path": "/nix/store/ia7q879kp2bk1974n34skf591xm4742w-tree-sitter-systemverilog-e88937e",
+        "sha256": "12sis5yaa23jnagzqcpaq57z0964mcdh37sv7agx2rgs74f26fy3",
+        "hash": "sha256-wzsjHDn6ZdGfOlufARurxCTwT8HqMvyfsnIIpXzRUYs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
