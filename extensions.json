@@ -10326,14 +10326,14 @@
     },
     {
       "name": "php",
-      "version": "0.4.3",
+      "version": "0.4.4",
       "src": {
         "url": "https://github.com/zed-extensions/php",
-        "rev": "ca8670163ced53023c6eee7032ca6d3cd05b0fdb",
-        "date": "2025-09-26T16:08:40-07:00",
-        "path": "/nix/store/z450n5s3lbjara6ykmbyjx8p6wxcim5x-php-ca86701",
-        "sha256": "1k90smk9hvdyxipskrb7f28ii706ifnsb207k63ab08dkmcyapkk",
-        "hash": "sha256-c17lWZ0NgaWGmQeIpa2LBpwYkXBn5alv7L5tmGbVIM0=",
+        "rev": "09a7d415079df738a106b906859fce1c72cef46f",
+        "date": "2025-10-14T14:28:46+02:00",
+        "path": "/nix/store/j4130yr8n88zmjbdq5nhsajhvylplgng-php-09a7d41",
+        "sha256": "00rn5m1k8vphl8z2vfxgkzdq33ma900x0n9gmva6f9rvvz0z6275",
+        "hash": "sha256-5Qjzwd87J2fUri9Z0AFIqo6B25+vuy0+ovBuNEMtNgM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10346,7 +10346,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-8WRUW2Cvftu3ciBotsbO8ilSFpKiIkrKr2S5607maSQ="
+      "cargoHash": "sha256-dpRMaaXw+RjNdlzvsJm2NnLo2ddvVnX296JRZgVVEgA="
     },
     {
       "name": "phpcs",
