@@ -21,14 +21,14 @@
     },
     {
       "name": "1984-theme",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/chenmijiang/zed-1984",
-        "rev": "ed8e5bffd7a6fdd6f78859638b80be379e903b55",
-        "date": "2025-10-10T22:26:28+08:00",
-        "path": "/nix/store/nq2c5k5gx5b1jy22lmnxw34vksvc8r44-zed-1984-ed8e5bf",
-        "sha256": "03y736rri2x7p3r078knvcxr5kpfh8ishfw35ixhc3rxq2p2yncq",
-        "hash": "sha256-mFkvrsA9DwZ7LIM7qCOC7s6SO9t2ogPyuKeLmLMZxw8=",
+        "rev": "657f429b56266594f82d0320b4e92aeba37be94f",
+        "date": "2025-10-16T22:27:58+08:00",
+        "path": "/nix/store/3jyy1alg4snnmx3nn53gx7f3zqmyi9p5-zed-1984-657f429",
+        "sha256": "1p62crnsvndvw2l1hc496i72d5pxv53cam0h0nvjkby83xdvwx8a",
+        "hash": "sha256-CnW+Wx/Irym3BRBUxUbZ/ZYmTjSJMBio4LvZrW1mwtw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -274,14 +274,14 @@
     },
     {
       "name": "alabaster-dark",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/findrakecil/alabaster-dark-zed-theme",
-        "rev": "10e350b4b18545f4a66858defb474448251b346d",
-        "date": "2025-09-17T15:49:29+07:00",
-        "path": "/nix/store/j0fz88s1c7smbq4lpgaf9pjmpv5fczpz-alabaster-dark-zed-theme-10e350b",
-        "sha256": "1i7gjxccbi4gaxm28bhda9zyfmi6i559x1a3p24qb1wbx1hh9kxy",
-        "hash": "sha256-vs8EYeiLh4WJuEOFnkqJJlbnf1INLiRqV4/ExViX78Q=",
+        "rev": "27775da8318747e770fb73f3459294f91ac42d58",
+        "date": "2025-10-16T16:25:24+07:00",
+        "path": "/nix/store/8rav5x4cqmlhjlcir20r5sxx0q02yfw9-alabaster-dark-zed-theme-27775da",
+        "sha256": "0y9n3f8vh9hjd9ga1lgjdax0hjv9bhzjhg62wrggqvc79vis10hn",
+        "hash": "sha256-FoKg406Hbfxe5sI8KD9caUsIumry0aBeahImuJEbNnk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7981,14 +7981,14 @@
     },
     {
       "name": "mcp-server-supabase",
-      "version": "0.0.2",
+      "version": "0.0.3",
       "src": {
         "url": "https://github.com/maximoffua/zed-mcp-server-supabase",
-        "rev": "70dbe48ad1a9d1b3e39afa9927d1e801325c3d9e",
-        "date": "2025-06-19T13:17:15+02:00",
-        "path": "/nix/store/b8m86f3ys78fv6xk9zc8gkwsz05hdrqv-zed-mcp-server-supabase-70dbe48",
-        "sha256": "0shyyzxlqrgqf77ld5xqgh2y9yik0j0aqiyyrw3sqmhnas2kb2ay",
-        "hash": "sha256-Xok1hVYWVqwHz95HrIAEM/rkBXy4l0bPcfhlTPv3Hmo=",
+        "rev": "6ee1157c9057e312ca2064095dfac1266233700c",
+        "date": "2025-10-14T20:51:30+02:00",
+        "path": "/nix/store/p9lhrb2d459wyaawcghb6c7pz3nddy9j-zed-mcp-server-supabase-6ee1157",
+        "sha256": "17y5zvpabk3nlha5fzn2qjmkx0nvyh49sgmx7dkr4k3wgl03vxlr",
+        "hash": "sha256-mfY9AH18TJJnO70+nQj024I+q8TCflcUpHbMpe7+xZ8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7998,7 +7998,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-vmFsnX0pQrLYQZnKZoH+B2B+0U7m7FaZlfX7S4QnIkM="
+      "cargoHash": "sha256-mDHVeTnSCTeQxxGBeQzn+pJcPjhBBIQ+V7hbCo8PsN4="
     },
     {
       "name": "mcp-server-tavily",
@@ -9148,14 +9148,14 @@
     },
     {
       "name": "nord",
-      "version": "0.0.11",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/mikasius/zed-nord-theme",
-        "rev": "023fed094a6014d1e9f09c0d4a8eb1e832f200ec",
-        "date": "2024-10-22T14:19:45+07:00",
-        "path": "/nix/store/9d4ld3fza6ngaa1zjgmcrfqmnwhr72qr-zed-nord-theme-023fed0",
-        "sha256": "0wwjyk45ynagw0cyymyqppfdg0xwf1iq2jafg5d6jrg958168p9s",
-        "hash": "sha256-Ol1kAirpZWlaeU5JgWNwvIPX3L3YV+8Z4E9ZX8j0knM=",
+        "rev": "c669fc6a8b5da0f93de9174af0b6c331b6d634a1",
+        "date": "2025-10-16T16:43:39+07:00",
+        "path": "/nix/store/7gbrnid1qq8507pangwp5dhblrjsp5ma-zed-nord-theme-c669fc6",
+        "sha256": "0p95wk208jpkj606w8f754r88m6mkl9bxy4nrh3vlql288a7ccc7",
+        "hash": "sha256-hzF2FEKCYroHzJb4vhKd1VSEMinHIW6AkfNKBMTkJV0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11610,6 +11610,27 @@
       "kind": "plain"
     },
     {
+      "name": "roto",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/tertsdiepraam/zed-extension-roto",
+        "rev": "b1bda8dda510da98f00c3c8239295a06cee3a141",
+        "date": "2025-10-15T23:34:52+02:00",
+        "path": "/nix/store/vilniam5f4s3hk5z56za1505maklz21b-zed-extension-roto-b1bda8d",
+        "sha256": "1rk0694i5ncj8jmaxavd87nxy1fl3zr92x0xczcbb9z4knflq1kq",
+        "hash": "sha256-eAZMnZ3kp7XYZx10kfIf1AXf7UFtq66qRJLZEkkyYOY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "roto_roto"
+      ],
+      "kind": "plain"
+    },
+    {
       "name": "rover",
       "version": "0.1.0",
       "src": {
@@ -12606,14 +12627,14 @@
     },
     {
       "name": "solidity",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/zarifpour/zed-solidity",
-        "rev": "1d8f019ed849e03376f1efd3945315155262ee8f",
-        "date": "2025-09-11T16:59:15-04:00",
-        "path": "/nix/store/lsnyzrcpdaj07ssqmkj3xid3sf90q544-zed-solidity-1d8f019",
-        "sha256": "0qm6lpacbypxvfnck68fd1v5idy4pipib78qim65a9ia9xsq2i49",
-        "hash": "sha256-iUSBdU8qJlVMjRidFW+8xLdYdmgOmcms2/36xdSlpmI=",
+        "rev": "5aef16aac75b0298724125a4b4f81959f1f52679",
+        "date": "2025-10-16T07:01:49-04:00",
+        "path": "/nix/store/7r9hylm5gcwpx3s70llzvbrxz962lc4g-zed-solidity-5aef16a",
+        "sha256": "1y3zv7slnm6mghjrpv148bv92brlkwxys1czj9kc4dvis8vaa3m0",
+        "hash": "sha256-oA6lNtJxN8Jmkp8F7TufNC+R9kIk7JslfNVUS/XZf/g=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -19914,6 +19935,24 @@
         "path": "/nix/store/a338dnnbxsg4ywjqkc95ikp1a74xwr64-tree-sitter-ron-7762d70",
         "sha256": "1y4hfvmiyllcdbn1n8h422fx3gdw5lwzxgfzb5rjnpwfaw9lk18f",
         "hash": "sha256-DoVJE1eOXytzWd+9/jktvL3RnRAEIhvsaoxSH+t2kPg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "roto_roto",
+      "name": "roto",
+      "version": "11d9711af90e472dc470150c8538c3071b8ef182",
+      "src": {
+        "url": "https://github.com/NLnetLabs/tree-sitter-roto",
+        "rev": "11d9711af90e472dc470150c8538c3071b8ef182",
+        "date": "2025-08-24T15:38:37+02:00",
+        "path": "/nix/store/9bci2hygisw5xn7c5ck5ri5vkwkjs64j-tree-sitter-roto-11d9711",
+        "sha256": "0j7hqizv7wfir4panc2q8s764wwbj4ac1lylzx2azw08rypfjpyg",
+        "hash": "sha256-z1/prs8I8K9E/9TTwBSRi3NijkZYMKsuydHxs3/E8Eg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
