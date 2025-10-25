@@ -4172,6 +4172,27 @@
       "kind": "plain"
     },
     {
+      "name": "flow",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/jthomaschewski/zed-flow",
+        "rev": "a7b48b08ac0d8b4bd2ba0ced03bc094c83dc0de5",
+        "date": "2025-10-14T19:21:03+02:00",
+        "path": "/nix/store/383cwpbyfnw83xcwmf63pnhdbs4w3h2c-zed-flow-a7b48b0",
+        "sha256": "1csm88pg4rra5a1ziy05g33p8pm4zhh2kixmv5ry9vxi891ggyag",
+        "hash": "sha256-T/n3QkKx7+Rz2bXHKSD8pF50x3gF+PiDKipn8i5CVbM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-KzWwjsmkqFmNQcvzMZdUn6UE5Q4I1BGUoSsrosiWlmw="
+    },
+    {
       "name": "flow-theme",
       "version": "1.1.0",
       "src": {
@@ -5588,6 +5609,25 @@
       "grammars": [
         "hocon_hocon"
       ],
+      "kind": "plain"
+    },
+    {
+      "name": "horizon-extended",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/lancewilhelm/horizon-extended.zed",
+        "rev": "38e3a05fd2c8e00d8495ae9b6857e279af34f4f5",
+        "date": "2025-10-19T18:24:42-04:00",
+        "path": "/nix/store/96hdmpwxr6bkx5gf7pmx5jb6c87lwjn6-horizon-extended.zed-38e3a05",
+        "sha256": "1w26j95wx9akfwg3ai5pbzqhaii2z6jj4qrn71ksclpccw8n7294",
+        "hash": "sha256-JIljEWfsUqZnODZjIqX5IkYF8V+3RDUed1OlzkuSRvA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
       "kind": "plain"
     },
     {
@@ -7989,6 +8029,31 @@
       "cargoHash": "sha256-m1FrW4px/n8MOGISwe6NAFLdjw3Hw6bXNqndFPFW7W0="
     },
     {
+      "name": "mcp-server-nextjs",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/MrUprizing/zed-mcp-server-nextjs",
+        "rev": "a7229bfee229fab8170c01b36fd1ff5482b66d4d",
+        "date": "2025-10-23T19:10:38-05:00",
+        "path": "/nix/store/k6ar7kmgn1cs9rdwbdf0si1bqa7y2d19-zed-mcp-server-nextjs-a7229bf",
+        "sha256": "01zs20makid28izy8q8ka23pidnxvycx1jp04rjqxygzj9cqndwz",
+        "hash": "sha256-nzeLWZL/+Y5lJuDK0Jnf3bZ4h1ATYeR/RKLFqSoQ+gc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-g5+Yjfqy3g3UpA9UWl7Lk6UdKZtpbp7rLbKocWfpemM=",
+      "cargoLock": {
+        "lockFile": "/generated/mcp-server-nextjs.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "mcp-server-puppeteer",
       "version": "0.0.1",
       "src": {
@@ -8638,14 +8703,14 @@
     },
     {
       "name": "moonbit",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/quirk-lab/zed-moonbit",
-        "rev": "b9dc3f5a1581f99efb62c782809ff96e03d5028e",
-        "date": "2025-04-08T10:34:53+08:00",
-        "path": "/nix/store/ql2wnxdjka6r6qdzbhjhr6405s8ghxlz-zed-moonbit-b9dc3f5",
-        "sha256": "1sw87gb8n5ykwvxqwnn6614g1j2b8balv4ls2mfj9cparvf2kqs2",
-        "hash": "sha256-QuMp3M7qsiRdFZqSTdVCS8jwSDDGWo775tMXi9Y7iOs=",
+        "rev": "7bb3c86f3e584ead2d095d01bbd2f23907e6026f",
+        "date": "2025-10-24T11:45:17+08:00",
+        "path": "/nix/store/wjg3g1pjg8a6rc35fryzymc60j0x26ii-zed-moonbit-7bb3c86",
+        "sha256": "0lr3n7chig8fcrzqffhxgd73m0mpk6nyhmkir7vvwnq53xmrv5jn",
+        "hash": "sha256-Vpadax8FW773yXFW6K2Zt4I6TnsdOod/Zg69CNmxI1M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8657,7 +8722,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ZrNa6fipDQeR4QELZrnxiTCAeGgO+uEbpXa/uHzXA5U="
+      "cargoHash": "sha256-vMJSLEt3ZiI118Gpnc4yCzxKbkcbhBScqvOJbe2/4AI="
     },
     {
       "name": "moonlight",
@@ -18881,14 +18946,14 @@
     {
       "id": "moonbit_moonbit",
       "name": "moonbit",
-      "version": "290094725390a4e5f4fdb0524d1be037016890ba",
+      "version": "a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82",
       "src": {
         "url": "https://github.com/moonbitlang/tree-sitter-moonbit",
-        "rev": "290094725390a4e5f4fdb0524d1be037016890ba",
-        "date": "2025-04-03T00:16:03+08:00",
-        "path": "/nix/store/srrvsb8d519gl5qs1zg223w3dhn1nw03-tree-sitter-moonbit-2900947",
-        "sha256": "08gxzwcsz89gy3nfxvzs6bgd8n300485rmchg6in78lyzs81kl4h",
-        "hash": "sha256-kNAZkP6eomOjeZDVXBABYFjU3jL67+7s8C+hrxn//SE=",
+        "rev": "a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82",
+        "date": "2025-09-27T13:06:35+08:00",
+        "path": "/nix/store/lqdgm3izdlwb3vfvibnxf9wjqbnfyhib-tree-sitter-moonbit-a5a7e0b",
+        "sha256": "17wcnlm3w7aq8jcri1cz0d25lrrq6gbn4jcicazmgxvz4slkxhh8",
+        "hash": "sha256-CMI+qSZ/91e/YpFJYtczOGdaRAOfhZiZRFgdPiq1jJ8=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
