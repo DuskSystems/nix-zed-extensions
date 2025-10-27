@@ -757,10 +757,9 @@ dependencies = [
 ]
 
 [[package]]
-name = "zed-motoko"
-version = "0.0.3"
+name = "zed-bsl"
+version = "0.0.1"
 dependencies = [
- "log",
  "zed_extension_api",
 ]
 
