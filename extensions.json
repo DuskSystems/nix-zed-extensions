@@ -13758,14 +13758,14 @@
     },
     {
       "name": "stylelint",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "src": {
         "url": "https://github.com/florian-sanders/zed-stylelint",
-        "rev": "0c8997238f588acec934ece0d3457d7756b335ee",
-        "date": "2025-09-25T09:49:04+02:00",
-        "path": "/nix/store/2qdg6bxa9m8c73ffs3qky4glbr5fa1rv-zed-stylelint-0c89972",
-        "sha256": "18p6ra5q41i0sf1d8sndak1n7bjxilkyl4xx29jsan3xii940d0p",
-        "hash": "sha256-FzRAUox9WKVlEr0T6ieNXa5jw1TNatSC0yAGgovK5qI=",
+        "rev": "e4c90878c274793b363b4fe230989a85fc5ace5c",
+        "date": "2025-10-29T08:36:39+01:00",
+        "path": "/nix/store/8kxnbi09k0jja85ifan86ybfrikbg93c-zed-stylelint-e4c9087",
+        "sha256": "0nfqjl6wk1a2xfbjzf2jzma1dpz1z28wd5qvym30mi7ghpsfjv1a",
+        "hash": "sha256-Kmzp9IXvxApG9RuXxpH44d8WVP1SuC+X60KFyQ2V2Fk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13775,7 +13775,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-R8wZRV0T9CK/8z2S1OPbtW17bWCsFtyY8liVvrmbuR0="
+      "cargoHash": "sha256-cH4sHWYB8csoelTa5bWuw4lX2UAZCadwFtSJ0pqq+oI="
     },
     {
       "name": "sublime-mariana-theme",
@@ -15699,14 +15699,14 @@
     },
     {
       "name": "vscode-icons",
-      "version": "0.2.0",
+      "version": "12.15.0",
       "src": {
-        "url": "https://github.com/pranavmangal/zed-vscode-icons",
-        "rev": "6bdcbf1e8c9444d571177e7ba8acd347b3989d55",
-        "date": "2025-02-06T07:17:54+05:30",
-        "path": "/nix/store/vwhr8b7v1qhajaxwg198ynmxrsljfvwh-zed-vscode-icons-6bdcbf1",
-        "sha256": "1pwgfma9mcl2j9wc0sjrb46kqck1lag38qk9pyf7cm8fnisv5nq3",
-        "hash": "sha256-A9uydbQOVXacv2liNJ6iYTI8DVlZasB4koKymlR1j98=",
+        "url": "https://github.com/vscode-icons/vscode-icons-zed",
+        "rev": "0e23f93e194319898e746c447d3145d833f65a47",
+        "date": "2025-10-28T18:59:17+01:00",
+        "path": "/nix/store/w4pg2b8mmhwk2j5g601r4yywqykxvkmi-vscode-icons-zed-0e23f93",
+        "sha256": "0n7wxw501iz5n96cr7jl86sly3rfnh0479sap7il64mnj8p627qy",
+        "hash": "sha256-Hh9hLpK2EkPjuUqnQwC0Lg9PtUFUnsxMsuXHAArv/Fg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
