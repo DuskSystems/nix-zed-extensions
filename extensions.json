@@ -3472,6 +3472,25 @@
       "cargoHash": "sha256-Mdqiy5isiS+wx7sWi9wgnWVRC1dXANOBfz8qT7cgXjw="
     },
     {
+      "name": "django-snippets",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/bencres/zed-django-snippets",
+        "rev": "d48270705cf03fc22b1c2e9983f546c145531150",
+        "date": "2025-10-30T18:08:10-05:00",
+        "path": "/nix/store/9wqhh077kxhhiqn5207ydjwjqxpnybml-zed-django-snippets-d482707",
+        "sha256": "1d4ih3g5ln04rkirsm5291w65k6g4y5czgjr88h0pl7sdjlsvjvb",
+        "hash": "sha256-a8utqWz60AsgQlm+z4onz8xieEiiVJ3jzARYWt6AkbQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "docker-compose",
       "version": "0.1.0",
       "src": {
@@ -4697,6 +4716,25 @@
       }
     },
     {
+      "name": "gdscript-snippets",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/loyal-disloyal/gdscript-zed-snippets",
+        "rev": "2b8c4a3b803800435a133ef5b14cb554502b1055",
+        "date": "2025-10-31T18:55:49+05:30",
+        "path": "/nix/store/3bva12sp5crlyjkscd30ar2zwi0lbyi1-gdscript-zed-snippets-2b8c4a3",
+        "sha256": "0iz5adfjqgx16pxmwsgw0sw80pyz7qixpfilzyk8kkrghkzia363",
+        "hash": "sha256-wwwV/4Qvz4mm/zS62yM+31+AuAb8aV77NaE/LF1T5Uc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "gem",
       "version": "0.0.3",
       "src": {
@@ -4740,14 +4778,14 @@
     },
     {
       "name": "gentle-dark",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "src": {
         "url": "https://github.com/gentlelionstudios/gentle-dark-zed",
-        "rev": "ab2acaee37ad56da151ec6594ef365a23906e6f2",
-        "date": "2025-06-29T11:12:32-05:00",
-        "path": "/nix/store/rb2kjmqkm8wrfpkxpjwxhclj4qz7cq94-gentle-dark-zed-ab2acae",
-        "sha256": "1a7vq1is3b9hz6p4al13y77dd0frjnzfgy56d13vcbq8v288ll2n",
-        "hash": "sha256-VlCKkNgIL7ZHaKb4576V2YHWzvEjUEWu+TCtoWPA+6g=",
+        "rev": "4e5e1039649d37ec87b7669cd13d0286a8023dc5",
+        "date": "2025-10-31T00:15:40-05:00",
+        "path": "/nix/store/ivsypjzgq678iyc7nr9lw1xnvahgxwgc-gentle-dark-zed-4e5e103",
+        "sha256": "06v5idznhgvabp0zc1pbyfvm9iqr5fh4s81yjdlp0gl0q1c703f1",
+        "hash": "sha256-wQ1wWMCAPnBpkz4gTaArGcdUt/PrBvbBXWo/aH+LZRs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7714,14 +7752,14 @@
     },
     {
       "name": "maple-theme",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "src": {
         "url": "https://github.com/subframe7536/zed-theme-maple",
-        "rev": "e099d52f4ece128a3aba0b3838a450b2eccd082a",
-        "date": "2025-10-19T14:07:21+08:00",
-        "path": "/nix/store/aca7xr46054jj1dgaikj90hmshqc1zzg-zed-theme-maple-e099d52",
-        "sha256": "0jbhcrma9cprar6bcf6m4v77lbbwdnh6yqbbarsn3b2xsxnlkyyx",
-        "hash": "sha256-3ftJbdddrGF1Vmthb6BtfC16zibVOLZMVvmypGpmcEk=",
+        "rev": "c85f13e91e0b7c4ea81f046895d9e4a3acc79ea9",
+        "date": "2025-10-30T16:48:26+08:00",
+        "path": "/nix/store/rzpggdrdcz7xqpjxvp3nimx3js8fd0iy-zed-theme-maple-c85f13e",
+        "sha256": "1y282axcsgw7fz3afdy3qka606zfb3vd0al97klghrqbg5ykw5pa",
+        "hash": "sha256-6hY+fXkLZ/joPIkq0PZY7htg1MTDN6fGd4c/zboSSPg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10210,14 +10248,14 @@
     },
     {
       "name": "odoo",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "src": {
         "url": "https://github.com/odoo/odoo-zed",
-        "rev": "2001d4eb877e01a8413617ec23e97bb6e8ae816d",
-        "date": "2025-10-23T11:11:07+02:00",
-        "path": "/nix/store/s7mhh6rkks2izg53rxyadjvc6qpi43l0-odoo-zed-2001d4e",
-        "sha256": "10hv8qs7awda0m7rl2xjlygfwg6w47plvqfnn5yfbzhazky31l95",
-        "hash": "sha256-JdEw/PwK/uV8sdbhTe8h3DzunqeyC5pPBapxdTRGG4I=",
+        "rev": "1faf6525f1cc19b300f2790399c759afc81ecce8",
+        "date": "2025-10-31T14:34:34+01:00",
+        "path": "/nix/store/956z7aa4nhgqnznx771qhgjg0rw6kw5s-odoo-zed-1faf652",
+        "sha256": "1nlprcg4gc38m531pyfqzahfhz5ri07lmv0z8s118jpp2jrgn5c6",
+        "hash": "sha256-hhX7shT3ShSCRh/sSg+IuXzooPrY+RtGqWiwRx7Ll9o=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10227,7 +10265,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Cy8V9O9wJrS62ZRnM/PALqv2eXqpMYrOqv8GkkqI2zc=",
+      "cargoHash": "sha256-xHlYlL1yfgBLXlBQ84+9f9BpgaH5Kz39s6rlZTQfX0U=",
       "cargoLock": {
         "lockFile": "/generated/odoo.lock",
         "outputHashes": {}
@@ -10882,6 +10920,25 @@
         "path": "/nix/store/b6g18j98vh7cbdz0qi7i6xs48p4b9a4v-penumbra-zed-ab365c8",
         "sha256": "1vws5i1y50dzmg02h8l13616iz5k6zarz442p6mlmwdvp62xp023",
         "hash": "sha256-Q4Dbhbm78UqruYKQn9U3s/xoghmBIijAq7+B4kMsmu8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "penumbra-plus",
+      "version": "0.0.3",
+      "src": {
+        "url": "https://github.com/everdrone/zed-penumbra-plus",
+        "rev": "1333e4e0183f25e70e8956184944b46f72cdb5f1",
+        "date": "2025-10-30T13:07:01+01:00",
+        "path": "/nix/store/vzv2mhmgkvayvzras5j7kxfpqha42hs1-zed-penumbra-plus-1333e4e",
+        "sha256": "08i3cg9lydihrcr6ginnlkfpgnrv0mbdghn1zxii6y4bpbwdyqs2",
+        "hash": "sha256-QmPf+LqLeBNj/8HC11YFO9t33aTWxmcyyzA2T9NjIyI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12609,6 +12666,27 @@
       }
     },
     {
+      "name": "rumdl",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/inflation/zed-rumdl",
+        "rev": "dd445d1144565a9c300a9152fdb4bef6a48faee4",
+        "date": "2025-10-30T12:31:55+08:00",
+        "path": "/nix/store/fd6p86pkpbmbai91cxcbvsxsnrm20dv4-zed-rumdl-dd445d1",
+        "sha256": "1nvc7afxsrgpsjx1fzp9d8vzp3allzxmvzjdvldjh9p8nhs0qgdq",
+        "hash": "sha256-uD0MNLToJigb3U3+XfunVI37N2rpfhe61Pdl3Z06bNs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-c2LBhx8/7jJgx+jqt6J1kXRV6GxQ8gdSWRBSpblsPrU="
+    },
+    {
       "name": "rust-rover-dark-theme",
       "version": "1.0.3",
       "src": {
@@ -13230,14 +13308,14 @@
     },
     {
       "name": "snazzy",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/Eivs/zed-snazzy",
-        "rev": "06b0def783391bd7c8d2afee88d9b09739579126",
-        "date": "2025-05-10T17:45:40+08:00",
-        "path": "/nix/store/mapr6853qa3xyd4nvcvkxpah0dmm2syp-zed-snazzy-06b0def",
-        "sha256": "1pl1nm51qz12d14865d6r05izpb09b3ya2r59xzk7lhfw4ag4a41",
-        "hash": "sha256-gSjyFOEO0jN/TyUL5cdKYN0fC8imFYNIaCJ8HEq1gd4=",
+        "rev": "e96e4e68e1a54a11871813dce05b17ff8024118c",
+        "date": "2025-10-31T15:40:33+08:00",
+        "path": "/nix/store/nw0yihg36yfjljxgivsla6wb7a6r0hya-zed-snazzy-e96e4e6",
+        "sha256": "1bkdr15f2g82r732qdggbdlvm8pf9dxd6gv3cvca27qn3lvlawfr",
+        "hash": "sha256-2XFFNx0WH6HYZmM/03pL7qK6aVvvNSzGyQI94UrIba4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13415,14 +13493,14 @@
     },
     {
       "name": "solidity",
-      "version": "0.1.6",
+      "version": "0.1.8",
       "src": {
         "url": "https://github.com/zarifpour/zed-solidity",
-        "rev": "5aef16aac75b0298724125a4b4f81959f1f52679",
-        "date": "2025-10-16T07:01:49-04:00",
-        "path": "/nix/store/7r9hylm5gcwpx3s70llzvbrxz962lc4g-zed-solidity-5aef16a",
-        "sha256": "1y3zv7slnm6mghjrpv148bv92brlkwxys1czj9kc4dvis8vaa3m0",
-        "hash": "sha256-oA6lNtJxN8Jmkp8F7TufNC+R9kIk7JslfNVUS/XZf/g=",
+        "rev": "19f9ca1304fa8bef0e72a7e441edec334dcb60dd",
+        "date": "2025-10-31T10:47:17-04:00",
+        "path": "/nix/store/b5aiqkqvf9nvy3w7b3vs3sna96apg2jf-zed-solidity-19f9ca1",
+        "sha256": "1m132d3g5y1lxhfd4jb1fmwsiaxq9a42c9dkw88qvlycw037kbdb",
+        "hash": "sha256-q615BuDM040R4rMlJohKuKuoeXVhSdIc7DT48kYTI9Q=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
