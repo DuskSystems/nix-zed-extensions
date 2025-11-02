@@ -99,7 +99,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-N2/38/eUCUEzeH75cJM/jSB98Bs2cK1nAI0w7GqOkkY=",
+      "cargoHash": "sha256-v+NAAhL+w4xi5Cl8A0q7YykecVi+XB70dnzDTdym0ck=",
       "cargoLock": {
         "lockFile": "/generated/activitywatch.lock",
         "outputHashes": {
@@ -920,7 +920,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ok2Lo37pGZ5E1SmQy2Nu2hz7lzvyZT1kr1odwCLgsOY=",
+      "cargoHash": "sha256-bEeek4GIEY0CfdMgIKxt8bhSc9riacqk4ltY92ygsp4=",
       "cargoLock": {
         "lockFile": "/generated/azure-context-server.lock",
         "outputHashes": {}
@@ -985,7 +985,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Hf3n2+/jcSe13131d/pYjLTThOEL0u06Htcg/8ROXAI=",
+      "cargoHash": "sha256-qfLT00xaQ9pcx+o+cOjpEq3lr1y/fNQzBid9S8xElZ8=",
       "cargoLock": {
         "lockFile": "/generated/baml.lock",
         "outputHashes": {}
@@ -1192,7 +1192,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-nKpalNr9NnLuyFlJLBkpBGaBXWtpsr+dIdbrNTpMO1w=",
+      "cargoHash": "sha256-H3n5J+fZ/3vREqpxaBWiYYWI4I4aYpVFi6d/iUyD3ZA=",
       "cargoLock": {
         "lockFile": "/generated/bicep.lock",
         "outputHashes": {}
@@ -1242,7 +1242,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-6r7iJT+9gRKq4lxl8S78I7zxVNwbEKse7CuHTUcgd1M=",
+      "cargoHash": "sha256-PD+LavjM6pwTIver3wLih9f2C0sNN9ofOf/9Vu8FuqU=",
       "cargoLock": {
         "lockFile": "/generated/bitbake.lock",
         "outputHashes": {}
@@ -1407,7 +1407,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-EuODQhDIiqGWBAv8ZYzCo/n/AW3IhxSjeHRoJEQbsnk=",
+      "cargoHash": "sha256-14lHlJI7R+lSY6XyGtWbtCRHbBGSYAp2/OBdY4Mn/5U=",
       "cargoLock": {
         "lockFile": "/generated/blueprint.lock",
         "outputHashes": {}
@@ -1453,7 +1453,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-2Pznpuj3tSuCdvK9O/VyhhPX7P00Zi4eUxH22WJeZyg=",
+      "cargoHash": "sha256-2PDVq+CY1HFRZLyKLOO4BqeJMcDFIcvmGFxwJ4+zmFM=",
       "cargoLock": {
         "lockFile": "/generated/bqn.lock",
         "outputHashes": {}
@@ -1518,7 +1518,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-swglQmHZllQfPZimDTzeDpNECx/scVbAMf5wQEku1G4=",
+      "cargoHash": "sha256-hFtSg9BZwT7ECsYGhVr6x1VNxHJFg/v9O55rXPfMV0k=",
       "cargoLock": {
         "lockFile": "/generated/browser-tools-context-server.lock",
         "outputHashes": {}
@@ -1545,7 +1545,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-RqSimVjnQKLL8DstyrhJv4s9v11fAv+geTK0xWFqBnU=",
+      "cargoHash": "sha256-HbLclU0ZXXMt19C8ffQDif7MVNNKTmbzkKnApqa5ADw=",
       "cargoLock": {
         "lockFile": "/generated/bsl.lock",
         "outputHashes": {}
@@ -1591,7 +1591,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Yqab2OydGwhY0hIRNzdgz5uXkVxU3dFU2Ow2mCC2DTY=",
+      "cargoHash": "sha256-XhgKWbAmg5WiDPZXgo1OcGEA/T0yJLhSWa3KnWR2BLE=",
       "cargoLock": {
         "lockFile": "/generated/c3.lock",
         "outputHashes": {}
@@ -1618,7 +1618,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-dOh4pKj9FVncDHzPGMHlTpjg6Rp4WR0Rx+bCPzvBTWo=",
+      "cargoHash": "sha256-yW5+SWdTF7hXRDm4UlhbGaRguvg3UuNiISNoPJSXZp8=",
       "cargoLock": {
         "lockFile": "/generated/caddyfile.lock",
         "outputHashes": {}
@@ -1645,7 +1645,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-LkDqBF8BxJC2zXBP0dOKLB/hhSan3gSlHrQ9rBm4d/4=",
+      "cargoHash": "sha256-MjwCyOTn60a1FU5mPmodxjXEnR/SwZDnNHKR/i7VxJI=",
       "cargoLock": {
         "lockFile": "/generated/cadence.lock",
         "outputHashes": {}
@@ -2095,7 +2095,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Wu0EqTYeuSzlae4jmG9PIL782yLT3P47UU0tyDmqNN8=",
+      "cargoHash": "sha256-MK7ITqG71mPCn58+PMgXnmm7y6ulub3tyiluEdVHSkU=",
       "cargoLock": {
         "lockFile": "/generated/circom.lock",
         "outputHashes": {}
@@ -2722,7 +2722,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-SYWiQ9Tg75Qskc2+JEhPLoOTvi/00UcGEuM4hW5aqjQ=",
+      "cargoHash": "sha256-UbCHXi1A8UNQITR8PfpVoEYL4RRoZ8ySlQrQm1ALneU=",
       "cargoLock": {
         "lockFile": "/generated/cspell.lock",
         "outputHashes": {}
@@ -2747,7 +2747,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-YnbjpNA4Df1JDRjQEW6d4VRH1dbmNM56qP1gjWDStEg=",
+      "cargoHash": "sha256-u38sU9gQQHZQNuu8he9qBHKRKEmpx80Geb9hO8Xsipo=",
       "cargoLock": {
         "lockFile": "/generated/css-modules-kit.lock",
         "outputHashes": {}
@@ -3024,7 +3024,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-u2mvOwkGtge+gnkwW0QYYvjZDW7C99SqZ9tCD6I8aEI=",
+      "cargoHash": "sha256-gASvJO8y9PZMm6EG3kBuyiaYh0GH3jPsD5kXWkSc6/8=",
       "cargoLock": {
         "lockFile": "/generated/d.lock",
         "outputHashes": {}
@@ -3331,7 +3331,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-89vNWleoJmeycyOIBGjl5PcfbUw22UeUHwzpKrMaHs8=",
+      "cargoHash": "sha256-xGX84KmDsslx6PsiB5rv9r+AxelHyFe0cKQdrS160M0=",
       "cargoLock": {
         "lockFile": "/generated/defold.lock",
         "outputHashes": {}
@@ -3421,7 +3421,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-iBtjMX91B8NrMFSv4n+C+v3R2FyUGZlDsxXPUHt+Znk=",
+      "cargoHash": "sha256-sLnVbnr6RiNYCGfPGmdGqnWulk5rZCFDc1XI9xMLZgc=",
       "cargoLock": {
         "lockFile": "/generated/devicetree.lock",
         "outputHashes": {}
@@ -3694,7 +3694,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-0GABjiXd+JGUY4e4HpdXf6+4wblpECg6ULNfshcJAaw=",
+      "cargoHash": "sha256-se0rraHrwGUDqPGENNmKRguj8x98tbp+gbzdZhL5SJ4=",
       "cargoLock": {
         "lockFile": "/generated/edge.lock",
         "outputHashes": {}
@@ -3884,7 +3884,7 @@
       ],
       "kind": "rust",
       "cargoRoot": "editors/zed",
-      "cargoHash": "sha256-uVHEnlEfKb7thtZ2kPt60rE9MgiTy/UW09MNPokZylA=",
+      "cargoHash": "sha256-ldv3v5B+8LLatEB/BOamiyWVPw71mPJvZWnRWudYr4c=",
       "cargoLock": {
         "lockFile": "/generated/elle.lock",
         "outputHashes": {}
@@ -4017,7 +4017,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-3e5gdC4nL3BhrAUTUV/6+GLlhzFdwL3mz10VkI+ZNDQ=",
+      "cargoHash": "sha256-9hi83Ebv9zi3t0CJ9sfPSSazL8lVemDhRFexu2cZs3g=",
       "cargoLock": {
         "lockFile": "/generated/emmylua.lock",
         "outputHashes": {}
@@ -4575,7 +4575,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-G77lFV7UxEnI8iAaKlSvyGwPLuWrAi8jQL1/QNonjl8=",
+      "cargoHash": "sha256-gemraG/vdrF30/DZdZObI35AdoPEo8ppHP6RsN2XWrE=",
       "cargoLock": {
         "lockFile": "/generated/fortran.lock",
         "outputHashes": {}
@@ -4709,7 +4709,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-8Gt069afivGceltA2oTm6I3WataBBB4pZjQpkxZUcq0=",
+      "cargoHash": "sha256-EJ6DWZwJ5CD7UIwpVTPuO555/ycWfjlHDs6fJwqr8ow=",
       "cargoLock": {
         "lockFile": "/generated/gdscript.lock",
         "outputHashes": {}
@@ -4904,14 +4904,14 @@
     },
     {
       "name": "github-dark-default",
-      "version": "1.0.9",
+      "version": "1.0.10",
       "src": {
         "url": "https://github.com/MordFustang21/zed-github-dark",
-        "rev": "a353c5133fa42ede398ee35f3709a7517694fe11",
-        "date": "2025-03-20T10:01:13-06:00",
-        "path": "/nix/store/rqm0m2h5q1sfw1fh4glk5b6qg5rfj8pp-zed-github-dark-a353c51",
-        "sha256": "01vgilyc9n5r0mss0y08r5fjkk5ldaf5ks788hiir06s4z0ibzi2",
-        "hash": "sha256-Iv4VwSfagBwjROjoWZxqtMwpXckIeKB1BbnYxDyNbwc=",
+        "rev": "dbbd66167753686ff3ff627208e15f7e27a9b1f9",
+        "date": "2025-10-15T14:10:19-06:00",
+        "path": "/nix/store/94gbvlazncxb6qvk3bplkjcrlp8l1zc5-zed-github-dark-dbbd661",
+        "sha256": "02i7lz3rh3g3sg53f8b9l4z5m9nnc1y56ldag4vmkiybiv71p9zn",
+        "hash": "sha256-9qcbzo7Lx1k3eapRU3xg1qZaPqFpITfK0+MNmMenJwo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5316,7 +5316,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-FdH5MCVYcrAmBGuxGdSOofL3nVErg35fqBjPxij6HdY=",
+      "cargoHash": "sha256-LS5XZKD2ozgugCcEsUmJUraiI2i4zaP3IFNhb7Mm4xs=",
       "cargoLock": {
         "lockFile": "/generated/graphviz.lock",
         "outputHashes": {}
@@ -5755,7 +5755,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-4Wy3uCRMsFvkyAPl56CSvzQMaWXLRDVh81+9pd712go=",
+      "cargoHash": "sha256-t7S51FYhPakFU3XD6eOun6pviwH8tlKKRrZbevHbAN4=",
       "cargoLock": {
         "lockFile": "/generated/harper.lock",
         "outputHashes": {}
@@ -5830,7 +5830,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-S9AHROd3LAoSPBiCCVUmyCmkruzBKqZ9qD90brFyFMI=",
+      "cargoHash": "sha256-y3bPNO+iG4zNlYBPPDZ1omV4LlKNnPZyS6XXybNcFQk=",
       "cargoLock": {
         "lockFile": "/generated/helm.lock",
         "outputHashes": {}
@@ -6420,7 +6420,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-sep2euaO//qCIOcZQ3ZYLj/7TLKZyFcZdY6Prgxr6Mg=",
+      "cargoHash": "sha256-vPKjELq2AtZXIyLeAzyUbVYllrOusH26nB4ZE9ycMOw=",
       "cargoLock": {
         "lockFile": "/generated/iwe.lock",
         "outputHashes": {}
@@ -6447,7 +6447,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-P6JFkcvn29I+Dn6gbsAEbAzp6/gQCdhbr0cuXgMLC+4=",
+      "cargoHash": "sha256-DYBqKKID9QrPSQh8EAACpmYYN3duUsXz0H+z2QWxJhk=",
       "cargoLock": {
         "lockFile": "/generated/jai.lock",
         "outputHashes": {}
@@ -7226,7 +7226,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-tMHX3VPQmFAbR8YHa6rZZUEVd6LhUkYHRWF5LmATYfE=",
+      "cargoHash": "sha256-COPCK/RfzRo60OIpYpro/YCUiGu1tqcJGtQeOQzFUKU=",
       "cargoLock": {
         "lockFile": "/generated/lean4.lock",
         "outputHashes": {}
@@ -7647,7 +7647,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-HZwhMo+nm8o/0QH8qdfeXBPuplUlE1kAWS1hqdN9Gno=",
+      "cargoHash": "sha256-4CtzWpsBqxEWbKD0JJOCUqGEnIstFA8GOX/k9ecmXyU=",
       "cargoLock": {
         "lockFile": "/generated/luau.lock",
         "outputHashes": {}
@@ -7866,7 +7866,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-WKNMnXPqqHOk0vgGmu8X6pwpbN2YYJ/G6AN/UIze25M=",
+      "cargoHash": "sha256-BjUcWe70ahRqeX/Ayy0B2MFVJfzAaPiCeXKKzAThxwc=",
       "cargoLock": {
         "lockFile": "/generated/markdownlint.lock",
         "outputHashes": {}
@@ -8085,7 +8085,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-WJKo7d04CIiZv3/6kBk3erWmoR/23qHtRC6el8MSCWw=",
+      "cargoHash": "sha256-wqIUsadCTxPG76I/wFJUwsZ3AgRyCOSQuQU9XtNcIN8=",
       "cargoLock": {
         "lockFile": "/generated/mcp-planetscale.lock",
         "outputHashes": {}
@@ -8152,7 +8152,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-lsD3N0HM+HSmGoj6EVzM5zvha0Jz6h8M75/uOeuyI50=",
+      "cargoHash": "sha256-k+bDCeWCbu/LDuCpBPZdMwnlwcTpg/AetD4bT1Tngsg=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-buildkite.lock",
         "outputHashes": {}
@@ -8198,7 +8198,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-g1N3gdtKZzilee4vHJ3wbGQFV4S+rbFwMS4ko915r9E=",
+      "cargoHash": "sha256-uVndW/Tn7TwWLQ8UDxBYTam3Z/YPhp+iAQG+nPp7Evs=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-container-use.lock",
         "outputHashes": {}
@@ -8454,7 +8454,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-jc3dqDVP9ehp/OBvkIzXsK9EpSeuDHGx2ohGfK9Z+UA=",
+      "cargoHash": "sha256-RNrMTxeLi0KgP0CWFYaSN6ApkzDzbVxOppMqz4tRcBU=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-mui.lock",
         "outputHashes": {}
@@ -8500,7 +8500,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-g5+Yjfqy3g3UpA9UWl7Lk6UdKZtpbp7rLbKocWfpemM=",
+      "cargoHash": "sha256-lqdjrWox4PrzEctdjS+XcQvAy16uE4AE2syRBcagzGw=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-nextjs.lock",
         "outputHashes": {}
@@ -8714,7 +8714,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-EafsXa31zw6558OAHf5OTEmd1BziTUJ4LyYhPMnvwCw=",
+      "cargoHash": "sha256-f/NsGGkKIwb45PDAdRpE1c8G9ov/6PoxN+o/ebN5r18=",
       "cargoLock": {
         "lockFile": "/generated/mcp-server-vercel.lock",
         "outputHashes": {}
@@ -8825,7 +8825,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Swv02ZcHwijb6TTQITBFxoNzQconK0T3uy8n7H1/POA=",
+      "cargoHash": "sha256-7ogJGsd5zn6ytgzIPzHECGcntyVySOYdq61ZYZleKds=",
       "cargoLock": {
         "lockFile": "/generated/meson.lock",
         "outputHashes": {}
@@ -9255,7 +9255,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-5rEagy4FOGF0WqWds/vSLM1kn9u6z8bOH0EC84zDU1k=",
+      "cargoHash": "sha256-MHedfu35DB+o0db3lPKuy8BlkiEo25JVKtZX4ZHxhPM=",
       "cargoLock": {
         "lockFile": "/generated/motoko.lock",
         "outputHashes": {}
@@ -9449,7 +9449,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-J1yRgafBfpf7S+yRuCzBJjXzUmgI4btxxOMZMgK/0K0=",
+      "cargoHash": "sha256-FEjQ/FVovaTH3mdaYWCKU3ggyAwS/Gip9U2vlGpVSD8=",
       "cargoLock": {
         "lockFile": "/generated/neocmake.lock",
         "outputHashes": {}
@@ -9730,7 +9730,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-j4iwbwgmn9yxBl71QewthxZkdYypV77MwLXbYqQ7lJg=",
+      "cargoHash": "sha256-OZVbgi+nyJCUc1sqwDe1ugtuPQBnagtA+vP9nNsEdCk=",
       "cargoLock": {
         "lockFile": "/generated/nim.lock",
         "outputHashes": {}
@@ -9953,7 +9953,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-sKQ/yjU5cELzYF88lBco5BMfX9Yc5JOs/BtRBxK2ebk=",
+      "cargoHash": "sha256-27GkLNp6GjKd42Og9QjynXzzzG5Prh79e5wYvEsGjdY=",
       "cargoLock": {
         "lockFile": "/generated/norminette.lock",
         "outputHashes": {}
@@ -10786,7 +10786,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-jlUvoQe+pRjWK+jvL/eGkELWLd3iFajA0orNumQszE4=",
+      "cargoHash": "sha256-zG/Ro9EyyWOPHd3vnRVg+CFZYc2hQmAQpV7BXLRUN5s=",
       "cargoLock": {
         "lockFile": "/generated/pact.lock",
         "outputHashes": {}
@@ -11834,7 +11834,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-t5BYEhkN5H5hluW9AhqSlGi+XGMiEVdmSQiKHpLJLco=",
+      "cargoHash": "sha256-cdnoQK4N1GqQDvCRTz5h2yoaNYbv9Rh+VamIVWIQShg=",
       "cargoLock": {
         "lockFile": "/generated/python-refactoring.lock",
         "outputHashes": {}
@@ -11987,7 +11987,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-tH0871kJFB/Ay+kIZarI9lDsQNireO6LQrsvACH9cRA=",
+      "cargoHash": "sha256-aLfZz4QYh7+4m7dkUtHu707hHmtdC/JTU6ZyZfyv4NQ=",
       "cargoLock": {
         "lockFile": "/generated/r.lock",
         "outputHashes": {}
@@ -12200,7 +12200,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ji8mX9z4qZV1cWJRp1LZy5d6XgUxZSOEvqymf+63+Ug=",
+      "cargoHash": "sha256-mKwhUvSXCUpPMe2qr0xxa5RfvKsKRM6VFz3liCZ0wRM=",
       "cargoLock": {
         "lockFile": "/generated/rego.lock",
         "outputHashes": {}
@@ -12370,7 +12370,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ZbOkboTGu1X4Zg6z0UpC6DvJHexYDdSJ8OyOS3GnUdg=",
+      "cargoHash": "sha256-kI53F4NvFrgRMrbnRzJ7xFTM03NXtWjrTiHu2So2060=",
       "cargoLock": {
         "lockFile": "/generated/roc.lock",
         "outputHashes": {}
@@ -12544,7 +12544,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-qBtLET5JGKVzMFgEt3I1PGScpTDACF44M2MoBgDW5Kk=",
+      "cargoHash": "sha256-E+oil2sjlxHkqQQQZFaUxd+TTDLA3pDV2/w9ipvV9d8=",
       "cargoLock": {
         "lockFile": "/generated/rst.lock",
         "outputHashes": {}
@@ -12785,7 +12785,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-6zBlrIZnKgItbo7eYWHnC/4TOORec7HomuZzScOsWvM=",
+      "cargoHash": "sha256-gAjL58TnKkteZHxZSikFfwdu4QO08PKx1eqtskYtztg=",
       "cargoLock": {
         "lockFile": "/generated/scala.lock",
         "outputHashes": {}
@@ -13052,7 +13052,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-z2FQzBTqW/pz7QHfjIVyvigw4gk65VHwkalc/y2FfWU=",
+      "cargoHash": "sha256-UNFfgPobS7oRIakZN+LgNdMx+qNtWzAxk0g1t6rLos0=",
       "cargoLock": {
         "lockFile": "/generated/sieve.lock",
         "outputHashes": {}
@@ -13676,7 +13676,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-e6GIm3re8k1HavjxpQWN3RkY8t7/VP3N3Re2/7sm4GE=",
+      "cargoHash": "sha256-3guOvWvaSnaZtaGfyDoH3HJ69O7rTr2+Q+tMlTmfBiE=",
       "cargoLock": {
         "lockFile": "/generated/sqruff.lock",
         "outputHashes": {}
@@ -14316,7 +14316,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-K6JeV0lFbvboGJFjycgnXFHBfQrr1cL+D2wJ8qNBYTU=",
+      "cargoHash": "sha256-+sbPTv1VR4TogSgyh6T34u8iKrsShcGWxKFrpMx6FmQ=",
       "cargoLock": {
         "lockFile": "/generated/templ.lock",
         "outputHashes": {}
@@ -14408,7 +14408,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-mWgarAKfGUObweliBpnK28c9JKNQMM5gS+4eQ/iiqMs=",
+      "cargoHash": "sha256-aFEgQlacPW6pCVAhawBkfTe9eEtag03Ws885t+yBRSU=",
       "cargoLock": {
         "lockFile": "/generated/terraform-context-server.lock",
         "outputHashes": {}
@@ -14475,7 +14475,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-m/DKFmbz6IuqxvUEysNB528iL+TagN+xDAbjkxGVx6M=",
+      "cargoHash": "sha256-XpKxT4i+E6M1qacBOnST8/HlSx7J6sxcqfPqx0niNbw=",
       "cargoLock": {
         "lockFile": "/generated/textproto.lock",
         "outputHashes": {}
@@ -15078,7 +15078,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-6sNNK2Buoh+779cWo5+pwqQfXc5hRp95KDYeP0GuIo8=",
+      "cargoHash": "sha256-n15T3LZHHURi19tE3yjAUnoMhKW5XwAqq+LjN+zZnuM=",
       "cargoLock": {
         "lockFile": "/generated/typos.lock",
         "outputHashes": {}
@@ -15128,7 +15128,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-aLUBR8ltLFWMkcUm1kOM7Vnss42pJzPz04BkL1SaOKs=",
+      "cargoHash": "sha256-0/gKExO+mx4Pquz2e1tAieyay41ASV7/qm+pc1og34o=",
       "cargoLock": {
         "lockFile": "/generated/ucode.lock",
         "outputHashes": {}
@@ -15338,7 +15338,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-t9nLAcMtR07zUDmyxl6K7uCdZGY/wHYxcLm/5wt2+s4=",
+      "cargoHash": "sha256-ldkCLu43Ulab7/Du1Q++fZyvAM55JgDTtJR4y8XiQ+A=",
       "cargoLock": {
         "lockFile": "/generated/v.lock",
         "outputHashes": {}
@@ -15424,7 +15424,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Ugy7NHuAkWCqj2iQbTNH/OBx1TzdF61st5jEZPW3CdA=",
+      "cargoHash": "sha256-OyQuEQkJYosrSgLnxmauGUAq7Sn3PmxUVqTJGMht6CM=",
       "cargoLock": {
         "lockFile": "/generated/vala.lock",
         "outputHashes": {}
@@ -16309,7 +16309,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-RAwhW82pzbfMTz3QfTxWBCYBtWPsXSicf6uSgpB7KyY=",
+      "cargoHash": "sha256-iLbWgc0S046rA+WVZRLD6SUeJJN6Vw2wgTui5Wx5YAc=",
       "cargoLock": {
         "lockFile": "/generated/yara.lock",
         "outputHashes": {}
@@ -16433,7 +16433,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-JSrQBh33AhysJxJzZefYLWJykVQ6NG9fae5LyCNheLw=",
+      "cargoHash": "sha256-F1Po9VrK66ckwx7XlBywFxmh3+fdzt8KlN8RIDUC4AY=",
       "cargoLock": {
         "lockFile": "/generated/zabby.lock",
         "outputHashes": {}
