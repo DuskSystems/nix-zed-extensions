@@ -1571,6 +1571,27 @@
       "kind": "plain"
     },
     {
+      "name": "bun-docs-mcp",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/kjanat/bun-docs-mcp-zed",
+        "rev": "b22ab65ecded51a6c67f609583f0b7ea3d9ee754",
+        "date": "2025-11-03T18:57:06+01:00",
+        "path": "/nix/store/7s53m2733c7lmw50g01j0lnpkqym8gxa-bun-docs-mcp-zed-b22ab65",
+        "sha256": "08bi7xiiilmflxcx5frdv6qwi419k8fnbn5kmqnh8kjycrsj02kk",
+        "hash": "sha256-cwogdWZeTgQtrrPYZR2aKZDIsdktu9JZp67SGGM/cSE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-yUKHRdLRE1EXoBrXmLSlnJ46VzAO1q1jv45Of7Y5UcE="
+    },
+    {
       "name": "c3",
       "version": "0.0.2",
       "src": {
@@ -3513,14 +3534,14 @@
     },
     {
       "name": "dockerfile",
-      "version": "0.0.6",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/zed-extensions/dockerfile",
-        "rev": "71efe9b4ff0057ac54d5a8bc10501279502f90ce",
-        "date": "2025-09-26T15:32:26-07:00",
-        "path": "/nix/store/4xvkhwinkrmhcry8pib7zxasw7vralp2-dockerfile-71efe9b",
-        "sha256": "00nm5ifp0072fq4arqzsc8yq0z53ng828ps2jdd1ykhy6fq1fa99",
-        "hash": "sha256-KSkXsDMeTh9ak0JfJNCzo3yAPWL646wIduIAcF0s1QI=",
+        "rev": "6f341f0c18f6afb4ed3e9346a9260013cf84c377",
+        "date": "2025-11-03T11:53:45+01:00",
+        "path": "/nix/store/i7zn87s1934bmcbi5fria8ml6h5zily0-dockerfile-6f341f0",
+        "sha256": "03jrfyi0f3qjfj6iqfagiyzmzq2dx1smrqlqx9himr1m6q9njjdl",
+        "hash": "sha256-tElpEzY15Bph6pjiXHXoTeBfv49PORyNdBIPB6J3WQ4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3532,7 +3553,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-IuscaJv85EOktI2dn2hw41KMV4MRAYpjKoMdzCLUGBs="
+      "cargoHash": "sha256-DLFLPdjJng4y5YRr2lwBghBtonlBaTFf+zstsTJKtRU="
     },
     {
       "name": "dogi",
@@ -4717,14 +4738,14 @@
     },
     {
       "name": "gdscript-snippets",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/loyal-disloyal/gdscript-zed-snippets",
-        "rev": "2b8c4a3b803800435a133ef5b14cb554502b1055",
-        "date": "2025-10-31T18:55:49+05:30",
-        "path": "/nix/store/3bva12sp5crlyjkscd30ar2zwi0lbyi1-gdscript-zed-snippets-2b8c4a3",
-        "sha256": "0iz5adfjqgx16pxmwsgw0sw80pyz7qixpfilzyk8kkrghkzia363",
-        "hash": "sha256-wwwV/4Qvz4mm/zS62yM+31+AuAb8aV77NaE/LF1T5Uc=",
+        "rev": "eacdbf043b2af92da4166746a3300658fa4200bf",
+        "date": "2025-11-01T14:18:32+05:30",
+        "path": "/nix/store/l1qszxvaxz34jha85a5vwan8hhy65fvw-gdscript-zed-snippets-eacdbf0",
+        "sha256": "1hsfpba08ap8irxpmjcbgw63fddsjrw034zpzqwdgqb05lq85k6b",
+        "hash": "sha256-y8yCMC1g4dc4/veTAXiWujU3DH+LyXp7jugqBNS6TsM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5696,14 +5717,14 @@
     },
     {
       "name": "haml",
-      "version": "0.1.3",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/davidcornu/zed-haml",
-        "rev": "7dfe9169b24846edf4923bec96e088fbbe14f7c5",
-        "date": "2025-10-02T10:56:56-04:00",
-        "path": "/nix/store/rpvk9b4l6563i4zwwimv280d701kbhkf-zed-haml-7dfe916",
-        "sha256": "1gnxjbg6jwgzlr0qd3abzlhgsivckj26fxryvp2v2jg599cagfqr",
-        "hash": "sha256-GbunWErlSbHF3T53Z4ScbEf9IP1LjYZBpv9xad6S3b4=",
+        "rev": "56e55863626a3f75250491e81c0071a2cf927c54",
+        "date": "2025-11-01T17:05:22-04:00",
+        "path": "/nix/store/2asi3h5lzzxmff932fdnwjyiqmsiqb8d-zed-haml-56e5586",
+        "sha256": "0mcpis3y20pbv455avrkk1vpppcgwnh9bhygs167iqavkk37azbw",
+        "hash": "sha256-fH11xpxb4XhM0M/DlaDlj917d5gzb1UK2esC4YeOl1U=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6476,14 +6497,14 @@
     },
     {
       "name": "java",
-      "version": "6.5.0",
+      "version": "6.6.0",
       "src": {
-        "url": "https://github.com/samuser107/zed-java-extension",
-        "rev": "04f9b6772b56775cd2b059d5ad9b44a0725e97ba",
-        "date": "2025-10-03T21:44:50+02:00",
-        "path": "/nix/store/6vln9vnfl49ibsiiianrs3xpvxqy1989-zed-java-extension-04f9b67",
-        "sha256": "1b3hcmdqjqq4jms6mmd8xvfivqwa2h8kz8azc2vxz7a18vcqxz8y",
-        "hash": "sha256-Hv2O2UZBnd+3YF+hPxEUiuMd3e6o1Wp0lQRjiVtlcKw=",
+        "url": "https://github.com/zed-extensions/java",
+        "rev": "42da742a52ef1ccb216b310e6698a92d6928fbcd",
+        "date": "2025-11-03T09:57:58+01:00",
+        "path": "/nix/store/f4izrk6bpwas1yp3cx69i5rh65vqwbgw-java-42da742",
+        "sha256": "1hfdczfjl77j067r6y36m18q1h055kpjn35qa1piw4d5xbrxdxkj",
+        "hash": "sha256-cvbW8+qlER5vULgMK+8sBcCAUahmeJOPAfIcKt1nzcE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6496,7 +6517,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-CVpuReaZ2AXZXAOnuwQsp3MW2TVRLvGG6sSZHy8au98="
+      "cargoHash": "sha256-s7MlAXON5WcxLtZSeAyVzDtFXIcnu//ccGsjvZZNiwA="
     },
     {
       "name": "java-eclipse-jdtls",
@@ -7297,14 +7318,14 @@
     },
     {
       "name": "less",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/jimliang/zed-less",
-        "rev": "03b7f16c7465ab55a29a0f3b88fb12bf57e627e7",
-        "date": "2024-06-30T23:23:14+08:00",
-        "path": "/nix/store/895njzwikb2k2rysxrqa1qsd48cl4mdn-zed-less-03b7f16",
-        "sha256": "0x670gi2smxz612wsnianfnnvriq6fg8gkwf20d89lhzz6g9sqj2",
-        "hash": "sha256-QmKdnvkf0oQaEI7Ph54zOOZtrbMqWs1FML9XLeIDx3Q=",
+        "rev": "bd69c06000f9a49d65dd447ec8033b804127fe62",
+        "date": "2025-10-30T02:09:35+08:00",
+        "path": "/nix/store/ikrr9d6gb1prh6wxcn0an3fpvzlxp1sy-zed-less-bd69c06",
+        "sha256": "1r0kzfdgsmh9hj8xs591hpg68mfm1d1090nn1ix8slydlw06y2c1",
+        "hash": "sha256-gQlvAKfNU416DNaCBEIL1VVk3oUhFd2RhAlW/Zr7E+Q=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7316,7 +7337,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-+uZ1DMj+DGRbJfgIHb5f08OpG1mCyUWrfBNHufiIAms="
+      "cargoHash": "sha256-mTbA/qAlGPKgAxjkdKyATUCOZMEfT0OKoyzOCYrqL9Q="
     },
     {
       "name": "libsql-context-server",
@@ -10118,6 +10139,29 @@
       "kind": "plain"
     },
     {
+      "name": "oat",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/WhySoBad/zed-oat-extension",
+        "rev": "5451726fd1bb462f9eded693f666848236fb9f6c",
+        "date": "2025-11-02T17:59:37+01:00",
+        "path": "/nix/store/6532gpqzslb08igch0wbbaq442q72fii-zed-oat-extension-5451726",
+        "sha256": "1vj2dv60z40pnjl78f4jw76pasagbly3ylrj9yslqvclnglsazvd",
+        "hash": "sha256-bX+l6bOUbUy1TzJTPzxdT2l1zeGSOHSotBeQD8xuQu4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "oat_oat"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-qhPXNejkj4GZ0u9h7NV4tAlhf0tzli1ypy+AMuWPFJI="
+    },
+    {
       "name": "objectscript",
       "version": "1.1.0",
       "src": {
@@ -10523,14 +10567,14 @@
     },
     {
       "name": "opencode",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/sst/opencode-zed-extension",
-        "rev": "e1affe3cb7aab5eec7483bf4a82a443c776b42b5",
-        "date": "2025-10-29T21:24:30-05:00",
-        "path": "/nix/store/vkbnrbpi4v0l0d6bmls71icxf1lr4phy-opencode-zed-extension-e1affe3",
-        "sha256": "0qsk6l2bnb961nipz2vjmg6gs5255ajk079rm69lyfxnswi9b7iz",
-        "hash": "sha256-P56VIte2O0+TqTkdMKUqRRT9zKtyi3+jDSYtuwQ1U2M=",
+        "rev": "328d30644468bcb472555019e0f2df084e354d1b",
+        "date": "2025-11-03T12:58:46-06:00",
+        "path": "/nix/store/sg8pcx0i8ymp5n823kzhryv1r6857ahv-opencode-zed-extension-328d306",
+        "sha256": "0c6752xhd9f5m0kb390rq1jj5mqn9h33cb4x58g174gzp9v8xg92",
+        "hash": "sha256-Ir2Odrr/kRMeKp0sNgZMFtciZcAZpLEmqMWlBrsoxzA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12552,14 +12596,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.14.1",
+      "version": "0.15.0",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "7c7af997b603c1407ff650579849669a5862952b",
-        "date": "2025-10-28T21:17:43+01:00",
-        "path": "/nix/store/fdd6d0smji5jbk29ws94k229p3f0863y-ruby-7c7af99",
-        "sha256": "0fgpmibw8j5midi0a4p48rsjh240i99hi202vlihk8gc6mh88ccz",
-        "hash": "sha256-nzGEYDXsoQkj3QKICFOKgAgodUbkEgVii7VIxFes9zk=",
+        "rev": "e599fa53d7ba97a2178b20927f9b25ca5f949d8d",
+        "date": "2025-11-01T18:42:52+01:00",
+        "path": "/nix/store/p562063wy1z2nkj787dcyb1jvfjl0grm-ruby-e599fa5",
+        "sha256": "0wy78rjndqx7pjgfyv8yx67jm9cqrwk27dsymizn1k674bivjjcn",
+        "hash": "sha256-lkm54yLHzGB/rF63IybPmKUqj+kebe+evKfjZmVGx3M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12573,7 +12617,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-8q1PBi2lEzUUuyQP32+lqdtRB3FsNqZb9DhZTjK8Rdc="
+      "cargoHash": "sha256-03QZVWIeYFYkBGh/dIGYG6PR0MN87/ve86fk4NTisiA="
     },
     {
       "name": "ruff",
@@ -12971,6 +13015,31 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "shadcn-mcp",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/MrUprizing/zed-mcp-server-shadcn",
+        "rev": "344da28067e03f04f18b3a6d58068851f8e2ece1",
+        "date": "2025-10-28T20:16:33-05:00",
+        "path": "/nix/store/mky17vfblakbfkqn730bnmldglp5in52-zed-mcp-server-shadcn-344da28",
+        "sha256": "1rg1p4fyry5cxrdaqdj8bxz6phbfp9gxf3c80h0x5fvhnk6di00p",
+        "hash": "sha256-F4DYzLRwu9IBBIgN11+6bsFrfl9INqxa7qz47B254eU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-OWfsLuGs91FrBVbE4hQUqud/W3zMobbfI6fjIhVhybQ=",
+      "cargoLock": {
+        "lockFile": "/generated/shadcn-mcp.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "shader-ls",
@@ -13894,6 +13963,25 @@
       "kind": "plain"
     },
     {
+      "name": "subliminal-nightfall",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/mhamrah/subliminal-nightfall",
+        "rev": "56520158f5a55fda4d3cadc43611f2f9a5d69b95",
+        "date": "2025-11-01T21:56:50-04:00",
+        "path": "/nix/store/0dlq5h786ch7bg15hbmgl4xlqb0j9lb6-subliminal-nightfall-5652015",
+        "sha256": "07x2klv3rj5lqv57daw3y37p3vysyc2p0h03krbvv1w2sb594xcq",
+        "hash": "sha256-mHWSytKCh71XngNAcAXz2u9xz/CDq3bKxrTIPDadoh8=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "sumi-light",
       "version": "0.0.1",
       "src": {
@@ -14076,14 +14164,14 @@
     },
     {
       "name": "swift",
-      "version": "0.4.3",
+      "version": "0.4.4",
       "src": {
         "url": "https://github.com/samuser107/zed-swift-extension",
-        "rev": "c363d1e91e28989f1397fa1e46b651f708d1d36c",
-        "date": "2025-06-27T16:37:31-04:00",
-        "path": "/nix/store/52yrpdzbsyq45mzw63ydnjvbskaxqvyy-zed-swift-extension-c363d1e",
-        "sha256": "1scldzfh3g3arqmh74i1z8kp0cqi4l7vplap0msrb987q50g6mmj",
-        "hash": "sha256-slbzQMEHpZV1BVfRuw8lETNwJ/ohkgMrzmq8Ad1vlOk=",
+        "rev": "e91e66b0a5327323f8ce958f853c2d162ef2b92a",
+        "date": "2025-11-03T15:38:21+01:00",
+        "path": "/nix/store/2zsc7bja7bp4haq2h405ylm0wpl25yx5-zed-swift-extension-e91e66b",
+        "sha256": "0qndgrqgfagw1frwvap3zfv08rw1clbigdxygrl2sh9js4hifnk5",
+        "hash": "sha256-ZVoXIdEyQS1ofr63FxdlgWcEtvvjqs2zC/wp93B+zWI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14095,7 +14183,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-xY4rSjc7RvPdTfMvDJwXpanlrhP3x7WXzQIvVeUBmx4="
+      "cargoHash": "sha256-BnFn5dwU6eULGzQ2Y7FYsNv/wj5EHpKZrK+Ym2AQVAQ="
     },
     {
       "name": "symbols",
@@ -14219,14 +14307,14 @@
     },
     {
       "name": "taiga-theme",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/joshdales/taiga-theme",
-        "rev": "b5d818733da5f9a15f9028aa5472fc2793bb58f2",
-        "date": "2025-08-24T15:06:18-04:00",
-        "path": "/nix/store/12j3kqhba1dxzm2b7k54viyw3xr35z3c-taiga-theme-b5d8187",
-        "sha256": "0crp121r26rnwdvyzpjck816jy3qljf7ajr1cmyc4669ksjgrwfz",
-        "hash": "sha256-3/H8pJ7JGMJ8ZSFLdZykeHhpAppM3u934zYbkYMINzM=",
+        "rev": "95e6b3f9ed777a3e84b9aed82c15617702afd55b",
+        "date": "2025-11-03T17:49:09-05:00",
+        "path": "/nix/store/ayl6rs71ai76m67xf9q0954zagwr804z-taiga-theme-95e6b3f",
+        "sha256": "0q5p0538ldg8bvf2vd5yd6q5wszrxi49h2635fmdlj7iygmy73ya",
+        "hash": "sha256-yo/j6/PxSNqqK8MImEjs+WtesGm+tC3cXug1ikYBt2A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15402,6 +15490,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-/1+S4/qGAOcH5mV/eR1l3X0wXvuhYPM9NN0ogDu7GkI="
+    },
+    {
+      "name": "vague",
+      "version": "0.1.1",
+      "src": {
+        "url": "https://github.com/vague-theme/vague-zed",
+        "rev": "7ed35f11561192ec60cd0d00e8b1d082cce17098",
+        "date": "2025-11-03T20:13:17+03:00",
+        "path": "/nix/store/50c2pn3q505qrl856rcp3qanmhyhvh2w-vague-zed-7ed35f1",
+        "sha256": "1y2nq5b99cjqg4rc4nbbl158g1mxr09ry0xj1xlwggqpljly0b1s",
+        "hash": "sha256-OizgqaQXv8dpD7IDnxPIvYaHSqBrWcIyeViylFbBVvg=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "vala",
@@ -18759,14 +18866,14 @@
     {
       "id": "haml_haml",
       "name": "haml",
-      "version": "a2af65572be29bb79ef00dd787776b57a82ab16d",
+      "version": "3e5bdaef84a7a65bd8e2f8a6f69120b53dac1e94",
       "src": {
         "url": "https://github.com/vitallium/tree-sitter-haml",
-        "rev": "a2af65572be29bb79ef00dd787776b57a82ab16d",
-        "date": "2025-05-01T07:32:48+02:00",
-        "path": "/nix/store/sg34s0hazskgqjz3z383ia6scxj60cxx-tree-sitter-haml-a2af655",
-        "sha256": "0s7hf5pb2rscb13g2kqxhk411qr4wv5kv4sqzbzksjfpjp0plq33",
-        "hash": "sha256-Y2B6wZXXST3/+liTPcvmJOMQyIQdT/FGWExnsW5x8Gg=",
+        "rev": "3e5bdaef84a7a65bd8e2f8a6f69120b53dac1e94",
+        "date": "2025-10-27T20:24:51+01:00",
+        "path": "/nix/store/ak0bp4wbzr5zkx9rxmgvdysfyrwzkx81-tree-sitter-haml-3e5bdae",
+        "sha256": "0iicld2pa921xns6a512af1z25rm8hjd3d4n2s6h0ma8xq1akhc0",
+        "hash": "sha256-gMGpAu5IVQCNFpa00SRENRfxg1MiFGW07UEkdUWjLEY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20171,6 +20278,24 @@
         "path": "/nix/store/ysqc3rmag66fz5zbh2fg98d73yk6snj7-tree-sitter-nunjucks-683a6e9",
         "sha256": "19vbsgk06j1qxzai3cvd4q930n7wd89lr9yiwnzsb66x848k49i9",
         "hash": "sha256-KSYyEUHdmKW/5dGnTBNq/FgwEiZtsxHV7zhIA+bTa6c=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "oat_oat",
+      "name": "oat",
+      "version": "220ff89be8f5d8f71fcb6b9e22115dd14cb2e083",
+      "src": {
+        "url": "https://github.com/WhySoBad/tree-sitter-oat",
+        "rev": "220ff89be8f5d8f71fcb6b9e22115dd14cb2e083",
+        "date": "2025-11-02T17:58:46+01:00",
+        "path": "/nix/store/6v9528w256fgmjrncnfgrxraviqq2873-tree-sitter-oat-220ff89",
+        "sha256": "0zjaq0mf0mfzz4sc94iwd2jhl348gi0pc442da4hjji26sg79pmk",
+        "hash": "sha256-s950njYiSgmJaoIQdkF8iAwKpWg8ksQ0+d9V4CrASn4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
