@@ -15853,6 +15853,25 @@
       "cargoHash": "sha256-UExOhmcchbRy5AIMfZwG0VjUNJULrCuoXpLhynhRoXY="
     },
     {
+      "name": "vim-theme",
+      "version": "0.5.1",
+      "src": {
+        "url": "https://github.com/daniel-thompson/vim-theme-for-zed",
+        "rev": "e7552650af136948632497d9a1e38fb53ef4ef37",
+        "date": "2025-11-09T14:14:33Z",
+        "path": "/nix/store/34a2x2x9x15rlb6f5szd9ns3bar0h7hn-vim-theme-for-zed-e755265",
+        "sha256": "1iiwhsa1krj9bka7q0fz34d83pjgi2c6a42xxjr7swmyk5h20453",
+        "hash": "sha256-oxAgYJm+cn2y7F0QZZiIT96BGhnfAXzUXEnmGZSGPMY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "visual-assist-dark",
       "version": "0.0.5",
       "src": {
