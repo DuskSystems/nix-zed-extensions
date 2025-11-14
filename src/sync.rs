@@ -1,22 +1,18 @@
-use std::env::temp_dir;
-use std::path::Path;
+use std::{env::temp_dir, path::Path};
 
 use grammar::process_grammars;
 use rust::process_rust_extension;
-use tokio::fs;
-use tokio::process::Command;
+use smol::{fs, process::Command};
 
-use crate::manifest::ExtensionManifest;
-use crate::output::{Extension, ExtensionKind, Grammar, Source};
-use crate::registry::RegistryExtension;
+use crate::{
+    manifest::ExtensionManifest,
+    output::{Extension, ExtensionKind, Grammar, Source},
+    registry::RegistryExtension,
+};
 
 mod grammar;
 mod rust;
 
-#[tracing::instrument(
-    skip(extension),
-    fields(name = %extension.name, version = %extension.version, repo = %extension.repository, rev = %extension.rev)
-)]
 pub async fn process_extension(
     extension: RegistryExtension,
 ) -> anyhow::Result<Option<(Extension, Vec<Grammar>)>> {
@@ -69,7 +65,6 @@ pub async fn process_extension(
     )))
 }
 
-#[tracing::instrument(fields(repo = %repo, rev = %rev, dest = ?dest))]
 async fn checkout_git_repo(repo: &str, rev: &str, dest: &Path) -> anyhow::Result<()> {
     tracing::info!("Checking out repository");
 
@@ -112,7 +107,6 @@ async fn checkout_git_repo(repo: &str, rev: &str, dest: &Path) -> anyhow::Result
     Ok(())
 }
 
-#[tracing::instrument(fields(repo = %repo, rev = %rev, fetch_submodules = %fetch_submodules))]
 async fn prefetch_git_repo(
     repo: &str,
     rev: &str,
