@@ -1,29 +1,28 @@
-use std::collections::BTreeMap;
-use std::env::{current_dir, temp_dir};
-use std::num::NonZero;
-use std::path::{Path, PathBuf};
-use std::str::FromStr;
-use std::sync::Arc;
+use std::{
+    collections::BTreeMap,
+    env::{current_dir, temp_dir},
+    num::NonZero,
+    path::{Path, PathBuf},
+    sync::Arc,
+};
 
 use cargo_lock::Lockfile;
+use futures_util::stream::FuturesUnordered;
 use serde_json::Value;
-use tokio::fs;
-use tokio::process::Command;
-use tokio::sync::Semaphore;
-use tokio::task::JoinSet;
-
-use crate::output::{CargoLock, ExtensionKind};
-use crate::registry::RegistryExtension;
+use smol::{fs, lock::Semaphore, process::Command, stream::StreamExt};
+use tracing::Instrument;
 
 use super::prefetch_git_repo;
+use crate::{
+    output::{CargoLock, ExtensionKind},
+    registry::RegistryExtension,
+};
 
-#[derive(Debug)]
 pub struct CargoWorkspace {
     lockfile: PathBuf,
     root: Option<String>,
 }
 
-#[tracing::instrument(fields(path = ?extension.path))]
 pub async fn process_rust_extension(
     extension: &RegistryExtension,
     repo: &Path,
@@ -31,7 +30,6 @@ pub async fn process_rust_extension(
     name: &str,
 ) -> anyhow::Result<(ExtensionKind, Option<String>)> {
     let workspace = find_cargo_workspace(dir, extension.path.as_deref()).await?;
-
     let altered_lockfile =
         process_cargo_lockfile(&workspace, repo, dir, &extension.repository, name).await?;
 
@@ -41,7 +39,6 @@ pub async fn process_rust_extension(
     Ok((kind, root))
 }
 
-#[tracing::instrument(fields(dir = ?dir, path = ?path))]
 async fn find_cargo_workspace(dir: &Path, path: Option<&str>) -> anyhow::Result<CargoWorkspace> {
     let Some(path) = path else {
         let lockfile = dir.join("Cargo.lock");
@@ -99,7 +96,6 @@ async fn find_cargo_workspace(dir: &Path, path: Option<&str>) -> anyhow::Result<
     })
 }
 
-#[tracing::instrument(fields(lockfile = ?workspace.lockfile, url = %url, name = %name))]
 async fn process_cargo_lockfile(
     workspace: &CargoWorkspace,
     repo: &Path,
@@ -157,15 +153,13 @@ async fn process_cargo_lockfile(
     Ok(false)
 }
 
-#[tracing::instrument(fields(root = ?workspace.root, path = ?path))]
 fn calculate_rust_extension_root(workspace: &CargoWorkspace, path: Option<&str>) -> Option<String> {
-    let extension_path = path?;
-
+    let path = path?;
     let Some(cargo_root) = &workspace.root else {
-        return Some(extension_path.to_owned());
+        return Some(path.to_owned());
     };
 
-    let relative = Path::new(extension_path).strip_prefix(cargo_root).ok()?;
+    let relative = Path::new(path).strip_prefix(cargo_root).ok()?;
     let relative = relative.to_string_lossy().to_string();
 
     if relative.is_empty() {
@@ -175,7 +169,6 @@ fn calculate_rust_extension_root(workspace: &CargoWorkspace, path: Option<&str>)
     }
 }
 
-#[tracing::instrument(fields(name = %name))]
 async fn calculate_rust_extension_kind(
     name: &str,
     workspace: &CargoWorkspace,
@@ -200,7 +193,6 @@ async fn calculate_rust_extension_kind(
     })
 }
 
-#[tracing::instrument(fields(name = %name, lockfile = ?lockfile))]
 async fn generate_cargo_hash(name: &str, lockfile: &Path) -> anyhow::Result<String> {
     let tmp_vendor = temp_dir().join(format!("{name}_vendor"));
     if tmp_vendor.exists() {
@@ -242,17 +234,16 @@ async fn generate_cargo_hash(name: &str, lockfile: &Path) -> anyhow::Result<Stri
     Ok(cargo_hash)
 }
 
-#[tracing::instrument]
 async fn calculate_cargo_output_hashes(
     lockfile: &Path,
 ) -> anyhow::Result<BTreeMap<String, String>> {
     tracing::info!("Calculating output hashes for git dependencies");
 
     let lockfile_content = fs::read_to_string(lockfile).await?;
-    let lockfile = Lockfile::from_str(&lockfile_content)?;
+    let lockfile: Lockfile = toml::from_str(&lockfile_content)?;
 
     let mut output = BTreeMap::new();
-    let mut futures = JoinSet::new();
+    let mut futures = FuturesUnordered::new();
 
     let limit = std::thread::available_parallelism()
         .map(NonZero::get)
@@ -296,13 +287,21 @@ async fn calculate_cargo_output_hashes(
         let key = format!("{name}-{version}");
         let semaphore = Arc::clone(&semaphore);
 
+        let span = tracing::info_span!(
+            "fetch_git_dependency",
+            package = %name,
+            version = %version,
+            url = %url,
+            rev = %rev,
+        );
+
         let future = async move {
-            let _permit = semaphore.acquire().await?;
-            let src = prefetch_git_repo(&url, &rev, true).await?;
+            let _permit = semaphore.acquire().await;
+            let src = prefetch_git_repo(&url, &rev, true).instrument(span).await?;
             anyhow::Ok((key, src.hash))
         };
 
-        futures.spawn(future);
+        futures.push(future);
     }
 
     if futures.is_empty() {
@@ -310,7 +309,7 @@ async fn calculate_cargo_output_hashes(
         return Ok(output);
     }
 
-    while let Some(Ok(result)) = futures.join_next().await {
+    while let Some(result) = futures.next().await {
         match result {
             Ok((key, hash)) => {
                 tracing::info!(key = key, hash = hash, "Calculated git dependency hash");

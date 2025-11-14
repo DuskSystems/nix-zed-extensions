@@ -1,30 +1,44 @@
-use std::collections::BTreeMap;
-use std::env::temp_dir;
+use std::{collections::BTreeMap, env::temp_dir};
 
-use tokio::{fs, task::JoinSet};
-
-use crate::{manifest::GrammarManifestEntry, output::Grammar};
+use futures_util::stream::FuturesUnordered;
+use smol::{fs, stream::StreamExt};
+use tracing::Instrument;
 
 use super::{checkout_git_repo, prefetch_git_repo};
+use crate::{manifest::GrammarManifestEntry, output::Grammar};
 
 pub struct ProcessedGrammars {
     pub grammars: Vec<Grammar>,
     pub ids: Vec<String>,
 }
 
-#[tracing::instrument(fields(name = %name))]
 pub async fn process_grammars(
     grammars: BTreeMap<String, GrammarManifestEntry>,
     name: &str,
 ) -> anyhow::Result<ProcessedGrammars> {
-    let mut futures = JoinSet::new();
+    let mut futures = FuturesUnordered::new();
     for (grammar_name, grammar) in grammars {
-        let future = process_grammar(grammar_name.clone(), grammar, name.to_owned());
-        futures.spawn(future);
+        let name = name.to_owned();
+
+        let span = tracing::info_span!(
+            "process_grammar",
+            name = %grammar_name,
+            extension = %name,
+            repo = %grammar.repository,
+            rev = %grammar.rev,
+        );
+
+        let future = async move {
+            process_grammar(grammar_name, grammar, name)
+                .instrument(span)
+                .await
+        };
+
+        futures.push(future);
     }
 
     let mut processed_grammars = vec![];
-    while let Some(Ok(result)) = futures.join_next().await {
+    while let Some(result) = futures.next().await {
         match result {
             Ok(Some(grammar)) => {
                 processed_grammars.push(grammar);
@@ -50,7 +64,6 @@ pub async fn process_grammars(
     })
 }
 
-#[tracing::instrument(fields(name = %name, extension = %extension))]
 async fn process_grammar(
     name: String,
     grammar: GrammarManifestEntry,
@@ -64,7 +77,6 @@ async fn process_grammar(
     checkout_git_repo(&repo, &rev, &tmp_repo).await?;
 
     let src = prefetch_git_repo(&repo, &rev, false).await?;
-
     fs::remove_dir_all(&tmp_repo).await?;
 
     let grammar_root = grammar

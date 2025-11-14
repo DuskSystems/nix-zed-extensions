@@ -18,7 +18,9 @@
     },
 
     "TOML": {
-      "language_servers": ["taplo"]
+      "language_servers": ["taplo"],
+      "format_on_save": "on",
+      "formatter": "language_server"
     }
   },
 

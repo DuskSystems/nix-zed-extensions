@@ -44,22 +44,17 @@ str_to_string = "deny"
 too_many_lines = "allow"
 
 # TODO
-multiple_crate_versions = "allow"
 missing_errors_doc = "allow"
 missing_panics_doc = "allow"
 
 [dependencies]
 # Async
-tokio = { version = "1.47", default-features = false, features = [
-  "fs",
-  "macros",
-  "process",
-  "rt-multi-thread",
-  "sync",
-] }
+smol = "2.0"
+smol-macros = "0.1"
+futures-util = { version = "0.3", default-features = false, features = ["std"] }
 
 # Cargo
-cargo-lock = "10.1"
+cargo-lock = "11.0"
 
 # WASM
 wasmparser = { version = "0.240", default-features = false, features = [
@@ -72,8 +67,18 @@ serde_json = "1.0"
 toml = "0.9"
 
 # Logging
-tracing = "0.1"
-tracing-subscriber = "0.3"
+tracing = { version = "0.1", default-features = false }
+tracing-subscriber = { version = "0.3", default-features = false, features = [
+  "std",
+  "fmt",
+  "ansi",
+] }
 
 # Errors
 anyhow = "1.0"
+
+# Pinned
+idna_adapter = "=1.0.0"
+
+[package.metadata.cargo-shear]
+ignored = ["idna_adapter"]

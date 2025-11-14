@@ -1,20 +1,22 @@
-use std::collections::{BTreeMap, HashSet};
-use std::env::temp_dir;
-use std::num::NonZero;
-use std::path::Path;
-use std::process::Command;
-use std::sync::Arc;
+use std::{
+    collections::{BTreeMap, HashSet},
+    env::temp_dir,
+    num::NonZero,
+    path::Path,
+    process::Command,
+    sync::Arc,
+};
 
+use futures_util::stream::FuturesUnordered;
 use registry::RegistryExtension;
-use tokio::fs;
-use tokio::sync::Semaphore;
-use tokio::task::JoinSet;
+use smol::{fs, lock::Semaphore, stream::StreamExt};
+use smol_macros::main;
+use tracing::Instrument;
 
-use crate::manifest::ExtensionManifest;
-use crate::output::NixExtensions;
-use crate::registry::RegistryEntry;
-use crate::sync::process_extension;
-use crate::wasm::extract_zed_api_version;
+use crate::{
+    manifest::ExtensionManifest, output::NixExtensions, registry::RegistryEntry,
+    sync::process_extension, wasm::extract_zed_api_version,
+};
 
 pub mod manifest;
 pub mod output;
@@ -22,8 +24,13 @@ pub mod registry;
 pub mod sync;
 pub mod wasm;
 
-#[tokio::main]
-async fn main() -> anyhow::Result<()> {
+main! {
+    async fn main() -> anyhow::Result<()> {
+        run().await
+    }
+}
+
+async fn run() -> anyhow::Result<()> {
     tracing_subscriber::fmt()
         .compact()
         .without_time()
@@ -213,18 +220,25 @@ async fn main() -> anyhow::Result<()> {
 
             let semaphore = Arc::new(Semaphore::new(limit));
 
-            let mut futures = JoinSet::new();
+            let mut futures = FuturesUnordered::new();
             for extension in extensions {
                 let semaphore = Arc::clone(&semaphore);
+
+                let span = tracing::info_span!(
+                    "process_extension",
+                    name = %extension.name,
+                    version = %extension.version,
+                );
+
                 let future = async move {
-                    let _acquire = semaphore.acquire().await?;
-                    process_extension(extension).await
+                    let _acquire = semaphore.acquire().await;
+                    process_extension(extension).instrument(span).await
                 };
 
-                futures.spawn(future);
+                futures.push(future);
             }
 
-            while let Some(Ok(result)) = futures.join_next().await {
+            while let Some(result) = futures.next().await {
                 match result {
                     Ok(Some((extension, grammars))) => {
                         output.extensions.push(extension);
@@ -268,7 +282,7 @@ async fn main() -> anyhow::Result<()> {
             let languages = &path.join("languages");
             if languages.exists() {
                 let mut language_entries = fs::read_dir(languages).await?;
-                while let Some(language) = language_entries.next_entry().await? {
+                while let Some(language) = language_entries.try_next().await? {
                     let language_path = language.path();
                     let config = language_path.join("config.toml");
                     if fs::metadata(&config).await.is_ok() {
@@ -283,7 +297,7 @@ async fn main() -> anyhow::Result<()> {
             let themes = &path.join("themes");
             if themes.exists() {
                 let mut theme_entries = fs::read_dir(themes).await?;
-                while let Some(theme) = theme_entries.next_entry().await? {
+                while let Some(theme) = theme_entries.try_next().await? {
                     let theme_path = theme.path();
                     if theme_path.extension() == Some("json".as_ref()) {
                         let relative_theme_path = theme_path.strip_prefix(path)?.to_path_buf();
@@ -297,7 +311,7 @@ async fn main() -> anyhow::Result<()> {
             let icon_themes = &path.join("icon_themes");
             if icon_themes.exists() {
                 let mut icon_theme_entries = fs::read_dir(icon_themes).await?;
-                while let Some(icon_theme) = icon_theme_entries.next_entry().await? {
+                while let Some(icon_theme) = icon_theme_entries.try_next().await? {
                     let icon_theme_path = icon_theme.path();
                     if icon_theme_path.extension() == Some("json".as_ref()) {
                         let relative_icon_theme_path =
