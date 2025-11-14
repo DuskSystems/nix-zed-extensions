@@ -151,6 +151,25 @@
       "kind": "plain"
     },
     {
+      "name": "adaptify",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/lodev09/adaptify-zed",
+        "rev": "b18d619fdcfd00747495f31d94f3769bf64cadc4",
+        "date": "2025-11-13T07:15:26+08:00",
+        "path": "/nix/store/br0zmcy0k2za3lkh08lawz00xww8hlxh-adaptify-zed-b18d619",
+        "sha256": "15zwlds79cv9589qc0ng2mdl0q02aws6254b5glxq9f0jdwaa8bm",
+        "hash": "sha256-dSGleJPAJdzpK4sUYTRXAmBAWxXPAoYTKmmzdHSj/Jc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "adech",
       "version": "2.0.1",
       "src": {
@@ -589,6 +608,33 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "arkts",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/liuyanghejerry/zed-arkts",
+        "rev": "ec0f3eedbc3a34c69ff85b4f0f3e36d1ae75e8aa",
+        "date": "2025-11-08T00:47:45+08:00",
+        "path": "/nix/store/3cn6mcfsp2gjkd4dd04cnrx2lsfnkkql-zed-arkts-ec0f3ee",
+        "sha256": "0qcsbdixb3y5g41j8qpcdfsz37y1bj4254bi699radk174jbirr4",
+        "hash": "sha256-JOe4JDlhNpVTMnGRIohcwZ/xtWvsYiQDecWP1WNbmmE=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "arkts_arkts"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-AJY0zVMl30SSeiYUuv1ZuqSRSA3RwXhUGU8reuSmvdQ=",
+      "cargoLock": {
+        "lockFile": "/generated/arkts.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "asciidoc",
@@ -8693,14 +8739,14 @@
     },
     {
       "name": "mcp-server-sonarqube",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "src": {
         "url": "https://github.com/SonarSource/sonarqube-mcp-server-zed",
-        "rev": "6d33dee9576f75bfcf57c034402300b079a849d6",
-        "date": "2025-10-30T15:42:10+01:00",
-        "path": "/nix/store/88ysjkhcpnbl9jmgby1l6578h6hmrdpl-sonarqube-mcp-server-zed-6d33dee",
-        "sha256": "10dc3rmpr5iydhq8hrn7nbnbgh8fa8pn1n49wsia308y9lgmmp3n",
-        "hash": "sha256-dtxaH00egaGi5onYYC9SDsG37LLHZogwbD6WfGserIE=",
+        "rev": "e6136bb7cf233db5b1621d7a34e77c19373c7c7f",
+        "date": "2025-11-11T15:49:01+01:00",
+        "path": "/nix/store/gkskaiw8w78484qzv4pprf93ljgpzary-sonarqube-mcp-server-zed-e6136bb",
+        "sha256": "0cprdx55jnwscpsgr3kh68ipqmg2m1v3z4wrmacpf43qwpsdjadz",
+        "hash": "sha256-vynZ9OV4EHeZqpmTP3ao4lV8IzJwjvz0ZZpbWUpv+TI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10178,14 +10224,14 @@
     },
     {
       "name": "oat",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/WhySoBad/zed-oat-extension",
-        "rev": "5451726fd1bb462f9eded693f666848236fb9f6c",
-        "date": "2025-11-02T17:59:37+01:00",
-        "path": "/nix/store/6532gpqzslb08igch0wbbaq442q72fii-zed-oat-extension-5451726",
-        "sha256": "1vj2dv60z40pnjl78f4jw76pasagbly3ylrj9yslqvclnglsazvd",
-        "hash": "sha256-bX+l6bOUbUy1TzJTPzxdT2l1zeGSOHSotBeQD8xuQu4=",
+        "rev": "7ce2030cdc6c8ee720615b8b8209c08c95b390c0",
+        "date": "2025-11-13T09:23:14+01:00",
+        "path": "/nix/store/sgcjc75jqb1g66f9rmwx6xk94w9nxcsh-zed-oat-extension-7ce2030",
+        "sha256": "09lj0cwc5s93rx7q5mzwb8yb6fmhhz06gcwa4g8ac9avf7f2f8j8",
+        "hash": "sha256-SCIn3HFbJabQI4qzZ8CHsDqzPFr814JPzyPpwjgDkiY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -10499,6 +10545,25 @@
         "path": "/nix/store/kgkhv89kzhlk9s5s7vycib4m6qqkhqq1-zed-one-dark-pro-bd1872f",
         "sha256": "1mf398pxghimiwaf9knz5n7y4f97pzcr7b7kb1pkmzs0vq79ingq",
         "hash": "sha256-+NmYDt5A/zpvWPOsk9m/Jznijy3fzuQUjzXC1y9Kw9U=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "one-dark-pro-enhanced",
+      "version": "0.0.12",
+      "src": {
+        "url": "https://github.com/hadez8877/one-dark-pro-enhanced",
+        "rev": "0411a00f702b609746a29c49e2796d6993e9f461",
+        "date": "2025-11-05T20:03:36-05:00",
+        "path": "/nix/store/xqnzq8mh2s9xs67vxj098kjwklnrxxl2-one-dark-pro-enhanced-0411a00",
+        "sha256": "0hif4vq6z2q4381s2fw6q0h0038hp9nc8a5jkmd9v54pbjbz2iam",
+        "hash": "sha256-VUXxl1yXlJ1anbIoxGy6EA0AIMCGO6EDGgSLb/AmLkI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11656,14 +11721,14 @@
     },
     {
       "name": "prolog",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
-        "url": "https://github.com/Piefayth/zed-prolog",
-        "rev": "dbe6a0af7a133587f319b6595b66b41bc7ed6b59",
-        "date": "2024-10-05T19:18:49-05:00",
-        "path": "/nix/store/f495gwhcmx3hw2zpa2k9a601mxfi3myl-zed-prolog-dbe6a0a",
-        "sha256": "0cw9cg57qcqvcbjrymv4faxjxg2qsd8nkcz2n1qgds51kysr7f85",
-        "hash": "sha256-BbmTtZ+h6PZwsOKzaVHTWLwuu3JkV5/lYhszfMpjiTM=",
+        "url": "https://github.com/Gaspartcho/zed-prolog",
+        "rev": "c0dd029f6edb62b30654d77b96a24dfffde3b9be",
+        "date": "2025-11-13T14:56:39+01:00",
+        "path": "/nix/store/kbmq4i1qmpgsaprd2i44i1afw7m1603k-zed-prolog-c0dd029",
+        "sha256": "1c9pgb29c6c11jpx7bd3lyb96kj2r70c51sgqbsh9s1yxf5b5mwf",
+        "hash": "sha256-jteyius+6AT1wk+HwsDJQk6TlqejrdOvDIEZlsR6N7E=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11673,7 +11738,9 @@
       "grammars": [
         "prolog_prolog"
       ],
-      "kind": "plain"
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-BuxrRfr5LJk6V8gHApVz/swi9QkwtV7o3Yyps57uahU="
     },
     {
       "name": "proto",
@@ -12046,6 +12113,25 @@
       "grammars": [
         "quakec_quakec"
       ],
+      "kind": "plain"
+    },
+    {
+      "name": "quasi-monochrome",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/codeadict/zed_quasi_monochrome",
+        "rev": "19b1bee3d8075f46d8bee762bc0bd3b71a4898dd",
+        "date": "2025-10-13T15:50:57-04:00",
+        "path": "/nix/store/cnqqz0b2n59xvyvrxjjwbn65m76xr8jv-zed_quasi_monochrome-19b1bee",
+        "sha256": "0c3g72q06kdya1mqp1b6fvq6n6chl8abnga9156maa2y452zfpy6",
+        "hash": "sha256-xl/3RSFeKFVNCUk9uxSikBlr8HZmhYtrUL5NA7A4bzA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
       "kind": "plain"
     },
     {
@@ -13642,14 +13728,14 @@
     },
     {
       "name": "soma",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/SrGaabriel/zed-soma",
-        "rev": "0b80e429a53e01960e3b6545c4c5081d7a857260",
-        "date": "2025-11-10T09:52:20-05:00",
-        "path": "/nix/store/z48xkkkbd0z0grmms2p62qk0x9258aj1-zed-soma-0b80e42",
-        "sha256": "1gn9qdmcrdqc4j73pz580v36xw11vv3dj02y64sadlw1k697ackd",
-        "hash": "sha256-bTJ1kpmB06Y0MV4A2cbeIfBuxgao/DuOJAy3zGrDyb4=",
+        "rev": "aff8c21e77544970f75e5c1c8c3d95a745be4d4b",
+        "date": "2025-11-12T23:37:13-05:00",
+        "path": "/nix/store/h54a13p830136g5sdli3pfypc60n2mwm-zed-soma-aff8c21",
+        "sha256": "1gfngbrv257mvvkgpz4kijfhyhgsyw456pgn5nqab8cbv8qfs610",
+        "hash": "sha256-IBjtMNqLoaWwLfZdUwj3+kEPnYyT/Pvm3vUUsfN61r0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13661,7 +13747,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-9VOztM4IAVKuCft4QV/iqsZcvtR5ZL7VYkwV2NT7X70=",
+      "cargoHash": "sha256-Ym3V8SlL3sPzAwLKsj+cF3uGECn0fkpzkPmh8FV6XdQ=",
       "cargoLock": {
         "lockFile": "/generated/soma.lock",
         "outputHashes": {}
@@ -16500,14 +16586,14 @@
     },
     {
       "name": "yamura",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/Yxmura/yamura-zed-theme",
-        "rev": "4c3d9e476f71fb18ab786786568eb872bd9fcdac",
-        "date": "2025-09-20T18:54:53+02:00",
-        "path": "/nix/store/3yynqmf0ghr0jkkv85540fmqvkcazzhq-yamura-zed-theme-4c3d9e4",
-        "sha256": "1sbb3awx1q0dxmyp71pvmy24ishqqv31sfzkvc8sy75hi27dg70f",
-        "hash": "sha256-DpzXjoiwHK8R2/M7HcbGGOpIhK/7hnN97Q3g0Lkaa+k=",
+        "rev": "4a7ff00c30c2c8e9b111968455ff174b55f2dff1",
+        "date": "2025-11-10T20:21:17+01:00",
+        "path": "/nix/store/vlhw2nia039v9257ckfv7vx6mjrjicr6-yamura-zed-theme-4a7ff00",
+        "sha256": "1hlfxj85149mbzhcv7rzavvi6zqsrigv8nm60bpswj9pq5523f6d",
+        "hash": "sha256-zbghSsE3Sa7vAqZatF/MGn8T91Y/n83gXzWRUJDsjsI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -17109,6 +17195,24 @@
         "path": "/nix/store/fcail1ikap9d7n6w3k9qb1xslhlw1mlh-tree-sitter-apache-avro-ca58349",
         "sha256": "1v6nzqpkiw86r27nx51vwz1398najiz4c40ap1pn2w694s123c8v",
         "hash": "sha256-G7EhgibJcGFvuAoQRn6UyqI0wuc7lG6PyAbxOC/+1uw=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "arkts_arkts",
+      "name": "arkts",
+      "version": "9ef81d6561996d617f2a7b804a87f0195d9c84aa",
+      "src": {
+        "url": "https://github.com/liuyanghejerry/tree-sitter-arkts.git",
+        "rev": "9ef81d6561996d617f2a7b804a87f0195d9c84aa",
+        "date": "2025-10-28T00:42:34+08:00",
+        "path": "/nix/store/0pnx3lywm4g5cjjwacm4svs3gcclj50g-tree-sitter-arkts-9ef81d6",
+        "sha256": "0klh50a0kdhq9k7w1p4idk1bzk4yzbhywc8ni0k4l831mf73hk8v",
+        "hash": "sha256-G004jqthIEomiBYx7uH6nsy/wmyR3MDPTBi2CRQokE4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20431,14 +20535,14 @@
     {
       "id": "oat_oat",
       "name": "oat",
-      "version": "220ff89be8f5d8f71fcb6b9e22115dd14cb2e083",
+      "version": "631480d9ae64f58eb801e59b3b314674867d6e61",
       "src": {
         "url": "https://github.com/WhySoBad/tree-sitter-oat",
-        "rev": "220ff89be8f5d8f71fcb6b9e22115dd14cb2e083",
-        "date": "2025-11-02T17:58:46+01:00",
-        "path": "/nix/store/6v9528w256fgmjrncnfgrxraviqq2873-tree-sitter-oat-220ff89",
-        "sha256": "0zjaq0mf0mfzz4sc94iwd2jhl348gi0pc442da4hjji26sg79pmk",
-        "hash": "sha256-s950njYiSgmJaoIQdkF8iAwKpWg8ksQ0+d9V4CrASn4=",
+        "rev": "631480d9ae64f58eb801e59b3b314674867d6e61",
+        "date": "2025-11-12T11:45:54+01:00",
+        "path": "/nix/store/qjkmafakf1z5bj4ww55vqk3k6s7x47vi-tree-sitter-oat-631480d",
+        "sha256": "0f81xyymqhypbzwaw9z3hlvqhlz8p518m39fpg9kaahk3fnsjs65",
+        "hash": "sha256-xWiprRsTKjXTuy6NikK56FOIN4XjJ674X9dDXL3vATk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -21007,20 +21111,20 @@
     {
       "id": "prolog_prolog",
       "name": "prolog",
-      "version": "9db4b3f23e8ba35d41075dd163a65b30d969dc13",
+      "version": "39d5e4e89f336b3bbf245f6fae18473b2e8c88a5",
       "src": {
-        "url": "https://github.com/Piefayth/tree-sitter-prolog",
-        "rev": "9db4b3f23e8ba35d41075dd163a65b30d969dc13",
-        "date": "2024-10-05T16:09:41-05:00",
-        "path": "/nix/store/d55j69j6k6dz9jxddhjh4yj3kvsvpad3-tree-sitter-prolog-9db4b3f",
-        "sha256": "056q8xn73dk1szm2mblgzzdn4s92w36ncv39rkx0jjfv7fzr1213",
-        "hash": "sha256-I4iQvzvbSQn6zGlsZs3gImli2/+Prirq12G2cWxH2BQ=",
+        "url": "https://codeberg.org/foxy/tree-sitter-prolog",
+        "rev": "39d5e4e89f336b3bbf245f6fae18473b2e8c88a5",
+        "date": "2025-03-20T18:36:05+01:00",
+        "path": "/nix/store/krglakpk16gmdw0z5yxpj93y8mqzh8fy-tree-sitter-prolog-39d5e4e",
+        "sha256": "1wxzfhn9fjdrv5q90c082c9zk9bv3v1ypckq9k4rqliq2yzinwvz",
+        "hash": "sha256-f3Mbvxc4UpzJTHiy68Mee6X5ExMIMJBw2blJlyx0v/M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
-      "grammarRoot": null
+      "grammarRoot": "grammars/prolog"
     },
     {
       "id": "proto_proto",
@@ -21763,14 +21867,14 @@
     {
       "id": "soma_soma",
       "name": "soma",
-      "version": "82135a39083a951b1ffa0eb615752e724343658c",
+      "version": "4dd0f9ffee7455d8a5985c58fa2c2a537b7ec80a",
       "src": {
         "url": "https://github.com/srgaabriel/tree-sitter-soma",
-        "rev": "82135a39083a951b1ffa0eb615752e724343658c",
-        "date": "2025-11-09T19:37:53-05:00",
-        "path": "/nix/store/ma2wxv27qllf0pmvi97q11s650rgr3l4-tree-sitter-soma-82135a3",
-        "sha256": "14xa7rs3snhvlj279rgh2clajlcy04bh1jn3smv5r5cm9dhpdair",
-        "hash": "sha256-Oap2YUuVlVx21cPKABcBnlGpKBPw5XSEpBtaPXQ+qpM=",
+        "rev": "4dd0f9ffee7455d8a5985c58fa2c2a537b7ec80a",
+        "date": "2025-11-12T23:27:10-05:00",
+        "path": "/nix/store/yx6c9d7xjrh10cy5ghvfvw1sj6j4hvs6-tree-sitter-soma-4dd0f9f",
+        "sha256": "0d1bgidcpbv12mn34l35yxay9v2gsv0fi4vv1mb3ciizk9a94b93",
+        "hash": "sha256-Iy2SVJo/RjZWDXuT6MDWT+zkVfdlUDJsFWGvy1p8KzQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
