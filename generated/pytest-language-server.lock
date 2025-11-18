@@ -59,13 +59,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "emmylua"
-version = "0.19.0"
-dependencies = [
- "zed_extension_api",
-]
-
-[[package]]
 name = "equivalent"
 version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -755,6 +748,13 @@ dependencies = [
  "quote",
  "syn",
  "synstructure",
+]
+
+[[package]]
+name = "zed-pytest-lsp"
+version = "0.6.0"
+dependencies = [
+ "zed_extension_api",
 ]
 
 [[package]]
