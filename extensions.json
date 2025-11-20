@@ -312,6 +312,25 @@
       "cargoHash": "sha256-yw2Y1sXIthj8x41z/hnMLt86SUlqmqeyiVMt068aOgA="
     },
     {
+      "name": "aira",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/talison-cardoso/aira-zed",
+        "rev": "1818f39a4e5d0eb979d9805b3e12de4c8cf8f657",
+        "date": "2025-11-18T10:10:46-03:00",
+        "path": "/nix/store/h6yx9i6d9vlr56kbf1qjvcjclax50j01-aira-zed-1818f39",
+        "sha256": "1bi0l3rw2kbpgj1km4k2hyq6743r9jv4f1b5zmkcc53d0sc7x88y",
+        "hash": "sha256-HqF+mAZtFMZm/WUFR7ZMeZBjsIdikjqDfHdNwfOgIK4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "alabaster",
       "version": "0.0.3",
       "src": {
@@ -609,6 +628,31 @@
       "extensionRoot": null,
       "grammars": [],
       "kind": "plain"
+    },
+    {
+      "name": "arch-mcp",
+      "version": "1.0.0",
+      "src": {
+        "url": "https://github.com/nihalxkumar/arch-mcp-zed-extension",
+        "rev": "742ee7122be6d703e76c3eabe4855c565070b879",
+        "date": "2025-11-18T00:02:55+05:30",
+        "path": "/nix/store/qhy2hb1nhx18pvrz7z1x5gdqr023j6kv-arch-mcp-zed-extension-742ee71",
+        "sha256": "0abpcg2ddi6bw35fh13544gs8ydbnhiy8pwscp0kk5v5iqh1v0ml",
+        "hash": "sha256-tIIdII5llznBZZpf5CO0q3mkHyFlBOjK4MvE1sRjdyk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-Z0kJBrtUrEIhKJQjMf74i+rG4NKUPhqPtpYvyQjWMrc=",
+      "cargoLock": {
+        "lockFile": "/generated/arch-mcp.lock",
+        "outputHashes": {}
+      }
     },
     {
       "name": "arctic-depth",
@@ -4053,14 +4097,14 @@
     },
     {
       "name": "elle",
-      "version": "0.3.0",
+      "version": "0.3.6",
       "src": {
-        "url": "https://github.com/acquitelol/elle",
-        "rev": "b6be937e95fad04ee525e4388a5d9bf5f0679922",
-        "date": "2025-04-30T16:08:27+01:00",
-        "path": "/nix/store/kwz1lz4ach5y4bvaaa19c64lwbzp53x9-elle-b6be937",
-        "sha256": "0lq1xnkgaavayvwx1psa2pbzdq5bfdhzdh271mddz69a42ff8plx",
-        "hash": "sha256-nV7knCAqmd9aDUfA9mFzq+D21xVK39D59mor9abtAVM=",
+        "url": "https://github.com/tnixc/elle",
+        "rev": "ae15fb177007870c09e0409c9a09727dc3db5990",
+        "date": "2025-11-18T09:52:39-05:00",
+        "path": "/nix/store/yq3xlgyyvn1pdllv2wq9kw482ihqa6kd-elle-ae15fb1",
+        "sha256": "1i9wi2cz97pc4sxadyy2zsh7bh1zvqd2wv1xdrbgp6k6im0szmai",
+        "hash": "sha256-UdWvQY1mmvtWbj1sLhreP8B1oP7C+6a6Juye9JmIPMU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -5000,6 +5044,27 @@
       },
       "extensionRoot": null,
       "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "ghostty",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/Else00/ghostty-zed-extension",
+        "rev": "cd025624fa16e36a3615a5218f824e432c59cc14",
+        "date": "2025-11-18T11:17:54+01:00",
+        "path": "/nix/store/1z9cwqcrz87c4bhlj6dccxz8s3cdfkb8-ghostty-zed-extension-cd02562",
+        "sha256": "1ys11apr0ckffiivrxy2j1d06xqxlky9w86fq6jvllrqjskks9fb",
+        "hash": "sha256-yyU9p5Y4U7qlwc4gnvykHXcDWpDC97xjdG4ykK8KQfs=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "ghostty_ghostty"
+      ],
       "kind": "plain"
     },
     {
@@ -6704,14 +6769,14 @@
     },
     {
       "name": "jarl",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/etiennebacher/jarl",
-        "rev": "68fbc412bb7730178c19c95d7f8deb303002132d",
-        "date": "2025-11-17T20:16:19+01:00",
-        "path": "/nix/store/322h0jx0p6zvhwcwlgnaqg16228vmk5s-jarl-68fbc41",
-        "sha256": "01xppy305fzaz48dq5vw026zm9dqw5na53qfq82hzq08ximiz458",
-        "hash": "sha256-qJAfa+wI4A8Fwg6PomzhuKX6jQB8F9wQ+eq7Aoa/twc=",
+        "rev": "df71b1defc5ab763ed7bd6c5fc5a55bd98c5ef95",
+        "date": "2025-11-17T21:59:20+01:00",
+        "path": "/nix/store/m98smvxfq2sx49mr9mpjpjqncjh6ppdy-jarl-df71b1d",
+        "sha256": "1l35jlccvbbxcrf4dr2frp3ybkyddlp7c8cldzgyd61afxiajisx",
+        "hash": "sha256-XUepYncqmObfb5Qhdi5tzc/lx81O5EZcZn2tzRiVZdA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -6721,7 +6786,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-NC9Q0bhZyDy4KFQcMNzwRmDxrCTMQ5kjYLd8wyF4j2A="
+      "cargoHash": "sha256-VJpC9SL5mWYEZF3dX8aDZeaRXr5hCZpysQCYC5k3+HM="
     },
     {
       "name": "java",
@@ -8343,14 +8408,14 @@
     },
     {
       "name": "mcp-server-2slides",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/2slides/zed-mcp-server-2slides",
-        "rev": "8975113eff288a2cb5db870fc96af10eb6e4af46",
-        "date": "2025-11-10T14:48:19+08:00",
-        "path": "/nix/store/i8ijhm9bgmm744gb7m03b555ia6ia8y9-zed-mcp-server-2slides-8975113",
-        "sha256": "1bnhr6iignc9sllq7anwri0xysl6iw31sg3ir8yyp7xzswa93bmc",
-        "hash": "sha256-rK6RFNe/n+s9ynE8HQaPhmrfQczcqoMp1YnZF6PJ0K4=",
+        "rev": "44d364eef29c6a3142235ed205535cc8fcbd7fe6",
+        "date": "2025-11-18T12:18:19+08:00",
+        "path": "/nix/store/2djn51k6ihji4r6i5nzqdjvis75xpfqc-zed-mcp-server-2slides-44d364e",
+        "sha256": "03cip30s6i71bhsnjggrih681g1ambvyazj9ad0hdx6y1mvnj2a8",
+        "hash": "sha256-SAlpdw3e9AZBU0l+5feqKryADIz5PWk1XOFEo8G4kQ0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8360,7 +8425,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-L1GqvAsETJQpgCckLhF3BsHtNlGtKux20XJqmmsTuQk="
+      "cargoHash": "sha256-PmfXjl/lA7BnaEfmhPW3Jh8zhBNai1KxsAOEuXcDoeA="
     },
     {
       "name": "mcp-server-axiom",
@@ -8818,6 +8883,27 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-DqOtfnVGB3NuCj8QAtntnH4lY8HFtFp7jFlvHi5GQaY="
+    },
+    {
+      "name": "mcp-server-relytone",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/YuweiXiao/zed-mcp-server-relytone",
+        "rev": "e499f6e7081f21a3ed8c428c70ceca4d5b13803b",
+        "date": "2025-11-18T14:56:16+08:00",
+        "path": "/nix/store/8k1nb84kw2gw6cgrfnvmm1pd86cbv8zq-zed-mcp-server-relytone-e499f6e",
+        "sha256": "004dv4idigvy9alsi7rpxrvhdwqb04yzwgyscknv1dzms2yrhvsb",
+        "hash": "sha256-S2+YvdD1t7DtZNo//j0BC/MGd+43n6ipSn6/2CLZjQA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-EdIBdVEWz8nAjb90NcIL/wgJesf8Ons6rynrtsQ+bIE="
     },
     {
       "name": "mcp-server-resend",
@@ -10453,14 +10539,14 @@
     },
     {
       "name": "oat",
-      "version": "0.0.3",
+      "version": "0.0.4",
       "src": {
         "url": "https://github.com/WhySoBad/zed-oat-extension",
-        "rev": "c2c885064e19568e53f5ee22fd2c4ecd04c7625f",
-        "date": "2025-11-16T16:57:27+01:00",
-        "path": "/nix/store/q8a7sdw9p75kxfisn9igli54bvyc24qn-zed-oat-extension-c2c8850",
-        "sha256": "1m4bz0v6mlj90vmsaywsvyl62331ykx54lv42yj0ygqza21xvgf1",
-        "hash": "sha256-wb3dg1AfPw+kF2RTUvr0YQxhqN+ae6XrBknSajb4i9Q=",
+        "rev": "fa584d24ca6ed081eb3ca906717897ec648be217",
+        "date": "2025-11-19T12:33:26+01:00",
+        "path": "/nix/store/r9yyd49cm2vsc5mxskfq5jf80l6k0ajf-zed-oat-extension-fa584d2",
+        "sha256": "00nq6115vj415x6f8rh820m2awjxqc94dfckambk77r4hfmjyzvq",
+        "hash": "sha256-eH8vq4MknzNXVZO5RhLDXXIlKhAIZuRML4HIXUIw2AI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11264,6 +11350,27 @@
       "extensionRoot": null,
       "grammars": [
         "path-of-exile_filter"
+      ],
+      "kind": "plain"
+    },
+    {
+      "name": "pbxproj",
+      "version": "0.2.0",
+      "src": {
+        "url": "https://github.com/zwaldowski/zed-pbxproj",
+        "rev": "9f206829b91dd531f3227393ae82ae59d9f10532",
+        "date": "2025-11-17T19:00:59-08:00",
+        "path": "/nix/store/iyya6fbpdx5mxmz9k6inblwf0rmc8ij3-zed-pbxproj-9f20682",
+        "sha256": "0i7qknw66hs5g91by88yq62wf2vycj08aqfq8hc7w31xqvjqxrs9",
+        "hash": "sha256-SeeO5cY9DH4YRNhhhYBkfgvHhcEeIb9CekVDY7id+EQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "pbxproj_property_list"
       ],
       "kind": "plain"
     },
@@ -12195,14 +12302,14 @@
     },
     {
       "name": "pytest-language-server",
-      "version": "0.6.0",
+      "version": "0.7.2",
       "src": {
         "url": "https://github.com/bellini666/pytest-language-server",
-        "rev": "e66faae0d80c62de5682c207ec5ffee77e9f3bfd",
-        "date": "2025-11-17T19:15:29+01:00",
-        "path": "/nix/store/73zbygn9g1zm9y053mf3c39rk12jpviy-pytest-language-server-e66faae",
-        "sha256": "1m3q7hswj4dm9cvnpk2br9cbryk1xwqln45n7cqn63jg2sbg28s8",
-        "hash": "sha256-SCPxlhZPDmMxO7YQSzHvYfq8WMpLzGs3S7URyTU8eNQ=",
+        "rev": "83beb65b32bf74fd4a6a23def65a0f302f48b180",
+        "date": "2025-11-18T20:00:38+01:00",
+        "path": "/nix/store/7pycz3hv8zk4p06bl1hhqs8apmq738vy-pytest-language-server-83beb65",
+        "sha256": "03mfgabv91wzsr2piifn47za4h7xpyz9p2zd6xzw1wb06b12r2ha",
+        "hash": "sha256-CooswjJg8cB/N+2Lm76//UCi/iHWxXhF1p+HtJd6rg4=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12212,7 +12319,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": "extensions/zed-extension",
-      "cargoHash": "sha256-Q0vh+ErvagyOC8sdRA0DnvBuUcNlfgeARxInQe2nEtk=",
+      "cargoHash": "sha256-m3Zc39h2DKAgKKA44PTj2DzGXAY3gkDvD0VU1EoUxJE=",
       "cargoLock": {
         "lockFile": "/generated/pytest-language-server.lock",
         "outputHashes": {}
@@ -12308,14 +12415,14 @@
     },
     {
       "name": "quadlet",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/mufeedali/zed-quadlet",
-        "rev": "b11411e10530d3db16ab983ce36549d1143f252a",
-        "date": "2025-09-28T02:52:48+05:30",
-        "path": "/nix/store/80klpq5i3akwg5lqfbxy0rnjcdjjn3b3-zed-quadlet-b11411e",
-        "sha256": "1plnr0gmhd7w4q2qv13ql5h0ysnqql3jfxm7qlhl6j0xwfwsrhg4",
-        "hash": "sha256-5MGsueMdSEMhxad2JwfF2GoPYKF4hI0FJvw0WB/Ilt4=",
+        "rev": "7290303b8c77795f8753ead94575fbb9dd6ee863",
+        "date": "2025-11-18T21:12:58+05:30",
+        "path": "/nix/store/9rxaypqsqdxn9qm0a5vf7qq9knnl3q6v-zed-quadlet-7290303",
+        "sha256": "0cr66ap2gzk3ammjdx0kx15qhffm35xicvjlsz0ab7wjhicgpl25",
+        "hash": "sha256-RdD7WISSn6XA11RuFnsZ1TmIS+gT9CZrVWP+J64yJjM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13188,14 +13295,14 @@
     },
     {
       "name": "scala",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "src": {
         "url": "https://github.com/scalameta/metals-zed",
-        "rev": "cc0f7b8c09c65df987afaf6183847036a69449f7",
-        "date": "2025-10-10T19:12:11+02:00",
-        "path": "/nix/store/zxm3sqzsyh25dxl75y19v9836v1w3ixn-metals-zed-cc0f7b8",
-        "sha256": "11hb18wpigh143ld5ilacii5ba115wkqh2c6cgd3kfbk1qgbqprj",
-        "hash": "sha256-Ml+8Hg5zuTnaY4YJiCcvIahVYmSKxtLoIAG+eDkKC4Y=",
+        "rev": "c3e67c64a51b731c8f1ce7975d1257ab55ee1f26",
+        "date": "2025-11-18T16:00:06+01:00",
+        "path": "/nix/store/v3nfrsgqna381xl5ynwn45kbcpznsd70-metals-zed-c3e67c6",
+        "sha256": "1zbxg9jzrn3bmjn43glqmhs23bz3i9j8qcba3j4hli22zn2pqvwk",
+        "hash": "sha256-k298hf1CRAqJHGoxjGSK468hNKyYvkGsrGvY/GV6ff0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13207,7 +13314,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-d6HQ8shlR6iQd6WFwPGQsmZs591EnKGJwHRr5jvmM7M=",
+      "cargoHash": "sha256-58nxsiRnLVn3K2ceEhywIYrIv9CTZIdhfV+usaxfrgg=",
       "cargoLock": {
         "lockFile": "/generated/scala.lock",
         "outputHashes": {}
@@ -18779,14 +18886,14 @@
     {
       "id": "elle_elle",
       "name": "elle",
-      "version": "2bce706b50587ae7db3caa727b01f075098fc916",
+      "version": "03ed4a2e6f36056975947802e58357686b525db3",
       "src": {
         "url": "https://github.com/acquitelol/tree-sitter-elle/",
-        "rev": "2bce706b50587ae7db3caa727b01f075098fc916",
-        "date": "2025-04-29T23:51:29+01:00",
-        "path": "/nix/store/1p8rgwzl27xq9x242088qsgfi87nhzn1-tree-sitter-elle-2bce706",
-        "sha256": "1c101biai155mlgs30dw3wyy6hngfyhld5y85ykpg9kdnkhs59v5",
-        "hash": "sha256-Zaei4bRtpnenL8iXRqF3z0LjPR+8gaEfraWEqOIKILA=",
+        "rev": "03ed4a2e6f36056975947802e58357686b525db3",
+        "date": "2025-11-01T18:17:53Z",
+        "path": "/nix/store/w0m913ygnggic5zyp8mnijb6ik2n7wj0-tree-sitter-elle-03ed4a2",
+        "sha256": "1f4bm92qzpsczq7jw6dg4l40x72l8ym6mvb77iyns4m0dj4c1nn3",
+        "hash": "sha256-w9rAiGygEm19PGftaqpHVJwOCCWvGS4P/kzfj0Wqi7g=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -19147,6 +19254,24 @@
         "path": "/nix/store/zjxy8d6wx02pi3bg8whxwlpxp16l5gp2-tree-sitter-gemini-b60a42d",
         "sha256": "1gm0h5jpk03s6c9kab799dcyqbl14yhicxf6625xasp0rgj0rkf6",
         "hash": "sha256-xs0M5MvgatWLMMZ1FqEngS7sWUvpLDUTM3qAeWWBoL4=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "ghostty_ghostty",
+      "name": "ghostty",
+      "version": "2a9ae7233b6707e84b3a79c8778427f58aa4b6d0",
+      "src": {
+        "url": "https://github.com/bezhermoso/tree-sitter-ghostty",
+        "rev": "2a9ae7233b6707e84b3a79c8778427f58aa4b6d0",
+        "date": "2025-09-20T21:32:11-07:00",
+        "path": "/nix/store/4mzrmj5iy1jyg369crfhbzz7c5dh14xl-tree-sitter-ghostty-2a9ae72",
+        "sha256": "152jxrnx68cjfnxj0gqx2pc7gpiy25vkkr98pw5d7963kv17y6ji",
+        "hash": "sha256-URp/wp7DpNMKvyjlOXcRPt532BUdPyC7dZIh023uUpQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -20939,14 +21064,14 @@
     {
       "id": "oat_oat",
       "name": "oat",
-      "version": "579dcf4eb7d2f7fdbcb99880876afc4185d47195",
+      "version": "e691fa14ea94df88fbf0701d26c67d1fa3d75dee",
       "src": {
         "url": "https://github.com/WhySoBad/tree-sitter-oat",
-        "rev": "579dcf4eb7d2f7fdbcb99880876afc4185d47195",
-        "date": "2025-11-16T16:49:14+01:00",
-        "path": "/nix/store/nysnzwn37h4jzp5yn2y6zv165wscwarg-tree-sitter-oat-579dcf4",
-        "sha256": "13hhqm0yxs7w0qcahn8gc45lz60jbjcs9wz7bc0r3x5i1p9lifri",
-        "hash": "sha256-MbtI0w2x9JEBW+fzpJlcEphPC2EPWagYBvzo7kHFEI4=",
+        "rev": "e691fa14ea94df88fbf0701d26c67d1fa3d75dee",
+        "date": "2025-11-19T12:29:57+01:00",
+        "path": "/nix/store/4dw2mp94pv3cgdlz18ssxa85k8ff0a6y-tree-sitter-oat-e691fa1",
+        "sha256": "1q4bhds2vj7k4ayzgv195rv1rkiwlflffkwli5hg16mym3a281a4",
+        "hash": "sha256-RAUk1Ki+mvBgiZRP56ijPM4cdi4p7Pe9IvPILXSDi+A=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -21253,6 +21378,24 @@
         "path": "/nix/store/abhzfr54prlhil6vi8pc8sycwxhjx73y-tree-sitter-poe-2f2a4c8",
         "sha256": "0wl88l4wc07r1a8w87mkbkxrav2kksd70j9cn5kyp30ms6csp361",
         "hash": "sha256-wYyrmdEVjOtnsSxJcJqeU2yV+1yzHsSRCvkAxglFiHI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "pbxproj_property_list",
+      "name": "property_list",
+      "version": "31ff8b0a6dda1b88c8f24b0bc376a0ae573607b2",
+      "src": {
+        "url": "https://github.com/Formkunft/tree-sitter-property-list",
+        "rev": "31ff8b0a6dda1b88c8f24b0bc376a0ae573607b2",
+        "date": "2025-11-11T17:14:30+01:00",
+        "path": "/nix/store/ndzcw7mcm378p92wd6a68p0pvfdvmjqn-tree-sitter-property-list-31ff8b0",
+        "sha256": "1hmz8k4dfsm3ylpfy8y5jbhn5pdi079r5i3l4gl1kb0qra1alx22",
+        "hash": "sha256-QnSqgsoYrBnoI3TEktMBsd1i4ZLFI+8u9aNq18hEv8I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -21641,14 +21784,14 @@
     {
       "id": "quadlet_ini",
       "name": "ini",
-      "version": "31899dfa3b91622ea39e5c0bcddc88f45a9a3cfe",
+      "version": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
       "src": {
         "url": "https://github.com/justinmk/tree-sitter-ini",
-        "rev": "31899dfa3b91622ea39e5c0bcddc88f45a9a3cfe",
-        "date": "2025-06-03T04:01:15-07:00",
-        "path": "/nix/store/akp0b3rp9s1r23k47pq5hf6m15fr0d7x-tree-sitter-ini-31899df",
-        "sha256": "03gb0hzr982627da88s696wx7356kg7ws8qfs0a1bnln42lmm6dy",
-        "hash": "sha256-vplaqSCW2hUU0A4jzc+bpozTuUlGI6TaEUaglD8E6w0=",
+        "rev": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
+        "date": "2025-03-11T05:49:16-07:00",
+        "path": "/nix/store/xmd7nva6jlagy6ajlznqcggkzq9bb19l-tree-sitter-ini-32b3186",
+        "sha256": "0sp9075fllimy6zrw2gx5mij0igl9zvcrakh23wn7m5wh0w9lq4i",
+        "hash": "sha256-kWCaOIC81GP5EHCqzPZP9EUgYy39CZ6/8TVS6soB6Wo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -22073,14 +22216,14 @@
     {
       "id": "scala_scala",
       "name": "scala",
-      "version": "d9017869dda79cefe2dc9d23c6125eda0a2d5d22",
+      "version": "97aead18d97708190a51d4f551ea9b05b60641c9",
       "src": {
         "url": "https://github.com/tree-sitter/tree-sitter-scala",
-        "rev": "d9017869dda79cefe2dc9d23c6125eda0a2d5d22",
-        "date": "2024-08-08T03:08:58-04:00",
-        "path": "/nix/store/cik6r0h0xbckxwmzwpdx4yvscfgxmird-tree-sitter-scala-d901786",
-        "sha256": "0dy2zikh2zwwa3ddwcv2z4xdvq084xl14lkmibjhhjdlcs86pl32",
-        "hash": "sha256-YtBrkGa0SQjlinVSEmgnCODdOvliM97aUJx/AWf8wjc=",
+        "rev": "97aead18d97708190a51d4f551ea9b05b60641c9",
+        "date": "2025-08-07T02:00:46-04:00",
+        "path": "/nix/store/76j1z3vq72ki6akmfvwmfc170c5dz4fn-tree-sitter-scala-97aead1",
+        "sha256": "0b1r7nmpzp4agz5b2fn9sfim9ixrwjx4v9npk4jf5kap7s54mli0",
+        "hash": "sha256-INJKij5XzeIkmdemTbrkucdUo9PJOrHKf4rcf6s9OSw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,

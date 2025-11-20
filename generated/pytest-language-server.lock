@@ -752,7 +752,7 @@ dependencies = [
 
 [[package]]
 name = "zed-pytest-lsp"
-version = "0.6.0"
+version = "0.7.2"
 dependencies = [
  "zed_extension_api",
 ]
