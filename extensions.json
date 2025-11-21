@@ -1583,6 +1583,33 @@
       }
     },
     {
+      "name": "bluespec-systemverilog",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/sandytruant/zed-bsv",
+        "rev": "63d40b87e34744426bb92012043eb5df3785fa18",
+        "date": "2025-11-20T18:54:48+08:00",
+        "path": "/nix/store/0symscix9f6qwb83xw4w5s0ls01ll901-zed-bsv-63d40b8",
+        "sha256": "0w4q900xn8dsdvw2ckr0l5mjay7572ygdsm1wfcdxqdqzqld256n",
+        "hash": "sha256-1hTRKP644d6Y46Hq9rw45Xgla6EgTyb4broh2wFImHA=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "bluespec-systemverilog_bsv"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-2BAH5I/DrwVZreTcquX96P3ELGLcKHmgAcEq6JcLLmU=",
+      "cargoLock": {
+        "lockFile": "/generated/bluespec-systemverilog.lock",
+        "outputHashes": {}
+      }
+    },
+    {
       "name": "bluloco-theme",
       "version": "1.0.0",
       "src": {
@@ -3443,14 +3470,14 @@
     },
     {
       "name": "datadog-mcp",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/robertohuertasm/zed-datadog-mcp",
-        "rev": "793287d455a3b0e1b44b8070cb087c9c1236e59f",
-        "date": "2025-08-06T17:15:51+01:00",
-        "path": "/nix/store/2c6iyj343gz6q3ncc50qngph7k37nx0i-zed-datadog-mcp-793287d",
-        "sha256": "0ynkaz0i3paxqzdqg6fglyvkig52z049sn7w3hr7nyd648wa02rl",
-        "hash": "sha256-NAugOCKmeXsyHPxYnQj4orw4t6fPmYfbx13dEcFX03o=",
+        "rev": "2ca18bd47b39add7e6ab0f4b100f7a5c341daa37",
+        "date": "2025-11-19T20:28:09+01:00",
+        "path": "/nix/store/vzhdmdhn4q5r9mwmax5aszwh99xwcbd7-zed-datadog-mcp-2ca18bd",
+        "sha256": "1lwvjbfa94fmblnmbpxdnhz8219yyzp9xhxcmj90fkjwxhm24by9",
+        "hash": "sha256-yS8iKuxcTgeSrKzDnu73PgWBPrSt31UtXdWRpNySm9M=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3460,7 +3487,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-1F0rGox2868JmBgb+zA7iuy1b69HWjlNFhdaKK05JfI="
+      "cargoHash": "sha256-TVJIOr7xOrQaLe/QUjzGe9agNIw/N+U1fi+Bxa7t3cA="
     },
     {
       "name": "day-shift",
@@ -8886,14 +8913,14 @@
     },
     {
       "name": "mcp-server-relytone",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "src": {
         "url": "https://github.com/YuweiXiao/zed-mcp-server-relytone",
-        "rev": "e499f6e7081f21a3ed8c428c70ceca4d5b13803b",
-        "date": "2025-11-18T14:56:16+08:00",
-        "path": "/nix/store/8k1nb84kw2gw6cgrfnvmm1pd86cbv8zq-zed-mcp-server-relytone-e499f6e",
-        "sha256": "004dv4idigvy9alsi7rpxrvhdwqb04yzwgyscknv1dzms2yrhvsb",
-        "hash": "sha256-S2+YvdD1t7DtZNo//j0BC/MGd+43n6ipSn6/2CLZjQA=",
+        "rev": "f250daadc13f46ac72a0db4e9ef1d9a7b70366c6",
+        "date": "2025-11-20T18:54:20+08:00",
+        "path": "/nix/store/wdxjhll66ancg5fljqasz5kzfc8fbw9w-zed-mcp-server-relytone-f250daa",
+        "sha256": "0nvq4z2d4blmm8cnbglsz6s77dz3bnw9jj5bljg9z0r2wdahzh2n",
+        "hash": "sha256-VsAPVeMig5+epKtImbhd47dztPmavmUZqpUu0sQneFs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8903,7 +8930,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-EdIBdVEWz8nAjb90NcIL/wgJesf8Ons6rynrtsQ+bIE="
+      "cargoHash": "sha256-pvAcrgsj/9kyi7RzCCpPVmIkLlPPHk5ybqIiwphk/yw="
     },
     {
       "name": "mcp-server-resend",
@@ -12302,14 +12329,14 @@
     },
     {
       "name": "pytest-language-server",
-      "version": "0.7.2",
+      "version": "0.9.0",
       "src": {
         "url": "https://github.com/bellini666/pytest-language-server",
-        "rev": "83beb65b32bf74fd4a6a23def65a0f302f48b180",
-        "date": "2025-11-18T20:00:38+01:00",
-        "path": "/nix/store/7pycz3hv8zk4p06bl1hhqs8apmq738vy-pytest-language-server-83beb65",
-        "sha256": "03mfgabv91wzsr2piifn47za4h7xpyz9p2zd6xzw1wb06b12r2ha",
-        "hash": "sha256-CooswjJg8cB/N+2Lm76//UCi/iHWxXhF1p+HtJd6rg4=",
+        "rev": "605d8396f45005ced455e9f87267e66ab534b78e",
+        "date": "2025-11-20T01:49:01+01:00",
+        "path": "/nix/store/j8x1hidc3z2wkg3mkyj6rnshy1cbf14l-pytest-language-server-605d839",
+        "sha256": "1daz9kflvfwh31x1kbib3wqww5a1pxw2v2vg5z2v6d4960439zr1",
+        "hash": "sha256-If80CDCJNLPFL2+LLXi/QRXOMR8rrhl6GJC7Td1MX7U=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12319,11 +12346,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": "extensions/zed-extension",
-      "cargoHash": "sha256-m3Zc39h2DKAgKKA44PTj2DzGXAY3gkDvD0VU1EoUxJE=",
-      "cargoLock": {
-        "lockFile": "/generated/pytest-language-server.lock",
-        "outputHashes": {}
-      }
+      "cargoHash": "sha256-gpLS8XB9V7gAD6+gzMJzw6guCU8uJFN5gZxyLXPtz3A="
     },
     {
       "name": "python-refactoring",
@@ -17940,6 +17963,24 @@
         "path": "/nix/store/ylp7laiq1cb67lyzlq6p8rbcmfn56s38-tree-sitter-blueprint-d754807",
         "sha256": "0d3rkr3la7fgqjswisrrzzwh34wnhf0xkik8lr7mgn4i1i1nyzbx",
         "hash": "sha256-fX1vQwyR2FdPpmjG2YGDlpMB+f8568i1xM8dRUeeeTQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "bluespec-systemverilog_bsv",
+      "name": "bsv",
+      "version": "main",
+      "src": {
+        "url": "https://github.com/sandytruant/tree-sitter-bsv",
+        "rev": "471a69b7b640aafedcc37a0053273504c4a9a36d",
+        "date": "2025-11-08T16:34:40+08:00",
+        "path": "/nix/store/azj37aypwn82yd2mjngywfhn2rjci8lj-tree-sitter-bsv",
+        "sha256": "1va3lbw8dhvgfnwds9k8zyswqlpac1qd4a356fn61mlry8yprvgv",
+        "hash": "sha256-++18PfKZ1mCsM2Uo0nBg6lLMtf9oJt24dW/DhviiQ+0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
