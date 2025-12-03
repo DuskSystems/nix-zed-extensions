@@ -491,6 +491,25 @@
       "cargoHash": "sha256-twS4EkuWFqdG17HQ1ElB/Rnleh/hgKGvXIw8a5ioLsg="
     },
     {
+      "name": "angular-snippets",
+      "version": "21.0.0",
+      "src": {
+        "url": "https://github.com/hudson-newey/angular-snippets-for-zed",
+        "rev": "355c779b2190be525de92b11156cfcc2c2c698c2",
+        "date": "2025-11-24T21:30:26+10:00",
+        "path": "/nix/store/1c1ndwbjbii91nds38pda98hz9havx1s-angular-snippets-for-zed-355c779",
+        "sha256": "0dfldzxi7ji21fsvlyvqilfsvbcy3skzdf9svaxjp2zjv6237xy7",
+        "hash": "sha256-x/czhNnyiyu72jq59qcenq2tHY14e7q1CyLKE/tv1DU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "ansible",
       "version": "0.2.0",
       "src": {
@@ -2808,6 +2827,25 @@
       "grammars": [
         "comment_comment"
       ],
+      "kind": "plain"
+    },
+    {
+      "name": "compline",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/jblais493/compline",
+        "rev": "e7fd790cd1194c87a6e10ec07bb0db2625e6144f",
+        "date": "2025-12-01T10:23:56-07:00",
+        "path": "/nix/store/bj2jhw8h3hkx4y4749ch82nqr91wri84-compline-e7fd790",
+        "sha256": "198him0dna04q3kj26632vkpgljh42hvqd5z4hhpgv5gkjjh084w",
+        "hash": "sha256-nCAApZyv7HchJL80vKEgUNJ35xbDGCHnwAQo20CNEKU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "zed",
+      "grammars": [],
       "kind": "plain"
     },
     {
@@ -7745,6 +7783,25 @@
       "kind": "plain"
     },
     {
+      "name": "kvs-cyberpunk-2077",
+      "version": "0.0.2",
+      "src": {
+        "url": "https://github.com/notKvS/2077-zed",
+        "rev": "4e727296ddb52ea2f73d82e119eb5f2b71813910",
+        "date": "2025-11-30T18:28:07+05:30",
+        "path": "/nix/store/avgf32d5ha7wq38zz8hqvvayvv9ipzf2-2077-zed-4e72729",
+        "sha256": "06p0lzdp2a8mrng8gamrpblkaidrvblc20gs7nvhcdgxhxs76nn8",
+        "hash": "sha256-yFpzdIf9NQa3PfoBwejauUU16bq5qoeezRUpcdun4Bo=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
       "name": "latex",
       "version": "0.2.3",
       "src": {
@@ -8171,14 +8228,14 @@
     },
     {
       "name": "ltex",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/vitallium/zed-ltex",
-        "rev": "5d7bbd845c0bb5a7d9ff53d58973fa8281288f6d",
-        "date": "2025-10-13T20:12:36+02:00",
-        "path": "/nix/store/3gn08sxh3kjs37v8ixvki8wkbam2kv9v-zed-ltex-5d7bbd8",
-        "sha256": "0b9350j3zr2n9krihh22ll2qc2cc7hb2517zjhjy73zdr26c2z6x",
-        "hash": "sha256-3XzBjMjtj+MllP+EIhY8jAmGBaVCQBjzTFbkPyQoIy0=",
+        "rev": "156291bd61e3dfa2c238d2e664387282eac21fb1",
+        "date": "2025-12-01T21:00:15+01:00",
+        "path": "/nix/store/3sc3vkb5mwhxcbyg7g9hzyl4sj0da208-zed-ltex-156291b",
+        "sha256": "18xy2jia4aphaa9s9nsmrc8h45wjhq4ghz4qs7qnl85dd06ikmfr",
+        "hash": "sha256-2dUZDWitIGrx0Zh8+AiGkhcCEctV26STUvAqoqIUvqM=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -8188,7 +8245,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-R7DYPCFGzz4Fmx9vJVd8U7rOU6sPb9EPqt8bAHiNOLk="
+      "cargoHash": "sha256-1jdJkkcOuEo8T/DrHbK9IRvPfORAymzIXy1YbqmKqM0="
     },
     {
       "name": "lua",
@@ -10984,14 +11041,14 @@
     },
     {
       "name": "odin",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "src": {
         "url": "https://github.com/zed-extensions/odin",
-        "rev": "f7235cc37e7e5c49d28f7f0b5322a444cbfeef12",
-        "date": "2025-11-11T18:51:06+01:00",
-        "path": "/nix/store/ppil9bf66v95pnipng7lsd74qk124jjh-odin-f7235cc",
-        "sha256": "0y6iq5d4ryqzhcswrlg69a72hqvhf5qqks467g01mv7ib4ric663",
-        "hash": "sha256-wxgWM1nx7BrAO4boiXFxcGMojkrm0cw1gx/7TFrB0Xg=",
+        "rev": "0340635a56a95d2f4328df04c0e6a4c0a0609c53",
+        "date": "2025-12-02T18:53:54+01:00",
+        "path": "/nix/store/r1y7wcragh7zwfv8m55ivl4nmix0l64p-odin-0340635",
+        "sha256": "1dqkj21b2f3nhm4sdqzrx0i6rhp17fhbs93s2mqn1m8mn91mfs19",
+        "hash": "sha256-KWhXQ7IV1WBxFXokvaA74cJsIuj546ZJhXY4sYKQE7c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11003,7 +11060,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-Cx9jJiYJkySjvIrrfPe/7CrwVo+EuWJygLxQ74cM1Js="
+      "cargoHash": "sha256-ZE99LtXeNZEqn6s6VdjivOy4a6Kj9dxQDdjhMj3XMRY="
     },
     {
       "name": "odoo",
@@ -11561,6 +11618,25 @@
         "path": "/nix/store/a1qc1b66vk64bywjs2dmzgzs1fpis7kx-palenight-zed-e0b89cb",
         "sha256": "04rc78406qlca0w42lr3gzqwnsf4lpkjvazydp9ywkv6d9231l4q",
         "hash": "sha256-mNAwRGpmT+7Tbf6rLeelxGnL8X8jU0E4UIxiAwg6LBM=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "panda-plus-theme",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/lucianoratamero/panda-plus-theme-zed",
+        "rev": "ac85c01dc0364f60a82acade401c01baec19e7af",
+        "date": "2025-11-30T02:13:52-03:00",
+        "path": "/nix/store/wlhq1vz0zhz163p4l95a1rraxyvqkzzb-panda-plus-theme-zed-ac85c01",
+        "sha256": "1a09ay417bb81h7kdm4hkbgfcpsz4bglkkq2xaan8flhc00hcihk",
+        "hash": "sha256-E0YGAWCQOmSV6gLPSd8iX1/m3pqQ1DYPDGitE4hXCag=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12184,14 +12260,14 @@
     },
     {
       "name": "pollinations-mcp",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "src": {
         "url": "https://github.com/FrancoStino/pollinations-mcp",
-        "rev": "7c8aaa65c2d322ebc39b50ff22926886d72f0879",
-        "date": "2025-11-04T14:58:05+01:00",
-        "path": "/nix/store/7lfqf3gcfrx7595xb84aggjizhk4854k-pollinations-mcp-7c8aaa6",
-        "sha256": "0px73v4rlfh006kzg6cw6cfy82hkia0lf2j475nkfq5fmyf341y6",
-        "hash": "sha256-xgcynK+uYDdtOUQKR4GKEwrkHTOcmfenAQA6mskep18=",
+        "rev": "dec4f8da7499bf7be94882e92b9409e83f8589d5",
+        "date": "2025-12-02T16:11:29+01:00",
+        "path": "/nix/store/gyg9xgb5aj5hjcq5i20w8y30szpmfg56-pollinations-mcp-dec4f8d",
+        "sha256": "1ssjjp54yhgvzryqj8pynv8fjn76f91jpbaf3r0plpac00ffb49f",
+        "hash": "sha256-LpHlHABMXXpBHk6tK0Ny5ljp0Lb+Iol9/vtBT8qVUus=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12201,7 +12277,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-KEdUqQoqnrdtvEJBhkLDpHrS/+IogjCfbTj7fqBProg="
+      "cargoHash": "sha256-yKttWyb7CCcslPSXBMLYcbMuaz/dU6ZXmQyANpnsFt4="
     },
     {
       "name": "popping-and-locking",
@@ -14614,6 +14690,29 @@
         "lockFile": "/generated/sqruff.lock",
         "outputHashes": {}
       }
+    },
+    {
+      "name": "squirrel",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/mnshdw/squirrel-lsp-zed",
+        "rev": "991f9bdc929b8fbd1c6df1425ed34b219817afdc",
+        "date": "2025-11-26T07:47:29+01:00",
+        "path": "/nix/store/vica2cjfjmcxc3wii8wa5jiyyvwkm0yp-squirrel-lsp-zed-991f9bd",
+        "sha256": "0hj9aaq2sfprzq9razs7ivl9vd5rapa64i2hplyrbgwh3c159rz9",
+        "hash": "sha256-6edUAhuQv5U9vVBEYtRVubSd6I5Hf5UT/vk6LbBSSUI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "squirrel_squirrel"
+      ],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-apfbGpknTIEy6+zwI8mHYRAGEZHAX6eF2yLd+Qb3uHg="
     },
     {
       "name": "srcery",
@@ -17626,6 +17725,25 @@
         "path": "/nix/store/v3gfsq75d74nsq5wsfrmik901bys6qk8-legacy-themes-017764b",
         "sha256": "0ny36n9v30wl540cfikwxiy9jcvl122ckn5ckk113zhx4dz1r1s8",
         "hash": "sha256-SIccfiMd/hHCnKzYyYQIdDOZfOx8RscAKZSDsZM1w1s=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "zedbox",
+      "version": "0.0.1",
+      "src": {
+        "url": "https://github.com/isaiah-hamilton/zedbox",
+        "rev": "799200e699fb1cd115472173915368ffaf98278e",
+        "date": "2025-12-01T17:22:16-05:00",
+        "path": "/nix/store/88wjb1xsmdsjip1v9skm1xk01b8rha8g-zedbox-799200e",
+        "sha256": "1xgf4hfc5bm7fpx8297ykay00ym45804q0b8qphdasf7g29raph8",
+        "hash": "sha256-CF6Vk3jHadXgxWgBTAAqpHoAvJr+JIH6daeuwhwk7vU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -23040,6 +23158,24 @@
         "path": "/nix/store/qlqcd6c2jjpazis5cvbgz3rz47xxmk7d-tree-sitter-sql-4a99c73",
         "sha256": "1dk9rkh2r54xin7rg74h5lw9vy77qgj8g3rrjzkf9v5m9k912fra",
         "hash": "sha256-KjsR0ky17OTmlzmPh+TD5/idOC2QnJePjZ2ULODMabY=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "squirrel_squirrel",
+      "name": "squirrel",
+      "version": "7386898087db81ba92e8408bc32b6df9c680a454",
+      "src": {
+        "url": "https://github.com/mnshdw/tree-sitter-squirrel",
+        "rev": "7386898087db81ba92e8408bc32b6df9c680a454",
+        "date": "2025-11-13T21:24:44+01:00",
+        "path": "/nix/store/8x8l6xxbda48541pyiqhar8r1f54phga-tree-sitter-squirrel-7386898",
+        "sha256": "0cfz9rwgnrpz5i0n4f2av22mcrxwyw313h3jnxa2wrm2v8w89vr1",
+        "hash": "sha256-Ie+EONqiZi5Ut3LAEQb3vGdWhdhKOGJBLP9m+3hO3zE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
