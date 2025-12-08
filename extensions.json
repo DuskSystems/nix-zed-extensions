@@ -7537,14 +7537,14 @@
     },
     {
       "name": "kagimcp",
-      "version": "0.0.29",
+      "version": "0.0.30",
       "src": {
         "url": "https://github.com/jmylchreest/kagimcp-zed",
-        "rev": "255914f9ebb4c22959e8295a4b76426d1262e2d1",
-        "date": "2025-12-03T23:10:43Z",
-        "path": "/nix/store/y72wswpip0gwxnin37wqlsn6zn4l52m0-kagimcp-zed-255914f",
-        "sha256": "17y6b7hiad9k5ffql1i18mwq72bp45m6pbsbqmwnsm12lin0x2z1",
-        "hash": "sha256-4YsObKQiVG15xUuva2ohd4mDeUUhBoqdKzM1FeFZxp8=",
+        "rev": "861b616c8ddca8bf75e731b697e95de276bd9456",
+        "date": "2025-12-04T14:19:04Z",
+        "path": "/nix/store/sjbw0njnz6gjm1d3bbs0gjxg8wca8s0z-kagimcp-zed-861b616",
+        "sha256": "0fwajncgzm7acrymvhg0zs0ip4bwsm9ndqbd7xlzj4f0mrs1li8j",
+        "hash": "sha256-EkUadK7AEflpP23hZlPVfJEbgf7gwV19ZurU/5iVijs=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7554,7 +7554,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-HvUJeS6va3quSqIrLful0F1tp1xO3Bufx8plSqsT8rY="
+      "cargoHash": "sha256-vXP4kmAw/Eq3HCsnWeFqr/Et58j9phX4c8yi8UnQiIY="
     },
     {
       "name": "kamui-dark-theme",
@@ -11973,14 +11973,14 @@
     },
     {
       "name": "php",
-      "version": "0.4.4",
+      "version": "0.4.5",
       "src": {
         "url": "https://github.com/zed-extensions/php",
-        "rev": "09a7d415079df738a106b906859fce1c72cef46f",
-        "date": "2025-10-14T14:28:46+02:00",
-        "path": "/nix/store/j4130yr8n88zmjbdq5nhsajhvylplgng-php-09a7d41",
-        "sha256": "00rn5m1k8vphl8z2vfxgkzdq33ma900x0n9gmva6f9rvvz0z6275",
-        "hash": "sha256-5Qjzwd87J2fUri9Z0AFIqo6B25+vuy0+ovBuNEMtNgM=",
+        "rev": "429b7b5c26facd0fadab068d0c9fa82be52be58e",
+        "date": "2025-12-06T14:24:25-05:00",
+        "path": "/nix/store/gd0lr3abgkrj8gl0c157vndkvvain2p3-php-429b7b5",
+        "sha256": "0cmhv3kixg4f5aj1bpam138yj7j855yj1kpvb458l3azyan9b26b",
+        "hash": "sha256-y4iVrPJfDYoKWfvOIH0pSB7p0QhV3RWkKo68HufYsDI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11993,7 +11993,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-dpRMaaXw+RjNdlzvsJm2NnLo2ddvVnX296JRZgVVEgA="
+      "cargoHash": "sha256-YlTxEYSpMGO/ugPGya1axqRMOrc2bglCyea+Dg8L6Ak="
     },
     {
       "name": "php-snippets",
@@ -14542,14 +14542,14 @@
     },
     {
       "name": "soma",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "src": {
         "url": "https://github.com/SrGaabriel/zed-soma",
-        "rev": "1009ad3da8950813013e7314ad1f49e6f52cf34f",
-        "date": "2025-11-25T00:33:01-05:00",
-        "path": "/nix/store/wcnxxklfs6gghxbjd1icaci3g6gxix47-zed-soma-1009ad3",
-        "sha256": "1w3w3f6zf6j35szlnx01jz97hk70wyi52bmrrv8y607wdyais5gc",
-        "hash": "sha256-7BUdlW/8AOPRzrkuUaLn4Ex40pcBdEu/LkMa940bfPA=",
+        "rev": "93ea2ae8dbfd39565be49d3c1fcec99f49d0cf45",
+        "date": "2025-12-05T22:07:00-05:00",
+        "path": "/nix/store/xcbmlav5x5z9a3sc027mm8rhygdf66zf-zed-soma-93ea2ae",
+        "sha256": "1v92pcgirp0cwmh9bkfmp6nqvd51di5r9zn9cb6awf270pckhif1",
+        "hash": "sha256-wUU42QVHOK7MYsn+lEtsobSNrbnVzZVg5QzcHB+7Iu0=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -14561,7 +14561,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-x1t2QFyV2s2LwtwfgWtcNdd1XlKkEFgJwAC9uWTDPKQ=",
+      "cargoHash": "sha256-UJIVcGnNCte5Gk9dm1nV8T/X7flmm14BLILsEZsU3xM=",
       "cargoLock": {
         "lockFile": "/generated/soma.lock",
         "outputHashes": {}
@@ -16941,14 +16941,14 @@
     },
     {
       "name": "vitesse-theme-refined",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "src": {
         "url": "https://github.com/colinlienard/zed-vitesse-theme-refined",
-        "rev": "db7895c0dfd516e8a10a871155f7b1f6e5bcb72a",
-        "date": "2025-11-27T17:25:17Z",
-        "path": "/nix/store/kbvd0s0y9vrybk226s7h9zcdvbwgjfz2-zed-vitesse-theme-refined-db7895c",
-        "sha256": "1p5n87jci31ri5a6i0pamcrc95ncln3ph6j5i720qm6scfwgk2z2",
-        "hash": "sha256-4ov5uGPaVAzEiUUaeIelzJbEMqvqgmhUiTmMyORBttw=",
+        "rev": "b64ca5e0eb6730a7a6266448fde96cec7f0287be",
+        "date": "2025-12-06T16:33:48Z",
+        "path": "/nix/store/iwsli13a4fpw7w33jn8jqagr34iffav7-zed-vitesse-theme-refined-b64ca5e",
+        "sha256": "04dnw3lvgmfl7v78hp0lckqwi8nzhxps64wk5lldpxqlbmw26x0d",
+        "hash": "sha256-DXQjeF0U99soLZMTo2+H36LI8WQUXIjOPtTVt+ngthE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -23176,14 +23176,14 @@
     {
       "id": "soma_soma",
       "name": "soma",
-      "version": "e8979df833eec37cb440c791918836dab7308354",
+      "version": "ca5e63aaf56dc2a8e9039eac08769bd74c90d51e",
       "src": {
         "url": "https://github.com/srgaabriel/tree-sitter-soma",
-        "rev": "e8979df833eec37cb440c791918836dab7308354",
-        "date": "2025-11-25T00:25:38-05:00",
-        "path": "/nix/store/67j6jqbwas642cx35l1hrjgrxdjg4ll8-tree-sitter-soma-e8979df",
-        "sha256": "1nnl5ssrirmh97wllmcf1jhknq2bkz3ybrsrgb7y78xckvjmdlc0",
-        "hash": "sha256-gNFW5Z6so+PPelnn5cefS2A7oQyOVUr5SbDmmLUu1No=",
+        "rev": "ca5e63aaf56dc2a8e9039eac08769bd74c90d51e",
+        "date": "2025-12-05T21:53:53-05:00",
+        "path": "/nix/store/4p2lkvy7iilb25xl1h5frkpg8c9a9v0v-tree-sitter-soma-ca5e63a",
+        "sha256": "00kabwfs21yaf4qzcxalaba21mfz7snbfdwfvcb7a1pvszjb69m9",
+        "hash": "sha256-qSaz5Nf7BnUW2443t6w+39Ug1FJUdfYxccoHoR1fagI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
