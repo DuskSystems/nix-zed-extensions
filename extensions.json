@@ -1614,14 +1614,14 @@
     },
     {
       "name": "blueprint",
-      "version": "0.3.1",
+      "version": "0.4.0",
       "src": {
         "url": "https://github.com/tfuxu/zed-blueprint",
-        "rev": "882c8edfeeb6e60dbb549d8321219699b65a3d0f",
-        "date": "2025-07-16T21:11:45+02:00",
-        "path": "/nix/store/1m75qwbgf6dsccq8aw0p5ld2ca835ggn-zed-blueprint-882c8ed",
-        "sha256": "07xpqxl4kfvpri0dr8n3m3s1lfy0q5h9xlm67vsakzbsr1p1jx1r",
-        "hash": "sha256-OXQZbsh6/an0PqbSnmDBwDsa9KjDotxAzHe7SWjHtx8=",
+        "rev": "a3d83fc3f1969364d514ea6784edc0697bfd3b44",
+        "date": "2025-12-08T21:18:36+01:00",
+        "path": "/nix/store/zxkrrdnjxxbdb8xq3n6xz9q59x3rj3qg-zed-blueprint-a3d83fc",
+        "sha256": "0hjj3spvr2zzlhgzwwd92lpy190hrsgdsb0nnyy9sh9lf4yc8qnx",
+        "hash": "sha256-3WLEPHE0QZ28txYs3Z7OEKTgLxWpcf4fpP+LvK8eUkI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1633,7 +1633,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-ps+SEfdCgmHHi5bVOTMH0jLTQ2+GyuVb17lxbBTHvcA=",
+      "cargoHash": "sha256-/Ws/BrFLz9/MWViwmEK4o2i29Pu23qpmxIxw77dGNw4=",
       "cargoLock": {
         "lockFile": "/generated/blueprint.lock",
         "outputHashes": {}
@@ -1992,14 +1992,14 @@
     },
     {
       "name": "cargo-appraiser",
-      "version": "0.0.1",
+      "version": "0.1.0",
       "src": {
         "url": "https://github.com/washanhanzi/zed-cargo-appraiser",
-        "rev": "f38a6de35ca1c6504ea90e4c8067b0f7c31b1361",
-        "date": "2024-09-30T13:53:11+08:00",
-        "path": "/nix/store/2jdf8pvz6pvm920401xw1xg0kmqfik5i-zed-cargo-appraiser-f38a6de",
-        "sha256": "1lqjfinppx2qvw5qnal4axsky3xfbb7lqgy051q3wh27kncjgacx",
-        "hash": "sha256-naknmZ1HQD5wKMA/TM9arg8/dVeEKosL31j0e210EtM=",
+        "rev": "1e82259656923d97295f3860317467febc33c44f",
+        "date": "2025-12-08T22:05:22+08:00",
+        "path": "/nix/store/i1dswpp8052hpyvg7hq6fxy4xwckcss4-zed-cargo-appraiser-1e82259",
+        "sha256": "18hwxnr48pcpsx404wg4r463i4pl17prpidiv1hcqnnfzpai6390",
+        "hash": "sha256-IA0T1f3OWsxg2LHFm+8J9JI4DMnkcQJI15ddRLLtHKI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -2009,7 +2009,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-8jKfW4sESEHaFNJCc6c5UrbRVpyi3j3Qesa/IvkDnY4="
+      "cargoHash": "sha256-CIlYDef16dzyxcj3fhFG9Kz1xLnh4AC8b5SorVljBHY="
     },
     {
       "name": "cargo-tom",
@@ -2645,6 +2645,25 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-NhBIzd2/MsuJDzd0arXkDSuBFjjMlWoSLYNiP8oSNO4="
+    },
+    {
+      "name": "codebuddy",
+      "version": "2.9.0",
+      "src": {
+        "url": "https://github.com/jasonwang82/codebuddy-code-zed",
+        "rev": "8d2fa7e5b73b0c69f93c97b3a9787593d47186e9",
+        "date": "2025-11-26T16:11:50Z",
+        "path": "/nix/store/5m58icmykiysf9jzjg8av09kd0xxhmf6-codebuddy-code-zed-8d2fa7e",
+        "sha256": "0jgmkj433s6g9cwi590a88i7j01ysidqf9650bq955dbmqmsypjk",
+        "hash": "sha256-U16vK66rlZLwAsUkh1vUPgB5IkIKpBI5S8/oMYic9Uk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
     },
     {
       "name": "codely-theme",
@@ -13534,14 +13553,14 @@
     },
     {
       "name": "ruby",
-      "version": "0.16.1",
+      "version": "0.16.2",
       "src": {
         "url": "https://github.com/zed-extensions/ruby",
-        "rev": "fc915593d0f3b1bc4014dd18dcb92a622ee2908b",
-        "date": "2025-11-27T18:57:10+01:00",
-        "path": "/nix/store/5zh8pdbh02bsw0afc7v3m77qk276ai58-ruby-fc91559",
-        "sha256": "1d6i2p65waqay8y04dddiaz0ccv1m4d88nxzj50h765nsiabpxvp",
-        "hash": "sha256-d/e7VNS2mANBkb9bhBqpYTMGvoqtNQI88gorXswV0bQ=",
+        "rev": "6d6f8a1d58a912a616c5273218a19d7403688836",
+        "date": "2025-12-08T22:15:54+01:00",
+        "path": "/nix/store/cahahic6vd7iwbpb6k7qnlpkxfn07im8-ruby-6d6f8a1",
+        "sha256": "0i4g06fmbn27j9pp0maxp8l2k6qb7ll5ah94wvycrgww2bz4i2bf",
+        "hash": "sha256-bolI/hKcv8z85iRBVSg9C5spKLpdVXBvkkfYVZ0Bj0Q=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13555,7 +13574,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-0QuC0P8FN6hAZUrFLsOEceMdQx5OfY7YP7GmRzwrXyA="
+      "cargoHash": "sha256-hrSFavGdolzMjetU9bMVaT6SAOjOcQRst57m88IXlGw="
     },
     {
       "name": "ruff",
@@ -14971,14 +14990,14 @@
     },
     {
       "name": "stylelint",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "src": {
         "url": "https://github.com/florian-sanders/zed-stylelint",
-        "rev": "e4c90878c274793b363b4fe230989a85fc5ace5c",
-        "date": "2025-10-29T08:36:39+01:00",
-        "path": "/nix/store/8kxnbi09k0jja85ifan86ybfrikbg93c-zed-stylelint-e4c9087",
-        "sha256": "0nfqjl6wk1a2xfbjzf2jzma1dpz1z28wd5qvym30mi7ghpsfjv1a",
-        "hash": "sha256-Kmzp9IXvxApG9RuXxpH44d8WVP1SuC+X60KFyQ2V2Fk=",
+        "rev": "96015ec447f9dd60516e140d9eae5a2321c58414",
+        "date": "2025-12-06T19:51:27+01:00",
+        "path": "/nix/store/ffjr27b63rg5xxvgb86h54kjzcjp6xry-zed-stylelint-96015ec",
+        "sha256": "0rsn06iq40sm011m0gxk6cbpxk9pm15zpvgvyg88m3l9i9rx1wkq",
+        "hash": "sha256-ePLQc4qJjorQ8/vt+0uoN81+FzOzP1BDAFUDgqMBVmc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -15171,14 +15190,14 @@
     },
     {
       "name": "svelte-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "src": {
         "url": "https://github.com/ghostdevv/zed-svelte-mcp",
-        "rev": "a0c4f1db3a3f17379de5a8be97651b54ff3b536e",
-        "date": "2025-10-30T02:27:53Z",
-        "path": "/nix/store/cfnv8qvgw5kzf7ajvsm6d3n0w49a34qx-zed-svelte-mcp-a0c4f1d",
-        "sha256": "1py75draqsaj1ir54s618lq4z95bs58004q7nc7gq4k86gzlahd3",
-        "hash": "sha256-o0FF/zNoEvwOswcTAFDRq6RPMEXBaFJyDFJprHIrx98=",
+        "rev": "b06edae954ca8fed39edbdd0815ad0a67f046f8e",
+        "date": "2025-12-08T20:47:42Z",
+        "path": "/nix/store/qlym7qvxgxvpdckahwzdgfq9gfiwl7vy-zed-svelte-mcp-b06edae",
+        "sha256": "0d1zvgp3b5nygg8rsh44na39v1kq5b6lgqha8mf96f5khr1h4y4f",
+        "hash": "sha256-jngCQ4azOJNcRQriR80qeIadhrKEQJ3Re96WNe7bPzQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
