@@ -612,14 +612,14 @@
     },
     {
       "name": "aquaflow-theme",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/Whitfrost21/zed-Aquaflow",
-        "rev": "61bd3dc14182f824135653c8a0efe14af4cd716a",
-        "date": "2025-11-24T22:18:11+05:30",
-        "path": "/nix/store/7qfjxhgqjw9l1xlzkz236nqpmsp5hggp-zed-Aquaflow-61bd3dc",
-        "sha256": "17gdbriq2rfdnp8s015nvyj0gphb7rrpfz827f6g9bqxy1r3s98m",
-        "hash": "sha256-FSU9cvAdr/SMOwJ9d3M+C94HpN+2BKDRtc1lgWNe7Z0=",
+        "rev": "a541fcef8de1079f9eff97494c61aff8eeade726",
+        "date": "2025-12-08T20:13:18+05:30",
+        "path": "/nix/store/48g0n2kch6jjzv4x9zxpqbqwxqinrjac-zed-Aquaflow-a541fce",
+        "sha256": "11is4p7hgzqjv3mq5gwbyqizlfwz8d098xxb61y6b7ywdp9lxcw5",
+        "hash": "sha256-hbNO023cn2V8MKt3lEBDnzv6I/aLv4Lr2BL/B88lOoY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3607,14 +3607,14 @@
     },
     {
       "name": "dart",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "src": {
         "url": "https://github.com/zed-extensions/dart",
-        "rev": "ed48205e4eb2fb95307c4919e4a1037e0d337191",
-        "date": "2025-11-12T11:19:41+01:00",
-        "path": "/nix/store/hglahlmwbxzi1l17c5m35p4qs1c1nnhl-dart-ed48205",
-        "sha256": "1b19hcwpiz4671li6yq973p7xlzz70cvh4l1m45lggxls52mz8dv",
-        "hash": "sha256-u6FfRdG0v0cLqYESuBk4/9N+7jgJexNpOIb8eDmDKaw=",
+        "rev": "715b484a613c0a48116d4df71d21af3c70a20a0a",
+        "date": "2025-12-09T18:30:17+01:00",
+        "path": "/nix/store/vckbi1c0srqs6rf4j5nncs6591236f9f-dart-715b484",
+        "sha256": "0wisa9hsqr8vkbm4c8r5dr8l3qjdj7wcb82qi5n5p59zympcbrnd",
+        "hash": "sha256-zebFbvU/lVtsiVigxfiRTeJBUW4lI0bqmhtlrGFSOnI=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3626,7 +3626,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-am6Y8hd1HaM/ox/NPddurV4Rn2yk+3vtUYjijcAzkbI="
+      "cargoHash": "sha256-OLKvh76/v3i/hwXUhM7ZL9sopqWWqxb/mCDlJIxA73E="
     },
     {
       "name": "datadog-mcp",
@@ -9360,14 +9360,14 @@
     },
     {
       "name": "mcp-server-sonarqube",
-      "version": "1.3.0",
+      "version": "1.4.0",
       "src": {
         "url": "https://github.com/SonarSource/sonarqube-mcp-server-zed",
-        "rev": "3a5359244cd4c693beb24243c95c3026ee5068ac",
-        "date": "2025-11-27T15:56:19+01:00",
-        "path": "/nix/store/cj9pxwz8d84liq5fd4xxsd86g0d3bw78-sonarqube-mcp-server-zed-3a53592",
-        "sha256": "0fhx9pbm4bmwclswp1hm4aj2dbfh1mcnyajaswn9p3565kc2w7hy",
-        "hash": "sha256-Hh4u2CymjJss10oqb1kN0K0mpCIVhss1ZbwuUtdNHTo=",
+        "rev": "292641a87bc12bd9e55f360835d7b276c8a09fd4",
+        "date": "2025-12-09T14:03:10+01:00",
+        "path": "/nix/store/6gfbjqh5n019v2316k018i8x0xbxj7py-sonarqube-mcp-server-zed-292641a",
+        "sha256": "0d0rkclrxbw7k5c3cjjsixfwddcqjfi2ppksmwxhg5v8jcw0a22d",
+        "hash": "sha256-TQgFOJNolwc7r3reK6KTmLXGXY9aSjZYmYevnimbGTQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -9420,31 +9420,6 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-UqiGq9ULIJdOGJ/YI+cAvD5rZ2rE3bvsaSN2WH4v0wM="
-    },
-    {
-      "name": "mcp-server-vercel",
-      "version": "1.0.1",
-      "src": {
-        "url": "https://github.com/Takk8IS/vercel-mcp-server-for-zed",
-        "rev": "6c0690f02d23d8df469e15f3efb26c29dc013ecb",
-        "date": "2025-07-01T03:02:51+02:00",
-        "path": "/nix/store/l0i82rh50q1vsxpwmcxwscjhwkmak7w0-vercel-mcp-server-for-zed-6c0690f",
-        "sha256": "0x88h1dzwzdfkmkpyzj3w88a60b0figi888zxnkk3rd84dsx78q9",
-        "hash": "sha256-CaPTdSOo5TGn7R8hFF90YAGjEOJDfn9nna59/luACHU=",
-        "fetchLFS": false,
-        "fetchSubmodules": false,
-        "deepClone": false,
-        "leaveDotGit": false
-      },
-      "extensionRoot": null,
-      "grammars": [],
-      "kind": "rust",
-      "cargoRoot": null,
-      "cargoHash": "sha256-olfMuV4wjckWdqnkBJ2MjZayhSSwNIcmBL962BUBUWc=",
-      "cargoLock": {
-        "lockFile": "/generated/mcp-server-vercel.lock",
-        "outputHashes": {}
-      }
     },
     {
       "name": "mcp-server-webflow",
@@ -9630,6 +9605,25 @@
         "leaveDotGit": false
       },
       "extensionRoot": null,
+      "grammars": [],
+      "kind": "plain"
+    },
+    {
+      "name": "mistral-vibe",
+      "version": "1.0.4",
+      "src": {
+        "url": "https://github.com/mistralai/mistral-vibe",
+        "rev": "72bf84d8fa5b5ca35a71dff1e89378c8c49f6513",
+        "date": "2025-12-09T19:51:53+01:00",
+        "path": "/nix/store/41rl4bic4v6yknmrfpd3s5dm20z15wh5-mistral-vibe-72bf84d",
+        "sha256": "0mvngr99xll6ihbv298c8m4gn9mq6v0cnqpcjcpsrwj9b68h0mbf",
+        "hash": "sha256-blUAkVlJ8qwvk+xiy8A2uCb7SEUMJbEXjIbSnlJ+dlc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": "distribution/zed",
       "grammars": [],
       "kind": "plain"
     },
@@ -12199,14 +12193,14 @@
     },
     {
       "name": "playdate",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "src": {
         "url": "https://github.com/notpeter/playdate-zed-extension",
-        "rev": "f1d48f238a1405784da3b524a78b50176958e234",
-        "date": "2024-08-26T16:50:12-04:00",
-        "path": "/nix/store/h8rbyky1xwk9rzb6i1crvi8s2fydf7li-playdate-zed-extension-f1d48f2",
-        "sha256": "1p1b4g3pzbfv8jr7yklx6jn2p88p1np6vyhf0rvjiky4hy86id3s",
-        "hash": "sha256-erRokIfEzyh3Bg76ba4NF6ErrDSdTn+yRNutf8cjK9w=",
+        "rev": "760b17ab2d723aac49886dac4872607eb2d20cce",
+        "date": "2025-12-09T12:24:14-05:00",
+        "path": "/nix/store/xfiqwmwlcgs9l70kq2jaik4c4srmsxrw-playdate-zed-extension-760b17a",
+        "sha256": "1xi9nkbhaylhnw119wfbyj1wcr9vgg8dl1crpfbf4r6as53dhdv6",
+        "hash": "sha256-ZjfYRtHKZOKWu5kF2tB7O2XGg/TL8RQCt5B6Bde0KfY=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -22295,14 +22289,14 @@
     {
       "id": "playdate_animationtxt",
       "name": "animationtxt",
-      "version": "d7947cdcc94fbad7a2436053572552adf471fc9b",
+      "version": "004ecde4b57c68b7d337a06655d2e15228f34396",
       "src": {
         "url": "https://github.com/notpeter/tree-sitter-animationtxt",
-        "rev": "d7947cdcc94fbad7a2436053572552adf471fc9b",
-        "date": "2024-08-04T08:59:23-04:00",
-        "path": "/nix/store/jxj4kwkbaii9x6bq034s4csn9bn93b6m-tree-sitter-animationtxt-d7947cd",
-        "sha256": "0dfkmlpx36s00fcvrc0k0xv13r91bb75h00pd2rvswa65pdk9rlp",
-        "hash": "sha256-l+Y02y1Gcb2zaBcAWM5aIeURdgcTsLyZA0Cb0S+t0zU=",
+        "rev": "004ecde4b57c68b7d337a06655d2e15228f34396",
+        "date": "2025-12-09T12:01:58-05:00",
+        "path": "/nix/store/ssy5c4if34c3ql9n4mrky5gw213i12zk-tree-sitter-animationtxt-004ecde",
+        "sha256": "1s84c99hcpsgcfqs8r5cjnqpvpsryqv3k2f0zjhpxrbpssmdhr0f",
+        "hash": "sha256-DmTYqtZ35X6h/MCJOTb2Wd99sZWsZKSxY09fBlNiBOk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -22313,14 +22307,14 @@
     {
       "id": "playdate_pdxinfo",
       "name": "pdxinfo",
-      "version": "f53aa27c0f93c0b89367894c8858528cf0b85e81",
+      "version": "d5f40313cae3ead5f9a9e7420a29afd80d62a1c8",
       "src": {
         "url": "https://github.com/notpeter/tree-sitter-pdxinfo",
-        "rev": "f53aa27c0f93c0b89367894c8858528cf0b85e81",
-        "date": "2024-08-04T08:58:47-04:00",
-        "path": "/nix/store/flpb6z35c04vm50v30i11s4aqbf1f1nr-tree-sitter-pdxinfo-f53aa27",
-        "sha256": "0ap9xnvcv7vrlwnbdv6ybcd7952yf8ksmx6m2c495rz4lkmb5z4r",
-        "hash": "sha256-mfyy6qTk55IIE9X0qidyXpR0Glve7LYsp3mfzbbt6So=",
+        "rev": "d5f40313cae3ead5f9a9e7420a29afd80d62a1c8",
+        "date": "2025-12-09T11:46:43-05:00",
+        "path": "/nix/store/gily6gaf2hxq34khmvrz2wi70knmc76c-tree-sitter-pdxinfo-d5f4031",
+        "sha256": "06pgxgfih2c4r1yh72gshl3n31bx7h037c07rsfvs5lsx7j1k80b",
+        "hash": "sha256-C6AZ5OmaFr2dzgewMwA8fYVhB4X6iQN9yIQJGN3r7xo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
