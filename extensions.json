@@ -759,14 +759,14 @@
     },
     {
       "name": "asciidoc",
-      "version": "0.0.1",
+      "version": "0.1.3",
       "src": {
         "url": "https://github.com/andreicek/zed-asciidoc",
-        "rev": "8ce780ae1ec0d559fb967c5ce81f9e53aaaefcd2",
-        "date": "2024-04-21T10:15:02+02:00",
-        "path": "/nix/store/lrr43vmjh673la940513d877z0cwdb05-zed-asciidoc-8ce780a",
-        "sha256": "1b1cjw2i1id4cm5184xfw8830zwqkr1666xv2gnvyd793hvk5r7q",
-        "hash": "sha256-+OQyNxzpNL/tE7sbY0KemH8wEOKuExRKZaTFEAWXLKw=",
+        "rev": "f208f0578f1c73e279169d4c812b1701f08f5863",
+        "date": "2025-12-12T02:58:52+01:00",
+        "path": "/nix/store/i3qrmcz7v9r0gingp6682b61sanvg6q8-zed-asciidoc-f208f05",
+        "sha256": "1g00qdibz95i48mlnn839frfib2l9bwsld3b2hh8y4gprsiazzpf",
+        "hash": "sha256-7v6vos73EY8gFGs0qvlKVKzosksDWUsrIrGkv2LDALw=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -774,7 +774,8 @@
       },
       "extensionRoot": null,
       "grammars": [
-        "asciidoc_asciidoc"
+        "asciidoc_asciidoc",
+        "asciidoc_asciidoc_inline"
       ],
       "kind": "plain"
     },
@@ -992,14 +993,14 @@
     },
     {
       "name": "autocorrect",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "src": {
         "url": "https://github.com/huacnlee/zed-autocorrect",
-        "rev": "21a870204a71fa7a523e4b198e8a1e7d0d381fb8",
-        "date": "2025-10-08T21:26:47+08:00",
-        "path": "/nix/store/kls834zr2d3ap1hlzhcjck0zra5d6cqc-zed-autocorrect-21a8702",
-        "sha256": "0jz87a936sv60kbrs6ysjrbmiwddcshp4xxqarfyb381zqr2sy02",
-        "hash": "sha256-AngtMv4BjeVdVrh3cqFmrfFYV5baG53XBGZrM5I66Es=",
+        "rev": "50055e2341142de9eb8ebc5b20e900770e036e1f",
+        "date": "2025-12-10T22:34:27+08:00",
+        "path": "/nix/store/vg0ppm8bq75c78r2wa107h3ghja49iis-zed-autocorrect-50055e2",
+        "sha256": "1j8dx489r2g9fcm9p5kmd2bcyx3p0jl54q5crwx2ya76gspkkbzq",
+        "hash": "sha256-+K85r37mKC86z6xgUqgEd3TPlmh1lpsqc+mJnBDpDck=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -1009,7 +1010,7 @@
       "grammars": [],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-aMZ2ua6LZMRA8LVPKNN7b4Q+ix4TPKcpp/zyXhp9Hms="
+      "cargoHash": "sha256-2pT3895Y3vAdWsLi6J3NkBVGaMq8cYHZJiQdgeGGUKk="
     },
     {
       "name": "autumnal-marscape",
@@ -11498,14 +11499,14 @@
     },
     {
       "name": "orng",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "src": {
         "url": "https://github.com/elithrar/orng-zed",
-        "rev": "71938195a000df41caf945d6d814799140c7fff4",
-        "date": "2025-12-10T10:45:57-05:00",
-        "path": "/nix/store/3m5dvlad3vj91ip559ppba6lykb0mxkb-orng-zed-7193819",
-        "sha256": "15j5kmp6f95fawkm8dqmxmsshmkfg4kh8lf1bav2cmp6yiskhrpg",
-        "hash": "sha256-72Y4dfTmVia2WsFRBCd5blaode0VN1QnV64kZ26dRZY=",
+        "rev": "59c49cb3b30102f71e38ac152692f98b3d4a4294",
+        "date": "2025-12-11T07:32:38-05:00",
+        "path": "/nix/store/lkadg9p9wgqnnjdjxxw3z12z58nw9f09-orng-zed-59c49cb",
+        "sha256": "1f96w1958rdz7z6x55bxgj2zv913wxc4i3a7mqbp7mbd26dr3113",
+        "hash": "sha256-I4SRmxFt1XMXrkeNSFjnI6T9hXx9ldLNP79lVFLgJrk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -18276,20 +18277,38 @@
     {
       "id": "asciidoc_asciidoc",
       "name": "asciidoc",
-      "version": "736ab072da132283b5d9397100d70f14b4fb71ae",
+      "version": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
       "src": {
         "url": "https://github.com/cathaysia/tree-sitter-asciidoc",
-        "rev": "736ab072da132283b5d9397100d70f14b4fb71ae",
-        "date": "2024-03-30T20:13:31+08:00",
-        "path": "/nix/store/y4016x256hbvjlcz2p8q5qqxxr4ddrlh-tree-sitter-asciidoc-736ab07",
-        "sha256": "1mkcdw99nwkl1x4xjfd1p0p6gh6m4y6k5xl8ldylli7ndr94rs51",
-        "hash": "sha256-oehMUm72REp9o4j2Mo0n1cBnLrihOdlJD3RymxJvbNY=",
+        "rev": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
+        "date": "2025-11-24T05:15:58Z",
+        "path": "/nix/store/ijjs8hlm2y1d1r8giia0jka7a4p2plqa-tree-sitter-asciidoc-0ecc130",
+        "sha256": "05rl6kj6wq16s1mfrs4sygngfkn24aajm6jhr82aj018siv2p6ba",
+        "hash": "sha256-apkrdtQoAKkEylCaKpUiwk737POa6Oxq0CZgbuQ0NBc=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
         "leaveDotGit": false
       },
-      "grammarRoot": null
+      "grammarRoot": "tree-sitter-asciidoc"
+    },
+    {
+      "id": "asciidoc_asciidoc_inline",
+      "name": "asciidoc_inline",
+      "version": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
+      "src": {
+        "url": "https://github.com/cathaysia/tree-sitter-asciidoc",
+        "rev": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
+        "date": "2025-11-24T05:15:58Z",
+        "path": "/nix/store/ijjs8hlm2y1d1r8giia0jka7a4p2plqa-tree-sitter-asciidoc-0ecc130",
+        "sha256": "05rl6kj6wq16s1mfrs4sygngfkn24aajm6jhr82aj018siv2p6ba",
+        "hash": "sha256-apkrdtQoAKkEylCaKpUiwk737POa6Oxq0CZgbuQ0NBc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": "tree-sitter-asciidoc_inline"
     },
     {
       "id": "asn1_asn1",
