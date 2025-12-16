@@ -1,12 +1,12 @@
 use std::{
     collections::BTreeMap,
-    env::{current_dir, temp_dir},
+    env::temp_dir,
     num::NonZero,
     path::{Path, PathBuf},
     sync::Arc,
 };
 
-use cargo_lock::Lockfile;
+use cargo_lock::{Lockfile, SourceId};
 use futures_util::stream::FuturesUnordered;
 use serde_json::Value;
 use smol::{fs, lock::Semaphore, process::Command, stream::StreamExt};
@@ -25,15 +25,13 @@ pub struct CargoWorkspace {
 
 pub async fn process_rust_extension(
     extension: &RegistryExtension,
-    repo: &Path,
     dir: &Path,
     name: &str,
 ) -> anyhow::Result<(ExtensionKind, Option<String>)> {
     let workspace = find_cargo_workspace(dir, extension.path.as_deref()).await?;
-    let altered_lockfile =
-        process_cargo_lockfile(&workspace, repo, dir, &extension.repository, name).await?;
+    let has_stored_lockfile = process_cargo_lockfile(&workspace, dir, name).await?;
 
-    let kind = calculate_rust_extension_kind(name, &workspace, altered_lockfile).await?;
+    let kind = calculate_rust_extension_kind(name, &workspace, has_stored_lockfile).await?;
     let root = calculate_rust_extension_root(&workspace, extension.path.as_deref());
 
     Ok((kind, root))
@@ -98,9 +96,7 @@ async fn find_cargo_workspace(dir: &Path, path: Option<&str>) -> anyhow::Result<
 
 async fn process_cargo_lockfile(
     workspace: &CargoWorkspace,
-    repo: &Path,
     dir: &Path,
-    url: &str,
     name: &str,
 ) -> anyhow::Result<bool> {
     let generated = Path::new("generated");
@@ -127,26 +123,22 @@ async fn process_cargo_lockfile(
         return Ok(true);
     }
 
-    if url == "https://github.com/zed-industries/zed" {
-        tracing::info!("Patching Cargo.lock");
+    let lockfile = fs::read_to_string(&workspace.lockfile).await?;
+    let lockfile: Lockfile = toml::from_str(&lockfile)?;
 
-        let patch = current_dir()?.join("patches/zed-duplicate-reqwest.patch");
-        let apply = Command::new("git")
-            .args(["apply", &patch.to_string_lossy()])
-            .current_dir(repo)
-            .output()
-            .await?;
+    let has_git_deps = lockfile
+        .packages
+        .iter()
+        .any(|package| package.source.as_ref().is_some_and(SourceId::is_git));
 
-        if !apply.status.success() {
-            anyhow::bail!("Failed to patch Cargo.lock");
-        }
-
+    if has_git_deps {
+        tracing::info!("Lockfile has git dependencies, storing copy");
         fs::copy(&workspace.lockfile, &stored_lockfile).await?;
         return Ok(true);
     }
 
     if stored_lockfile.exists() {
-        tracing::info!("Removing old generated lockfile");
+        tracing::info!("Removing old stored lockfile");
         fs::remove_file(&stored_lockfile).await?;
     }
 
@@ -172,11 +164,11 @@ fn calculate_rust_extension_root(workspace: &CargoWorkspace, path: Option<&str>)
 async fn calculate_rust_extension_kind(
     name: &str,
     workspace: &CargoWorkspace,
-    altered_lockfile: bool,
+    has_stored_lockfile: bool,
 ) -> anyhow::Result<ExtensionKind> {
     let cargo_hash = generate_cargo_hash(name, &workspace.lockfile).await?;
 
-    let cargo_lock = if altered_lockfile {
+    let cargo_lock = if has_stored_lockfile {
         let output_hashes = calculate_cargo_output_hashes(&workspace.lockfile).await?;
         Some(CargoLock {
             lock_file: PathBuf::from(format!("/generated/{name}.lock")),

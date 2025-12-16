@@ -57,7 +57,7 @@ futures-util = { version = "0.3", default-features = false, features = ["std"] }
 cargo-lock = "11.0"
 
 # WASM
-wasmparser = { version = "0.240", default-features = false, features = [
+wasmparser = { version = "0.243", default-features = false, features = [
   "component-model",
 ] }
 

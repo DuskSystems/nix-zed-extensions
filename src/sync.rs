@@ -45,7 +45,7 @@ pub async fn process_extension(
     let grammars = process_grammars(manifest.grammars, &name).await?;
 
     let (kind, extension_root) = if extension_dir.join("Cargo.toml").exists() {
-        process_rust_extension(&extension, &tmp_repo, &extension_dir, &name).await?
+        process_rust_extension(&extension, &extension_dir, &name).await?
     } else {
         (ExtensionKind::Plain, extension.path.clone())
     };
