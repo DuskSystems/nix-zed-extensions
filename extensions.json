@@ -12653,14 +12653,14 @@
     },
     {
       "name": "proto",
-      "version": "0.2.3",
+      "version": "0.3.0",
       "src": {
         "url": "https://github.com/zed-industries/zed",
-        "rev": "8fb2bde2c9fb752bd1d21c3c6e66ee5891487600",
-        "date": "2025-12-15T11:50:44Z",
-        "path": "/nix/store/63k3x0djq9p594j1r9mkhcwrxj53pxsl-zed-8fb2bde",
-        "sha256": "1blfqhaw15f1s9w4lgdk2jxwbsqyfj1s07bg3xnsmdmibfrlfs4l",
-        "hash": "sha256-lGhHs1uxtqptH28doIN0HuvFuxSzPUp40sGVwBXEjq4=",
+        "rev": "3e8d55739cec84d22093af57790cfb884bd20aa0",
+        "date": "2025-12-15T11:51:18Z",
+        "path": "/nix/store/fkgkjgq5h15k5jw49gj3191hrvr4xs2c-zed-3e8d557",
+        "sha256": "0s7289185p25dkf0qbwk0wp97dl5iyq22avslj3xjbqi4nwfk4h7",
+        "hash": "sha256-B5LpuCURL9mHpHorIbCPhbaTLgeTLwzcbEXcgkJC4mg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12672,7 +12672,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-/bbpzoIu9dPt1/Phr6nJgrhasIWyJBlvUBtc1xy2t7M=",
+      "cargoHash": "sha256-PrIu8LVcinkFnBASp88rGBjjfbMex069LkREpVZ3aQ0=",
       "cargoLock": {
         "lockFile": "/generated/proto.lock",
         "outputHashes": {
