@@ -12479,14 +12479,14 @@
     },
     {
       "name": "pollinations-mcp",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "src": {
         "url": "https://github.com/FrancoStino/pollinations-mcp",
-        "rev": "dec4f8da7499bf7be94882e92b9409e83f8589d5",
-        "date": "2025-12-02T16:11:29+01:00",
-        "path": "/nix/store/gyg9xgb5aj5hjcq5i20w8y30szpmfg56-pollinations-mcp-dec4f8d",
-        "sha256": "1ssjjp54yhgvzryqj8pynv8fjn76f91jpbaf3r0plpac00ffb49f",
-        "hash": "sha256-LpHlHABMXXpBHk6tK0Ny5ljp0Lb+Iol9/vtBT8qVUus=",
+        "rev": "5abc6360126491b1b9c8edbf99bed4ead8ddc20e",
+        "date": "2025-12-18T16:07:17+01:00",
+        "path": "/nix/store/gpqjxrc20y2qii8isc2z17p66xfyy6db-pollinations-mcp-5abc636",
+        "sha256": "0a2bf4kwvxn708s6sk8c7hjg5kiiddfqk709mlna7i3r082v3gn2",
+        "hash": "sha256-wr6xBQJ5xKMsrQmciV1rMc7yJDwMTW00Asf2zSdxSyg=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12584,14 +12584,14 @@
     },
     {
       "name": "prisma",
-      "version": "0.1.6",
+      "version": "0.1.8",
       "src": {
         "url": "https://github.com/zed-extensions/prisma",
-        "rev": "ba25cf52e16d520e9c4ca2d08030697ffacae373",
-        "date": "2025-12-03T23:03:10+01:00",
-        "path": "/nix/store/607f7v9iwnzrhq47jf4ca1lrz3gq6ms7-prisma-ba25cf5",
-        "sha256": "1d6khab379aj1jk1f6zb5i584rjnvjw724s1k8a1x2zl83ljvw69",
-        "hash": "sha256-yfAt6UD0ix4UmkETcbjcVmaCSizrGxemDFKlM5aC07Q=",
+        "rev": "80d3ab68381a50caccbf4b6b4eb776e33a0ba7c1",
+        "date": "2025-12-18T21:21:51Z",
+        "path": "/nix/store/43prahmb25l1q78fx0pvgrxzynpl969d-prisma-80d3ab6",
+        "sha256": "142mp63qm9f69y0ali1nll6w17p7p8rwx4k11dnfqrnrkknskyv0",
+        "hash": "sha256-YPup7ZzZZuxsC2GSzjO6557ADaU2RKqAT8alioe5VZA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12603,7 +12603,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-k5jytyqBSG/sIr6HcSTq88hmtyJOKWSaibX3UJe8+MA="
+      "cargoHash": "sha256-+Tp1IVS1qVGvYjVFLItvgayyQJlmPUzm4EEOaiWImdM="
     },
     {
       "name": "prisma-mcp",
