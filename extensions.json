@@ -7217,14 +7217,14 @@
     },
     {
       "name": "java",
-      "version": "6.8.1",
+      "version": "6.8.2",
       "src": {
         "url": "https://github.com/zed-extensions/java",
-        "rev": "325407cc3f3aff67bd647542eb4724ba638224c2",
-        "date": "2025-12-17T16:29:06-08:00",
-        "path": "/nix/store/n33d7i7k3cqg91g9079nihxxv5hvfcss-java-325407c",
-        "sha256": "13n5757qm04crwgqlg9dlg83c2n4hjxp8vdaq3gqdkjv6sw2d8c8",
-        "hash": "sha256-iKEmuDZbzobfwKptdLuExAo20KMtPYofz4yAik85xY4=",
+        "rev": "c8f8292f9289972ebfe0ed50bbedb235e95f6776",
+        "date": "2025-12-20T12:06:03+01:00",
+        "path": "/nix/store/2732aq9462mf1rzbz8652dmpbp08pj2x-java-c8f8292",
+        "sha256": "0fbplqixshs747q5pgij2bh6wd9rc4b12ss33mz2mbb8jslsixjj",
+        "hash": "sha256-UvaoqZZorSp+HUNrERZhOTVu4BIyvlvwIUdD3SOmdzk=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7237,7 +7237,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-2K7OHXl7McKy8uAhgF2E/ltnifz5L+t3thpjZdn4E5g="
+      "cargoHash": "sha256-L8EZcuWKNXbxEWYB5DamcXeVjfyI+895w+L62Ipt/BY="
     },
     {
       "name": "java-eclipse-jdtls",
