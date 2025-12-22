@@ -3653,14 +3653,14 @@
     },
     {
       "name": "dart",
-      "version": "0.3.2",
+      "version": "0.3.3",
       "src": {
         "url": "https://github.com/zed-extensions/dart",
-        "rev": "715b484a613c0a48116d4df71d21af3c70a20a0a",
-        "date": "2025-12-09T18:30:17+01:00",
-        "path": "/nix/store/vckbi1c0srqs6rf4j5nncs6591236f9f-dart-715b484",
-        "sha256": "0wisa9hsqr8vkbm4c8r5dr8l3qjdj7wcb82qi5n5p59zympcbrnd",
-        "hash": "sha256-zebFbvU/lVtsiVigxfiRTeJBUW4lI0bqmhtlrGFSOnI=",
+        "rev": "97a267deb9592a1667635d44df20382352f6dabd",
+        "date": "2025-12-22T00:29:26+01:00",
+        "path": "/nix/store/2xh25xzlmzwvdyhpg8x7lc38xc86v6mn-dart-97a267d",
+        "sha256": "1rzbpsmnsldm2cnilvf6lbd39gwi3j367ndrpziwp1j0vds59m70",
+        "hash": "sha256-4NRUdNtAhsvjv7nZY4Yckb802qLGbRotE7VRbau+6+c=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -3672,7 +3672,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-OLKvh76/v3i/hwXUhM7ZL9sopqWWqxb/mCDlJIxA73E="
+      "cargoHash": "sha256-8WQlYxyHIfmxHOSP9L8mF4yTJNMrEfkGx2JVns147Jg="
     },
     {
       "name": "datadog-mcp",
@@ -7217,14 +7217,14 @@
     },
     {
       "name": "java",
-      "version": "6.8.2",
+      "version": "6.8.3",
       "src": {
         "url": "https://github.com/zed-extensions/java",
-        "rev": "c8f8292f9289972ebfe0ed50bbedb235e95f6776",
-        "date": "2025-12-20T12:06:03+01:00",
-        "path": "/nix/store/2732aq9462mf1rzbz8652dmpbp08pj2x-java-c8f8292",
-        "sha256": "0fbplqixshs747q5pgij2bh6wd9rc4b12ss33mz2mbb8jslsixjj",
-        "hash": "sha256-UvaoqZZorSp+HUNrERZhOTVu4BIyvlvwIUdD3SOmdzk=",
+        "rev": "9929ca374dad327b24da558cc51d74e8fdf7dbc7",
+        "date": "2025-12-21T16:20:43+01:00",
+        "path": "/nix/store/mkvb0v4dclal5lhwcr788rgjrrswws8h-java-9929ca3",
+        "sha256": "0xlp2ijsnqjil6qzqmwf9mq324zw109rr4cr9qgmq7lqp282snlm",
+        "hash": "sha256-lVotkLiYHlwfTpmRnBMI/BMxcE2OV/yxoVFiq2UUl3Y=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7237,7 +7237,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-L8EZcuWKNXbxEWYB5DamcXeVjfyI+895w+L62Ipt/BY="
+      "cargoHash": "sha256-N5tzcSzRATyZ2f5DFpFqZDbzT/BAEZskniY8r3RkOxw="
     },
     {
       "name": "java-eclipse-jdtls",
@@ -7400,14 +7400,14 @@
     },
     {
       "name": "jetbrains-themes",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "src": {
         "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
-        "rev": "3d90ce2500c66f253b0b5a4436c10ab5e4b0893e",
-        "date": "2025-10-26T15:07:32+03:00",
-        "path": "/nix/store/ic7dk4d3gkr62gvd73k20jmvrgfgwybf-zed-theme-jetbrains-3d90ce2",
-        "sha256": "03i6jbx8jwxl9whllra118xx2cnkghvhfqll5521sbz6lrv5w3ka",
-        "hash": "sha256-ag5edqbmLx1EKZRiBzd80zLROwpBZUohT7RzifqSJg4=",
+        "rev": "b0685c5700a137274c0131e7bba7dbcec576754d",
+        "date": "2025-12-21T10:47:34+03:00",
+        "path": "/nix/store/p95d7wrclwimihlsq4pasc4finxkv51c-zed-theme-jetbrains-b0685c5",
+        "sha256": "0w0dqjnpxzdm7v8vkycfyzx7wgnqfw3w6dr77pwfxcskgci6464w",
+        "hash": "sha256-nBhiIntTs+74PSc3wwd32D5++veO+bnRPrX9fq3EDXA=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7818,14 +7818,14 @@
     },
     {
       "name": "kotlin",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "src": {
         "url": "https://github.com/zed-extensions/zed-kotlin",
-        "rev": "ca048b16ff34b74c9e544cc6a29bd9b9e87a653d",
-        "date": "2025-12-18T00:19:19Z",
-        "path": "/nix/store/vy8cknqp63dphs71046ybf4ydzbga65m-zed-kotlin-ca048b1",
-        "sha256": "15ccwr7nk7w6rb3fin0a7zr45wl5dspj9s3asf3cljfi7i1si61v",
-        "hash": "sha256-O5ioQzzRScqG02roJK9uhfJC8j8K2OjGyoafaU/mjJU=",
+        "rev": "2529cb6e8979d4508611a5eb23afb0d3c744a117",
+        "date": "2025-12-22T00:02:31Z",
+        "path": "/nix/store/i98njj8ylw5rsaggidqy0gyiz2b94ffg-zed-kotlin-2529cb6",
+        "sha256": "14mgs0rnji08nkpaq48bywy1fagx909bjaw79sxj085nydl997v2",
+        "hash": "sha256-Yp+UaPO2ICC7TocruRJI/SkXPPcLEazutAhEaTPQr5I=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -7837,7 +7837,7 @@
       ],
       "kind": "rust",
       "cargoRoot": null,
-      "cargoHash": "sha256-aXLFUjVZ1Jtqds8hjNACkFSO15/04941hAvpYZfz8Qk="
+      "cargoHash": "sha256-WelEVTpwHNlZ8dLGUTjoz2QiWRr1eFjObufdFc7ASXs="
     },
     {
       "name": "koto",
@@ -9710,14 +9710,14 @@
     },
     {
       "name": "mistral-vibe",
-      "version": "1.1.3",
+      "version": "1.2.1",
       "src": {
         "url": "https://github.com/mistralai/mistral-vibe",
-        "rev": "661588de0ccee6338de8546749d70513b5b8f837",
-        "date": "2025-12-12T17:56:32+01:00",
-        "path": "/nix/store/p4kp071z4kcyil0h5ccm3nb2m1lgv7iv-mistral-vibe-661588d",
-        "sha256": "1y0lah0f89pmy8vw1vsswyn4qibasixakn3rb5bdzzdslx75xmcv",
-        "hash": "sha256-m9VeTqe6/d9WWXnYqXrUakVMrOda78A38vUm5ABUFPg=",
+        "rev": "402e898f391f65c447cfe061a5fee47a0b50cce7",
+        "date": "2025-12-18T18:31:30+01:00",
+        "path": "/nix/store/8ipjz5p65xzpf77xibkxh99zq66j4kad-mistral-vibe-402e898",
+        "sha256": "1d4p1cpkxn0r8skgm2clc03ljjjxyw549vkgqjnrxcqxd5lg0np0",
+        "hash": "sha256-4FrwaGkds56txG/uRAr3XUpJB2CUifqmRhnYPi8Ll7Q=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -12497,6 +12497,27 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-yKttWyb7CCcslPSXBMLYcbMuaz/dU6ZXmQyANpnsFt4="
+    },
+    {
+      "name": "pony",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/orien/pony-zed",
+        "rev": "4cc248a75c48358ee5534e59f931f28890b603c4",
+        "date": "2025-12-21T12:29:45+07:00",
+        "path": "/nix/store/p9blhz0l31mwxzgfsp7ym85af3rgk23b-pony-zed-4cc248a",
+        "sha256": "0hpig2q49mc3xin8f1hn1rdd4fks2w4wgb3c9krsizgjskcdv8kq",
+        "hash": "sha256-eKLd2NTy/ajzTGysxwkXejrSWg4WBods7IPVRLB48UI=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [
+        "pony_pony"
+      ],
+      "kind": "plain"
     },
     {
       "name": "popping-and-locking",
@@ -15874,14 +15895,14 @@
     },
     {
       "name": "toml",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "src": {
         "url": "https://github.com/zed-extensions/toml",
-        "rev": "998686a675275d985a628a7df83aef172ab9ab95",
-        "date": "2025-09-04T14:42:01-04:00",
-        "path": "/nix/store/ddm6vyjc9qiw73mn1zyyiwab24433d8b-toml-998686a",
-        "sha256": "1zgxd8qj4kb9x2ln0lj1b9j753qrdfm0scwhvwaph8gf239aiaw8",
-        "hash": "sha256-iKuo0hDuIXgV35AzDaprGY9yZFpBUmCp6GlNIjFq/f0=",
+        "rev": "ebea958abdcf81125c8bb0659a5228f47e8b0c7c",
+        "date": "2025-12-21T22:17:51+01:00",
+        "path": "/nix/store/qr0hs0r79f707xilmjrhfqrdx1byh27k-toml-ebea958",
+        "sha256": "18gn1i5ixf2yfc6zqm0ik6ia8c4x2lp83warbg7znwl7k4dcj7fs",
+        "hash": "sha256-2h3JGpmHcvvPW1nxgS4VnTCkopkRVPwNc164HksM9qE=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -17293,6 +17314,27 @@
       "kind": "rust",
       "cargoRoot": null,
       "cargoHash": "sha256-JyRnXT1wUkuyHQ1DlNnNk9lTflzO5JygxTRQUqJxsgE="
+    },
+    {
+      "name": "wc-language-server",
+      "version": "0.0.6",
+      "src": {
+        "url": "https://github.com/wc-toolkit/wc-language-server",
+        "rev": "6776d355493aed76c46c42bfe46c0673aa9ffde9",
+        "date": "2025-12-20T14:18:32-05:00",
+        "path": "/nix/store/4h4n19q019m8g1h2lg1f7r4s33hizmb4-wc-language-server-6776d35",
+        "sha256": "16810p7j8c8mdgzxpzwsmjz6wpqhb8glbrm7m9zpmk740wim27ya",
+        "hash": "sha256-yh9RIwfkzHp/qqfmRR9aEF9uvqya/9v/axUxJM8FAZk=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": "packages/zed",
+      "cargoHash": "sha256-rF5xQjqENYrNKQxdUlZV1H1KNQskJJ0rO3B3P4LCBAY="
     },
     {
       "name": "wdl",
@@ -22377,6 +22419,24 @@
         "path": "/nix/store/v7nb2vdvki7pbal4phq89v3akspjd56d-tree-sitter-po-bd860a0",
         "sha256": "1d28lyg0sx9xs09y68618cxnhi5sacfschcrv4xmy06k21bp8azx",
         "hash": "sha256-/St0VxDTAF872ZlBph1TukRoO0PBIOMT0D11DZ6nSLQ=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "grammarRoot": null
+    },
+    {
+      "id": "pony_pony",
+      "name": "pony",
+      "version": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
+      "src": {
+        "url": "https://github.com/tree-sitter-grammars/tree-sitter-pony",
+        "rev": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
+        "date": "2024-04-20T14:45:13+02:00",
+        "path": "/nix/store/cn3m2g515qivac1v4ckjlcfyqq2jskxw-tree-sitter-pony-73ff874",
+        "sha256": "0fm47by0z6vzihnk4py7lx1qbiwqbbgpxpi8ibl740bnx9nx7mpz",
+        "hash": "sha256-/9bTbep2AXLoiijeft9amMeFQ6fHXzItjH+bD/w6pDo=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
