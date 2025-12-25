@@ -1770,6 +1770,27 @@
       "kind": "plain"
     },
     {
+      "name": "bookmark",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/A-23187/zed-bookmark",
+        "rev": "c2c01c2cbf612770ae5f1e88f8560db149e12034",
+        "date": "2025-11-15T11:53:51+08:00",
+        "path": "/nix/store/d89mz5m9mp9j0p1magzq8nvyfij7f5n2-zed-bookmark-c2c01c2",
+        "sha256": "15gnq0k91lmlp812rv1ikzcrj6rdg0x4qlfpzpk2k1q1myb3qgf6",
+        "hash": "sha256-xj08lq8Bhynm/ddRTDp4LRuZ2Z8x7CwCurTSkCbA9pU=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-KMFlwzq2cFk/Pc79T34BdzWs425WC20hCzRz1AYy6bM="
+    },
+    {
       "name": "bqn",
       "version": "0.0.1",
       "src": {
@@ -9028,6 +9049,27 @@
       "cargoHash": "sha256-PmfXjl/lA7BnaEfmhPW3Jh8zhBNai1KxsAOEuXcDoeA="
     },
     {
+      "name": "mcp-server-atexplore",
+      "version": "0.1.0",
+      "src": {
+        "url": "https://github.com/moshyfawn/zed-mcp-server-atexplore",
+        "rev": "76d95297697b6ae6e932a42f386b04d967633773",
+        "date": "2025-12-24T11:40:28-05:00",
+        "path": "/nix/store/31b4rplj2xm0q5d1g36hfll7ik97wlzk-zed-mcp-server-atexplore-76d9529",
+        "sha256": "0is6lynn228yy89ic5ccnw1bbxyh8rkv6z779bwhy8gk1ksh0k0b",
+        "hash": "sha256-C0wA9QzzIQ/5Sud8s2dG0Pe1AreMFRYT8h4JYa2nRkc=",
+        "fetchLFS": false,
+        "fetchSubmodules": false,
+        "deepClone": false,
+        "leaveDotGit": false
+      },
+      "extensionRoot": null,
+      "grammars": [],
+      "kind": "rust",
+      "cargoRoot": null,
+      "cargoHash": "sha256-6eaz2khk7B281gx9SKAXspW3bYb8jtKdwQTWNw+4j3c="
+    },
+    {
       "name": "mcp-server-axiom",
       "version": "0.2.0",
       "src": {
@@ -9862,14 +9904,14 @@
     },
     {
       "name": "mistral-vibe",
-      "version": "1.2.2",
+      "version": "1.3.2",
       "src": {
         "url": "https://github.com/mistralai/mistral-vibe",
-        "rev": "2e1e15120d88a7321df41b6498704037a3847116",
-        "date": "2025-12-22T13:41:25+01:00",
-        "path": "/nix/store/50wrnl9sw0nvfq7ir7bp5pjz5izi19y4-mistral-vibe-2e1e151",
-        "sha256": "1a408mg7iawla9pq8pxws2vjdlsvlzfy7hjkyyv0xj1ba4xj6kfk",
-        "hash": "sha256-000jO1EryA6291PC492nW9Mmt9C8X4RvUpSreF5FgKg=",
+        "rev": "08d8e8544771cfded782bb5582be50b141036b4c",
+        "date": "2025-12-24T16:06:13+01:00",
+        "path": "/nix/store/b0ssld83m0n6rq5cm98i8r6w0qx00sp5-mistral-vibe-08d8e85",
+        "sha256": "0ifm6116x9qn8ks9yi4i2y4v5kyygx3vmz4rbfvpigk7mcbvax1b",
+        "hash": "sha256-K3S1F6tnvni3W5n8ukd/3s+yiReRRJ/0RBanbkIw1UU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -11672,14 +11714,14 @@
     },
     {
       "name": "opencode",
-      "version": "1.0.153",
+      "version": "1.0.193",
       "src": {
         "url": "https://github.com/sst/opencode",
-        "rev": "ed33d82535cf23eb48a0c41dce96317aca85ef6e",
-        "date": "2025-12-14T21:06:04-06:00",
-        "path": "/nix/store/4rz23vfxj6hyi01s0mr532bh8s3nmr8h-opencode-ed33d82",
-        "sha256": "1s3hjh0r1ryvy47zddz01qjp7hkyqhid749865l1m25mra2y739w",
-        "hash": "sha256-PI3jhcq1iBpoMSiR0yLEfsJzJQ7gt/YP8dvnkAGUcOg=",
+        "rev": "c73a17f8af8ed8dc09c599834c7cddeec2c05612",
+        "date": "2025-12-23T15:58:33Z",
+        "path": "/nix/store/xrdqpyxk3iwhnzfxi90aj8nk5d56vlzp-opencode-c73a17f",
+        "sha256": "15963rapa3p9760825m7aarq6syvlpxvkrpa3r2nv60nw9idjdmf",
+        "hash": "sha256-rjbZYuIWmG1FHurmuful22uDs1KnFoGAOekOdVUeJpU=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13104,14 +13146,14 @@
     },
     {
       "name": "pytest-language-server",
-      "version": "0.16.2",
+      "version": "0.17.1",
       "src": {
         "url": "https://github.com/bellini666/pytest-language-server",
-        "rev": "177f0a9741bbd512cc3b9c9631e7a324038b8652",
-        "date": "2025-12-16T19:41:06+01:00",
-        "path": "/nix/store/kqkwg021k3jfcpfdlzynh2ybyijmyv37-pytest-language-server-177f0a9",
-        "sha256": "06pkidd4vn2j45hfwdqjipnrprxid9glqr38bij1k3sc6z8x8in8",
-        "hash": "sha256-yEbU0TdMjxlkXGhkTF9qseeb7Y0SN+5gIVLYTVqL8xo=",
+        "rev": "35092d4e78434ca5bf387b1399fe9252de2caa8c",
+        "date": "2025-12-24T16:05:50Z",
+        "path": "/nix/store/81ry94d3hp3p8gpvhwkv8wrrrjlwpwmz-pytest-language-server-35092d4",
+        "sha256": "0rlvb9mlvrx4zy2adxwbk42bvvag96x7w4aagav7qbm5n5d6diwz",
+        "hash": "sha256-n8dmWrGlLny2ekoRfrpJT+29BJmL96aE/6TnTWtam2Y=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
@@ -13507,14 +13549,14 @@
     },
     {
       "name": "react-typescript-snippets",
-      "version": "0.1.3",
+      "version": "0.1.4",
       "src": {
         "url": "https://github.com/vishnuroshan/zed-react-ts-snippets",
-        "rev": "90ea96d1cad891ae84bace87fe3a2a3664edf370",
-        "date": "2025-10-13T00:16:48+05:30",
-        "path": "/nix/store/arbargdyrkrj438ahq0dddrlvf69kcyj-zed-react-ts-snippets-90ea96d",
-        "sha256": "1g1zsaq6v89l7z1wdsdv5zsm3kqlyg24cvn2lygzfmyldj7gvyn4",
-        "hash": "sha256-xPr9jmzUV/efp8JuRsTzFM9R9S+76cbDPzShbbDSP7w=",
+        "rev": "7c5b802850e88d3e6c7b218108d92e9a16014fa7",
+        "date": "2025-12-23T18:02:34Z",
+        "path": "/nix/store/wfmy6qcnv14b8k8dggrmjcjgrpmm0n44-zed-react-ts-snippets-7c5b802",
+        "sha256": "1r4nh5nbpwl777va6yqci08ym8sq71192wlf3gjsyk3m2v76760n",
+        "hash": "sha256-FphjzhZ1TK/lG45ykUI4WKPqEYgMe6P2OYfyu2yBluQ=",
         "fetchLFS": false,
         "fetchSubmodules": false,
         "deepClone": false,
