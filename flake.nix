@@ -3,7 +3,7 @@
 
   inputs = {
     nixpkgs = {
-      url = "github:NixOS/nixpkgs/nixos-25.05";
+      url = "github:NixOS/nixpkgs/nixos-25.11";
     };
 
     nixpkgs-unstable = {
@@ -105,7 +105,7 @@
 
             # Nix
             nix-update
-            nixfmt-rfc-style
+            nixfmt
             nixd
             nil
           ];

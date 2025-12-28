@@ -72,7 +72,7 @@ async fn process_grammar(
     let id = format!("{extension}_{name}");
     let tmp_repo = temp_dir().join(&id);
 
-    let repo = grammar.repository.to_string();
+    let repo = grammar.repository.clone();
     let rev = grammar.rev.clone();
     checkout_git_repo(&repo, &rev, &tmp_repo).await?;
 
@@ -86,7 +86,7 @@ async fn process_grammar(
 
     Ok(Some(Grammar {
         id,
-        name: name.to_string(),
+        name: name.clone(),
         version: rev,
         src,
         grammar_root,

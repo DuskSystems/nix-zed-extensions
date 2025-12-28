@@ -18,8 +18,8 @@ pub async fn process_extension(
 ) -> anyhow::Result<Option<(Extension, Vec<Grammar>)>> {
     tracing::info!("Synching extension");
 
-    let name = extension.name.to_string();
-    let repo = extension.repository.to_string();
+    let name = extension.name.clone();
+    let repo = extension.repository.clone();
 
     let tmp_repo = temp_dir().join(&name);
     checkout_git_repo(&repo, &extension.rev, &tmp_repo).await?;

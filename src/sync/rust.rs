@@ -64,20 +64,19 @@ async fn find_cargo_workspace(dir: &Path, path: Option<&str>) -> anyhow::Result<
             .get("workspace_root")
             .and_then(|value| value.as_str())
             .map(Path::new)
+            && workspace_root != dir
         {
-            if workspace_root != dir {
-                let lockfile = workspace_root.join("Cargo.lock");
-                tracing::info!(
-                    lockfile = ?lockfile,
-                    root = ".",
-                    "Using workspace lockfile"
-                );
+            let lockfile = workspace_root.join("Cargo.lock");
+            tracing::info!(
+                lockfile = ?lockfile,
+                root = ".",
+                "Using workspace lockfile"
+            );
 
-                return Ok(CargoWorkspace {
-                    lockfile,
-                    root: None,
-                });
-            }
+            return Ok(CargoWorkspace {
+                lockfile,
+                root: None,
+            });
         }
     }
 

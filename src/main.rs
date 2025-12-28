@@ -145,9 +145,9 @@ async fn run() -> anyhow::Result<()> {
                 extensions.push(RegistryExtension {
                     name: name.clone(),
                     version: entry.version.clone(),
-                    repository: repository.to_string(),
+                    repository: repository.clone(),
                     path: entry.path.clone(),
-                    rev: revision.to_string(),
+                    rev: revision.clone(),
                 });
             }
 
