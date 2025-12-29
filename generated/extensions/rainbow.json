@@ -1,0 +1,19 @@
+{
+  "name": "rainbow",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/athxx/zed-theme-rainbow",
+    "rev": "7391d2e838f0b0c7635ee88f49f9a5ea90ef56c0",
+    "date": "2025-09-10T21:42:34+12:00",
+    "path": "/nix/store/y4v9dba61xy9mrxjm6lglpqf6vfvpbz9-zed-theme-rainbow-7391d2e",
+    "sha256": "1p9dh771f1f5d3370dxnf9ls95iq2vb03x1v714h1pb7gzx36zx4",
+    "hash": "sha256-pH8z+n9n3QBJODv0AdYWOJakaXK2N3DGaMUFF86BLd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

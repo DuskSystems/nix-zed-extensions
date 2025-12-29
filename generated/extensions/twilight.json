@@ -1,0 +1,19 @@
+{
+  "name": "twilight",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tectiv3/twilight-zed",
+    "rev": "6602066699b0f59b602670691f562b93b12dc51d",
+    "date": "2024-10-06T10:37:27+01:00",
+    "path": "/nix/store/nnn468vb8lhna46drxiqrdqm54lc7bx9-twilight-zed-6602066",
+    "sha256": "17am3f7l0p7vj15bj52bczxmrclqyzysjwwdlfc2bmmbyrds6k7v",
+    "hash": "sha256-+0yjW/ar1iWYo41zqf33mLJc+2dLFLlKkPtcQI8bVZ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

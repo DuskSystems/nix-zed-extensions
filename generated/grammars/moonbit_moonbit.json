@@ -1,0 +1,18 @@
+{
+  "id": "moonbit_moonbit",
+  "name": "moonbit",
+  "version": "a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82",
+  "src": {
+    "url": "https://github.com/moonbitlang/tree-sitter-moonbit",
+    "rev": "a5a7e0b9cb2db740cfcc4232b2f16493b42a0c82",
+    "date": "2025-09-27T13:06:35+08:00",
+    "path": "/nix/store/lqdgm3izdlwb3vfvibnxf9wjqbnfyhib-tree-sitter-moonbit-a5a7e0b",
+    "sha256": "17wcnlm3w7aq8jcri1cz0d25lrrq6gbn4jcicazmgxvz4slkxhh8",
+    "hash": "sha256-CMI+qSZ/91e/YpFJYtczOGdaRAOfhZiZRFgdPiq1jJ8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

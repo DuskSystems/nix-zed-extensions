@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-extended",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/uonick/zed-one-dark-extended",
+    "rev": "815d63a9b32822ad6429b81bfa2bc42e75efad55",
+    "date": "2024-07-11T15:11:47+05:00",
+    "path": "/nix/store/10wz0w7iykbch469bfacl0jhb5rpkcgc-zed-one-dark-extended-815d63a",
+    "sha256": "0sx5y3l0088jxg1s764gk5rwxn2bvkn2fhrcj4jkmfc53pbqf9b0",
+    "hash": "sha256-YCWH1x2FuTolkSxDJ+zcS9jOc5mPmKPD6xIhAOjwpWs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

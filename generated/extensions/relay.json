@@ -1,0 +1,21 @@
+{
+  "name": "relay",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/XiNiHa/relay-zed",
+    "rev": "9b981d6a56be87e43708f41160aab99d59e09b21",
+    "date": "2025-09-25T23:38:02+09:00",
+    "path": "/nix/store/22fzpivqg5zipdnnfha6629nikcy4gy1-relay-zed-9b981d6",
+    "sha256": "0k7c93j5baw6dia8mls36n5dp52lkbg8r8iykkf1ckaz0jf73nzi",
+    "hash": "sha256-8dtxnARfTRbcnD6ijN6aVJTbijVD04pUbIarVeRI7Ew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-gzfzs6ImkG6bQBOLlU6VybqVQ9J1UifC5mRYTxqsoBo="
+}

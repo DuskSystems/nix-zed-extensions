@@ -1,0 +1,25 @@
+{
+  "name": "python-refactoring",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/rowillia/zed-python-refactoring",
+    "rev": "f1492e9d554e37c6e3539ec8886208e06d96482c",
+    "date": "2024-08-08T19:05:11-04:00",
+    "path": "/nix/store/8zkla59fdgzjm4hclb4q5pz86x55nqsw-zed-python-refactoring-f1492e9",
+    "sha256": "12qm7l00hz534jfgpphgkk4s65w54bdbgzk3s5vikd7bgvk28q29",
+    "hash": "sha256-SWAk5n7rtBl30WP+t9oihRejyZwP3vucJKN8CAA9FYs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-qrpMqz/MMeotnjzcCg6SfMmGzz0GBBGGEyTmLO+51NQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/python-refactoring.lock",
+    "outputHashes": {}
+  }
+}

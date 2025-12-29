@@ -1,0 +1,21 @@
+{
+  "name": "risor",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/rubiojr/zed-risor",
+    "rev": "2a5a5055e641dbe8e4069435e28b419fb925b1c6",
+    "date": "2025-03-21T17:23:25+01:00",
+    "path": "/nix/store/8ydrvdyi2flxkrpl8kym7jnvm40arskw-zed-risor-2a5a505",
+    "sha256": "0ixvcqk7vcgljjr7wfp8sqd7m2my00jxljl5v423c1kz61rh07ci",
+    "hash": "sha256-kR0AczB/BjYE2YVK2iUAvop6GtboOn6ylPSxfSZmu0c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "risor_risor"
+  ],
+  "kind": "plain"
+}

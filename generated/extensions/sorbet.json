@@ -1,0 +1,23 @@
+{
+  "name": "sorbet",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/notchairmk/zed-sorbet",
+    "rev": "21f37e353b205dda92ac9de91213730ddd029326",
+    "date": "2025-05-29T07:14:55-07:00",
+    "path": "/nix/store/qky6kmglhsiggng07igb5nkdmg38hkfv-zed-sorbet-21f37e3",
+    "sha256": "1sa0f1jqvhwbgq9w1968kccrvmllamflmciv0lsv203y7ia1kql3",
+    "hash": "sha256-g+IZVDx+ALE1BTuySl1VlNadGZvIpMATfovDjWVwQOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sorbet_ruby"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2IRcQDlvI3kbC5EwMQpyS71+d0geE/iaz2THrJYCyZA="
+}

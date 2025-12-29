@@ -1,0 +1,25 @@
+{
+  "name": "iwe",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/iwe-org/zed-iwe",
+    "rev": "40964b09ea5a7d6cd229ab0cee119bda4da17b80",
+    "date": "2025-02-02T09:26:25-05:00",
+    "path": "/nix/store/48p9z4cs7mzrdk8zd45rkrkyjfrsc3ja-zed-iwe-40964b0",
+    "sha256": "0q42mvjzwmxs7qmsxdpfxcvhdidy83z15aw5qnn55xpn0r4csx9w",
+    "hash": "sha256-PHXNSAb29lKsxYWrEv5AvsUGN+vutq4rPrpX/uWugmA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-oqWEkPjqQ3VfxshkGl9QWWG5cYpvCXMgzVYnDLdUV/s=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/iwe.lock",
+    "outputHashes": {}
+  }
+}

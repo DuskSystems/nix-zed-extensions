@@ -1,0 +1,18 @@
+{
+  "id": "ton_tolk",
+  "name": "tolk",
+  "version": "ed453967b45ef5a48865a96c7fd869ba5c1326ff",
+  "src": {
+    "url": "https://github.com/ton-blockchain/tree-sitter-tolk",
+    "rev": "ed453967b45ef5a48865a96c7fd869ba5c1326ff",
+    "date": "2025-10-03T15:49:10Z",
+    "path": "/nix/store/6ycylzmqqj9ykc4xhd1ra707mhla6hk0-tree-sitter-tolk-ed45396",
+    "sha256": "0lw6fp0g2vsmwcg6cp0wkbdb4p18pjy0vb3sh59z9kgz7hbh3lsy",
+    "hash": "sha256-XtMBFzz/zfRTgXqsDby8KFyy2pocXGYe41Vv8cB1hlM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

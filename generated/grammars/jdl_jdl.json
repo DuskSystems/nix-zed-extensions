@@ -1,0 +1,18 @@
+{
+  "id": "jdl_jdl",
+  "name": "jdl",
+  "version": "39cab5b7b32e5e726c2d2e2a9ce03c9d1bcd3017",
+  "src": {
+    "url": "https://github.com/alessandrobrunoh/tree-sitter-jdl",
+    "rev": "39cab5b7b32e5e726c2d2e2a9ce03c9d1bcd3017",
+    "date": "2025-09-09T20:59:37+02:00",
+    "path": "/nix/store/k1gg1ydd5k3kzbyfpgxvas9lxi8d5vcw-tree-sitter-jdl-39cab5b",
+    "sha256": "0ggydmrmvafmffvpllfq879bp49khxpsf041qbc5x95dsrnrc7cz",
+    "hash": "sha256-nx2WbdatpF7YwoEAp2+HM5G70kHYUXq3c9WpXXNt/j0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

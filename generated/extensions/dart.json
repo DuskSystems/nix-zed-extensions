@@ -1,0 +1,23 @@
+{
+  "name": "dart",
+  "version": "0.3.3",
+  "src": {
+    "url": "https://github.com/zed-extensions/dart",
+    "rev": "97a267deb9592a1667635d44df20382352f6dabd",
+    "date": "2025-12-22T00:29:26+01:00",
+    "path": "/nix/store/2xh25xzlmzwvdyhpg8x7lc38xc86v6mn-dart-97a267d",
+    "sha256": "1rzbpsmnsldm2cnilvf6lbd39gwi3j367ndrpziwp1j0vds59m70",
+    "hash": "sha256-4NRUdNtAhsvjv7nZY4Yckb802qLGbRotE7VRbau+6+c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dart_dart"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8WQlYxyHIfmxHOSP9L8mF4yTJNMrEfkGx2JVns147Jg="
+}

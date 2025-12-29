@@ -1,0 +1,21 @@
+{
+  "name": "exograph",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/exograph/zed-extension",
+    "rev": "b2eddbe94d338549e7dd99089fe3599cfa243a1f",
+    "date": "2024-05-26T12:08:52-07:00",
+    "path": "/nix/store/smlyhv6ic93accr0shdwwgy2krdjb06x-zed-extension-b2eddbe",
+    "sha256": "0jprzgzl55gcyv8ina4lv78by2nxmmvdw4ls8n6k36xqv1ybr2qn",
+    "hash": "sha256-Fou8fNi4mzGNRZoS3nat3Qq/0NmUKBvR9uyVQv/7+Uo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "exograph_exograph"
+  ],
+  "kind": "plain"
+}

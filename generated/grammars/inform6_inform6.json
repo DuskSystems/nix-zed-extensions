@@ -1,0 +1,18 @@
+{
+  "id": "inform6_inform6",
+  "name": "inform6",
+  "version": "fc2259aa42784a727fb5cbf7c677a7b9b1dd48d2",
+  "src": {
+    "url": "https://github.com/Or4c/tree-sitter-inform6",
+    "rev": "fc2259aa42784a727fb5cbf7c677a7b9b1dd48d2",
+    "date": "2024-08-25T10:45:48+12:00",
+    "path": "/nix/store/3w0lsl1kg4ki73rzrkm487x6aklqmmnq-tree-sitter-inform6-fc2259a",
+    "sha256": "1addkswxydfhad0bl6aimac7mv4q01g5zlz7l20iywfyvz2a7dwq",
+    "hash": "sha256-mLejxN/ecR+BoOfTX14AmOx6mKpRGbpAU9A137merak=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sieve_sieve",
+  "name": "sieve",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/aRustyDev/tree-sitter-sieve",
+    "rev": "84c1eac20ac283e0f834ac290a508dbe4f75ec82",
+    "date": "2025-12-24T11:46:52-05:00",
+    "path": "/nix/store/2grxfv2pmyjif4xcajbm59wv7jvpmygv-tree-sitter-sieve",
+    "sha256": "17pk1a7snzzdn7gp9ifpf2j4g6l67p3v86ig2ac6k0qfxx9rs4h9",
+    "hash": "sha256-CRKdU+8Og2mYEi8atMc9hppHpHDXxXTfse1/q48K854=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

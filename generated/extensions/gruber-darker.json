@@ -1,0 +1,19 @@
+{
+  "name": "gruber-darker",
+  "version": "0.0.8",
+  "src": {
+    "url": "https://github.com/th0jensen/gruber-darker.zed",
+    "rev": "92e5436bb0ea82c411e56f58393f3e51ce3f1c43",
+    "date": "2025-03-09T19:11:19+01:00",
+    "path": "/nix/store/xrdq0r92mbd2s7pcldrgghgbl6k43qbx-gruber-darker.zed-92e5436",
+    "sha256": "0m4vac6pxsnazl3d1qp0mnymzvqh1kni85461f3jhc1p37p7gwz4",
+    "hash": "sha256-5PN37hk3MCiHC4YUFO0MEO9fva3g4tAG/crqfg1Tm1Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

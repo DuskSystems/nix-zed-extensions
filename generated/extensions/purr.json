@@ -1,0 +1,19 @@
+{
+  "name": "purr",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/nemanjastanic/zed-purr",
+    "rev": "0ef8282d719e8648301f6cc717b58fed90292500",
+    "date": "2025-01-19T03:37:44+01:00",
+    "path": "/nix/store/vnvdyqcvxxga5c5m304saspwzybl1dzr-zed-purr-0ef8282",
+    "sha256": "0vz50ljy2rkfc4anaiicvmhmi6c4vri9aq3bxdawkk7k0mlxbals",
+    "hash": "sha256-mqrVaQXzzMlV62tglWLehJlYYd0sRmUVYW5m4SUF5W8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

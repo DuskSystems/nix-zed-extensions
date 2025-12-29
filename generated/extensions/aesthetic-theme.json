@@ -1,0 +1,19 @@
+{
+  "name": "aesthetic-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/mnojz/Aesthetic-zed-theme",
+    "rev": "b66dfe1b2737e72f688ba0c6f50bcd62fe40a6f6",
+    "date": "2025-10-26T11:17:30+05:45",
+    "path": "/nix/store/ljz0q2ipipnchv8j7a2lw7zsbg7r6cy5-Aesthetic-zed-theme-b66dfe1",
+    "sha256": "04bvrhk837vl3a3bh9ylqc0vc0pxl7fmjdfpvv5j4hgch8l57zbg",
+    "hash": "sha256-b/1TKILsQSLL3tc1Wd2h/QK2AcPUJ7iGGnSfgSbMexE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

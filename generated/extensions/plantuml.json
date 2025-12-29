@@ -1,0 +1,21 @@
+{
+  "name": "plantuml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/gabeidx/zed-plantuml",
+    "rev": "ce9459b4295ae69f25eb0e9d935716ecd4bc7645",
+    "date": "2024-10-17T12:45:32+02:00",
+    "path": "/nix/store/50crpl909af2x5hrxq9p8yfz9xaia99y-zed-plantuml-ce9459b",
+    "sha256": "0ymk8zjvmkkh561b51mpf3vy7riwpniq9vss9p0nl4d02ybmz41h",
+    "hash": "sha256-MJBflxegEWrBTVrvhKO9PObj93C3hrKCKXDOuuVHs3o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "plantuml_plantuml"
+  ],
+  "kind": "plain"
+}

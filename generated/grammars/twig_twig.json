@@ -1,0 +1,18 @@
+{
+  "id": "twig_twig",
+  "name": "twig",
+  "version": "723926cff978453c40ee11ca8046de0cb248873c",
+  "src": {
+    "url": "https://github.com/jannisborgers/tree-sitter-twig",
+    "rev": "723926cff978453c40ee11ca8046de0cb248873c",
+    "date": "2025-01-20T13:30:33+01:00",
+    "path": "/nix/store/4w1dkjsf0iy1rs36ll0cp7b1iv87lf6i-tree-sitter-twig-723926c",
+    "sha256": "1w5s5r62asnbmcwdrw5305k4caadxazav7dkc7rl8mrbn30y6pf8",
+    "hash": "sha256-yF3jwbArV0TzYbOdrb7qTSlGZgGj8Nw4q8tqJUwuuvA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

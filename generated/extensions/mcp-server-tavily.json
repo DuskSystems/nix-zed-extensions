@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-tavily",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/chlorodose/zed-mcp-server-tavily",
+    "rev": "f23e7596773731a857e5bc61bcfb926576638242",
+    "date": "2025-09-19T14:40:44+08:00",
+    "path": "/nix/store/6k91ncn1rd0ywn6l1bgzq8nkvwd38l7p-zed-mcp-server-tavily-f23e759",
+    "sha256": "0vyh3263a875pmlz47pyx5hd8prg1f8a47048nq4kcl91xkxsnwl",
+    "hash": "sha256-lFvdZw+JskmwRQQcopALL1/UYOn+HvJpveUgNYwY0G8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UqiGq9ULIJdOGJ/YI+cAvD5rZ2rE3bvsaSN2WH4v0wM="
+}

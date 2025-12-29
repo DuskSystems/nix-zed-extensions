@@ -1,0 +1,18 @@
+{
+  "id": "python-requirements_requirements",
+  "name": "requirements",
+  "version": "caeb2ba854dea55931f76034978de1fd79362939",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-requirements",
+    "rev": "caeb2ba854dea55931f76034978de1fd79362939",
+    "date": "2025-07-06T10:45:18+03:00",
+    "path": "/nix/store/qlww8wrrckiz7f8sm725bh6kdhl9y84h-tree-sitter-requirements-caeb2ba",
+    "sha256": "1gwp1cwsyr67qclfm9f8ilakaq747qzqmj3bgy0jacjjjs0xgk32",
+    "hash": "sha256-YszXgZZSMiWBf2vIij8+5GA1FY3Ipeoow8dkrzkLl78=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

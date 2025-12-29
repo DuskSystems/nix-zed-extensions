@@ -1,0 +1,19 @@
+{
+  "name": "everforest-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/ThomasAlban/everforest-zed",
+    "rev": "42f669f25b58cd02fe3db5e35b5a4b81056a5b77",
+    "date": "2025-07-15T13:17:19+01:00",
+    "path": "/nix/store/v81xsqmka3nvpnrv6x56kx155sz6x6hd-everforest-zed-42f669f",
+    "sha256": "1797yj9js9c04i7g7mdjjh4hsvas2q2djhs5s9nvv0phayiql0nv",
+    "hash": "sha256-2wKKo1fwgr1t0kVD2QQWWm0NCZSy1fNOJIAlLZP0J50=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

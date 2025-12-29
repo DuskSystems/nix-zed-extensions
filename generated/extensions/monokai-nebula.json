@@ -1,0 +1,19 @@
+{
+  "name": "monokai-nebula",
+  "version": "0.2.5",
+  "src": {
+    "url": "https://github.com/JacobCallahan/monokai-nebula-zed",
+    "rev": "88cffa68b05f441b981fb12ad7e913abfda2df1b",
+    "date": "2025-07-25T15:08:38-04:00",
+    "path": "/nix/store/wby46997asbxgrckf6diq06h4swppvhj-monokai-nebula-zed-88cffa6",
+    "sha256": "0fghsnpd9iwkgvvvvi50xicqn31g8fddjcs1n25ansgr0pvdcklx",
+    "hash": "sha256-nU7W9gX5aauKsEEz2ZpDLwyLWeygxL33fpPH1K7V8Dk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

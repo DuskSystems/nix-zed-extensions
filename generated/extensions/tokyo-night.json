@@ -1,0 +1,19 @@
+{
+  "name": "tokyo-night",
+  "version": "0.7.0",
+  "src": {
+    "url": "https://github.com/ssaunderss/zed-tokyo-night",
+    "rev": "d855db8cc1e3c264628c0c37be7b7a0be2b70b0b",
+    "date": "2025-11-10T16:53:57-06:00",
+    "path": "/nix/store/spblqkc4jv0fjq5cc6kgxs651rjjnprm-zed-tokyo-night-d855db8",
+    "sha256": "0919xf63pzvlivxh65fq4mrqs07ga936hq8c52mr7741pxkzjbci",
+    "hash": "sha256-kS35Z7+BnJOrKAxhaEZS7wCNcyXYFQP7jnT/O4zrKSQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

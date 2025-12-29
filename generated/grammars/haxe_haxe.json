@@ -1,0 +1,18 @@
+{
+  "id": "haxe_haxe",
+  "name": "haxe",
+  "version": "12e814cd9b0656b0eaa3e04b0036b3b6625cc0d7",
+  "src": {
+    "url": "https://github.com/vantreeseba/tree-sitter-haxe",
+    "rev": "12e814cd9b0656b0eaa3e04b0036b3b6625cc0d7",
+    "date": "2024-09-18T10:45:08-05:00",
+    "path": "/nix/store/3a480h2i7991nmd5yglbjhnl7c6iq4vg-tree-sitter-haxe-12e814c",
+    "sha256": "1wcj6rlkqhnlaaxs52sassg5drg9wgyl4m6m04svlz99hfcmwxih",
+    "hash": "sha256-MHZemYMpfbo1AdVUQv3j6eVWntZKi6K7UtRCPGk2kvE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

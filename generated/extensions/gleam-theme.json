@@ -1,0 +1,19 @@
+{
+  "name": "gleam-theme",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/DanielleMaywood/gleam-theme-zed",
+    "rev": "fcdc8fa08ad58646956faef6fda8a1e4e0a99ea7",
+    "date": "2025-03-10T23:06:45Z",
+    "path": "/nix/store/59wcbgm605macf3y00jnpkg8r0r4zf2c-gleam-theme-zed-fcdc8fa",
+    "sha256": "0xxh7vjw7n3nq2x2jjbshbk0rvgpmxfda0b188xiwichq5rq6qzz",
+    "hash": "sha256-/2ODc8GQRR47QmEB1Vyv9+0M5oJ6SSm6wHbYw+U+sHc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

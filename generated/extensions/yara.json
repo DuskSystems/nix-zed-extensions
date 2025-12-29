@@ -1,0 +1,27 @@
+{
+  "name": "yara",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/egibs/yara.zed",
+    "rev": "abb1db528725658b3e24fd1acd45c4c2ecdcae44",
+    "date": "2025-04-11T09:09:39-05:00",
+    "path": "/nix/store/gn9x612cfx5gf0xydasidz5ii7066gp6-yara.zed-abb1db5",
+    "sha256": "0iw4k5jydglva3g7p7nhibj1kccv2dlybmdlgk3xaa2gb65f051s",
+    "hash": "sha256-OhTgillPKNXHfLTV5WkTm7EZ5IrQnnveUJu+5mWZhEc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "yara_yara"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-P919qFjS9NNIMeVXq6bN8pny5uH1UlTau1/urGkKxEI=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/yara.lock",
+    "outputHashes": {}
+  }
+}

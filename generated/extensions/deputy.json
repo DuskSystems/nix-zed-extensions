@@ -1,0 +1,21 @@
+{
+  "name": "deputy",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/filiptibell/deputy",
+    "rev": "e5aa58aadef8dc979ba64e2280cfeb4641ab29fb",
+    "date": "2025-06-25T23:25:22+02:00",
+    "path": "/nix/store/d45i3kr698sypq54zb0bk0cj6877af0p-deputy-e5aa58a",
+    "sha256": "0sr4b7hxk0kva2g53kzc25zmng77gim4c5yzdbzmrawazhzrhr8v",
+    "hash": "sha256-G2WYP/yKq1z/at8XRmp85zxbfxHsz1GeUHuC2eFZJGs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-F6Xbwup2Udc+HhKnna+f2wW7RzWATuI3zk0Ns4whfEw="
+}

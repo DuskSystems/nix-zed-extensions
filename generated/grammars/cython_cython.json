@@ -1,0 +1,18 @@
+{
+  "id": "cython_cython",
+  "name": "cython",
+  "version": "5f5468af68899b1013eef19ffe154e3f9c7a5d4a",
+  "src": {
+    "url": "https://github.com/b0o/tree-sitter-cython",
+    "rev": "5f5468af68899b1013eef19ffe154e3f9c7a5d4a",
+    "date": "2024-12-08T19:27:15-08:00",
+    "path": "/nix/store/ns2h0almd456ga6gr9wfk3jpz5qwszqy-tree-sitter-cython-5f5468a",
+    "sha256": "1jvvpjl92z8q25cx62lg14zaqh494yj6q4in8zknmn6crq8mz430",
+    "hash": "sha256-YJBfEc7M2GrnRzYSbKQniUCsPgmPCtNZERh9kai8e8s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

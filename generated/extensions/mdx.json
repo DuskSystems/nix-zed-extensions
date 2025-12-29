@@ -1,0 +1,23 @@
+{
+  "name": "mdx",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/srazzak/zed-mdx",
+    "rev": "ab5b9135826a8132c2c29169d0b56375e41a46db",
+    "date": "2025-11-06T17:54:27-05:00",
+    "path": "/nix/store/xly2s205psl567nxhzsyq90v5pddnniz-zed-mdx-ab5b913",
+    "sha256": "0fqsgyja6ll7rwxgi53wckf6kxxxrl2dg52mhg6nq0y93g2mcila",
+    "hash": "sha256-ikZWxRvJA2zNg1WU1wTNvfdp3GR8lPg6z4dSo6R/Gjs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mdx_mdx"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-f658cgQBqQTi/l+RaOw+FrzELqo2G+jt9yX+dQ5iIrE="
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ical",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/TitouanReal/zed-ical",
+    "rev": "d1707e3547afb64f96d17f628427b2d1fdb51c07",
+    "date": "2025-02-11T12:50:01+01:00",
+    "path": "/nix/store/nqryl707shya0rvcdcp5gqf1ckgps5xf-zed-ical-d1707e3",
+    "sha256": "1xisplvvd7r3nj2pf4vnvlgq8kirhnxbvrrsbjw5wvma0dnbxy5w",
+    "hash": "sha256-vPi+bAOqbl64XDrnvbqFOU6EH912E3eFtCOftje9OvY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ical_ical"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-SZTzG8AeobsofRVkZIao9nnKi5yhbuv1gNfMkR60VYI="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "prolog_prolog",
+  "name": "prolog",
+  "version": "39d5e4e89f336b3bbf245f6fae18473b2e8c88a5",
+  "src": {
+    "url": "https://codeberg.org/foxy/tree-sitter-prolog",
+    "rev": "39d5e4e89f336b3bbf245f6fae18473b2e8c88a5",
+    "date": "2025-03-20T18:36:05+01:00",
+    "path": "/nix/store/krglakpk16gmdw0z5yxpj93y8mqzh8fy-tree-sitter-prolog-39d5e4e",
+    "sha256": "1wxzfhn9fjdrv5q90c082c9zk9bv3v1ypckq9k4rqliq2yzinwvz",
+    "hash": "sha256-f3Mbvxc4UpzJTHiy68Mee6X5ExMIMJBw2blJlyx0v/M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammars/prolog"
+}

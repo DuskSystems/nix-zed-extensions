@@ -1,0 +1,18 @@
+{
+  "id": "scala_scala",
+  "name": "scala",
+  "version": "97aead18d97708190a51d4f551ea9b05b60641c9",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-scala",
+    "rev": "97aead18d97708190a51d4f551ea9b05b60641c9",
+    "date": "2025-08-07T02:00:46-04:00",
+    "path": "/nix/store/76j1z3vq72ki6akmfvwmfc170c5dz4fn-tree-sitter-scala-97aead1",
+    "sha256": "0b1r7nmpzp4agz5b2fn9sfim9ixrwjx4v9npk4jf5kap7s54mli0",
+    "hash": "sha256-INJKij5XzeIkmdemTbrkucdUo9PJOrHKf4rcf6s9OSw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

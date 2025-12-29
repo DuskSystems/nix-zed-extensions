@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/scalameta/metals-zed",
+    "rev": "c3e67c64a51b731c8f1ce7975d1257ab55ee1f26",
+    "date": "2025-11-18T16:00:06+01:00",
+    "path": "/nix/store/v3nfrsgqna381xl5ynwn45kbcpznsd70-metals-zed-c3e67c6",
+    "sha256": "1zbxg9jzrn3bmjn43glqmhs23bz3i9j8qcba3j4hli22zn2pqvwk",
+    "hash": "sha256-k298hf1CRAqJHGoxjGSK468hNKyYvkGsrGvY/GV6ff0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "scala_scala"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-58Y1lgmQQAl6OROlsOuc6WLTJfRi1dgZICReFiTbyEg=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/scala.lock",
+    "outputHashes": {}
+  }
+}

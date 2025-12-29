@@ -1,0 +1,27 @@
+{
+  "name": "fortran",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/Xavier-Maruff/zed-fortran",
+    "rev": "7e3e8cf797e6a14fd6e20dbf594de063631b358a",
+    "date": "2025-07-26T12:56:03+10:00",
+    "path": "/nix/store/8bbsifm86gx6bnh1rgn9vr97k6ipazh6-zed-fortran-7e3e8cf",
+    "sha256": "0faxcp4dsskvj96flsx0zs7s65cq3gramdasrk8an2vxw4cn308w",
+    "hash": "sha256-HIFhGeF9C6vQzFq1qvIbmBWjj/6ga+pMkntq3chlXTk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fortran_fortran"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PYjx+Shd5NKGF4brRQfJwPqsRIIz2L1FegEBrEfe8os=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/fortran.lock",
+    "outputHashes": {}
+  }
+}

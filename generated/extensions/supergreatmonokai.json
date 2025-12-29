@@ -1,0 +1,19 @@
+{
+  "name": "supergreatmonokai",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/SuperGregM/SuperGreatMonokai-Zed",
+    "rev": "5fae4ea6001377dedb911375e28feae8cf83e252",
+    "date": "2025-06-08T15:42:07-07:00",
+    "path": "/nix/store/8dld0k2gk2miap4k64ds8ay4ak2ivxbb-SuperGreatMonokai-Zed-5fae4ea",
+    "sha256": "1jl3j498a6s53bsp6hfhd33prlbb3izhw4yfyg95cz115rwc217i",
+    "hash": "sha256-8QTBeC4hfFbS884TDn8ca9F8x2jQQXP1GkUbhRKRg8o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

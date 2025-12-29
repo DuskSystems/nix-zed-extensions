@@ -1,0 +1,21 @@
+{
+  "name": "fountain",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/LaPingvino/zed-fountain",
+    "rev": "70ddbba8be11249990c6b8af6a80f4d0f9f3156e",
+    "date": "2025-07-12T23:58:51+01:00",
+    "path": "/nix/store/4bwz5pz63affpz9i0mncid9766i4fd3v-zed-fountain-70ddbba",
+    "sha256": "12r921llinfhv7ha8hba4a70r39cjdm7r5hvp46asz5107ggksyh",
+    "hash": "sha256-0Ov53gGhfK0MuRuWfGqTLI0MjiJqQaTg2dDZSGkQKYs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fountain_fountain"
+  ],
+  "kind": "plain"
+}

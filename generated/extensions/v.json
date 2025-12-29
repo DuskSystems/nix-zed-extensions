@@ -1,0 +1,27 @@
+{
+  "name": "v",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/lv37/zed-v",
+    "rev": "2fcc5728837e311402f815e355fc547e022e19f9",
+    "date": "2025-11-07T15:07:24+01:00",
+    "path": "/nix/store/czinnx263mc7lmw3jzkf50ggp1bngvn9-zed-v-2fcc572",
+    "sha256": "1g2dzw5x5inqfpvwljwl14ndxxgdrazngkqjzfkb8mkwaad7qzi7",
+    "hash": "sha256-J358mlJ8VrSm+xLPZ7/K7fXeLAmUS8r3ddjG0gv/Tbw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "v_v"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-15+UHHHTI8iUC9dEUpmNtnxCUWrEpkMAR2/cZYmEnVs=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/v.lock",
+    "outputHashes": {}
+  }
+}

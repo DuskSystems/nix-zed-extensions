@@ -1,0 +1,19 @@
+{
+  "name": "erb-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/enderahmetyurt/zed-erb-snippets",
+    "rev": "276b12c240081e4cc8587be2e3af2666f3a27b74",
+    "date": "2025-10-01T14:46:01+03:00",
+    "path": "/nix/store/rkjl4yhvlm29rkqv2mf31w5qs0sr1s6j-zed-erb-snippets-276b12c",
+    "sha256": "01z50awhwr55yzb6ly3x32l3v2ipmc5x34llisv9nznsnmarp2gr",
+    "hash": "sha256-+YmbVbXafpu2jpSS0QurN4o9qBh9eGrW96VkDrkC5Qc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

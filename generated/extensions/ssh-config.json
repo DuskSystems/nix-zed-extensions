@@ -1,0 +1,21 @@
+{
+  "name": "ssh-config",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/pranavmangal/zed-ssh-config",
+    "rev": "7b3ee3daef7d9eea75c171005b2d3a63d5e737dd",
+    "date": "2025-01-24T23:35:02+05:30",
+    "path": "/nix/store/8z5llcnb3kgjym79vk5d31rjnicwh7k1-zed-ssh-config-7b3ee3d",
+    "sha256": "017hg1ajxcrshvdssvb70s6fxlq2wwpi73vy2sb94hcg0l5kny5j",
+    "hash": "sha256-sng7CwWPQZKWFn6PEy/nAtPujAZnba3bhjqzLlV48AQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ssh-config_ssh_config"
+  ],
+  "kind": "plain"
+}

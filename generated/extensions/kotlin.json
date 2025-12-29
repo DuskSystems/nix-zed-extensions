@@ -1,0 +1,23 @@
+{
+  "name": "kotlin",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/zed-kotlin",
+    "rev": "d030b1e84aa0abefadc4f923d50757558ef1cb17",
+    "date": "2025-12-28T00:17:40+01:00",
+    "path": "/nix/store/cfwnjaip43flqkg8pmmnmjlb2b3rk8z3-zed-kotlin-d030b1e",
+    "sha256": "1xp4f4l3xpypgf9z7959j1vh6dmy9813j53kn22hvg5nxp6l4jhf",
+    "hash": "sha256-DkpCze22vA2FsHMUOQJKvjYDd5CppPOTe9ffPihx5PY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "kotlin_kotlin"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-WPJ7w/q7FItPYazh1lkHSdonhYGKacUyHxviZ/u321Q="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pbxproj_property_list",
+  "name": "property_list",
+  "version": "31ff8b0a6dda1b88c8f24b0bc376a0ae573607b2",
+  "src": {
+    "url": "https://github.com/Formkunft/tree-sitter-property-list",
+    "rev": "31ff8b0a6dda1b88c8f24b0bc376a0ae573607b2",
+    "date": "2025-11-11T17:14:30+01:00",
+    "path": "/nix/store/ndzcw7mcm378p92wd6a68p0pvfdvmjqn-tree-sitter-property-list-31ff8b0",
+    "sha256": "1hmz8k4dfsm3ylpfy8y5jbhn5pdi079r5i3l4gl1kb0qra1alx22",
+    "hash": "sha256-QnSqgsoYrBnoI3TEktMBsd1i4ZLFI+8u9aNq18hEv8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

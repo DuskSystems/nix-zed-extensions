@@ -1,0 +1,19 @@
+{
+  "name": "bubblegum",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/koalefant/zed-bubblegum",
+    "rev": "ea13a9ed06447cabae91414b28f7a2a3fa121efb",
+    "date": "2025-10-04T23:26:52+02:00",
+    "path": "/nix/store/4jvpks33sgcnbclx567abvdgyl79r8n6-zed-bubblegum-ea13a9e",
+    "sha256": "1a75n8r32jczv2xz3l9nrfr0shr493a9v77a1sgarsra5pic3cpv",
+    "hash": "sha256-+7LB4i0q66yeDuqcndRIJEMNsss20fG72J9JMTKy5ag=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

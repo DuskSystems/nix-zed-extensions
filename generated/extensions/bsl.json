@@ -1,0 +1,27 @@
+{
+  "name": "bsl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dlyubanevich/zed-bsl-extension",
+    "rev": "b0975ec366a868423e8b6385cba8ea688b4381c0",
+    "date": "2025-10-20T15:06:34+03:00",
+    "path": "/nix/store/zv1kvhnnk1qvks00ik9vzlc0x8w8a6ns-zed-bsl-extension-b0975ec",
+    "sha256": "1dsxrn2b4v7sxwnd2l58jh4ij9f1bzqnfg9i762rawq8l2bqbi0k",
+    "hash": "sha256-E8SFl6AIc5WFOTE9Z/FfwSUZCZSoUNEs7/pssoTNXbc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bsl_bsl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-jB9/sBg+s3m9+ux5g20Ssu263iRaVxN4JOmCe2Q5R4I=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bsl.lock",
+    "outputHashes": {}
+  }
+}

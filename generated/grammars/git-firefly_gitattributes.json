@@ -1,0 +1,18 @@
+{
+  "id": "git-firefly_gitattributes",
+  "name": "gitattributes",
+  "version": "41940e199ba5763abea1d21b4f717014b45f01ea",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-gitattributes",
+    "rev": "41940e199ba5763abea1d21b4f717014b45f01ea",
+    "date": "2024-02-28T21:45:14+02:00",
+    "path": "/nix/store/paqvsblrf9hzlwnxlqi5dwx7k2i3d2dq-tree-sitter-gitattributes-41940e1",
+    "sha256": "15pdxsc4w4kbw9xhjkks90v26x8a2nli169jivqq42rliqa4zm47",
+    "hash": "sha256-h9RPFI40C4LxjjKZEKkVCnUjNkh6Tgl74msSTpju7ZY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

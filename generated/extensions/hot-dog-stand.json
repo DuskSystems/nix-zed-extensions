@@ -1,0 +1,19 @@
+{
+  "name": "hot-dog-stand",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/CoasterFan5/hotdog-stand-zed",
+    "rev": "3bc2204aab1ed376230456ad9001b705edebde6a",
+    "date": "2025-07-17T17:38:30-04:00",
+    "path": "/nix/store/2z94gyzycsqqn98f7jmsz44hi3k9n0nc-hotdog-stand-zed-3bc2204",
+    "sha256": "016qg7shc6izlbpbbkqdfr9q6asz81wk1w0h6xy4g725sk2y9j6j",
+    "hash": "sha256-0sjkxdRFnEd8NxDwMHlAXyuDU3YNz7Xuoj8aBvV52AQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

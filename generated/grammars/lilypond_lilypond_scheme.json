@@ -1,0 +1,18 @@
+{
+  "id": "lilypond_lilypond_scheme",
+  "name": "lilypond_scheme",
+  "version": "ffb662311084b86087ebb474a79b7f1f7ed2541f",
+  "src": {
+    "url": "https://github.com/nwhetsell/zed-tree-sitter-lilypond-scheme",
+    "rev": "ffb662311084b86087ebb474a79b7f1f7ed2541f",
+    "date": "2025-05-11T16:28:33-04:00",
+    "path": "/nix/store/si1rhpg1ih8bvdyngni5jxw3gsi27x3m-zed-tree-sitter-lilypond-scheme-ffb6623",
+    "sha256": "1df162r5a0js158rss60zzs7aazgjw0rxmm81h33jq35yid5lj2d",
+    "hash": "sha256-TUhaWvRlYDkGDKjWngGX7yt19P/AaJ1RCVoCVbIwwbU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

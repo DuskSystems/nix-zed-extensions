@@ -1,0 +1,18 @@
+{
+  "id": "kcl_kcl",
+  "name": "kcl",
+  "version": "b0b2eb38009e04035a6e266c7e11e541f3caab7c",
+  "src": {
+    "url": "https://github.com/kcl-lang/tree-sitter-kcl",
+    "rev": "b0b2eb38009e04035a6e266c7e11e541f3caab7c",
+    "date": "2025-02-15T21:50:02+08:00",
+    "path": "/nix/store/11k8dc7v35wrl4kqjmx53paqa3rdwky4-tree-sitter-kcl-b0b2eb3",
+    "sha256": "0dw89kxvj6vzwac34s4b8x7nsyrp59bzim6kldlw6xn6ps7vbsq1",
+    "hash": "sha256-Aeu1j77GdsNpo9PU+FcqN3ttT0eLaDKY4n8buftMiDc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "oceanic-next",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/rkunev/oceanic-next",
+    "rev": "41e56e5715701d714068ba30fc9d73309bf0f30c",
+    "date": "2025-02-06T14:20:12+02:00",
+    "path": "/nix/store/9jr3911van96lyni13ybxcv7q65yl36a-oceanic-next-41e56e5",
+    "sha256": "0bvyg5lgwp2fnxq1gx7yjdpbnk8x1kcqbrv952725ia5mcxz09mx",
+    "hash": "sha256-vSbwO6tFxSKOKGnnhdkMHU27bpP+9Bdwt05c/mh5fi8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

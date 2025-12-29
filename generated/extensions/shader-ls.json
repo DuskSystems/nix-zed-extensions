@@ -1,0 +1,21 @@
+{
+  "name": "shader-ls",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/cjhowe-us/zed-shader-ls",
+    "rev": "77dbd7684d45a7d417d8d068b26bb89d5d694968",
+    "date": "2025-07-25T15:10:13-07:00",
+    "path": "/nix/store/725lksbkj0nivbi7rqmmykw1l8lmkfdf-zed-shader-ls-77dbd76",
+    "sha256": "0ha4bapv51zhgx130319az74qlvxjha5fzvn2nqdna76cz683ppr",
+    "hash": "sha256-+d6BzGfmKNuwFXZ/VxSUfVNMzlcpDDBCf/CHsq9aREE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-WaN4No4Gt6kSlvsFj9GproeKvQnBCsnNQ5cihQq7M4o="
+}

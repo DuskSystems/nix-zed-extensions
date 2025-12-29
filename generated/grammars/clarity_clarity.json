@@ -1,0 +1,18 @@
+{
+  "id": "clarity_clarity",
+  "name": "clarity",
+  "version": "7fa54825fdd971a1a676f885384f024fe2b7384a",
+  "src": {
+    "url": "https://github.com/xlittlerag/tree-sitter-clarity",
+    "rev": "7fa54825fdd971a1a676f885384f024fe2b7384a",
+    "date": "2024-12-17T11:36:55-03:00",
+    "path": "/nix/store/8q522qj1zysqbqair4w0jrxjvwvsc03k-tree-sitter-clarity-7fa5482",
+    "sha256": "0kvq7nmlymaqn466z7y1id2lj4qfmxym5ks5kins9r6sr8sal1pg",
+    "hash": "sha256-7waqNMra5KRtnEXPUn2vDhNJRYvBn28MsVhVT6s9eE8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

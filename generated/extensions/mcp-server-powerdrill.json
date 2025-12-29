@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-powerdrill",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/javainthinking/zed-powerdrill-mcp-server",
+    "rev": "9d713a4d8a2b3c2c6a308c901b0df3a7c2c0aa69",
+    "date": "2025-11-07T17:49:42+08:00",
+    "path": "/nix/store/92bl74fqrxps4wpn8hd1jfm8y0922hbl-zed-powerdrill-mcp-server-9d713a4",
+    "sha256": "10lf522ycsa51qkqb2air17y10xjw4d7rjaps175rvxzimh6rnnd",
+    "hash": "sha256-zdpsYI2/71xO0FfJfBrhsoPgT8hRiYUnDkVp5oUojoI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-usQNxYYfT52EdJU2uEw2RZKRTZOfLSsiB252XFXr1Oc="
+}

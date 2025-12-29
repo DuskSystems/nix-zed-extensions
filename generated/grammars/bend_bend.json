@@ -1,0 +1,18 @@
+{
+  "id": "bend_bend",
+  "name": "bend",
+  "version": "0e8a2c89fa2b2e19b07a2a7e11f1ebf0f7323eba",
+  "src": {
+    "url": "https://github.com/LaBatata101/tree-sitter-bend.git",
+    "rev": "0e8a2c89fa2b2e19b07a2a7e11f1ebf0f7323eba",
+    "date": "2024-06-01T19:34:41-03:00",
+    "path": "/nix/store/zshwvi94qsqy7yddzvgx3rk5b93dccgl-tree-sitter-bend-0e8a2c8",
+    "sha256": "0ngxgbb2hclfi1ls7jgzzv4asdx6idd6k2n79r7b7j4qbrffi802",
+    "hash": "sha256-AqDoXF6YyLNOTseKaVqLpjetyP7/yaNpiI4yKNZ6/Vk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

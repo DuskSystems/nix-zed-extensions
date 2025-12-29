@@ -1,0 +1,19 @@
+{
+  "name": "github-copilot-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ssaunderss/zed-gh-copilot-theme",
+    "rev": "ed924c4a7a2cf6cfd3623a11b3398772b3d30e37",
+    "date": "2025-03-16T15:08:06-05:00",
+    "path": "/nix/store/2rgpfvbnrhf3xmn6y48lbqlh7g6axk87-zed-gh-copilot-theme-ed924c4",
+    "sha256": "1a2fqi8n55mykn2hciisacpk8kzs2n2ynzdqyjkihbhx9b2427mc",
+    "hash": "sha256-rB5BxEodLhin9Lh964UV+k80L1M6RgaFnb6WYlHETqg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "json5",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ChunzhengLab/json5-zed-extension",
+    "rev": "081db280d3f5e0c57c4c13ffa7db0c90e39bc7d3",
+    "date": "2025-09-22T21:58:02+02:00",
+    "path": "/nix/store/a7lf6nppwwqvqddy8bwfcx51c72gxbqw-json5-zed-extension-081db28",
+    "sha256": "044jp0p5kz7j6izhs97rzqcr97fc6f3i5h7w49vr0k9fs6rqsmw6",
+    "hash": "sha256-hleNs9EuTZB3IvzAEoczzJ2UGf75JA1/NPL8WS64khA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "json5_json5"
+  ],
+  "kind": "plain"
+}

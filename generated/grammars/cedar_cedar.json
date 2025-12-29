@@ -1,0 +1,18 @@
+{
+  "id": "cedar_cedar",
+  "name": "cedar",
+  "version": "2ad0cded99ff992ffd57192d9fe7f50ccd48fdf0",
+  "src": {
+    "url": "https://github.com/chrnorm/tree-sitter-cedar",
+    "rev": "2ad0cded99ff992ffd57192d9fe7f50ccd48fdf0",
+    "date": "2024-05-13T10:28:52+01:00",
+    "path": "/nix/store/bpvwhjhb3f13z0053fw5d0haqgd7cipc-tree-sitter-cedar-2ad0cde",
+    "sha256": "0gncan9ka6gqjvlyxrksgi05ndga4fp08yna36vhx09sqxs9lazg",
+    "hash": "sha256-7yuadMc6gQ63Gcp6BK4j6jVbQHx65u7plvgZNZNVzD4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

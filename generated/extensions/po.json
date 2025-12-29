@@ -1,0 +1,21 @@
+{
+  "name": "po",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://git.disroot.org/gemmaro/zed-po",
+    "rev": "a1bada786ff638f731b82322c37f45557767ffc0",
+    "date": "2024-11-11T19:54:52+09:00",
+    "path": "/nix/store/27z4nirwpbszv19zkywvrhdxlvcxwfz9-zed-po-a1bada7",
+    "sha256": "14wkf73a4fgnf4ss0vhw7bkzmfmc1hqpi08r3rmk153rw3dnyy4m",
+    "hash": "sha256-lXhv2+B5lDBrHhmBeDEMrLr65zocbqA1cfY5osZxk5M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "po_po"
+  ],
+  "kind": "plain"
+}

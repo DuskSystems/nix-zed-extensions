@@ -1,0 +1,19 @@
+{
+  "name": "fantasticons-icons-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/caiolandgraf/fantasticons-zed",
+    "rev": "34e6b6827848e5718860e3b5f5a14c8dc61f9422",
+    "date": "2025-11-21T10:15:40-03:00",
+    "path": "/nix/store/ajayaz1xk8xj5a3sxgs87gvk2yhdqz41-fantasticons-zed-34e6b68",
+    "sha256": "1jnb95vmcdvlpwx75pjv95sn4q3j3zqmxv3y0fpyb34vm1ybazdw",
+    "hash": "sha256-vH21fKibjOWvA37sXvEfcmBidUlb3nI6v3Q3VndJy8o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

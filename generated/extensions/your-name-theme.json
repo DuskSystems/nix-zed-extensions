@@ -1,0 +1,19 @@
+{
+  "name": "your-name-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/TheAhumMaitra/Your-Name-Zed-theme",
+    "rev": "031ba6cf0fd4b5e1f15092cc3942b5cf0e44d012",
+    "date": "2025-11-28T20:58:57+05:30",
+    "path": "/nix/store/2xz6s6g50kywy5fpyj9jcamk54s5krr8-Your-Name-Zed-theme-031ba6c",
+    "sha256": "0rfz8w4c9wznbfc0lkjydzr8vakxvz4hibz46nsbr56j5hrwyznz",
+    "hash": "sha256-337PMyzSlLy0NeSvCMnffaqN8m9eTgqYW/bzxAhH32U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "blade",
+  "version": "0.2.4",
+  "src": {
+    "url": "https://github.com/bajrangCoder/zed-laravel-blade",
+    "rev": "20e4dde5cb4df12f272df8b7a1efe2b90eb3105d",
+    "date": "2025-12-22T17:43:52+05:30",
+    "path": "/nix/store/xn46qg82y3hwzwknygdryqfwlirvr043-zed-laravel-blade-20e4dde",
+    "sha256": "14n5vjd3n448mlfhf9di8plks8zr760bqxxk7im7r0wjg60myixz",
+    "hash": "sha256-v0dfgXmSg3xqPLN3vIA5+SM96UWxJQcdrYgQO5rcxZI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "blade_blade",
+    "blade_php_only"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-MPKPs9SG1P+zBHa4GmqUVhKWSHjuNCGmAyaA4Fzyeys="
+}

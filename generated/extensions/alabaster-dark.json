@@ -1,0 +1,19 @@
+{
+  "name": "alabaster-dark",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/findrakecil/alabaster-dark-zed-theme",
+    "rev": "45dab1f9bec4a2668d3fc407f98539e49833b092",
+    "date": "2025-12-15T11:37:08+07:00",
+    "path": "/nix/store/ig6h5zrsvndphw3b6r20p55hca99i2jx-alabaster-dark-zed-theme-45dab1f",
+    "sha256": "1373grzih5z6qbqnp9adfh7zbfnc45i9wan99zkn8clvmx1z1wn7",
+    "hash": "sha256-x/LwQ6+bMmTnT8kqnmIhzLr1D3RNpWvxwuYXGH9+44w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

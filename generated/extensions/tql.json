@@ -1,0 +1,21 @@
+{
+  "name": "tql",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/tenzir/zed-tql",
+    "rev": "3468b4818a59d0ac034ff6f39798ac394d4d0f14",
+    "date": "2025-09-23T08:01:22+02:00",
+    "path": "/nix/store/2mb1a8w7zwq26c2rabr7319rph7ry8qn-zed-tql-3468b48",
+    "sha256": "12cz7ni5ps5004864pq6r7myf4762y1lz8w69ryzpj2ckhq33088",
+    "hash": "sha256-CIExMJxMyPt9ToajT4MX5hDn68kGX2IQAaDoW6I9n4k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tql_tql"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "oxocarbon",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/Takk8IS/oxocarbon-theme-for-zed",
+    "rev": "0924ccff3ede08c6198ba2954220aed9dac0df76",
+    "date": "2024-08-02T06:43:51+02:00",
+    "path": "/nix/store/ngkv9c17cl7ypxaaspjwpw9dqa697x3h-oxocarbon-theme-for-zed-0924ccf",
+    "sha256": "0k1ravg4pf3yh6skbk24hlxg9r3rs8a6kmp68j91f8402blx8i0q",
+    "hash": "sha256-GETU6RKAIBeSRObWaRTSeeT0OoVEzDW1gX64S95WOUw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cisco-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/thommorais/zed-cisco-theme",
+    "rev": "98397abd41b40a48ac84f24e5df829ce950903de",
+    "date": "2025-02-12T23:44:48-03:00",
+    "path": "/nix/store/flwyyb1hjg189gwmf87lf85ngxs7hmly-zed-cisco-theme-98397ab",
+    "sha256": "13sslkg9jl66ja93r7dcqqrrijipprw4clwbj8qw1n8jyf8gb5k8",
+    "hash": "sha256-aJb1kPMS2cAxkotTRni+N8qYM8asnTySksZQmd6kWo8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

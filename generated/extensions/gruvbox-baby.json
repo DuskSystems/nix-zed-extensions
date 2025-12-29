@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-baby",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/gbo-dev/gruvbox-baby-zed",
+    "rev": "8e95de0f3581b51087b434765285061ec4cf2d05",
+    "date": "2025-06-21T22:47:38+02:00",
+    "path": "/nix/store/1jic74dxgr2hl6v0v5qq2swcx703xn8w-gruvbox-baby-zed-8e95de0",
+    "sha256": "0p79wn7lzqizvh3rb9jz2srksnjsf145nlzda2dc9d4yrwklsafp",
+    "hash": "sha256-1ylNJ8+etMSaUO1TW0hwWlo9sxZfppUH3D/iT4/l6Vw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

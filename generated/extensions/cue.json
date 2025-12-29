@@ -1,0 +1,23 @@
+{
+  "name": "cue",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/jkasky/zed-cue",
+    "rev": "b28e82de569a70a6531d1e01195109549552135a",
+    "date": "2025-01-04T09:08:53-08:00",
+    "path": "/nix/store/5nisylamxxsmnplj4l2rqbrg6mn38n8q-zed-cue-b28e82d",
+    "sha256": "1dy381a9s0mv2imhf6kw67yjzdx4nggdhiqpbdcxi84vhpm88697",
+    "hash": "sha256-JxmE6oWboNhZWxdH2N6zpLcv/TF8GgdrFLsCnVRAw7c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cue_cue"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-rNygFScYxnzOUFkcbx1GgBFWGxugb7VgvztfVqsHvKY="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "xy-zed",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/zarifpour/xy-zed",
+    "rev": "591a0e91a0602e038fc4a93401424828f498546c",
+    "date": "2024-07-11T17:21:51-04:00",
+    "path": "/nix/store/h5g610qj14khia8yn1gqy7abspxqqawj-xy-zed-591a0e9",
+    "sha256": "1hbm0p5pvnjdzq3bkza87f79fwk2pczkr0p30cjl1kvcbr8i2qs2",
+    "hash": "sha256-QmMRUV5sz0AlA+OCPD+7YnKXjjtI/bkG/k3afcsFdcE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

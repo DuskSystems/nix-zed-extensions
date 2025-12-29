@@ -1,0 +1,19 @@
+{
+  "name": "new-darcula",
+  "version": "1.0.7",
+  "src": {
+    "url": "https://github.com/e-simpson/new-darcula-z",
+    "rev": "3e8f9afa0599a11646df109f793cd1c9a446d3d5",
+    "date": "2024-12-26T09:46:20-05:00",
+    "path": "/nix/store/5qab462059wj0rqlh71s60im4qd2pikb-new-darcula-z-3e8f9af",
+    "sha256": "19zyszhid6qa37r66i9l2lbhalqairakgmkjfrl5m9clm69b6j40",
+    "hash": "sha256-gEizkqmUpVpodnLWN1WOClMFFxU0RWPyGQqbFuHX/qc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "brainfuck",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/JosephTLyons/zed-brainfuck",
+    "rev": "e1f61e78e2708981df0db7d455d4b923ad1ec9a5",
+    "date": "2024-12-12T10:35:10-05:00",
+    "path": "/nix/store/grxcy79kjrj7ap3ycyx9x7f8kc4nx1lc-zed-brainfuck-e1f61e7",
+    "sha256": "1026lbj2qcllm0hg06f51y8fi7szr1zvdgr8jhkdrm8a3q1qmvxb",
+    "hash": "sha256-q++KAx4K1dwmlCi/tn/IX5/okA/FGfAgqJQyLOSiRoA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "brainfuck_brainfuck"
+  ],
+  "kind": "plain"
+}

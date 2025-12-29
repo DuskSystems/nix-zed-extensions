@@ -1,0 +1,19 @@
+{
+  "name": "shades-of-purple-theme",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/irmhonde/shades-of-purple-theme",
+    "rev": "92840e17621cbdc4ca05e7c108c104a369354815",
+    "date": "2025-06-05T16:05:25+02:00",
+    "path": "/nix/store/pwj1m5kyz58ip63gr3w4wslcydipph8m-shades-of-purple-theme-92840e1",
+    "sha256": "1cr93dy514rkgmmbqf2lb7ig117bkjn6blb33xxy879dknp3g3df",
+    "hash": "sha256-ro03rp0tHeR7H2PRZayc64Tw4llUOLxqfTOTUHwbKbM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

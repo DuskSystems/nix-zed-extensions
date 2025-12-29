@@ -1,0 +1,25 @@
+{
+  "name": "norminette",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/DavidLee18/zed_norminette",
+    "rev": "eb7c0bd81392473394f2f98984587bbe64d5f5f5",
+    "date": "2025-10-10T00:34:43+09:00",
+    "path": "/nix/store/2jak8hmb9g6s4m3r2gx559rp2a0m48w3-zed_norminette-eb7c0bd",
+    "sha256": "0jw6g7agjwkl6nsyq4bk23ggv0957qmwrw7smvrmxgi7bkpq8vr2",
+    "hash": "sha256-Im+E71wnvl7zrvrwzCs+JYH93hBzEey1NXRy+dR5hks=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-HFnt3Ghy5RCiZTDq0s+RY58hMFE+8O1BTTNqzWgGrZQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/norminette.lock",
+    "outputHashes": {}
+  }
+}

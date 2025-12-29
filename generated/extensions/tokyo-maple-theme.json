@@ -1,0 +1,19 @@
+{
+  "name": "tokyo-maple-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/Cateds/Tokyo-Maple-Theme",
+    "rev": "815a695b9091267372d82401b38b30d84bae3040",
+    "date": "2025-12-01T17:29:27+08:00",
+    "path": "/nix/store/sg5y26phpmnscrkj2rqdxylvvx9zxlhb-Tokyo-Maple-Theme-815a695",
+    "sha256": "1nnjvwcy4ddvaykm6w0ld7wapgdj6wi6znsrinylaglg915kz8lp",
+    "hash": "sha256-l6I/S0iPPkW9jVnbbyI3sr2r+GkUcFOnV7s14hnf0to=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}

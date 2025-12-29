@@ -1,0 +1,21 @@
+{
+  "name": "psalm",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/sebcode/psalm-zed",
+    "rev": "c2310ad215efd86d6f1cd972efa3021582f7b51b",
+    "date": "2025-06-21T12:04:36+02:00",
+    "path": "/nix/store/8z12hdw42jsalbcilaj3qmg1x4d6w942-psalm-zed-c2310ad",
+    "sha256": "0r1h7fbippxf5g30v6sc0yzq48dih32cxhfhqkq4nxi0lfh4kbgz",
+    "hash": "sha256-/61JoKMgdkvwxNDBzsSAsSGCvwdMmw3GK67fG5c7MGQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KMZJ2pyMfhnkMht2SYYj48Gm6aEAlWe0zeNKSgGzu/g="
+}

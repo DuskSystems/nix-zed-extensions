@@ -1,0 +1,19 @@
+{
+  "name": "eiffel-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/demiurg/zed-theme-eiffel",
+    "rev": "b6cfc1df1f0ea4a2006de0cab74faff83c868b9d",
+    "date": "2025-09-28T18:33:49-04:00",
+    "path": "/nix/store/9qxr4sldg85mbijj6fx90zx0dbjkdhbm-zed-theme-eiffel-b6cfc1d",
+    "sha256": "05q4icnkzfdji7zpxrffqlmimhqblv4cn13cfsa3jc05kprf30ss",
+    "hash": "sha256-WoPh8p0FMDmUdmwEy8imC8MaK8XO5X7/ibK5Py2LBBc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

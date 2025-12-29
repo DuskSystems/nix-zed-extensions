@@ -1,0 +1,19 @@
+{
+  "name": "monospace-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/Abhinav5383/zed-monospace-theme",
+    "rev": "6ea0ff31ffd981585018b521d67d21aeea338f73",
+    "date": "2025-08-28T18:41:29+05:30",
+    "path": "/nix/store/myaqzdb3il29025yvhpmpm5pb0mbdpqi-zed-monospace-theme-6ea0ff3",
+    "sha256": "1nv2nznrp62acbcqhb3hysq88rd8g4zdy8aqqqi706ld2dd8ri8b",
+    "hash": "sha256-C8WMWhONGnAixlgh3z55qGWEsPZwLIjZYkqYm+23Yts=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "forest-night",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jarith/forest-night-zed",
+    "rev": "b38697dac6df3123e47bb46d96225644c7bfb1fc",
+    "date": "2025-07-06T16:06:56+02:00",
+    "path": "/nix/store/00sw1q4ab2ksaidgaih7kk0xdy65p11q-forest-night-zed-b38697d",
+    "sha256": "1j46ynymdnqp2lfb8fyyya6k5gqxw0zp9mv57lhr3jx1j8hwkxlx",
+    "hash": "sha256-nfbJIZKhy5EhPWXXdD/gHb8yjfLeO7QcFRfbVr31hsg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

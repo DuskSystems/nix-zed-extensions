@@ -1,0 +1,18 @@
+{
+  "id": "grit_gritql",
+  "name": "gritql",
+  "version": "9ffe44d15359476af27f07130807a5ac979e477f",
+  "src": {
+    "url": "https://github.com/mantou132/tree-sitter-gritql",
+    "rev": "9ffe44d15359476af27f07130807a5ac979e477f",
+    "date": "2025-07-05T23:20:59+08:00",
+    "path": "/nix/store/83r3dw27a779ygil5pcay0r59rdshv5p-tree-sitter-gritql-9ffe44d",
+    "sha256": "0g6i7q6h6nrms5nm4xw1fxdx0lbp0d9j2fg6nql8j2ycjqnp9jwm",
+    "hash": "sha256-lct0LZbMC4kotuY5IVMDd1HQW3eBd1Jt0TVbAw0+0Tw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

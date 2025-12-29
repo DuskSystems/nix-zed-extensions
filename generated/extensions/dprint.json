@@ -1,0 +1,21 @@
+{
+  "name": "dprint",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/panikkastudio/dprint-zed",
+    "rev": "537c8753f89bbf79de8c8e85c2921bc23bdf4ed0",
+    "date": "2025-09-23T14:58:54+08:00",
+    "path": "/nix/store/3j9ksr1sh27bbz21rrj1rcrlp9f6n26s-dprint-zed-537c875",
+    "sha256": "1w0bdhxwz65kalzf270myhvhi24rjivqhasr46ksfrvivdimnzwr",
+    "hash": "sha256-mX9bY9txZ6enIVkriHeUmYgIN/QVHOE+VbOYzztsC/A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EzzyGNB5H+Dn4nsQf7+Agt047ueYkeE7n9CmknMeq5I="
+}

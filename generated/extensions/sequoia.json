@@ -1,0 +1,19 @@
+{
+  "name": "sequoia",
+  "version": "1.31.0",
+  "src": {
+    "url": "https://github.com/HarshNarayanJha/zed-sequoia-theme",
+    "rev": "809b58ca898312a1b32bd9a58ee0490f66988494",
+    "date": "2025-03-03T22:31:00+05:30",
+    "path": "/nix/store/0cymzq90163ibgs9aaima2pqigp2683y-zed-sequoia-theme-809b58c",
+    "sha256": "0f34gh667bvqk38mpxl44zxx4jhvayijp8vyhvv1jlxji3w78a9k",
+    "hash": "sha256-Myl0+IiyUxn2hn6jK6NXG0rS+yeE9lvRmHivYwx8ZDg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "circom",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ThinkingFrog/zed-circom",
+    "rev": "e45349679d72c44c1a473d48930877c98dc64f99",
+    "date": "2025-07-09T22:40:27+03:00",
+    "path": "/nix/store/4iyzamdvyp00xw926gxarzv2qfnmwfbd-zed-circom-e453496",
+    "sha256": "14rypy1gg1hsslwcb510m1d64smqx3rldav8bpxb20y7lpc0z2y6",
+    "hash": "sha256-xosP2KXHA7H6XWirRvPouGpiWqgglMU41RqG94K/PpM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "circom_circom"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-3+pDWQtAvRgrIXV73kgZHoUhDF8plF/BxCpT9V23NOM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/circom.lock",
+    "outputHashes": {}
+  }
+}

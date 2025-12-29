@@ -1,0 +1,21 @@
+{
+  "name": "mcfunction",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/bcheidemann/zed-mcfunction",
+    "rev": "0432bb4e22042d490e9a5d7c0b4535ad42384cdc",
+    "date": "2025-10-17T11:57:34+01:00",
+    "path": "/nix/store/pdpv8xddb54m5jp0h78s3kcinx6al3b8-zed-mcfunction-0432bb4",
+    "sha256": "1cck966hx1bp7zfwi5ncyig6l5jx44znls9mvxwmmwy2d2b49cfi",
+    "hash": "sha256-0bFElmjC81p53zVpaj8hXRZqXvTMlsjdP3eFDo1Jk7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mcfunction_mcfunction"
+  ],
+  "kind": "plain"
+}

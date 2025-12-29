@@ -1,0 +1,19 @@
+{
+  "name": "looped-themes",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/loopedautomation/editor-themes",
+    "rev": "497e6dd822ac20e167888442af70a48445af94f6",
+    "date": "2025-10-25T00:10:55+02:00",
+    "path": "/nix/store/rin0qj007psv8xbp6qaxd97nqic6wv4n-editor-themes-497e6dd",
+    "sha256": "0rzla26j93m2n30nwkq378djc8cnradj97qi1s9icpmqfx22ay69",
+    "hash": "sha256-yXglRHe4XhaTDhGfJJvKliEmGzoDT27BsKKOJI1Q9Gc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

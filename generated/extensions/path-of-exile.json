@@ -1,0 +1,21 @@
+{
+  "name": "path-of-exile",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/egibs/poe.zed",
+    "rev": "03dcbfe25e130c0eb0507928cdca31d3ce90ae7d",
+    "date": "2024-12-24T21:52:25-06:00",
+    "path": "/nix/store/d799168c0pbs2igrlk048y3pnkss3qma-poe.zed-03dcbfe",
+    "sha256": "1hnal57sis13zmpj40n7g9jqg0lh1ldlqpzq5yr55pqqhvi0zp4v",
+    "hash": "sha256-m9wP4oYY31KyL/hfTBsNkIKHZXrHAiJv/SPoqE+hysI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "path-of-exile_filter"
+  ],
+  "kind": "plain"
+}

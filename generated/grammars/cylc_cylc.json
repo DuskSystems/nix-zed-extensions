@@ -1,0 +1,18 @@
+{
+  "id": "cylc_cylc",
+  "name": "cylc",
+  "version": "30dd40d9bf23912e4aefa93eeb4c7090bda3d0f6",
+  "src": {
+    "url": "https://github.com/elliotfontaine/tree-sitter-cylc",
+    "rev": "30dd40d9bf23912e4aefa93eeb4c7090bda3d0f6",
+    "date": "2024-10-02T22:31:53+02:00",
+    "path": "/nix/store/d39nwvavw28p99hb65da69s36sgndgn5-tree-sitter-cylc-30dd40d",
+    "sha256": "0iyw88k5yz9khb496v5pfkh6l7d1x2gygl2r3cn2vnig51z6jn9j",
+    "hash": "sha256-Mllpfigv2i0sG1nQ55/ooR1q4HS3bJPIgjN9XyZC3Ec=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "noir",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/shuklaayush/zed-noir",
+    "rev": "c0a41c5114b929715865d56308c30eb881968bcb",
+    "date": "2024-05-02T22:41:39+02:00",
+    "path": "/nix/store/jmzgzw3fa353jjz48ysak35g884yn4x7-zed-noir-c0a41c5",
+    "sha256": "1ni5c6yqjjnngi66ddy4k29vgs9pj33n7zmzr3pmx6mdmqmnvbzb",
+    "hash": "sha256-669tK66tml7vyL/+Y8eQN+m3k5jEt2ZMfNZKib1hJdo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "noir_noir"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8KleSHSnuombvyvuAXaqWVlffWFjti54xD6aXQ+2MD4="
+}

@@ -1,0 +1,23 @@
+{
+  "name": "oat",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/WhySoBad/zed-oat-extension",
+    "rev": "fa584d24ca6ed081eb3ca906717897ec648be217",
+    "date": "2025-11-19T12:33:26+01:00",
+    "path": "/nix/store/r9yyd49cm2vsc5mxskfq5jf80l6k0ajf-zed-oat-extension-fa584d2",
+    "sha256": "00nq6115vj415x6f8rh820m2awjxqc94dfckambk77r4hfmjyzvq",
+    "hash": "sha256-eH8vq4MknzNXVZO5RhLDXXIlKhAIZuRML4HIXUIw2AI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "oat_oat"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-qhPXNejkj4GZ0u9h7NV4tAlhf0tzli1ypy+AMuWPFJI="
+}

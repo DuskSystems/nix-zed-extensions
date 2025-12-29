@@ -1,0 +1,21 @@
+{
+  "name": "gcode",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ChocolateNao/zed-gcode",
+    "rev": "8ef1d350f17974e9652b36e56890154ebb27c906",
+    "date": "2025-06-15T22:54:35+03:00",
+    "path": "/nix/store/g4hdbsq0jfhd6qr2ndk7m0bjrigi2vh5-zed-gcode-8ef1d35",
+    "sha256": "0q6gamx98ixwjnwjyzh3rv3zzi8sdkmc0d60ry9fq8dilncx95lm",
+    "hash": "sha256-lZbUmaWxIeySz8A0wOpsGsX/x84Dfi+5lbxHlHpVz2A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gcode_gcode"
+  ],
+  "kind": "plain"
+}

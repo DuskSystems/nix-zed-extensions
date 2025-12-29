@@ -1,0 +1,21 @@
+{
+  "name": "snakemake",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/lvignoli/zed-snakemake",
+    "rev": "037d6b6cb675dea0acf7efb8c04700375a7f723f",
+    "date": "2024-08-23T19:22:04+02:00",
+    "path": "/nix/store/nyjx5kls5b0zr82ghm35ssws2qcdcl1s-zed-snakemake-037d6b6",
+    "sha256": "05lckm76zc9zvgba6sbg2fpj8gaixqj2h8lcdvf36pv7k0ynzr05",
+    "hash": "sha256-BeRvPZhnXzPcbowiKCTuUT0krxNvaaPW2z+xb06djBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "snakemake_snakemake"
+  ],
+  "kind": "plain"
+}

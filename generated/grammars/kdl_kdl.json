@@ -1,0 +1,18 @@
+{
+  "id": "kdl_kdl",
+  "name": "kdl",
+  "version": "b37e3d58e5c5cf8d739b315d6114e02d42e66664",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-kdl",
+    "rev": "b37e3d58e5c5cf8d739b315d6114e02d42e66664",
+    "date": "2024-06-08T18:48:39-04:00",
+    "path": "/nix/store/69y18ay577pz9hwdvlwrkrf7wvyrrvkk-tree-sitter-kdl-b37e3d5",
+    "sha256": "0lgabapr7hqhpsiy600l9alf60l7vb7dji05f6b6sr0xq5l7rg4a",
+    "hash": "sha256-irx8aMEdZG2WcQVE2c7ahwLjqEoUAOOjvhDDk69a6lE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

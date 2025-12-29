@@ -1,0 +1,21 @@
+{
+  "name": "kagimcp",
+  "version": "0.0.30",
+  "src": {
+    "url": "https://github.com/jmylchreest/kagimcp-zed",
+    "rev": "861b616c8ddca8bf75e731b697e95de276bd9456",
+    "date": "2025-12-04T14:19:04Z",
+    "path": "/nix/store/sjbw0njnz6gjm1d3bbs0gjxg8wca8s0z-kagimcp-zed-861b616",
+    "sha256": "0fwajncgzm7acrymvhg0zs0ip4bwsm9ndqbd7xlzj4f0mrs1li8j",
+    "hash": "sha256-EkUadK7AEflpP23hZlPVfJEbgf7gwV19ZurU/5iVijs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vXP4kmAw/Eq3HCsnWeFqr/Et58j9phX4c8yi8UnQiIY="
+}

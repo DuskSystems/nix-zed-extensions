@@ -1,0 +1,23 @@
+{
+  "name": "statamic-antlers",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mynetx/zed-statamic-antlers",
+    "rev": "30a30660573e91322fbb71e8f2ff57b6e77fc29b",
+    "date": "2025-05-19T09:39:33+02:00",
+    "path": "/nix/store/v56n0qbmq6cs3sf2ppsfq07lwphfkn51-zed-statamic-antlers-30a3066",
+    "sha256": "046lhzb5r1wpkwbks8yvg0q54vz9zci070507bm1vmkjm13ycg8c",
+    "hash": "sha256-DD3mR6hy1h3qOqCAAyL76W9SMHjbIz0Xn5eHXNaH1BA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "statamic-antlers_antlers"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uTfODGav6VFSHuH0hD9eJ6ejLws5qDsHzxq8qe52lQM="
+}

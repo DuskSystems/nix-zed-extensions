@@ -1,0 +1,18 @@
+{
+  "id": "django_htmldjango",
+  "name": "htmldjango",
+  "version": "60771d12aee60e4ccb220548d8a485c3aa4183cf",
+  "src": {
+    "url": "https://github.com/joshuadavidthomas/tree-sitter-htmldjango",
+    "rev": "60771d12aee60e4ccb220548d8a485c3aa4183cf",
+    "date": "2025-10-07T21:38:08-05:00",
+    "path": "/nix/store/ifqzxss8kff8fci1yghwkbjpnx5j930x-tree-sitter-htmldjango-60771d1",
+    "sha256": "1ah76wlfxxfp8cjfrhr6dvmsydpj8881hxng6w0jiz82z7l3733p",
+    "hash": "sha256-d4wz6PkC/SgBN892GBBC8jav624mw+wkQ9f17ig3B6o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

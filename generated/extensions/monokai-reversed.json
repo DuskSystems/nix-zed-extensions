@@ -1,0 +1,19 @@
+{
+  "name": "monokai-reversed",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/everdrone/zed-monokai-reversed",
+    "rev": "fa09616230419f523f79a90d97b10a0d7009c70a",
+    "date": "2025-02-21T09:58:20+01:00",
+    "path": "/nix/store/3yr27nyrszk29dp2y3p7pxi50jzjwmwi-zed-monokai-reversed-fa09616",
+    "sha256": "1ad305l86vih2zcd3nc2ihp3cagfc8pap4plwclq42mpz7p5zgv4",
+    "hash": "sha256-ZL9f7vm3CoIp4/SSqy5i7ik2LoyC2dHYFzBug2gBo6k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

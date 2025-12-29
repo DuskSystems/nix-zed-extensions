@@ -1,0 +1,19 @@
+{
+  "name": "nixdorf-8870",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Takk8IS/nixdorf-8870-theme-for-zed",
+    "rev": "6a582f553152a25e68beaa07e91f425ceba83274",
+    "date": "2025-06-26T17:09:11+02:00",
+    "path": "/nix/store/kjjcvnma2l1xpkvakkx865gwzni6cgjj-nixdorf-8870-theme-for-zed-6a582f5",
+    "sha256": "0nr2vslh445zgi7wpk8rz62vll5czkvbm5vkjq78fdm2sjny41j1",
+    "hash": "sha256-QQbirdSiNocOlnOXuvb8rFC6hfkZzctPfL8QAqneIls=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

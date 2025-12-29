@@ -1,0 +1,23 @@
+{
+  "name": "yarn-spinner",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/yuna0x0/zed-yarn-spinner",
+    "rev": "7a7cf6f9eefd2335763b707527d2f5d950cea622",
+    "date": "2025-08-08T18:36:16+08:00",
+    "path": "/nix/store/c9a0wm5ajb93lqv4f661w9szsyrkva04-zed-yarn-spinner-7a7cf6f",
+    "sha256": "1nnn5wbyv32rwwrvfl683jzrgws5l44r9v6k2rvrcjccbj9bn128",
+    "hash": "sha256-SAS7klyMSZZ3FtPslAmhRfOXvxzIULcz51mM7Rcv1to=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "yarn-spinner_yarn_spinner"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-I7aiqRKbwgVz37uJ4GlJd6w5ONXTdnxVHtyqRUySexg="
+}

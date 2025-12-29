@@ -1,0 +1,19 @@
+{
+  "name": "ember-theme",
+  "version": "0.9.1",
+  "src": {
+    "url": "https://github.com/biaqat/ember-theme-zed",
+    "rev": "4f8a3d595630d455cd34132c8c10f74fa76fc36c",
+    "date": "2025-02-25T21:46:19-05:00",
+    "path": "/nix/store/gml63w3w3p5gwadp74sfl8455ycf94rr-ember-theme-zed-4f8a3d5",
+    "sha256": "0qlnm5mw9vdhlcp8l728hw6b50s3mknj2hpys3g6qgylfx7wpa2r",
+    "hash": "sha256-WajLT3fUP2ze0P5CIe2sQ4OyDIdIHIouo7DtxGuplmI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

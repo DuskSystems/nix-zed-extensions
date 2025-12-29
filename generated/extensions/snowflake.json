@@ -1,0 +1,19 @@
+{
+  "name": "snowflake",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/bxxf/snowflake-zed",
+    "rev": "ce967ad7ef681a552f358d0d45a77403b1a6943e",
+    "date": "2024-05-17T15:05:16+01:00",
+    "path": "/nix/store/m9cab7n39rv86rk44b4qan0kkspfikfr-snowflake-zed-ce967ad",
+    "sha256": "1bvk57mj1dlfw84r60ja54as5zl9lrszwa7rbprjl209hpdmmm97",
+    "hash": "sha256-J9Va24UJCCrzXfko/nWmif6iFSlKApMJ4o62IOspc68=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

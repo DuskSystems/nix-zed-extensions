@@ -1,0 +1,19 @@
+{
+  "name": "ayu-themes-glass",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/jansol/zed-ayu-glass",
+    "rev": "fe3fc57e93e96539b110f33ebdbc46f0fee57728",
+    "date": "2025-12-10T05:09:27+02:00",
+    "path": "/nix/store/ynxdaawmyi93xncmld4c8am8rlvgikis-zed-ayu-glass-fe3fc57",
+    "sha256": "0n177mz2f5v61v2vydijyvadkz9593qx47vinlrrrnhwah2nxz2h",
+    "hash": "sha256-UPxuBVQc2pwztXEf0vFIJf3Z1PYyNr/FDmYXJ349J1g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

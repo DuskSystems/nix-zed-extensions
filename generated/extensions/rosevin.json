@@ -1,0 +1,19 @@
+{
+  "name": "rosevin",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/anson-ryea/rosevin-zed",
+    "rev": "a4b623a3645a025ffe013b2c718b4bac2baf0cee",
+    "date": "2025-08-05T20:56:59+08:00",
+    "path": "/nix/store/dzrh0fh2d2x8zj6wjkf0dvy43m2sj63a-rosevin-zed-a4b623a",
+    "sha256": "0wjq2i0wk9mczlxr31gln47q289bqn1gzvdhabc450jlz06pdi9i",
+    "hash": "sha256-McV2DfhUgkLYUrDt/4LFKyGBD7H0hZE7/aymyUEUWHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "starlark_starlark",
+  "name": "starlark",
+  "version": "b31a616aac5d05f927f3f9dd809789db7805b632",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-starlark",
+    "rev": "b31a616aac5d05f927f3f9dd809789db7805b632",
+    "date": "2024-02-01T01:25:50-05:00",
+    "path": "/nix/store/zqnicxbinkqf2i23k2jhlsvh87jvlwzn-tree-sitter-starlark-b31a616",
+    "sha256": "07yzak03887vyljffmfbk8l4viyys28sh1dbwmz1vnx4n21hsm01",
+    "hash": "sha256-AVQNg7Ck2x1+5asFqJHQ3sdNKJrLVeck9fsgNMBU3x8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

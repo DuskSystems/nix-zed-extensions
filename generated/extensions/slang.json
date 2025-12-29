@@ -1,0 +1,23 @@
+{
+  "name": "slang",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/cohaereo/zed-slang",
+    "rev": "6f5628099fa8301688767fdc2a68b9c672aa7f41",
+    "date": "2025-12-16T04:05:48+01:00",
+    "path": "/nix/store/c3mak8mj2sny1pnpfxm33hzphrb7hh07-zed-slang-6f56280",
+    "sha256": "01sc0mi99vcvq0ihgcm6q8p1zky9k9yhcn258fbbcxjr45kpipsy",
+    "hash": "sha256-Xt94ZyFZdraWQ0VYBn2ayc8fLsKmsgcjwJvtlGIFTAc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "slang_slang"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YoWiW+9cXRNDvkWO8V/X02zMH1ONzbKDr6N2hb/nLMM="
+}

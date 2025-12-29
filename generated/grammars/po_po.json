@@ -1,0 +1,18 @@
+{
+  "id": "po_po",
+  "name": "po",
+  "version": "bd860a0f57f697162bf28e576674be9c1500db5e",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-po",
+    "rev": "bd860a0f57f697162bf28e576674be9c1500db5e",
+    "date": "2024-04-20T14:33:06+02:00",
+    "path": "/nix/store/v7nb2vdvki7pbal4phq89v3akspjd56d-tree-sitter-po-bd860a0",
+    "sha256": "1d28lyg0sx9xs09y68618cxnhi5sacfschcrv4xmy06k21bp8azx",
+    "hash": "sha256-/St0VxDTAF872ZlBph1TukRoO0PBIOMT0D11DZ6nSLQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

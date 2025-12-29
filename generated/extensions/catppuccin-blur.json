@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin-blur",
+  "version": "0.3.3",
+  "src": {
+    "url": "https://github.com/jenslys/zed-catppuccin-blur",
+    "rev": "c965bbb87c2ffca4dd505b40646057f710afccc7",
+    "date": "2025-11-11T16:05:13Z",
+    "path": "/nix/store/zssa9r1bh3mhnfzyvhzfv0wxfdq4669w-zed-catppuccin-blur-c965bbb",
+    "sha256": "1dgc0g6af6s0l5v773804zqs4dcdsfbxpw298dh7mjf5gs4jyd00",
+    "hash": "sha256-ADQviX7FyXpgQ0nw25fTjTWi8ScAjXN2oUAbp8wD7LU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

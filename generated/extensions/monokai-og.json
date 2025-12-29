@@ -1,0 +1,19 @@
+{
+  "name": "monokai-og",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sidwachche/monokai-og-zed",
+    "rev": "3032d44dec34d1a5c6e26dd754832dbe2239c136",
+    "date": "2025-07-19T23:16:35+05:30",
+    "path": "/nix/store/1svxk9q47br9mymrbaiywc3v8aqq2bkm-monokai-og-zed-3032d44",
+    "sha256": "0vqfd02cnl6rxvlql1s0rjiqqiyqaasf5vaxynzbkdhxmkwzpvdd",
+    "hash": "sha256-re37+awdtrm+9V3t4rRS2EeMo8xAB4rp7tlQywRoDm8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

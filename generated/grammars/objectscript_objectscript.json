@@ -1,0 +1,18 @@
+{
+  "id": "objectscript_objectscript",
+  "name": "objectscript",
+  "version": "c0f4461e18d0ac9f4625cddebfeb34ef13f99f8a",
+  "src": {
+    "url": "https://github.com/intersystems/tree-sitter-objectscript",
+    "rev": "c0f4461e18d0ac9f4625cddebfeb34ef13f99f8a",
+    "date": "2025-10-29T09:45:32-04:00",
+    "path": "/nix/store/kl6gaaafmvxwwm7qs1cz4pdfhkfv5y83-tree-sitter-objectscript-c0f4461",
+    "sha256": "1jy2m32px6bci4rdxkk8d2yanp1v6as9s645z7isc2bn6504lcsy",
+    "hash": "sha256-XjNKQDF2Cabj+YUYnbQyO1yrvGhozt4yiWyZfsWowss=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "udl"
+}

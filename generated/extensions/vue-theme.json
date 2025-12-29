@@ -1,0 +1,19 @@
+{
+  "name": "vue-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ColasssNotMe/vue-theme-zed",
+    "rev": "552f63c6e86a16db741cc075bbba068045365936",
+    "date": "2025-06-26T23:17:29+08:00",
+    "path": "/nix/store/065rp3xhzcidf0cj5m3f1c8k92s7p646-vue-theme-zed-552f63c",
+    "sha256": "1pd5g1agf4c5h55vzc7n0lvjpplmqbkrva2fpn9zlkxw8ba69idr",
+    "hash": "sha256-ucVk1EK8T/qTvU6onefCld4rNwX2sL9LgYUR91R4pd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

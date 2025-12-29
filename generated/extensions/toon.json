@@ -1,0 +1,21 @@
+{
+  "name": "toon",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/3swordman/zed-toon",
+    "rev": "e4d3e3dbcf097e2de64f46ebc99d13e706e87a7f",
+    "date": "2025-11-22T18:10:01+08:00",
+    "path": "/nix/store/6q9j1iwn8bfk3zzlzbg5iwdivjnrmzmg-zed-toon-e4d3e3d",
+    "sha256": "03r733n7xn04qnax20v2lmgjm18mng6pwyr7jgcihlrj68pzqavc",
+    "hash": "sha256-bCv8LzIyUxjZkyd7fs2zFYUqX6ViA9GVxQTYfuwYJw8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "toon_toon"
+  ],
+  "kind": "plain"
+}

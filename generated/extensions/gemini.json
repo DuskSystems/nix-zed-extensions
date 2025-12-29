@@ -1,0 +1,21 @@
+{
+  "name": "gemini",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/clseibold/gemini-zed",
+    "rev": "329e0df9967bc14bf68a143e7276b9272fb1dd71",
+    "date": "2024-04-13T16:11:40-04:00",
+    "path": "/nix/store/d1rb0sr7pj41g6sb1cd9kls5x72827k4-gemini-zed-329e0df",
+    "sha256": "1mxckgf0vlslgdpi3vz1nmxqdz8kbk4s4x37v20rmqdasf3djsn7",
+    "hash": "sha256-x2rZhtOq4ZqB2Gd0oslcE/2Ge7Xh7xFve1TTDdybrNc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gemini_gemini"
+  ],
+  "kind": "plain"
+}

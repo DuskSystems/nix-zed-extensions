@@ -1,0 +1,19 @@
+{
+  "name": "panda-plus-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/lucianoratamero/panda-plus-theme-zed",
+    "rev": "9d0f21c1bf82d4aee0fb7536e229b7d2591a50ba",
+    "date": "2025-12-02T19:47:28-03:00",
+    "path": "/nix/store/n8kz6398ai6jg4j0ypvc8zr8kam427gk-panda-plus-theme-zed-9d0f21c",
+    "sha256": "17ilzrn6fwm44lb4vj1zimmw65b124zqbdm0fd0khi7gc75ydp6c",
+    "hash": "sha256-zNzmy2HvRDhBc6C2hT8RYRXDa40/yE0WJaRyZ2z+NJ4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

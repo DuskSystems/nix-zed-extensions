@@ -1,0 +1,23 @@
+{
+  "name": "simula",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/eirslett/simula-zed-extension",
+    "rev": "78f27c3975f86a0b0c6dfa0a3d22ca446eb4f34d",
+    "date": "2024-09-11T21:00:37+02:00",
+    "path": "/nix/store/ns1ia8aflva0q6drqh2qh26s945a40sq-simula-zed-extension-78f27c3",
+    "sha256": "1hm53ciamahqbz38c6rhwnd6r1sql0n7gqn708050sy4nm4hk3x5",
+    "hash": "sha256-pY8JSbXEa1AAAsfidyygWIdsmuUwG4bGXxiqqiIbpcI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "simula_simula"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-AM/kJIIL8XSDa/XPJjQGHgms/w6iO1GaLSxRosS2b7o="
+}

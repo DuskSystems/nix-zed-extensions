@@ -1,0 +1,27 @@
+{
+  "name": "textproto",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mikn/zed-textproto",
+    "rev": "4c7c3ae089671a96f4abeed41b49b02a3aac77a2",
+    "date": "2025-09-18T16:35:16+02:00",
+    "path": "/nix/store/j54fffzfnjshaxy81c1h7sq8df1mdssy-zed-textproto-4c7c3ae",
+    "sha256": "07ydig55iwcnf31zifp2nbzknx730gcg5zr6l8dz2i8cjizfbknj",
+    "hash": "sha256-0s7lfpQMRfEboib/8tgD43Q7/7LiuvjDcJbxWMqLzR8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "textproto_textproto"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-A2qATpq0SzIowxpXA+8tBim7Bl7XatkCJgtEBTPhoD0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/textproto.lock",
+    "outputHashes": {}
+  }
+}

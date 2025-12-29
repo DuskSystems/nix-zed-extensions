@@ -1,0 +1,19 @@
+{
+  "name": "neutral-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dustinbturner/neutral-theme",
+    "rev": "1ed2398bbb31154c3a9c63de71a3b8530693e14a",
+    "date": "2025-05-22T12:11:49-04:00",
+    "path": "/nix/store/r87x4v042hc8xqjdpz138hsffj130vw3-neutral-theme-1ed2398",
+    "sha256": "01asv9rv64vsbr5lg3k98fimyahd3cminjwgdgghq22z0gpmidz3",
+    "hash": "sha256-47dY7wNfCAzfa49LGysbDSpfo0NpjkdLXnoTs3PaWgU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

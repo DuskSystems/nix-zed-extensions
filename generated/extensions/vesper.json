@@ -1,0 +1,19 @@
+{
+  "name": "vesper",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/bdsqqq/vesper-zed",
+    "rev": "4ae700c4a2a279c722bdd6c63409a701b4a3236e",
+    "date": "2024-09-03T18:00:57+01:00",
+    "path": "/nix/store/l1av6k9jnc4g0yvjsd731sxh9shqpxra-vesper-zed-4ae700c",
+    "sha256": "1djyv5cs1i4714xl0pkcbawbfkpf8smbr5q4rk5mlp6bh2wl9knd",
+    "hash": "sha256-zc5EuYDLXFrLzASXvKpG7k63uFpsXkA7CYfEoFnZXrY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

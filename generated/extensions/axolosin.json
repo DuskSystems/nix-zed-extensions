@@ -1,0 +1,19 @@
+{
+  "name": "axolosin",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/LightTreasure/axolosin-theme",
+    "rev": "a3db4eea59ccbb8257b411fef47afa200e976733",
+    "date": "2025-02-23T15:53:33-08:00",
+    "path": "/nix/store/gmbj84d8k0jgsjm3ygs6d8py1g6jp3r6-axolosin-theme-a3db4ee",
+    "sha256": "1bz2743izr2cmgax712v6yj4hpxpvr1zhrn0lcw86wa4gds6irjn",
+    "hash": "sha256-VuZodHtEcYM4o8Bm+EPet19IpDdbhNPVq0zkHwc54q8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

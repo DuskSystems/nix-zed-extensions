@@ -1,0 +1,19 @@
+{
+  "name": "tomorrow-night-burns-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/alii/zed-tomorrow-night-burns",
+    "rev": "74d12487195b07a6a8787c10e564ede52c79e2c9",
+    "date": "2025-06-24T10:05:30+01:00",
+    "path": "/nix/store/ys477k9fnci7asm9pr6qk55grzy0f5p9-zed-tomorrow-night-burns-74d1248",
+    "sha256": "1wa0a26sgqw0ka7fffzx3j7nqz1x8b6m0qvwshsnchqn7jhnij2z",
+    "hash": "sha256-X8hooTwWQ2Y11HxjUM1CPXxsjxz9O+eOmoDjp41QQPE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

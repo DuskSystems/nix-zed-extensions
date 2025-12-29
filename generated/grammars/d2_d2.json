@@ -1,0 +1,18 @@
+{
+  "id": "d2_d2",
+  "name": "d2",
+  "version": "1e6d8ca3d85c0031ff010759bb60804dd47b95f2",
+  "src": {
+    "url": "https://git.pleshevski.ru/pleshevskiy/tree-sitter-d2",
+    "rev": "1e6d8ca3d85c0031ff010759bb60804dd47b95f2",
+    "date": "2024-07-12T20:36:24+03:00",
+    "path": "/nix/store/jgp2zzdc7kpbr73pxbsykgp2wh97rylg-tree-sitter-d2-1e6d8ca",
+    "sha256": "1pxncyixvlv3ym43izphyrwcf85yr81mzjdirb95yppdksa77pwm",
+    "hash": "sha256-ld9zlJ7tXl/SyrHJXwPKviDHePbw/jhI9WPT3aNntt8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "nginx",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/d1y/nginx-zed",
+    "rev": "ebc8f9c6d529ddd0b490e0fb19f2e2c7c1e1578f",
+    "date": "2024-05-12T20:02:01+08:00",
+    "path": "/nix/store/yjbdiidghmx0rzlm1rq9344iyyhhx798-nginx-zed-ebc8f9c",
+    "sha256": "0wmh5fi01rr34y4zcbvr13pcyll65vylfdmvi7hpjfqqllf74vr5",
+    "hash": "sha256-JW9yHKUYO3nhibs2R/0uhlLP7gh5L/aJJyPnAKIrsHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nginx_nginx"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-E5lUWlRzMPpkOJzXPHYUPidALumD1F/XB7LqMGl7NXs="
+}

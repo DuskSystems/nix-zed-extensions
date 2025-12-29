@@ -1,0 +1,18 @@
+{
+  "id": "pascal_pascal",
+  "name": "pascal",
+  "version": "489e273895a452a79dc74749ed99793d20ee85c1",
+  "src": {
+    "url": "https://github.com/ChemisTechlabs/tree-sitter-pascal",
+    "rev": "489e273895a452a79dc74749ed99793d20ee85c1",
+    "date": "2025-10-08T04:33:05-03:00",
+    "path": "/nix/store/6rlqpac2zdp7nax74y0nmq0ssyw8yap4-tree-sitter-pascal-489e273",
+    "sha256": "0gycqh3r16ivfqp0k5jphgyk5skcg8sxymw6w5aqmg66sh1fch5a",
+    "hash": "sha256-qkDmAtTGvIpV4YZX3zV6bOoy/YNXlgkudjuakAfEzD8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

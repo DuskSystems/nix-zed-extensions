@@ -1,0 +1,19 @@
+{
+  "name": "subliminal-nightfall",
+  "version": "0.1.12",
+  "src": {
+    "url": "https://github.com/mhamrah/subliminal-nightfall",
+    "rev": "48b3469080ed81bc1c53f0c0bd1fc8d2e15a033e",
+    "date": "2025-11-27T22:29:08-05:00",
+    "path": "/nix/store/1m2dz35g8xd57ncpr3axf2aabbcqvsrj-subliminal-nightfall-48b3469",
+    "sha256": "1akwa6c0mcy94lx2pd780dr0zb0c190lld9h258hz74jprfidw6h",
+    "hash": "sha256-0PAWXb6SnA9RETA1SkEKDKwPcgPotCs6JcmzCphRfKo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

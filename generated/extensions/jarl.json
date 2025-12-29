@@ -1,0 +1,53 @@
+{
+  "name": "jarl",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/etiennebacher/jarl",
+    "rev": "df71b1defc5ab763ed7bd6c5fc5a55bd98c5ef95",
+    "date": "2025-11-17T21:59:20+01:00",
+    "path": "/nix/store/m98smvxfq2sx49mr9mpjpjqncjh6ppdy-jarl-df71b1d",
+    "sha256": "1l35jlccvbbxcrf4dr2frp3ybkyddlp7c8cldzgyd61afxiajisx",
+    "hash": "sha256-XUepYncqmObfb5Qhdi5tzc/lx81O5EZcZn2tzRiVZdA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-VJpC9SL5mWYEZF3dX8aDZeaRXr5hCZpysQCYC5k3+HM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/jarl.lock",
+    "outputHashes": {
+      "air_r_factory-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "air_r_formatter-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "air_r_parser-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "air_r_syntax-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "biome_console-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_deserialize-0.6.0": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_deserialize_macros-0.6.0": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_diagnostics-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_diagnostics_categories-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_diagnostics_macros-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_formatter-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_json_factory-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_json_parser-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_json_syntax-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_markup-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_parser-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_rowan-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_string_case-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_text_edit-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_text_size-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "biome_unicode_table-0.5.7": "sha256-J1kYjAviXEgb5fNidsViN53Zw1j4IM6kL1N0XhXloYE=",
+      "comments-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "fs-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "line_ending-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "settings-0.0.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY=",
+      "tree-sitter-r-1.1.0": "sha256-IkWhya0Mj+9Idu3OBN5wTuIY+nJA50BWbJhsw9N4Mv4=",
+      "workspace-0.1.0": "sha256-pm+794RTjFh7vWLjVDxgC+E7ZFR6nyyoi6aC2yvbgqY="
+    }
+  }
+}

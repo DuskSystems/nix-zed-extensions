@@ -1,0 +1,19 @@
+{
+  "name": "azutiku-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/bwind/zed-azutiku-theme",
+    "rev": "7917fb66f3b729e6827358fdc6e9b884ea4d500d",
+    "date": "2025-05-19T19:20:36+02:00",
+    "path": "/nix/store/wpkgrlkwdfbx13p3zshj23ym6vrqv5im-zed-azutiku-theme-7917fb6",
+    "sha256": "0xphc5lpvkqw60fcb4bpr3w7mkc56lxhb0nyjidvd6swv1fha3cw",
+    "hash": "sha256-nA0FXdhcm7ZblN6CBTs1hc16+Mh3kcUcMBzPfWlh8HY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

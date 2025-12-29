@@ -1,0 +1,18 @@
+{
+  "id": "jq_jq",
+  "name": "jq",
+  "version": "c204e36d2c3c6fce1f57950b12cabcc24e5cc4d9",
+  "src": {
+    "url": "https://github.com/flurie/tree-sitter-jq",
+    "rev": "c204e36d2c3c6fce1f57950b12cabcc24e5cc4d9",
+    "date": "2025-05-10T16:57:44-04:00",
+    "path": "/nix/store/xsff4nnkb1gfqzs8hfr9w5fi92jzssla-tree-sitter-jq-c204e36",
+    "sha256": "0dxshnznrm75527jgv0b2fqxzpxc7j0w26ndvs1325a4qq724jsq",
+    "hash": "sha256-WEsiDsZEFTGC3s0awYE8rN/fsRML7CePKOXUbL+Fujc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

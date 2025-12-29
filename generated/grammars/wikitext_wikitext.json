@@ -1,0 +1,18 @@
+{
+  "id": "wikitext_wikitext",
+  "name": "wikitext",
+  "version": "8a1b422dce3816f22ffb2b769db9c611ddede642",
+  "src": {
+    "url": "https://github.com/santhoshtr/tree-sitter-wikitext",
+    "rev": "8a1b422dce3816f22ffb2b769db9c611ddede642",
+    "date": "2025-11-14T16:21:22+05:30",
+    "path": "/nix/store/j88dvw1nzhg4nip4j0ljh9l1192gm9k2-tree-sitter-wikitext-8a1b422",
+    "sha256": "1fm7vg7a18xfrjm07cf87xhrzg550ky5amxa5jhxviicdkqq1fvz",
+    "hash": "sha256-f7uA8Wwsxt2hLKpXVfwEpbyfYT/IsQOqzK6joM7bp7o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

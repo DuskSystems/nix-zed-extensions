@@ -1,0 +1,21 @@
+{
+  "name": "polar-context-server",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/polarsource/zed-polar-context-server",
+    "rev": "0ff38250f95beb9f7618badbfec0b4cd30c794e7",
+    "date": "2025-05-16T14:45:10+02:00",
+    "path": "/nix/store/dfrjs4bhv1vm5843cgqbrcjss9m1fvkz-zed-polar-context-server-0ff3825",
+    "sha256": "0q7vhwfa70d5i50g621ba6vs1pq0z8vsfz46x8rfmjx1y66j54dk",
+    "hash": "sha256-s5EijfGhy+oy6oZ8pzf6AN+gt1ErCPNAiaWBoxyH+2A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-9G3SksKhB94h28FgkqIgDs1I5AehAs+kahGSyUPjfWw="
+}

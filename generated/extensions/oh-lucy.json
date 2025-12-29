@@ -1,0 +1,19 @@
+{
+  "name": "oh-lucy",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/abdurrehman0206/Oh-Lucy",
+    "rev": "bf1f64f136d71993fa0d0dcd6c05bb7de803aa72",
+    "date": "2024-09-13T19:19:51+05:00",
+    "path": "/nix/store/lwl7fwcib17wfavblmz5b92z0q9n30mg-Oh-Lucy-bf1f64f",
+    "sha256": "0n92vcv5s0vmg8n71yh90wmf6w77z0n8vsb1qadbr5v2dy3aqb67",
+    "hash": "sha256-xyyshm9il7yawmHpjSz453DjKgcJ+nAsenUDXTbbIlk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

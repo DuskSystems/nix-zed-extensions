@@ -1,0 +1,21 @@
+{
+  "name": "wren",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hgmich/zed-wren",
+    "rev": "4e4b5b712f26f5fea25090fbb1e20a87b7be1011",
+    "date": "2025-08-24T22:34:16-04:00",
+    "path": "/nix/store/gqa6d9r6dvf55wla763z4vdmqkkmd9hf-zed-wren-4e4b5b7",
+    "sha256": "07gdbla2a4jvjnkbfdnpkc5cchia1k0yn21jvr48ywdfqq9mkbvy",
+    "hash": "sha256-fq9ZE8aucY9I3jII68EMKkLGCpvXNremlVsSJRRd7R0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wren_wren"
+  ],
+  "kind": "plain"
+}

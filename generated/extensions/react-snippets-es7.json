@@ -1,0 +1,19 @@
+{
+  "name": "react-snippets-es7",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/shonebinu/zed-react-snippets",
+    "rev": "a95dfd7db1b91e2dd32240bbf106fcc1c9775858",
+    "date": "2025-11-25T19:20:46+05:30",
+    "path": "/nix/store/knwg6al7nimw966p8i7lz6ynr2mkiwpw-zed-react-snippets-a95dfd7",
+    "sha256": "0rwal3s0nwfh729phycicyf29hpygxxcnmjgbipvzva064lfrzs9",
+    "hash": "sha256-Sf/sKDFA7b9vXE9Wy3p//sIknGeReXiTONBxC/Sgimc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

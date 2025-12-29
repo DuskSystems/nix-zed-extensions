@@ -1,0 +1,19 @@
+{
+  "name": "python-snippets",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/jctosta/python-zed-snippets",
+    "rev": "91332e4bbdaaab8f95e7158253962857f0eba50e",
+    "date": "2025-07-31T10:21:33-03:00",
+    "path": "/nix/store/2mhqfvzdmi6jmrqjbky2bdlig58g627y-python-zed-snippets-91332e4",
+    "sha256": "0sv3y964z17jj4i84mrbzk6yixpb9xbwdm972icvdqwrxnh63kw9",
+    "hash": "sha256-ic9hoO2Z47ZZFCfVxldP6/bozfwrV4IikfKET0zyY2s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

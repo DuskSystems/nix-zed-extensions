@@ -1,0 +1,19 @@
+{
+  "name": "electron-vue-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Drew-Chase/electron-vue-themes",
+    "rev": "f2864541a0aa34f95d7dfdf8663b7e0596199d91",
+    "date": "2025-10-26T13:46:37-04:00",
+    "path": "/nix/store/k01lfrhvm8p8y1w100qpjzpg39zcy3zb-electron-vue-themes-f286454",
+    "sha256": "0jy2k0i4zjikgxjhwmdz37mfls0cw0axpc93p762liwhi1p446xy",
+    "hash": "sha256-vhtCboiQRyrMuSOx2xXgDGjq6hm/VQ5lfzPKTyKYwks=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

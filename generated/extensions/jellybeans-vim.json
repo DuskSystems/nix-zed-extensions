@@ -1,0 +1,19 @@
+{
+  "name": "jellybeans-vim",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/rajerthat1/jellybeans.zed",
+    "rev": "096c3eef6deb91d5e4c74b5beafa05c1ce09a025",
+    "date": "2025-03-14T14:02:33-07:00",
+    "path": "/nix/store/jsrrgk76psmc0lhai3zw77l3gav4720w-jellybeans.zed-096c3ee",
+    "sha256": "0kbxnmfyijcbq2s1cg0a4da9n79i3dwjy02givq2l5860f98fvz4",
+    "hash": "sha256-5G+HkgMGFSrwjk8AL3kbMR2bVCMKPBa0wIvJ6F21fU0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

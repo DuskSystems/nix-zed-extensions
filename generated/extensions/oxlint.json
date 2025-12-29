@@ -1,0 +1,21 @@
+{
+  "name": "oxlint",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/rchatrath7/zed-oxlint",
+    "rev": "ca2f53fae0143081492a7524e46539f44a1cb947",
+    "date": "2025-08-19T18:31:34-07:00",
+    "path": "/nix/store/xycc4bc9kf3v194x475bs2518yk058bg-zed-oxlint-ca2f53f",
+    "sha256": "075xijvijahzg75v3qfjfhgwdz6cnfs1i15vl8vi0j6c85094z7x",
+    "hash": "sha256-/XySQEHMSBA3oruEGLSzzPzGH3TS4bHLeR8qGbeMvRw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EtgqaZZhSE9wYXyZN0H7kSJoTQfxRoun++Y0Uo6Ljsw="
+}

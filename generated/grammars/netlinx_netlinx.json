@@ -1,0 +1,18 @@
+{
+  "id": "netlinx_netlinx",
+  "name": "netlinx",
+  "version": "296c0e62cd507fc23cd1f1db06142f808483cf1a",
+  "src": {
+    "url": "https://github.com/Norgate-AV/tree-sitter-netlinx",
+    "rev": "296c0e62cd507fc23cd1f1db06142f808483cf1a",
+    "date": "2025-05-11T11:31:14+01:00",
+    "path": "/nix/store/9v0l8q2b6g5mnwmhqcn3wfrli11qrhm4-tree-sitter-netlinx-296c0e6",
+    "sha256": "09q2w9g4bb8v603b4ykxn5g8ndqjfhrgskslsmzhy095r3jysb2q",
+    "hash": "sha256-WCzt5cglAQ9/1VRP/TJ0EjeLXrF9erIGMButRV7iAic=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

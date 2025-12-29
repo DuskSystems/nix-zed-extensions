@@ -1,0 +1,18 @@
+{
+  "id": "devicetree_devicetree",
+  "name": "devicetree",
+  "version": "296b3c294a8bcfca6673296d99f9cd37049b8026",
+  "src": {
+    "url": "https://github.com/joelspadin/tree-sitter-devicetree",
+    "rev": "296b3c294a8bcfca6673296d99f9cd37049b8026",
+    "date": "2024-08-09T11:33:27-05:00",
+    "path": "/nix/store/nq8n00kb8kx20mlpr2ay4z1b0xyng3q2-tree-sitter-devicetree-296b3c2",
+    "sha256": "1qlq5siw3xh1n6x8lis7pa75fimdwff90w21fw1vf6wy8s3d2vca",
+    "hash": "sha256-im3RhkaeG7cDd0FwkJzjrUZXjrpHR4q6sQH2waMumOI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

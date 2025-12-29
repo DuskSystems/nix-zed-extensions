@@ -1,0 +1,19 @@
+{
+  "name": "kiro",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Takk8IS/kiro-theme-for-zed",
+    "rev": "e4c8d5933459ea2008918ba2908f6281e235af72",
+    "date": "2025-08-18T07:36:00+02:00",
+    "path": "/nix/store/3vq9406lz2y8nfc4x1f5q2bmily5nisx-kiro-theme-for-zed-e4c8d59",
+    "sha256": "1xfrc5867xgbyxjd0sd5iiymwj2wscdd93csv9yipy6qzcmwmzm9",
+    "hash": "sha256-qf7KK/vY+Bt92pqN1BrTXEhefYyladBk9+v1Y1Bh2fU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

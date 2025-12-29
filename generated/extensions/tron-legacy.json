@@ -1,0 +1,19 @@
+{
+  "name": "tron-legacy",
+  "version": "1.1.7",
+  "src": {
+    "url": "https://github.com/bcomnes/zed-theme-tron-legacy",
+    "rev": "4e24ac876c8130f0f1f7d91f87abd8a5e8bb4b8b",
+    "date": "2025-08-02T21:10:33-07:00",
+    "path": "/nix/store/qa65406kzlymchaw9d7irqvc1r90ham6-zed-theme-tron-legacy-4e24ac8",
+    "sha256": "16ka09s381ghx6mx6nmrlkhcwkb8q9kh0sp6ilc6hal07nrw20nd",
+    "hash": "sha256-zQLBsz2AKmgYjeZqAGfCaE3O4KS5WtOr6fAFNHQCapo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

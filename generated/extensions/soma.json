@@ -1,0 +1,27 @@
+{
+  "name": "soma",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/SrGaabriel/zed-soma",
+    "rev": "93ea2ae8dbfd39565be49d3c1fcec99f49d0cf45",
+    "date": "2025-12-05T22:07:00-05:00",
+    "path": "/nix/store/xcbmlav5x5z9a3sc027mm8rhygdf66zf-zed-soma-93ea2ae",
+    "sha256": "1v92pcgirp0cwmh9bkfmp6nqvd51di5r9zn9cb6awf270pckhif1",
+    "hash": "sha256-wUU42QVHOK7MYsn+lEtsobSNrbnVzZVg5QzcHB+7Iu0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "soma_soma"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PTpEPSRmUFQNgk232B+OkUyUhwSFqtA7y8+iWMDf8oo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/soma.lock",
+    "outputHashes": {}
+  }
+}

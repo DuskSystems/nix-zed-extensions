@@ -1,0 +1,19 @@
+{
+  "name": "replicant",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/pierrenel/replicant",
+    "rev": "1a74cb3012af5cb955d1344e886e91c61785a26d",
+    "date": "2024-10-10T10:04:33+02:00",
+    "path": "/nix/store/nxspksf9vsnf0x4nl9lkbqyljh63rm9s-replicant-1a74cb3",
+    "sha256": "1shpz4b2mywwzgzsqbfa492xlcv46yqna7vv64x5zgnh4ghm0ilf",
+    "hash": "sha256-jkZQ4SPQvl86MXsfZbE3ZDPaRSLKLaz/+5z7Khb5F+o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "markdown-oxide",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/Feel-ix-343/markdown-oxide-zed",
+    "rev": "9d04884fa97c7c123afbfdba14435296c51cdda6",
+    "date": "2025-10-25T18:35:51Z",
+    "path": "/nix/store/mk6v9w0r0bpwjbvli6h5jmk12y6vnlg7-markdown-oxide-zed-9d04884",
+    "sha256": "0bvm92z9qrwnkhmmmc5s8l4q3cvriwr9d03hkx5hs2p5flj3f0y3",
+    "hash": "sha256-wwM3JHXlCg1Ln3CAljKPebOBCUW6sFornJZnnL5IdS8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-h0OfbrBLCsnltHL2bGaDAo4o+V/s9vQLD+Gx6r87fKA="
+}

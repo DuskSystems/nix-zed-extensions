@@ -1,0 +1,19 @@
+{
+  "name": "blade-runner-2049",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/Takk8IS/blade-runner-2049-theme-for-zed",
+    "rev": "68da9912263d6b90e028e89aeb1fe8b27198db3c",
+    "date": "2025-02-11T17:29:19+01:00",
+    "path": "/nix/store/8w6lmxb7yrd1baxizmvnfg0mng15pqc1-blade-runner-2049-theme-for-zed-68da991",
+    "sha256": "1g8q96334dq9y8z9pm9dr956012b410lh4p4a5kdc29ksaidkrf7",
+    "hash": "sha256-x+XZotIzCdZmUeQSSEEgSwRgSsot1Zs+8gk3MoZJGL0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "elixir_heex",
+  "name": "heex",
+  "version": "008626a3fad379d17c81d5ed576edd9bd7a4fbf7",
+  "src": {
+    "url": "https://github.com/phoenixframework/tree-sitter-heex",
+    "rev": "008626a3fad379d17c81d5ed576edd9bd7a4fbf7",
+    "date": "2025-01-29T14:15:49-05:00",
+    "path": "/nix/store/6zms9jzb5g92lgn15x9riz31c1f6b183-tree-sitter-heex-008626a",
+    "sha256": "1sgfydj2cfpprllzggvcalwlrnkf0x9hcfq1gp9nrvqa7r6s45d8",
+    "hash": "sha256-qBWiTT4K72zTfQE7BlMHbtpMOVVsv/cpzfc6JmTz7uk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

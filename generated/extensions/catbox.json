@@ -1,0 +1,19 @@
+{
+  "name": "catbox",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/adibhanna/catbox",
+    "rev": "5fbb8e50245ff81ec8751af40bef75b481b62c73",
+    "date": "2024-05-22T15:08:10-05:00",
+    "path": "/nix/store/x5vk0pc15ldblsnfd904bgbs0a1c27p4-catbox-5fbb8e5",
+    "sha256": "0jgpbvr4jkprjq37mx0nhpwyafsj1a0l75dhrd8yqhjc7aw7yxzf",
+    "hash": "sha256-7nd/uDpMQuxRy7CVQ4EKUjvl+YUW9HoGlvlOSfJe90k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

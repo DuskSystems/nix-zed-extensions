@@ -1,0 +1,19 @@
+{
+  "name": "martianized",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/clamjohnston/martianized",
+    "rev": "aed11ffbec9c5cb90640a0eb431c6743ac320129",
+    "date": "2025-06-28T10:46:07-04:00",
+    "path": "/nix/store/bmmbp03hjcdb7aydpl2g9kqmmjf93vci-martianized-aed11ff",
+    "sha256": "18bk2zg016bzcww2yfgd1vsig0pn71q0rp54wy272q773gphh8pp",
+    "hash": "sha256-9yII7xvnYHGE56TcDHA49oIX9Q7tOS84Z3+ZAN4Xc6E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

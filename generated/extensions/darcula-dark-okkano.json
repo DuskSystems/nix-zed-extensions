@@ -1,0 +1,19 @@
+{
+  "name": "darcula-dark-okkano",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/okkan/zed-darcula-dark-okkano",
+    "rev": "d9bbb5763fc2246872ef420417b8bf9fb112c913",
+    "date": "2025-10-23T19:55:31+03:00",
+    "path": "/nix/store/yzzz602fwadfsyzycbh3yyl70qa642fh-zed-darcula-dark-okkano-d9bbb57",
+    "sha256": "1wicbr2m7zbv5wy05ayf07zx5wkfbfqzcpcxp6h78dkbjnpj8924",
+    "hash": "sha256-RCQkr5VrNnSguZ1d9rFbbvLS/wHOqwI8L3v9U0VeLPI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "xml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sweetppro/zed-xml",
+    "rev": "84d06414fabaa65c3531266ef5a231dca197a657",
+    "date": "2025-12-28T21:40:27+01:00",
+    "path": "/nix/store/dcmsgbjkx43gs0l2rlb7w2pp7hpd08jm-zed-xml-84d0641",
+    "sha256": "18rapx7hx1ns9ldh1f40kvp431vsx299z0zsz8gj99hr8hay2c58",
+    "hash": "sha256-qDDhFUQZpiQf+vqDn5LoeodB7p6AuAAbTdqGDk+/KqM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "xml_xml"
+  ],
+  "kind": "plain"
+}

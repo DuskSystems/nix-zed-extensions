@@ -1,0 +1,19 @@
+{
+  "name": "nebula-pulse",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/foxoman/nebula-pulse-zed-theme",
+    "rev": "b42581b2f51da53b04207575daa03baa2749c4a1",
+    "date": "2025-03-29T13:15:59+04:00",
+    "path": "/nix/store/3cam5vb3jlfpilggvl9nrs427i0sx8bx-nebula-pulse-zed-theme-b42581b",
+    "sha256": "13c0lhrmwd77jc8raz5z28icx5dmy7a5k12f7mmqchi3ar46fpi3",
+    "hash": "sha256-I15nSFYjQoZrPU6EWdTxtZXOIhK/fJURk+c0XjOkgI0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

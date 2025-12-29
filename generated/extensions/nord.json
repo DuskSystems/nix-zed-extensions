@@ -1,0 +1,19 @@
+{
+  "name": "nord",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/mikasius/zed-nord-theme",
+    "rev": "1497de5aee7b4f46d1cab3c2e2ce53120473a806",
+    "date": "2025-10-28T23:08:06+07:00",
+    "path": "/nix/store/wvwiaib9vlzz3y4vbfxdiqc9fh0aan5c-zed-nord-theme-1497de5",
+    "sha256": "1av1i6i7wrjy0fq9chn9izdn3cnha6qk796k3xs7rvl07wfay2hg",
+    "hash": "sha256-DwqvHD+A7nx0H9OkM7FR0LJh24/JQpawA15mfqKJYas=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "curry",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/fwcd/zed-curry",
+    "rev": "bf461de5585da3eea5f880793e83c7158dd9f7aa",
+    "date": "2024-07-28T23:06:21+02:00",
+    "path": "/nix/store/h6qkvyg0xnjd7mrfr1j4s9i15qnxjc7j-zed-curry-bf461de",
+    "sha256": "18ir7z0kxniwcphfxznbr9pmvd62gwbdbyiqq78hhdn3kyq4fyzr",
+    "hash": "sha256-+XtHsJ/DNgjRwTj61RZ/wrRdb8rL/u7gZTzaPsE/OaI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "curry_curry"
+  ],
+  "kind": "plain"
+}

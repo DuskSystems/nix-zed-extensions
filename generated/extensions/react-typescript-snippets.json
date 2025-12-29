@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript-snippets",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/vishnuroshan/zed-react-ts-snippets",
+    "rev": "7c5b802850e88d3e6c7b218108d92e9a16014fa7",
+    "date": "2025-12-23T18:02:34Z",
+    "path": "/nix/store/wfmy6qcnv14b8k8dggrmjcjgrpmm0n44-zed-react-ts-snippets-7c5b802",
+    "sha256": "1r4nh5nbpwl777va6yqci08ym8sq71192wlf3gjsyk3m2v76760n",
+    "hash": "sha256-FphjzhZ1TK/lG45ykUI4WKPqEYgMe6P2OYfyu2yBluQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

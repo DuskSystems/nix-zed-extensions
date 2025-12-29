@@ -1,0 +1,19 @@
+{
+  "name": "vscode-great-icons",
+  "version": "0.2.6",
+  "src": {
+    "url": "https://github.com/RandaZraik/zed-vscode-great-icons",
+    "rev": "d0edf518e5dc219b92cb749790f62818e46d7cf3",
+    "date": "2025-10-09T11:50:07+03:00",
+    "path": "/nix/store/wv6rh12lm4b2snczc7nhdlm2kszmzndc-zed-vscode-great-icons-d0edf51",
+    "sha256": "011mjrrbzgjir46gb6bvkmfmlqxliwqga6rra8q9ljix10i5ifgn",
+    "hash": "sha256-9rlYIgg9SpowUjkb9TCPtGNaXZ17mfUMyVG+v3KWNQQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

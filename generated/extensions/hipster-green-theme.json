@@ -1,0 +1,19 @@
+{
+  "name": "hipster-green-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/1ay1/hipster-green-zed-theme",
+    "rev": "6bf0cf691a3bdb87c5c5ae5c8397b480c39d8e1a",
+    "date": "2025-10-27T15:22:06+01:00",
+    "path": "/nix/store/sa0xn079pz8sp30yj8akh7iiw5fvvjkb-hipster-green-zed-theme-6bf0cf6",
+    "sha256": "0i4apkhx19mg3nlxvbzrfxwig4biphyczs3vb6by6i70grr21hbl",
+    "hash": "sha256-dMEgcn7gROOXWXvozzy8cZEXeXf5r92pHa+m0OG8ikQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

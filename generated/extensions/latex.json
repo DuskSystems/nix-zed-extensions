@@ -1,0 +1,24 @@
+{
+  "name": "latex",
+  "version": "0.2.3",
+  "src": {
+    "url": "https://github.com/rzukic/zed-latex",
+    "rev": "e7d957b3bb603cc24683e3af2c262a4ec1c88d56",
+    "date": "2025-08-10T19:20:57+01:00",
+    "path": "/nix/store/nx2g7p4lzd90l3yzy9cbj69c6qbzxqsg-zed-latex-e7d957b",
+    "sha256": "14nwwm5g4ja7gghvghih4b6jccjvm4679c6jzlww9y8mxjqvlnqc",
+    "hash": "sha256-DFu6sewV+cQ5/dKwdAypWzImzSIwwrfhe0dJ8krl3JI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "latex_bibtex",
+    "latex_latex"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KlenYp3+kY0f40NJ3MVlLOw+DjUfZedYeGrkQmwZLIM="
+}

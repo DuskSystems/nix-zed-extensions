@@ -1,0 +1,18 @@
+{
+  "id": "playdate_pdxinfo",
+  "name": "pdxinfo",
+  "version": "d5f40313cae3ead5f9a9e7420a29afd80d62a1c8",
+  "src": {
+    "url": "https://github.com/notpeter/tree-sitter-pdxinfo",
+    "rev": "d5f40313cae3ead5f9a9e7420a29afd80d62a1c8",
+    "date": "2025-12-09T11:46:43-05:00",
+    "path": "/nix/store/gily6gaf2hxq34khmvrz2wi70knmc76c-tree-sitter-pdxinfo-d5f4031",
+    "sha256": "06pgxgfih2c4r1yh72gshl3n31bx7h037c07rsfvs5lsx7j1k80b",
+    "hash": "sha256-C6AZ5OmaFr2dzgewMwA8fYVhB4X6iQN9yIQJGN3r7xo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

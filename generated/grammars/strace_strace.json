@@ -1,0 +1,18 @@
+{
+  "id": "strace_strace",
+  "name": "strace",
+  "version": "0dc85e4cfcd0cc4b33f855ddb782d81d1297bf6e",
+  "src": {
+    "url": "https://github.com/sigmaSd/tree-sitter-strace",
+    "rev": "0dc85e4cfcd0cc4b33f855ddb782d81d1297bf6e",
+    "date": "2023-09-10T11:08:10+01:00",
+    "path": "/nix/store/g5bryqxl5cx7y7q6l6dccxrxc8i4asjv-tree-sitter-strace-0dc85e4",
+    "sha256": "1r5bh5ifcsynm49wmhd765q1xih4d39viy07v11w0bc4a0g7xbi4",
+    "hash": "sha256-JK5+HlCELcBD2Af4uNNoBMYecDGnwcoTqdZr5mKBq+Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "night-shift",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/Jean-Tinland/zed-theme-night-shift",
+    "rev": "b0f6c5835920411ec78da64791d5a9ba94870ac5",
+    "date": "2025-07-05T20:48:38+02:00",
+    "path": "/nix/store/457rx9q3nyiz4mngdcjs0yzaif3g5hw4-zed-theme-night-shift-b0f6c58",
+    "sha256": "0cglpsr860zzhmw2yaw0rq198sjj1647yifn1vxgp2imyqjx401s",
+    "hash": "sha256-OgDSJfY1ivv6DtZFf4gJUmqUAs6AKy94hf8Dg7K+9DE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

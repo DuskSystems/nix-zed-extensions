@@ -1,0 +1,21 @@
+{
+  "name": "yang",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/olitez/zed-yang",
+    "rev": "cdd3cb3192ef18276973c6539fc89cc9103c5c61",
+    "date": "2025-07-30T09:35:45+02:00",
+    "path": "/nix/store/j0d76ai8d7gsyg2b6wg8mghd1dxf8znl-zed-yang-cdd3cb3",
+    "sha256": "01ldg09k1jff4bkjaksmjzmx1wwgy9f9yhys1gsiwpchali3irnl",
+    "hash": "sha256-1OY4IlWQXR71C9pDn1zyj/PQ65dVTyXnIs7JMBN4jQY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "yang_yang"
+  ],
+  "kind": "plain"
+}

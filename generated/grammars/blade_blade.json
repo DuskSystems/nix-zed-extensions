@@ -1,0 +1,18 @@
+{
+  "id": "blade_blade",
+  "name": "blade",
+  "version": "cc764dadcbbceb3f259396fef66f970c72e94f96",
+  "src": {
+    "url": "https://github.com/EmranMR/tree-sitter-blade",
+    "rev": "cc764dadcbbceb3f259396fef66f970c72e94f96",
+    "date": "2025-08-25T08:29:09-05:00",
+    "path": "/nix/store/bh1xqrr5kfqi2n6dpvrfxhdz1hivw0aw-tree-sitter-blade-cc764da",
+    "sha256": "0bmv0ski3r0czrssmp9z707rb4100kbjpazy2rwy3i3yq7miiy6z",
+    "hash": "sha256-3/gY68F+xOF5Fv6rK9cEIJCVDzg/3ap1/gzkEacGuy4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

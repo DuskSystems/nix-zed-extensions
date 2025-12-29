@@ -1,0 +1,21 @@
+{
+  "name": "python-requirements",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/dargor/zed-python-requirements",
+    "rev": "f641e7014872b478076bf65639cee782fc97aab8",
+    "date": "2025-10-30T11:38:54+01:00",
+    "path": "/nix/store/am2bsk3x9mv25lxp4d4yvw3jlaxhdf3z-zed-python-requirements-f641e70",
+    "sha256": "0i726p2xxgz51km37zwa0sq26qrx58pm007f9935kj8h62bivgq4",
+    "hash": "sha256-BL8dlzAQyVlGSu4AUC8qPWMjsAaK/zPqDOW/3sU14kQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "python-requirements_requirements"
+  ],
+  "kind": "plain"
+}

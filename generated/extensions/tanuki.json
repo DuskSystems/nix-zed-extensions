@@ -1,0 +1,19 @@
+{
+  "name": "tanuki",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dylf/zed-tanuki",
+    "rev": "7d8d8cce94ac0c1b6dd1bafa4733fdc4241cbe00",
+    "date": "2024-07-14T09:15:06-07:00",
+    "path": "/nix/store/wkvdp5gh51yak8ipsn2073llrf6z9w59-zed-tanuki-7d8d8cc",
+    "sha256": "1a146gg2vv95yfc6587y9lcjv5ckqadlz4d6fi4dz6jy7215qf68",
+    "hash": "sha256-yDhcgjhemt9IdKaRT5vCk5UtGU3+oGKY8yXtLd4zJKg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

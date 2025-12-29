@@ -1,0 +1,18 @@
+{
+  "id": "openscad_openscad",
+  "name": "openscad",
+  "version": "bb1e12023e59489c0892af0c0c9a5b323af69df6",
+  "src": {
+    "url": "https://github.com/bollian/tree-sitter-openscad",
+    "rev": "bb1e12023e59489c0892af0c0c9a5b323af69df6",
+    "date": "2024-03-25T21:09:19-07:00",
+    "path": "/nix/store/2sgvixcsi49nx0v3y6wrdqfswcrns2bn-tree-sitter-openscad-bb1e120",
+    "sha256": "0rqzxri9q3rgsvsjnxj917vhr7f4j2kh1ag9rcvkn6y0wpqfwk72",
+    "hash": "sha256-4kzu8OXAGzs3y+mpAKeQxJ0M9wlJdiv11i8PnGLuH2c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

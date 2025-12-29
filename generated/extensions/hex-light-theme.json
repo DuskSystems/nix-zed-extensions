@@ -1,0 +1,19 @@
+{
+  "name": "hex-light-theme",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/coghost/light-zed-theme",
+    "rev": "07153d48b0b416f80e9a33aaf5713924f1403f6f",
+    "date": "2025-04-30T11:45:43+08:00",
+    "path": "/nix/store/yw4yflxqbnibizrhkvrwzd6sfs6dy6f5-light-zed-theme-07153d4",
+    "sha256": "0gb8n5pggia4ljw995ql8yynf3l2hw3l9k07fripfviv48npk4ir",
+    "hash": "sha256-OZJ5LSI7bndjdgfMRAeHgg5nvUcUl5S4pETF926xaD0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

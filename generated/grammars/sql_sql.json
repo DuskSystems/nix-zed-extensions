@@ -1,0 +1,18 @@
+{
+  "id": "sql_sql",
+  "name": "sql",
+  "version": "4a99c73f5384f2be10adc55208c84d95a7eb1137",
+  "src": {
+    "url": "https://github.com/DerekStride/tree-sitter-sql",
+    "rev": "4a99c73f5384f2be10adc55208c84d95a7eb1137",
+    "date": "2025-03-11T13:46:15Z",
+    "path": "/nix/store/qlqcd6c2jjpazis5cvbgz3rz47xxmk7d-tree-sitter-sql-4a99c73",
+    "sha256": "1dk9rkh2r54xin7rg74h5lw9vy77qgj8g3rrjzkf9v5m9k912fra",
+    "hash": "sha256-KjsR0ky17OTmlzmPh+TD5/idOC2QnJePjZ2ULODMabY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

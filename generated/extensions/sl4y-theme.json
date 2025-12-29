@@ -1,0 +1,19 @@
+{
+  "name": "sl4y-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/berkantay/zed-theme-sl4y",
+    "rev": "7b8607547a3d07593bb56ae6749bd2769916f563",
+    "date": "2025-10-26T15:30:04+01:00",
+    "path": "/nix/store/rcxf0yvcckd9x4lc90y0bvgcjw3jy9vs-zed-theme-sl4y-7b86075",
+    "sha256": "16gfds5168l7bkqdcyqs9rl9i6v6h069x1l15ajl2wipb1ncbrqp",
+    "hash": "sha256-F+fFbFg3ckGlKoGGngyAZpuYaE4ae9bwXIciE4pu7pk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

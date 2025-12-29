@@ -1,0 +1,18 @@
+{
+  "id": "gdscript_godot_resource",
+  "name": "godot_resource",
+  "version": "2ffb90de47417018651fc3b970e5f6b67214dc9d",
+  "src": {
+    "url": "https://github.com/PrestonKnopp/tree-sitter-godot-resource",
+    "rev": "2ffb90de47417018651fc3b970e5f6b67214dc9d",
+    "date": "2024-04-01T23:08:42-07:00",
+    "path": "/nix/store/wzcgf33qjrwq3afdnm7x8z5flc25g8l7-tree-sitter-godot-resource-2ffb90d",
+    "sha256": "199736drslg7wfl956k2nqmy7bp212cdlahfa8q3nzrwdry45p61",
+    "hash": "sha256-wdxCfG48fzswUg4q2pgI4q7jK7ZimpKo4+dRnZsZJ6U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

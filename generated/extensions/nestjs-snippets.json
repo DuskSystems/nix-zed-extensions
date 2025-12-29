@@ -1,0 +1,19 @@
+{
+  "name": "nestjs-snippets",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/ayberkgezer/nestjs-snippets",
+    "rev": "6cc779aaf53929e36bfec2b7d99dbf78b14ea570",
+    "date": "2025-03-26T10:19:11+03:00",
+    "path": "/nix/store/196a7hbbfk1v38ql1d2dci138qyimxk1-nestjs-snippets-6cc779a",
+    "sha256": "147b4adrhc85iqn7dc4q3xpm57vhadyqgaav6fqplkm2616zvq6m",
+    "hash": "sha256-1eD9TTCiTnqxM1uph31TcJ9Sbx+YsHYsjgUxmJsi65A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

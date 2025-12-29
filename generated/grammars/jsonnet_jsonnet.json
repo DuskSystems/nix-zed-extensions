@@ -1,0 +1,18 @@
+{
+  "id": "jsonnet_jsonnet",
+  "name": "jsonnet",
+  "version": "ddd075f1939aed8147b7aa67f042eda3fce22790",
+  "src": {
+    "url": "https://github.com/sourcegraph/tree-sitter-jsonnet",
+    "rev": "ddd075f1939aed8147b7aa67f042eda3fce22790",
+    "date": "2024-08-15T10:26:01+02:00",
+    "path": "/nix/store/znirgm641msi0zh5wgbwc5amyk04iwdv-tree-sitter-jsonnet-ddd075f",
+    "sha256": "1bfdjxp0h95d124bzlhlvc9b5q19cdj716aym41nyl6z5a992c9q",
+    "hash": "sha256-ODGRkirfUG8DqV6ZcGRjKeCyEtsU0r+ICK0kCG6Xza0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

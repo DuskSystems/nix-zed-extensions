@@ -1,0 +1,21 @@
+{
+  "name": "edi",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/hugginsio/zed-edi",
+    "rev": "eeb24b54477a6f6fc5ece3ab606bbf3ec98f10ef",
+    "date": "2024-11-25T13:55:15-06:00",
+    "path": "/nix/store/4nv38x3j7s8v0flari1cc90ayv1abkg6-zed-edi-eeb24b5",
+    "sha256": "0fxy8jk71ihr6b3r3iq759014cmlssy3cllb0432qb883bral7m2",
+    "hash": "sha256-oh6q8hoILSwGAYtSNrzWtDISQCoHx5HHMhnGcKZEvjs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "edi_x12"
+  ],
+  "kind": "plain"
+}

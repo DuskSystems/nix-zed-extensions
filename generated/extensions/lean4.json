@@ -1,0 +1,27 @@
+{
+  "name": "lean4",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/blackbird314/zed-lean4",
+    "rev": "727524811125f2cb6742151b0e0b5e923cd5ad43",
+    "date": "2025-07-26T06:29:01+08:00",
+    "path": "/nix/store/qy7ifj96cvg3vgx67xxfgd59yqrc49nk-zed-lean4-7275248",
+    "sha256": "1v5pv0s2ccsqlq0fjy3f3ys3ja45qpbvwyj3y08ci6hm7grb3brk",
+    "hash": "sha256-M6+x8jsVmsgQ8EN6vtfFhSg5tB9ueOkAplgzJjTYt+w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "lean4_lean"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-d0CThD2HHS1TmCeeqt/1h347pubEfOAg7Qn8mo94uIo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/lean4.lock",
+    "outputHashes": {}
+  }
+}

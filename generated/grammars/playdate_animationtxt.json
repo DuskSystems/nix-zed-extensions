@@ -1,0 +1,18 @@
+{
+  "id": "playdate_animationtxt",
+  "name": "animationtxt",
+  "version": "004ecde4b57c68b7d337a06655d2e15228f34396",
+  "src": {
+    "url": "https://github.com/notpeter/tree-sitter-animationtxt",
+    "rev": "004ecde4b57c68b7d337a06655d2e15228f34396",
+    "date": "2025-12-09T12:01:58-05:00",
+    "path": "/nix/store/ssy5c4if34c3ql9n4mrky5gw213i12zk-tree-sitter-animationtxt-004ecde",
+    "sha256": "1s84c99hcpsgcfqs8r5cjnqpvpsryqv3k2f0zjhpxrbpssmdhr0f",
+    "hash": "sha256-DmTYqtZ35X6h/MCJOTb2Wd99sZWsZKSxY09fBlNiBOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

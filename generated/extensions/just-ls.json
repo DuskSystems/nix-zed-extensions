@@ -1,0 +1,21 @@
+{
+  "name": "just-ls",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/sectore/zed-just-ls",
+    "rev": "0ff16f938ac84daa3383dd7680c80b2a708433a2",
+    "date": "2025-08-05T18:28:42+02:00",
+    "path": "/nix/store/3wm1na5nbyaj0vdh8xqkjas6gjhgcxyw-zed-just-ls-0ff16f9",
+    "sha256": "11r39fqmdwfxbx622xsi23348dgwid8nibppik11gximnvdixk5v",
+    "hash": "sha256-u8we27Y19hfCjPeuaFGL/DVExhBRdyFMX93xVrFLI4c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-GfsWjI67AD9NhpUvDbDK3qYSIejOjIv6Oqj4a5gIfc0="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "kamui-dark-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://gitlab.com/kamuiqf/zed-kamui-theme",
+    "rev": "eb722a5d838945f99b4a1b08f23aa89a49d6b7c5",
+    "date": "2025-01-19T20:11:41+02:00",
+    "path": "/nix/store/c8s6s66nkycf00viqlnhxx1x8c6y73z7-zed-kamui-theme-eb722a5",
+    "sha256": "1wsakr9d87wx308g09551yhv3zbj7yi4dypcy64mi33ncbwnidxp",
+    "hash": "sha256-t7do+WJ2jFiJ8ez6RqI/cv2xoQ+lJPAQGJ0f1FKeSvM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

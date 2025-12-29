@@ -1,0 +1,23 @@
+{
+  "name": "cairo",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/trbutler4/zed-cairo",
+    "rev": "a97a5dba9fd218debe32b5d7f22e6b77667face7",
+    "date": "2025-06-17T14:02:30+02:00",
+    "path": "/nix/store/c4p2dq8fgz2ic2c9da41x4y3ndsdam3f-zed-cairo-a97a5db",
+    "sha256": "12qpgdhdlmpn2hl4d7vnrv4zkfpwpyhfb2ixbrflkh9bgpk7x5j7",
+    "hash": "sha256-R5Z+5n0rwUldXj2K5aC//Lr5yc52n0YoFPZW2mB7F4s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cairo_cairo"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-+RJx+dpu0bf0bkDItDLJxCByuNM9ZmW7itg6Yxr8GQ8="
+}

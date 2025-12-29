@@ -1,0 +1,23 @@
+{
+  "name": "http",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tie304/zed-http",
+    "rev": "f550b160df0f2423cc8eeaaf446054c7624fdc8d",
+    "date": "2024-07-23T16:42:26-05:00",
+    "path": "/nix/store/2b1clr4qal6v5xzkwf0851nv61ms07by-zed-http-f550b16",
+    "sha256": "1g9svpz5rw7lwmbvfixppbqciy7cgavhcskln7c01xf1dyavlycq",
+    "hash": "sha256-mHm6lW/B9QDYsXRqBrd67PjI8Lq3R7dX5fTwXP7dOr0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "http_http"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-6GvJ9Fu8gRxzsIl9gAGxc0myXeFq1Hor9HLNKRRxVCQ="
+}

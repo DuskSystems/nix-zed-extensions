@@ -1,0 +1,21 @@
+{
+  "name": "cedar",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/chrnorm/zed-cedar",
+    "rev": "64fc0b05aea1ea46aec710fc59bc7e4471570e12",
+    "date": "2024-05-13T10:40:02+01:00",
+    "path": "/nix/store/18b2qy25ffh3335z5r0d2021j73fmisd-zed-cedar-64fc0b0",
+    "sha256": "1ywc87g7qzarffjbldbzy3wy35nm396mababrs3shm82mfx3mayc",
+    "hash": "sha256-zKs6uqsCVaiHzkstVU0a1Zbh+fB/Nbqkc1l9fN5BjPs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cedar_cedar"
+  ],
+  "kind": "plain"
+}

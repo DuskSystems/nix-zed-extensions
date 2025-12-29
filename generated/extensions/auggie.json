@@ -1,0 +1,19 @@
+{
+  "name": "auggie",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/augmentcode/auggie-zed-extension",
+    "rev": "5ee8284c9179a960acc7278f1916647abf7f1de0",
+    "date": "2025-11-24T11:45:24-08:00",
+    "path": "/nix/store/z9nn6hc5xffp02gn9i4l5gh16awkcnkn-auggie-zed-extension-5ee8284",
+    "sha256": "1548ykp1mvv8iicslxparfca85plfg39l5vv92ik34anvdckb0f0",
+    "hash": "sha256-wIE1WdtWkTGjSHsXmsZz9BakmMvqdqpZjGjvGu70iJQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

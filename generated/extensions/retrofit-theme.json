@@ -1,0 +1,19 @@
+{
+  "name": "retrofit-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/snapsnapturtle/retrofit-zed",
+    "rev": "708a244101cdae7de1f8d8886b6d28456c276385",
+    "date": "2025-06-26T22:13:57+02:00",
+    "path": "/nix/store/bcd5m502rx14wgr91mxvi4x93c5s86cb-retrofit-zed-708a244",
+    "sha256": "18wdrrf5ncmvbh7bppmdaifdnaxdscdi0wsss6pl8i8k8rlzb688",
+    "hash": "sha256-CJn1aUYTRUSv0VpzEBvTrSvbXFSt3rsOXLsyW1zOjaM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

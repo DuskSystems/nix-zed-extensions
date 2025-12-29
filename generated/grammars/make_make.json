@@ -1,0 +1,18 @@
+{
+  "id": "make_make",
+  "name": "make",
+  "version": "5e9e8f8ff3387b0edcaa90f46ddf3629f4cfeb1d",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-make",
+    "rev": "5e9e8f8ff3387b0edcaa90f46ddf3629f4cfeb1d",
+    "date": "2024-12-21T13:59:08-05:00",
+    "path": "/nix/store/01k4y69x8rxqjyzn3bhrmbwivakgzlf0-tree-sitter-make-5e9e8f8",
+    "sha256": "0g8k9rfmc979lza2cx5xwla1ic2p9hpvm0h2sgfs4r29kw1a2ass",
+    "hash": "sha256-WiuhAp9JZKLd0wKCui9MV7AYFOW9dCbUp+kkVl1OEz0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

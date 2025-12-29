@@ -1,0 +1,18 @@
+{
+  "id": "ember_glimmer",
+  "name": "glimmer",
+  "version": "6b25d265c990139353e1f7f97baf84987ebb7bf0",
+  "src": {
+    "url": "https://github.com/ember-tooling/tree-sitter-glimmer",
+    "rev": "6b25d265c990139353e1f7f97baf84987ebb7bf0",
+    "date": "2024-03-19T18:09:45-04:00",
+    "path": "/nix/store/ljk113p5l8kfjbbaada96dcwmwqaglab-tree-sitter-glimmer-6b25d26",
+    "sha256": "05g357dqdg4w54kbqjlcp8c722jynkaslc25gd29zsy2ff0xlckb",
+    "hash": "sha256-azLagXPC659Ee0UwqtW0XgpxGLqMSrwmKZy8htsp4xU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

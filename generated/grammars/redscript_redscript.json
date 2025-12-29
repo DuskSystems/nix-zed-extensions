@@ -1,0 +1,18 @@
+{
+  "id": "redscript_redscript",
+  "name": "redscript",
+  "version": "d2037518873b1a7e1b83c96063cd71f89b3d0edf",
+  "src": {
+    "url": "https://github.com/jac3km4/tree-sitter-redscript",
+    "rev": "d2037518873b1a7e1b83c96063cd71f89b3d0edf",
+    "date": "2025-04-05T12:24:55+01:00",
+    "path": "/nix/store/svdazd2p9i2c9hapzgv6hqxdyd4n596z-tree-sitter-redscript-d203751",
+    "sha256": "0sy4zjrlangdavdbczlsn1i2gxpr113bymj4nwyj8sn8bdxzb0d4",
+    "hash": "sha256-pIH1e1vIaiQ9t0RWv0YI+fYnYrCafrbaVu1ZRbP8xGs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

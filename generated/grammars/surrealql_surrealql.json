@@ -1,0 +1,18 @@
+{
+  "id": "surrealql_surrealql",
+  "name": "surrealql",
+  "version": "9b341754ed2cc04687f3854326b27842de67f693",
+  "src": {
+    "url": "https://github.com/ce11an/tree-sitter-surrealql",
+    "rev": "9b341754ed2cc04687f3854326b27842de67f693",
+    "date": "2024-08-25T21:07:28+01:00",
+    "path": "/nix/store/yy56g9acajn7mh8f0kk2mjpxavp24n13-tree-sitter-surrealql-9b34175",
+    "sha256": "015n1a6y1wxfnsaj6pki9gghkr7c2x7hgq6c7cm038109i7qpa1l",
+    "hash": "sha256-NKiLT0wgoAEqO8zgB08X7OQJ30txXiOVtq7z4I0KtgQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

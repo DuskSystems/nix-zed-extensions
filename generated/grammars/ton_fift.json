@@ -1,0 +1,18 @@
+{
+  "id": "ton_fift",
+  "name": "fift",
+  "version": "72ca555044412129c1eb8a8639c345e838e63b63",
+  "src": {
+    "url": "https://github.com/Bionic2113/tree-sitter-fift",
+    "rev": "72ca555044412129c1eb8a8639c345e838e63b63",
+    "date": "2025-07-13T13:59:42+05:00",
+    "path": "/nix/store/a20wim8s8cp277dgvy5df04522091ll4-tree-sitter-fift-72ca555",
+    "sha256": "0h33lm369xmjj03dg9pkg4b7va34iywyg78i84b1124zqwwj8msy",
+    "hash": "sha256-XlckOcefiBAWQRGd57mPZKh9FnnzptcGkLL2ZEalY0A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

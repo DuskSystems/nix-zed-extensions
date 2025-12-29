@@ -1,0 +1,23 @@
+{
+  "name": "viewtree",
+  "version": "1.0.6",
+  "src": {
+    "url": "https://github.com/Dev-cmyser/zed-view.tree-mol-support",
+    "rev": "d81bb55c18846f10b3546b5738352a5c016b56a5",
+    "date": "2025-10-22T20:47:43+03:00",
+    "path": "/nix/store/9nsacl00zyym1wg2v4dp8lrihhd6xsz4-zed-view.tree-mol-support-d81bb55",
+    "sha256": "06qbc4dbp3maflf3sk4gf1lcjghpnnk5xvayiy525s58jfd37wlh",
+    "hash": "sha256-kPIzmpOo6CKKj17tXqa1Fz7JaHCPTD0cdaqOuxphCxs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "viewtree_viewtree"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UExOhmcchbRy5AIMfZwG0VjUNJULrCuoXpLhynhRoXY="
+}

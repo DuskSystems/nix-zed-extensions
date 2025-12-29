@@ -1,0 +1,18 @@
+{
+  "id": "jsp_jsp",
+  "name": "jsp",
+  "version": "527dff4962bf47a9bad0814d4db172e6aadb9090",
+  "src": {
+    "url": "https://github.com/tartarughina/tree-sitter-jsp",
+    "rev": "527dff4962bf47a9bad0814d4db172e6aadb9090",
+    "date": "2025-08-10T11:16:45+02:00",
+    "path": "/nix/store/y7z0lrfhk1sbifw7dkc2w2a3z04s989y-tree-sitter-jsp-527dff4",
+    "sha256": "1svsykfkcw28drgxwjlrlb1c4jgf787rdg69iqk13l9rzzj028z6",
+    "hash": "sha256-5iMB5P850REmjsm8lg867knCwqKZSt5fbkhwNt30eus=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

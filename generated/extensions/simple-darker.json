@@ -1,0 +1,19 @@
+{
+  "name": "simple-darker",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/DP19/zed-theme-simple-darker",
+    "rev": "b0bf99fdc753ec874de440824d289cd1c16d7e9a",
+    "date": "2024-06-07T23:15:00-04:00",
+    "path": "/nix/store/krdjgnbn0h76kj8lizq715bc6bvr0v6g-zed-theme-simple-darker-b0bf99f",
+    "sha256": "01mr4q7dim1ylbsszff2yzqr8c0bw4yd1gvyksv2xxv642ndmbsb",
+    "hash": "sha256-S6/arCBm9y62nn6/0DzhCzCU8ffCua/1oj7U2A4muQY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

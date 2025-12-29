@@ -1,0 +1,23 @@
+{
+  "name": "twig",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/YussufSassi/zed-twig",
+    "rev": "5e94550cd5326dd1af8703afae6dbda731f5dd40",
+    "date": "2025-10-20T12:18:31+02:00",
+    "path": "/nix/store/bsfh91hpd24dyawdvprkd4diawkanwaf-zed-twig-5e94550",
+    "sha256": "0j4iajdp98xgxxmwnzysbilcrxxq6bd72qbf6jb6yw5cs1q31jm4",
+    "hash": "sha256-pMowcNCscG+WNG5hcdoyuPfMaFzaf8tr76+jdJtUkUg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "twig_twig"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-aeGomI+3tFwH0iaeAEEl07MiolewktMTkNDGIgLd5Ps="
+}

@@ -1,0 +1,27 @@
+{
+  "name": "bqn",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/DavidZwitser/zed-bqn",
+    "rev": "491d20df9f194ab2be106958a1d1caf9a2c22c37",
+    "date": "2024-06-25T12:24:43+02:00",
+    "path": "/nix/store/l13c0d3vkq7m679fl3hin144ki626af1-zed-bqn-491d20d",
+    "sha256": "0v4gj0b0wg8m0qn6c5jxn2fl654kn5dlx3fc54vknif157gg4rif",
+    "hash": "sha256-Lmby3inBRTs3KcyNTluxkxRDnbBdFmYsBhU9DhaQj2w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bqn_bqn"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nqvQyNLkcdZ/koDO/740GgY8KfDCND6T2dgkECoaOoE=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bqn.lock",
+    "outputHashes": {}
+  }
+}

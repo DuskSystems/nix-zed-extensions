@@ -1,0 +1,19 @@
+{
+  "name": "mau",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/mauscoelho/zed-mau-themes",
+    "rev": "9c8e80a44be95a622bb6564ad888cebe4230ec7b",
+    "date": "2024-07-23T15:20:27+02:00",
+    "path": "/nix/store/kl3vq0wvi94fwa6m3plb5sq1lzq749b8-zed-mau-themes-9c8e80a",
+    "sha256": "00lfa1i0wwm0j7m2mfk1fs9ny2hbbf60i2pmf6sm8c7wg5y1wfsh",
+    "hash": "sha256-UDsefHn8MFS1cfWKCIxbCwpvk3ZhuirqkaByDmJQjgI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

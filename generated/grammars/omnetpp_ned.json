@@ -1,0 +1,18 @@
+{
+  "id": "omnetpp_ned",
+  "name": "ned",
+  "version": "17f3e0bf95bc5dff79a7181bd8c489ec747766fb",
+  "src": {
+    "url": "https://github.com/omnetpp/tree-sitter-ned",
+    "rev": "17f3e0bf95bc5dff79a7181bd8c489ec747766fb",
+    "date": "2025-11-07T12:18:37+01:00",
+    "path": "/nix/store/0qiwnqwmmz95zqip96k20g1ga05mx4mz-tree-sitter-ned-17f3e0b",
+    "sha256": "1m7zqkp0bppkq5pq359cgdz8pvcy9y22r3zwp4sb0iwk2c8hfi5q",
+    "hash": "sha256-uEQHEROTR7A0ufyPLIRPnu2LfnsslYFvwfPeBe7E/9Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

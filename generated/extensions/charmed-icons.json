@@ -1,0 +1,19 @@
+{
+  "name": "charmed-icons",
+  "version": "0.10.0",
+  "src": {
+    "url": "https://github.com/jmesrje/zed-charmed-icons",
+    "rev": "883209edf9caba528fa13aa44713e425418a5e19",
+    "date": "2025-05-28T13:55:03-05:00",
+    "path": "/nix/store/y89p3dj1zkljlvgsl4cc7jfb9mbvqz4z-zed-charmed-icons-883209e",
+    "sha256": "0zrv8ggsl935y66pjy85q3g4lzmibqfdjm6mx442mi2pdp7f72vj",
+    "hash": "sha256-covjzm1XxCoI6dVU2RxesX5K3sAFeXmN8WUkqt9DO38=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "haku-dark-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ArthurBrussee/haku_dark",
+    "rev": "8d7710a9ff5190458e139af7ca0a3671a8834c25",
+    "date": "2025-03-26T23:55:37Z",
+    "path": "/nix/store/afns3a2hz6mpgwvv1z8dcwkr78ii0j30-haku_dark-8d7710a",
+    "sha256": "1dmkhy5ljgc144ak63rkylj874rs9qc7pwckv64562i3wzaw4g8f",
+    "hash": "sha256-Dj3C1ecjClOI2ZPxexhOOpODJPUzDzMVIYE9SYuHs7Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

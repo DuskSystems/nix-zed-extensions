@@ -1,0 +1,19 @@
+{
+  "name": "flutter-snippets",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/luisdanieldlcg/flutter-snippets",
+    "rev": "1b21556c0ddee8f662d82038694a2edde0320acd",
+    "date": "2025-10-14T17:20:13-04:00",
+    "path": "/nix/store/0b9m6df992hvrhc21vkzqgafh0hrh3rj-flutter-snippets-1b21556",
+    "sha256": "1vck7zn03y0zkphphdysq1k8cxi27010iq42fvnqrwh74gg813k1",
+    "hash": "sha256-YY6A3iMH8oztdoLgCAI4InaGZsDaN3jhnR/4Aew/k+0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

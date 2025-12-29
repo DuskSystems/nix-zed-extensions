@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-miaoduo",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/benmooo/zed-mcp-server-miaoduo",
+    "rev": "89f1e9492c8ebdb3a49975af391b6f203119841c",
+    "date": "2025-06-03T10:26:40+08:00",
+    "path": "/nix/store/ryhjdam5wc8ldjd1cl1l7m9zh9d9811n-zed-mcp-server-miaoduo-89f1e94",
+    "sha256": "1v3jvnxwcip0kafbnspxbqrx0s1b90gwm6562vpw4llajgshmzkq",
+    "hash": "sha256-eP4K9ZOKUsLvFqaYyh9IK2jQM179arucmuBGxrvdcuw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wah5Gni8EwTVK0IsyrNbzCMYBoNQryPd7CR9IOGcK/E="
+}

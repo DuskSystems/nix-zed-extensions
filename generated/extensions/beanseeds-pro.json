@@ -1,0 +1,19 @@
+{
+  "name": "beanseeds-pro",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/tokiory/beanseeds-pro",
+    "rev": "33615cfb8195f43db3f6460f060d74797e169699",
+    "date": "2025-05-12T04:09:57+03:00",
+    "path": "/nix/store/3z2w1hprib2z2skmk8h153w4s0as41cd-beanseeds-pro-33615cf",
+    "sha256": "0q8d76zs3z1y2ggfksbwp4ibx6vwmjs7lrdawcbpxj4kyba1xbdr",
+    "hash": "sha256-ua0e1PKTyH4X46plerSsfJu+Irl86eneEz78ob85DWE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

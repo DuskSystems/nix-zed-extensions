@@ -1,0 +1,19 @@
+{
+  "name": "codely-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/GOI17/codely-theme-zed",
+    "rev": "c16998c1bb45e5e1acb1ae082d9b48f9904a9ecf",
+    "date": "2025-07-15T18:13:46-06:00",
+    "path": "/nix/store/gcwl73nk6zsfrqwrgrxma8pqd4nh0pm8-codely-theme-zed-c16998c",
+    "sha256": "1xac4gj7wlazkm19ggrcsqgmrk4479pdh9f4mxw9r61ack9hnyym",
+    "hash": "sha256-1XsL02QqmJx4r8Ql2G46hMxcH9Ysv5dCnV9RfuQjTPU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

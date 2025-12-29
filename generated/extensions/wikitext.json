@@ -1,0 +1,21 @@
+{
+  "name": "wikitext",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Benjamin-Davies/zed-wikitext",
+    "rev": "4cf7872a88aa79e10a46b105863fefd6efd86c7d",
+    "date": "2025-11-24T17:32:29+13:00",
+    "path": "/nix/store/dms9p94syfds3w0a6hjykr6rqigvnlhi-zed-wikitext-4cf7872",
+    "sha256": "0ykk1rwblcsk3kkf0i6pqxf6dx7zf3bpq3qdc3wyqvkscrz0kxa1",
+    "hash": "sha256-QfUJfmZ6buz5YA0PfNdw//RmXMfXRODmHFMzungOc3o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wikitext_wikitext"
+  ],
+  "kind": "plain"
+}

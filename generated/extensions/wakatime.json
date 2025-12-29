@@ -1,0 +1,21 @@
+{
+  "name": "wakatime",
+  "version": "0.1.10",
+  "src": {
+    "url": "https://github.com/wakatime/zed-wakatime",
+    "rev": "32c1caa07aadcaa2d34c4d1fa08393eb83d829e3",
+    "date": "2025-11-05T18:20:18+08:00",
+    "path": "/nix/store/380hr0z2hb80ykp2bikhwnp68zb035ch-zed-wakatime-32c1caa",
+    "sha256": "009nfk9f3m3mgqsd6104pkwipyxd2vwpdnlwx4f1jd6c25wvws96",
+    "hash": "sha256-Jmm+eRHMNBkc6ZzadvkWrfsb+bwEBNM0fnXU4dJ0NgE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-x2axmHinxYZ2VEddeCTqMJd8ok0KgAVdUhbWaOdRA30="
+}

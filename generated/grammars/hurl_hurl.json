@@ -1,0 +1,18 @@
+{
+  "id": "hurl_hurl",
+  "name": "hurl",
+  "version": "ff07a42d9ec95443b5c1b57ed793414bf7b79be5",
+  "src": {
+    "url": "https://github.com/pfeiferj/tree-sitter-hurl.git",
+    "rev": "ff07a42d9ec95443b5c1b57ed793414bf7b79be5",
+    "date": "2024-09-14T17:17:25-04:00",
+    "path": "/nix/store/xqd7pixgy4a4vpqmj6l08hs58wg9x3hg-tree-sitter-hurl-ff07a42",
+    "sha256": "08fgph7b2rw0kvmrs5yq15yryg0apm51iwzvvvclkllkjna53r7n",
+    "hash": "sha256-9uRRlJWT0knZ3vvzGEq9CjyffQnYF53rnoBnsQ68zyE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

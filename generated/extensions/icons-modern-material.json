@@ -1,0 +1,19 @@
+{
+  "name": "icons-modern-material",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/JosMiguelMM/icons-modern-material",
+    "rev": "a8150fab9c9c2977d5e8bfa2b04396707a25f9c9",
+    "date": "2025-11-25T01:10:18-05:00",
+    "path": "/nix/store/rw95cyddc5xccbln71ji5xs5gy74aipj-icons-modern-material-a8150fa",
+    "sha256": "15pm8m6jnc7sv2d7r0bvlpb64znyhqz64xwgqqjav7jswhj2l141",
+    "hash": "sha256-gQQqJORanq0kxo93Yj6G3n5i1qV7gXya2PowK01F9ZY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

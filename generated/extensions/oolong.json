@@ -1,0 +1,19 @@
+{
+  "name": "oolong",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/jmg-duarte/oolong-zed",
+    "rev": "932aaed4123026b6eee0b536e3ac6d7b1baf4b6b",
+    "date": "2025-06-16T09:31:39+01:00",
+    "path": "/nix/store/y631kx2rrdgz0yxc6bgx5xynjq3r03vv-oolong-zed-932aaed",
+    "sha256": "03rfvipb6d4bi99bblpsb5iap76ij652l1yxllymvzgxlj59lmk4",
+    "hash": "sha256-ZFaaiqT9/V09pd0HKoqR0ZyrYln60rVSios0s27cLg8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

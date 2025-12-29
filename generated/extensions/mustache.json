@@ -1,0 +1,21 @@
+{
+  "name": "mustache",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/neoncitylights/zed-mustache",
+    "rev": "9f3f2b2d5f69858b2a9d23ca14f5be5b491db524",
+    "date": "2025-07-09T12:12:09-05:00",
+    "path": "/nix/store/x037r4r2majjvr0ac2rdg53bmjbjpmf0-zed-mustache-9f3f2b2",
+    "sha256": "1jaam8walv6jfy1vqmw63wnhm2m19gjq82pv580zaf5bjqabvppj",
+    "hash": "sha256-8t69FJarOPUBKvsKhOVLoYoKLR+GV7yDd9JsqjiqSsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mustache_mustache"
+  ],
+  "kind": "plain"
+}

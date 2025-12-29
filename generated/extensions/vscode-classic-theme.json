@@ -1,0 +1,19 @@
+{
+  "name": "vscode-classic-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/CharlesSBL/-vscode_classic_theme.zed",
+    "rev": "28fe587eebc8193f622194f25cd308694cc46f76",
+    "date": "2024-10-01T00:42:36+02:00",
+    "path": "/nix/store/hz7jg5c3h8qgwnchjvz71cc5vamwfkxi--vscode_classic_theme.zed-28fe587",
+    "sha256": "0s7h0rl4ax0yb87dmrkg77apdb6bnvgy0y3b6dqif9r1p94csrn1",
+    "hash": "sha256-wWbNSLohJxdxM2t44N+2y6x21Tlv5toOWh50RWgG8Gg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

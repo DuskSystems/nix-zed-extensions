@@ -1,0 +1,23 @@
+{
+  "name": "prolog",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Gaspartcho/zed-prolog",
+    "rev": "c0dd029f6edb62b30654d77b96a24dfffde3b9be",
+    "date": "2025-11-13T14:56:39+01:00",
+    "path": "/nix/store/kbmq4i1qmpgsaprd2i44i1afw7m1603k-zed-prolog-c0dd029",
+    "sha256": "1c9pgb29c6c11jpx7bd3lyb96kj2r70c51sgqbsh9s1yxf5b5mwf",
+    "hash": "sha256-jteyius+6AT1wk+HwsDJQk6TlqejrdOvDIEZlsR6N7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "prolog_prolog"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-BuxrRfr5LJk6V8gHApVz/swi9QkwtV7o3Yyps57uahU="
+}

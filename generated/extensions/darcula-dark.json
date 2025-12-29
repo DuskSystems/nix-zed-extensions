@@ -1,0 +1,19 @@
+{
+  "name": "darcula-dark",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/not-a-cowfr/Darcula-Dark",
+    "rev": "73a5066e51bb04fc500ffb35fea95e4441e7960e",
+    "date": "2025-03-12T17:42:13-07:00",
+    "path": "/nix/store/wx3zxd7gd3955d7zn16yyrd4rx2h9xd0-Darcula-Dark-73a5066",
+    "sha256": "17f17i89n0qwdwhv4wzqqmr092mfyr5m1vkcpqrn526r1r4p81rl",
+    "hash": "sha256-NAd0SQ7ZiGIzvmzuUEv2rooEcsX4c7IhbxwDm1A8wZ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

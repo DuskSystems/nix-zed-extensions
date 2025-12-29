@@ -1,0 +1,18 @@
+{
+  "id": "fortran_fortran",
+  "name": "fortran",
+  "version": "87f43efa6d40c00d8ceb9831082348fa82f84ac3",
+  "src": {
+    "url": "https://github.com/Xavier-Maruff/tree-sitter-fortran-wasm",
+    "rev": "87f43efa6d40c00d8ceb9831082348fa82f84ac3",
+    "date": "2025-07-26T12:50:23+10:00",
+    "path": "/nix/store/rw6lvkwfyr2g756zvh1bwmrwfjpbcvr9-tree-sitter-fortran-wasm-87f43ef",
+    "sha256": "0nk8bg6s1wp0r7qr2m4a8sdbnswi7diyhgnbaqi789fkxkcv5n72",
+    "hash": "sha256-4tiy2ezTJXQiVss+6GM7kWu7mkaKVJHxyeDyoM1baFo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "zedokai",
+  "version": "1.2.2",
+  "src": {
+    "url": "https://github.com/slymax/zedokai",
+    "rev": "b4c5a0b8b66f1889bd1eabafe5e984372ebff7a5",
+    "date": "2025-04-03T22:58:34+02:00",
+    "path": "/nix/store/llq3lknl89mqxmapvgdz8w2q4db1qp9y-zedokai-b4c5a0b",
+    "sha256": "09q4aavllii83kjjvd1mwcpjmnhrizxxpd155cjplvnhz4kkl8zm",
+    "hash": "sha256-9SM6J/nQbnolKyW02/uPGdoqL+M1tC3lHChGSrdSBCc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

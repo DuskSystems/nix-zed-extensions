@@ -1,0 +1,21 @@
+{
+  "name": "rhai",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/elkowar/zed-rhai",
+    "rev": "6911d1a9d22effc3056d7a4ada3b9d7734d4b033",
+    "date": "2024-12-16T18:26:31+01:00",
+    "path": "/nix/store/jq785k5qpckp8c49f68im0mcjavvrqqm-zed-rhai-6911d1a",
+    "sha256": "0djffdndc5r7dxpbn8nh30ddly3kqjvfd068idjy5xlnk2x8g2vr",
+    "hash": "sha256-eYuHupiW9uJli8iA5rbEc3jaGhjQIrtubycX1mxzTjY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rhai_rhai"
+  ],
+  "kind": "plain"
+}

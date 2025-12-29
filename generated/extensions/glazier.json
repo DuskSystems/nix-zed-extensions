@@ -1,0 +1,19 @@
+{
+  "name": "glazier",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/airgap/glazier",
+    "rev": "bfcb45df94624ce9e9df1b00b76b3260726b88d3",
+    "date": "2024-04-11T17:06:57-04:00",
+    "path": "/nix/store/0h3l2f8w18k5zsbj5qmjksiglwyzqd88-glazier-bfcb45d",
+    "sha256": "1c1cy7g31vwf0fjfxiss7j8nqz7hp4bkzd1x7vgd882b96g6md6f",
+    "hash": "sha256-zrRqnklLINTePj20Pxe58HxskTxax+6kA47vMN7xLLA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

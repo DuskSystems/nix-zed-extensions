@@ -1,0 +1,18 @@
+{
+  "id": "sourcepawn_sourcepawn",
+  "name": "sourcepawn",
+  "version": "6b9bf9cbab91443380d2ca8a2f6c491cc7fac5bf",
+  "src": {
+    "url": "https://github.com/nilshelmig/tree-sitter-sourcepawn",
+    "rev": "6b9bf9cbab91443380d2ca8a2f6c491cc7fac5bf",
+    "date": "2024-07-22T20:41:55-07:00",
+    "path": "/nix/store/8bjy31i0bwiwcj0qbix9vri1c23dpg3k-tree-sitter-sourcepawn-6b9bf9c",
+    "sha256": "0ndrn84w085x142gx8jl8sidjnpb0n33668l6fmwvmglkq4wcf6q",
+    "hash": "sha256-2DjGCZ701c2rMxQZM4YF61rZokZUov4ECb0gwAmyuVk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

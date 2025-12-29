@@ -1,0 +1,19 @@
+{
+  "name": "rust-rover-dark-theme",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/blkmlk/RustRover-Zed-Theme",
+    "rev": "55d80bc0d155e2f5424e3a535df61e8a08156c27",
+    "date": "2025-04-15T22:49:34+03:00",
+    "path": "/nix/store/nil6739w1k84m8r2nvj3b46cl5244bny-RustRover-Zed-Theme-55d80bc",
+    "sha256": "090h9k8lcan808k7jd4zyh9dx6sn1rgnsc8pddjyn56r4isxs37l",
+    "hash": "sha256-9AzddSTZFOtlaxcxbV8OVpveEvSfNHkmAsgqRtFMECQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

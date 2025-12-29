@@ -1,0 +1,18 @@
+{
+  "id": "wxml_wxml",
+  "name": "wxml",
+  "version": "997bd575d9d03669baaf2f097031828c039f43c4",
+  "src": {
+    "url": "https://github.com/BlockLune/tree-sitter-wxml",
+    "rev": "997bd575d9d03669baaf2f097031828c039f43c4",
+    "date": "2025-08-06T17:07:09+08:00",
+    "path": "/nix/store/ax7r8zfvrgz1kln7jhpml53xny3pfgp9-tree-sitter-wxml-997bd57",
+    "sha256": "0x91idgm4amsswacmw6valv9xqxwgfqg5dgbqdb1mlbmmng5i2xg",
+    "hash": "sha256-r4tYnq110RpWw+u18rB7vOOeNlXb8MoU17oqUl+LIXU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

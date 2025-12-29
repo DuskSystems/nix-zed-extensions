@@ -1,0 +1,21 @@
+{
+  "name": "groq",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/juice49/zed-groq",
+    "rev": "b63ae7ba649daf7d9ca89c00b97c0f9ee94a04f5",
+    "date": "2024-04-22T23:21:28+01:00",
+    "path": "/nix/store/idmvvmi4hm0arxq6h133qxkwgvxzy33w-zed-groq-b63ae7b",
+    "sha256": "144vjg7k1wk5ndnfdf0603mza4piwj8fbszfbqc4amcn1xjf49ib",
+    "hash": "sha256-KybiZA+WVUUYXu7r5ZDk8RL16wAGuOZss2XyMM+Tm5A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "groq_groq"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dwp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/shenlong21/zed-dwp-theme",
+    "rev": "36a177794324d0607e0768f0e3941fef653cc5eb",
+    "date": "2025-12-20T15:54:25+05:30",
+    "path": "/nix/store/dya9l3gsrg9mmr2s7x0cbnic4razqihn-zed-dwp-theme-36a1777",
+    "sha256": "0nfwyqn9l5z82ks53hrpqr73dh7r4cf80062q2qj6iyiwkw2z84k",
+    "hash": "sha256-k6Av+OTRRyOxwMIAgBwj+cA2TsY3w1H0FOgXmiz23Fk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

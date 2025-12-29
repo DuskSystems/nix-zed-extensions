@@ -1,0 +1,21 @@
+{
+  "name": "flow",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jthomaschewski/zed-flow",
+    "rev": "a7b48b08ac0d8b4bd2ba0ced03bc094c83dc0de5",
+    "date": "2025-10-14T19:21:03+02:00",
+    "path": "/nix/store/383cwpbyfnw83xcwmf63pnhdbs4w3h2c-zed-flow-a7b48b0",
+    "sha256": "1csm88pg4rra5a1ziy05g33p8pm4zhh2kixmv5ry9vxi891ggyag",
+    "hash": "sha256-T/n3QkKx7+Rz2bXHKSD8pF50x3gF+PiDKipn8i5CVbM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KzWwjsmkqFmNQcvzMZdUn6UE5Q4I1BGUoSsrosiWlmw="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lonely-planet",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Jbonez87/lonely-planet-theme",
+    "rev": "11d2bdb14d6a3277c149bbb424b80918305149d5",
+    "date": "2025-09-06T19:49:33-04:00",
+    "path": "/nix/store/gnilsskbffj4zs9aalfvcc56ipn79a0i-lonely-planet-theme-11d2bdb",
+    "sha256": "12n8bc2ldsy99wc7m2wjgg9v6w9fbr2q8h1d27hxyrsyszxc0cdw",
+    "hash": "sha256-vDHA+tdeZ9/hES1AhEVeLnGz03uSi3oYT8nrRgVbyIo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

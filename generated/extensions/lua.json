@@ -1,0 +1,24 @@
+{
+  "name": "lua",
+  "version": "0.1.7",
+  "src": {
+    "url": "https://github.com/zed-extensions/lua",
+    "rev": "346c2536d8e63b3008fb963816bd2abb49c65703",
+    "date": "2025-12-01T20:45:52+01:00",
+    "path": "/nix/store/25d352hk2g2l8p71187506w3c9yrmglh-lua-346c253",
+    "sha256": "04r16h0b1rwkh4dwhqfdg52q0azm10qsa1fcz354f48zm27kg8vl",
+    "hash": "sha256-dKM3j6gfEUfK+MwFpTEI9SuARXnNYcgbgZPnsAA0IRM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "lua_emmyluadoc",
+    "lua_lua"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uREwrQKVNTiDW/xbJYDA+CldKjYpLhGzt9J/kYPjmtg="
+}

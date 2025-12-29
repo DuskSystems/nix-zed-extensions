@@ -1,0 +1,19 @@
+{
+  "name": "ocean-dark-motifs",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/kirqe/zed-ocean-dark-motifs-theme",
+    "rev": "85601b4698201179c6dfcf8407a9489bbaf3dc21",
+    "date": "2024-07-03T22:25:44+03:00",
+    "path": "/nix/store/gz2j5h900786h4s7d36mikr4i80h9nn4-zed-ocean-dark-motifs-theme-85601b4",
+    "sha256": "1gadl33bgzgg8bkpl9gjignn5axrvcw1xca4g7k26lj2qmwkl5mc",
+    "hash": "sha256-rBY6ecVCUiPmeUSxHjjbuati7YvyJXrnQu/9t8agTb0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

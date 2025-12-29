@@ -1,0 +1,21 @@
+{
+  "name": "docker-compose",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/eth0net/zed-docker-compose",
+    "rev": "e55a2aeefc6a7c1beb67ee31c4b3c48cfa97783e",
+    "date": "2024-04-18T16:44:42+01:00",
+    "path": "/nix/store/alvhams52zjs8gpnfc8cs0xqzvcvlyz2-zed-docker-compose-e55a2ae",
+    "sha256": "09w8nf8212qfnzigkigzcspgz8isjdgxnhihnpycs1lz76sj6rhw",
+    "hash": "sha256-HGYjtTmfBs38tTBC21+TOqL/rmb/xfnitw6LIJCziCc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ZwtkTC4wDxu4ZSa8QZawBSbZfMLEbfdc5jC7UmzzcpQ="
+}

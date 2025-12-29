@@ -1,0 +1,18 @@
+{
+  "id": "yang_yang",
+  "name": "yang",
+  "version": "2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502",
+  "src": {
+    "url": "https://github.com/Hubro/tree-sitter-yang",
+    "rev": "2c0e6be8dd4dcb961c345fa35c309ad4f5bd3502",
+    "date": "2022-11-21T21:25:21+01:00",
+    "path": "/nix/store/43dy851ajkr2nns1lbhqqm1h53yg83zh-tree-sitter-yang-2c0e6be",
+    "sha256": "1vwcsp20dhccr2ag5s09j3jz9cnlkndb2hdn0h3va7md8ka0lhp8",
+    "hash": "sha256-6EIK1EStHrUHBLZBsZqd1LL05ZAJ6PKUyIzBBsTVjO8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

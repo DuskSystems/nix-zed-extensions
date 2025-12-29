@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-new-ui-icons",
+  "version": "2.2.1",
+  "src": {
+    "url": "https://github.com/ankddev/zed-jetbrains-newui-icons",
+    "rev": "9dd485d8bc7532a4d85491d9d6011f4258ee5da8",
+    "date": "2025-10-02T18:11:45+03:00",
+    "path": "/nix/store/ih7p0nc8gma0wr78rayip581ywn0d2ir-zed-jetbrains-newui-icons-9dd485d",
+    "sha256": "0qk7bl0hqmxdq9f0k7i39h5kma2cyzv793vc2f5ii6cjqva1mf7s",
+    "hash": "sha256-+rga1MaSmRiLE2yPdPb3TKg6C0wjnglcwq1XDAFdZ2I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

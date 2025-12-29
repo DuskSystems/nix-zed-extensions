@@ -1,0 +1,19 @@
+{
+  "name": "t3-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/stpn48/t3-zed-theme",
+    "rev": "c65fa306758befc345aeb490f135e955405fbc8c",
+    "date": "2025-07-13T22:06:46+02:00",
+    "path": "/nix/store/zig82splgrx1wr5dwadj8hgvdkvardkk-t3-zed-theme-c65fa30",
+    "sha256": "1x9vq92kryrw16ki7lcabn1x6sssvhiln2mxs87vmi0ivw8142mj",
+    "hash": "sha256-sgoSEN8RxLoP0r0KSyPcWmvTg12K0ROnCTz7PEXCO/U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

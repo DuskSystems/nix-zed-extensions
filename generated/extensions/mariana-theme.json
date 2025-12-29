@@ -1,0 +1,19 @@
+{
+  "name": "mariana-theme",
+  "version": "0.9.1",
+  "src": {
+    "url": "https://github.com/biaqat/mariana-theme-zed",
+    "rev": "37721fad2161ee1751939ff1c7aafc5ce7e7309a",
+    "date": "2025-02-25T21:46:23-05:00",
+    "path": "/nix/store/0cgxnm8vr4whbbdfs3xpicj3d1n7wxzw-mariana-theme-zed-37721fa",
+    "sha256": "195hsydbn0vvgyyij7gbz0gqpfgcfcdz7kq7gisc3axl8mdizd02",
+    "hash": "sha256-ArQfW0W0q8F0fAfP8xtz7LmLH/jrHRm9f3sDu5rXsKQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

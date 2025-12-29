@@ -1,0 +1,21 @@
+{
+  "name": "autocorrect",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/huacnlee/zed-autocorrect",
+    "rev": "50055e2341142de9eb8ebc5b20e900770e036e1f",
+    "date": "2025-12-10T22:34:27+08:00",
+    "path": "/nix/store/vg0ppm8bq75c78r2wa107h3ghja49iis-zed-autocorrect-50055e2",
+    "sha256": "1j8dx489r2g9fcm9p5kmd2bcyx3p0jl54q5crwx2ya76gspkkbzq",
+    "hash": "sha256-+K85r37mKC86z6xgUqgEd3TPlmh1lpsqc+mJnBDpDck=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2pT3895Y3vAdWsLi6J3NkBVGaMq8cYHZJiQdgeGGUKk="
+}

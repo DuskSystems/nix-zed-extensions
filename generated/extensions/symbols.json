@@ -1,0 +1,19 @@
+{
+  "name": "symbols",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/sebastiandotdev/zed-symbols",
+    "rev": "0c436443fba7f12775524bd0e677dae03c056e0c",
+    "date": "2025-10-28T09:42:42-05:00",
+    "path": "/nix/store/wwww3s3k1hz1h4zs481c1g4y4a9fb350-zed-symbols-0c43644",
+    "sha256": "10ihsln1wc2w7gb8s604akida6k3rr60sr23bciq67v1ijpkfdzd",
+    "hash": "sha256-7Tc3r4xhH4MjW0NkDUzOYxrV4lQEGI3WO1wwHizVMII=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

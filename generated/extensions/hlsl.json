@@ -1,0 +1,21 @@
+{
+  "name": "hlsl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/igordreher/zed-hlsl",
+    "rev": "5b1b1686b3381dd9364f9412ce57b171e1e41c74",
+    "date": "2024-08-20T13:25:34-03:00",
+    "path": "/nix/store/6nvqznjywc20xaj11k94pq8k0qcrqxnb-zed-hlsl-5b1b168",
+    "sha256": "1glpycavyarqxxqj443h4wsa6id96rg5aan82g30zkn1vw3cin8k",
+    "hash": "sha256-E9nIBt/Bzg/GE8gqVV42qUWjNCdwECJx7zgrvxXzl74=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hlsl_hlsl"
+  ],
+  "kind": "plain"
+}

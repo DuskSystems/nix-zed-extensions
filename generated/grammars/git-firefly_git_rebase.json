@@ -1,0 +1,18 @@
+{
+  "id": "git-firefly_git_rebase",
+  "name": "git_rebase",
+  "version": "d8a4207ebbc47bd78bacdf48f883db58283f9fd8",
+  "src": {
+    "url": "https://github.com/the-mikedavis/tree-sitter-git-rebase",
+    "rev": "d8a4207ebbc47bd78bacdf48f883db58283f9fd8",
+    "date": "2023-02-17T11:24:26-05:00",
+    "path": "/nix/store/v1gkl2i78i1r87fa9ccyj6kh53zj6yzn-tree-sitter-git-rebase-d8a4207",
+    "sha256": "16g3i69jxq7fm2nis2d61bcj1r84sbr1drbmjd6zwm8rxkdnxd4r",
+    "hash": "sha256-mbRu2+wZVf5Nk3XlFvLSBOUg2QqmCR2tqO7gLpOJ45k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "toml",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/toml",
+    "rev": "ebea958abdcf81125c8bb0659a5228f47e8b0c7c",
+    "date": "2025-12-21T22:17:51+01:00",
+    "path": "/nix/store/qr0hs0r79f707xilmjrhfqrdx1byh27k-toml-ebea958",
+    "sha256": "18gn1i5ixf2yfc6zqm0ik6ia8c4x2lp83warbg7znwl7k4dcj7fs",
+    "hash": "sha256-2h3JGpmHcvvPW1nxgS4VnTCkopkRVPwNc164HksM9qE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "toml_toml"
+  ],
+  "kind": "plain"
+}

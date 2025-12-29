@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-pro-monokai-darker",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/9ssi7/zed-one-dark-pro-monokai-darker",
+    "rev": "b7f810c62eefdcfbbd8342d119020e839d74d40c",
+    "date": "2024-07-20T21:56:21+03:00",
+    "path": "/nix/store/vmwlzimblqfb5q58jaizv0rhxmw5jxgz-zed-one-dark-pro-monokai-darker-b7f810c",
+    "sha256": "0msqllpm3adsy0k0dii49i7mraj5sav39dw2sb9h6l4ppjpdwsfm",
+    "hash": "sha256-1WnerryXUAPT0oK3NLbSRapcT0wkxgYm8LqpUS+lWFc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dark-material-dracula",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/wladpaiva/zed-dark-material-dracula",
+    "rev": "9810fbbf5a5e2eda434b727687dad4e1bf386e10",
+    "date": "2025-10-22T09:19:39-03:00",
+    "path": "/nix/store/24iv14zwf1jnn5p3xlbn7yhhs4ihi3gv-zed-dark-material-dracula-9810fbb",
+    "sha256": "156chgjhw9n79qqqb5k8a9axk7wd1jdyxz3qm5skpwhx1dhnzdx1",
+    "hash": "sha256-obdvYQsd8jt1qXj87psMjZ/ZVVJoloUxTscmDuWDzJQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

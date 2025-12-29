@@ -1,0 +1,18 @@
+{
+  "id": "xml_xml",
+  "name": "xml",
+  "version": "863dbc381f44f6c136a399e684383b977bb2beaa",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-xml",
+    "rev": "863dbc381f44f6c136a399e684383b977bb2beaa",
+    "date": "2025-09-14T18:13:16-04:00",
+    "path": "/nix/store/zkc3vyq67gajgp1rq5pkgj2a53k4qrv8-tree-sitter-xml-863dbc3",
+    "sha256": "0nwdvvr2mzl9f7jzrfc92fk506n216fkwmpawsr5baan9kglyfyk",
+    "hash": "sha256-0ztP30xWqVWy5upWPp0JwhpQphOJufzlcYn+KvLejVs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "xml"
+}

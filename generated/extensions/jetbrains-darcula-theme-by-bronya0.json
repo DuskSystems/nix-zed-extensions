@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-darcula-theme-by-bronya0",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/Bronya0/Jetbrains-Darcula-Zed-Theme",
+    "rev": "5221132f1e92765eaa345dc601ed7557661ceeca",
+    "date": "2025-10-27T10:53:32+08:00",
+    "path": "/nix/store/vsbz8wfhifzk7jxd02p04rx3ksvd2si2-Jetbrains-Darcula-Zed-Theme-5221132",
+    "sha256": "199141n87wp0w53jjx3zdhpj82j8l35izijm8g09vxzzzb5f98js",
+    "hash": "sha256-WqLkyvr/953AQ1XGH8ugSAokL2x/dClH4eDyg2wgIaU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

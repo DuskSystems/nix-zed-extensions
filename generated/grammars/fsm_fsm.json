@@ -1,0 +1,18 @@
+{
+  "id": "fsm_fsm",
+  "name": "fsm",
+  "version": "dbab3109ba9a5c09ccc4eef1bf713a63bd6e387c",
+  "src": {
+    "url": "https://codeberg.org/reesericci/fsm",
+    "rev": "dbab3109ba9a5c09ccc4eef1bf713a63bd6e387c",
+    "date": "2024-10-04T07:12:58-05:00",
+    "path": "/nix/store/yb1z9rm4fmgpa7wliq4601aa6758fgn3-fsm-dbab310",
+    "sha256": "1fyxx9qpmw2msk6z1y9srpzrvhv27rp07cfk94jx848v234w5smb",
+    "hash": "sha256-q+rCyRAbEdQlSdOxA24+YsOd/806+fDN1FXwenHq3bs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-fsm"
+}

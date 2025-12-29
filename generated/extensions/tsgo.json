@@ -1,0 +1,21 @@
+{
+  "name": "tsgo",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/zed-extensions/tsgo",
+    "rev": "5d862a32e1a5157f65ad6bd8c44a6eb9195ddfea",
+    "date": "2025-11-10T17:26:08+01:00",
+    "path": "/nix/store/dvkbbikhk0r9mwvgdpq0bsk1b7cwpg4k-tsgo-5d862a3",
+    "sha256": "08lx8vlikfdmjwv37v0y3sclfcrlq046k767qxs3j46w8x3h9k3n",
+    "hash": "sha256-dswER0fcEDl0x8ecaQjANDNHmR4e7DM2l7W5GelGnSI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Jkbsh71CnEDfc3DCDm5tj7iDcpoUF9w9REcxjbnP/w4="
+}

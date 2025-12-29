@@ -1,0 +1,18 @@
+{
+  "id": "coffeescript_coffeescript",
+  "name": "coffeescript",
+  "version": "3bb4dbd68ca926c76b3baadb529da4de3726ea37",
+  "src": {
+    "url": "https://github.com/svkozak/tree-sitter-coffeescript.git",
+    "rev": "3bb4dbd68ca926c76b3baadb529da4de3726ea37",
+    "date": "2025-11-05T10:04:34-08:00",
+    "path": "/nix/store/g7hw7189jd5y4i2d62k7gs0ky0fj14yy-tree-sitter-coffeescript-3bb4dbd",
+    "sha256": "082qpqngjip3a3zm829mxmqhxpwl3s2lbxsx5y65nlnlkqa16x97",
+    "hash": "sha256-J3UTFJ7UUluML133RYUelN8Oce01CVT/UONG+Sy+WCA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

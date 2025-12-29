@@ -1,0 +1,19 @@
+{
+  "name": "vscode-dark-high-contrast",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/nick-myrick/vscode-dark-high-contrast",
+    "rev": "269d75c2bceeb279583d4ca310b13ad0a5c218ba",
+    "date": "2024-07-27T17:20:29-04:00",
+    "path": "/nix/store/kszlh1q5hdf2qndh6159a1ns8c2dvs5a-vscode-dark-high-contrast-269d75c",
+    "sha256": "07cyi0zsp3hq67zcwjdmpsjs7dfsssjmz0qj9q7wpdmbhci0z76g",
+    "hash": "sha256-z5wPIoOrtssPThKDX6XW2rWjpb61Sc7+MRiOqz+Inh0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

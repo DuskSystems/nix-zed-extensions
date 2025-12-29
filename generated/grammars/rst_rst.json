@@ -1,0 +1,18 @@
+{
+  "id": "rst_rst",
+  "name": "rst",
+  "version": "5120f6e59284cb8b85b450bd2db0bd352635ba9f",
+  "src": {
+    "url": "https://github.com/stsewd/tree-sitter-rst.git",
+    "rev": "5120f6e59284cb8b85b450bd2db0bd352635ba9f",
+    "date": "2024-04-03T22:12:24-05:00",
+    "path": "/nix/store/vdhw7yp0km7zc0cdgbymsyqqgcnzvw2z-tree-sitter-rst-5120f6e",
+    "sha256": "1wvrm1rdzh0syrznrpss1ngb89lhllvmq1zqv48f52hzdz8l539w",
+    "hash": "sha256-PI1C0W8fiuIQ2fgHXDelkCa0ng1a32x/9hrA33KoefM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

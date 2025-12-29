@@ -1,0 +1,19 @@
+{
+  "name": "barbenheimer",
+  "version": "1.3.1",
+  "src": {
+    "url": "https://github.com/jayvicsanantonio/barbenheimer-zed-theme",
+    "rev": "f362d332f66ef623814600e13fc525a514b8f1d5",
+    "date": "2025-04-29T00:07:51-07:00",
+    "path": "/nix/store/b7dd98cs0975wc4alvzkzkgxyfd1ybv2-barbenheimer-zed-theme-f362d33",
+    "sha256": "1cdkpprlrql9ji36vvqpg5iynqs28nsysjalixkq0frigy3jwpmp",
+    "hash": "sha256-t14uh38xO4Bnj1RJ7bVFQmPrY3kX721GlIniTPO9s7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

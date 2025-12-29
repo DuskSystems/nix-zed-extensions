@@ -1,0 +1,18 @@
+{
+  "id": "flatbuffers_flatbuffers",
+  "name": "flatbuffers",
+  "version": "44d8ef84f4d85a94890fa87382c066e8464866c3",
+  "src": {
+    "url": "https://github.com/smpanaro/tree-sitter-flatbuffers",
+    "rev": "44d8ef84f4d85a94890fa87382c066e8464866c3",
+    "date": "2025-12-06T15:42:28-05:00",
+    "path": "/nix/store/ccx26d0s9vgps3szflahrykwyi4hsic0-tree-sitter-flatbuffers-44d8ef8",
+    "sha256": "1xpqzc73r75lcga4m9z45q7wwspg09h1ck2r2yv8xnc69f5hk3cw",
+    "hash": "sha256-nI0Ji0uG2Y62F1lMFmAC72rODy7kp0rUY7ScPA77+PY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,27 @@
+{
+  "name": "neocmake",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/k0tran/zed_neocmake",
+    "rev": "27b1c47a7a7a1016baabbaf1e29bcdef7332a017",
+    "date": "2025-11-25T17:37:01+03:00",
+    "path": "/nix/store/qvpz6s8hnphs8pwmx6bvisi3vcmn4aps-zed_neocmake-27b1c47",
+    "sha256": "1yymk8v53lirrj9vz21jfykqyvw4zz3xfrw00gsw45nmm8d11jw0",
+    "hash": "sha256-gMsQGqrVFsL1A4Bn18f/hG+Pp3cyiL+TzDnSUTaa1fs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "neocmake_cmake"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KP5WNyDvn6f3ZbaivhobkJKVvfbA7q5NyeQ8b/oXg3M=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/neocmake.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "autumnal-marscape",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lilyyy411/autumnal-marscape-zed",
+    "rev": "6efe30851dc1546de6e83434d53e226847ddcc6b",
+    "date": "2025-07-29T19:00:20-04:00",
+    "path": "/nix/store/yacl0bmlgay4x5qki2axj23kdhnabqbh-autumnal-marscape-zed-6efe308",
+    "sha256": "0hqirppfn4ym9x3l2xjrkliqyvzqbivgz125fqysf9l1nb2gyy48",
+    "hash": "sha256-iHj/xLKBJqc9dkWE/3Zc+G+PI51ZdkFHT9UT6+7NEUM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

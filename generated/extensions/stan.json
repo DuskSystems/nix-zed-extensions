@@ -1,0 +1,23 @@
+{
+  "name": "stan",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/WardBrian/zed-stan-extension",
+    "rev": "3d8d99244aaa78b713ecffb5adefeb6503186099",
+    "date": "2025-09-30T12:43:35-04:00",
+    "path": "/nix/store/bgjkdd8fxfzmy6d0h54i2qf5kgnk252w-zed-stan-extension-3d8d992",
+    "sha256": "0jih9749vmv3psh4h65n8w5slp3sfc4z7d5bnqxq8gkh53l6lgb7",
+    "hash": "sha256-Zz1q6ChwPoQ7tqu08wlzelyqC0e2GEigvmPXnchJMEo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "stan_stan"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EWDFEcu8H0xuTeURD3lLY2yk39bO4L6HUeK6iwUp1HM="
+}

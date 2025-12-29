@@ -1,0 +1,18 @@
+{
+  "id": "xdr-naive_naive_xdr",
+  "name": "naive_xdr",
+  "version": "7308244bdad8bf4c42e431e9198f36aa392f4adc",
+  "src": {
+    "url": "https://github.com/algebnaly/tree_sitter_naive_xdr.git",
+    "rev": "7308244bdad8bf4c42e431e9198f36aa392f4adc",
+    "date": "2025-03-23T13:55:46+08:00",
+    "path": "/nix/store/ynb8kg2wvr20jfr9gqwv7b2gaz0vy46j-tree_sitter_naive_xdr-7308244",
+    "sha256": "0drxggdy8l37bhg1xaivmnqc9c0xlckidnv3s5zzq7w4c2va7vxg",
+    "hash": "sha256-r++jtmCEH/x/0WPbFiejHbDEsK07qh4eXGdQ5Nt7PTc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

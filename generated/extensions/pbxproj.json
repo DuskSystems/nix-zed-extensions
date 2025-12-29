@@ -1,0 +1,21 @@
+{
+  "name": "pbxproj",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zwaldowski/zed-pbxproj",
+    "rev": "9f206829b91dd531f3227393ae82ae59d9f10532",
+    "date": "2025-11-17T19:00:59-08:00",
+    "path": "/nix/store/iyya6fbpdx5mxmz9k6inblwf0rmc8ij3-zed-pbxproj-9f20682",
+    "sha256": "0i7qknw66hs5g91by88yq62wf2vycj08aqfq8hc7w31xqvjqxrs9",
+    "hash": "sha256-SeeO5cY9DH4YRNhhhYBkfgvHhcEeIb9CekVDY7id+EQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pbxproj_property_list"
+  ],
+  "kind": "plain"
+}

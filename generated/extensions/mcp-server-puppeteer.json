@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-puppeteer",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/mcp-server-puppeteer",
+    "rev": "f4400fd89da6b8786cc8c47146c9951cd4bbdb6e",
+    "date": "2025-03-27T17:41:16-06:00",
+    "path": "/nix/store/8bkinlgcjjpad9jrf7pd331dvzqnznrc-mcp-server-puppeteer-f4400fd",
+    "sha256": "0sbj38zlpcbq62mnw1j86ap3b3i9f9k8cvxfgjks3j66aag0kaff",
+    "hash": "sha256-zqkJnlLGyKGnfK5vhmZyKY41rjJIBm6rMHixSz8acmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DqOtfnVGB3NuCj8QAtntnH4lY8HFtFp7jFlvHi5GQaY="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "elisp_elisp",
+  "name": "elisp",
+  "version": "e5524fdccf8c22fc726474a910e4ade976dfc7bb",
+  "src": {
+    "url": "https://github.com/Wilfred/tree-sitter-elisp",
+    "rev": "e5524fdccf8c22fc726474a910e4ade976dfc7bb",
+    "date": "2023-06-03T14:06:46-07:00",
+    "path": "/nix/store/9qs2n8kr5sf1v79p4w79wfjrxcgi3hhh-tree-sitter-elisp-e5524fd",
+    "sha256": "1wyzfb27zgpvm4110jgv0sl598mxv5dkrg2cwjw3p9g2bq9mav5d",
+    "hash": "sha256-rWxVE17ipTu45Ey8PFvZvaJUqAb7SRACqfu+f8Ry3/M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

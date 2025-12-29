@@ -1,0 +1,23 @@
+{
+  "name": "capnp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/cmackenzie1/zed-capnp",
+    "rev": "768685692a14d47bf9d99e0eaa12cf818b50d492",
+    "date": "2024-04-17T10:24:00-07:00",
+    "path": "/nix/store/ckr3g1frh1aqsj5qng2ddndqvjlykggn-zed-capnp-7686856",
+    "sha256": "19piidfdnnpvfarmsamf8jwkyb4zyyzqp5kdnhiz1i2570chhas8",
+    "hash": "sha256-SCsIGThFxPAjtG2Wi7/3nyw/uUSuKl2zcvta21yL8aY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "capnp_capnp"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-t4q29ayf/q82K18wP/zWmPJPQd/Sm3FCZ48LYvlC2qU="
+}

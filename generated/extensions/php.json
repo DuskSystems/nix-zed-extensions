@@ -1,0 +1,24 @@
+{
+  "name": "php",
+  "version": "0.4.5",
+  "src": {
+    "url": "https://github.com/zed-extensions/php",
+    "rev": "429b7b5c26facd0fadab068d0c9fa82be52be58e",
+    "date": "2025-12-06T14:24:25-05:00",
+    "path": "/nix/store/gd0lr3abgkrj8gl0c157vndkvvain2p3-php-429b7b5",
+    "sha256": "0cmhv3kixg4f5aj1bpam138yj7j855yj1kpvb458l3azyan9b26b",
+    "hash": "sha256-y4iVrPJfDYoKWfvOIH0pSB7p0QhV3RWkKo68HufYsDI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "php_php",
+    "php_phpdoc"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YlTxEYSpMGO/ugPGya1axqRMOrc2bglCyea+Dg8L6Ak="
+}

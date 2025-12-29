@@ -1,0 +1,19 @@
+{
+  "name": "snowfall",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/freethinkel/snowfall-zed",
+    "rev": "e80957dd6dfa3b6106090fa4e8e26cc54c46eed9",
+    "date": "2025-11-09T21:38:41+02:00",
+    "path": "/nix/store/73kjrlqhnc98qxalxiv08kadpppy90ic-snowfall-zed-e80957d",
+    "sha256": "1acq3amhy859jxx70h67dj22cwilmjl8nrag15djagr3xw2g8y77",
+    "hash": "sha256-53j0BO8jPyVbCU9li6isNHImhGzHQHB6l6kgD6samKk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

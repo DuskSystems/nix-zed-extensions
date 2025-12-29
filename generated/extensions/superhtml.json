@@ -1,0 +1,21 @@
+{
+  "name": "superhtml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/WeetHet/superhtml-zed",
+    "rev": "a0df7714273b6fd084f66eac22ec2ae62e64de61",
+    "date": "2024-10-01T12:39:53+03:00",
+    "path": "/nix/store/167ikx9xrv0rqn8zj45myraxwn9ic1j8-superhtml-zed-a0df771",
+    "sha256": "1mp29mlc34fg31f147is9zg984wcg7wx9093ka0grjjh1m733yml",
+    "hash": "sha256-tPoxTg1QyvyAmiOB1Pl5jBOU3k86HhJcGM+RwWhN4tY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-y3De8mbnQwEXMwX3owlEQuVYjPD3wm/xMgKLxPrZBBc="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "exograph_exograph",
+  "name": "exograph",
+  "version": "b6c30a8e5b7a899f7023c97971eaef2ec55b2f05",
+  "src": {
+    "url": "https://github.com/exograph/tree-sitter-exograph",
+    "rev": "b6c30a8e5b7a899f7023c97971eaef2ec55b2f05",
+    "date": "2024-05-26T09:18:51-07:00",
+    "path": "/nix/store/ghk0i8d6wp35xwnkrk6lbrk53p0yr7rr-tree-sitter-exograph-b6c30a8",
+    "sha256": "0s23c1rc57899xvvmsjiy03cdzg4kp65nysbg31kvna1dq0m5ydl",
+    "hash": "sha256-tPlSAW5B2T3DeEt7W8yd5P3GBvBR6rp3TwmdwnJgQ2g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

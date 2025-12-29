@@ -1,0 +1,18 @@
+{
+  "id": "fsharp_fsharp",
+  "name": "fsharp",
+  "version": "c4347939b4fb439771dc2561a6923fba6a78251b",
+  "src": {
+    "url": "https://github.com/ionide/tree-sitter-fsharp",
+    "rev": "c4347939b4fb439771dc2561a6923fba6a78251b",
+    "date": "2024-05-25T13:31:29+02:00",
+    "path": "/nix/store/syyj7lcn09p0s43n9krk4dkrhg5dg0w0-tree-sitter-fsharp-c434793",
+    "sha256": "1520z3ibmb45ybnz5p3wqwdhm3zn7alnz8n2plwcq6gg3d8a16aa",
+    "hash": "sha256-SpmgUBvvGcw4vcKib6k69o8KG8d83PLt8oWsuuL4QJQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

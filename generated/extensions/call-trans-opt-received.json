@@ -1,0 +1,19 @@
+{
+  "name": "call-trans-opt-received",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/takk8is/call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed",
+    "rev": "37050e08217c35a28cf941d773db098afd45de84",
+    "date": "2024-07-12T03:25:10+02:00",
+    "path": "/nix/store/3syl59f64x5k539qrgs43zvi6fiiwpgf-call-trans-opt-received-2-19-98-13-24-18-rec-log-theme-for-zed-37050e0",
+    "sha256": "199bklv4q8953qmfd043rni038ma1sg4w1483sxkm18hlb2rc1gc",
+    "hash": "sha256-7AWWxaIQhTq7HogETp4OqqIBos2DgOYqHiUhTDadK6U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "env_env",
+  "name": "env",
+  "version": "a854096808a5c1da0de998b31e5887995a98a89f",
+  "src": {
+    "url": "https://github.com/zarifpour/tree-sitter-dotenv",
+    "rev": "a854096808a5c1da0de998b31e5887995a98a89f",
+    "date": "2024-07-12T17:03:49-04:00",
+    "path": "/nix/store/rfhr43yd6rqxak9jrly5x5jc82fwsbgw-tree-sitter-dotenv-a854096",
+    "sha256": "0gm6rajkrzyc3m7iar3mb6l90k4n849wgmj1yk9yxjbwkky33sh6",
+    "hash": "sha256-Buox/Jx8ye7T9EHWxxNBlkyQqFl1ZBVPHcz/PKXKpj4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

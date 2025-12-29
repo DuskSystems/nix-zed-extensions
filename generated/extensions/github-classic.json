@@ -1,0 +1,19 @@
+{
+  "name": "github-classic",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/meocoder31099/Github-Classic-Theme-Zed",
+    "rev": "751146a4387066dd4e2fb7ee4ff91ab089d7c7dd",
+    "date": "2025-07-18T14:50:57+07:00",
+    "path": "/nix/store/vd597ggk77mlrrarfrzhks0jj5i9i5sw-Github-Classic-Theme-Zed-751146a",
+    "sha256": "02sh3h6g662ib8ss37s0qw7hki9iqvdxz5plb8jd8rxm9i8al1j5",
+    "hash": "sha256-RQaqUEy1Z9QkWvSW39vGMcUJD8dAn6E1WlEY8wwcUAs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "objectscript",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/intersystems/zed-objectscript",
+    "rev": "f9c5d4f00eac1e73172f401e74225347394c699b",
+    "date": "2025-10-29T10:13:28-04:00",
+    "path": "/nix/store/78v0pfpfh8wgiqp1g611lkwxgay6bx2s-zed-objectscript-f9c5d4f",
+    "sha256": "0bsznfv9q3ipicmidvw6qhazxp5n9cbs0acqdvihzby941srdn1z",
+    "hash": "sha256-P9iWdSDJrw/jbpgpoBdLttz+FcSG7xYrizcOnLazXy8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "objectscript_objectscript"
+  ],
+  "kind": "plain"
+}

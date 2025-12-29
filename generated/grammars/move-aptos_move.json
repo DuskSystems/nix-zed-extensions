@@ -1,0 +1,18 @@
+{
+  "id": "move-aptos_move",
+  "name": "move",
+  "version": "bb6fdaaef901fc331731340cc7e4f167311fe5d6",
+  "src": {
+    "url": "https://github.com/caoyang2002/tree-sitter-move-aptos",
+    "rev": "bb6fdaaef901fc331731340cc7e4f167311fe5d6",
+    "date": "2025-09-16T14:08:02+08:00",
+    "path": "/nix/store/wn69hv7pw9ymllyhl7455nkyfrqbvd5c-tree-sitter-move-aptos-bb6fdaa",
+    "sha256": "1q12skam6hxi6r37bhc39zggc18z632anx1dcrvsdnifz2ch4swq",
+    "hash": "sha256-mGsCmfgu2qZ3Zi10q8QwHwX23k+DwXVGNrFDU9XUIuA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

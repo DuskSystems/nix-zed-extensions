@@ -1,0 +1,19 @@
+{
+  "name": "siri",
+  "version": "0.0.12",
+  "src": {
+    "url": "https://github.com/perragnar/zed-theme-siri",
+    "rev": "641ec37b46d0e4a0f32aa2d94c73bd534172d844",
+    "date": "2025-11-09T21:23:46+01:00",
+    "path": "/nix/store/w0srfq3y0xnmplcvxsrijxg2a9j541wf-zed-theme-siri-641ec37",
+    "sha256": "0454dp7dza63y5w54whxnsnw84p92qfqq522vvzni660wb2v19dl",
+    "hash": "sha256-tKWwxeLAmGj/3kIUjB0W6RLErbYdclJ48cOo385tpBA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

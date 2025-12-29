@@ -1,0 +1,19 @@
+{
+  "name": "iceicebergy",
+  "version": "0.3.14",
+  "src": {
+    "url": "https://github.com/jmsdnns/zed-iceicebergy",
+    "rev": "01eb11531c20ac62ad134d805f98cd9e0ad38292",
+    "date": "2024-09-29T19:04:09-04:00",
+    "path": "/nix/store/9zn7zkkrcpf0ff862b9qj5lgvralj25z-zed-iceicebergy-01eb115",
+    "sha256": "0wbjy0r88lscplxz3a4s4ad9d5dawy2944hn5ffsjaqqiavg80b7",
+    "hash": "sha256-ZwH0tooYK6mdKxYSkoTnqpWWmiKaqPE7vUxThDLwcnE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

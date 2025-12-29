@@ -1,0 +1,19 @@
+{
+  "name": "synthwave-alpha-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/vikpe/synthwave-alpha-zed",
+    "rev": "41af02088b2372ebb096e5958c0a46b991ad7a84",
+    "date": "2025-06-07T10:46:01+02:00",
+    "path": "/nix/store/bibh3w1xjckk5d5hg3pfnhkmmpk6bw83-synthwave-alpha-zed-41af020",
+    "sha256": "14xw8vqmcl61pmnzyghjxa4gb2asajzb2mjipg0yfnyrjcw9z096",
+    "hash": "sha256-JoGfOJPZW+fBu1FWsb5UWon1iOoSPv9tvcFQVvFGvJM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "perfect-dusk",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/Bikossor/Perfect-Dusk-Zed",
+    "rev": "fba1647bfec04259244b7e5d9910fdcd0ee63348",
+    "date": "2025-03-08T11:10:20+01:00",
+    "path": "/nix/store/yzn5nzv038q9zv0pd643yyjlq3pah8sx-Perfect-Dusk-Zed-fba1647",
+    "sha256": "1fb0yi6lw9pssj0ia1sn125v6l11lrp4d0wq1fkam9fazaamymqj",
+    "hash": "sha256-EldflfrKpaqmC5iDRm6mIVCziwhWBxWB1PomTk30YLk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

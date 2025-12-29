@@ -1,0 +1,23 @@
+{
+  "name": "uiua",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/zed-extensions/uiua",
+    "rev": "6ef8620c4b3ffec2e8726f73a66874d9813b5d3b",
+    "date": "2025-03-12T15:38:39-04:00",
+    "path": "/nix/store/1vnrs1f4b7qbd3v3ki36ixn0ys76ap6y-uiua-6ef8620",
+    "sha256": "0pbmyliibil96h37jysl40mvi1di2f7jnwv09fz46f5yxd4cycsh",
+    "hash": "sha256-UDPPSOu+OEO+S2BzK48TsYW4KyBUe3kGNInGFSP1dV0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "uiua_uiua"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-FW31qBqa5Fir7S4H1dWirgYu1je1PtTWBW1dE9XrgOM="
+}

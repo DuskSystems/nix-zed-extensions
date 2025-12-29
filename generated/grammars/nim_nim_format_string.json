@@ -1,0 +1,18 @@
+{
+  "id": "nim_nim_format_string",
+  "name": "nim_format_string",
+  "version": "d45f75022d147cda056e98bfba68222c9c8eca3a",
+  "src": {
+    "url": "https://github.com/aMOPel/tree-sitter-nim-format-string",
+    "rev": "d45f75022d147cda056e98bfba68222c9c8eca3a",
+    "date": "2023-10-21T20:18:51+02:00",
+    "path": "/nix/store/idvbqdrhwlczmn61kj8ld24y8wcwgx26-tree-sitter-nim-format-string-d45f750",
+    "sha256": "0z9jcj67h2zvnafgv7dppvm0w4p11rv8sy254nv7frvdihj39cw5",
+    "hash": "sha256-hbM0JIxtZ3e2JUV4jXYO4RIO6r63nf2csvsLeIxkMn0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

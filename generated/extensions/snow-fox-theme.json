@@ -1,0 +1,19 @@
+{
+  "name": "snow-fox-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ProPrak01/zed-SnowFox-theme",
+    "rev": "29d4703f01cd063d5b1cd18b65714d4d53ab901f",
+    "date": "2024-11-27T20:55:36+05:30",
+    "path": "/nix/store/swa8in27gck6rk0709k71f138336kaxz-zed-SnowFox-theme-29d4703",
+    "sha256": "0scj892vz7akclvh648gac0i1n02zizf5py22xc6i84k8c9r7r2c",
+    "hash": "sha256-TOSTE0OToGhYF8Lf4n78AtgQAVMPEQM3ZVOdv0VCkmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

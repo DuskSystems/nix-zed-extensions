@@ -1,0 +1,19 @@
+{
+  "name": "lotus-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/skylissh/lotus-theme-zed",
+    "rev": "45e46ef39b8ca444fcb18572ea52844611b251d4",
+    "date": "2025-10-14T12:58:19-06:00",
+    "path": "/nix/store/kjzjwrw4mfy4mv16hkysxd4xhfwf15lp-lotus-theme-zed-45e46ef",
+    "sha256": "1jm70bdhwh7yirhkyb6g2rw9r02xxjbajrjfnnxpi0y38zasq278",
+    "hash": "sha256-6Ais1UfDg3i7tU5mqZbsXYCceBbPLD9hjv5ADtsCp8o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

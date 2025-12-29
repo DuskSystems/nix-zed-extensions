@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-webflow",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LoamStudios/zed-mcp-server-webflow",
+    "rev": "b2beffd754951cac09ca9befa8d68c5e8b1ab4d2",
+    "date": "2025-10-02T10:51:38-07:00",
+    "path": "/nix/store/raq69a213x0g51lwfnfc9lgh2gh85386-zed-mcp-server-webflow-b2beffd",
+    "sha256": "1k1lvxx0z4k4kfra6j25swfkszqibwaj4r3rlsdxwg68y0a4i6g3",
+    "hash": "sha256-45lIFPDIPN6bpnlkIhVfEX89HddFSKOym2SSD3rfNMw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-odKyqiTzHwffgT7vz5jZUMPpiIwJqIoXQMFCqWe1ToQ="
+}

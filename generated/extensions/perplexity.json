@@ -1,0 +1,21 @@
+{
+  "name": "perplexity",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/perplexity",
+    "rev": "7f89feb0786a643bc13c9778df79fbefdf74ce35",
+    "date": "2025-07-08T12:51:13-04:00",
+    "path": "/nix/store/dhkp3xgj0xb90155f4d58jdv49xjvb88-perplexity-7f89feb",
+    "sha256": "1r6hvdy3k8icd77f91m3mh0wq1fnibg5abavps1jl0qivhfkv2b7",
+    "hash": "sha256-Z4k9HdwRAyqDvlstVd6K1gXMAayjhuTOaSyiOXzb0OQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UQAbLhSXKlnP+8q7Ga2d8tu9U9AoB3SpQPQZRA7dV9c="
+}

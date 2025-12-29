@@ -1,0 +1,19 @@
+{
+  "name": "oldbook-theme",
+  "version": "1.5.5",
+  "src": {
+    "url": "https://github.com/gko/oldbook-theme",
+    "rev": "f317e307b438c13c762383147c27fc4c1750ca46",
+    "date": "2025-09-04T22:23:14+02:00",
+    "path": "/nix/store/x0a59k1vbd22kdpzcz9rzb5g4r1ksw4c-oldbook-theme-f317e30",
+    "sha256": "0jcgp1c03j90ppqwwh6bgchxms46fy7q9v6171z6p40b60972hal",
+    "hash": "sha256-VEFxEjALkGt+OMHshI93hujaIXvLQM7xvSDJAVi4j0k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

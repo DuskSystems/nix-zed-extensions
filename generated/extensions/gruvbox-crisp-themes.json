@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-crisp-themes",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/VatsalSy/zed-gruvbox_custom_themes",
+    "rev": "23ac3bfe2f66a73c18c77cfde7e0b8971f1caac6",
+    "date": "2025-09-05T22:05:24+02:00",
+    "path": "/nix/store/5d9qryz89j14q9khka789qgg7zpjcw86-zed-gruvbox_custom_themes-23ac3bf",
+    "sha256": "0l20yjx7cgk0kjr5v5mg8q60ddh857iln3d28s84wk4cnvmfmb31",
+    "hash": "sha256-Yazq6raMTE6QRqINS+MpCLYGDEavll2ynGA+drr0QFA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

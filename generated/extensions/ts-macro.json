@@ -1,0 +1,21 @@
+{
+  "name": "ts-macro",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/XiNiHa/ts-macro-zed",
+    "rev": "b5701b10ce95ee51b5074ffb500f011be4520e37",
+    "date": "2025-09-25T23:38:39+09:00",
+    "path": "/nix/store/lvy8yb26x30x9h474vsc3n2wgxjfb7c0-ts-macro-zed-b5701b1",
+    "sha256": "1y449gdlhsx9ahq2x677wkg962l2gb9wynvh7g8p0dfx9c1gwl95",
+    "hash": "sha256-JVH+AkvdNXDRO3Bbz9N6ggqT3uTnmC4wVKlrSNtLhPg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PKIX1cCZ980a6hHmLvvWyxlGjvf+6XMDVItgzMrV0lU="
+}

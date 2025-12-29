@@ -1,0 +1,18 @@
+{
+  "id": "path-of-exile_filter",
+  "name": "filter",
+  "version": "2f2a4c818570fe7140c5564dbb8872bc533b2a62",
+  "src": {
+    "url": "https://github.com/egibs/tree-sitter-poe.git",
+    "rev": "2f2a4c818570fe7140c5564dbb8872bc533b2a62",
+    "date": "2024-12-24T20:37:01-06:00",
+    "path": "/nix/store/abhzfr54prlhil6vi8pc8sycwxhjx73y-tree-sitter-poe-2f2a4c8",
+    "sha256": "0wl88l4wc07r1a8w87mkbkxrav2kksd70j9cn5kyp30ms6csp361",
+    "hash": "sha256-wYyrmdEVjOtnsSxJcJqeU2yV+1yzHsSRCvkAxglFiHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

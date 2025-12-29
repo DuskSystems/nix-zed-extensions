@@ -1,0 +1,23 @@
+{
+  "name": "unison",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/zetashift/unison-zed",
+    "rev": "617007440c14617a62808663a9678bb75834e2fc",
+    "date": "2025-06-11T23:46:01+02:00",
+    "path": "/nix/store/prxn7sr9a0vqkcggaskwjyxcp4kxmxj2-unison-zed-6170074",
+    "sha256": "1hkk3fq7y0647bdlhplqmzpnngzvcx5v35sdx3mzjb5ldgb90ayv",
+    "hash": "sha256-2yuQ1mu0LPnr6E2XsUtn+z9r76+YXkjbOsQAf7Abc8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "unison_unison"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-3yX1+FAEJS25/A2Bs9pNWUMIZuR9PI9mun4fNk5qqRQ="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "risor_risor",
+  "name": "risor",
+  "version": "bec6f2e385597d0cae55b38f54515eee5f0ebffd",
+  "src": {
+    "url": "https://github.com/applejag/tree-sitter-risor",
+    "rev": "bec6f2e385597d0cae55b38f54515eee5f0ebffd",
+    "date": "2024-09-05T17:00:49+02:00",
+    "path": "/nix/store/hgb8p81ynxd9gc4wg6yav4x8baanj8wv-tree-sitter-risor-bec6f2e",
+    "sha256": "0lklcysllbhmwvxkmapd81cv58aiflr2msnc060z3diw9wd6509j",
+    "hash": "sha256-MoFiGk88tvGBAczqKjJ1UaGyWUDtqjr75hUuSrVndFI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bookmark",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/A-23187/zed-bookmark",
+    "rev": "c2c01c2cbf612770ae5f1e88f8560db149e12034",
+    "date": "2025-11-15T11:53:51+08:00",
+    "path": "/nix/store/d89mz5m9mp9j0p1magzq8nvyfij7f5n2-zed-bookmark-c2c01c2",
+    "sha256": "15gnq0k91lmlp812rv1ikzcrj6rdg0x4qlfpzpk2k1q1myb3qgf6",
+    "hash": "sha256-xj08lq8Bhynm/ddRTDp4LRuZ2Z8x7CwCurTSkCbA9pU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KMFlwzq2cFk/Pc79T34BdzWs425WC20hCzRz1AYy6bM="
+}

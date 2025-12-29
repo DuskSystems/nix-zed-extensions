@@ -1,0 +1,23 @@
+{
+  "name": "tact",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mikalsande/zed-tact",
+    "rev": "4dbcdbf01ba271869898c9d6b0c649285993fe18",
+    "date": "2025-05-26T22:03:09+02:00",
+    "path": "/nix/store/v0j1wzd7bcimimkn0pfd1acvvw1wxhk9-zed-tact-4dbcdbf",
+    "sha256": "05j964jni8yc0kj6gm2byq6byraq4pxyjx7d3ykrsy70dzxnh3kz",
+    "hash": "sha256-fw5o+2/geJ2nH+106fslWGW/DPZL1GfkBMyjaCUxSRY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tact_tact"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-v8/mzctAPPjqOUqyl2pFFV8RXWA3A9axJO54z4CGq6I="
+}

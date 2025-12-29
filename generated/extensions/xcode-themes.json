@@ -1,0 +1,19 @@
+{
+  "name": "xcode-themes",
+  "version": "2.0.1",
+  "src": {
+    "url": "https://github.com/skarline/zed-xcode-themes",
+    "rev": "8ccdaab6853e3cfb23cea84e01d1a4808b627776",
+    "date": "2025-01-14T09:40:27-03:00",
+    "path": "/nix/store/pdcfrsmnmcjz91ahr79laddazivc29cm-zed-xcode-themes-8ccdaab",
+    "sha256": "1cscs5aygy9haj8nhzwg55lw80b8xngyz4l3dq858dha1jc3z7j3",
+    "hash": "sha256-Q54/mAwKNlQQboOS75/taAHEaSmPf2iRVDD551XRTLM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

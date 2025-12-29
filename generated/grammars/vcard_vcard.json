@@ -1,0 +1,18 @@
+{
+  "id": "vcard_vcard",
+  "name": "vcard",
+  "version": "efbcc000ff33ecf1806b34b020345528fab03776",
+  "src": {
+    "url": "https://github.com/TitouanReal/tree-sitter-vcard",
+    "rev": "efbcc000ff33ecf1806b34b020345528fab03776",
+    "date": "2025-10-07T21:41:41+02:00",
+    "path": "/nix/store/cm6pccnjyk10d5850xii4p32h2b0ny39-tree-sitter-vcard-efbcc00",
+    "sha256": "134iggd5waxpkpkmqzkz9i1bwcgfy13423hdmdxrb3k6bai459al",
+    "hash": "sha256-VKVColpmjpV7qw0OQUbw7jG+Qkx/flznnbcrXtp7kYw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "the-pure-tone",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hupeh/the-pure-tone",
+    "rev": "36d5dd70c4d120c756772ddd2573244102efb028",
+    "date": "2025-12-15T22:20:36+08:00",
+    "path": "/nix/store/ayqyqhkh9lv81lhs6lfwy2az208xafyl-the-pure-tone-36d5dd7",
+    "sha256": "00p54fkhgymac8zb4510dn2nrclgigxw2m522vxjr4qj8wfjp8zr",
+    "hash": "sha256-+aMrHUcSkyz7FqJUwfuLj7JshW0gFLI+Yqr6B6cj5QI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

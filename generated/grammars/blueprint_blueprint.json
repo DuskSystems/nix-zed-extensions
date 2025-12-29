@@ -1,0 +1,18 @@
+{
+  "id": "blueprint_blueprint",
+  "name": "blueprint",
+  "version": "d7548077ad2f2cb2288e9e5d5ecf24ac5b7921f4",
+  "src": {
+    "url": "https://github.com/smrtrfszm/tree-sitter-blueprint",
+    "rev": "d7548077ad2f2cb2288e9e5d5ecf24ac5b7921f4",
+    "date": "2025-07-10T19:23:54+02:00",
+    "path": "/nix/store/ylp7laiq1cb67lyzlq6p8rbcmfn56s38-tree-sitter-blueprint-d754807",
+    "sha256": "0d3rkr3la7fgqjswisrrzzwh34wnhf0xkik8lr7mgn4i1i1nyzbx",
+    "hash": "sha256-fX1vQwyR2FdPpmjG2YGDlpMB+f8568i1xM8dRUeeeTQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

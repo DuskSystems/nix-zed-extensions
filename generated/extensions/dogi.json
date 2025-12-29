@@ -1,0 +1,19 @@
+{
+  "name": "dogi",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/DogukanUrker/DogiZed",
+    "rev": "ab2d1253deb86f4d28fbe31b3b88b52061b17a6c",
+    "date": "2025-08-08T12:59:05+03:00",
+    "path": "/nix/store/fx1pi0vg0211hjkfa212cdjp7dxsvx3b-DogiZed-ab2d125",
+    "sha256": "1yqsmv9j5zppj9ir2w5bfd5kcis2fnkd9j90d3rd9fxs1hfca3li",
+    "hash": "sha256-kQ7FHAy6u9TyaCDJ1KZ1Qkc2S3OrcJFjkvf+ItOuGvs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

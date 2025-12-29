@@ -1,0 +1,21 @@
+{
+  "name": "hocon",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/tomatitito/hocon-zed-extension",
+    "rev": "467b2131b3f0445dae5f05ccfa1b29fc855d94fb",
+    "date": "2025-07-15T08:57:10+02:00",
+    "path": "/nix/store/xwwh3zanpxhza8aax3wc3c5c9cyhl8x6-hocon-zed-extension-467b213",
+    "sha256": "0kx3md2g2zdwgmgn9d6zjpbnc912q7dp1j0qa9s575yxkirx0w09",
+    "hash": "sha256-CXDQc5zdl1N0UhjIcNvBIiRm15XftGRffbx98USro08=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hocon_hocon"
+  ],
+  "kind": "plain"
+}

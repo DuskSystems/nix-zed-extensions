@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-firecrawl",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/akbxr/firecrawl-mcp-zed",
+    "rev": "2a03b7bbc93e151be6f35ff05235ec2adc6a1030",
+    "date": "2025-10-01T07:00:35+07:00",
+    "path": "/nix/store/gsqqdg6hwh9lysfhcrbnffdw4p7ws8hz-firecrawl-mcp-zed-2a03b7b",
+    "sha256": "090r23dqfcxbzh2j7nhiffbhqy8817fkp0kyffg1bzvvg83kic3j",
+    "hash": "sha256-crA4B3p7/xWec36CO90JCHkMl3MR2iMF/Kszh9sQGSQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-BUpFcDCVghfplrU698301YNXAgRPywTtnwR6wZRA57c="
+}

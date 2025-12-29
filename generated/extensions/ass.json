@@ -1,0 +1,21 @@
+{
+  "name": "ass",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/huaium/zed-ass",
+    "rev": "baef023f5ec5b9cf6f6f48f54b6c016e518f9ff8",
+    "date": "2025-05-05T23:23:07+08:00",
+    "path": "/nix/store/29qzbb011wafzjmifhbj9wish7phjf01-zed-ass-baef023",
+    "sha256": "1i05yf16zfk2vqha5i4r7pz27jxx5c3khx5g52pbsijqns7376ip",
+    "hash": "sha256-N5ozjrZYRr2uKK90OAcrvcsj/j2ZxKIg3mK6b4LzBcQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ass_ass"
+  ],
+  "kind": "plain"
+}

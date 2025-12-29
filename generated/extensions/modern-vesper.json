@@ -1,0 +1,19 @@
+{
+  "name": "modern-vesper",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/caiolandgraf/modern-vesper-zed",
+    "rev": "42136354a3755f6e4ee32bd019e1231fe68ccc32",
+    "date": "2025-11-21T10:11:38-03:00",
+    "path": "/nix/store/pq91p34i35pbnyww8ic1915qs3mbr6l0-modern-vesper-zed-4213635",
+    "sha256": "1hdlz1123yfj10flkqbrr6n90iw16bkdbbhxdc60rw48vz1gbfps",
+    "hash": "sha256-+rr1wt+I8AwMax2u1eYygUeQrMl54UkdCNL5IUL4tME=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

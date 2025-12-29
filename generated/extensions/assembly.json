@@ -1,0 +1,23 @@
+{
+  "name": "assembly",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/DevBlocky/zed-asm",
+    "rev": "334f0fc5bf899105f45e72f7cb6cbda1d9500af3",
+    "date": "2025-08-02T18:44:59-07:00",
+    "path": "/nix/store/jrizcbywgmn6cxwk3gdxkpvhlralq4qq-zed-asm-334f0fc",
+    "sha256": "1z2vgh0x79bkzvp6nd92d5n0qm5bmkkad86r4kczn8l4v9af57lw",
+    "hash": "sha256-nJ7iVNqEIvvZJNmgpuasq1QMbGkiNWvu/nOl0wF8W/w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "assembly_asm"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-kUkPQxkW+BJtiPyg0Styg9pFbtTKSzAGfJOHjBoo714="
+}

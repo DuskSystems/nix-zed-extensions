@@ -1,0 +1,18 @@
+{
+  "id": "pica200_pica200",
+  "name": "pica200",
+  "version": "3ebe7424adfccd6b5f2504894c1ea3ba2ab5197d",
+  "src": {
+    "url": "https://github.com/Squareheron942/tree-sitter-pica200",
+    "rev": "3ebe7424adfccd6b5f2504894c1ea3ba2ab5197d",
+    "date": "2024-11-14T20:40:53-05:00",
+    "path": "/nix/store/lh60xgm3si8p9yix5ra5d9piixa4l615-tree-sitter-pica200-3ebe742",
+    "sha256": "1mr2ik2jd1ip3qp883via9wkk09skwddkbn5vf8rllhzqk9yqxx9",
+    "hash": "sha256-qXfs08QfUpqR28Wu2RqfOoE5eVJxD4QuHjeGJsWMItc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

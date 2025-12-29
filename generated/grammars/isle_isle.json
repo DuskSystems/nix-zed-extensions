@@ -1,0 +1,18 @@
+{
+  "id": "isle_isle",
+  "name": "isle",
+  "version": "455669a8e7c633bcb3b02d468c5b9a0b7188ec72",
+  "src": {
+    "url": "https://github.com/eagr/tree-sitter-isle",
+    "rev": "455669a8e7c633bcb3b02d468c5b9a0b7188ec72",
+    "date": "2025-01-14T21:43:18+08:00",
+    "path": "/nix/store/7iah82h26682axivgb4k7fax6p8806cz-tree-sitter-isle-455669a",
+    "sha256": "1lzn2imp9chk1wcgsbh6irbazwh1nfx6flw2qb6fwhri77nxiqc4",
+    "hash": "sha256-hOHY7TkxQ+7MwoJTZ7qzAfKvVo4GLv0YDxOydGsU9tM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

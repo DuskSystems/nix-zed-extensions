@@ -1,0 +1,19 @@
+{
+  "name": "clean-vscode-icons",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/jacobtread/clean-vscode-icons",
+    "rev": "7b4e946cc49263eb119bd487163bee607b21ef0a",
+    "date": "2025-09-13T13:48:02+12:00",
+    "path": "/nix/store/rnhnkprm3dd0kd4ahsv69d6zzddi3crv-clean-vscode-icons-7b4e946",
+    "sha256": "0npagvrj8zdnj00c32calgir3fnqlz29050ffy0k9jjcg8wj2ddq",
+    "hash": "sha256-uDUhOXpMyjSBdw4UkMSn2LqR46OKicEAkLZ9JPN+6lo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

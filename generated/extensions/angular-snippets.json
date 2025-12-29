@@ -1,0 +1,19 @@
+{
+  "name": "angular-snippets",
+  "version": "21.0.0",
+  "src": {
+    "url": "https://github.com/hudson-newey/angular-snippets-for-zed",
+    "rev": "355c779b2190be525de92b11156cfcc2c2c698c2",
+    "date": "2025-11-24T21:30:26+10:00",
+    "path": "/nix/store/1c1ndwbjbii91nds38pda98hz9havx1s-angular-snippets-for-zed-355c779",
+    "sha256": "0dfldzxi7ji21fsvlyvqilfsvbcy3skzdf9svaxjp2zjv6237xy7",
+    "hash": "sha256-x/czhNnyiyu72jq59qcenq2tHY14e7q1CyLKE/tv1DU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

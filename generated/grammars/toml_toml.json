@@ -1,0 +1,18 @@
+{
+  "id": "toml_toml",
+  "name": "toml",
+  "version": "342d9be207c2dba869b9967124c679b5e6fd0ebe",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-toml",
+    "rev": "342d9be207c2dba869b9967124c679b5e6fd0ebe",
+    "date": "2022-04-21T16:26:30-07:00",
+    "path": "/nix/store/xvm2402hfks55pl7hy6p6nmz9z9y7ypg-tree-sitter-toml-342d9be",
+    "sha256": "00pigsc947qc2p6g21iki6xy4h497arq53fp2fjgiw50bqmknrsp",
+    "hash": "sha256-V2c7K16g8PikE9eNgrM6iUDiu4kzBvHMFQwfkph+8QI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

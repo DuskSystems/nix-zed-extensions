@@ -1,0 +1,19 @@
+{
+  "name": "plato-themes",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mishankov/plato",
+    "rev": "58b578e4fe4b117e005527aa13bca2d0c0c90fab",
+    "date": "2025-11-03T22:40:31+03:00",
+    "path": "/nix/store/3yqrj3j1hjl40fhrxav3gvvf7smxiihs-plato-58b578e",
+    "sha256": "0d16rybrwx366zyf4w0sql9zc3pnxkvarvlbd6wwfxybkcvhdlb1",
+    "hash": "sha256-YdEGN5vLd8e5aYvurPbs9g72E8UacOL8N2Z0npfPJjQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

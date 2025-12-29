@@ -1,0 +1,23 @@
+{
+  "name": "dafny",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/WeetHet/dafny-zed",
+    "rev": "0269ed4f48ebfbcd319cb4539eeddc03764d81c3",
+    "date": "2024-08-21T12:54:46+03:00",
+    "path": "/nix/store/khm087wqs06b6ji6651p689jdifcg36m-dafny-zed-0269ed4",
+    "sha256": "05wx287lp84ixkb8g8q3rq389wg4alyiwxhgs2wnqlgjdlqz3819",
+    "hash": "sha256-KaDxMW3yUWy50A92Hj1V5PGEBs4Do4fW7JGgSw8SnRc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dafny_dafny"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vEgdRMN+3e37aBVnoBIDDs2mnyIzH8tMdiWnusHBk6A="
+}

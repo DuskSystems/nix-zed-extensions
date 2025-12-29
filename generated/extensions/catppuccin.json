@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin",
+  "version": "0.2.24",
+  "src": {
+    "url": "https://github.com/catppuccin/zed",
+    "rev": "471eb7e5a432f694c272ee8b17ba56c05c6a99b0",
+    "date": "2025-11-09T19:32:57-08:00",
+    "path": "/nix/store/6h1fqf81lhxprjc3vvsimqa2fav2jw7v-zed-471eb7e",
+    "sha256": "019lb9ypizaplwj2nbx99bm37vgmfi66n9gr1zzc6dhqdbak3hpy",
+    "hash": "sha256-/sIx1WoYNsP+D/kla0x09e0z6kqpLyskp1f9eH1aNAU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

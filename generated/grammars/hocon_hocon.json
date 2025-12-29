@@ -1,0 +1,18 @@
+{
+  "id": "hocon_hocon",
+  "name": "hocon",
+  "version": "8958da3c6b7e02db38ed86706a68add87325a7f0",
+  "src": {
+    "url": "https://github.com/tomatitito/tree-sitter-hocon",
+    "rev": "8958da3c6b7e02db38ed86706a68add87325a7f0",
+    "date": "2025-07-03T13:54:58+02:00",
+    "path": "/nix/store/vw5g1pjgkjgd7p72fpf74fvvyik29j4k-tree-sitter-hocon-8958da3",
+    "sha256": "0jgl3pxlfaha8ayhxl47r3n8fcrnx6w257bam6mwd6z3cz5chmw9",
+    "hash": "sha256-iVfIymfjm8arqWqdIrjpNjOH7MiH0A69QgoqR/sd9Ek=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

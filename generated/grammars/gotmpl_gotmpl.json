@@ -1,0 +1,18 @@
+{
+  "id": "gotmpl_gotmpl",
+  "name": "gotmpl",
+  "version": "5f19a36bb1eebb30454e277b222b278ceafed0dd",
+  "src": {
+    "url": "https://github.com/ngalaiko/tree-sitter-go-template",
+    "rev": "5f19a36bb1eebb30454e277b222b278ceafed0dd",
+    "date": "2025-01-29T18:19:22Z",
+    "path": "/nix/store/m65pg4v8nbmk4yys5jc0li47b5clxk52-tree-sitter-go-template-5f19a36",
+    "sha256": "1nm9ybwb4if6g7cs911i6msb3q2f1plbl70k2y4icbxk2p57k5ka",
+    "hash": "sha256-apZ5yhWzLxaJFxMcuugNTuCxdDUxhKTZecZFsvjyqdo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

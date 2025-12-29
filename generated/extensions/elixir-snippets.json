@@ -1,0 +1,19 @@
+{
+  "name": "elixir-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/FeedMyCat54/elixir-zed-snippets",
+    "rev": "8d9d7698dd4e0fea0408e39703b57746e27aa776",
+    "date": "2025-10-13T22:18:38+03:00",
+    "path": "/nix/store/idkpd1i0l4y1xjj3j6cq3z7r9n8l2smg-elixir-zed-snippets-8d9d769",
+    "sha256": "1v3rr7prfshpf2v8j7hljgijshaigc9ky759xv1yn2sxsfbcibpg",
+    "hash": "sha256-767IltNdC+vD7qkcPxN7UUEt45MUHom2cBdql+/Jeew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

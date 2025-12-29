@@ -1,0 +1,18 @@
+{
+  "id": "roc_roc",
+  "name": "roc",
+  "version": "6ea64b6434a45472bd87b0772fd84a017de0a557",
+  "src": {
+    "url": "https://github.com/faldor20/tree-sitter-roc",
+    "rev": "6ea64b6434a45472bd87b0772fd84a017de0a557",
+    "date": "2024-06-26T15:26:04+10:00",
+    "path": "/nix/store/q3h99isiwhn7zzbh6xmfms00pz0j2pw5-tree-sitter-roc-6ea64b6",
+    "sha256": "0qwzzmidznvcpx85mcmri9qcm38yrvhhvns6d01690q25hcx2sln",
+    "hash": "sha256-lmrRGSwCg2QCaEbbDeHOHo3KcIq5slpQv2zb32L9n2M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

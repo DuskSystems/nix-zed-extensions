@@ -5,7 +5,7 @@
 
 Nix expressions for Zed extensions.
 
-- Over 500 [extensions generated](extensions.json).
+- Over 800 [extensions generated](generated/extensions).
 - Daily sync from the [Zed extensions registry](https://github.com/zed-industries/extensions).
 
 ## Usage

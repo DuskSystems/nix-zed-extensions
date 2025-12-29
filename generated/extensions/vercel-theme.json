@@ -1,0 +1,19 @@
+{
+  "name": "vercel-theme",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/NathanBrodin/zed-vercel-theme",
+    "rev": "9aaa23949382c996164a6f4af5d7a9cd4549beaa",
+    "date": "2025-08-07T16:48:00+02:00",
+    "path": "/nix/store/kdzgmp6j3lh4mq69kp3rv3fdkdpy1h4a-zed-vercel-theme-9aaa239",
+    "sha256": "0fyyh6mwilc32pvazs60bs16g3z1cw14d735rd7nr1ca2ksgwhl4",
+    "hash": "sha256-hEL+9BSKhWxPy2WcRgJn4Y9ngl7A6K/2FYPRyKuB3js=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

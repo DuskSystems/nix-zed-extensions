@@ -1,0 +1,19 @@
+{
+  "name": "gdscript-snippets",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/loyal-disloyal/gdscript-zed-snippets",
+    "rev": "eacdbf043b2af92da4166746a3300658fa4200bf",
+    "date": "2025-11-01T14:18:32+05:30",
+    "path": "/nix/store/l1qszxvaxz34jha85a5vwan8hhy65fvw-gdscript-zed-snippets-eacdbf0",
+    "sha256": "1hsfpba08ap8irxpmjcbgw63fddsjrw034zpzqwdgqb05lq85k6b",
+    "hash": "sha256-y8yCMC1g4dc4/veTAXiWujU3DH+LyXp7jugqBNS6TsM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

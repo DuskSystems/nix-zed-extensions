@@ -1,0 +1,18 @@
+{
+  "id": "perm_perm",
+  "name": "perm",
+  "version": "608a6b432194557ed04453f0bb5e6d85d4fea908",
+  "src": {
+    "url": "https://github.com/theoriginalstove/tree-sitter-perm",
+    "rev": "608a6b432194557ed04453f0bb5e6d85d4fea908",
+    "date": "2024-07-29T13:01:53-07:00",
+    "path": "/nix/store/00wyvcj6z9hljx5mmvar08xgl8dbz038-tree-sitter-perm-608a6b4",
+    "sha256": "091jpbg37j8ajkxbh34g6hhy7mxf3lsdgdx4mp8hdria93r4gc7y",
+    "hash": "sha256-/rBH8kgq5gbRraS31zQdrtfjITSPDLj6lArJM966MiQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

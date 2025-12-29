@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-rider",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/NarmadaWeb/jetbrains-rider-zed",
+    "rev": "4d33badc791879bb16927c9129daa6f328cded79",
+    "date": "2025-06-22T15:08:47+08:00",
+    "path": "/nix/store/9ahwbqf3kjqwdl8rklw9p8fmwv8b0ikn-jetbrains-rider-zed-4d33bad",
+    "sha256": "1m7r3ragiwrcrjdn8517aiisshixmhg971slx7rwizh1qhvrbbvp",
+    "hash": "sha256-d6+VN8QB/sjz6VSHkx6sPUKtY1QnFGSbzCzz+FQe+dQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "vrl",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/belltoy/zed-vrl",
+    "rev": "c5dbbbed5d2f4578fda86a0691184859e7f6acaa",
+    "date": "2024-10-27T19:40:27+08:00",
+    "path": "/nix/store/4y0q6nnwlv78pcvh9idpdnrfrhb7sbm0-zed-vrl-c5dbbbe",
+    "sha256": "17n381zdkazyhjl5mvpdbz99dzxf6v8si4zqmmfpiax0rp04swd0",
+    "hash": "sha256-oHFNwM2gq3hdrfiTqNE2rv+W0l/t7lqohP6r2X5Aw54=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vrl_vrl"
+  ],
+  "kind": "plain"
+}

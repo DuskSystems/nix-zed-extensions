@@ -1,0 +1,19 @@
+{
+  "name": "elderberry",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/IronGeek/zed-theme-elderberry",
+    "rev": "29d6877cb20b2d245977e8523ac21417a3161e62",
+    "date": "2025-08-13T21:43:34+07:00",
+    "path": "/nix/store/3i5m3vcq8xaii2wg6524jymgd4llq3c7-zed-theme-elderberry-29d6877",
+    "sha256": "0f5zngbnnw93pxla95bq4ghhf8ny09cm4hmnai2rygrwjkk6c4rs",
+    "hash": "sha256-OhNm5pQ8P59FVLZCUlkC3iIH4SN4laRovyNxa9ezvzg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

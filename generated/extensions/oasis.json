@@ -1,0 +1,19 @@
+{
+  "name": "oasis",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/aerendem/oasis-zed-theme",
+    "rev": "c266f40f55bd48829f12a5ba4875880f7e8f9eef",
+    "date": "2024-10-04T13:45:23+03:00",
+    "path": "/nix/store/xv8mg447iw9s7nn4i7cz0mv1m6g3v9ah-oasis-zed-theme-c266f40",
+    "sha256": "166m1p6s044gjd0qr7kfcxd0skqq26qmywaa84lpk09v897dihv6",
+    "hash": "sha256-ZsPYTkI7gXkpQUpxX7ERGE8NWmdunoxBk48QoM0N1Zg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

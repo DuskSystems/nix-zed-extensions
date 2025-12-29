@@ -1,0 +1,23 @@
+{
+  "name": "isle",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/eagr/zed-isle",
+    "rev": "bf6b30b7ba8fd9c03bd0ff417431b85b05d941f0",
+    "date": "2025-01-15T03:38:02+08:00",
+    "path": "/nix/store/4d6mayd42jwgzvhqjl3sxqiqr9kvqxf6-zed-isle-bf6b30b",
+    "sha256": "0p6ccfa3dlawgjqfryq2grc1j7ykrdi3nzrvhncnwq31xkhx6ha1",
+    "hash": "sha256-QUHT4exhYG6ZhTt/O2LL0x8ZWH4C++ywfFzRNpRjzFw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "isle_isle"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-TvUPhVJ5/NJgYGLs7IlNgqh+KqgW0SBIGp6+5qYYmf0="
+}

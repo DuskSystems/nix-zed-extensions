@@ -1,0 +1,19 @@
+{
+  "name": "ghost-in-the-shell-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ddoemonn/ghost-in-the-shell-theme",
+    "rev": "24886d77c0edc1b5de17e42b9514b95e4d384ab8",
+    "date": "2025-11-24T14:07:27+03:00",
+    "path": "/nix/store/hqcsm585sjw3i1igwg5wjg6ipl2p2kk6-ghost-in-the-shell-theme-24886d7",
+    "sha256": "1yd51hjm09l2bdx8lrv5wkij8p450m9cdym3l7ynjcrnmqx8rx90",
+    "hash": "sha256-IPWMOq42M2n9oaP6xlIFhVwk4+RlZ4p6W4ImUCUMpfk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

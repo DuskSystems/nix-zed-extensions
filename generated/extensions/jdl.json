@@ -1,0 +1,21 @@
+{
+  "name": "jdl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/alessandrobrunoh/zed-grammar-jdl",
+    "rev": "0301b170127330e9c1817e9379c3953d446b712b",
+    "date": "2025-09-10T21:30:31+02:00",
+    "path": "/nix/store/9v6jnlagi6sjin1pbw3li7a03hkj5qs5-zed-grammar-jdl-0301b17",
+    "sha256": "0wpnmal7kx0pb49qa3vwkz0i3bvs5gyy7n8fqxm47l2jkcyxl7z7",
+    "hash": "sha256-5x/aPZtS0ENqxw7Z4/0req8RwZ98D4UTWRf0eaiq9nI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jdl_jdl"
+  ],
+  "kind": "plain"
+}

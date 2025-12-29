@@ -1,0 +1,19 @@
+{
+  "name": "mnemonic",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mnemonic-theme/zed",
+    "rev": "955ec720c290fe7944ad0f528988907ed732d8d2",
+    "date": "2025-05-09T03:29:24-04:00",
+    "path": "/nix/store/4d9z62xp9hxm44lk014vakc6mxn45nmn-zed-955ec72",
+    "sha256": "1nivm62izf3vrcwhivm71ylf125d0s98xwlhz0wn112jrwvrva28",
+    "hash": "sha256-SKidN89ShGA5+JDyjpIGrYjgqA+n7gg5y3u4H4WpO9o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

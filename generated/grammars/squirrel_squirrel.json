@@ -1,0 +1,18 @@
+{
+  "id": "squirrel_squirrel",
+  "name": "squirrel",
+  "version": "7386898087db81ba92e8408bc32b6df9c680a454",
+  "src": {
+    "url": "https://github.com/mnshdw/tree-sitter-squirrel",
+    "rev": "7386898087db81ba92e8408bc32b6df9c680a454",
+    "date": "2025-11-13T21:24:44+01:00",
+    "path": "/nix/store/8x8l6xxbda48541pyiqhar8r1f54phga-tree-sitter-squirrel-7386898",
+    "sha256": "0cfz9rwgnrpz5i0n4f2av22mcrxwyw313h3jnxa2wrm2v8w89vr1",
+    "hash": "sha256-Ie+EONqiZi5Ut3LAEQb3vGdWhdhKOGJBLP9m+3hO3zE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

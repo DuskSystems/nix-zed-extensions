@@ -18,8 +18,6 @@ final: prev: {
     ];
   } (builtins.readFile "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util.py");
 
-  zed-generated-data = builtins.fromJSON (builtins.readFile ../extensions.json);
-
   mkZedGrammar =
     grammar:
 
@@ -45,10 +43,17 @@ final: prev: {
     };
 
   zed-grammars = builtins.listToAttrs (
-    map (grammar: {
-      name = grammar.id;
-      value = final.callPackage (final.mkZedGrammar grammar) { };
-    }) final.zed-generated-data.grammars
+    map (
+      filename:
+      let
+        id = prev.lib.removeSuffix ".json" filename;
+        grammar = builtins.fromJSON (builtins.readFile (../generated/grammars + "/${filename}"));
+      in
+      {
+        name = id;
+        value = final.callPackage (final.mkZedGrammar grammar) { };
+      }
+    ) (builtins.filter (f: prev.lib.hasSuffix ".json" f) (builtins.attrNames (builtins.readDir ../generated/grammars)))
   );
 
   mkZedExtension =
@@ -102,12 +107,17 @@ final: prev: {
     );
 
   zed-extensions = builtins.listToAttrs (
-    map (extension: {
-      inherit (extension) name;
-
-      value = final.callPackage (final.mkZedExtension extension) {
-        inherit (final) zed-grammars;
-      };
-    }) final.zed-generated-data.extensions
+    map (
+      filename:
+      let
+        extension = builtins.fromJSON (builtins.readFile (../generated/extensions + "/${filename}"));
+      in
+      {
+        inherit (extension) name;
+        value = final.callPackage (final.mkZedExtension extension) {
+          inherit (final) zed-grammars;
+        };
+      }
+    ) (builtins.filter (f: prev.lib.hasSuffix ".json" f) (builtins.attrNames (builtins.readDir ../generated/extensions)))
   );
 }

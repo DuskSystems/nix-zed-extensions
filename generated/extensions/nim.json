@@ -1,0 +1,28 @@
+{
+  "name": "nim",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/foxoman/zed-nim",
+    "rev": "d73cee39935be827d753c85f98214d49fc73b5cf",
+    "date": "2025-03-14T19:35:45+04:00",
+    "path": "/nix/store/2mmi5089ilwd2jwy5z5xsgfccnjg4syg-zed-nim-d73cee3",
+    "sha256": "0bc2h258n3mz6s8padnqx43v4llglsj4r42j6dg3m38raaywqgjh",
+    "hash": "sha256-UD7MvVIZjTpeM1KQTKSmj1KyB+nYNnWRNr8Oi4qAgi0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nim_nim",
+    "nim_nim_format_string"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-J1IzbXE4pgmyV4mr8BgFbvIbh4Sz4BRqqlWO9Y/nOng=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/nim.lock",
+    "outputHashes": {}
+  }
+}

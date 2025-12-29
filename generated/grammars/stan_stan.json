@@ -1,0 +1,18 @@
+{
+  "id": "stan_stan",
+  "name": "stan",
+  "version": "2c305f312a4c478c5c4bb0dea6922a646ca3c759",
+  "src": {
+    "url": "https://github.com/WardBrian/tree-sitter-stan",
+    "rev": "2c305f312a4c478c5c4bb0dea6922a646ca3c759",
+    "date": "2025-09-26T16:57:18-04:00",
+    "path": "/nix/store/lijbwkp9fvg9l23n9md88f92vn4ijn21-tree-sitter-stan-2c305f3",
+    "sha256": "0fzlqx1pn2b6gdqlkyd8i98chvjfzrfg6k3flqw2naiglsrsz1r5",
+    "hash": "sha256-JYevs6YvKis4pm5M81z+Tm7IUIqo+Ulxe2YJe0PH9Ds=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

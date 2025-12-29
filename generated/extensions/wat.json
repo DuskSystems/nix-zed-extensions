@@ -1,0 +1,23 @@
+{
+  "name": "wat",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/g-plane/zed-wasm",
+    "rev": "57c5e9f2ae5d42c6afbeb0b6fbdaa18cfa98a158",
+    "date": "2025-01-22T08:13:37+08:00",
+    "path": "/nix/store/vkf5z499ndjwjwj1avy91vvzydfsqliq-zed-wasm-57c5e9f",
+    "sha256": "1qpc3wwllhh9y1hmc1qykz4134a82ymx3dcvdysch13r15gvj5cf",
+    "hash": "sha256-jhW5Xwl5BMi0b5u10asXSJERyJ8eB1Zh8AlCSjkf7OI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wat_wat"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-JyRnXT1wUkuyHQ1DlNnNk9lTflzO5JygxTRQUqJxsgE="
+}

@@ -1,0 +1,21 @@
+{
+  "name": "vhs",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/eth0net/zed-vhs",
+    "rev": "146b9bcf1461cac724f94322ea058566e0a4d63b",
+    "date": "2024-04-15T18:21:01+01:00",
+    "path": "/nix/store/csqzgcs3nls88jjbn6a36rms2wzx5rki-zed-vhs-146b9bc",
+    "sha256": "17vac0vsr9y86m68yfywdjz4x2bn5l49m3vxd4g69nb9bwah58dj",
+    "hash": "sha256-sqECFV9p2WQeaX2PmggtdolOvmzcO49MNcinrDdgap8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vhs_vhs"
+  ],
+  "kind": "plain"
+}

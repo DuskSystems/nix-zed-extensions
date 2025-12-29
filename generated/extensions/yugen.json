@@ -1,0 +1,19 @@
+{
+  "name": "yugen",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/frank-vdm/yugen",
+    "rev": "8219af9ecf5b1862e106fbc1ffa73011d947d952",
+    "date": "2025-05-21T19:39:11+02:00",
+    "path": "/nix/store/li7bsj0krjjfisgn8c4gif40k7i1r1qz-yugen-8219af9",
+    "sha256": "07c17xagpdfxxvvvn9x6i9vbmij0yzvv0cwjbsqn4g2kghac41x1",
+    "hash": "sha256-oQfCFHxTPGKxXpIzsPf3QMa6doqmJ7v37t21+1Q/gR0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

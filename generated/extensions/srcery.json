@@ -1,0 +1,19 @@
+{
+  "name": "srcery",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/srcery-colors/srcery-zed",
+    "rev": "07423a194f4898ea57971c7a3271b44ee2bd6f7e",
+    "date": "2025-04-20T20:44:03+02:00",
+    "path": "/nix/store/3jj08qlx41hmgpnk21ghz9qlb3lwpb0w-srcery-zed-07423a1",
+    "sha256": "1rlqnhzv4a0jn1snggwg2gg7lcl2m532m6iahhvl5342844q5ahm",
+    "hash": "sha256-FaqCCUGCjEI3hCqaKkapgjJ63hOPv2d1sBIosj+0mOY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "caddyfile_caddyfile",
+  "name": "caddyfile",
+  "version": "a599a9ca6729d4a115f59a7f12247e86e9a78008",
+  "src": {
+    "url": "https://github.com/caddyserver/tree-sitter-caddyfile.git",
+    "rev": "a599a9ca6729d4a115f59a7f12247e86e9a78008",
+    "date": "2025-04-17T13:00:49-06:00",
+    "path": "/nix/store/9cn6v4j1ij159n6mzb8hxb308cibk6pg-tree-sitter-caddyfile-a599a9c",
+    "sha256": "1f1dlddgf7338vp13b4h0m67ar6cblzx97200p13j536yn80m8rm",
+    "hash": "sha256-NaMKkPVmFDnCBUCc1D9dzGR1TAWQrBHuRmMc91qjLbg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

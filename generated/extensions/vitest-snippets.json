@@ -1,0 +1,19 @@
+{
+  "name": "vitest-snippets",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/jwerre/vitest-snippets",
+    "rev": "7c34e10607d3b434b5740b8a85dd4e1a98adf6ef",
+    "date": "2025-11-17T10:38:27-07:00",
+    "path": "/nix/store/mpqss9iai5nl3yfxkyib3faj2a2v80cc-vitest-snippets-7c34e10",
+    "sha256": "0c795czy6b4s4qba67iycia0h2a1rm2crmgipq5nnjvv9dnn0n3n",
+    "hash": "sha256-dlhgbUt7S2sLvvHVzETNQQkIVGQ+HqMWJpos4z8r6TA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "log_log",
+  "name": "log",
+  "version": "62cfe307e942af3417171243b599cc7deac5eab9",
+  "src": {
+    "url": "https://github.com/Tudyx/tree-sitter-log",
+    "rev": "62cfe307e942af3417171243b599cc7deac5eab9",
+    "date": "2023-11-26T11:52:35+01:00",
+    "path": "/nix/store/hsxcb1mrldywp8zvc0n4ir5iv7axr6gq-tree-sitter-log-62cfe30",
+    "sha256": "11fw43bavs6wbwcv6j7p7yp0z72inf7l9bca30pjcdx9vy57dwwn",
+    "hash": "sha256-lvN2it+pNyYvGIqtRI+zUZwPrj/3SLMZX9zordYg3IU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "rumdl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/inflation/zed-rumdl",
+    "rev": "dd445d1144565a9c300a9152fdb4bef6a48faee4",
+    "date": "2025-10-30T12:31:55+08:00",
+    "path": "/nix/store/fd6p86pkpbmbai91cxcbvsxsnrm20dv4-zed-rumdl-dd445d1",
+    "sha256": "1nvc7afxsrgpsjx1fzp9d8vzp3allzxmvzjdvldjh9p8nhs0qgdq",
+    "hash": "sha256-uD0MNLToJigb3U3+XfunVI37N2rpfhe61Pdl3Z06bNs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-c2LBhx8/7jJgx+jqt6J1kXRV6GxQ8gdSWRBSpblsPrU="
+}

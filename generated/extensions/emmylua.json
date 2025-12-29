@@ -1,0 +1,28 @@
+{
+  "name": "emmylua",
+  "version": "0.20.2",
+  "src": {
+    "url": "https://github.com/EmmyLuaLs/Zed-EmmyLua",
+    "rev": "ffbb88892b48d7139b5d4b90db33d043dddd14fd",
+    "date": "2025-12-03T05:41:49Z",
+    "path": "/nix/store/slahphsr514jnglv5kdwp40pb9iw1xg7-Zed-EmmyLua-ffbb888",
+    "sha256": "10b9r92qnyn532bg8f924kq28wv371x2ksgb8aqs0iip7kzvhgj6",
+    "hash": "sha256-Rj64/zw3RqCxQuvpKXo4Y3Mk8CQiOfSWGMV6i0XKaYE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "emmylua_emmyluadoc",
+    "emmylua_lua"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-4DMfsegxk76n3lkwa/AkPuEuXlt3L8JLrikYrHgyGPQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/emmylua.lock",
+    "outputHashes": {}
+  }
+}

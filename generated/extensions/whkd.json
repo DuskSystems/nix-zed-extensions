@@ -1,0 +1,21 @@
+{
+  "name": "whkd",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LGUG2Z/zed-whkd",
+    "rev": "5654486629bc1c2df22b0ca6783bf4f99c929ff1",
+    "date": "2025-01-04T18:33:39-08:00",
+    "path": "/nix/store/7z4qa5q2gi4sb1jarlslw837i9hxnhry-zed-whkd-5654486",
+    "sha256": "1gx5q1km7kmhzwpgiapxkkc9x3iwwha7ajynscwgyhxsh9m3gsdr",
+    "hash": "sha256-uek3aoK6Q/8409ZLdRTkPI6e2Jz9qvgu/7DOU2fApb8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "whkd_whkd"
+  ],
+  "kind": "plain"
+}

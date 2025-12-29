@@ -1,0 +1,21 @@
+{
+  "name": "scheme",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/zed-extensions/scheme",
+    "rev": "cd4c65965350e42439684b16bab7a3ea93d45e14",
+    "date": "2025-12-22T12:04:23+01:00",
+    "path": "/nix/store/3lbyf4l9man75ak3v6z9k6s2yyagh8ql-scheme-cd4c659",
+    "sha256": "0pny26h4m6l8allgb0azblh95ykwdipbycbm51kv5b9xmcm1m0ws",
+    "hash": "sha256-moMaKqs9rbJnKHUxv25sfPqSIF1fgfUoVYiaSqAR3l4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "scheme_scheme"
+  ],
+  "kind": "plain"
+}

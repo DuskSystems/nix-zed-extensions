@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-pro-max",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/kussumma/one-dark-pro-max",
+    "rev": "388c4987b9f655a55d87b07fe793514ec834baf9",
+    "date": "2025-03-11T08:59:05+08:00",
+    "path": "/nix/store/g11i8ia7liabzr5shvimv2nmgyljrq56-one-dark-pro-max-388c498",
+    "sha256": "0x7ypl9pqvqspgrjw734gq6krqxmbzmngzmf8s3d1ry4gmrj5pzk",
+    "hash": "sha256-898ic33E59CGRq7+Z+tfteM8DX5kHC7zuxpvfBO9/nQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

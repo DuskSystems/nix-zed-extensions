@@ -1,0 +1,19 @@
+{
+  "name": "flask-snippets",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/ayberkgezer/flask-snippets",
+    "rev": "d9afd65c364e08299c6dbea1fac41e2e42e1a35d",
+    "date": "2025-04-04T13:05:05+03:00",
+    "path": "/nix/store/vh05v61qz670yyljdhza00hynjqmar5p-flask-snippets-d9afd65",
+    "sha256": "07vl5hfnzmy7kjmnaad1qnhf09y8w8g0j6k0sq3pshjqa5b8yxjr",
+    "hash": "sha256-WXaPVlFYQn0H1mAaCR7iyCfgoMWhKWWrnMfXbx0sdB8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

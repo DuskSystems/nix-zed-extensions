@@ -1,0 +1,27 @@
+{
+  "name": "baml",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/BoundaryML/zed-baml",
+    "rev": "670e3adf382a7d6443161fdb53d7fbf7aec7da67",
+    "date": "2025-07-29T20:43:10Z",
+    "path": "/nix/store/v26khha6aqvzli7iq6ydp4k3x8kyk77v-zed-baml-670e3ad",
+    "sha256": "0s8h5q4xghk778vvn11d5h5v65xnsvacddhrk19q65q4lpnyxddh",
+    "hash": "sha256-sLXu7aUEF4NTmBm2xtTWthezCywtBLs3OmfC1wkuEGk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "baml_baml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wA2qBkWqLirl/jaIbAEalRIV9E6tLSsHEIu169OwubI=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/baml.lock",
+    "outputHashes": {}
+  }
+}

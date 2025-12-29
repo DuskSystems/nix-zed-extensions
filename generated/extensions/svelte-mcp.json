@@ -1,0 +1,21 @@
+{
+  "name": "svelte-mcp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ghostdevv/zed-svelte-mcp",
+    "rev": "b06edae954ca8fed39edbdd0815ad0a67f046f8e",
+    "date": "2025-12-08T20:47:42Z",
+    "path": "/nix/store/qlym7qvxgxvpdckahwzdgfq9gfiwl7vy-zed-svelte-mcp-b06edae",
+    "sha256": "0d1zvgp3b5nygg8rsh44na39v1kq5b6lgqha8mf96f5khr1h4y4f",
+    "hash": "sha256-jngCQ4azOJNcRQriR80qeIadhrKEQJ3Re96WNe7bPzQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/RN0paoD03sH+oMJ58UH/rDqnJdfBIeyYONpIjdvVsc="
+}

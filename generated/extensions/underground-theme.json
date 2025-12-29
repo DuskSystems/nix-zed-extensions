@@ -1,0 +1,19 @@
+{
+  "name": "underground-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/i-amdroid/zed-underground-theme",
+    "rev": "8879f376988e6a20c168848586263530d82f82ad",
+    "date": "2024-12-15T17:59:14+04:00",
+    "path": "/nix/store/imdfv2zpgwh0rd2q1a798z2vlr1xc0c8-zed-underground-theme-8879f37",
+    "sha256": "0s9nf30wvdlr2j1xiwy6px05alf0dp7mq4s108wha2v2n46bmkbp",
+    "hash": "sha256-d826DLFiCwU5AkETXM9twFFVQL/G89iDFJm2zcFwNmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

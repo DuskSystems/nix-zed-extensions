@@ -1,0 +1,27 @@
+{
+  "name": "unicode",
+  "version": "0.1.5",
+  "src": {
+    "url": "https://github.com/aripiprazole/zed-unicode",
+    "rev": "07c886b772cfb96a1482a86a481b071dfee45320",
+    "date": "2024-11-26T12:14:01-03:00",
+    "path": "/nix/store/mcmx40dbq1a796x5137181s10ihk68f1-zed-unicode-07c886b",
+    "sha256": "10zigjdmrl0hbnj79ij3nn9iibb3dssaj2gp8br64gjrnxwg7gyb",
+    "hash": "sha256-y7/zeLdZPmLyQvcJqbRuY60Yk7VDxnSkXRDQXJt88YM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2koCAbfWi0jKjjQWYKucN/E9nB2snKo7RMq6eV5z8GU=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/unicode.lock",
+    "outputHashes": {
+      "simple-completion-language-server-0.1.1": "sha256-1AeBdUu+NMkPmHkoZpcJGKpAqMe0SPjvuLuS93CxoRg="
+    }
+  }
+}

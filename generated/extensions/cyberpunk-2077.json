@@ -1,0 +1,19 @@
+{
+  "name": "cyberpunk-2077",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/takk8is/cyberpunk-2077-theme-for-zed",
+    "rev": "205b8cfa099e86a7ef88dd2ed699cd445ccc32be",
+    "date": "2025-06-29T05:01:21+02:00",
+    "path": "/nix/store/bk09vvvmg0jwkkj5m2m4anj2jai405pg-cyberpunk-2077-theme-for-zed-205b8cf",
+    "sha256": "0ys04w84rnaxn6phhpnvblmllfagx3b4911mwbbmf8sxvgpkzncp",
+    "hash": "sha256-l9k/79tdI1fX4jWERNboTzlKK13bXgivsV3ZTBAnQHs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

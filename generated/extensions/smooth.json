@@ -1,0 +1,19 @@
+{
+  "name": "smooth",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/segersniels/zed-smooth",
+    "rev": "04783e36aeef1b9008a1ccb1f8f38623bdaa4586",
+    "date": "2025-12-17T10:47:34+01:00",
+    "path": "/nix/store/0l2f9r08ihkgfva9dasv02kgir5ci7c6-zed-smooth-04783e3",
+    "sha256": "06ywn9lix03lgmkclnj8llq9rkp76bn84rqvd99qw2cyslmgcxf6",
+    "hash": "sha256-xnX2KtWeCY5Tahtnguwy586cMKVIWspmfXSAHmmy3Bs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

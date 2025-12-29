@@ -1,0 +1,19 @@
+{
+  "name": "monospace-icon-theme",
+  "version": "0.1.5",
+  "src": {
+    "url": "https://github.com/irmhonde/monospace-icon-theme",
+    "rev": "dcb5f21f99da2f19453ebce42878bfbd69a59d65",
+    "date": "2025-10-05T21:24:25+02:00",
+    "path": "/nix/store/3z34g6n0j9bix25xm9m6cpmb3gmk77aq-monospace-icon-theme-dcb5f21",
+    "sha256": "0jdwcjs0q8x142ayjpr1x31di3i71ailn5ih9hwzrh0jan8n6ha7",
+    "hash": "sha256-R0FjkVUSwPw5TDAWS6MKJ47YwughX+mVIKEjDLRkvEk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "clojure",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/zed-extensions/clojure",
+    "rev": "4d9b6d64d7dabff8ee7a6ac1af516db6375dbc76",
+    "date": "2025-12-22T11:06:25Z",
+    "path": "/nix/store/8b5cw6c8yi0kjapf00l3xc9v82xsyv97-clojure-4d9b6d6",
+    "sha256": "0fi2dd747akm351kv887g120jp6q0z3xrfj2c78zl1mf35mpf230",
+    "hash": "sha256-YAh3axmuBvrRYUK63McH2FwJRHgHoT1DGXWqQ05rIjo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "clojure_clojure"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EzxXvxBQr5FW21MRV60q7pC0/rD3w/JEV4H/BlNhF+s="
+}

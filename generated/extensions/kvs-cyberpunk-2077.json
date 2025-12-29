@@ -1,0 +1,19 @@
+{
+  "name": "kvs-cyberpunk-2077",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/notKvS/2077-zed",
+    "rev": "4e727296ddb52ea2f73d82e119eb5f2b71813910",
+    "date": "2025-11-30T18:28:07+05:30",
+    "path": "/nix/store/avgf32d5ha7wq38zz8hqvvayvv9ipzf2-2077-zed-4e72729",
+    "sha256": "06p0lzdp2a8mrng8gamrpblkaidrvblc20gs7nvhcdgxhxs76nn8",
+    "hash": "sha256-yFpzdIf9NQa3PfoBwejauUU16bq5qoeezRUpcdun4Bo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

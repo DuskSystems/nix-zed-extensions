@@ -1,0 +1,19 @@
+{
+  "name": "ultralytics-snippets",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/ayberkgezer/ultralytics-zed-snippets",
+    "rev": "7b18f87ad26e19074239b71ec4de1b3433234049",
+    "date": "2025-03-28T10:02:01+03:00",
+    "path": "/nix/store/wqxmcgjk27jx37b9blapm7gckjzaxnsf-ultralytics-zed-snippets-7b18f87",
+    "sha256": "043hmbrm1pmna08vra4qy5iba69h3zjlb3gpzg2dd4jrn7w2gxqh",
+    "hash": "sha256-EPcn+LFZktbE+/eNReUfMBm1YvGYqLwRULbeUPOqcBA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

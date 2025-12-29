@@ -1,0 +1,21 @@
+{
+  "name": "codebook",
+  "version": "0.2.5",
+  "src": {
+    "url": "https://github.com/blopker/codebook-zed",
+    "rev": "0a460f0774f297e53ee1160351f4476c1ef8e23b",
+    "date": "2025-11-16T19:12:10-08:00",
+    "path": "/nix/store/q7nk8f87qpiha9jwx4ak324wavqwzs75-codebook-zed-0a460f0",
+    "sha256": "0qafxqbscy4r561c3s2vd1x4nj4yzsp0s3azxsmwz1zcsajmj819",
+    "hash": "sha256-KSBZpdLsh8+r7l8NDa7+nkhLemhb6MGCKZl4phfuTmE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NhBIzd2/MsuJDzd0arXkDSuBFjjMlWoSLYNiP8oSNO4="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gcode_gcode",
+  "name": "gcode",
+  "version": "4c1afe6d2cc3c9946ad188fc74e17bb474d0e5c2",
+  "src": {
+    "url": "https://github.com/ChocolateNao/tree-sitter-gcode",
+    "rev": "4c1afe6d2cc3c9946ad188fc74e17bb474d0e5c2",
+    "date": "2025-06-15T20:49:59+03:00",
+    "path": "/nix/store/blnlzbr6f0m1lmr8n27r9jxnyn7z9l3b-tree-sitter-gcode-4c1afe6",
+    "sha256": "1cz88anpk2yfwwmrlplw9y3sjhcrayinda8q4agrzw8g4bl2ayi5",
+    "hash": "sha256-JXol6CIP8Z+fIhipZqNXmUGph0+cXpor586Lea1C6LM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

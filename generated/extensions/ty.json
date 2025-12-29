@@ -1,0 +1,21 @@
+{
+  "name": "ty",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/zed-extensions/ty",
+    "rev": "12d1dbf2d621398d63d8d797146fa57269e59b1f",
+    "date": "2025-08-08T16:47:33-04:00",
+    "path": "/nix/store/slmdr8vaz8mv4wfnzbilmwv8lq4w6qqd-ty-12d1dbf",
+    "sha256": "0a2hcybm9i9by3cwx1c016dzhf8fzwvsmrqbdlfc1lfd6ydgvqrz",
+    "hash": "sha256-P+P9mjfN0cAcbQvnqjf/Djn4mwmAhc7Z8CvFVJdnUCg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Fu5akyoZoRf+JfmiI9vkL9l04VvullOmncGM8cj3hTw="
+}

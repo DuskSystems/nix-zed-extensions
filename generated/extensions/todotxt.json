@@ -1,0 +1,21 @@
+{
+  "name": "todotxt",
+  "version": "0.2.3",
+  "src": {
+    "url": "https://github.com/pursvir/zed-todotxt",
+    "rev": "a66cd4170316a9ed47d26c54710bedfeff58178a",
+    "date": "2025-08-11T13:30:21+03:00",
+    "path": "/nix/store/2bhyjpjihv2mv4w7z7csnq39miqicxxj-zed-todotxt-a66cd41",
+    "sha256": "03fppmmj023g3dj6lsrbs1g0nxbknggvnz5sg7r2v057amj4h7an",
+    "hash": "sha256-Vh1IZFWngC3yebp8u9+zc3ULXtAra2pkG28IIGu91w0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "todotxt_todotxt"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "slim",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/calmyournerves/zed-slim",
+    "rev": "4318c1573ddcc4a6526f92e40145f8348c696469",
+    "date": "2024-07-09T09:56:36+02:00",
+    "path": "/nix/store/n9d71zfqdaiac9ry76vsiij4qcy9ywrq-zed-slim-4318c15",
+    "sha256": "0irs1chmwkbd4zh04f8c19xzpbdw85166z19dwpj85wghm05x05f",
+    "hash": "sha256-roBeQIWPFyQvbyl8Y0JBvK37ewoMOQLgJ21NXiELOkc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "slim_slim"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ion",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/tartarughina/zed-amazon-ion",
+    "rev": "bd6572e5d7ac19441c403fd183b4513fb421ae97",
+    "date": "2025-10-04T22:50:49+02:00",
+    "path": "/nix/store/md258yjl9pdp0iw9w85221dkc8wx0r14-zed-amazon-ion-bd6572e",
+    "sha256": "0cmnrhnkz1sx33j39zpqgqxyqv5w0p9mn4ir18jj968m09jlk88l",
+    "hash": "sha256-FKFJZQIVmSQlCjkSW9MFvGzsO374/jTkGF2HPy3MtjI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ion_ion",
+    "ion_ion_schema"
+  ],
+  "kind": "plain"
+}

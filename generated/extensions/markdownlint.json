@@ -1,0 +1,25 @@
+{
+  "name": "markdownlint",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/vitallium/zed-markdownlint",
+    "rev": "9d5d18cac5ffb0786083d52c7f03f8ee0019efb7",
+    "date": "2025-10-27T18:48:21+01:00",
+    "path": "/nix/store/5823jkx44j68anzfh3qfj1xpqcz4rsp6-zed-markdownlint-9d5d18c",
+    "sha256": "1mwzc5ccnm13l0dxm04hlglrcq4vg7cmwwiqcwqir3ars9sw9jgk",
+    "hash": "sha256-88nEddJZjRwxZzhyXtl5m2CW6aOQgNoboCNUy1hhn9c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dyYT1I4rZ+lcDsgRmLgJMc3ff3z/9BHpwhdncRT5ZJM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/markdownlint.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "fleeting-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/FleetingEcho/zed-fleeting-theme",
+    "rev": "59aa4c18373b6ccfbc25ba71f74ee26e2dd6f171",
+    "date": "2025-11-25T18:27:55-08:00",
+    "path": "/nix/store/lr8iwwhr00bq1216q09ia8ld09ky0mam-zed-fleeting-theme-59aa4c1",
+    "sha256": "09i80yxzypl4vzikpcmbh1y04bbling6pxwz2kyhs60p9sn5q7di",
+    "hash": "sha256-sR1crE4XGA39FJ/3a56NdC0CfICrsjvj34Re/7sHKCY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

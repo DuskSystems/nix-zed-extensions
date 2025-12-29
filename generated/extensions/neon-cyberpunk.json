@@ -1,0 +1,19 @@
+{
+  "name": "neon-cyberpunk",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/arunk140/neon-zed-theme",
+    "rev": "5357242d7a5a5f8f2edc45f1ca4c6ed7195cda36",
+    "date": "2024-09-24T19:07:17+12:00",
+    "path": "/nix/store/k2mycqppcvfs8y41b98qyivx36x8lf1i-neon-zed-theme-5357242",
+    "sha256": "075v5fg0j2i5ph78r69qmd9p621s3fxylw8xbb29klb4m9r4879i",
+    "hash": "sha256-MR1Ecqpk0ZnEWh1x6rsbOghzU6s4mYwOvCUKCZ4ruxw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

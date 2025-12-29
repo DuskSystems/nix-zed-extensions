@@ -1,0 +1,21 @@
+{
+  "name": "color-highlight",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/huacnlee/color-lsp",
+    "rev": "bb532223ad71936a25fe492d94a519a60f3a7814",
+    "date": "2025-12-10T22:15:50+08:00",
+    "path": "/nix/store/jp47081rvl7lg9ina497g3p98gy6470n-color-lsp-bb53222",
+    "sha256": "1qi1mxjrni6x938spn6bflyksvhb9izl3df6aqqh62lgdp6m6jjk",
+    "hash": "sha256-U0pTzW2PCgMxVsa1QX9MC249PXXL2KvRSN1Em2WvIeI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed-color-highlight",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-etK+9fcKS+y+0C36vJrMkQ0yyVSpCW/DLKg4nTw3LrE="
+}

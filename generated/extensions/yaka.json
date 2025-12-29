@@ -1,0 +1,19 @@
+{
+  "name": "yaka",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/edgarkanyes/yaka",
+    "rev": "3596b10c959a56b08f5d317c6320b477a9cc87c3",
+    "date": "2025-07-25T19:03:51+03:00",
+    "path": "/nix/store/m4vdhmsym0q7nh8hi6kaq1axhp3sbgsr-yaka-3596b10",
+    "sha256": "1xcfsrwsbyzlnldj4wy27w4l5xlryl6520vnkzr99y7n58za73d7",
+    "hash": "sha256-p42jPir2+JTyn3YDUQz1mfZCCT/CcyIbtfT7pXnWjvU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

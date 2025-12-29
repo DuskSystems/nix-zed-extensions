@@ -1,0 +1,19 @@
+{
+  "name": "andromeda",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ChocolateNao/andromeda-zed",
+    "rev": "4122ec281f6d54343f7ce5fa7d7c6e03c056b05e",
+    "date": "2025-04-21T02:14:03+03:00",
+    "path": "/nix/store/mm3r8jngzckwcl70fx6lx13pzjhsqxsg-andromeda-zed-4122ec2",
+    "sha256": "0r847yah02lmhx78fpirbwmlvwy86lqgf6y2ys99lampr5g67gix",
+    "hash": "sha256-Pb5jXsm3KpqS9sIb9zA1yPNNK185XodOh5UKAJU/BGU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

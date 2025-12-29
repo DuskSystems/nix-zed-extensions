@@ -1,0 +1,19 @@
+{
+  "name": "nvim-nightfox",
+  "version": "0.6.1",
+  "src": {
+    "url": "https://github.com/cange/nightfox.zed",
+    "rev": "bc45db00e75b9f8fb1442db8ac4c0dc694896eb2",
+    "date": "2025-10-28T19:33:07+01:00",
+    "path": "/nix/store/49pdrndkdgswdn82bpnsywprm77427qb-nightfox.zed-bc45db0",
+    "sha256": "1xjlw89ypr02a4fa3p97j8n0cxshwdcq1zxb06fcr9pkwrmdninp",
+    "hash": "sha256-10bbaubzpsycAav/gFnjUHcGLJIn3aEcUQLk6xPiVPY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

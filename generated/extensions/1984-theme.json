@@ -1,0 +1,19 @@
+{
+  "name": "1984-theme",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/chenmijiang/zed-1984",
+    "rev": "657f429b56266594f82d0320b4e92aeba37be94f",
+    "date": "2025-10-16T22:27:58+08:00",
+    "path": "/nix/store/3jyy1alg4snnmx3nn53gx7f3zqmyi9p5-zed-1984-657f429",
+    "sha256": "1p62crnsvndvw2l1hc496i72d5pxv53cam0h0nvjkby83xdvwx8a",
+    "hash": "sha256-CnW+Wx/Irym3BRBUxUbZ/ZYmTjSJMBio4LvZrW1mwtw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

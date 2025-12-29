@@ -1,0 +1,19 @@
+{
+  "name": "thorn-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/celioreyes/thorn-zed-theme",
+    "rev": "e1541b3f622bdaace319953f72773ec0525c08d3",
+    "date": "2025-12-09T18:02:06-05:00",
+    "path": "/nix/store/zsfgn65mlfi35k15vfj2ds7ffaj6rn19-thorn-zed-theme-e1541b3",
+    "sha256": "16f0q7zp3lsz9d2nq0df7bmykqbnbiwrws9756z6m76v5mbfpdl1",
+    "hash": "sha256-gbbrVi3bnGq+KSdpnnlcduHp6zquAWxFS1/Tcf/BwJk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

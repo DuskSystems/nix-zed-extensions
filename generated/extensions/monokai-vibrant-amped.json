@@ -1,0 +1,19 @@
+{
+  "name": "monokai-vibrant-amped",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Ceebox/zed-monokai-vibrant-amped",
+    "rev": "891b34b2e3d50e114f1710c16b1e322ae245c7bc",
+    "date": "2025-01-27T15:42:58Z",
+    "path": "/nix/store/ki45kr8cfspvzsy8hi01qi3id0y18avr-zed-monokai-vibrant-amped-891b34b",
+    "sha256": "08agyma7a44m8s8pmihabax4cnl69yd0nb5qw4n8zjjzjrqb4x4a",
+    "hash": "sha256-inSycJZfyo8s4bgsC5pPhlpGuloKxnqRRpUQdVT1TyE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

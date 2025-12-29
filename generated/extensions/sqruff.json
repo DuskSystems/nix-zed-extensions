@@ -1,0 +1,25 @@
+{
+  "name": "sqruff",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/gvozdvmozgu/sqruff-zed",
+    "rev": "7232eb3d74cc97cdcf8fe23d6b3c9e43a82d5368",
+    "date": "2025-01-21T07:56:10-07:00",
+    "path": "/nix/store/2l25q0x8303cwd207yq6cm18mdx6bfrp-sqruff-zed-7232eb3",
+    "sha256": "13ngpb4a615nl2rhka5867y1nwl9haz15hrgq4fw25vcz8dlm05g",
+    "hash": "sha256-r4BKG/psF8EdwS/DEr6CiXIb/DGoqAmzoLYEo8i6z44=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-itOK0Na0+WJXE5CeV8jPAVpW8AwJRzESxES7GEpb0ks=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/sqruff.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "koto",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/koto-lang/koto-zed",
+    "rev": "21e2b947d636fc633dc18995fe8392049b0385a9",
+    "date": "2025-05-18T00:06:24+01:00",
+    "path": "/nix/store/hrqnqnanl0zwqdacndvhz2mfhj8r1vnv-koto-zed-21e2b94",
+    "sha256": "1aj367i3chrwixlr4ljifxhcrzj148s49h00ljzhcp621dyviqxm",
+    "hash": "sha256-teO4fQvCXAa/pADARDQiQf7MYHdRUpJpjzxDNuIxQ6o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "koto_koto"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-SWsb4LgKs3lo+QZ3bFz9MIheWMtqc6wM1SHSVENUvjM="
+}

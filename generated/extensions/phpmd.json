@@ -1,0 +1,21 @@
+{
+  "name": "phpmd",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/GeneaLabs/zed-phpmd-lsp",
+    "rev": "951c80eaa4f77dda83ee8e486c68b95d7664ac06",
+    "date": "2025-09-03T08:11:25-07:00",
+    "path": "/nix/store/kh49by8np4x67ly4j512aj6gfz9w9l70-zed-phpmd-lsp-951c80e",
+    "sha256": "0p3vx37jl5wf4yrxkq01b7bvvnfdkbg53f5qb3qmk43knykj9hyn",
+    "hash": "sha256-1sMkp7dzkFnxWLi4Ud6azdm911kB4NmzJ44XKs/oe1w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lyT+sgmfoXzQrf1jV6h2CrUmOtsuSrxia9ZnG/MDFL4="
+}

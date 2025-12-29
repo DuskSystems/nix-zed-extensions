@@ -1,0 +1,18 @@
+{
+  "id": "txtar_txtar",
+  "name": "txtar",
+  "version": "157687ae1ec94222d11bea4025ec880c4e0d94c5",
+  "src": {
+    "url": "https://github.com/FollowTheProcess/tree-sitter-txtar",
+    "rev": "157687ae1ec94222d11bea4025ec880c4e0d94c5",
+    "date": "2025-07-14T15:00:44+01:00",
+    "path": "/nix/store/9qnn0il9wlf6sl8n227mf4xqm65bpqax-tree-sitter-txtar-157687a",
+    "sha256": "0l9vkiaxgw3w21895y2m6ppj38hnx3n98jijqqdp38ihhrwq377d",
+    "hash": "sha256-7ZyBeYYwonEbxjJKlOzoFqIh7zVV+JJQEHzw11WcO1E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

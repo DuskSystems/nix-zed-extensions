@@ -1,0 +1,19 @@
+{
+  "name": "railscast",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/pbsds/railscast-zed",
+    "rev": "3a19c1e0f3219fbec63511efcdd3f78ee4f6c3b3",
+    "date": "2025-03-03T00:13:48+01:00",
+    "path": "/nix/store/18nvbmv8xf6f3qims8izdpcx3nxa2zqf-railscast-zed-3a19c1e",
+    "sha256": "1jnk8416mbqva0rjnhfgc12bl517q8p7vfvkvapxfm2q593602bk",
+    "hash": "sha256-cwlgRipYVNev2nO7fS7CJxS6RGDPQSszUBuvagJB08o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

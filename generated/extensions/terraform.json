@@ -1,0 +1,23 @@
+{
+  "name": "terraform",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/zed-extensions/terraform",
+    "rev": "5ea4664f1cf43e77456631f50639c970f944eea5",
+    "date": "2025-12-22T11:07:42Z",
+    "path": "/nix/store/gbfiz9d7yph01pv26sagwnkszdlxhxf8-terraform-5ea4664",
+    "sha256": "10pmab4z4k65ikffr0q3a3nraqw6hqyw4wmnrms5b763cwv0bb3i",
+    "hash": "sha256-cawFNmfDnFV0zbZywj2GhmOV7VADg+zcjMVM8slS9YI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "terraform_hcl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8ffejosfhVvKITT+OxcvM8R3hOJ5r79WmNsMZTTXwGw="
+}

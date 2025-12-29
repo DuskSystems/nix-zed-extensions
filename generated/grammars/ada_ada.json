@@ -1,0 +1,18 @@
+{
+  "id": "ada_ada",
+  "name": "ada",
+  "version": "e8e2515465cc2d7c444498e68bdb9f1d86767f95",
+  "src": {
+    "url": "https://github.com/briot/tree-sitter-ada",
+    "rev": "e8e2515465cc2d7c444498e68bdb9f1d86767f95",
+    "date": "2024-05-23T09:24:58+02:00",
+    "path": "/nix/store/vgjxrhz86634gszcy17j3b9c08s4v7a5-tree-sitter-ada-e8e2515",
+    "sha256": "0vwi4yc6hs7k4djkwhk09q19lw1nswjfh3aksh2mzqyi3ni9byx9",
+    "hash": "sha256-qfuVoh3R418F1FMN6CTXNnCaAk5gQj5lI/NoaJgnkW8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

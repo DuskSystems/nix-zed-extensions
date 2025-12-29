@@ -1,0 +1,21 @@
+{
+  "name": "code-stats",
+  "version": "0.2.7",
+  "src": {
+    "url": "https://github.com/maxdeviant/zed-code-stats",
+    "rev": "b9dbf93ce98b9b6d68cd0739cf9115f9ced04bed",
+    "date": "2025-07-20T09:58:04-04:00",
+    "path": "/nix/store/14azvp6yhn0flv80vh4445aahyn83k1l-zed-code-stats-b9dbf93",
+    "sha256": "1384vby6g8h505hd1m2kb53ygk95vszkkywhw9mjnkvda9fbhikg",
+    "hash": "sha256-b0a4XFJtTytr4pD7Ob/eJc3nR1lT1NBgAQWiZ/zaBI0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Fqqo+M+RiyFKrOUvEfGLSIwGitZr4Uq+htQy1SWEjF0="
+}

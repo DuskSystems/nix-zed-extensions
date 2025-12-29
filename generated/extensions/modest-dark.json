@@ -1,0 +1,19 @@
+{
+  "name": "modest-dark",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/timcole/modest-dark",
+    "rev": "7e0febea65f7ebbc4b3f0ce45adc340d7e6e8738",
+    "date": "2025-05-16T15:42:12-04:00",
+    "path": "/nix/store/bhfjzghg9znrmd0wkycf7g3x9dra41fj-modest-dark-7e0febe",
+    "sha256": "1cdkrld46r821dcjhb4993kajy36gqmgkz69ilpx3djh28jzy0iw",
+    "hash": "sha256-PAL/JRJQttEvjcn8+Sp+Znip5kiJLChZCwJlQxrNs7E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

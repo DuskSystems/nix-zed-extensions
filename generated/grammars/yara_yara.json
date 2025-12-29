@@ -1,0 +1,18 @@
+{
+  "id": "yara_yara",
+  "name": "yara",
+  "version": "eb3ede203275c38000177f72ec0f9965312806ef",
+  "src": {
+    "url": "https://github.com/egibs/tree-sitter-yara.git",
+    "rev": "eb3ede203275c38000177f72ec0f9965312806ef",
+    "date": "2024-12-11T19:16:15-06:00",
+    "path": "/nix/store/8hpz6345pmzkz79s09h45p1aiy8nrd3s-tree-sitter-yara-eb3ede2",
+    "sha256": "0x74sq7m6454kg0smpfrb1v1wc3g1qia26r1fq7lsf6acwpin1xp",
+    "hash": "sha256-twcbL2fKOE0PdiEboSIObzAedljZ3arBm6QQUw/W5HQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

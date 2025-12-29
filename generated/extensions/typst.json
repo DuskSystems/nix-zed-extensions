@@ -1,0 +1,23 @@
+{
+  "name": "typst",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/WeetHet/typst.zed",
+    "rev": "91781bb3fa0340655d756feb8edd7067f3fc357c",
+    "date": "2024-11-05T16:19:10+02:00",
+    "path": "/nix/store/9259ijsv96azcps210ghyhk4x7f4g9j1-typst.zed-91781bb",
+    "sha256": "0kpbzcflivdbjzp5j390n633b3rqxw5wgakdk645irn4rsckqkkm",
+    "hash": "sha256-dU48mc7E5liImW2qxwvvOI81hrEgDVnul6vtSB37604=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "typst_typst"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-5hZCvKtuPCOHUu4+BktrdgtI4jb3wLj93IwhSbORjrI="
+}

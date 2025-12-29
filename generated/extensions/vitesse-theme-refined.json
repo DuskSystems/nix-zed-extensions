@@ -1,0 +1,19 @@
+{
+  "name": "vitesse-theme-refined",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/colinlienard/zed-vitesse-theme-refined",
+    "rev": "b64ca5e0eb6730a7a6266448fde96cec7f0287be",
+    "date": "2025-12-06T16:33:48Z",
+    "path": "/nix/store/iwsli13a4fpw7w33jn8jqagr34iffav7-zed-vitesse-theme-refined-b64ca5e",
+    "sha256": "04dnw3lvgmfl7v78hp0lckqwi8nzhxps64wk5lldpxqlbmw26x0d",
+    "hash": "sha256-DXQjeF0U99soLZMTo2+H36LI8WQUXIjOPtTVt+ngthE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ada",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/wisn/zed-ada-language",
+    "rev": "0eb9d9f4b055720438d74106d5f99146c0bb23a5",
+    "date": "2025-11-17T00:32:48+07:00",
+    "path": "/nix/store/3fzl6qr8rwnk4khnf773x7fgzngiy1ha-zed-ada-language-0eb9d9f",
+    "sha256": "1h162imadn72jjkxx3cd30iwb55b2f6i06i7mpzcqf7qh7zwm73q",
+    "hash": "sha256-eJzK/4H4OMz+rScaEI0Tq5TFIxiNjd6nlOLYpmoUJsA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ada_ada",
+    "ada_gpr"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-J307egv34WfBFH0ri9cWrvpqJvZ0P/PD33a9sCnvrMc="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ninja",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/c0mpiler/ninja.theme",
+    "rev": "e4d6727f6475e4f42ba3846d504298bb79e5e887",
+    "date": "2025-03-26T15:57:04-07:00",
+    "path": "/nix/store/nk7q6pv8m5wf8b0f5cny55bzwm2kcxnn-ninja.theme-e4d6727",
+    "sha256": "04rfv79s9sz7crinrbmgwggdx6yc88xjlimgcpwvcpqwna1h56np",
+    "hash": "sha256-15oCg7IcX7b5Za9GKjtCzJve3uOvrmxjZufrpNPZLhM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

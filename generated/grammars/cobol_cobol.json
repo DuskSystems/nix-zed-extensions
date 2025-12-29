@@ -1,0 +1,18 @@
+{
+  "id": "cobol_cobol",
+  "name": "cobol",
+  "version": "934ac8b118f59bdc6827b0a322ebd94117f0509b",
+  "src": {
+    "url": "https://github.com/willswire/tree-sitter-cobol",
+    "rev": "934ac8b118f59bdc6827b0a322ebd94117f0509b",
+    "date": "2024-12-20T22:47:39-05:00",
+    "path": "/nix/store/zrny2yrb75m4zdk8q0ffysm8isd098q4-tree-sitter-cobol-934ac8b",
+    "sha256": "13zpnhr96q3qa4q2y44gdhs2sjwg8da38nnji64vmsyr797vq99s",
+    "hash": "sha256-OiW8TzrZ67qJidJaNFRDj0stNGyPEC8wUXhgkzK0948=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

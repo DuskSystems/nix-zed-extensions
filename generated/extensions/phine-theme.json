@@ -1,0 +1,19 @@
+{
+  "name": "phine-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/phisch/phine-zed",
+    "rev": "301c017eaf8dda1fffdaa749952599de84ef6eb1",
+    "date": "2024-12-15T12:21:27+01:00",
+    "path": "/nix/store/h4x48idm3j4fb2vhiaxd1bndzlxh1bms-phine-zed-301c017",
+    "sha256": "0hid68m5qwnxdww52kp62fb849k7js17mw5ipk4j74ppnhmh4s5b",
+    "hash": "sha256-q2gCK7T3kiPJvLHweoKWZyaClhPmTlE4b91yXCoyLUI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

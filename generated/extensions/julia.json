@@ -1,0 +1,23 @@
+{
+  "name": "julia",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/JuliaEditorSupport/zed-julia",
+    "rev": "89f6920babbf050ffe8e968e8cfad72cf593dd2d",
+    "date": "2025-09-10T20:03:28+02:00",
+    "path": "/nix/store/a0r1mpdxr0jik5qvkhqg7j2fx0ilgxvc-zed-julia-89f6920",
+    "sha256": "07bj5v9qrvqbyyswvlmkndhcr0lrw3f9wq11s4x4zvz7fvimidp8",
+    "hash": "sha256-6LZY43bn70860SFgntzgmYLMYLOz0s219wvvjNMuch0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "julia_julia"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-1+sxEkqICOo8S/qOoCkf4ZUd9c76rdu4j8dZ/A9kdTg="
+}

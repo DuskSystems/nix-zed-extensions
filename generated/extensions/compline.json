@@ -1,0 +1,19 @@
+{
+  "name": "compline",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jblais493/compline",
+    "rev": "e7fd790cd1194c87a6e10ec07bb0db2625e6144f",
+    "date": "2025-12-01T10:23:56-07:00",
+    "path": "/nix/store/bj2jhw8h3hkx4y4749ch82nqr91wri84-compline-e7fd790",
+    "sha256": "198him0dna04q3kj26632vkpgljh42hvqd5z4hhpgv5gkjjh084w",
+    "hash": "sha256-nCAApZyv7HchJL80vKEgUNJ35xbDGCHnwAQo20CNEKU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

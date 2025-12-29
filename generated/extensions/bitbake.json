@@ -1,0 +1,27 @@
+{
+  "name": "bitbake",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/anikinmd/zed_bitbake",
+    "rev": "c77064e56f271181d6140d2ac5a81311b985f6d7",
+    "date": "2025-01-19T10:15:25+02:00",
+    "path": "/nix/store/2g60jmz1jcvs36k8i431prv9dqmgn83q-zed_bitbake-c77064e",
+    "sha256": "1is5j7dpw1k0947xd59pzmi5yv8vpaacz3lnxq2x11n7jaxy686q",
+    "hash": "sha256-2CDju5LHhtAF7paOz5S6G21fYv03ldYPSWAGftuRRcc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bitbake_bitbake"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-IJmkcBybJZ3LHA2ynZ8IHkzC8mKaPyjBpqM/NZX4LQo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bitbake.lock",
+    "outputHashes": {}
+  }
+}

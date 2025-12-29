@@ -1,0 +1,19 @@
+{
+  "name": "modern-icons",
+  "version": "0.6.0",
+  "src": {
+    "url": "https://github.com/BadRat-in/zed-modern-icons",
+    "rev": "b0df5cb65a1d8542d93eee5f5d43ffcd4c0beb1c",
+    "date": "2025-12-22T18:40:50+05:30",
+    "path": "/nix/store/53kv4mfrxpl5wriry1xkjyyc9bcqwqsb-zed-modern-icons-b0df5cb",
+    "sha256": "0yj2z6rh64vafnqpn28givbvk2ynd30qh532dz18ggahzlczb44l",
+    "hash": "sha256-lJD1Gf1QvYfCb2IUiMFo1ou5144PCXuxdWoTA7P5Qno=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

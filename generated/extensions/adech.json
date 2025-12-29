@@ -1,0 +1,19 @@
+{
+  "name": "adech",
+  "version": "2.0.1",
+  "src": {
+    "url": "https://github.com/adechlien/adech-theme-zed",
+    "rev": "e86e7e7a086544a44eb2fa3cb600bf3b96701336",
+    "date": "2024-12-05T19:41:11-05:00",
+    "path": "/nix/store/ziz57d0100m8lzhjvain68h5xrh6yiwx-adech-theme-zed-e86e7e7",
+    "sha256": "1sipqsald5xil592bqn9zzyz774kb9q46cxav6zc2zsrmjwfifzy",
+    "hash": "sha256-/rvouKxZf8G+2aozQ3Bak5zz/f/J4iVSobGXRpXGN+o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

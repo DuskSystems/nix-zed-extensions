@@ -1,0 +1,21 @@
+{
+  "name": "janet",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/vijaykiran/janet-zed",
+    "rev": "5f99a8757b852d875f390502ca3c039b902cc201",
+    "date": "2024-10-01T12:03:16+02:00",
+    "path": "/nix/store/wn32mial1682cjas7r884whjnbs1zmxw-janet-zed-5f99a87",
+    "sha256": "0nnbg763jng8y5cb5360fnplqsjra7lywyafq9223zyk2d3m537a",
+    "hash": "sha256-6oxSRxPT/yFEwk557ulRWWpMr3XAjLJY8ehZOcx5y1o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "janet_janet"
+  ],
+  "kind": "plain"
+}

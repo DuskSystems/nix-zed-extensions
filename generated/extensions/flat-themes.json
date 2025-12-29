@@ -1,0 +1,19 @@
+{
+  "name": "flat-themes",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/Aatricks/zed-flat-theme",
+    "rev": "49f65134e06a1da79a98386dfa48b6b1dacf902d",
+    "date": "2025-11-08T18:20:13+01:00",
+    "path": "/nix/store/da5kjyvcz4zcq9p91jm3dv0v3m61ky8j-zed-flat-theme-49f6513",
+    "sha256": "06grrf6l2am0cjmx74fjgacvkgi7zasd2gc5zi3hzx6znivhjv9l",
+    "hash": "sha256-NG0Jd7Tf9A9H/IU90bT6J765mXrSkdOrZKAqQY3L+Rk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

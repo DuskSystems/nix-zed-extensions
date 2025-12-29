@@ -1,0 +1,21 @@
+{
+  "name": "gitlab-ci-ls",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/tzabbi/zed-gitlab-ci-ls",
+    "rev": "ab41f27dbdbde69ec84e0608b83f0976d879a741",
+    "date": "2025-05-12T16:17:38+02:00",
+    "path": "/nix/store/gqvnrp1mxxr1mzsk9xzqp7lkbg4d5jxs-zed-gitlab-ci-ls-ab41f27",
+    "sha256": "1lizzz5sq55wyzh4g8wml5c727ksr3w22lqi7ziy2wapz14zymm4",
+    "hash": "sha256-pFb/SfhXceHjPxFTIfjIeh5xWKGVo0fg97wUrMv/P9I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-B6oHz/1CzZyHGtUacVgL8m9RhzSoNsjPP2dDbe4JRYU="
+}

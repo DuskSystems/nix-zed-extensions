@@ -1,0 +1,21 @@
+{
+  "name": "pug",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Baw-Appie/zed-pug",
+    "rev": "a232f48f380b9ad96ce5ccd3103c5c6f69bd0a14",
+    "date": "2024-08-30T09:13:27+09:00",
+    "path": "/nix/store/fdyxv8nvbi343hy3zmgdlj7gcbx765ll-zed-pug-a232f48",
+    "sha256": "00r1av0k8dd07i494lpnpzzdl483x37j0d0b1brkvi5v7q74j0ab",
+    "hash": "sha256-SwFJDj67xD3zCgs0IM/oAxHa/r/2UpJIPKA1NMFWIQM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pug_pug"
+  ],
+  "kind": "plain"
+}

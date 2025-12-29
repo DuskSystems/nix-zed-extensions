@@ -1,0 +1,23 @@
+{
+  "name": "purescript",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/zed-extensions/purescript",
+    "rev": "84e28832a132dea3e731d8c9b99089dcfd980da0",
+    "date": "2025-09-26T16:25:42-07:00",
+    "path": "/nix/store/nkjdjns14d49pb3vlnhp45zxzhpc46lg-purescript-84e2883",
+    "sha256": "1khd7fcvhk48951ai608a4zkvy4m6wivzf4n2g373gbvccg9yv8a",
+    "hash": "sha256-Cm2fHmN7vXHGE5a4vyM3lfg9P1EImKhCSYhMuJk7Dc4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "purescript_purescript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Ma+fJlQVkxE0aHguyLx//oUgmDqvELI/LGYc/rR3/J0="
+}

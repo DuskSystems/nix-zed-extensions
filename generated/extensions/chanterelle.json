@@ -1,0 +1,19 @@
+{
+  "name": "chanterelle",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/steffenhaug/chanterelle-zed",
+    "rev": "2f6cad9dfaccbd49f36e4557d3b529cc25756c77",
+    "date": "2024-08-26T22:55:48+02:00",
+    "path": "/nix/store/ajq4k2v6hqcfvxxpiizj0ad52bdxp46s-chanterelle-zed-2f6cad9",
+    "sha256": "0d54jw3jk4bcbi71xlx1hjdpdrp9kp97ikl8qc421gcqxfk3h5wr",
+    "hash": "sha256-mRc4puuYvSAIw4jOeNKd6eZ2m4Sh0x5OXGyRKQeXpDQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

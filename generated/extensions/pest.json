@@ -1,0 +1,23 @@
+{
+  "name": "pest",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/pest-parser/zed-pest",
+    "rev": "195614957930ef71b8411c65a0c0b71807c58ce4",
+    "date": "2025-09-04T10:41:43+08:00",
+    "path": "/nix/store/86sgz1y9784jnl65mv4im6vncjydgc56-zed-pest-1956149",
+    "sha256": "19zzn9ja2n9xbc8yh5vnn0fmgafh50qyzndg5ikky5gdxfn3r41x",
+    "hash": "sha256-PZA8rOvtFT9nLK/Z7zEo0KlXHbB2F+gRWz1ZoWSy/6c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pest_pest"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-6K398ord7O/2lBxT+A50TfGU+w9gXjKeh4wU5LOGyWM="
+}

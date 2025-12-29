@@ -1,0 +1,19 @@
+{
+  "name": "nstlgy-dark",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/nstlgy/zed-nstlgy-dark",
+    "rev": "8ac1dcf5d763b33a3e973fae062d945b75313b91",
+    "date": "2025-02-24T20:42:58+05:30",
+    "path": "/nix/store/j73lp5f3xy791cznj3ld0jld28kpw7j2-zed-nstlgy-dark-8ac1dcf",
+    "sha256": "0wcasx67fp3pp6g8mnw0qp02b0qp6mz7dxvf1mf8gzx9v1n7b2df",
+    "hash": "sha256-rol1bNip/4dcDW73dn41F4MlwMWA24qeuXdcd0zXinE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

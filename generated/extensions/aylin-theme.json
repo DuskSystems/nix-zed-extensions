@@ -1,0 +1,19 @@
+{
+  "name": "aylin-theme",
+  "version": "0.6.1",
+  "src": {
+    "url": "https://github.com/biaqat/aylin-theme-zed",
+    "rev": "5400531435c8474a10c4d0ac7cc37dd87adcd2a3",
+    "date": "2025-02-25T21:46:17-05:00",
+    "path": "/nix/store/m1rmgrafhmix78jz6137pacdylbhqkwg-aylin-theme-zed-5400531",
+    "sha256": "12p3bg81s5ljx2rnks879jqs7w1jn0cd5m0v405jwz0x7v6cz3s6",
+    "hash": "sha256-Ro/PzD4dfC4LIBvU0hiwMvCjsUwH6Wmz6JIWHdBb44o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

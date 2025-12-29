@@ -1,0 +1,18 @@
+{
+  "id": "angular_angular",
+  "name": "angular",
+  "version": "820566bb4eb3d288822dbfee42417a5a9491aea6",
+  "src": {
+    "url": "https://github.com/dlvandenberg/tree-sitter-angular",
+    "rev": "820566bb4eb3d288822dbfee42417a5a9491aea6",
+    "date": "2025-06-03T14:04:12+02:00",
+    "path": "/nix/store/p0ay9mzxdr9kvjnwilx267wh4s5bg3hi-tree-sitter-angular-820566b",
+    "sha256": "021ghp6j6ki6k7pasv3qd7nylw1csgcgyphw1mgwxl7j8dmvy9mi",
+    "hash": "sha256-sSa/a0Py0M5fDRxe/9jTLHDq7Wl4bK3umSZOI82FLwg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "grimaces-birthday",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ssaunderss/grimaces-birthday",
+    "rev": "a20c7f5450362efb759552aea7095d3e936fc0fc",
+    "date": "2025-05-28T09:39:09-05:00",
+    "path": "/nix/store/iaw0a2l81233m8ph7y6iyxfx3h0007kd-grimaces-birthday-a20c7f5",
+    "sha256": "0ry7q9cpcbd8nr3kb4q0014pgar9pkdf8mk2cgm0i5r4vxkqz4w7",
+    "hash": "sha256-h5OPZ98klwjqY2JW5Nq8Kat3SQAAkzVHtqgtdlnCx2c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

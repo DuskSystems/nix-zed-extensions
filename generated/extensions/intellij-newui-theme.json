@@ -1,0 +1,19 @@
+{
+  "name": "intellij-newui-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kpitt/zed-theme-intellij-newui",
+    "rev": "81799c329a3ab319569344440d61b0446c5e68ee",
+    "date": "2024-06-07T12:19:26-04:00",
+    "path": "/nix/store/82775vcr1h9yrp0a6nyxvr86i1vjiafg-zed-theme-intellij-newui-81799c3",
+    "sha256": "0s0kblb1wj627k35978v6zqschzf3c07jsjyil5bvca69l6z6i9y",
+    "hash": "sha256-PkXzDU1Gsb0KjV5qeQAb7kOm8TcbnVTGPMJIHhZdE2g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

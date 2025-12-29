@@ -1,0 +1,19 @@
+{
+  "name": "flat-theme",
+  "version": "0.5.1",
+  "src": {
+    "url": "https://github.com/biaqat/flat-theme-zed",
+    "rev": "578990d840caf63d100ad1dfc70bfff683aa13d3",
+    "date": "2025-02-25T21:46:20-05:00",
+    "path": "/nix/store/m1na1x1y9cn15ksg1kxysixvi71a6j2g-flat-theme-zed-578990d",
+    "sha256": "12qlynzi4a47wsyibrydir64k4yaxx43v185dfvgmqbkkbmf3laj",
+    "hash": "sha256-UtHh6ppz4fq2awWFPUjvypNJTI7N5xW95ocoEr/1FIs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

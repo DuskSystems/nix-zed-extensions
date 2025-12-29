@@ -1,0 +1,24 @@
+{
+  "name": "haskell",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/zed-extensions/haskell",
+    "rev": "b3011c4d8edbc71aefed3f61832cc7969213e713",
+    "date": "2025-12-22T12:04:13+01:00",
+    "path": "/nix/store/pi9dsclv63n5sq2wa16r7qgla4ivffg2-haskell-b3011c4",
+    "sha256": "0zmkbn3zc3vi7pfbp15b3whhs04mv9bjjs419m32rjvl196yi4qm",
+    "hash": "sha256-FZPoTQp0yyxGTYFoKVfalQANIR+rhLvcPXEP9odds34=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "haskell_cabal",
+    "haskell_haskell"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2jX7uwZ6ZQqCfXPtc6QCgMaFXqWgzePV7ycnci0Dp7k="
+}

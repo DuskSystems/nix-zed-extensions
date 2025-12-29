@@ -1,0 +1,19 @@
+{
+  "name": "min-theme",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/phibr0/zed-min-theme/",
+    "rev": "30adeec11a99bb585acc700902c04e160adf9989",
+    "date": "2025-05-16T16:12:03+02:00",
+    "path": "/nix/store/7ciyq30gykjpi5c53gc72ciswmrwv1z0-zed-min-theme-30adeec",
+    "sha256": "1i8bw55fzyfgdwfmdm7bhwkqkb3zrh65zz78fw3a6sfrq614k5p1",
+    "hash": "sha256-4ZZJgsHZaaMGd+j8XwzMf6yJJ4fr1FYdb8/570rhC8U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

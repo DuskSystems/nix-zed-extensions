@@ -1,0 +1,23 @@
+{
+  "name": "ink",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/yuna0x0/zed-ink",
+    "rev": "6a4fc4bf8da59f26bdeca37af27e0f303856ac84",
+    "date": "2025-08-17T13:16:53+08:00",
+    "path": "/nix/store/cj8vjscvgna2r8bvkgfkvdjlampnwqqn-zed-ink-6a4fc4b",
+    "sha256": "1pid3zv4r2cs080j0cd8fflyij2hkmz2xxzfiqf96gd0lbdm1hsq",
+    "hash": "sha256-WMNQ26KgPZMcju73Ln6dUMjoqXOoMSABApqJTPYfLd4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ink_ink"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0fifGN4E8z5gtSgojhXh7tWxHaKsKFvIiNh0e0TFvpw="
+}

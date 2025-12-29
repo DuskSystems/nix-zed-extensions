@@ -1,0 +1,21 @@
+{
+  "name": "postgres-context-server",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/zed-extensions/postgres-context-server",
+    "rev": "19eb2744dd00d9ea85e1b5ff90ded164735907dd",
+    "date": "2025-09-30T11:55:49-04:00",
+    "path": "/nix/store/hrjm4rvilpxzkzbhcxrsds7qhbzpd54y-postgres-context-server-19eb274",
+    "sha256": "1r7k32l0s1lwb7ivk6cgppnlpa191il2dyci02jil32mgpclasly",
+    "hash": "sha256-nmpF2X1VDBqlAJH5JmgMKahL7b2PmbnjWZwGDagY8+Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dgA3tYxS3zFTcHhc2m5er4VTOfiZqPNGXI0oyr2QQkI="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "alpinejs-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/A909M/zed-alpinejs-snippets",
+    "rev": "7e619a90a1214e3298f790faff8fa7006d2a5f97",
+    "date": "2025-08-30T23:52:42+03:00",
+    "path": "/nix/store/7whxlccl0b4mn37y0ahjr8z5llgbh0q6-zed-alpinejs-snippets-7e619a9",
+    "sha256": "1cxyji4zkx56iy1rairngqjwzv5z8h15dlddnnkk4bxdjp7v8xbh",
+    "hash": "sha256-cHW0z5WtLzKnta3RVgJEv+zPJX42R5WDj6b0+UmUvrM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

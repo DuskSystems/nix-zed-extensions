@@ -1,0 +1,18 @@
+{
+  "id": "d_d",
+  "name": "d",
+  "version": "45e5f1e9d6de2c68591bc8e5ec662cf18e950b4a",
+  "src": {
+    "url": "https://github.com/gdamore/tree-sitter-d",
+    "rev": "45e5f1e9d6de2c68591bc8e5ec662cf18e950b4a",
+    "date": "2024-09-21T17:44:18-07:00",
+    "path": "/nix/store/qnh1h8ar2lzfy5f31yw08m0w0h4jm4xz-tree-sitter-d-45e5f1e",
+    "sha256": "1y0kczf4yvk5qbvl5dcc8vf5xjjf2md44v0h3iv8lcmbjn093pmb",
+    "hash": "sha256-q96RgJWrMop2HBBsQloVTspe3EaMtUL3wmVuT9xnE/g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

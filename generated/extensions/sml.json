@@ -1,0 +1,23 @@
+{
+  "name": "sml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/omarjatoi/zed-sml",
+    "rev": "aff0b870608e3ca26e039e1d759bb4ee21ae0e82",
+    "date": "2024-10-28T10:18:55-04:00",
+    "path": "/nix/store/ab633r6yj4wb06v48gx1j1qvfihw6d4f-zed-sml-aff0b87",
+    "sha256": "072g1bd6ij9r2ndl3qkp59pwypr1wznk5ri4wji5cna2bgvqlr7p",
+    "hash": "sha256-92SK91tCWVai5CTmMu3nIV/Pbyp34kGbFTnJaNoKTxw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sml_sml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vazD5+I6ZMc1FGbuidnaZQ5lUP421lLzvsWwpMAEwKY="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "nyxvamp-theme",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/nyxvamp-theme/zed",
+    "rev": "598d475c34900e2d8a2cb73ff1c67b7505d58d96",
+    "date": "2025-11-13T16:39:42-03:00",
+    "path": "/nix/store/vvxq2zbb5kgj65f1x47a5qic5h35rj8s-zed-598d475",
+    "sha256": "04wma3ia7rx46yzqvgqp56vnmicc6h4s21ryjg6bl3l70ca0dvwd",
+    "hash": "sha256-je8GFAOHDrrMkz4HoQk0jMVqtykXv42/N6Tno+JQlRM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "v_v",
+  "name": "v",
+  "version": "fe01bbcc60195108736255ebbaf75c99c7e74f4c",
+  "src": {
+    "url": "https://github.com/lv37/v-tree-sitter",
+    "rev": "fe01bbcc60195108736255ebbaf75c99c7e74f4c",
+    "date": "2025-11-06T14:52:33+01:00",
+    "path": "/nix/store/vzvlmrjwba9g3dg5zgi2br4xbw3mdjpf-v-tree-sitter-fe01bbc",
+    "sha256": "1d4q5dnx4q52m4lc19war16a76g4hddz6492zkbnn1mcbfbcpk3i",
+    "hash": "sha256-cczLllusBmvX/CIR81uD5JmjTMiKp8AoqaJg0m0rmLQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

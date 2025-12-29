@@ -1,0 +1,18 @@
+{
+  "id": "cfengine_cfengine",
+  "name": "cfengine",
+  "version": "3651e94ad590f1d530a0a9d32862fa8816aba600",
+  "src": {
+    "url": "https://github.com/olehermanse/tree-sitter-cfengine",
+    "rev": "3651e94ad590f1d530a0a9d32862fa8816aba600",
+    "date": "2024-04-16T17:14:02+02:00",
+    "path": "/nix/store/6rb7r9l2i8qgi4mn74adkbfcx2aryjw4-tree-sitter-cfengine-3651e94",
+    "sha256": "0918sil06m42bln9pr9bxay0343v1zjvgvkdgq2pxx66zqdk60ag",
+    "hash": "sha256-TwEzG/7G9H4Ffm3ut+UPe5ABvOor5ZssXYJUA2jUKCQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "live-server",
+  "version": "0.3.1",
+  "src": {
+    "url": "https://github.com/frederik-uni/zed-live-server",
+    "rev": "e2f174103679360278c0f04a578c75bcb5853714",
+    "date": "2025-04-27T18:17:47+02:00",
+    "path": "/nix/store/3iqcpwfpfdwbc0gmz1kkh1bfpna2gr8a-zed-live-server-e2f1741",
+    "sha256": "1l0xwafzcsfyczwqdhqb16iiqs79sffyiqs7jv0wp06zmyjkhbbl",
+    "hash": "sha256-dC04pa/fgMvBlkfj6J3T6WgcowkLw4b5Z95p9p3iHdA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-z2QQayddQClBAcm4MG4e/LNVfhdPRWX6wHOVV1aEvsE="
+}

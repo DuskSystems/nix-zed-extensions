@@ -1,0 +1,19 @@
+{
+  "name": "bearded-icon-theme",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/sethstha/bearded-icons-theme",
+    "rev": "ad39c683a51f56bce9c16ee8d5e7c9e0ae9dcccb",
+    "date": "2025-03-07T17:08:33+05:45",
+    "path": "/nix/store/svq54f1gs1pkkgra8abbv4z8nb6cgva5-bearded-icons-theme-ad39c68",
+    "sha256": "1afww10zkx21yqwcrxfzrq74l0ijsg5lpnin6c7ly459jmfi5vck",
+    "hash": "sha256-k+0SXZWpEE8PMzbaS8vTMgJKDs7f9cw49kH0+UHg3Kk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

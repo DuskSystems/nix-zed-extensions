@@ -1,0 +1,21 @@
+{
+  "name": "demotape",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/fnando/zed-demotape",
+    "rev": "f388b9f0a1a399edac755020e4f1eb14031903b8",
+    "date": "2025-11-26T22:09:09Z",
+    "path": "/nix/store/pmc0nhyk2dfjx31agvxgvq2bjip3gg6v-zed-demotape-f388b9f",
+    "sha256": "0z03kp0sgk9cxvnq2mlb36kyr8jbysb49vcslfyprdlqzdd6j5ig",
+    "hash": "sha256-LxZpWvuYtny9o5rtRJb2S6LspxmLVoHt7izNp8GdA3w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "demotape_demotape"
+  ],
+  "kind": "plain"
+}

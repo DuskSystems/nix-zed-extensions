@@ -1,0 +1,19 @@
+{
+  "name": "nordic-theme",
+  "version": "0.5.2",
+  "src": {
+    "url": "https://github.com/biaqat/nordic-theme-zed",
+    "rev": "e48f535234e916f96123957356725ae3d3fa429d",
+    "date": "2025-09-30T11:55:52-04:00",
+    "path": "/nix/store/agbp6rzszmcxagfpv0bp491g68h2ja4p-nordic-theme-zed-e48f535",
+    "sha256": "1cd19k3i4l01d4y2pdpml41mk5icnpr4q2y82bn6b7vvgjgp7qw9",
+    "hash": "sha256-ieNzn3x7n2XsEsgLTPK1LJZZA6H1tis8aQFQEsdMobE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

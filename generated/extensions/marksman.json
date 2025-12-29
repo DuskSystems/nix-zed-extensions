@@ -1,0 +1,21 @@
+{
+  "name": "marksman",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/vitallium/zed-marksman",
+    "rev": "ab88f6a1d1a6570bf83479e6a799754c065342da",
+    "date": "2025-09-29T18:03:42+02:00",
+    "path": "/nix/store/lp2knqy5zbi86kdk9q209rmygzvwy8fn-zed-marksman-ab88f6a",
+    "sha256": "1a589h2gbmzkv844g5p4l0p2sgs22ggirkzqskqd793j735fh3qy",
+    "hash": "sha256-Hg/oyjhypNPw1PjPHN8TQj8tLqDklkcI2vPX9QRMqKg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nioVdjzhKwLELLNGX4abZO3q2fcxpby+X0rpWnGaTM4="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "malibu",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/michael-andreuzza/malibu-theme-zed",
+    "rev": "03d2c6cc5dd880778a4ab400dc91a576f8d47101",
+    "date": "2024-08-17T09:22:48+03:00",
+    "path": "/nix/store/b0hr3i37z79s2a5vg97gxycksjaa53pp-malibu-theme-zed-03d2c6c",
+    "sha256": "0l4l6h3rm6nd27k1f874idp3g0xl8spfzkrab66sdm8w1p1bfamm",
+    "hash": "sha256-tSq3wg0c1aaNWSrP765GtIM3bovkIBfmEc2amgc0lFA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

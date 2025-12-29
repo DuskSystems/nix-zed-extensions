@@ -1,0 +1,18 @@
+{
+  "id": "authzed_authzed",
+  "name": "authzed",
+  "version": "1dec7e1af96c56924e3322cd85fdce15d0a31d00",
+  "src": {
+    "url": "https://github.com/mleonidas/tree-sitter-authzed",
+    "rev": "1dec7e1af96c56924e3322cd85fdce15d0a31d00",
+    "date": "2023-10-06T10:37:41-05:00",
+    "path": "/nix/store/fmx1jsrn4cvb50lbz4x5gsvlij8sahra-tree-sitter-authzed-1dec7e1",
+    "sha256": "1m0jg1vmaimj2na6nz8h9vfymkds1rqn3gawr60vafs3vqbr1x58",
+    "hash": "sha256-qPSQF95DO7WByVy9YXEOus3q3U4QfWuUFbJGVXd4EtQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

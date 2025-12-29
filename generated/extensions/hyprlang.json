@@ -1,0 +1,23 @@
+{
+  "name": "hyprlang",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/WhySoBad/zed-hyprlang-extension",
+    "rev": "f16f6f533aea4f0c03841982a7d8026f987501e0",
+    "date": "2025-12-14T16:43:47+01:00",
+    "path": "/nix/store/s3zssnl6jkm7mg3jnx9mrvmagylp93lh-zed-hyprlang-extension-f16f6f5",
+    "sha256": "03wh92z3kqirsgfkjlcsjnf7zyvlb8fh0xaansm78xhzxwyyx9mn",
+    "hash": "sha256-tqbuPe8fdnSqtkp1AB1adPt/nJWaUTnd0zniOb5IkA8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hyprlang_hyprlang"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-eave2AuEfZDkwBStuVgSJ69leZgYVI8h5rQtKFKzQXA="
+}

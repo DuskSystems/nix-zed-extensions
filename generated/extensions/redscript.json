@@ -1,0 +1,23 @@
+{
+  "name": "redscript",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/jac3km4/redscript-zed",
+    "rev": "c2ca18c65b425009969d131ca8680fdda29cf6d8",
+    "date": "2025-04-05T15:09:07+01:00",
+    "path": "/nix/store/j708cpk5hznfxwsrkc1qdr2d8shjbrkb-redscript-zed-c2ca18c",
+    "sha256": "04cwrlz0qx6dx4ywbpxaxxm5ajd25c5dxynpc53ci9c2dcwf32zi",
+    "hash": "sha256-8YvhOGuCpchGYdf63goroklVau+q38U96c10DD7NnBE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "redscript_redscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-zb8LTavvl9uubWRU9nupE/8j5o58VLoE2qBGmj/pywI="
+}

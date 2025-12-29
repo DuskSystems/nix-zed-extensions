@@ -1,0 +1,18 @@
+{
+  "id": "tcl_tcl",
+  "name": "tcl",
+  "version": "8e5ab6524dc7d081b1e5b980a7bbfba167e72332",
+  "src": {
+    "url": "https://github.com/richnou/tree-sitter-tcl",
+    "rev": "8e5ab6524dc7d081b1e5b980a7bbfba167e72332",
+    "date": "2025-07-09T19:13:45Z",
+    "path": "/nix/store/6x4jj5v74agbicv94kng6a26r0lps102-tree-sitter-tcl-8e5ab65",
+    "sha256": "0749jk5c6879hmymsxgmxnahkf17z4ss3iij5f2m7906jbvvlxln",
+    "hash": "sha256-lna695IGpFOFKzLGoTX5J7gJle31dV19hekgw8qUiRw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

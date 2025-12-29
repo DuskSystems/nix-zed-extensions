@@ -1,0 +1,19 @@
+{
+  "name": "nightfox",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ssaunderss/zed-nightfox",
+    "rev": "b0657a331cf22f95ca9edee05fc726e5bfe69eba",
+    "date": "2025-02-25T18:34:12-06:00",
+    "path": "/nix/store/0fi5gry3jvia4wi8djyqpiwjay7p167c-zed-nightfox-b0657a3",
+    "sha256": "09bsb4jyvb85kgi8jsq3802didv7xz7wj5vqxl7ib6h9wxb8pl64",
+    "hash": "sha256-xNCLVucJmhUP7XgXyc/vZ7fYBEADa4nimwWt7SVZeiU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

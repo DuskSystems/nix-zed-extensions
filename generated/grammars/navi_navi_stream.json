@@ -1,0 +1,18 @@
+{
+  "id": "navi_navi_stream",
+  "name": "navi_stream",
+  "version": "32c1a9139bf4256e922e8a50edddf7a195be21d8",
+  "src": {
+    "url": "https://github.com/navi-language/tree-sitter-navi-stream",
+    "rev": "32c1a9139bf4256e922e8a50edddf7a195be21d8",
+    "date": "2025-07-16T14:17:24+08:00",
+    "path": "/nix/store/fy3j4bcddkxnl9cf55vg3116k0p551kw-tree-sitter-navi-stream-32c1a91",
+    "sha256": "1nvc72xi5lyd9zn9wpiy804shl2yn0mzykzzf1n0gl78r6c47wwc",
+    "hash": "sha256-jPNDmMno0AdscP9P/yuwXlCoCUA+Xp7sT83TErs4bNs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

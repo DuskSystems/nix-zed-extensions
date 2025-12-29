@@ -1,0 +1,18 @@
+{
+  "id": "brainfuck_brainfuck",
+  "name": "brainfuck",
+  "version": "9e5d80bca5ff890ae59e5adde35914668d0aa4ea",
+  "src": {
+    "url": "https://github.com/reo101/tree-sitter-brainfuck",
+    "rev": "9e5d80bca5ff890ae59e5adde35914668d0aa4ea",
+    "date": "2022-03-13T21:52:11+02:00",
+    "path": "/nix/store/3xcjbn5vjj6b54rgzrjcmm91sjbmb7w0-tree-sitter-brainfuck-9e5d80b",
+    "sha256": "1minsb473d84gqwb7yir29m16ixibxndb9810l66fjrj53dr9sva",
+    "hash": "sha256-auuU2ygyS2cMBQGl1WxfsUcTahI5+rM4fgS1ccjSNtY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

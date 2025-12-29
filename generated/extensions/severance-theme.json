@@ -1,0 +1,19 @@
+{
+  "name": "severance-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Zev18/severance-zed",
+    "rev": "60eaeb05fb21ff7a9c6b22c6dd2640ef10b00878",
+    "date": "2025-03-08T21:12:42-05:00",
+    "path": "/nix/store/s3grl4lxpq2yh9v94fz91adnx239fh39-severance-zed-60eaeb0",
+    "sha256": "0imfc0hnqr2z59gkcrbx2qiw8g58vf52y5wjwbzmjl1cqcaxvc7x",
+    "hash": "sha256-/bDdFcMsUFn/4pIXL4rbqDzEIxZ9ZTZfKl9kbCFgrkY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

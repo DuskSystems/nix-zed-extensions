@@ -1,0 +1,19 @@
+{
+  "name": "vscode-light-plus",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/MadLittleMods/zed-theme-vscode-light-plus",
+    "rev": "9c11ec62243968dfc63606ff6666f0559252aa48",
+    "date": "2025-06-14T17:29:32-05:00",
+    "path": "/nix/store/pizk8n2f69px2g7d7z0r0bd8wpkw5h14-zed-theme-vscode-light-plus-9c11ec6",
+    "sha256": "0zvni5ka577iqwhlyi9a3mi8cjsk9p4l52l3bvxa5d0m53441sdp",
+    "hash": "sha256-t+lAyCgVtKL6XoOKQslNU0uGYh0qRU8hx/GcomaJdn8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "msun-dark",
+  "version": "1.0.2",
+  "src": {
+    "url": "https://github.com/mikesun/msun-dark-zed",
+    "rev": "8c91284b50882fec14cf1d25eebb73b15b4b5454",
+    "date": "2025-12-19T16:01:44-05:00",
+    "path": "/nix/store/w14vasvxc08xgsb1i00109l6kvifcyms-msun-dark-zed-8c91284",
+    "sha256": "0fxlpc9haxvylxbcxwhfvr1w7z4dlpwlvfz6bdf1pn2p9ggq04sa",
+    "hash": "sha256-ShOA30tX2BtcW+a7TfmljfzDQ94O8s5Wp353BRO7tDs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

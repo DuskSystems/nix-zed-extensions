@@ -1,0 +1,19 @@
+{
+  "name": "horizon-extended",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lancewilhelm/horizon-extended.zed",
+    "rev": "38e3a05fd2c8e00d8495ae9b6857e279af34f4f5",
+    "date": "2025-10-19T18:24:42-04:00",
+    "path": "/nix/store/96hdmpwxr6bkx5gf7pmx5jb6c87lwjn6-horizon-extended.zed-38e3a05",
+    "sha256": "1w26j95wx9akfwg3ai5pbzqhaii2z6jj4qrn71ksclpccw8n7294",
+    "hash": "sha256-JIljEWfsUqZnODZjIqX5IkYF8V+3RDUed1OlzkuSRvA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "ziggy",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lvignoli/zed-ziggy",
+    "rev": "302b6b30107824f33a7819cb95e1e3fec639c851",
+    "date": "2024-12-03T23:00:58+01:00",
+    "path": "/nix/store/6r3nx66bh5crx8za7cmy61mmpbh5lhbn-zed-ziggy-302b6b3",
+    "sha256": "03fy3bfvgq33vvjkyn20yga60w1qgzfjxzf57ib8ddx2pfzgmkb1",
+    "hash": "sha256-Yc36vruit4ZWPMX9Lt1/OHBg1PNAWD/l3mPgt90a3g0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ziggy_ziggy",
+    "ziggy_ziggy_schema"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DxmOmBX+Rpk6xP2d6L+ieRBdLvixsiNJe+Kapj9EPSo="
+}

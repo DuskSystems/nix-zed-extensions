@@ -1,0 +1,21 @@
+{
+  "name": "vale",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/koozz/zed-vale",
+    "rev": "875567f3eac5580b47d347c3c1cf50cdf70388af",
+    "date": "2024-08-26T08:31:46+02:00",
+    "path": "/nix/store/gxzsc2ym2sqwk7y3r647yw3gh2vlf80p-zed-vale-875567f",
+    "sha256": "1x9n6w34mqwsh1f493ql2lk5w3mkxq3r3rwlhq96fklv5i2v7grq",
+    "hash": "sha256-OL+zRSybTmcShpTnkQfusw5eJhUUj0RcgJrjSgY3NvU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KLwDaTaaw6TRI8n526mZMoMjXycG3ykgpJtZezlmHU8="
+}

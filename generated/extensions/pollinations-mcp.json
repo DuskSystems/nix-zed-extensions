@@ -1,0 +1,21 @@
+{
+  "name": "pollinations-mcp",
+  "version": "1.0.9",
+  "src": {
+    "url": "https://github.com/FrancoStino/pollinations-mcp",
+    "rev": "5abc6360126491b1b9c8edbf99bed4ead8ddc20e",
+    "date": "2025-12-18T16:07:17+01:00",
+    "path": "/nix/store/gpqjxrc20y2qii8isc2z17p66xfyy6db-pollinations-mcp-5abc636",
+    "sha256": "0a2bf4kwvxn708s6sk8c7hjg5kiiddfqk709mlna7i3r082v3gn2",
+    "hash": "sha256-wr6xBQJ5xKMsrQmciV1rMc7yJDwMTW00Asf2zSdxSyg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yKttWyb7CCcslPSXBMLYcbMuaz/dU6ZXmQyANpnsFt4="
+}

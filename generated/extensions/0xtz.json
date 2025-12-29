@@ -1,0 +1,19 @@
+{
+  "name": "0xtz",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/0xtz/0xtz-theme",
+    "rev": "6031bd6f2985fb5fb3103559917eec0e4f7f48d2",
+    "date": "2025-10-26T18:43:33+01:00",
+    "path": "/nix/store/5z42gmhn67ppdkbcy8g08znxaag8aj5x-0xtz-theme-6031bd6",
+    "sha256": "137hhp5illaw1pxkgfpd21k4hpfkrpysn7nh0gajx6009rwq83c5",
+    "hash": "sha256-hQ2EeU4AmC7VA9Aeq/3N011IZhDtujf7DVxRGsuF8Iw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

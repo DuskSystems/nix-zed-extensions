@@ -1,0 +1,19 @@
+{
+  "name": "onurb",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/brunoocrv/onurb-zed",
+    "rev": "f859b02d8ec754cb42fa83fd0702ae6cfb95a534",
+    "date": "2025-01-20T14:28:18-03:00",
+    "path": "/nix/store/lfx48b2w71aj1gv53wxc8k446cpmnnyq-onurb-zed-f859b02",
+    "sha256": "14j2251ihy5divbay7w6jm6s196khlchqy5jdyncsmhm0afdmkyy",
+    "hash": "sha256-3s/anAIVVs2sb7J4DBmF06SgTZWGH6/Wjq14GEMRQpI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

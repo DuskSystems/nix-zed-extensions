@@ -1,0 +1,21 @@
+{
+  "name": "perm",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/theoriginalstove/perm",
+    "rev": "0022b21916b70a9732099884b7e08637848eecfb",
+    "date": "2024-07-30T14:59:25-07:00",
+    "path": "/nix/store/3y69iah1q67xb8miljhlad7lxdyd4ym3-perm-0022b21",
+    "sha256": "0784jgk09m46d31l68bsqlsb8pc70glqkr99226dskzh3gf7ipn7",
+    "hash": "sha256-x9543BvwT92MECnliekDh120NMV6IUPDaIbUBOaTBB0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "perm_perm"
+  ],
+  "kind": "plain"
+}

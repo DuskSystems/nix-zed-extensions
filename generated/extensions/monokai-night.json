@@ -1,0 +1,19 @@
+{
+  "name": "monokai-night",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/farbodvand/zed-monokai-night",
+    "rev": "488cf1ecbd99ce05e63eeb8c997d6bce5e139bac",
+    "date": "2025-05-05T18:53:27+03:30",
+    "path": "/nix/store/ishrshxyr45zy6djvbpzlwwklqryiwfv-zed-monokai-night-488cf1e",
+    "sha256": "01568786hkgvwk4nligin8ib7cv7anqyw519rz4hmf25ggzy0sw9",
+    "hash": "sha256-iWvg/3tFuArJzykU7rFVZ7OzIrLxRWrJ5PtNaNBBpgQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "nunjucks",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/stormwarning/zed-nunjucks",
+    "rev": "605af541154535d4091ca5607fa7b18f88036148",
+    "date": "2025-07-31T14:19:29-06:00",
+    "path": "/nix/store/w13q5342cilcfkq44rx9zjxfq6ir9g6h-zed-nunjucks-605af54",
+    "sha256": "1i4ynzaf3kz2a4ijk4lq5v4h34nj4ql5yx02pc7dlbfswy5pzim1",
+    "hash": "sha256-ocZ/i+faLdoOuwJ0Xygm0pIByS6YkikjUeLP4dS3nsQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nunjucks_nunjucks"
+  ],
+  "kind": "plain"
+}

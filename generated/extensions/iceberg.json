@@ -1,0 +1,19 @@
+{
+  "name": "iceberg",
+  "version": "0.2.10",
+  "src": {
+    "url": "https://github.com/EFDos/iceberg-zed-theme",
+    "rev": "e748af4e74c46db7cf5f7434a6258c962f60586e",
+    "date": "2024-08-25T21:48:27-03:00",
+    "path": "/nix/store/4hg33hh7c6znyw9fca1z3s9jj33adn45-iceberg-zed-theme-e748af4",
+    "sha256": "00ygdwqcccxzpw03l6y3d697vj6w1amki706yc08j510rqa8z3a7",
+    "hash": "sha256-R42PFM4gFIkA8wacOKsK3Mh9kmnDGzoAv78zxjBvzwM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

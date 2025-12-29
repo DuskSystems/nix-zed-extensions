@@ -1,0 +1,18 @@
+{
+  "id": "pkl_pkl",
+  "name": "pkl",
+  "version": "9fd989acb67b66799f1fd8168b7386b78a9cdba0",
+  "src": {
+    "url": "https://github.com/apple/tree-sitter-pkl",
+    "rev": "9fd989acb67b66799f1fd8168b7386b78a9cdba0",
+    "date": "2024-02-08T14:51:21+01:00",
+    "path": "/nix/store/pvs8vx7gpspwl46fd06a5ribmaik7q70-tree-sitter-pkl-9fd989a",
+    "sha256": "1gypq7mag50azy149cyz76ljj0vavyv8n1f7cpx48dd62n2v1v6l",
+    "hash": "sha256-1OywhRWmNUT6ZccFi7bfagMpqTnfs0SC/wqUp+rB178=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

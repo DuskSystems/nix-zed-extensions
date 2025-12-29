@@ -1,0 +1,19 @@
+{
+  "name": "tailwind-theme",
+  "version": "0.6.0",
+  "src": {
+    "url": "https://github.com/biaqat/tailwind-theme-zed",
+    "rev": "b05dc0980cae86922afeda8f410b9967879636ee",
+    "date": "2025-02-27T11:58:20-05:00",
+    "path": "/nix/store/knvwynpq937d8v6jqrlsj4lc1dijnk62-tailwind-theme-zed-b05dc09",
+    "sha256": "1lgcfj2zplhrm39dnvpi9hazbm9g4zqs7x28fkil94qn0ch085d0",
+    "hash": "sha256-oBUEIAMWk0TjdEj0o/EnL9X1FUzxbtvSqBnS+4V07NE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

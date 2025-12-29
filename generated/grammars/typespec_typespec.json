@@ -1,0 +1,18 @@
+{
+  "id": "typespec_typespec",
+  "name": "typespec",
+  "version": "814c98283fd92a248ba9d49ebfe61bc672a35875",
+  "src": {
+    "url": "https://github.com/happenslol/tree-sitter-typespec",
+    "rev": "814c98283fd92a248ba9d49ebfe61bc672a35875",
+    "date": "2025-06-21T18:44:46+02:00",
+    "path": "/nix/store/8102swllkyfhkn89a22qpbcz2fm9ss5f-tree-sitter-typespec-814c982",
+    "sha256": "0mspmgsgkq39ayaxs9bcq0h393zs8gr1c2kdk053pm1imjhwvz6z",
+    "hash": "sha256-3/zNoawx1DsKmG0KFvJD+o80IMBsJd2VV2ng+fSrV1c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

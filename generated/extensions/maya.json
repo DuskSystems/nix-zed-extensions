@@ -1,0 +1,19 @@
+{
+  "name": "maya",
+  "version": "0.4.5",
+  "src": {
+    "url": "https://github.com/sbowman/maya.zed",
+    "rev": "3320aec1c93fc2c5bd0bd36876b8f9abeb82497b",
+    "date": "2025-01-10T22:05:30-07:00",
+    "path": "/nix/store/s77b50ryg86qn9bz22a1a69xi3ksrv73-maya.zed-3320aec",
+    "sha256": "0l6rkdkzk4q0vvjkqkycz6l5a8848banlj7k3d896xa2bdv6d4dn",
+    "hash": "sha256-tpFmdltCdZNQG/NIatVCBCFVqPnMTzzl3gCT+Web2VA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

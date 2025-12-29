@@ -1,0 +1,21 @@
+{
+  "name": "probe-rs",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/probe-rs/zed-extension",
+    "rev": "9b4859351029e71d7363bdfba167ed3ba08f443d",
+    "date": "2025-09-21T22:01:47+02:00",
+    "path": "/nix/store/irgwhxpni00vb5s0yq8y23xas6w1qd9v-zed-extension-9b48593",
+    "sha256": "1h9rcfh9ljrb52m7gf6xffqdf6y1y4p1rr19v7bxfff0b33bmrxf",
+    "hash": "sha256-rue6xljAOdfX2SnkHC7xwRvXsHPduHeqKCtLmqBjOcE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-u+CB5qVVfF4OuEyRe/eoRAEQXGDp2DEoIl9O6keVjhk="
+}

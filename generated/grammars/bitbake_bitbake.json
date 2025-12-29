@@ -1,0 +1,18 @@
+{
+  "id": "bitbake_bitbake",
+  "name": "bitbake",
+  "version": "bc577daab90b551ad1dc42c3373db2cb7c43857d",
+  "src": {
+    "url": "https://github.com/idillon-sfl/tree-sitter-bitbake",
+    "rev": "bc577daab90b551ad1dc42c3373db2cb7c43857d",
+    "date": "2024-08-02T15:29:57-04:00",
+    "path": "/nix/store/sdfc3b6dy0q5zrmqs4h768ygny0517rx-tree-sitter-bitbake-bc577da",
+    "sha256": "0mymyagbmqlf50a086lripa2fwlgv0mc92div9yndjbfylxniswc",
+    "hash": "sha256-jOtoO/VuyWZ92rGJxCrYj3In1I2ZGgQUKI7iup7y1Vc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

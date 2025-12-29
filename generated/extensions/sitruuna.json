@@ -1,0 +1,19 @@
+{
+  "name": "sitruuna",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/menduz/sitruuna-zed",
+    "rev": "23786ccabc7f0602d4b7fc68827e803a28707fea",
+    "date": "2025-09-30T19:09:26-03:00",
+    "path": "/nix/store/qkdda95s6fnba97hskfg4d6c7fgp9cvf-sitruuna-zed-23786cc",
+    "sha256": "0lygf2qlhw13pg1kzzdkg10p0y3rbw6fpkpj8fi3vgwl4k4wqqpj",
+    "hash": "sha256-8mLMySSUvz2iQ/LO6wxfeXhwQXiz/T/DuyNwSLFwz1M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "unoflat",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/bryanbuchanan/unoflat",
+    "rev": "012b0f4a11eb50f144e43ecd2f89e56bb578ff36",
+    "date": "2025-09-29T06:56:45-07:00",
+    "path": "/nix/store/wvwfj69ag6lz37qlcdrqrxvvv9skcshv-unoflat-012b0f4",
+    "sha256": "12kgycypsgrfy0qmkmxpkvs34z1j2kyy6jhb1k1n4nqr4clr4zjn",
+    "hash": "sha256-Vn6SKSMZW2LDDAtK4/0UMnwy9J6311kx8C4/fT3zb4o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

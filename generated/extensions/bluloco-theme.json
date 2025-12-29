@@ -1,0 +1,19 @@
+{
+  "name": "bluloco-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/uloco/bluloco-zed",
+    "rev": "e54f58b34f91d16f235a5e1088522afa7feaac04",
+    "date": "2025-03-11T09:39:16+01:00",
+    "path": "/nix/store/3nhcjh50kfnajd2k4p88cdf4v5344rk1-bluloco-zed-e54f58b",
+    "sha256": "10r57fsxbcmr5bdaz0fb0is342sczqq4kv41r1fmsysi883v4sk6",
+    "hash": "sha256-ZmqyB0JRe11dyIHsSTD+TAsydATLga/aKrmy1bU7JYM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

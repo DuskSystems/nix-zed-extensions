@@ -1,0 +1,27 @@
+{
+  "name": "ucode",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/phwhite/ucode-zed",
+    "rev": "936315c451e7d2b9cf552418e9f38237c4ebaad6",
+    "date": "2025-09-13T23:43:52-07:00",
+    "path": "/nix/store/zryaw5hdfb6y8z1rd0kskx6q6r7zh62w-ucode-zed-936315c",
+    "sha256": "0q7sd3y5mxpvg3gcq0v8mfm0izxizwapxybyam2jlddd6yvhw4kn",
+    "hash": "sha256-dhIOtzetNSpFVX75fhX/sf8IqqtoA8zeePv2Wvxo+mA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ucode_ucode"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-d2Vu0T1aWRLLOVw7tfNGuUuTPxHCObFzrR/EFnwtPUY=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/ucode.lock",
+    "outputHashes": {}
+  }
+}

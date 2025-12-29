@@ -1,0 +1,18 @@
+{
+  "id": "noir_noir",
+  "name": "noir",
+  "version": "4cc223f677d72db319f1c8331b65a9564805c7bf",
+  "src": {
+    "url": "https://github.com/hhamud/tree-sitter-noir",
+    "rev": "4cc223f677d72db319f1c8331b65a9564805c7bf",
+    "date": "2023-10-22T17:36:42+01:00",
+    "path": "/nix/store/m36i970pzbbyqifvh7biqf03jmys0q0s-tree-sitter-noir-4cc223f",
+    "sha256": "02lbwhs287xvk14scpgi759as5hl5n0lnxvldi4vfbivqimm8l37",
+    "hash": "sha256-Z1BUa8Q7LrdJbHR3S4EtFBatUjnxXaZJmLsfJDTkiwo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cyberpunk-scarlet",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/samurmaykrr/cyberpunk-scarlet-zed",
+    "rev": "7043e376a3b143e26dfbb12c327c615bdeceb0bf",
+    "date": "2025-12-20T08:18:21+06:00",
+    "path": "/nix/store/h0y5vh1jwhy8y3x53ypx3kb3lqabsva5-cyberpunk-scarlet-zed-7043e37",
+    "sha256": "0jffyv9x51zy0v2cw53k7r1xmgim0h28x1p2645gcd2j1yb118qi",
+    "hash": "sha256-EaMQlg9SNPYKMeKGjgQENb7aQz5zFM7EBv6H0tP2zkk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

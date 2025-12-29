@@ -1,0 +1,19 @@
+{
+  "name": "tsarcasm",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/xtrasmal/zed-theme-tsarcasm",
+    "rev": "32e078bf3cde277b605cadee4fc86b7319e423a8",
+    "date": "2024-10-29T22:25:44+01:00",
+    "path": "/nix/store/giqm7m79zw5q0bgwki06h78i20421sdb-zed-theme-tsarcasm-32e078b",
+    "sha256": "1dg4pgwav2b5gmmc1aysiz4skk83k0fwqwlyl2njm3f86g302q7b",
+    "hash": "sha256-62ABxjPIjSqtoJ5yzB2YA82pyY/aq8BqfWWJrfi75LU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

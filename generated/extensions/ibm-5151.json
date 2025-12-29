@@ -1,0 +1,19 @@
+{
+  "name": "ibm-5151",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Takk8IS/ibm-5151-theme-for-zed",
+    "rev": "844e12650bfba47a8dc1a37290ec70ac721eec00",
+    "date": "2025-06-23T03:31:24+02:00",
+    "path": "/nix/store/k5iq5h4g48pc3z0bpgykkv9k2lggsw6z-ibm-5151-theme-for-zed-844e126",
+    "sha256": "0i7kmnq0rchnilj6pjld0l70bfss37gxvyi890idra5vbyv1q6sp",
+    "hash": "sha256-Vxsctl+7qNwiSCj63d8ZWrsFDgWNymskjRayDLCt80Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

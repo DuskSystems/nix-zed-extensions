@@ -1,0 +1,18 @@
+{
+  "id": "wat_wat",
+  "name": "wat",
+  "version": "2ca28a9f9d709847bf7a3de0942a84e912f59088",
+  "src": {
+    "url": "https://github.com/wasm-lsp/tree-sitter-wasm",
+    "rev": "2ca28a9f9d709847bf7a3de0942a84e912f59088",
+    "date": "2022-05-17T17:11:07-06:00",
+    "path": "/nix/store/ph5d3d68j4bnmv281zqwksfiz2a9cn83-tree-sitter-wasm-2ca28a9",
+    "sha256": "02v08hs9wirdzfx9a7c3kpn0cpc9i867pw28qka0fid9q537hnbb",
+    "hash": "sha256-a1l4RsGpRQfUxEjwewyKiV0G7J2DHZW6+y1HnjREYAs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "wat"
+}

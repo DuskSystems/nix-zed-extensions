@@ -1,0 +1,18 @@
+{
+  "id": "nginx_nginx",
+  "name": "nginx",
+  "version": "b4b61db443602b69410ab469c122c01b1e685aa0",
+  "src": {
+    "url": "https://gitlab.com/joncoole/tree-sitter-nginx",
+    "rev": "b4b61db443602b69410ab469c122c01b1e685aa0",
+    "date": "2024-04-06T17:33:17-04:00",
+    "path": "/nix/store/24jkbrc3c7kbq5bdv62q4ibpaqvpqa4g-tree-sitter-nginx-b4b61db",
+    "sha256": "183hm879s25xmcagl3599mjxxnsd1a2mqybjmhhc27vhvfwxmbj9",
+    "hash": "sha256-Sa7audtwH8EgrHJ5XIUKTdveZU2pDPoUq70InQ6qcKA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

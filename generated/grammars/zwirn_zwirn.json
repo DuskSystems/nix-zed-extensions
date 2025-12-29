@@ -1,0 +1,18 @@
+{
+  "id": "zwirn_zwirn",
+  "name": "zwirn",
+  "version": "0f0789d488d109ace3af5d7adab52de81ddeb8b3",
+  "src": {
+    "url": "https://codeberg.org/polymorphicengine/tree-sitter-zwirn",
+    "rev": "0f0789d488d109ace3af5d7adab52de81ddeb8b3",
+    "date": "2025-08-12T11:52:19+02:00",
+    "path": "/nix/store/6f6gf8vp9czxnfsjg1hj21nrkczwimdr-tree-sitter-zwirn-0f0789d",
+    "sha256": "03gph826acvq63xyr177d5l3amnzzliq8k90qid7cqhmclcfg7jn",
+    "hash": "sha256-Vp7nGGUVYnZaxCBNhCP931Y1aGnnhOz7MHgzZQSC9w0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

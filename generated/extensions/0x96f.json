@@ -1,0 +1,19 @@
+{
+  "name": "0x96f",
+  "version": "1.3.5",
+  "src": {
+    "url": "https://github.com/filipjanevski/zed-theme",
+    "rev": "ecfc098d7b9756b1708509bdcace0851b8666791",
+    "date": "2025-05-29T14:00:14+02:00",
+    "path": "/nix/store/clwg24nx5c4f6m5az8vbrgwfi2wpsrml-zed-theme-ecfc098",
+    "sha256": "13f2v6xrwid9jpk4sizmdy7mf526v8kbh5ngpzh5kc9gq9yr8k76",
+    "hash": "sha256-5kyUfcIvsVngv88WuCbaRhRXj2/1R03mlalFnrvZwo0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

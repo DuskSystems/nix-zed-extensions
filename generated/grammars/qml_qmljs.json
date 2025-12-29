@@ -1,0 +1,18 @@
+{
+  "id": "qml_qmljs",
+  "name": "qmljs",
+  "version": "febf48a5b6928600cd8fb2a01254743af550780d",
+  "src": {
+    "url": "https://github.com/yuja/tree-sitter-qmljs",
+    "rev": "febf48a5b6928600cd8fb2a01254743af550780d",
+    "date": "2024-06-15T20:20:30+09:00",
+    "path": "/nix/store/x35xvfh7gihvn5ssyhx1r9jmcyw1gskk-tree-sitter-qmljs-febf48a",
+    "sha256": "138dlvzi7b4pp6ny4kjg5c23ki0apj9c8hhshzric1q1m23zj5kd",
+    "hash": "sha256-bRb5h6gBBxbzhxpCxJK8CsQ5BCtPTuKtuZesE/+mDY0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

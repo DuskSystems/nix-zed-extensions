@@ -1,0 +1,21 @@
+{
+  "name": "systemrdl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/alex-torregrosa/zed-systemrdl-extension",
+    "rev": "c59194926c2a4faef21cfa9eeb14a5e9c08a580d",
+    "date": "2025-08-13T00:22:38+02:00",
+    "path": "/nix/store/415048wfcfgni1s3zixsm4lwzykv7505-zed-systemrdl-extension-c591949",
+    "sha256": "0igrhcq9n5v2yl04lmdbfg3a2xzmqfbzffpp6kp4a7l85z58fmv4",
+    "hash": "sha256-ZFeHyi+IHkXuNPc695fD9XehxnOrVUoA9WIXmzCD+UU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "systemrdl_systemrdl"
+  ],
+  "kind": "plain"
+}

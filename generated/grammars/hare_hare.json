@@ -1,0 +1,18 @@
+{
+  "id": "hare_hare",
+  "name": "hare",
+  "version": "4af5d82cf9ec39f67cb1db5b7a9269d337406592",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-hare",
+    "rev": "4af5d82cf9ec39f67cb1db5b7a9269d337406592",
+    "date": "2024-07-08T10:12:01+02:00",
+    "path": "/nix/store/5izhapjwjzn48db20fzmbbyya5ii46kg-tree-sitter-hare-4af5d82",
+    "sha256": "065iv0fk5lr0fxzf79xl7hb7p2ig750q08x4dzbl7sq9hkjc8ja0",
+    "hash": "sha256-QEnE5IQJ60PXb6QjgEE5L4p7Fjy0p+N+dyDTMh3YsRg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

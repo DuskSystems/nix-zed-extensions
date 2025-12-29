@@ -1,0 +1,23 @@
+{
+  "name": "authzed",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/mleonidas/authzed-zed",
+    "rev": "10647223ac869e20e33127dfdeee67979b1cc99d",
+    "date": "2025-08-08T17:21:07-04:00",
+    "path": "/nix/store/y5nj1fwa67k94a90ic7r60hm6ww53lg9-authzed-zed-1064722",
+    "sha256": "1dxmij4v15c7z4dv583y5jzfg8zcyj7d1982h1la2bpnf8lbwz6g",
+    "hash": "sha256-z3y+KHL2LqFogAKl0I707KPnvix+oLIb+YeVsImMtbc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "authzed_authzed"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RysyD5X+CNaTA3CQfUOr+5hwu8b1Bd3mXV8hYKWEAns="
+}

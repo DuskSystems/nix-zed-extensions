@@ -1,0 +1,18 @@
+{
+  "id": "proto_proto",
+  "name": "proto",
+  "version": "a6caac94b5aa36b322b5b70040d5b67132f109d0",
+  "src": {
+    "url": "https://github.com/coder3101/tree-sitter-proto",
+    "rev": "a6caac94b5aa36b322b5b70040d5b67132f109d0",
+    "date": "2025-11-28T13:37:26Z",
+    "path": "/nix/store/lnhm83lsgf5m0d4kckf4kyc6aqdxwy9p-tree-sitter-proto-a6caac9",
+    "sha256": "07qblv7ji9kh8dqwwszm80qlgaaanlcp8nyz0cchd85k183684ys",
+    "hash": "sha256-2hNkBgqzoAYZA99bdBm1SqlHMUD1a85xQ3CmKM+mCx8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

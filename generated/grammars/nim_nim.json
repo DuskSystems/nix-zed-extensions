@@ -1,0 +1,18 @@
+{
+  "id": "nim_nim",
+  "name": "nim",
+  "version": "897e5d346f0b59ed62b517cfb0f1a845ad8f0ab7",
+  "src": {
+    "url": "https://github.com/alaviss/tree-sitter-nim",
+    "rev": "897e5d346f0b59ed62b517cfb0f1a845ad8f0ab7",
+    "date": "2024-07-11T23:40:02Z",
+    "path": "/nix/store/7y272skq7jfi188pjwjk3yg4js67ixdp-tree-sitter-nim-897e5d3",
+    "sha256": "13nna1cj31ccx65cffp1krqx7njavz4icswg4g3k86391lx7j117",
+    "hash": "sha256-JwR5Og1pGDTHI49rFsnfStrTcZ7hOseK6YyFIVlQ1o4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

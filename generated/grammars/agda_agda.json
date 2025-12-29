@@ -1,0 +1,18 @@
+{
+  "id": "agda_agda",
+  "name": "agda",
+  "version": "b9b32fa042c2952a7bfca86847ea325e44ccc897",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-agda",
+    "rev": "b9b32fa042c2952a7bfca86847ea325e44ccc897",
+    "date": "2024-11-11T01:47:39-05:00",
+    "path": "/nix/store/zqx3l2mcrlnpw5kc7biygw76ncq066dv-tree-sitter-agda-b9b32fa",
+    "sha256": "152zw9c0nfabdi4q5brc4fabmb5ffssa162bc2y77b5ikvh6b28s",
+    "hash": "sha256-Goll4J6xrHO8YEuYoLR2rqy6lCMsr4JJbEs5C1jiX5Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

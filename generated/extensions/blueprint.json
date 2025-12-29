@@ -1,0 +1,27 @@
+{
+  "name": "blueprint",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/tfuxu/zed-blueprint",
+    "rev": "a3d83fc3f1969364d514ea6784edc0697bfd3b44",
+    "date": "2025-12-08T21:18:36+01:00",
+    "path": "/nix/store/zxkrrdnjxxbdb8xq3n6xz9q59x3rj3qg-zed-blueprint-a3d83fc",
+    "sha256": "0hjj3spvr2zzlhgzwwd92lpy190hrsgdsb0nnyy9sh9lf4yc8qnx",
+    "hash": "sha256-3WLEPHE0QZ28txYs3Z7OEKTgLxWpcf4fpP+LvK8eUkI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "blueprint_blueprint"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-GbNxRG78P+Qdh2L97dWK30a4Ht69/NMXlb4OgHQjGLg=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/blueprint.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gruber-flavors",
+  "version": "0.8.0",
+  "src": {
+    "url": "https://github.com/biaqat/gruber-theme-zed",
+    "rev": "a076ecda3f703f3fceac4c9cfbfb2b976d4a0b89",
+    "date": "2025-02-25T21:53:50-05:00",
+    "path": "/nix/store/jxag016qsayrvn7w6wpf8cyv4kbdk8nw-gruber-theme-zed-a076ecd",
+    "sha256": "1c0y5lilkcqyccwbhvdv7wbbkyx91qpdm3ssi62iq2smp3i80n4z",
+    "hash": "sha256-n1iA4rhVCxyFiVqP2i4Oqfu5Fj+7bbg4Yx6zSSMtHrA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

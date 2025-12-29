@@ -1,0 +1,18 @@
+{
+  "id": "logstash_logstash",
+  "name": "logstash",
+  "version": "d8abb4bdc1c37977b98ef515c0d067c878a5129a",
+  "src": {
+    "url": "https://github.com/StrongTheDev/tree-sitter-logstash",
+    "rev": "d8abb4bdc1c37977b98ef515c0d067c878a5129a",
+    "date": "2025-03-08T18:42:53+03:00",
+    "path": "/nix/store/2nlr6qcmz2l6hnwhvxzsjyhkr09h2cyz-tree-sitter-logstash-d8abb4b",
+    "sha256": "00xjf0jgajk8rrki60xn8dl1flhsqj2iqm78m3gv1ib4ybqja1ii",
+    "hash": "sha256-MQYl8fJkxbDfqOhUHIXEGlIXaEO2AxNnzmhK9SRwsgM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

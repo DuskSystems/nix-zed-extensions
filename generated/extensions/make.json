@@ -1,0 +1,21 @@
+{
+  "name": "make",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/caius/zed-make",
+    "rev": "97735b32b8c7c6a915984183d365077a2c59e83a",
+    "date": "2025-06-06T19:02:27+01:00",
+    "path": "/nix/store/wvw30rcff4yvbzcbz0wbxwan6w3c7xq6-zed-make-97735b3",
+    "sha256": "0b1k5wc4863k3r4gsnlnb7zd7fgy7ym0mqyny3dq7xy7lxx9y50c",
+    "hash": "sha256-DBSfeqfH94Pb8NbjCqo//rnT/lmWWv1IHnMYRBgvMyw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "make_make"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hlsl_hlsl",
+  "name": "hlsl",
+  "version": "5d788a46727c8199a7c63a3c849092e0364375b6",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-hlsl",
+    "rev": "5d788a46727c8199a7c63a3c849092e0364375b6",
+    "date": "2024-08-07T09:00:55+02:00",
+    "path": "/nix/store/xndy57bhdw3nmvsb32bs5zdzm3idhghh-tree-sitter-hlsl-5d788a4",
+    "sha256": "1zzc36xan7jw86m557vhszf4g7d9qbhbc3rd813g0sy3ac50hp2w",
+    "hash": "sha256-XFwIClPDa/BGQC0PtuDCqZ1H3Ndwn1KqQVweq7oZ7P8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

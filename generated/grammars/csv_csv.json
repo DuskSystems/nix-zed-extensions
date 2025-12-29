@@ -1,0 +1,18 @@
+{
+  "id": "csv_csv",
+  "name": "csv",
+  "version": "4b25b5d745f9462e54b781e3d7798b8e0a4db703",
+  "src": {
+    "url": "https://github.com/arnau/tree-sitter-csv",
+    "rev": "4b25b5d745f9462e54b781e3d7798b8e0a4db703",
+    "date": "2024-04-12T13:26:07+01:00",
+    "path": "/nix/store/8n7idns2y9gsj4zr6d42lcw7wlnih4pf-tree-sitter-csv-4b25b5d",
+    "sha256": "1ig68fpkccdwyx4086l5h42i2sb8aaifmwpbfhkbb8yd53vdg3qs",
+    "hash": "sha256-Go/X9ijNo7UmdOvy6qJSaGkRBYGFGgRI97wxNq9D5sU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

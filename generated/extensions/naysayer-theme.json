@@ -1,0 +1,19 @@
+{
+  "name": "naysayer-theme",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/darzaccaro/naysayer-theme-zed",
+    "rev": "5c12980cfe7e35b09bd708cc34e15c1d9f04f7c7",
+    "date": "2025-10-26T10:49:13-04:00",
+    "path": "/nix/store/xwl56d8vybsq5h7950fcsizgd81x11cw-naysayer-theme-zed-5c12980",
+    "sha256": "01p2azbhhzf4wv8xzkda14n2hbx1v1swsip93haw5s9f7qry1hkq",
+    "hash": "sha256-eMLgMz4u6cIVHOlGzXXYoS8oLAmqzd/R5sR9CNdX4gY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

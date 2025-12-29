@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-pro",
+  "version": "0.0.10",
+  "src": {
+    "url": "https://github.com/MordFustang21/zed-one-dark-pro",
+    "rev": "bd1872f961d3c320892b8db2eeb9ffcd19a9c9ba",
+    "date": "2025-03-09T12:44:40-06:00",
+    "path": "/nix/store/kgkhv89kzhlk9s5s7vycib4m6qqkhqq1-zed-one-dark-pro-bd1872f",
+    "sha256": "1mf398pxghimiwaf9knz5n7y4f97pzcr7b7kb1pkmzs0vq79ingq",
+    "hash": "sha256-+NmYDt5A/zpvWPOsk9m/Jznijy3fzuQUjzXC1y9Kw9U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

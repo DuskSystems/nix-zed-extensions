@@ -1,0 +1,28 @@
+{
+  "name": "bicep",
+  "version": "1.2.1",
+  "src": {
+    "url": "https://github.com/oWretch/zed-extension-bicep",
+    "rev": "41b379594b50010736d5558f0455c30016a4bdcc",
+    "date": "2025-08-19T07:29:39Z",
+    "path": "/nix/store/z0kvjff7vww0fxq0zw585a02qkrs4af8-zed-extension-bicep-41b3795",
+    "sha256": "0461zki301bbjlry1lc252xyj4783g64jrw8509h04rmqijs9zap",
+    "hash": "sha256-V/2kZcQ1EwATKIhnScwb6BDpuyiC0eAzlWsFMOL8wRA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bicep_bicep",
+    "bicep_bicep_params"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yPVKVFVf14qxAcsD7xlTPb6CAhiJcHOPvRzlVNCdTcg=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bicep.lock",
+    "outputHashes": {}
+  }
+}

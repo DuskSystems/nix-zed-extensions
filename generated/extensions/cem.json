@@ -1,0 +1,21 @@
+{
+  "name": "cem",
+  "version": "0.7.5",
+  "src": {
+    "url": "https://github.com/bennypowers/cem",
+    "rev": "6e6688dc0a97ffb77e7f2d82ca8121f4db8e940f",
+    "date": "2025-12-17T13:09:10+02:00",
+    "path": "/nix/store/gq84f58r1mlc3a1jzhpij52ij2bq2rf2-cem-6e6688d",
+    "sha256": "1y1sg8q8bmya3x3yj6y9l67y3msiqpvi4n83m53klf4acv8zfdjn",
+    "hash": "sha256-Vjb30WaKODpHqQNZEvfFUdfhj6HJG+lHH8rXhTB6Ovg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-OQIrccWA0s+dNvV/G683akPfON7BMF2fYEsFJfwFx88="
+}

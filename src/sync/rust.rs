@@ -98,9 +98,9 @@ async fn process_cargo_lockfile(
     dir: &Path,
     name: &str,
 ) -> anyhow::Result<bool> {
-    let generated = Path::new("generated");
+    let generated = Path::new("generated/extensions");
     if !generated.exists() {
-        fs::create_dir(generated).await?;
+        fs::create_dir_all(generated).await?;
     }
 
     let stored_lockfile = generated.join(format!("{name}.lock"));
@@ -170,7 +170,7 @@ async fn calculate_rust_extension_kind(
     let cargo_lock = if has_stored_lockfile {
         let output_hashes = calculate_cargo_output_hashes(&workspace.lockfile).await?;
         Some(CargoLock {
-            lock_file: PathBuf::from(format!("/generated/{name}.lock")),
+            lock_file: PathBuf::from(format!("/generated/extensions/{name}.lock")),
             output_hashes,
         })
     } else {

@@ -1,0 +1,19 @@
+{
+  "name": "molten-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/vaqxai/zed-molten-theme",
+    "rev": "3267676441f3876b9d320e04148ed7a0ba6d6006",
+    "date": "2025-05-23T11:55:48+02:00",
+    "path": "/nix/store/f9ziyln70majrzr3b2krkcay9xbvkj53-zed-molten-theme-3267676",
+    "sha256": "0wyvyx45wqalv0cnfmndf7kdgyqndsw6snkaq89riw0pv3r1r0p9",
+    "hash": "sha256-6YIc8tgX8JgTwmpabbhuFvvX5nHNVmcZ2FRhXkj323M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

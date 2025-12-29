@@ -1,0 +1,21 @@
+{
+  "name": "serena-context-server",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/delano/zed-mcp-server-serena",
+    "rev": "adb86ea46cc5e0855909976a0a1dbfc48518ce9b",
+    "date": "2025-09-02T18:58:15-07:00",
+    "path": "/nix/store/1b4cd9jdsai1jk5czaiyad4v6vh3mi79-zed-mcp-server-serena-adb86ea",
+    "sha256": "0iak366mvcn42lx2c6imf768vh3f9jz91071jhamysccn0wxgc6k",
+    "hash": "sha256-07DXObCMaV8VlOGAkL5MbsCNzHE1GiY6FcSyXY0ZU0U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uCCmzPY0yU3i5pNFlhVYD+za4HhNJo36FhcNGvRDM8A="
+}

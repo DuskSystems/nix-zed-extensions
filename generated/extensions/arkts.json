@@ -1,0 +1,27 @@
+{
+  "name": "arkts",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/liuyanghejerry/zed-arkts",
+    "rev": "d31dbb92162c95d0bf4ec72e8642526cc1387981",
+    "date": "2025-11-16T16:12:40+08:00",
+    "path": "/nix/store/cbba4mm0g1710n605ijyyfn9na9r93mb-zed-arkts-d31dbb9",
+    "sha256": "1amay59aqsxf7sb0dkdbjkla92b2x8cs8y5p271h65v38a56i12v",
+    "hash": "sha256-W4RoikJjFwPDEbd4pBnqYomk6JSrzQaWPq5rrFLxqqo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "arkts_arkts"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vH686DTPZGB5wDlrQW8N1l3DzsVf3PqUxM4n9KtWkIo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/arkts.lock",
+    "outputHashes": {}
+  }
+}

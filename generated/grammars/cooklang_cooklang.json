@@ -1,0 +1,18 @@
+{
+  "id": "cooklang_cooklang",
+  "name": "cooklang",
+  "version": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e",
+  "src": {
+    "url": "https://github.com/addcninblue/tree-sitter-cooklang",
+    "rev": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e",
+    "date": "2024-05-03T10:28:26-05:00",
+    "path": "/nix/store/hjzazfs0cfzrg14w147h3bnxmh36b2p8-tree-sitter-cooklang-4ebe237",
+    "sha256": "00ddz3nsqrvwnxyc0slnysbz0512gff3hprb9zyb08g15b2w27al",
+    "hash": "sha256-VB3BxSrhIbD8TytfOJx7IhTwl/aWasB8t3xnrO34rQE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

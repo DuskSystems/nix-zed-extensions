@@ -1,0 +1,18 @@
+{
+  "id": "solidity_solidity",
+  "name": "solidity",
+  "version": "4e938a46c7030dd001bc99e1ac0f0c750ac98254",
+  "src": {
+    "url": "https://github.com/JoranHonig/tree-sitter-solidity",
+    "rev": "4e938a46c7030dd001bc99e1ac0f0c750ac98254",
+    "date": "2025-08-04T13:10:19+02:00",
+    "path": "/nix/store/99jqg0sclpx4cf85x63as93mmbbs3a5j-tree-sitter-solidity-4e938a4",
+    "sha256": "0vbxghnihnmfdgg4a5j2g5s7fcff8axqmqa2y8yci434n35wgq3g",
+    "hash": "sha256-b+DHy7BkkMg88kLhirtCzjF3dHlCFkXea65aGC18fW0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

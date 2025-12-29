@@ -1,0 +1,22 @@
+{
+  "name": "html-jinja",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/JaagupAverin/html-jinja",
+    "rev": "575bd49954440fb92254ec0da9a82fc8ee3bf492",
+    "date": "2025-03-17T11:42:17+02:00",
+    "path": "/nix/store/13287p5y7mkqrxr6phpb58r9l9zm4ql0-html-jinja-575bd49",
+    "sha256": "0wmy2m4km00g0fawzw4ilq5nfnl4axwbq5gxd4j324qxc2wk6pw3",
+    "hash": "sha256-g18zuWAdEzEkaf0VvHhXhFpnC6aR8M+VAw+AOkkVvnI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "html-jinja_html",
+    "html-jinja_jinja"
+  ],
+  "kind": "plain"
+}

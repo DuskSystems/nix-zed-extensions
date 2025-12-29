@@ -1,0 +1,27 @@
+{
+  "name": "jai",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/seg4lt/zed-jai",
+    "rev": "a5d4c5b1a5fdccf6e89e160e3dac935e30aee188",
+    "date": "2025-10-24T21:00:39-05:00",
+    "path": "/nix/store/4vhja9xl71nfilj1b1p3j82qhazsypvs-zed-jai-a5d4c5b",
+    "sha256": "05y2bdq1lz3ipsm0wbi0zq35qa3zm28hbzx7h9wvmj0j350kjmp0",
+    "hash": "sha256-4FY5QRkSyLp5gqf/BZGofyhcBv4gLg6qvnF8GnBbwhc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jai_jai"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-q92Sd9TsgvBrcbRVRgCKW2ImiziFKs5WT1TFSxooGdY=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/jai.lock",
+    "outputHashes": {}
+  }
+}

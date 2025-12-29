@@ -1,0 +1,19 @@
+{
+  "name": "not-material-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/iamawatermelo/zed-hct-theme-maker",
+    "rev": "85bbfc02af13b483b04d489914274ac6a1a25d06",
+    "date": "2025-02-07T19:25:16Z",
+    "path": "/nix/store/wdp5gkbsj37wxl9snwa1jzbwini0vglb-zed-hct-theme-maker-85bbfc0",
+    "sha256": "1sga01zzj0qqn6cychdifm8ra7y85bs4p8jdpc7zjqaashri5f2y",
+    "hash": "sha256-XrgSM9RKYfkPu02iS/QqyB+VUXWxQeaZsRgD+X8A6uk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

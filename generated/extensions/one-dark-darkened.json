@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-darkened",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/pavles6/one-dark-darkened",
+    "rev": "26c2005530489fa6ba3fd1b6a064e2aa0af0a68d",
+    "date": "2025-10-23T11:39:42+02:00",
+    "path": "/nix/store/zlv336wxz03gv7xl0aqgabjb41s88hvf-one-dark-darkened-26c2005",
+    "sha256": "07hbi13xs280dd0dc0gjcf7mq2si0r1nrqwvqn0m0g27jmc6cjsh",
+    "hash": "sha256-UEtmWJVHPFCBxZvjbEMGUQtcj2PyAdZAawAJ3UeICx4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

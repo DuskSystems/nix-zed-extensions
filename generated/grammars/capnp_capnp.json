@@ -1,0 +1,18 @@
+{
+  "id": "capnp_capnp",
+  "name": "capnp",
+  "version": "dc28c9f4212809eab74d10996086297853eb34e5",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-capnp",
+    "rev": "dc28c9f4212809eab74d10996086297853eb34e5",
+    "date": "2023-07-15T01:52:05-04:00",
+    "path": "/nix/store/li1x5wpp1bnr7czhxz06q5rhy3b2hlrj-tree-sitter-capnp-dc28c9f",
+    "sha256": "1izaqx9581b8m433ddmj7srvc9dmyzfl2ay2fvdwf9j95q20wrz0",
+    "hash": "sha256-4GcOBC5JJsfbdsIrQd33tSW2sz6ytjYGqWgFVFLH6sc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "golangci-lint",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/golangci-lint",
+    "rev": "e4afbfa3068d6267dee61d519bc7cf1a5a60cb0b",
+    "date": "2025-02-25T21:16:01-05:00",
+    "path": "/nix/store/6vxklgv1yay9i40skfcdxyili6cw4wg9-golangci-lint-e4afbfa",
+    "sha256": "1hii95jqnl5ibbimh0x960r2cw7hcs4vkv0997qbmviws8nqdaz0",
+    "hash": "sha256-4KuGLdI87rrwSQnsuYlm8HAmMjCpA1jjWrFQi2VJMcI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-OFU+47xT/5Z6qa8b4b4Scmoi7aMPM9ODI7himOs27+Y="
+}

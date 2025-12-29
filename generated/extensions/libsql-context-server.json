@@ -1,0 +1,21 @@
+{
+  "name": "libsql-context-server",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/nicholasq/libsql-context-server",
+    "rev": "81515c52335b1bcc9d7e98be94b8fa7a352c81fa",
+    "date": "2024-12-01T21:47:17-07:00",
+    "path": "/nix/store/7fg9zf4i8ig52gnczwgzyk36r2c54xgh-libsql-context-server-81515c5",
+    "sha256": "0cld65zl2a55zpy4xc3mbza9lh4jmi9j69fh4kqs09gq94bfpw8y",
+    "hash": "sha256-HvHrFkn4JaDxJNAlI1OskkCa1F91sE78/aUoQX8xjTI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lcR9duGBcWrvbBhsH8O/ltb8cQfzomdIWnsoDvsQYFg="
+}

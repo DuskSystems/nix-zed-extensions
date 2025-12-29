@@ -1,0 +1,23 @@
+{
+  "name": "fsharp",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/nathanjcollins/zed-fsharp",
+    "rev": "8fd0f4a8dc671f6ccc255b0717cdce6665b303cf",
+    "date": "2025-11-10T15:24:09Z",
+    "path": "/nix/store/1kh4whwaxp8y1r69v5r8jghim9vcqbg5-zed-fsharp-8fd0f4a",
+    "sha256": "10kzn9xpqz9fmlf71qhp74zx6rp533nmjs4fg71mxyr1863l8gyz",
+    "hash": "sha256-3z9Eh0Eh+17DeY5oWe0Y5WbTPzkX4nAcrS59fHuyf4I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fsharp_fsharp"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ujCuTB0vNiu+uLtCtouOCfCYxk7xuq4Wi+rftbLIo7k="
+}

@@ -1,0 +1,23 @@
+{
+  "name": "numscript",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/bamorim/zed-numscript",
+    "rev": "88e2a72cf735f2d163522b0432f284e6dd7935e7",
+    "date": "2025-11-17T18:03:32Z",
+    "path": "/nix/store/apc0w0hhibnmqhsgk3g56pys0ich7vqw-zed-numscript-88e2a72",
+    "sha256": "1l7zi5h1lnx3cz43wgv4hh5jp5iv64hp9p65vpgyl405rzmiw4zg",
+    "hash": "sha256-7xMe688FEOrf3cXcdCExO5YrC4RkPz7IZ6NbGmCJ/9A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "numscript_numscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lTkaSp4U1ZXXd6qs1o0/acQ1SoODcHRZaM9yVoTrqFk="
+}

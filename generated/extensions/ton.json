@@ -1,0 +1,27 @@
+{
+  "name": "ton",
+  "version": "0.3.1",
+  "src": {
+    "url": "https://github.com/Bionic2113/ton-zed",
+    "rev": "c859814c61a6c568ddc9bf6675079576929f2a37",
+    "date": "2025-11-13T00:45:34+05:00",
+    "path": "/nix/store/9yy5304vl1wp252svlp71jbxqp7528qh-ton-zed-c859814",
+    "sha256": "109p87b6davryn7m18dqjc3inj6sfzxy5zqa9kqswg4ny7fsq0g6",
+    "hash": "sha256-5gGs3fGWPK7xTAr/4vt32kgbB5O4oVCP9XmrZtZBN4E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ton_fift",
+    "ton_func",
+    "ton_tact",
+    "ton_tlb",
+    "ton_tolk"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yJmWtX1wcc+G047VvsJ0Ur/SIaxGk4iX3iq5meVLAeI="
+}

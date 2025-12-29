@@ -1,0 +1,19 @@
+{
+  "name": "tomorrow-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/biaqat/tomorrow-theme-zed",
+    "rev": "8d2911e79217a43de527f44e6fd97f2dc4ef34a3",
+    "date": "2025-02-25T21:46:37-05:00",
+    "path": "/nix/store/yg4wif7d7hqd5nkwdc6a78phkj2ihd47-tomorrow-theme-zed-8d2911e",
+    "sha256": "0x886azli15hrgkqjby2n2rwyjgkym4chap3sx8j2022m8ih61fi",
+    "hash": "sha256-0QUDI6pCACFR1+MqyEj180nPs7DCL4nny7CESL8yCHU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

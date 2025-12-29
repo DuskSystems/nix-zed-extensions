@@ -1,0 +1,21 @@
+{
+  "name": "dbml",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/shuklaayush/zed-dbml",
+    "rev": "b8d63d423a93f49414f6b9088af7d182e544e5df",
+    "date": "2024-07-14T12:42:30+02:00",
+    "path": "/nix/store/6qyxymmyw6g75fq6jng7p6mk2sxy38w6-zed-dbml-b8d63d4",
+    "sha256": "1f2w234vmqn7r4v8qy64fvnyi4rlg1y9vqxrlcpp8yb8b6rzxm10",
+    "hash": "sha256-INT+s1loeXQvo7njnXx4NJPo7XbEeIw2ycfiuskQXLg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dbml_dbml"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "v0-theme",
+  "version": "0.6.0",
+  "src": {
+    "url": "https://github.com/biaqat/v0-theme-zed",
+    "rev": "97f452a58aaa4013766fcee2440d3899134b3328",
+    "date": "2025-02-25T21:46:39-05:00",
+    "path": "/nix/store/8gl6d1mw0vww7ssmc4y6igs5vk65n5xp-v0-theme-zed-97f452a",
+    "sha256": "1971yfd7nc8ivypbf6nxnhz8ljkyav37qg4q849l5hj3pwszkk3p",
+    "hash": "sha256-d8z5Nb9DwkITQZg8fMZWfkqKPrTdGreu3xExe5rz4aQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

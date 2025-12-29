@@ -1,0 +1,22 @@
+{
+  "name": "asciidoc",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/andreicek/zed-asciidoc",
+    "rev": "f208f0578f1c73e279169d4c812b1701f08f5863",
+    "date": "2025-12-12T02:58:52+01:00",
+    "path": "/nix/store/i3qrmcz7v9r0gingp6682b61sanvg6q8-zed-asciidoc-f208f05",
+    "sha256": "1g00qdibz95i48mlnn839frfib2l9bwsld3b2hh8y4gprsiazzpf",
+    "hash": "sha256-7v6vos73EY8gFGs0qvlKVKzosksDWUsrIrGkv2LDALw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "asciidoc_asciidoc",
+    "asciidoc_asciidoc_inline"
+  ],
+  "kind": "plain"
+}

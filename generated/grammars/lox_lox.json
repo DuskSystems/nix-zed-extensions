@@ -1,0 +1,18 @@
+{
+  "id": "lox_lox",
+  "name": "lox",
+  "version": "7e39bb2efbfe61d3f1bae6ab263d9a370c20395f",
+  "src": {
+    "url": "https://github.com/ajeetdsouza/tree-sitter-lox",
+    "rev": "7e39bb2efbfe61d3f1bae6ab263d9a370c20395f",
+    "date": "2023-04-23T22:03:10+05:30",
+    "path": "/nix/store/ialjrj7nqg3faq27c3xbb0sw1qp8vg2h-tree-sitter-lox-7e39bb2",
+    "sha256": "1rzhmm8ag0ljzxwv7pv23qc2h15cy566jf9n1wvp7x1l19zarl0w",
+    "hash": "sha256-HNCsfgo09HM3DzY5aUzxrAQoGB5i37N5/5KCp1Ct8Oc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

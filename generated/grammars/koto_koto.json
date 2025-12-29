@@ -1,0 +1,18 @@
+{
+  "id": "koto_koto",
+  "name": "koto",
+  "version": "1e610746f48c24607733fac158d5bae79accd845",
+  "src": {
+    "url": "https://github.com/koto-lang/tree-sitter-koto",
+    "rev": "1e610746f48c24607733fac158d5bae79accd845",
+    "date": "2025-04-22T16:09:39+02:00",
+    "path": "/nix/store/c1wd3nn5zf7nh139l1jzlp6zvilgwmni-tree-sitter-koto-1e61074",
+    "sha256": "1j82i3wpdal050x9m7g0p4v6jb236ak9yrfhiar85kv277if637r",
+    "hash": "sha256-+Qzj4jliz4KyitBln6YyQyxpNrngnZo6KICqdvmIAsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

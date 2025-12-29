@@ -1,0 +1,19 @@
+{
+  "name": "rose-pine-theme",
+  "version": "1.3.2",
+  "src": {
+    "url": "https://github.com/rose-pine/zed",
+    "rev": "e317f63215e4212fca1bf9ea83548d62bbe3ad54",
+    "date": "2025-05-24T15:13:28-07:00",
+    "path": "/nix/store/jgi6dhcrssvf39i6kdalr1y0jxkafxbg-zed-e317f63",
+    "sha256": "069bg2nh4n6n1y72bhazx7xy5zl015qnxmiz9avx8xjamry66clf",
+    "hash": "sha256-jjJjfK5KdtS3Sj/WbnEJgP7i++lfwSWOD9ZYAq14Kxk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

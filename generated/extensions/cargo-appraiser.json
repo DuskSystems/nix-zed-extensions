@@ -1,0 +1,21 @@
+{
+  "name": "cargo-appraiser",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/washanhanzi/zed-cargo-appraiser",
+    "rev": "1e82259656923d97295f3860317467febc33c44f",
+    "date": "2025-12-08T22:05:22+08:00",
+    "path": "/nix/store/i1dswpp8052hpyvg7hq6fxy4xwckcss4-zed-cargo-appraiser-1e82259",
+    "sha256": "18hwxnr48pcpsx404wg4r463i4pl17prpidiv1hcqnnfzpai6390",
+    "hash": "sha256-IA0T1f3OWsxg2LHFm+8J9JI4DMnkcQJI15ddRLLtHKI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-CIlYDef16dzyxcj3fhFG9Kz1xLnh4AC8b5SorVljBHY="
+}

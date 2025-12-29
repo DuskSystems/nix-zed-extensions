@@ -1,0 +1,21 @@
+{
+  "name": "ini",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/bajrangCoder/zed-ini",
+    "rev": "24de27b2a285573cd2888a963c9705dee1b4fe1a",
+    "date": "2025-10-22T15:23:40+05:30",
+    "path": "/nix/store/wkir0icvvys73rxf0igm0wrikhyqkrny-zed-ini-24de27b",
+    "sha256": "0s1vrvyp6li92r8x1jwdwnjsisyg8fnsb4faz5jil6441p6kqkzy",
+    "hash": "sha256-/k88zQ2EGBpl+cqRpa1Dz+uopeWNy9BRFilSc/3OO2g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ini_ini"
+  ],
+  "kind": "plain"
+}

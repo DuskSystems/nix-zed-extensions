@@ -1,0 +1,18 @@
+{
+  "id": "quarto_markdown_inline",
+  "name": "markdown_inline",
+  "version": "afaa4138517363362f54c89330c9d79391e81168",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-markdown",
+    "rev": "afaa4138517363362f54c89330c9d79391e81168",
+    "date": "2025-05-17T18:46:59+02:00",
+    "path": "/nix/store/id3ph2znazcfdxsz5k6fh70pk4j07hah-tree-sitter-markdown-afaa413",
+    "sha256": "0aprf5kvqcpjx58xwdxh4lsgz6mzcsdipjv3405fywcrbh9q7li3",
+    "hash": "sha256-I9KDE1yZce8KIGPLG5tmv5r/NCWwN95R6fIyvGdx+So=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-markdown-inline"
+}

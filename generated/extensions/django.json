@@ -1,0 +1,23 @@
+{
+  "name": "django",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/joshuadavidthomas/zed-django",
+    "rev": "5780377284f54a8a5832828e09ce8adfd32f83c3",
+    "date": "2025-10-27T13:48:53-05:00",
+    "path": "/nix/store/mf5w5hb0f2kk21g3ap77wivy7yp6x8fk-zed-django-5780377",
+    "sha256": "1wz301nzy1jbrq3ax1gdvr61dczxn1x6ihhvgagswc3l2d6c7zl7",
+    "hash": "sha256-h/7DTBN0MK6fehvCaHqw/bMWTN7tha4GzksG/20A4/M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "django_htmldjango"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Mdqiy5isiS+wx7sWi9wgnWVRC1dXANOBfz8qT7cgXjw="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "one-black-theme",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/serhiiboreiko/one-black-theme-zed",
+    "rev": "4dabb54d1c774b48f65364d2dd358ba712cc8bba",
+    "date": "2025-04-30T22:25:28+03:00",
+    "path": "/nix/store/8riwf0bdvja8wd14aq2r6chx9ibgbvzw-one-black-theme-zed-4dabb54",
+    "sha256": "1jc0jf9699nsnjc7nva3c8sr865vs0la3kjbyr7ijzqmxm1r9hjs",
+    "hash": "sha256-WsKUQ+0VfxlP9kvOoSjQuxiUNWJDbXuYtNqmZJKTgMk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

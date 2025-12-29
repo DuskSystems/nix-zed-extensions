@@ -1,0 +1,19 @@
+{
+  "name": "wakfu-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/JulesSorensen/zed-wakfu-theme",
+    "rev": "f746a6e9722bdb6ab868dede0560942dc6e38ba6",
+    "date": "2024-12-20T15:20:29+01:00",
+    "path": "/nix/store/vbbp0g68w293imgcms3qphf7s18rj8v7-zed-wakfu-theme-f746a6e",
+    "sha256": "0znncisi3gnv78xiikiapsw8apwrhfbaxn2zjrdv3zpgwhvnfv6r",
+    "hash": "sha256-2WxnN+Tv/rFbll/YrpaDmV+FuL4qzhg7Otu+EXVk1n4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

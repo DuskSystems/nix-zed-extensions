@@ -1,0 +1,18 @@
+{
+  "id": "leptos_rstml",
+  "name": "rstml",
+  "version": "4ab78c0bb76735dbf4e1bd1a2ec43e953949edb7",
+  "src": {
+    "url": "https://github.com/rayliwell/tree-sitter-rstml",
+    "rev": "4ab78c0bb76735dbf4e1bd1a2ec43e953949edb7",
+    "date": "2025-02-14T14:18:44Z",
+    "path": "/nix/store/f1skld9pjzkxl0cyicb3cy8nwnmraff5-tree-sitter-rstml-4ab78c0",
+    "sha256": "04liw06l5cc4apxv2cr60kjvnnzy3y9i35ff4f1kxrwqv4qpwma8",
+    "hash": "sha256-SFV+MdmY5z6DI86VEZMf/lu75QQmM7H7VYSxQg3gkRI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "rstml"
+}

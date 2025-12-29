@@ -1,0 +1,19 @@
+{
+  "name": "flexoki-themes",
+  "version": "2.0.1",
+  "src": {
+    "url": "https://github.com/kepano/flexoki",
+    "rev": "f82d1173032ea6da79938996058895983a8e4ed7",
+    "date": "2025-07-14T12:25:07-07:00",
+    "path": "/nix/store/hg0f2h3w3zh92yn1vdb42qllcs970hcx-flexoki-f82d117",
+    "sha256": "0214j97x6zmr9s9ia3sazbli6blj9n08k3lvxr4lrydf9ilacb75",
+    "hash": "sha256-5SymaEyu+UxJ7puOiYBNki4T6fpKDxWTTrl+00+SJAg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

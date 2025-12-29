@@ -1,0 +1,19 @@
+{
+  "name": "openmoji-icons",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/cotyhamilton/zed-emoji-icon-theme",
+    "rev": "7869e8dd21fa24454536756098fbccff74f2c198",
+    "date": "2025-02-16T13:44:51-05:00",
+    "path": "/nix/store/rs0zayvqr79m98bsk1gw0hajn5rd6bc9-zed-emoji-icon-theme-7869e8d",
+    "sha256": "1s3brcmrg6cvp2n1p8fsli09cjmf01nknnlpmq1bjjwzv7xcri5f",
+    "hash": "sha256-rsTM+tmfS7kCrpdaO20ArkqWQKTaoRusuJuZlyvLa+g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

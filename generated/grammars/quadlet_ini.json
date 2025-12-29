@@ -1,0 +1,18 @@
+{
+  "id": "quadlet_ini",
+  "name": "ini",
+  "version": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
+  "src": {
+    "url": "https://github.com/justinmk/tree-sitter-ini",
+    "rev": "32b31863f222bf22eb43b07d4e9be8017e36fb31",
+    "date": "2025-03-11T05:49:16-07:00",
+    "path": "/nix/store/xmd7nva6jlagy6ajlznqcggkzq9bb19l-tree-sitter-ini-32b3186",
+    "sha256": "0sp9075fllimy6zrw2gx5mij0igl9zvcrakh23wn7m5wh0w9lq4i",
+    "hash": "sha256-kWCaOIC81GP5EHCqzPZP9EUgYy39CZ6/8TVS6soB6Wo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

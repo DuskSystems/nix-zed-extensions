@@ -1,0 +1,19 @@
+{
+  "name": "yellowed",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/Gael-Lopes-Da-Silva/YellowedZed",
+    "rev": "4b2595f560f02f0ff93ec450a1418d8952838838",
+    "date": "2025-01-12T12:39:35+01:00",
+    "path": "/nix/store/l33svmz4dy1p1l87yz4bkc7a4pxpn2lz-YellowedZed-4b2595f",
+    "sha256": "06ns18acsdiidm3ck0j8s2ss9lz4x4mlaymznk1r0lqa771inrlk",
+    "hash": "sha256-k2YbwzkKU5DDtL96RSvp5NOktdBIgslGbTE2zRQK2ho=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

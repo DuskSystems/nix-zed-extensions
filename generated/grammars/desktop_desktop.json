@@ -1,0 +1,18 @@
+{
+  "id": "desktop_desktop",
+  "name": "desktop",
+  "version": "4a0a5eec8644a7f3357f852d7a16d2550bb2cbc2",
+  "src": {
+    "url": "https://github.com/ValdezFOmar/tree-sitter-desktop",
+    "rev": "4a0a5eec8644a7f3357f852d7a16d2550bb2cbc2",
+    "date": "2025-09-15T22:24:51-07:00",
+    "path": "/nix/store/jinzzz40ib3i5sjm51331wrkaycck148-tree-sitter-desktop-4a0a5ee",
+    "sha256": "1vlvrm75x8ipf3rwbdm9yi6f6v0zgxblsxkhm7glqap8g1zdraxk",
+    "hash": "sha256-s6vcfnjoKkzfqXB2TVd/H2zjTPSptsXzcDeiXk7Nm+4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "thrift_thrift",
+  "name": "thrift",
+  "version": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-thrift",
+    "rev": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf",
+    "date": "2024-04-20T14:42:22+02:00",
+    "path": "/nix/store/wc4nz5jkg70bly79qyzb6xs6vnw7g8l6-tree-sitter-thrift-68fd0d8",
+    "sha256": "1ijp9x1vylc8bgplnj9d898qhv04cvrl67qg9kmam33drfrmn1m3",
+    "hash": "sha256-owZbs8ttjKrqTA8fQ/NmBGyIUUItSUvvW4hRv0NPV8Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

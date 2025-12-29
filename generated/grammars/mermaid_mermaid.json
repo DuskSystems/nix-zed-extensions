@@ -1,0 +1,18 @@
+{
+  "id": "mermaid_mermaid",
+  "name": "mermaid",
+  "version": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc",
+  "src": {
+    "url": "https://github.com/monaqa/tree-sitter-mermaid",
+    "rev": "90ae195b31933ceb9d079abfa8a3ad0a36fee4cc",
+    "date": "2024-04-23T07:20:19+09:00",
+    "path": "/nix/store/yd0943np12a882b26b48jy72fimj00q5-tree-sitter-mermaid-90ae195",
+    "sha256": "1wfdsz3ikdbpym14aljgy80jhr06cgwhhg72rr8d3rsbm8z5ppaf",
+    "hash": "sha256-Tt1bPqpL59FQzuI8CPljBmQoAfJPUkVC9Xe1GcfXzfE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

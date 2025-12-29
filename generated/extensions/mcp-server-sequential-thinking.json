@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-sequential-thinking",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LoamStudios/zed-mcp-server-sequential-thinking",
+    "rev": "140f2251f388536a9359d72a361ee5c8c45b5e68",
+    "date": "2025-10-02T11:07:39-07:00",
+    "path": "/nix/store/ni0zm4w4qs8q01g8h4h0crrb573hx67r-zed-mcp-server-sequential-thinking-140f225",
+    "sha256": "1z0n6xm33zkmks10bz5a5r2p6c7d3nbjf0ww5awsbyn2mi6an9sn",
+    "hash": "sha256-VierTKzC+qW5KpwDJ5cd7TBzRS6q/AWCnnX+MWo3Fvw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RnmszuHupIWlQrA5aWqyv5Y04c6CRT2jtQN/kVhMN98="
+}

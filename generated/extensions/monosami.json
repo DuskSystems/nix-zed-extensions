@@ -1,0 +1,19 @@
+{
+  "name": "monosami",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/borngraced/monosami",
+    "rev": "e6b6adb0b08d2f73897a7f7dc04c3f44451368c9",
+    "date": "2025-03-16T10:18:53+01:00",
+    "path": "/nix/store/m15bagp85c5x883c4wr0mqajg77nh17r-monosami-e6b6adb",
+    "sha256": "0ssmlp7yfchsx4a1w88syygjvypadzzwm720drpcvi85rl0ir5r6",
+    "hash": "sha256-JpccAc0Fxc1ubkCcyv9v6votn/caIR4U6Roy58+lVWs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

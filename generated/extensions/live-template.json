@@ -1,0 +1,19 @@
+{
+  "name": "live-template",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/jekst/zed-snippets",
+    "rev": "99ee973a949988670514196d424bb2398bd4d6e7",
+    "date": "2025-08-01T09:33:12+08:00",
+    "path": "/nix/store/wmphkx79l1ifpaxxdvdbc2n8n8rqm3cn-zed-snippets-99ee973",
+    "sha256": "1amggsc2sc67xsjgcb7ljyfffgi8pxpsxsh2vdfq798mpsza9vqi",
+    "hash": "sha256-Ee+kvr4VpYNd2wLqrm+/KD7nnJf0LPak7scwLZh+r6o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

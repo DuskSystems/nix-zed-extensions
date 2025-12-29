@@ -1,0 +1,23 @@
+{
+  "name": "wdl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/broadinstitute/zed-wdl",
+    "rev": "b62c316643b926389c58e9abff6499dc877543d4",
+    "date": "2025-01-13T15:55:59-05:00",
+    "path": "/nix/store/v0ymh4l6pcmv3hlvpp77has8y8myy548-zed-wdl-b62c316",
+    "sha256": "1ycpi6wlnr0pwl8m1fxi049h486ppgnp9lq1bhs99my9h3f2pfqg",
+    "hash": "sha256-D7sr3IDJ15Q0XAHTdO271yACEwGxu1AR5RdkS7mJl/k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wdl_wdl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2se/wqON2U34PdMj/cOz2bv4YwxAbOts+h3skRAfHOY="
+}

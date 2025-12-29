@@ -1,0 +1,18 @@
+{
+  "id": "structured-text_structured_text",
+  "name": "structured_text",
+  "version": "cabf32604d3e25b15d1052a18af258ff003319ac",
+  "src": {
+    "url": "https://github.com/Blake-Haydon/tree-sitter-structured-text",
+    "rev": "cabf32604d3e25b15d1052a18af258ff003319ac",
+    "date": "2025-11-16T17:43:08+11:00",
+    "path": "/nix/store/727z7lg4n2m5xa1b4a216wzkpbiyjvlb-tree-sitter-structured-text-cabf326",
+    "sha256": "05h8aj1zhbl9z0n40sgwv0bgyybbqv83wmf9zgg617gl8h9vqrg6",
+    "hash": "sha256-5mW8E0T0nWDe+8lVPtDGa3n/Ftj8aUAs+Iku+INUCBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

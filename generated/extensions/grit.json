@@ -1,0 +1,22 @@
+{
+  "name": "grit",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mantou132/zed-grit",
+    "rev": "e0df31cbb0e5ba68c59cf9ef29094a0ddbc224c9",
+    "date": "2025-07-16T23:32:27+08:00",
+    "path": "/nix/store/639j1mspw7ww4h0dbg9k4znkcyc3ykhy-zed-grit-e0df31c",
+    "sha256": "1zcj47ash5vxlmiamvsbfiirnibs7sn62jh8k4z20s7n1js23f4f",
+    "hash": "sha256-jrghtAz2aCA+mQhKYaw+ekWbY3RL76pipX0XqNUhkv0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "grit_gritql",
+    "grit_gritqlsnippet"
+  ],
+  "kind": "plain"
+}

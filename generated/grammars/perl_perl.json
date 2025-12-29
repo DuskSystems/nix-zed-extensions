@@ -1,0 +1,18 @@
+{
+  "id": "perl_perl",
+  "name": "perl",
+  "version": "465983954cae2d2f984eae82de5ed5f11ca291dc",
+  "src": {
+    "url": "https://github.com/tree-sitter-perl/tree-sitter-perl",
+    "rev": "465983954cae2d2f984eae82de5ed5f11ca291dc",
+    "date": "2024-09-11T19:06:49Z",
+    "path": "/nix/store/b998yxf639zjmiq4ppl8cayhx8zzpsv8-tree-sitter-perl-4659839",
+    "sha256": "02r1g6d8dg4cdw0srkvp20h39qdvxkczilxqqk23b61fd726c9cd",
+    "hash": "sha256-jSVmxGkumDXExLjT+Nnsu+E0IBB3z6wBb4y8hpp5IQs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

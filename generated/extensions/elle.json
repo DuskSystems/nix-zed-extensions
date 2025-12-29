@@ -1,0 +1,27 @@
+{
+  "name": "elle",
+  "version": "0.3.6",
+  "src": {
+    "url": "https://github.com/acquitelol/elle",
+    "rev": "b1fc49b28a9ebfe8e2c6f08b3a203406f6fc6d29",
+    "date": "2025-11-19T16:04:52Z",
+    "path": "/nix/store/vrfa3njwgxxvb2zzldmdx28mrb4nmifx-elle-b1fc49b",
+    "sha256": "1i9wi2cz97pc4sxadyy2zsh7bh1zvqd2wv1xdrbgp6k6im0szmai",
+    "hash": "sha256-UdWvQY1mmvtWbj1sLhreP8B1oP7C+6a6Juye9JmIPMU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "elle_elle"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-g4YPAXQMr0n/CRUwTE0XEF2a42P6nSCrJNV9bdrndbA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/elle.lock",
+    "outputHashes": {}
+  }
+}

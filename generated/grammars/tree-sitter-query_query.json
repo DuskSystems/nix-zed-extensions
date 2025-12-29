@@ -1,0 +1,18 @@
+{
+  "id": "tree-sitter-query_query",
+  "name": "query",
+  "version": "a225e21d81201be77da58de614e2b7851735677a",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-query",
+    "rev": "a225e21d81201be77da58de614e2b7851735677a",
+    "date": "2025-11-27T18:29:18+01:00",
+    "path": "/nix/store/vwgl3lymvb9250hr0j6wzfpf66yghy0h-tree-sitter-query-a225e21",
+    "sha256": "1m7w05228ky26ph4k9vfwjwkhghppnpvci2i45iwncjanrni6byk",
+    "hash": "sha256-0y8TbbZKMstjIVFEtq+9Fz44ueRup0ngNcJPJEQB/NQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

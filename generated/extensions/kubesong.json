@@ -1,0 +1,19 @@
+{
+  "name": "kubesong",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/helgelol/kubesong-zed-theme",
+    "rev": "3cc900b645f7246dc65924ffc5b48b7cd2a5292e",
+    "date": "2024-07-16T23:24:12+02:00",
+    "path": "/nix/store/jy7vnf47y338ncy2x17wqjgzjb6b5fnx-kubesong-zed-theme-3cc900b",
+    "sha256": "1qafz4s52q4lfbcmdzhxwmr8v0l20aaircvns890rxz96ad0ld1k",
+    "hash": "sha256-MzQKmjLp9wwS0nazHJUCgoKNcuUd/lbZcpRgUTT5TuE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

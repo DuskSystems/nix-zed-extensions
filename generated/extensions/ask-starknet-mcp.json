@@ -1,0 +1,21 @@
+{
+  "name": "ask-starknet-mcp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/0xpantera/ask-starknet-mcp-server",
+    "rev": "346e4dd2b20b9e07e9a86a1847b04f3be19168aa",
+    "date": "2025-11-12T15:19:12+01:00",
+    "path": "/nix/store/jzdwyf0acgxmfanjb1c6yl3b5dd88p7r-ask-starknet-mcp-server-346e4dd",
+    "sha256": "0c3fpv70473avmp71nlgdn99ak8iwwxy6bmzp11hgbs4p3nzncpl",
+    "hash": "sha256-9DL77bhErwdDuL8u4zvnEU2Vkm2P2nBu3WocAs6+bjA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-C1SfEeb750RX1/HVwleUVkUt0bhQbYiA5IF9895U5/o="
+}

@@ -1,0 +1,21 @@
+{
+  "name": "agda",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/haohanyang/agda-zed",
+    "rev": "b798f2e5d493702fc86aeec2e5ca70cdf43a8d1f",
+    "date": "2025-02-10T22:03:13+01:00",
+    "path": "/nix/store/sl64id369b4bva33324w9mh8wy20mvln-agda-zed-b798f2e",
+    "sha256": "064qqc7j7vl03qq4l5xraarym7ikggarck15m4xnvl881ymgralz",
+    "hash": "sha256-n6r8qg8I0W07qSVMltV7M57qs1K5F0owHoDuIw/DmBg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "agda_agda"
+  ],
+  "kind": "plain"
+}

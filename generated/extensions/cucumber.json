@@ -1,0 +1,23 @@
+{
+  "name": "cucumber",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/thlcodes/zed-extension-cucumber",
+    "rev": "b973162a8234582271954fe9509d1778c9e511cb",
+    "date": "2025-02-13T22:04:09+01:00",
+    "path": "/nix/store/72fsr155sax9bqrfhjgc2gwzprj6njy7-zed-extension-cucumber-b973162",
+    "sha256": "057bf98zrc4s72hv07gqy97aalns5vp71i73d22pdpkhs5pdg96w",
+    "hash": "sha256-3KTXbtFw3naFaOPEcO4u2lKlTvL4HbChOJqw/FFy6xQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cucumber_gherkin"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-a/aJGyYeTHdF48heJ5410hxDwKot4Sdvz9BZdDvl7uI="
+}

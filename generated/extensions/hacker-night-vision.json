@@ -1,0 +1,19 @@
+{
+  "name": "hacker-night-vision",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/Takk8IS/hacker-night-vision-theme-for-zed",
+    "rev": "686a2f468f625099ddde4c5bf6d5df7adf5e81cf",
+    "date": "2024-10-10T06:04:52+02:00",
+    "path": "/nix/store/5fcbr6qbslhmmym2lhkbzzjbsjsxss31-hacker-night-vision-theme-for-zed-686a2f4",
+    "sha256": "0gc1y51albp840rawlv9yclwq1swadnz3pyx2gcrmpyxpx99wppx",
+    "hash": "sha256-/V6eUr/d35rZE93f8W1TXAfMKfNpU64yIOguqkLxgT0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

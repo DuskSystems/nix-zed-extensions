@@ -1,0 +1,23 @@
+{
+  "name": "earthfile",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/glehmann/earthfile.zed",
+    "rev": "c91a80da557a9fb4e1653e8c57a915a0b3bbdf19",
+    "date": "2024-05-29T14:53:38+02:00",
+    "path": "/nix/store/41cl7kdra0ky8xh8b86cj7wigkpmfnxx-earthfile.zed-c91a80d",
+    "sha256": "06sj408yfkh3mbs2xnci1ii6di84cbis828ykf6j8f0z18nhcdvk",
+    "hash": "sha256-czcGLQofOCSNmx4JpONiBMVmYgyR2S70qgNO5xEgUhs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "earthfile_earthfile"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NA7QlxvuxpLtWkGb+3qzfhVtam2ype4UCf206c0NRxk="
+}

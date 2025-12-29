@@ -1,0 +1,19 @@
+{
+  "name": "aura-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/daltonmenezes/aura-theme",
+    "rev": "3f7557a75955d29d9edad1808453ab9adaf8faec",
+    "date": "2024-05-19T12:10:43-03:00",
+    "path": "/nix/store/hc2k3wfwa9qf1i4hszjnl57vaajs6sxy-aura-theme-3f7557a",
+    "sha256": "1h9wliii20lh3h117dm0xif1affxlssd2c74vaqqbj5235ql7hsj",
+    "hash": "sha256-UsNDcRmiyIWx2uQw0bSm3TkVXOygthMCHJACEWOkPME=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}

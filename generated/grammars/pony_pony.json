@@ -1,0 +1,18 @@
+{
+  "id": "pony_pony",
+  "name": "pony",
+  "version": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-pony",
+    "rev": "73ff874ae4c9e9b45462673cbc0a1e350e2522a7",
+    "date": "2024-04-20T14:45:13+02:00",
+    "path": "/nix/store/cn3m2g515qivac1v4ckjlcfyqq2jskxw-tree-sitter-pony-73ff874",
+    "sha256": "0fm47by0z6vzihnk4py7lx1qbiwqbbgpxpi8ibl740bnx9nx7mpz",
+    "hash": "sha256-/9bTbep2AXLoiijeft9amMeFQ6fHXzItjH+bD/w6pDo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "nu",
+  "version": "0.0.8",
+  "src": {
+    "url": "https://github.com/zed-extensions/nu",
+    "rev": "97c692788d4f34b2cd2947693a94963e51b6a302",
+    "date": "2025-11-26T11:35:53-06:00",
+    "path": "/nix/store/xwsipqvmw9yf8wl8vz8nrykswbghjlrc-nu-97c6927",
+    "sha256": "116hvwydnimv8l62d8y2ccpphcvmhl9lw86x1cl1s13avqxzylsp",
+    "hash": "sha256-V1P/O95qBB0oC90gThOFdTN4L2PCoyYMRbtG2zzf0IQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nu_nu"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-hIQr/AroJ7DbuhrkROU5o+uqcd6GnJC57jv0SJeDcqM="
+}

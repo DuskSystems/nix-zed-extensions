@@ -1,0 +1,19 @@
+{
+  "name": "s-dark-theme",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/sinamombeiny/S-DarkTheme.zed",
+    "rev": "1d6c2f99085a6d2aef71777acd542b52bee9e756",
+    "date": "2024-12-03T17:27:09+03:30",
+    "path": "/nix/store/48k4i7hqzj71l00g2cf6nqcj41gv3zkq-S-DarkTheme.zed-1d6c2f9",
+    "sha256": "1dwl4q648cn67ddv1qi7c386yp3man0hp7frwhrg0qzcswsm9gfz",
+    "hash": "sha256-371UNdfsY/Ay5NmdC4FVdVxv0GAn4rBbO8YyRAwmlLc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

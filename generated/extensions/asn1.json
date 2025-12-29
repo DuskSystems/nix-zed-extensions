@@ -1,0 +1,23 @@
+{
+  "name": "asn1",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tdanner/zed-asn1",
+    "rev": "fb258f08ac2d982974447bf5563e6f9f349af414",
+    "date": "2025-10-21T07:14:47-05:00",
+    "path": "/nix/store/wxj3hpn5s58xvzrg79h614sp320ncfbb-zed-asn1-fb258f0",
+    "sha256": "039g8sj5lrg0jzl1bsyg429db34z0a40lb4cpx303k5qcw62dr3c",
+    "hash": "sha256-bOQmDGe4zAFGv4wsCogCn4zVkiDP6xXol+BlWqRGLw0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "asn1_asn1"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-J+RONtIXL9aFc7l34i0ZZzxK2o2TeudH2ErLD+6kZTE="
+}

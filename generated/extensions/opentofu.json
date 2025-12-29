@@ -1,0 +1,23 @@
+{
+  "name": "opentofu",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/ashpool37/zed-extension-opentofu",
+    "rev": "1fd48d837d9f19eab8be681b15140467bc1c20d0",
+    "date": "2025-06-27T03:38:58+02:00",
+    "path": "/nix/store/wljdnxdi469rx5nrjg4szz9376a1rjrm-zed-extension-opentofu-1fd48d8",
+    "sha256": "0wk7sl3wnhzasmjczpb0f2mpxpkyvm039b31hb5sys8q28naaakm",
+    "hash": "sha256-dSqlLBIYaa/LgmGsNEDdft5+q3Bg3c9k1epDywfVZ3I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "opentofu_hcl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-a0oLJOD7NWTBpnUfPkYoYtyIIwk2PUeZMBgQoWoC3uE="
+}

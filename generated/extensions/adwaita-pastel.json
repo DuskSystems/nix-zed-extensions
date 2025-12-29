@@ -1,0 +1,19 @@
+{
+  "name": "adwaita-pastel",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Benjamin-Davies/zed-theme-adwaita",
+    "rev": "b9e415ff62475aa257d769ea280852e247515d97",
+    "date": "2024-08-15T08:26:01+12:00",
+    "path": "/nix/store/1snr8xvzp8jwpzvcax7p9iykn6b6gyrv-zed-theme-adwaita-b9e415f",
+    "sha256": "109jln2jhakf95qyxjxn24f4y7clrh1vgnp9aijl0l7qv65chjyw",
+    "hash": "sha256-3EvIitn4UEBlVOnatwPMlB1PHBG2y+5xSW4qKIWlMoE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

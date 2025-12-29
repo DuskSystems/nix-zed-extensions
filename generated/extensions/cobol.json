@@ -1,0 +1,23 @@
+{
+  "name": "cobol",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/willswire/zed-cobol",
+    "rev": "ebf82098c0ac90da7676863ee1249fe8bc4311f4",
+    "date": "2025-08-28T22:36:56-04:00",
+    "path": "/nix/store/mxbshx4vfw2wg0m888fyk1dqmrq3gn4r-zed-cobol-ebf8209",
+    "sha256": "0r2wnymqgvcfxkihfvzlg8imjvsls4774pzwlapxdw5sifjyi6p7",
+    "hash": "sha256-55ropYu68Navovxfcg7RVG9ZI3r0bwfj7I7th6u3XGQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cobol_cobol"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YHF48p4IHzcvvKroqT2vyOGJRfs1RLDvtBJ30DiO3zo="
+}

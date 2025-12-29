@@ -1,0 +1,19 @@
+{
+  "name": "liquid-snippets",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/hcmlopes/zed-liquid-snippets",
+    "rev": "99f9c5862590b85d2ef92b9f777022f2adda9f79",
+    "date": "2025-05-20T11:57:51-04:00",
+    "path": "/nix/store/w66w7pkmd9yb8bp9gf95hrfgs2y4f6ja-zed-liquid-snippets-99f9c58",
+    "sha256": "1j665vjs1y1yk57g57zv3ayamwb1x4hhviw0ma5jmpxnmb6gdr04",
+    "hash": "sha256-BOT2zKq23yqLqoDHDSHpYfGqvBr7n/JOmT74oOUuxsg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

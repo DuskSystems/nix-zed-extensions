@@ -1,0 +1,21 @@
+{
+  "name": "comment",
+  "version": "0.4.1",
+  "src": {
+    "url": "https://github.com/thedadams/zed-comment",
+    "rev": "fb4716e64e56a8e7ad32907ebef5469cfc7bd048",
+    "date": "2025-11-23T19:05:32-05:00",
+    "path": "/nix/store/f2kjbqcbbqcax2q81wz7byzkrkl67y1b-zed-comment-fb4716e",
+    "sha256": "0rxsw6pvswx8zn5vyhldbsk129wrrd1qa1455n9pqvr2f02yxyi5",
+    "hash": "sha256-JfruBXAib3yTLYUEhUPLmScRpl6NQr+L/ahzva/humc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "comment_comment"
+  ],
+  "kind": "plain"
+}

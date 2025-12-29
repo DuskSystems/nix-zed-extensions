@@ -1,0 +1,19 @@
+{
+  "name": "lights-out",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Ajiva-D/lights-out-theme-zed",
+    "rev": "20c0bf6232feeb055d10c04e850887116152c906",
+    "date": "2025-09-22T11:14:11+01:00",
+    "path": "/nix/store/xcv01mn7d6bp1lr9fkfbl71i48fvl8kj-lights-out-theme-zed-20c0bf6",
+    "sha256": "01r2q98ql4mp9ssnbnir669kw018mlrngn2fppg94ikw65i8zq2b",
+    "hash": "sha256-S+CPYjF8RpLevU7YZzOtKAA+kzE52mW1TrcSilHCIgc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

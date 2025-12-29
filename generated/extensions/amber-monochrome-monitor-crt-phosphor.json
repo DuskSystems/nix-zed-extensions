@@ -1,0 +1,19 @@
+{
+  "name": "amber-monochrome-monitor-crt-phosphor",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/Takk8IS/amber-monochrome-monitor-crt-phosphor-theme-for-zed",
+    "rev": "4a3fd20e9846da50071af13b4fc341a4f07d657b",
+    "date": "2024-06-08T05:29:44+02:00",
+    "path": "/nix/store/8p97pacw63sxzsqjy6qfz4qpbyyh7i47-amber-monochrome-monitor-crt-phosphor-theme-for-zed-4a3fd20",
+    "sha256": "168h6l7ax9i87pn125lyx537lrqb2s22kphwp3a17p4r9aisv0rr",
+    "hash": "sha256-OYOto0qZ3BPUuBzeKYQWC2d6RumeFhHsPSimrg41EJk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

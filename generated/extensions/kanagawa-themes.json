@@ -1,0 +1,19 @@
+{
+  "name": "kanagawa-themes",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/ethangilmore/zed-kanagawa",
+    "rev": "45b4295e708a5720d75514013a20a00917d50cc5",
+    "date": "2025-07-07T12:48:56-06:00",
+    "path": "/nix/store/p8sm2cyvfpwr3k47w221c54qyzdsa1wx-zed-kanagawa-45b4295",
+    "sha256": "135nq7h5fljkvb65y6rjyjhylvcb23jq0siv6fxnzri6rz0z6sfx",
+    "hash": "sha256-3Wnzwc8m5m+7MztqgOUQi23qofQyG1/M2lNSV+DBtow=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

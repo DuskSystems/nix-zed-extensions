@@ -1,0 +1,19 @@
+{
+  "name": "maple-theme",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/subframe7536/zed-theme-maple",
+    "rev": "c85f13e91e0b7c4ea81f046895d9e4a3acc79ea9",
+    "date": "2025-10-30T16:48:26+08:00",
+    "path": "/nix/store/rzpggdrdcz7xqpjxvp3nimx3js8fd0iy-zed-theme-maple-c85f13e",
+    "sha256": "1y282axcsgw7fz3afdy3qka606zfb3vd0al97klghrqbg5ykw5pa",
+    "hash": "sha256-6hY+fXkLZ/joPIkq0PZY7htg1MTDN6fGd4c/zboSSPg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

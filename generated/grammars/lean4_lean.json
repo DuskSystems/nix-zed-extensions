@@ -1,0 +1,18 @@
+{
+  "id": "lean4_lean",
+  "name": "lean",
+  "version": "efe6b87145608d12f5996bd7f0cf6095a0e82261",
+  "src": {
+    "url": "https://github.com/Julian/tree-sitter-lean",
+    "rev": "efe6b87145608d12f5996bd7f0cf6095a0e82261",
+    "date": "2024-12-25T13:29:53-05:00",
+    "path": "/nix/store/rhp1fpldxc024hj8b6awdy6inakp6q48-tree-sitter-lean-efe6b87",
+    "sha256": "1ki5cp2n90nn74r4m0zyfsdh49aqyaadaxgqjxzpbhs3713qnprh",
+    "hash": "sha256-MF+LRzhDw3V/l/h11ZTyWCUCm3b+g0oyOdaCZMVlJc4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ghostty",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Else00/ghostty-zed-extension",
+    "rev": "cd025624fa16e36a3615a5218f824e432c59cc14",
+    "date": "2025-11-18T11:17:54+01:00",
+    "path": "/nix/store/1z9cwqcrz87c4bhlj6dccxz8s3cdfkb8-ghostty-zed-extension-cd02562",
+    "sha256": "1ys11apr0ckffiivrxy2j1d06xqxlky9w86fq6jvllrqjskks9fb",
+    "hash": "sha256-yyU9p5Y4U7qlwc4gnvykHXcDWpDC97xjdG4ykK8KQfs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ghostty_ghostty"
+  ],
+  "kind": "plain"
+}

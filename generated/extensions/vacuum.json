@@ -1,0 +1,21 @@
+{
+  "name": "vacuum",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kovapatrik/zed-vacuum",
+    "rev": "8289e8cb661127fceefed31f0aa377df597aaff8",
+    "date": "2024-09-20T19:07:21+02:00",
+    "path": "/nix/store/i9i8vr36a21vwcqwrws6v0xn2i2gn06j-zed-vacuum-8289e8c",
+    "sha256": "1wjmjzbv3san419kws03j3x71rx37dqjy07czcqgjkiky6sqzan6",
+    "hash": "sha256-xqqPtfEzTvkw++wAL3E7o+dw+pADaD5TIFbpsdeXVfI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/1+S4/qGAOcH5mV/eR1l3X0wXvuhYPM9NN0ogDu7GkI="
+}

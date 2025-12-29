@@ -1,0 +1,18 @@
+{
+  "id": "rhai_rhai",
+  "name": "rhai",
+  "version": "9effbd906ef4bcd29445875beee0daa74341e068",
+  "src": {
+    "url": "https://github.com/elkowar/tree-sitter-rhai",
+    "rev": "9effbd906ef4bcd29445875beee0daa74341e068",
+    "date": "2024-12-16T17:38:05+01:00",
+    "path": "/nix/store/8nqgqj8saba7xa7paysj2gqrw6i4hmd5-tree-sitter-rhai-9effbd9",
+    "sha256": "0847hgjdljimhcapb7sv894lhx9rnhpn15i8a4ay47srfpds45vi",
+    "hash": "sha256-cRei23VZH+IVUSiWYC+0OXVISUJbn3UVgzVK2uSDhyA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

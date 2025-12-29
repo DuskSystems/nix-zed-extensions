@@ -1,0 +1,18 @@
+{
+  "id": "wren_wren",
+  "name": "wren",
+  "version": "2652be33ae75e77ebfd1f37af46070c7f5313f72",
+  "src": {
+    "url": "https://github.com/hgmich/wren-tree-sitter",
+    "rev": "2652be33ae75e77ebfd1f37af46070c7f5313f72",
+    "date": "2025-08-24T21:56:43-04:00",
+    "path": "/nix/store/nx157w14ljpiph7l95vnyj673ss8yrri-wren-tree-sitter-2652be3",
+    "sha256": "00vq2yi87bdqfk2nhr2ppx7lkvi8biyzp5lrv2w7a8fj6n27wlax",
+    "hash": "sha256-XVF+hDXSIXW42JmW+31cKO5JT79XZGjFdLitg6IXeAM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

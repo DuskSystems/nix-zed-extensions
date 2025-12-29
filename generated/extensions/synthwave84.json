@@ -1,0 +1,19 @@
+{
+  "name": "synthwave84",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hydepwns/synthwave84-zed",
+    "rev": "b8f6a65c082b53122220ebc102ea52ef09b0d590",
+    "date": "2025-07-23T14:35:47+02:00",
+    "path": "/nix/store/7r0z2w1v081wxhw4ww5sr0x61lz6lfl8-synthwave84-zed-b8f6a65",
+    "sha256": "074xxprhggcmkn6ny9x3g4l51ibjsr7jplzphckg4cjay0zzp0nl",
+    "hash": "sha256-1IL7P/BKMvImg/fTK0/WcsVQKHmjJ2+NnZW9B/PtnRw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

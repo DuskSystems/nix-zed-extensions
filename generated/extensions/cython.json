@@ -1,0 +1,21 @@
+{
+  "name": "cython",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/lgeiger/zed-cython",
+    "rev": "53ca5d565019437a037377b9d0976e6f330e560d",
+    "date": "2024-12-14T17:43:03Z",
+    "path": "/nix/store/lk69cypc3ccj9825xjyfswfxcad4qbph-zed-cython-53ca5d5",
+    "sha256": "1akzzm28i3aw06ab11y5dykyd0daidc6hx41djq6afw92j0cq1zd",
+    "hash": "sha256-7QfMgBSJO2WwbIF0aFiLqoHmp2/Fh7CUAVyNiET9f6o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cython_cython"
+  ],
+  "kind": "plain"
+}

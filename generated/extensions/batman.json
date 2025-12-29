@@ -1,0 +1,19 @@
+{
+  "name": "batman",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/devzaidi/batman-theme-zed",
+    "rev": "853894cbe1f8d40ced25212b921bf7beb48e29e9",
+    "date": "2025-03-23T15:45:06+05:00",
+    "path": "/nix/store/wihcdgq274sdsdh21dycch44alcwls1z-batman-theme-zed-853894c",
+    "sha256": "0xr39yfnffywwxgwyscdn7nm490gdya37dy6gvk2jn7xmibpcv84",
+    "hash": "sha256-BG12V6z9WCnmfsa3M5RvDyRS7bGNac9f59w7Z51PI3c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "penumbra-plus",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/everdrone/zed-penumbra-plus",
+    "rev": "4cb376e1632eaf3f400f8e5e8e09195cd7379690",
+    "date": "2025-11-05T11:32:45+01:00",
+    "path": "/nix/store/zza1hb5sdrcpyny8i8b2zkb7k9hqdzqw-zed-penumbra-plus-4cb376e",
+    "sha256": "0yax0s754m28wmai77h3ixj94rvvycj9fz2fidpn54pdwjgdx7wi",
+    "hash": "sha256-kZ/enuTtkmJvi058lyTze2eSZI8DnhNV5UhUUo4GXXk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

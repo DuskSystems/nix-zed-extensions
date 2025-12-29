@@ -1,0 +1,21 @@
+{
+  "name": "awk",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dangh/zed-awk",
+    "rev": "2b19ea56a306b104b0febf48c7042e380096e491",
+    "date": "2024-07-19T18:36:20+08:00",
+    "path": "/nix/store/fiyll8crpqwgw9y4cq57s5nqxdrqb9ds-zed-awk-2b19ea5",
+    "sha256": "1fk3hpnl7ncq7d8qibgcbkf8kwxk1sm96s0q5jy5i4mmiagm5f1i",
+    "hash": "sha256-MbhSn4q1kli8LBhok6oOs/OJ3FzsrYhRO5jZQ+2FY7o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "awk_awk"
+  ],
+  "kind": "plain"
+}

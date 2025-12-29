@@ -1,0 +1,19 @@
+{
+  "name": "nightingale",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/xeind/nightingale-zed",
+    "rev": "6290cf64f4ae8f7b68155565a3d16b35992f8d02",
+    "date": "2025-12-20T10:01:09+08:00",
+    "path": "/nix/store/q5ryy5b9xw2k1jyy6h0azi3ycccdj3j4-nightingale-zed-6290cf6",
+    "sha256": "1jd7pqff6x8r1vw3k8jzf9fps0hwdldwpyfzhry3skmqirb91nkm",
+    "hash": "sha256-ddqQVo64Tj18ht/5yxttHAJ9XXJfojn4Dhl14xy+p8k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

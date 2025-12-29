@@ -1,0 +1,18 @@
+{
+  "id": "puppet_puppet",
+  "name": "puppet",
+  "version": "15f192929b7d317f5914de2b4accd37b349182a6",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-puppet",
+    "rev": "15f192929b7d317f5914de2b4accd37b349182a6",
+    "date": "2024-12-21T21:47:11-05:00",
+    "path": "/nix/store/h4r1m881a2g906wwfhjhhyryy9684mwb-tree-sitter-puppet-15f1929",
+    "sha256": "19032dhb60vxij6b6xvgnigwhhbm4y89dr11vxsr1kk10zj61vkc",
+    "hash": "sha256-bO5g5AdhzpB13yHklpAndUHIX7Rvd7OMjH0Ds2ATA6Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

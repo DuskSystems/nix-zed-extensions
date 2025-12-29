@@ -1,0 +1,18 @@
+{
+  "id": "git-firefly_gitignore",
+  "name": "gitignore",
+  "version": "f4685bf11ac466dd278449bcfe5fd014e94aa504",
+  "src": {
+    "url": "https://github.com/shunsambongi/tree-sitter-gitignore",
+    "rev": "f4685bf11ac466dd278449bcfe5fd014e94aa504",
+    "date": "2022-05-04T17:15:26-06:00",
+    "path": "/nix/store/2cvblbrjd9a51jk4jinci9ac5yrxrxbw-tree-sitter-gitignore-f4685bf",
+    "sha256": "17rar33y4dngmx69kjiw6wgrsd6kc0c8w4xa4rx06rjmv7b1hfij",
+    "hash": "sha256-MjoY1tlVZgN6JqoTjhhg0zSdHzc8yplMr8824sfIKp8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

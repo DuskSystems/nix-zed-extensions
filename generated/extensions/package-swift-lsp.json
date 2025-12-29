@@ -1,0 +1,21 @@
+{
+  "name": "package-swift-lsp",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/kattouf/package-swift-lsp-zed",
+    "rev": "cad0bc1e7f78ae0422da67647f3396e77dca4111",
+    "date": "2025-08-08T00:25:21+07:00",
+    "path": "/nix/store/w9vz4wz6ih15vz5b9dkmshhknl6vzngj-package-swift-lsp-zed-cad0bc1",
+    "sha256": "0dgccd2njs9cphf4h94z5cvfz43s0hl2lvk85lah4nwi1kw0qzni",
+    "hash": "sha256-0X4M+AyRWwIVLWhuKigEepDvNiufJEgcvCxpaUVj7DU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DYyyLF8JEuPlpnZ9IEfoBvQzOW8YFs0F1aZfEENxoAk="
+}

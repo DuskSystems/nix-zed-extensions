@@ -1,0 +1,18 @@
+{
+  "id": "baml_baml",
+  "name": "baml",
+  "version": "3edd0d25e2cf352295ade681f4a2c2f3a9cdc58b",
+  "src": {
+    "url": "https://github.com/BoundaryML/tree-sitter-baml",
+    "rev": "3edd0d25e2cf352295ade681f4a2c2f3a9cdc58b",
+    "date": "2025-04-04T14:59:40-07:00",
+    "path": "/nix/store/1p7s5l2ls2j5akf4kmy6gdhnc88isqqh-tree-sitter-baml-3edd0d2",
+    "sha256": "1hpd5g4hhypwhf5vr143nnbpaxk9cykj2qzc1jinz48bqlcbrc1i",
+    "hash": "sha256-MbC8GMULkW+jDOxjIadnaXZ1l7WDhLyLg/x6CMkr7cI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

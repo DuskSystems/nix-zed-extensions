@@ -1,0 +1,19 @@
+{
+  "name": "zedrack-theme",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/foorack/zed-theme",
+    "rev": "6e5c8f145a50d16a1e3748dce20de9342861df0a",
+    "date": "2024-10-29T06:25:30+01:00",
+    "path": "/nix/store/skvw9qvhniwggb35i9jrx5ajw9xjzywn-zed-theme-6e5c8f1",
+    "sha256": "12n7yqhm6fhxxri6q4li0zyf53lkp2r889lq9ygv15wgv6rjq03c",
+    "hash": "sha256-bAAss9mPl7CfT5gmhLK4k47i/AeREmxi7h06UyH2x4o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

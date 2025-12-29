@@ -1,0 +1,18 @@
+{
+  "id": "scss_scss",
+  "name": "scss",
+  "version": "f5dfc3b4609d01fb11af8c97f3948fffeff25e92",
+  "src": {
+    "url": "https://github.com/savetheclocktower/tree-sitter-scss",
+    "rev": "f5dfc3b4609d01fb11af8c97f3948fffeff25e92",
+    "date": "2025-06-28T15:45:19-07:00",
+    "path": "/nix/store/d757fl3s40l2jx9fhwi9r0ffppidhys1-tree-sitter-scss-f5dfc3b",
+    "sha256": "0cyz95fjjcnrx4wmrvwrdj722wjpc01v9m6jkj4rj6pxajgrh0qm",
+    "hash": "sha256-FQOYn1T9GpmJnNLUtANgV3IhjmyZ71w56dkyKV1J3zM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

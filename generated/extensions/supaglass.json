@@ -1,0 +1,19 @@
+{
+  "name": "supaglass",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/piyush-kacha/zed-supaglass",
+    "rev": "023541806e4fdcc8b734a4da9bcdf61e78e20a34",
+    "date": "2025-06-12T12:06:01+05:30",
+    "path": "/nix/store/5m17l2zsnywv1x7w6q0za8x8h6gb4zyx-zed-supaglass-0235418",
+    "sha256": "0wk8cmr2qxmciq9y6p53c5abxgl33s691s6cg5q21lwq17z1pp5v",
+    "hash": "sha256-u9wb/gmY0yBweczokIweg76+VGGjXOMTjqx2LHJlaHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

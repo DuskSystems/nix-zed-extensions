@@ -1,0 +1,21 @@
+{
+  "name": "cargo-tom",
+  "version": "0.4.1",
+  "src": {
+    "url": "https://github.com/frederik-uni/zed-cargotom",
+    "rev": "6fe09cd1628aec3c3dba0bfcb9b458a3894f140a",
+    "date": "2024-08-28T13:59:19+02:00",
+    "path": "/nix/store/hi37wx6drrdq30vx0nambnjyna0x3q6r-zed-cargotom-6fe09cd",
+    "sha256": "17psdcz4f6dfvp6z1536qbnqs33nk381yj1ci36nis34a10pmfvr",
+    "hash": "sha256-ebt6QVBk6GjNiCxIH9CYdgyN7cJmlPDN3a4ZRz5r+p4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-MI/Os0NpEC6Gj/6KmFRB+luOEasiv7bEIGU58/L/myk="
+}

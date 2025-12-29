@@ -1,0 +1,18 @@
+{
+  "id": "sagemath_sage",
+  "name": "sage",
+  "version": "de002c5abf9e14bf92a643b4af9057d0ceb612a5",
+  "src": {
+    "url": "https://github.com/havarddj/tree-sitter-sage.git",
+    "rev": "de002c5abf9e14bf92a643b4af9057d0ceb612a5",
+    "date": "2024-10-13T11:26:32+02:00",
+    "path": "/nix/store/qsyil3bddl99kzwy8mmbsc35gf102yxb-tree-sitter-sage-de002c5",
+    "sha256": "1d0l0kp789w1b7gnd9j59x3kw4h3nzps1x84rjd8vv1vbx9jk70a",
+    "hash": "sha256-CpwpU1877I2azAT1oO+3AxI+R09FpmbfWYEndO4EFLQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

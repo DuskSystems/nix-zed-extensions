@@ -1,0 +1,23 @@
+{
+  "name": "turtle",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MoskitoHero/zed-turtle",
+    "rev": "3602afa942da632d9c18758497c66fe881d00ed5",
+    "date": "2025-05-16T14:24:13+02:00",
+    "path": "/nix/store/a5lnngb12baf1ha0s55wl18ah8323nk3-zed-turtle-3602afa",
+    "sha256": "079dysqr6hwhblrs9ldh40d9czv6w0834ap6dk86b5caz9wnr2ry",
+    "hash": "sha256-PotsefqKlWXQbOYqMhDgZn+WGiCw0aQzXZBDk7H2LR0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "turtle_turtle"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YGSf+0IWLbsqjcSfFu9qrfJP2gqGyv6NqXvxTMvQHdc="
+}

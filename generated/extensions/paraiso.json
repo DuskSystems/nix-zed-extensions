@@ -1,0 +1,19 @@
+{
+  "name": "paraiso",
+  "version": "1.0.2",
+  "src": {
+    "url": "https://github.com/treffynnon/zed-Paraiso",
+    "rev": "4a36570e995089a8eaf841be117b1677f2081802",
+    "date": "2025-06-19T10:38:30+10:00",
+    "path": "/nix/store/gx259g5j6yfrrhx0varnszinb0fcshdh-zed-Paraiso-4a36570",
+    "sha256": "0x7s59f1z9sdzgwa7p7jsk6i3x76ka64rnw7nfgmb8a6qcxqnpwp",
+    "hash": "sha256-l1+LO8NGoVWfs4fbTIya5vQRzdTy3KP4+02nH1wq+nQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "toon_toon",
+  "name": "toon",
+  "version": "da7045ed1c9783d58de643fde628b671f7179214",
+  "src": {
+    "url": "https://github.com/3swordman/tree-sitter-toon",
+    "rev": "da7045ed1c9783d58de643fde628b671f7179214",
+    "date": "2025-11-22T18:06:53+08:00",
+    "path": "/nix/store/fzy4hdgaj583616w9acy4wlxm80i51is-tree-sitter-toon-da7045e",
+    "sha256": "0s3mg329iqihbrqdwb6qd37vdkm0ysagrgj8jp773793nksspylz",
+    "hash": "sha256-n/qr9bQjnXHOlUi+/JT2oM62z2jYLN5wXjDimMR4dWg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

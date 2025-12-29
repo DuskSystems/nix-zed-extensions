@@ -1,0 +1,19 @@
+{
+  "name": "flow-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/Rics-Dev/zed-flow-theme",
+    "rev": "1468438031b78d121dcb7fb2c91bbc978483fc79",
+    "date": "2025-05-04T16:32:27+01:00",
+    "path": "/nix/store/g6j5q36ifsq6bqx9dkxz2izljb6acfxb-zed-flow-theme-1468438",
+    "sha256": "1hsb8isi6c86wa0fic45ryndi4vrvb65p4fs325wmb48kjspki00",
+    "hash": "sha256-AMR5tZyIrMqLGNqRW8zaeZPYrM+FsOiA4gYxE3VES8M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

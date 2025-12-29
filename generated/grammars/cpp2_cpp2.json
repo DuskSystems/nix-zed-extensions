@@ -1,0 +1,18 @@
+{
+  "id": "cpp2_cpp2",
+  "name": "cpp2",
+  "version": "01324f00ec299318b21d94077ab1f4d54ce3db47",
+  "src": {
+    "url": "https://github.com/tsoj/tree-sitter-cpp2",
+    "rev": "01324f00ec299318b21d94077ab1f4d54ce3db47",
+    "date": "2024-10-21T18:09:24+02:00",
+    "path": "/nix/store/xp0hq2xv6g1m4qjr93vgfr0i2vqzj10y-tree-sitter-cpp2-01324f0",
+    "sha256": "15nj64wlxfa1q7g5rcqh91q3yj7ics05yrjx57mxg7iwkhjs1z8v",
+    "hash": "sha256-G/2gJZw8ntfrKV1mX4Bm8Ug/cEgQs1zewUG5Tjkx0pY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

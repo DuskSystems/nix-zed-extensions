@@ -1,0 +1,18 @@
+{
+  "id": "vhs_vhs",
+  "name": "vhs",
+  "version": "9534865e614c95eb9418e5e73f061c32fa4d9540",
+  "src": {
+    "url": "https://github.com/charmbracelet/tree-sitter-vhs",
+    "rev": "9534865e614c95eb9418e5e73f061c32fa4d9540",
+    "date": "2023-12-04T09:34:00-05:00",
+    "path": "/nix/store/g8sdcq5bfc2ap6wvf70sgr8admq58nyh-tree-sitter-vhs-9534865",
+    "sha256": "093a5cjz2jclljs1z39cxlprsbbljzgvkdlbcyai3rypiza1izj1",
+    "hash": "sha256-Qf4Y1I/X5xGVZ4u2ud+XdC2dL+0sjR+0pJRJ8SUraiQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

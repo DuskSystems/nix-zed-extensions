@@ -1,0 +1,19 @@
+{
+  "name": "react-type-kit-snippets",
+  "version": "2.1.2",
+  "src": {
+    "url": "https://github.com/MiguelMachado-dev/ReactTypeKit",
+    "rev": "15e753c9019973d3c8316e9a6be629d41e9634f0",
+    "date": "2025-10-27T01:42:21Z",
+    "path": "/nix/store/9hlr06s0z48hl8aqkr12p1cld4p3zhfj-ReactTypeKit-15e753c",
+    "sha256": "00kc5kj273jvqgpi9ndywly4z6nvfjvcy3shjx14w5i30xgvv04l",
+    "hash": "sha256-lIC9XwcjFk5Cl1APz7Z025pPPOW+2RTvw1uOI+QsbAI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "kcl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/pisarenko91/kcl-zed-extension",
+    "rev": "9751413a52e1e8edd5c129ed1517de13c9f7f83d",
+    "date": "2025-04-28T22:24:34+02:00",
+    "path": "/nix/store/56cpdcpan1mfywqmhyhdjrqpgnvfs3k4-kcl-zed-extension-9751413",
+    "sha256": "1d9vg6b89jmx155r5gv9y4l77vvpvrzcg7q7q8mbny8rvkd01s31",
+    "hash": "sha256-YegA2twZebsqwgefx37ed+9zKPFpv5JLCb3KhJZ5O7U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "kcl_kcl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RYnGzWGUz4Uec+yrPxPDQmQh2GpEXrlbjk6pPuJjV6w="
+}

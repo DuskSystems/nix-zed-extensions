@@ -1,0 +1,19 @@
+{
+  "name": "palenight",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/alanmontgomery/palenight-zed",
+    "rev": "e0b89cbf791f250ef07ac4556f5bbbe78fde88ba",
+    "date": "2024-05-22T02:13:42+01:00",
+    "path": "/nix/store/a1qc1b66vk64bywjs2dmzgzs1fpis7kx-palenight-zed-e0b89cb",
+    "sha256": "04rc78406qlca0w42lr3gzqwnsf4lpkjvazydp9ywkv6d9231l4q",
+    "hash": "sha256-mNAwRGpmT+7Tbf6rLeelxGnL8X8jU0E4UIxiAwg6LBM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

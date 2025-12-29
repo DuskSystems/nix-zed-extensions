@@ -1,0 +1,18 @@
+{
+  "id": "whkd_whkd",
+  "name": "whkd",
+  "version": "2ad0e8aeb9f4dad732f77cd44666f7bbf0bb3a2d",
+  "src": {
+    "url": "https://github.com/LGUG2Z/tree-sitter-whkd",
+    "rev": "2ad0e8aeb9f4dad732f77cd44666f7bbf0bb3a2d",
+    "date": "2025-01-04T13:54:35-08:00",
+    "path": "/nix/store/fx998js9cmcmwpn08h3czxhpynh2y8na-tree-sitter-whkd-2ad0e8a",
+    "sha256": "1zic32ysaypy0q08xh41gh1d2kk1cwl6927j77355q784di7ycrl",
+    "hash": "sha256-NDN/YiPo4FLGOfKIZChnYU7RAnyBwI4ABv56pb0YLP4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

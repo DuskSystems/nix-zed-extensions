@@ -1,0 +1,19 @@
+{
+  "name": "dram",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/clamjohnston/dram",
+    "rev": "dd8094440df106df0006ac038cc2c511f65b8818",
+    "date": "2025-06-22T16:12:16-04:00",
+    "path": "/nix/store/hnsqnb84awhrwkmj2k81hidq2cm0nj4q-dram-dd80944",
+    "sha256": "081ag70368nk159jhkd28n9bh4lwr7kx1x29jqf44hjpgi8z947x",
+    "hash": "sha256-/ZD0UXxXQkIclkn00OfJnBK4kkWiTShTCdMiM8B5KiA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

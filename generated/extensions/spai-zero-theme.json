@@ -1,0 +1,19 @@
+{
+  "name": "spai-zero-theme",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/BasaiCorp/zed-spai-zero-theme",
+    "rev": "6b9c4bbf37034cd9dccb6955e03ee79a373780b6",
+    "date": "2025-09-20T14:14:39+05:30",
+    "path": "/nix/store/1765k3vvrsqvf6ip0hha7f3s1h0f1ik8-zed-spai-zero-theme-6b9c4bb",
+    "sha256": "1xksbxqvps3b9m1nv3kzmxbdjzlkvnd4cx7g0w6w45rh120l15m5",
+    "hash": "sha256-pZZAgQgwF8INB+90Rprdk37ZVq9/jm1DTWvou3FfevY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

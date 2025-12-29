@@ -1,0 +1,18 @@
+{
+  "id": "bicep_bicep",
+  "name": "bicep",
+  "version": "8288b2b7a0313842d3b2997b36bf1cbd2b60abc0",
+  "src": {
+    "url": "https://github.com/oWretch/tree-sitter-bicep",
+    "rev": "8288b2b7a0313842d3b2997b36bf1cbd2b60abc0",
+    "date": "2025-05-30T20:44:18+12:00",
+    "path": "/nix/store/jf3bx7bkfa188w92g1cj301hsh1b06ap-tree-sitter-bicep-8288b2b",
+    "sha256": "0017w3qsqdasav8x4cg94bn1kwg7p6800da5pwsrdlq4v4h8ndha",
+    "hash": "sha256-CjaLINkE05Y1v0U1AJC55/EZ7CLpMdLRVlo1rPHgJwA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "termux",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://gitlab.com/paveloom-g/rust/zed-termux",
+    "rev": "609a766041988398a9d9e21fb2c2bc892d0c0402",
+    "date": "2025-06-06T22:41:05+03:00",
+    "path": "/nix/store/c09bspqfsr6kmijbpx6nrq5kj8mb6nsw-zed-termux-609a766",
+    "sha256": "1wx8gf1rl9ha6d9bd497pmcy0rg1qcmwyzr28xqgzzcl6isvdypn",
+    "hash": "sha256-9vq2dTSU/f9wRyJ/zyvD4WXgWb0nkbZSMwommoN7qPM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "termux_bash"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UNOrpMEbkjiwacWMiuvTHk4hT6/7kzrsVAbeASgT3SY="
+}

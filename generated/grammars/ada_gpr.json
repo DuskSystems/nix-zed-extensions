@@ -1,0 +1,18 @@
+{
+  "id": "ada_gpr",
+  "name": "gpr",
+  "version": "cea857d3c18d1385d1f5b66cd09ea1e44173945c",
+  "src": {
+    "url": "https://github.com/brownts/tree-sitter-gpr",
+    "rev": "cea857d3c18d1385d1f5b66cd09ea1e44173945c",
+    "date": "2024-08-12T21:21:07-04:00",
+    "path": "/nix/store/wrmgabl0liinc2brdzblrrrr1gjvgfan-tree-sitter-gpr-cea857d",
+    "sha256": "0mf6ghqdyn0qbani9hg67yr6a68cbbbvhn734ndygxm30vqdz9xn",
+    "hash": "sha256-tqff8Aaj9uebJeNYuNdaDBllsj/mwRStWhhY3zB8xlU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

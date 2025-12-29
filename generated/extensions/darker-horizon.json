@@ -1,0 +1,19 @@
+{
+  "name": "darker-horizon",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/ewwwdp/dark-horizon-zed",
+    "rev": "24c8bbda0b3293161e46326c2d93d5c0c0916b5f",
+    "date": "2025-07-05T00:12:55+03:00",
+    "path": "/nix/store/j4nr5bb29g2wr6gzr1px6dag597xnwd1-dark-horizon-zed-24c8bbd",
+    "sha256": "0cgmk8rkaznyyyvpddfxr7gk0ldmpyygkd3y189br45yaq0r08yh",
+    "hash": "sha256-0COQAVa+kLwSCn60+by/tVEw38ndtXa3995+NTOa9TE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

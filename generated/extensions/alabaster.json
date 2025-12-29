@@ -1,0 +1,19 @@
+{
+  "name": "alabaster",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/tsimoshka/zed-theme-alabaster",
+    "rev": "2be4684e135682a42198b49288a2330290857979",
+    "date": "2025-07-01T16:34:10+02:00",
+    "path": "/nix/store/dbwwk62v3669491xfvykvyi300z6bk7d-zed-theme-alabaster-2be4684",
+    "sha256": "057dmj5hybljpcs5cgrdbx49hafqhpf7734zhzdrxnvsk6pi2yc8",
+    "hash": "sha256-iHkRr5l6257bh5+Mc9yF2CmYSF8tP1Y0u5IuD4us7RQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

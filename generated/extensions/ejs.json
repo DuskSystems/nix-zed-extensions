@@ -1,0 +1,21 @@
+{
+  "name": "ejs",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dangh/zed-ejs",
+    "rev": "fc51774491bbd306d42420e2a5b76660a14a04ba",
+    "date": "2024-07-21T00:34:59+08:00",
+    "path": "/nix/store/0zv7zz8l6gbd9q9pkaarc0b239cj0acn-zed-ejs-fc51774",
+    "sha256": "1dw0p6l5sprllsl46zxk1cwayn3p0z2hnsc5vy82hm4054hfgls3",
+    "hash": "sha256-Q9PnICmAVCiQ34VpC8UHd1ivOAuzf0OopjRfXai5gLc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ejs_embedded_template"
+  ],
+  "kind": "plain"
+}

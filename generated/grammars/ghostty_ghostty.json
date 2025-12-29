@@ -1,0 +1,18 @@
+{
+  "id": "ghostty_ghostty",
+  "name": "ghostty",
+  "version": "2a9ae7233b6707e84b3a79c8778427f58aa4b6d0",
+  "src": {
+    "url": "https://github.com/bezhermoso/tree-sitter-ghostty",
+    "rev": "2a9ae7233b6707e84b3a79c8778427f58aa4b6d0",
+    "date": "2025-09-20T21:32:11-07:00",
+    "path": "/nix/store/4mzrmj5iy1jyg369crfhbzz7c5dh14xl-tree-sitter-ghostty-2a9ae72",
+    "sha256": "152jxrnx68cjfnxj0gqx2pc7gpiy25vkkr98pw5d7963kv17y6ji",
+    "hash": "sha256-URp/wp7DpNMKvyjlOXcRPt532BUdPyC7dZIh023uUpQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "hivacruz-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/kinoute/zed-hivacruz-theme",
+    "rev": "38a41f1088ae038baf4f6ebc31c5ce56828d4c6c",
+    "date": "2025-09-20T18:44:10+02:00",
+    "path": "/nix/store/j37yvs9lhcxc79sbg03k5ry9afngxsmf-zed-hivacruz-theme-38a41f1",
+    "sha256": "1yffgmz0v8ryndzs3ccvfxch1cm3ykdh5k23qdzp8s7743ls01kf",
+    "hash": "sha256-bgag6SDnaHR/w0PMAtv0o7IAWXebsaF/sz6jDX59zvk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

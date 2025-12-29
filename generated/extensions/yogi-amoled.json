@@ -1,0 +1,19 @@
+{
+  "name": "yogi-amoled",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/euyogi/Tema-YogiAmoled",
+    "rev": "3676e4f5062e6363eac0189f785df18f825bda08",
+    "date": "2024-07-25T12:42:12-03:00",
+    "path": "/nix/store/pp7lwczqdd7fv6h66hh18csfgrq59wgl-Tema-YogiAmoled-3676e4f",
+    "sha256": "1rcqxfwdjzzvrl9g80s1iifg98gwnmyvg6rc2pmydkmfww4mjxhl",
+    "hash": "sha256-FHZZCeeuzubrFSybt321/KH0XIxBA/QSzft/2bjrmOU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "Zed/yogi-amoled",
+  "grammars": [],
+  "kind": "plain"
+}

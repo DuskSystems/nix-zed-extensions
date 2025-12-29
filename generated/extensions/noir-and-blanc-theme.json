@@ -1,0 +1,19 @@
+{
+  "name": "noir-and-blanc-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/chaseweaver/noir-and-blanc",
+    "rev": "b225413e5910d0eadd022e518f97522c4523b92a",
+    "date": "2025-05-22T17:41:03-04:00",
+    "path": "/nix/store/4cqmfjf6hwxzy9h69ih9g28zibn0kl2l-noir-and-blanc-b225413",
+    "sha256": "0qzglxvx315cgswwkvqyqladbksza2jn1340qi9q0n2wcwyqc2fc",
+    "hash": "sha256-zAmGPWdcWIBTxICMYKVQX8/VFMUe78m5fqyE0Xen72M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

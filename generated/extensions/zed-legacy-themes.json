@@ -1,0 +1,19 @@
+{
+  "name": "zed-legacy-themes",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/zed-extensions/legacy-themes",
+    "rev": "017764b4aa01eaac15a95a522744d8cdc74dd7da",
+    "date": "2025-11-04T12:51:12+01:00",
+    "path": "/nix/store/v3gfsq75d74nsq5wsfrmik901bys6qk8-legacy-themes-017764b",
+    "sha256": "0ny36n9v30wl540cfikwxiy9jcvl122ckn5ckk113zhx4dz1r1s8",
+    "hash": "sha256-SIccfiMd/hHCnKzYyYQIdDOZfOx8RscAKZSDsZM1w1s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

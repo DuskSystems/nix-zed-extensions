@@ -1,0 +1,19 @@
+{
+  "name": "modus-themes",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/vitallium/zed-modus-themes",
+    "rev": "faf4d53ace874e481679a578c96f6a9e57cdcda4",
+    "date": "2025-11-16T20:40:11+01:00",
+    "path": "/nix/store/7cgj9iggl7hcqqxwz04grz6p8ch57k3c-zed-modus-themes-faf4d53",
+    "sha256": "0abb35gksk87vgj0j40vz6h3xijzb4avyf0cmsr78qk1hvh1p9a8",
+    "hash": "sha256-SKUb4IZhYnSyrgw4vxVZX8Y+oPkbEAnk2wdNPV8Zayk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pascal",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ChemisTechlabs/zed-pascal",
+    "rev": "389a692e4b4622857af9f6da48cc71e9b50d7efe",
+    "date": "2025-10-08T04:41:16-03:00",
+    "path": "/nix/store/fivlr209rn3wq1mh2jbb5jwbr5jpzh9n-zed-pascal-389a692",
+    "sha256": "0is8zq7npz7c9yzhlcg5mn10rr5vb0c91a4lbfpp42s7bh0qsph1",
+    "hash": "sha256-AV6NAVxHC3KvW5SokBhYu+QMgq3lMQq/T+z8aw/+SEc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pascal_pascal"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "slang_slang",
+  "name": "slang",
+  "version": "a4454e3004a9e8fea2df7fd2535fbaa05500da21",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-slang",
+    "rev": "a4454e3004a9e8fea2df7fd2535fbaa05500da21",
+    "date": "2025-06-03T14:06:26+02:00",
+    "path": "/nix/store/i9phf867sfb6blq0mryws8d0cj8zmm3d-tree-sitter-slang-a4454e3",
+    "sha256": "10wmc7hl7kpqid38nwf3v2n1vf2xdj5vj5d4rmhvcrx7rg30hmyg",
+    "hash": "sha256-z1cIxsunZ7ZhzaQVuYtsXbgdrNjDcYtGi/jOQ+FhlYM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

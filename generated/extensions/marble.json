@@ -1,0 +1,19 @@
+{
+  "name": "marble",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/TeenCoder159/marble-theme",
+    "rev": "edfb9044315e7c803325c86c97931903b68d6539",
+    "date": "2025-08-28T17:03:17+08:00",
+    "path": "/nix/store/jznhhy3yfgx0dsn8y08ipz0c6pja6z9s-marble-theme-edfb904",
+    "sha256": "1kdmxpd1y8w9k2a9svkn4q6j5xmsv31hyisnr0m63a8cx4gxwdrz",
+    "hash": "sha256-PzfeH+kMqWEqyFZHD8PYuvYiDSZ2bp2UmIkjH9rttc0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

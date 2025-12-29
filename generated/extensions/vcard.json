@@ -1,0 +1,23 @@
+{
+  "name": "vcard",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/TitouanReal/zed-vcard",
+    "rev": "27823c87867b67a983dcd46ac57391dae928513a",
+    "date": "2025-10-07T21:46:06+02:00",
+    "path": "/nix/store/y654kay4qk47bcq0h6byq6z46h1mkrys-zed-vcard-27823c8",
+    "sha256": "12gy0swgaw89rd8rkc9mvfwmcqawjddk7rmww5gcxb9cz9wigil3",
+    "hash": "sha256-g8YXefosrc5e4bzmM1uTXGFWuds1sZlRywlx9bgG/ok=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vcard_vcard"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-w8UKwaUW0/lTwZXbsgLZxHzHneoN4BGHUGa/ttJFigY="
+}

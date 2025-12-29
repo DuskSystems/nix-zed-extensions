@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_dune",
+  "name": "dune",
+  "version": "b3f7882e1b9a1d8811011bf6f0de1c74c9c93949",
+  "src": {
+    "url": "https://github.com/WHForks/tree-sitter-dune",
+    "rev": "b3f7882e1b9a1d8811011bf6f0de1c74c9c93949",
+    "date": "2024-09-16T14:22:18+03:00",
+    "path": "/nix/store/f2agnav77pml5h9622bdphkxlqiasixm-tree-sitter-dune-b3f7882",
+    "sha256": "01qkr1m5z8kg0p2msk26kzdghb6v4drjh2mvgc5aj1bhgihassqg",
+    "hash": "sha256-D2utYHxwBakKe7sKKHMj2yz42p9GTF3FBW+iX2rIEwc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

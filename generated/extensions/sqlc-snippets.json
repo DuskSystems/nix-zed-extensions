@@ -1,0 +1,19 @@
+{
+  "name": "sqlc-snippets",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/NarmadaWeb/sqlc-snippets-zed",
+    "rev": "34cee3d66c5bed856c5aa7eb95bfdd77a5ecba1d",
+    "date": "2025-07-20T13:14:16+08:00",
+    "path": "/nix/store/vdjv3xf3r5pcnly0r1x4504gvk8w3dji-sqlc-snippets-zed-34cee3d",
+    "sha256": "1hyypw4g8gj17acrhr15jss1i24rmyqssja6i8n2f3wv9hshap4l",
+    "hash": "sha256-lFwFNUybDycsikZJrbGvmYgYtJYlZJiZOkE+9Ai/3sM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

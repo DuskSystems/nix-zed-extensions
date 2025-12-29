@@ -1,0 +1,19 @@
+{
+  "name": "sonokai",
+  "version": "0.0.7",
+  "src": {
+    "url": "https://github.com/ciathefed/zed-sonokai",
+    "rev": "dc844540e610150c42068d3a59daaab1ef043331",
+    "date": "2025-10-22T22:57:11-04:00",
+    "path": "/nix/store/2ysj5a4a31ipf0l3glvjly7sh1kqljvy-zed-sonokai-dc84454",
+    "sha256": "15hi0575x42748wnghrb5nhsxvb6b18awgf4k5iqpgfzfr72d6r1",
+    "hash": "sha256-IZsmTnbfvYtjmcQ9rlBYZu2uoS0rw2c5IkeQXk4BEZY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

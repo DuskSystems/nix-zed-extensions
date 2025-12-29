@@ -1,0 +1,18 @@
+{
+  "id": "slim_slim",
+  "name": "slim",
+  "version": "7a5135779d784b38d9bb1975e6eaa19dffcdec2d",
+  "src": {
+    "url": "https://github.com/kolen/tree-sitter-slim",
+    "rev": "7a5135779d784b38d9bb1975e6eaa19dffcdec2d",
+    "date": "2024-07-07T15:26:03+03:00",
+    "path": "/nix/store/p5y1jzsh670sbjxbfjxyrcsm1fnqvngc-tree-sitter-slim-7a51357",
+    "sha256": "1xhhan5bavcr7y7gr94fbnfr98alxz3rnab0g481m491d3bh6w9q",
+    "hash": "sha256-OHED12ghkRoQeWApm8fvVKGUnV2OpPyOP5lttYpVEPY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

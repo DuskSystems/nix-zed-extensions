@@ -1,0 +1,18 @@
+{
+  "id": "ruby_rbs",
+  "name": "rbs",
+  "version": "5282e2f36d4109f5315c1d9486b5b0c2044622bb",
+  "src": {
+    "url": "https://github.com/joker1007/tree-sitter-rbs",
+    "rev": "5282e2f36d4109f5315c1d9486b5b0c2044622bb",
+    "date": "2025-11-14T08:10:41+09:00",
+    "path": "/nix/store/kgpah07zkhymrpanf1wq2bklwkw1rcjm-tree-sitter-rbs-5282e2f",
+    "sha256": "0l3slhcrdqcy9rzm8pgj5sc3pwyd84b701phwqp2zvazaddmqkhq",
+    "hash": "sha256-GE5cW1Nf7S8u5vAGcBZBzfM7mC7yXVR/Tp7hlhmkelA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "biome",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://github.com/biomejs/biome-zed",
+    "rev": "a8d24e5490da4115dac246dd514545e8d2dfb8bb",
+    "date": "2025-10-18T02:02:51+09:00",
+    "path": "/nix/store/kjpz1w0fhi54qhnd0j2f12jll0jidrir-biome-zed-a8d24e5",
+    "sha256": "16qncbf5dy9xw129psx2bd12hvb2fl3g8aqwx75sq4jrz851m7sh",
+    "hash": "sha256-UJ8aCvpZEqzL6Rwr9AZ1Ym0oQlui65tE4D35VtxiFps=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "biome_gritql"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yuMShCh/cO9ld+noDAWBuiOl+lHM9okBwTjre7tlL+Q="
+}

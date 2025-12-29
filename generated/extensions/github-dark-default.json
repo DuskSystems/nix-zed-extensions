@@ -1,0 +1,19 @@
+{
+  "name": "github-dark-default",
+  "version": "1.0.10",
+  "src": {
+    "url": "https://github.com/MordFustang21/zed-github-dark",
+    "rev": "dbbd66167753686ff3ff627208e15f7e27a9b1f9",
+    "date": "2025-10-15T14:10:19-06:00",
+    "path": "/nix/store/94gbvlazncxb6qvk3bplkjcrlp8l1zc5-zed-github-dark-dbbd661",
+    "sha256": "02i7lz3rh3g3sg53f8b9l4z5m9nnc1y56ldag4vmkiybiv71p9zn",
+    "hash": "sha256-9qcbzo7Lx1k3eapRU3xg1qZaPqFpITfK0+MNmMenJwo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "vala",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/FyraLabs/zed-vala",
+    "rev": "441a415c2a5df0a3b8b2d943ef7c71e32519a90b",
+    "date": "2024-08-20T12:26:55-07:00",
+    "path": "/nix/store/kinm4x44bggiqacs8wdra1i6xzgx85ml-zed-vala-441a415",
+    "sha256": "1xv9sbrajm2471lxhm1i546grhh42f25yn0p38vv9ci5f6y4hpq7",
+    "hash": "sha256-B19IvHElsrQ3GhdYX4QTBML8DCkxVNhpOERUqfLSafc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vala_vala"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-MdZFsjY60LuMH//oI4JdbwyxTmvCyEuBCHTDmrmi8MY=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/vala.lock",
+    "outputHashes": {}
+  }
+}

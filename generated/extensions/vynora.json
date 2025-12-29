@@ -1,0 +1,19 @@
+{
+  "name": "vynora",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/QuarkPixel/Vynora",
+    "rev": "fbbfe5e6330dc01f4e7555ea055ceee46a1a4742",
+    "date": "2025-09-27T14:00:39+08:00",
+    "path": "/nix/store/jjy16i9981hlhxfx01c7vq5x16f79gnz-Vynora-fbbfe5e",
+    "sha256": "19i1cm6f5923f27pf0p8kk3adj0vq9h5zvps6jinzx0j2w7ildsg",
+    "hash": "sha256-TzcaDxcS9G+jNPruX2DCG8imxpzoAnePcEOk4kxlIaY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

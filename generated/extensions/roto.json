@@ -1,0 +1,21 @@
+{
+  "name": "roto",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tertsdiepraam/zed-extension-roto",
+    "rev": "b1bda8dda510da98f00c3c8239295a06cee3a141",
+    "date": "2025-10-15T23:34:52+02:00",
+    "path": "/nix/store/vilniam5f4s3hk5z56za1505maklz21b-zed-extension-roto-b1bda8d",
+    "sha256": "1rk0694i5ncj8jmaxavd87nxy1fl3zr92x0xczcbb9z4knflq1kq",
+    "hash": "sha256-eAZMnZ3kp7XYZx10kfIf1AXf7UFtq66qRJLZEkkyYOY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "roto_roto"
+  ],
+  "kind": "plain"
+}

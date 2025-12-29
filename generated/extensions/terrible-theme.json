@@ -1,0 +1,19 @@
+{
+  "name": "terrible-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/nooooaaaaah/terrible-zed",
+    "rev": "458af85ed67b30bac7559544e5360a60cca6d50f",
+    "date": "2024-06-24T14:39:31-06:00",
+    "path": "/nix/store/9vps01id6mhih9yj3szlv62b40d4cd1s-terrible-zed-458af85",
+    "sha256": "1gr42yashj4b8cijz4i5zq3j6n7g40i6f8p4b7ckrhgcxz9785m9",
+    "hash": "sha256-qRZ00u/swTzZWeQiZyIg71gjB/4lki8jQ4tIqJUXJL8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

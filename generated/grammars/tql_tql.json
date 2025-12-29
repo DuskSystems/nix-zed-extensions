@@ -1,0 +1,18 @@
+{
+  "id": "tql_tql",
+  "name": "tql",
+  "version": "010356ee9db16a265910b77b248f0cacb9fdf21e",
+  "src": {
+    "url": "https://github.com/tenzir/tree-sitter-tql",
+    "rev": "010356ee9db16a265910b77b248f0cacb9fdf21e",
+    "date": "2025-09-22T11:21:15+02:00",
+    "path": "/nix/store/fgkbiprsm3lypqaf373386fg46417jp6-tree-sitter-tql-010356e",
+    "sha256": "16qas7za5kxifjgrd98h62mac49cmlw02zz41873d9plx499x1yg",
+    "hash": "sha256-z4eeEun0pjYOCuR/ATitLBGmqjAQpZafdLHPov7RCps=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

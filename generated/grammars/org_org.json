@@ -1,0 +1,18 @@
+{
+  "id": "org_org",
+  "name": "org",
+  "version": "64cfbc213f5a83da17632c95382a5a0a2f3357c1",
+  "src": {
+    "url": "https://github.com/milisims/tree-sitter-org",
+    "rev": "64cfbc213f5a83da17632c95382a5a0a2f3357c1",
+    "date": "2023-06-19T18:05:11-04:00",
+    "path": "/nix/store/1nwhnzswcfmxxhjc156mjn9l5q6caqm5-tree-sitter-org-64cfbc2",
+    "sha256": "1l62p4a3b22pa7b5mzmy497pk5b8w01hx6zinfwpbnzg2rjdwkgz",
+    "hash": "sha256-/03eZBbv23W5s/GbDgPgaJV5TyK+/lrWUVeINRS5wtA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

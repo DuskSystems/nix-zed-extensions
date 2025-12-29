@@ -1,0 +1,18 @@
+{
+  "id": "mustache_mustache",
+  "name": "mustache",
+  "version": "c59d74305c870acc8817c3b23258fad96647c914",
+  "src": {
+    "url": "https://github.com/TheLeoP/tree-sitter-mustache",
+    "rev": "c59d74305c870acc8817c3b23258fad96647c914",
+    "date": "2024-11-10T18:18:16Z",
+    "path": "/nix/store/3prsab0snxdf24dsyl7i1m4jq2pzmmkl-tree-sitter-mustache-c59d743",
+    "sha256": "1jv4r3n76mbw7jq7sg6kwk8kw0y8qlszjhv2wir7gvawygippbr7",
+    "hash": "sha256-J6974/Nc7Xdy5GJD+TXFyAM+0eTTPH2wPHxVc+zIZMs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

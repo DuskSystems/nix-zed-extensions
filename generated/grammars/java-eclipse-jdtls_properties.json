@@ -1,0 +1,18 @@
+{
+  "id": "java-eclipse-jdtls_properties",
+  "name": "properties",
+  "version": "9d09f5f200c356c50c4103d36441309fd61b48d1",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties",
+    "rev": "9d09f5f200c356c50c4103d36441309fd61b48d1",
+    "date": "2024-02-28T21:48:28+02:00",
+    "path": "/nix/store/bardqvb7dbf87p6qwa97j0lhp4zwpgmc-tree-sitter-properties-9d09f5f",
+    "sha256": "1vv1379lyk3p3nafs9if6j3n8ks7jpl9fakgq9lzxq47l0p2bd1a",
+    "hash": "sha256-KrQlLqCH4P5pwm8ql+iVR09khzQuJu2UHXdMT9MZYe8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

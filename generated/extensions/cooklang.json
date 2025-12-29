@@ -1,0 +1,21 @@
+{
+  "name": "cooklang",
+  "version": "1.3.3",
+  "src": {
+    "url": "https://github.com/hugginsio/zed-cooklang",
+    "rev": "ee691240b5ae1a7f91ee4b4a7c7da17bbc1a12e2",
+    "date": "2024-11-28T19:39:37-06:00",
+    "path": "/nix/store/v35y9jzq4fw83piqh33mscp01i5gv3xs-zed-cooklang-ee69124",
+    "sha256": "1450rjp89j884p8mcy4mlb6q27l4w8x40ag99n05m7l0vj1bxbag",
+    "hash": "sha256-T62+gtyAnlqATekpQDrihB6BzaKVeFbRJQjJhK7MoJA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cooklang_cooklang"
+  ],
+  "kind": "plain"
+}

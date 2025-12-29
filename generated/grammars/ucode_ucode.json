@@ -1,0 +1,18 @@
+{
+  "id": "ucode_ucode",
+  "name": "ucode",
+  "version": "f4f4e2e07bf9d65d35565dd00d0ded1902573d98",
+  "src": {
+    "url": "https://github.com/phwhite/tree-sitter-ucode",
+    "rev": "f4f4e2e07bf9d65d35565dd00d0ded1902573d98",
+    "date": "2025-09-13T22:02:58-07:00",
+    "path": "/nix/store/pdqq3b13qqbanggz6is1qxqjjg5wfym5-tree-sitter-ucode-f4f4e2e",
+    "sha256": "0i9z9dfsx0xsw9a7z7sl6fdr0ydipbnh3b9x4igd40swkz74dwxm",
+    "hash": "sha256-tfNGzp9cA9JeJD2tAe26sXmQmzNUn39U4rqDrl1LP0U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

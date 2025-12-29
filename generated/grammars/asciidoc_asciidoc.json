@@ -1,0 +1,18 @@
+{
+  "id": "asciidoc_asciidoc",
+  "name": "asciidoc",
+  "version": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
+  "src": {
+    "url": "https://github.com/cathaysia/tree-sitter-asciidoc",
+    "rev": "0ecc13042b7352ddc3f7b8b31432e262711d44e4",
+    "date": "2025-11-24T05:15:58Z",
+    "path": "/nix/store/ijjs8hlm2y1d1r8giia0jka7a4p2plqa-tree-sitter-asciidoc-0ecc130",
+    "sha256": "05rl6kj6wq16s1mfrs4sygngfkn24aajm6jhr82aj018siv2p6ba",
+    "hash": "sha256-apkrdtQoAKkEylCaKpUiwk737POa6Oxq0CZgbuQ0NBc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-asciidoc"
+}

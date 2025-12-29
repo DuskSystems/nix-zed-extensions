@@ -1,0 +1,18 @@
+{
+  "id": "crystal_ecr",
+  "name": "ecr",
+  "version": "7cbfc5d1ced8572e8702174c86b20dd29a675da5",
+  "src": {
+    "url": "https://github.com/crystal-lang-tools/tree-sitter-ecr",
+    "rev": "7cbfc5d1ced8572e8702174c86b20dd29a675da5",
+    "date": "2025-01-12T01:15:46-05:00",
+    "path": "/nix/store/ydighpc3ylkxrsifwxv7fzx4cyk8pxdk-tree-sitter-ecr-7cbfc5d",
+    "sha256": "0zwdk46pqx6ga6x60sy4wwf5bvwy8gi60ha9q8am354v5pyspamm",
+    "hash": "sha256-taqr/S2blFEVwklBYOJDnu9VHOfEa2C6Uc90fA2ZjX8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

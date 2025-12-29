@@ -1,0 +1,19 @@
+{
+  "name": "visual-assist-dark",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/trojanfoe/visual-assist-dark.zed",
+    "rev": "736f132bc4b1100de48c3786e0450d4a7faca504",
+    "date": "2025-03-14T14:50:37Z",
+    "path": "/nix/store/11l2gf5hgz5ilw5j04xfg3xmm1a14n3y-visual-assist-dark.zed-736f132",
+    "sha256": "1g6w613firz3krb4vnc408bzjq21h50mig2728vm7rf8ql3fq862",
+    "hash": "sha256-wiDsBsXI5VM3Eke8WEGBQWD5FwKE2U1WnuPn6EYw3Lw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

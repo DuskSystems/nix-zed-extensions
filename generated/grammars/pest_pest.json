@@ -1,0 +1,18 @@
+{
+  "id": "pest_pest",
+  "name": "pest",
+  "version": "a8a98a824452b1ec4da7f508386a187a2f234b85",
+  "src": {
+    "url": "https://github.com/pest-parser/tree-sitter-pest",
+    "rev": "a8a98a824452b1ec4da7f508386a187a2f234b85",
+    "date": "2024-03-21T14:48:37+08:00",
+    "path": "/nix/store/2jmv6z7iavj62jjfwm8psma11f1kzq9k-tree-sitter-pest-a8a98a8",
+    "sha256": "0jnxk4zjh5r91pq9rb8d7byxq2hjg8mc6yzr3qahg7pfsbh7b6i6",
+    "hash": "sha256-Jpp14NLungcVHvl7wyp6Egrc/ToNrZzwDSkXKD+Z3Uo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

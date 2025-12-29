@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-grafana",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/sd2k/zed-mcp-grafana",
+    "rev": "2d5a5b553821c7a9cce0daa075dbd750a8492473",
+    "date": "2025-05-14T09:53:51+02:00",
+    "path": "/nix/store/ks05aliyfbqx10ccjvnkay8dldm887s9-zed-mcp-grafana-2d5a5b5",
+    "sha256": "0m5pp45x962qscmc12z7jsfb14r6x3h6kvf0yank8v3rdhxrp5ab",
+    "hash": "sha256-S5WbO2x5bDSt8sDtaeDoJpOwnJbni8Aq01iY1Au5t1Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-tc4Z5yY0gOfyfA0uKJGo3nd7dZ3gChnlwjEELA2CcGg="
+}

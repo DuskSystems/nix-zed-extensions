@@ -1,0 +1,18 @@
+{
+  "id": "ember_glimmer_typescript",
+  "name": "glimmer_typescript",
+  "version": "48c60295f1ee34ea4ed6e5177102be6d24bfc9d0",
+  "src": {
+    "url": "https://github.com/NullVoxPopuli/tree-sitter-glimmer-typescript",
+    "rev": "48c60295f1ee34ea4ed6e5177102be6d24bfc9d0",
+    "date": "2025-03-20T08:54:21-04:00",
+    "path": "/nix/store/agnygpba3j6wbws4vi7vp18w350ssp3y-tree-sitter-glimmer-typescript-48c6029",
+    "sha256": "08h9ihx1ag9yzix247r3vn5jqsgwlffgci6jp1jcwy02ygy12vcm",
+    "hash": "sha256-lW0R/PMCeM5kuNJE9pyj/Gksi90jHyJ6/D49FTqMCSI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

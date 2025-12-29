@@ -1,0 +1,21 @@
+{
+  "name": "jinja2",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ArcherHume/jinja2-support",
+    "rev": "c732da5b9106e0ca6e01a9880c194d37281ebf7e",
+    "date": "2024-08-30T11:51:46+10:00",
+    "path": "/nix/store/9dni7syshx4pkkyv15sjq4byccpihimi-jinja2-support-c732da5",
+    "sha256": "17mvsj7kc3yw7wc95ai85snjvi10nlrzvqiyrgpbwrl4h7n01xs2",
+    "hash": "sha256-QvcA7IGEZr7uyz7i/TO1IMQtrS4oqpIYP9wPNo/Uu54=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jinja2_jinja2"
+  ],
+  "kind": "plain"
+}

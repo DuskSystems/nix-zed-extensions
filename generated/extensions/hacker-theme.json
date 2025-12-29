@@ -1,0 +1,19 @@
+{
+  "name": "hacker-theme",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/0xSandiem/zedhacker",
+    "rev": "cf2c03158d4f53d434a7b080ea7b215401a18c72",
+    "date": "2025-08-14T18:49:29-03:00",
+    "path": "/nix/store/zwj54s39zdnbajbhgvvxb40i1ci4plc8-zedhacker-cf2c031",
+    "sha256": "03xjwl5mzfkbxbypwdz5bky24paykqabirp3cv2yirkh2pspi1yk",
+    "hash": "sha256-04d49RVw5ujFZuPmuBSeXl0i/FzlN3796mu6Xwvlsg8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

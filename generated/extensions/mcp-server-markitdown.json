@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-markitdown",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/G36maid/zed-mcp-server-markitdown",
+    "rev": "b29c354ed81a4a0d7123d83cf85cd6c2a1d4a1a3",
+    "date": "2025-09-17T16:10:43+08:00",
+    "path": "/nix/store/nz5kh5l3awyn2mbimpysmyf5lzi1v2ma-zed-mcp-server-markitdown-b29c354",
+    "sha256": "0lyzz83ks2lk4s0zv91gy9gv13zqlhsvy4p4y3cmyjnj24365l6x",
+    "hash": "sha256-3dBiBhHSSl/Z8OQSvzWk+I+wX/IvpP2BJpMKPQf631M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-5Maol5meosWFwvDwgmWSCO/q/o9Yr6eukixDit+PGQM="
+}

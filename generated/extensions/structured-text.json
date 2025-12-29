@@ -1,0 +1,21 @@
+{
+  "name": "structured-text",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Blake-Haydon/zed-structured-text",
+    "rev": "4fd448dc92ba64de3c039e3511b194c1d7f8642d",
+    "date": "2025-11-16T17:44:18+11:00",
+    "path": "/nix/store/z8qq7sj9rmza8mpnrhpb15kgx1qsqbac-zed-structured-text-4fd448d",
+    "sha256": "0czr63a4rn5lpn8lff9b7aga5a0di58kc9wdrlgmz95x31f8c5pi",
+    "hash": "sha256-8RaGXBi9pF8fzY0nNlGJDaiinjorOUeRvbTYTNQw+TM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "structured-text_structured_text"
+  ],
+  "kind": "plain"
+}

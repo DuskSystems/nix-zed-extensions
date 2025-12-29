@@ -1,0 +1,28 @@
+{
+  "name": "fiberplane-studio",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/keturiosakys/zed-fp-studio",
+    "rev": "83772959291a16fbb50597411bcca051350bfd2a",
+    "date": "2024-09-09T15:49:54+02:00",
+    "path": "/nix/store/fdxbqwdzvs4fn3hj362imcshdvapi874-zed-fp-studio-8377295",
+    "sha256": "0j5f2ip26bvzc9n96knk5iybngqqmqnfj2z5xp827104r70p56gx",
+    "hash": "sha256-/ZlywckEhCPQ7eUL6SyuGD+7fCzTTpNsYn8vI24Urkg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-86551BksVNpNLI5dIM/YWp8ztbpsDTOVf/PGfK5n1a4=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/fiberplane-studio.lock",
+    "outputHashes": {
+      "fpx-lib-0.1.0": "sha256-vd8AdbO6Xdq0kFQ4iWuBmJLBvTRv1Q8FUuBXshS9VRg=",
+      "fpx-macros-0.1.0": "sha256-vd8AdbO6Xdq0kFQ4iWuBmJLBvTRv1Q8FUuBXshS9VRg="
+    }
+  }
+}

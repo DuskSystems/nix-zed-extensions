@@ -1,0 +1,19 @@
+{
+  "name": "fiber-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ayberkgezer/fiber-zed-snippets",
+    "rev": "77252ee84746ceb49abcc8eb24124e567d523f92",
+    "date": "2025-04-17T18:37:51+03:00",
+    "path": "/nix/store/52300331zvmyw8fqc3as49lsfq07l2l2-fiber-zed-snippets-77252ee",
+    "sha256": "1n9qkpjm703q6f9wfa5vl9cd8dlp6j6jqwj4m1a8xxwzq9738bgi",
+    "hash": "sha256-8S00TsKf945UqERyLI00lzbUWKK7KMeTM3iAU+WdONk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

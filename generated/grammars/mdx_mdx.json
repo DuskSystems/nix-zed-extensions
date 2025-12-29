@@ -1,0 +1,18 @@
+{
+  "id": "mdx_mdx",
+  "name": "mdx",
+  "version": "0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58",
+  "src": {
+    "url": "https://github.com/srazzak/tree-sitter-mdx",
+    "rev": "0f2d4b204b231e5ebb7b94ff0259bee6c83ebc58",
+    "date": "2025-09-07T13:29:05-04:00",
+    "path": "/nix/store/hx6pxjbw790d2w0jkvm16cypyyglk6xx-tree-sitter-mdx-0f2d4b2",
+    "sha256": "0hicv63hi1vmhlqg9q27556mrgmgx88qqgh44cdslnyysvmrf19a",
+    "hash": "sha256-KgWX69beW6obIwQ+jBHqr75cTSlH4PQwhXWHCIfZLEI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

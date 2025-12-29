@@ -1,0 +1,18 @@
+{
+  "id": "wit_wit",
+  "name": "wit",
+  "version": "3d6124cfe88555ecee1ba97d6d76c70d13af927a",
+  "src": {
+    "url": "https://github.com/liamwh/tree-sitter-wit",
+    "rev": "3d6124cfe88555ecee1ba97d6d76c70d13af927a",
+    "date": "2024-04-29T18:56:26+02:00",
+    "path": "/nix/store/j4biq2jax0yyi7y8kwgr1jfnh22zl4q3-tree-sitter-wit-3d6124c",
+    "sha256": "1xw8abplxif8234smflwajb6a6fxm70akls6f743a30m3ic0rsbb",
+    "hash": "sha256-a+kMWBwVDDXIcUbTqcCp3RllllScuqrJEMjFTu9SiPc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

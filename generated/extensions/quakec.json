@@ -1,0 +1,21 @@
+{
+  "name": "quakec",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/schraf/zed-quakec",
+    "rev": "3546ed3df13673b3fbe96a656da885718b2e1c2e",
+    "date": "2024-12-28T14:56:49-05:00",
+    "path": "/nix/store/kxzwkv3n3gaf5zwnhwci845nal46fn9q-zed-quakec-3546ed3",
+    "sha256": "057bd4p7r266dx8rfpqmpyb4y80y6mss4wxqy71rx4xxphl1cr73",
+    "hash": "sha256-42QWKLy9k57D8bhzonU1HiBPlr8VX5dRb8aIfC5p6xQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "quakec_quakec"
+  ],
+  "kind": "plain"
+}

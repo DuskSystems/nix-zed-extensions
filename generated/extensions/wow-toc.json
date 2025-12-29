@@ -1,0 +1,21 @@
+{
+  "name": "wow-toc",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Alexayy/zed-wow-toc",
+    "rev": "0a80165b1a9185ec10bc2c7dc8dc75e5629fdfe8",
+    "date": "2025-10-27T18:38:52+01:00",
+    "path": "/nix/store/qb582pbwygm8xy9n7qhp12rvwy02p4rn-zed-wow-toc-0a80165",
+    "sha256": "1jqhbvywy4dngcw1vy37qlmimvr94ha8gf538amf8z1bc7mal4qa",
+    "hash": "sha256-ChOq6mErfOSqQqO4hxQkKe8aK8Vn+B04e7YRz/1eEMs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wow-toc_wow_toc"
+  ],
+  "kind": "plain"
+}

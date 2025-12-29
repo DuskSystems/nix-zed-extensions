@@ -1,0 +1,21 @@
+{
+  "name": "xdr-naive",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/algebnaly/xdr.zed",
+    "rev": "2f66ab0fef916923a17dc11ef3fb510d133532ca",
+    "date": "2025-03-27T14:13:35+08:00",
+    "path": "/nix/store/xf21cambba81afyjlk2c4ak0z41xrpi2-xdr.zed-2f66ab0",
+    "sha256": "1f1amjcnzyyp90bynd222qp170dcjz9r3f6dk8ay1cjdxrqr2djq",
+    "hash": "sha256-WDaRce5NsuAVms24kdOXrIETLhZCNOsXSNf7b5msKrg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "xdr-naive_naive_xdr"
+  ],
+  "kind": "plain"
+}

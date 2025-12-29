@@ -1,0 +1,19 @@
+{
+  "name": "alpental-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ascarter/zed-alpental-theme",
+    "rev": "ff8b3b3e4a1459ab09c4f731af6f83207bb029e4",
+    "date": "2025-12-17T12:57:02-08:00",
+    "path": "/nix/store/xfhbfcmrym6fh4yfmj0nzsab585v3i7y-zed-alpental-theme-ff8b3b3",
+    "sha256": "0j3w77ils1ngha3hlj58kg5wfzmmygjjh162mqplglkq0d34vj4i",
+    "hash": "sha256-kchNRgN40kcvrsIEKOXztX7Hy5uoSAqHgs8GTeM5fEg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "roto_roto",
+  "name": "roto",
+  "version": "11d9711af90e472dc470150c8538c3071b8ef182",
+  "src": {
+    "url": "https://github.com/NLnetLabs/tree-sitter-roto",
+    "rev": "11d9711af90e472dc470150c8538c3071b8ef182",
+    "date": "2025-08-24T15:38:37+02:00",
+    "path": "/nix/store/9bci2hygisw5xn7c5ck5ri5vkwkjs64j-tree-sitter-roto-11d9711",
+    "sha256": "0j7hqizv7wfir4panc2q8s764wwbj4ac1lylzx2azw08rypfjpyg",
+    "hash": "sha256-z1/prs8I8K9E/9TTwBSRi3NijkZYMKsuydHxs3/E8Eg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

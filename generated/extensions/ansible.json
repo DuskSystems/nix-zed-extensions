@@ -1,0 +1,23 @@
+{
+  "name": "ansible",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/kartikvashistha/zed-ansible",
+    "rev": "f0cd7047ea8eb1316a2ee563a2e664e59375a8a1",
+    "date": "2025-09-28T11:09:39+01:00",
+    "path": "/nix/store/571nj6aaal8xx5ix6q1wsx8xbblysa20-zed-ansible-f0cd704",
+    "sha256": "1g8h7srj1gyn3bb245k0zvj8sgpb8x71lvj0h9wrz5xkdc5f82g5",
+    "hash": "sha256-5QnkCmuzl595gkBuGk5H6z6N5P5gFiLWGta/ILM+EL0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ansible_yaml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Z3Jimm6ZQC9wR/BNMpxbJiQwgqre95NBQOdBIQOQ+Hc="
+}

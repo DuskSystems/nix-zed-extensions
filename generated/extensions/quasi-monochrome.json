@@ -1,0 +1,19 @@
+{
+  "name": "quasi-monochrome",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/codeadict/zed_quasi_monochrome",
+    "rev": "19b1bee3d8075f46d8bee762bc0bd3b71a4898dd",
+    "date": "2025-10-13T15:50:57-04:00",
+    "path": "/nix/store/cnqqz0b2n59xvyvrxjjwbn65m76xr8jv-zed_quasi_monochrome-19b1bee",
+    "sha256": "0c3g72q06kdya1mqp1b6fvq6n6chl8abnga9156maa2y452zfpy6",
+    "hash": "sha256-xl/3RSFeKFVNCUk9uxSikBlr8HZmhYtrUL5NA7A4bzA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

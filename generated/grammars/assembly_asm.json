@@ -1,0 +1,18 @@
+{
+  "id": "assembly_asm",
+  "name": "asm",
+  "version": "04962e15f6b464cf1d75eada59506dc25090e186",
+  "src": {
+    "url": "https://github.com/RubixDev/tree-sitter-asm",
+    "rev": "04962e15f6b464cf1d75eada59506dc25090e186",
+    "date": "2025-03-09T16:20:23+01:00",
+    "path": "/nix/store/hzqhzm92wq0dx0cns4dxim1ad07x3syg-tree-sitter-asm-04962e1",
+    "sha256": "0v5lwymz2n4d9212drh595ymf3kdirwvhdniszzdfx85jjc1pz3b",
+    "hash": "sha256-a/wbmJQFddf+19E2uHmObQ5XfUkF5iaCSI1Y8avntGw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

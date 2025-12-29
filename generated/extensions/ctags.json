@@ -1,0 +1,21 @@
+{
+  "name": "ctags",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/mazurel/zed-ctags",
+    "rev": "ee9d5a66bc78b0e78fc702c54b7aa5aa6c9445e9",
+    "date": "2025-10-27T11:39:18+01:00",
+    "path": "/nix/store/zh91v32vvk0spg4icnb2vpkl0y8bainm-zed-ctags-ee9d5a6",
+    "sha256": "1s47jmf7hxhwjigx900q27nhr3hrfrh4chw5jqbycf0a1d00khb4",
+    "hash": "sha256-ZMEJQAsKOOYXloVDRmB2GY4M7REYgNRflBx2eFyVh+g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-IXMuc1AKEK0iKWlkneTKdM2AZqEmTQPsDAXzfRO0W34="
+}

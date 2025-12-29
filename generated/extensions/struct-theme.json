@@ -1,0 +1,19 @@
+{
+  "name": "struct-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://gitlab.com/Fake.User/struct-zed-theme",
+    "rev": "bfd504e5b4210adbbc1a93f5d755e34fccf55548",
+    "date": "2024-04-23T09:31:52-07:00",
+    "path": "/nix/store/xsqpm47dkkc01w2q0d85pw3qi6llm9sm-struct-zed-theme-bfd504e",
+    "sha256": "1027kawdfp7sp1khdcq1xbqcqdfbhkf4yc1805znzfi28cn207cn",
+    "hash": "sha256-lh0gLEMium9/ASgwT9yEyzXM8OoBswZnuPpc17iaR4A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

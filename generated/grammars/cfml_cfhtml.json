@@ -1,0 +1,18 @@
+{
+  "id": "cfml_cfhtml",
+  "name": "cfhtml",
+  "version": "cd00ef63eb17ca78855776505b31497bc8ffd411",
+  "src": {
+    "url": "https://github.com/cfmleditor/tree-sitter-cfml",
+    "rev": "cd00ef63eb17ca78855776505b31497bc8ffd411",
+    "date": "2025-12-23T17:47:22+10:00",
+    "path": "/nix/store/y84yf7hsf9nfmn5xqdii03avhb9v00gm-tree-sitter-cfml-cd00ef6",
+    "sha256": "0j0lm233iza4gwpvnvb4hq8nknk4l93lqn2yf90d2db0d1jbndyc",
+    "hash": "sha256-zDe7ZGhgNdFAcl5YTEeiZNppEYZkbbsvf0T9OIaoFEg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "cfhtml"
+}

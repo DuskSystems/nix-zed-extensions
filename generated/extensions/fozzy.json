@@ -1,0 +1,19 @@
+{
+  "name": "fozzy",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/juxta-tad/fozzy-zed",
+    "rev": "617ff67f4ac928351b8b4eed1d9bd3f55d1992a5",
+    "date": "2025-12-19T21:13:30Z",
+    "path": "/nix/store/pcmnhg70rwjcjsk03zb8ka4a85krk97q-fozzy-zed-617ff67",
+    "sha256": "0ch7wys6nsd6j9hgys5c7fj72sns0hrr58bhfzb46gns3zzph00k",
+    "hash": "sha256-EwB4/x/aPkPWd3ChkjME2mpxpDusaP9gkqZpa7TnBzI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

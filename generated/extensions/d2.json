@@ -1,0 +1,21 @@
+{
+  "name": "d2",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/gabeidx/zed-d2",
+    "rev": "546d913f5139ca2aafe4976fd8b3eccb357b827d",
+    "date": "2025-04-10T23:44:05+02:00",
+    "path": "/nix/store/qlivm8xs69nbz84kh7jbbdrh457sbsfm-zed-d2-546d913",
+    "sha256": "16dksg5vz32h4c886aykqr1ncc94bd84zf49c1fwlsykabsxymn6",
+    "hash": "sha256-xlbf9VLTa8pdYIm4T1BbJDFmQ8bTK4MQI1CMv8vTs5k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "d2_d2"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "vento",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dz4k/zed-vento",
+    "rev": "f4052f1328fd603396a16e622c4bcbd08de16977",
+    "date": "2024-11-14T23:42:26+03:00",
+    "path": "/nix/store/8vx5p0s3fdcllwz75ch11cf2z75cnd7a-zed-vento-f4052f1",
+    "sha256": "02hkznw1402cmr8j0pd9xjp2l85nsgi4m7w29l5ly1qqhsswxjni",
+    "hash": "sha256-0crOtYYYB08LTYKfSuLTtiAqruypXSBRrkwAErj9Ewo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vento_vento"
+  ],
+  "kind": "plain"
+}

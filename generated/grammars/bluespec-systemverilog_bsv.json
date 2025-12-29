@@ -1,0 +1,18 @@
+{
+  "id": "bluespec-systemverilog_bsv",
+  "name": "bsv",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/sandytruant/tree-sitter-bsv",
+    "rev": "471a69b7b640aafedcc37a0053273504c4a9a36d",
+    "date": "2025-11-08T16:34:40+08:00",
+    "path": "/nix/store/azj37aypwn82yd2mjngywfhn2rjci8lj-tree-sitter-bsv",
+    "sha256": "1va3lbw8dhvgfnwds9k8zyswqlpac1qd4a356fn61mlry8yprvgv",
+    "hash": "sha256-++18PfKZ1mCsM2Uo0nBg6lLMtf9oJt24dW/DhviiQ+0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

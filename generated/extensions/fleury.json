@@ -1,0 +1,19 @@
+{
+  "name": "fleury",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/1ay1/fleury-zed-theme",
+    "rev": "c23c6bc25793313236b1b779ca76ec8414534036",
+    "date": "2025-10-14T00:11:58+02:00",
+    "path": "/nix/store/f6lqj4zlnwyrxpzh28lc7cxi4b6a77hi-fleury-zed-theme-c23c6bc",
+    "sha256": "0ij25r7v7am6x19px7n37s8fwk3aqrp4zck2dvsy3n1l5m432ds4",
+    "hash": "sha256-RDcxSC002OH1bmKyT27GakzukD7Dnn5T6Kaqs08uQkY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

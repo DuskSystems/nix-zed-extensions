@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-gitlab",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/akbxr/gitlab-mcp-zed",
+    "rev": "678bd07d2056a6b7055de8415520d0411ec00c6b",
+    "date": "2025-12-15T15:45:15+07:00",
+    "path": "/nix/store/zyyiism3zpc0chvrsis1j0p2b3q6x8dg-gitlab-mcp-zed-678bd07",
+    "sha256": "1c2q8c2a83fgvp2r86jfhpwg8fic7c0x77igd1zsh52zlqvq5jvs",
+    "hash": "sha256-esuCN6ZfFKh/aC+e0wE7LDr0+IVOGpTF3c8NpARDWLA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-5XmqPBEQ/U6Os5MkJJGcWH4VYVjWlcTmrNae+btqGAU="
+}

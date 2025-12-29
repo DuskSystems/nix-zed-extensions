@@ -1,0 +1,21 @@
+{
+  "name": "firebase-security-rules",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ChemisTechlabs/zed-firebase-security-rules",
+    "rev": "aa2ec4a2c7510451fa1437249e81e78ec99aaac7",
+    "date": "2025-10-08T02:09:36-03:00",
+    "path": "/nix/store/44ycs5i6zwsv0brzbbqhvxflzd2wcg8p-zed-firebase-security-rules-aa2ec4a",
+    "sha256": "1zqzz3br6i21g6rq9liimwxpxl12wx73pqzgyr6a42a3aznlkkyb",
+    "hash": "sha256-y89J7VdDCaJM9u/jO07nItB+O68x0oSzeUFEk9f4H/8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "firebase-security-rules_firebase_rules"
+  ],
+  "kind": "plain"
+}

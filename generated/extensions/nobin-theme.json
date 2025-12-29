@@ -1,0 +1,19 @@
+{
+  "name": "nobin-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/NobinKhan/zed-themes",
+    "rev": "c643b5c70e5061031cab65b1223836baaaf933b3",
+    "date": "2024-07-12T12:46:46+06:00",
+    "path": "/nix/store/ffw73w6ha16q0bdpb4gpmf62lzrn0397-zed-themes-c643b5c",
+    "sha256": "0dcyzi6bx7ly7n4phbxbgnan4c3rn779vxy6dqx882nna50sdxig",
+    "hash": "sha256-L/amQVHWCoQ6bsb3nc6xeTBilX2rL3iJPZ6evkz8njU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

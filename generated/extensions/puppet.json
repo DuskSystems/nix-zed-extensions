@@ -1,0 +1,23 @@
+{
+  "name": "puppet",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/AlexandarY/zed-puppet",
+    "rev": "be99e0a38666488592d59c88a3fd174cdbe25bf6",
+    "date": "2025-08-18T16:47:46+03:00",
+    "path": "/nix/store/ifn0wrc80zn9bb8s84ll99zgz1nq3sr3-zed-puppet-be99e0a",
+    "sha256": "1k59n8ipm7bacgmh790qg3wl34xgv96mwwr693fhjy3xa4x6rz5y",
+    "hash": "sha256-vvxsOlF9eAndSCZzXk3ar5NB+XgYpAPrY2qdeiOyqcw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "puppet_puppet"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-+YcgdsB7ebdndD01kjJZ5TnSRA+ZiwdjmjQO4G3RuY4="
+}

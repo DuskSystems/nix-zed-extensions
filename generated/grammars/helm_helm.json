@@ -1,0 +1,18 @@
+{
+  "id": "helm_helm",
+  "name": "helm",
+  "version": "9d3f6e526dd074b9edae9070b7bb778f00e87a5b",
+  "src": {
+    "url": "https://github.com/ngalaiko/tree-sitter-go-template",
+    "rev": "9d3f6e526dd074b9edae9070b7bb778f00e87a5b",
+    "date": "2024-05-17T19:57:22+02:00",
+    "path": "/nix/store/g000q7axxnd931nvhrmc162qamjd4kij-tree-sitter-go-template-9d3f6e5",
+    "sha256": "143rzyj1kfsq1lw3lglmmbmrbckd7bl18hcmxk5bmnafhpjprmwx",
+    "hash": "sha256-ndd85YVO2brK7JVBFOg6bbKV66qVPjo4DVi7GaT/eZA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "dialects/helm"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cypher_cypher",
+  "name": "cypher",
+  "version": "775717a2de6ca76a5a75e8076b411dbc1ae4c281",
+  "src": {
+    "url": "https://github.com/pupli/tree-sitter-cypher",
+    "rev": "775717a2de6ca76a5a75e8076b411dbc1ae4c281",
+    "date": "2024-11-11T16:20:14+01:00",
+    "path": "/nix/store/02gjahmz10q8wczz2pni02iq8jibg8ga-tree-sitter-cypher-775717a",
+    "sha256": "17359j7x5qi4j04yps695vx711kzjivxdcdihdqj6a4a52pskvlh",
+    "hash": "sha256-kO6pryiKKCNxg7Gx1neUf4Zw+i7J6OsJkCTi0o9MZZw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

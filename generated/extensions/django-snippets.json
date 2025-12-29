@@ -1,0 +1,19 @@
+{
+  "name": "django-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/bencres/zed-django-snippets",
+    "rev": "d48270705cf03fc22b1c2e9983f546c145531150",
+    "date": "2025-10-30T18:08:10-05:00",
+    "path": "/nix/store/9wqhh077kxhhiqn5207ydjwjqxpnybml-zed-django-snippets-d482707",
+    "sha256": "1d4ih3g5ln04rkirsm5291w65k6g4y5czgjr88h0pl7sdjlsvjvb",
+    "hash": "sha256-a8utqWz60AsgQlm+z4onz8xieEiiVJ3jzARYWt6AkbQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

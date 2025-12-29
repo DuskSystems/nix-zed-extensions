@@ -1,0 +1,19 @@
+{
+  "name": "slate",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/someone13574/zed-slate-theme",
+    "rev": "f6a2c8f7fbdc9568802d0da6f23a5e9fb71b42c6",
+    "date": "2025-02-23T18:49:55-05:00",
+    "path": "/nix/store/smiv02m0vgr7dlxg753k4nr0nqd1pz7y-zed-slate-theme-f6a2c8f",
+    "sha256": "1zs7xl1ywc52z7bdkdqiavdp7wiyjazjrpcirmx54fbs2cr16gs4",
+    "hash": "sha256-RD8TMhN6OVJ6zZHdLL+SPvJz21YRt9nW+aIw7gPtR/8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

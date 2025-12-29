@@ -1,0 +1,19 @@
+{
+  "name": "v-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/necm1/v-zed-theme",
+    "rev": "df973eecb7ca32d23cb05828292ad1996b6cc3be",
+    "date": "2025-06-19T13:57:11+02:00",
+    "path": "/nix/store/0hkq0syqj6xrs84jwy2lxkj3xir9h93p-v-zed-theme-df973ee",
+    "sha256": "1dlw99xrjrp1pyb1ydqs9g1lsy4lbh1hhd37jg8hrizhz6g90f0w",
+    "hash": "sha256-HDiQnvnwxwzRk2c0CANclHhNw0saNx+Wv+FmmXtKnLY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

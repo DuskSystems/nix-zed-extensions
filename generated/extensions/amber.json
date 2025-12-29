@@ -1,0 +1,23 @@
+{
+  "name": "amber",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/Ph0enixKM/zed-amber-extension",
+    "rev": "60a66a9f24779ce1c387be3512280cf91767e4d6",
+    "date": "2025-11-27T23:54:10+01:00",
+    "path": "/nix/store/lwsck4azwsrrbwd0slsn7222y58ib63j-zed-amber-extension-60a66a9",
+    "sha256": "15dj967h0lipkxbxfbiwhh7qy21n3y5b0lgmj5ixgi3skxaczmwl",
+    "hash": "sha256-lNfPVJ96xNdjkfVRsIofNgiPD4Q8LtdXnzdSAI9JspU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "amber_amber"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-3mDwlgX3lQKnYyOIcK1dqT6wnS+1rByOda3Xz2AHczc="
+}

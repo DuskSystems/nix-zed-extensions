@@ -1,0 +1,18 @@
+{
+  "id": "unison_unison",
+  "name": "unison",
+  "version": "169e7f748a540ec360c0cb086b448faad012caa4",
+  "src": {
+    "url": "https://github.com/kylegoetz/tree-sitter-unison",
+    "rev": "169e7f748a540ec360c0cb086b448faad012caa4",
+    "date": "2025-03-05T23:06:44-06:00",
+    "path": "/nix/store/lssab4jqcplgg4j9q6vvlc06l5yy8iww-tree-sitter-unison-169e7f7",
+    "sha256": "1ylh2amjz2iiximyyhg4j4l1ds0mfcz8b70a35d1gkbmp2s8nwyh",
+    "hash": "sha256-0HOLtLh1zRdaGQqchT5zFegWKJHkQe9r7DGKL6sSkPo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "mint-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Ivanopulo124/zed-theme-mint",
+    "rev": "8a68845457550404b9b82e7a81d378d214fe6ad0",
+    "date": "2025-10-14T09:59:16+03:00",
+    "path": "/nix/store/3p2c9wc6a257bmzqbv7rgqqm64il7zdd-zed-theme-mint-8a68845",
+    "sha256": "0pfjlirkycziszl90r5yh67lfgi1jmip1p02hprif30ka3bb92wj",
+    "hash": "sha256-kou01lATDBfzhQLccGOVIT5Hj4G+ZJDo1/EzP3Ok0l0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

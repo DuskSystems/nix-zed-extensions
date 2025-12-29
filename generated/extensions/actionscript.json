@@ -1,0 +1,23 @@
+{
+  "name": "actionscript",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/pngdrift/zed-actionscript",
+    "rev": "fa0fbaaef5e23dbf6430d2e692fc076c803e83d2",
+    "date": "2025-11-24T20:32:23+05:00",
+    "path": "/nix/store/iy8hlwk0ws3cj850x0b5v6qmmx5q4vzk-zed-actionscript-fa0fbaa",
+    "sha256": "1djh2fhj2s3i3203jpv8l8a519h1cyjq3lah8rrj3w3mm0989r1z",
+    "hash": "sha256-P+SEEqh18CFzRlDRgaVnAaZQFKJoXzmAGHFoIaETULY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "actionscript_actionscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-mzE621TmzOYjHXdYB4ndbCszMXau1koifUVCdKGuBug="
+}

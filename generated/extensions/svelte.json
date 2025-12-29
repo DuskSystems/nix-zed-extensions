@@ -1,0 +1,23 @@
+{
+  "name": "svelte",
+  "version": "0.2.10",
+  "src": {
+    "url": "https://github.com/zed-extensions/svelte",
+    "rev": "d3c84ce4ccd854a0c04d7f9c7468c1852b46e08f",
+    "date": "2025-09-26T16:03:05-07:00",
+    "path": "/nix/store/qc3ryvi3mgagn1m63n4a8sisbz9wsld8-svelte-d3c84ce",
+    "sha256": "06ccyl0h76v47qrdal18jj2wn8235d74rrp7s9ylc1x54cmxbn3c",
+    "hash": "sha256-bNjVKyOlB0Z90ufmTE4rQyDLhZQoUNUyPmSbAwH1jBk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "svelte_svelte"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-LRZ94v7YTKGOP8y+Ciqaxq2TocsOpgnJOKG9YkEYT7g="
+}

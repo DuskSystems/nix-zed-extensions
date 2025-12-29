@@ -1,0 +1,18 @@
+{
+  "id": "ton_tlb",
+  "name": "tlb",
+  "version": "2c297bc02ae93b55f0216e94e34c76ea21c3ebe4",
+  "src": {
+    "url": "https://github.com/nickshatilo/tree-sitter-tlb",
+    "rev": "2c297bc02ae93b55f0216e94e34c76ea21c3ebe4",
+    "date": "2025-01-26T14:00:29Z",
+    "path": "/nix/store/vmsxmhamc78j7dyhqzyp84yhx420zd4p-tree-sitter-tlb-2c297bc",
+    "sha256": "09p3f5xd4jrq0i95c37pbf7zqincnlpzkw3xyhv5sg94vn4msanz",
+    "hash": "sha256-3ypdid0kPV029H3w+S+1zEb8j1v3DFZSBDhL0npx4yY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

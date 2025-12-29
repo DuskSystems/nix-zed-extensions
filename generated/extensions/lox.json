@@ -1,0 +1,21 @@
+{
+  "name": "lox",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/arian81/zed-lox",
+    "rev": "e150a3de2d6e8c2b68453da85f67e2850b9f4ad7",
+    "date": "2024-04-07T22:14:52-04:00",
+    "path": "/nix/store/aj9cnqxay483qx9rkdk9y0sj8n0in2dw-zed-lox-e150a3d",
+    "sha256": "0s49wrcyxn14xsz8c7nxibarj4y865i5sc7g5w6ngmigwrx0dm5l",
+    "hash": "sha256-tNQGeuYv1mcNL+8wXWIxyBOZ1YrdHoa+7iTY7lnmiWg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "lox_lox"
+  ],
+  "kind": "plain"
+}

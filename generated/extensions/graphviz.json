@@ -1,0 +1,27 @@
+{
+  "name": "graphviz",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/gabeidx/zed-graphviz",
+    "rev": "c4eec6df225efc4849b1dee8a6632c472a1afd29",
+    "date": "2025-09-11T08:42:39+02:00",
+    "path": "/nix/store/1rgbjqx0dba9svdjr0qjv590wjw9z5wm-zed-graphviz-c4eec6d",
+    "sha256": "0k93x2lhn04bc3a83y3ll93gmjdrdc49jwx8p8ihirprn3aipy0z",
+    "hash": "sha256-H/gb1bD55ggjuqhzmQhrucn6RqJ0+IHUYIsAC6noI00=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "graphviz_dot"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Yr0/5PqLon365UFuI/wQwWjn7UIqtpsVHfGxm9koG6w=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/graphviz.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-byterover",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/campfirein/byterover-zed-extension",
+    "rev": "d1dec2096e12aca97aa8321ef638636913dfcc55",
+    "date": "2025-08-19T14:40:23+07:00",
+    "path": "/nix/store/n6cw29rpn10lsfprxphli1cqy9r3nni1-byterover-zed-extension-d1dec20",
+    "sha256": "07mpfvj7df1ciq8jzbb3p4isiz0rfpggisa78mxp2dv2lsxb8c7d",
+    "hash": "sha256-7TC0uqZiN3F7RUfp+N51GfyoI7ljrS8Rjiy4duR2tx4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Rh4kXRbWCp0oZp2j0pyx9FoHxbWspspwgPYg57hSo+U="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bamboo-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LoamStudios/zed-bamboo-theme",
+    "rev": "e65ee1668527e1fbcef6e1efdd9743c7b229cd4e",
+    "date": "2025-05-23T08:02:53-07:00",
+    "path": "/nix/store/if231h0255jxs0jdrbin5g8sqab3lggq-zed-bamboo-theme-e65ee16",
+    "sha256": "0jvvblcc4hyl1w5s2hs3qmj5jrgmgpnbi37p4vbgwdxbk49wlwki",
+    "hash": "sha256-cXLKE5mrN/7WJveMuOx99WVZZMVDQ6ELD9RDwhhde0s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

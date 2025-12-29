@@ -1,0 +1,19 @@
+{
+  "name": "crimson-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/kaem-e/zed-crimson-theme",
+    "rev": "135c3768c3d4dc18328688bb041dd43a9e17ab04",
+    "date": "2025-09-26T20:06:39+05:00",
+    "path": "/nix/store/vqgz5f02832cslndnvrd563axf2zq985-zed-crimson-theme-135c376",
+    "sha256": "1iqz5s89b7av0xq9sdk2yfbmb7d22rlyyqp83vzyi8bm8grph60d",
+    "hash": "sha256-DRh480N1oej/Huhi72kWop1Vl/NiNp1wB1udlZAuH8c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

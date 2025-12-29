@@ -1,0 +1,18 @@
+{
+  "id": "tmux_tmux",
+  "name": "tmux",
+  "version": "7499587642a46ee156e1bb58851904ac750dcc7c",
+  "src": {
+    "url": "https://github.com/Freed-Wu/tree-sitter-tmux",
+    "rev": "7499587642a46ee156e1bb58851904ac750dcc7c",
+    "date": "2024-03-27T14:47:16+08:00",
+    "path": "/nix/store/nf0nyg49h87s2zvb05lp0698ssl4f59d-tree-sitter-tmux-7499587",
+    "sha256": "10avsi8rb8mwpj4jn1dyk6vgi48rzcywxcl4gsqb6rj71dlq0dyk",
+    "hash": "sha256-0zeAaQtHZrOwfoSyzj37GZH4tpm+BSuJvLyilVHUW4E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

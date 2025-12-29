@@ -1,0 +1,18 @@
+{
+  "id": "navi_navi",
+  "name": "navi",
+  "version": "af94aa5b50303f1fbc53349b97c6817f89e6e85c",
+  "src": {
+    "url": "https://github.com/navi-language/tree-sitter-navi",
+    "rev": "af94aa5b50303f1fbc53349b97c6817f89e6e85c",
+    "date": "2024-05-13T13:39:24+08:00",
+    "path": "/nix/store/n6q8ljkxk3j5p60kv7vjmh8a0bhi878n-tree-sitter-navi-af94aa5",
+    "sha256": "0kp30qk242rn24yh03dii40446lxn96ildj1xyl4f0q277nrx8qf",
+    "hash": "sha256-DqOe7TkCA0eo70E2Gk2ynRpCAImxDQA9ETYLIiYG404=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

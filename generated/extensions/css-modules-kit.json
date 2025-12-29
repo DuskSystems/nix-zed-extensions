@@ -1,0 +1,25 @@
+{
+  "name": "css-modules-kit",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/mizdra/css-modules-kit",
+    "rev": "0bf647bdcf021adfa13e7d7baefb129b60eb7bdd",
+    "date": "2025-12-21T18:40:54+09:00",
+    "path": "/nix/store/5dmysx59668ml78f88dssxslry6cq1g3-css-modules-kit-0bf647b",
+    "sha256": "1d2f5pqpw6rnd3zl5xxpxcxh0mpr473dfvg415pagpfcws1wypkq",
+    "hash": "sha256-eF7Pg+bM3aduCeRt18Yh+VYAO+u390L/aDYbfvEtTrQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "crates/zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yBUYMA5uYHWlt9cKvFIw+HFp6O3y9/9RCK+UXC51cMQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/css-modules-kit.lock",
+    "outputHashes": {}
+  }
+}

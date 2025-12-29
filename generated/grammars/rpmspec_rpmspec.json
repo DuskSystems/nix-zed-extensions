@@ -1,0 +1,18 @@
+{
+  "id": "rpmspec_rpmspec",
+  "name": "rpmspec",
+  "version": "a7b1cff462c2069b005a41848f462d79d67c738f",
+  "src": {
+    "url": "https://gitlab.com/cryptomilk/tree-sitter-rpmspec",
+    "rev": "a7b1cff462c2069b005a41848f462d79d67c738f",
+    "date": "2024-10-07T07:47:45+02:00",
+    "path": "/nix/store/8xyf9rnzhvssb61pkn00hw2ja3qrn69d-tree-sitter-rpmspec-a7b1cff",
+    "sha256": "0s7z7qinln1mqklv2k1rqghjdwfhwznv0labbswnjmz1vv8j62cg",
+    "hash": "sha256-jwkj0d7hV2m5XktRsO3n0PEm4cM5TLHpxDVYaiM+/2g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

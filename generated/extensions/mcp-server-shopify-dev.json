@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-shopify-dev",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/TheBeyondGroup/zed-mcp-server-shopify-dev",
+    "rev": "9ac3fd9ede5e058ef6fc6b01e132e82ca16336b7",
+    "date": "2025-09-30T16:42:08-07:00",
+    "path": "/nix/store/b8bggmw7s8i6yr7r897fszisjw8jk7rf-zed-mcp-server-shopify-dev-9ac3fd9",
+    "sha256": "0xd4jrr2xh9rpjxnjiggq4b8c5pcnh2mbkss1y1fhwv2d3jfq9px",
+    "hash": "sha256-/Sbs5Ghic+iCD1rPVQW07BaGFsHvRWm7vDnBLnKWpHU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-1X2k9jyNNEpnXFWEFRpGgCudy829CHOqRx8fEVWTAvE="
+}

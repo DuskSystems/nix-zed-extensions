@@ -1,0 +1,25 @@
+{
+  "name": "terraform-context-server",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/oWretch/zed-extension-terraform-mcp",
+    "rev": "3de67cc535da464a0dc85bbac878d98a2e0b8418",
+    "date": "2025-08-19T19:51:47+12:00",
+    "path": "/nix/store/pfi3bshiiz3kyybb647jy2g51zns71nw-zed-extension-terraform-mcp-3de67cc",
+    "sha256": "1nqjaz9251k1zaapwl5cvmh192h3hqgaarzfa0f7g55k0jyv39dp",
+    "hash": "sha256-t6WxvQSzlHccUO5npR6GA4oUYN2sUH6V+mGGItJXEts=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vxtRHGBtWlnS5KYMhWUeT4i9jsyaaQnYLH/p1lFPxOs=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/terraform-context-server.lock",
+    "outputHashes": {}
+  }
+}

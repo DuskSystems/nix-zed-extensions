@@ -1,0 +1,18 @@
+{
+  "id": "dbml_dbml",
+  "name": "dbml",
+  "version": "2e2fa5640268c33c3d3f27f7e676f631a9c68fd9",
+  "src": {
+    "url": "https://github.com/dynamotn/tree-sitter-dbml",
+    "rev": "2e2fa5640268c33c3d3f27f7e676f631a9c68fd9",
+    "date": "2023-11-02T12:10:27+07:00",
+    "path": "/nix/store/n3jxb04v3kj8fiqlyxpva6rlnlp1p9qr-tree-sitter-dbml-2e2fa56",
+    "sha256": "1k3wrmg6iz75iqx05g3hr9rkfh8h4d538g80jdhzvi0qlrdm8713",
+    "hash": "sha256-IxxUW6YYxP1hkwA9NEojEEE3c8pwvAI6juX8aF7NfMw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

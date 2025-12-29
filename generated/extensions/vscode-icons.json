@@ -1,0 +1,19 @@
+{
+  "name": "vscode-icons",
+  "version": "12.15.0",
+  "src": {
+    "url": "https://github.com/vscode-icons/vscode-icons-zed",
+    "rev": "0e23f93e194319898e746c447d3145d833f65a47",
+    "date": "2025-10-28T18:59:17+01:00",
+    "path": "/nix/store/w4pg2b8mmhwk2j5g601r4yywqykxvkmi-vscode-icons-zed-0e23f93",
+    "sha256": "0n7wxw501iz5n96cr7jl86sly3rfnh0479sap7il64mnj8p627qy",
+    "hash": "sha256-Hh9hLpK2EkPjuUqnQwC0Lg9PtUFUnsxMsuXHAArv/Fg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

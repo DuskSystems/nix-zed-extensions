@@ -1,0 +1,21 @@
+{
+  "name": "cypher",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/pupli/cypher",
+    "rev": "19f7516ccc580c6c64cf588b5853c1765a086238",
+    "date": "2024-11-11T16:22:14+01:00",
+    "path": "/nix/store/alyjcjhx6c974qv4lirlk3c614bb07ir-cypher-19f7516",
+    "sha256": "01q03p9ki3hz4k2ijld41n15ry0y1r0xixvi3ppy9ivx7x3kgq5c",
+    "hash": "sha256-rOA3Rz99x+TvHXH32EEOHvhcgg2kURnFJB+OONMdAAc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cypher_cypher"
+  ],
+  "kind": "plain"
+}

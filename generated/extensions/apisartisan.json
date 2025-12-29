@@ -1,0 +1,19 @@
+{
+  "name": "apisartisan",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/TCeason/zed-theme/",
+    "rev": "7457e3720a82a102e2409f0eab45854e3968b35a",
+    "date": "2025-08-29T21:51:23+08:00",
+    "path": "/nix/store/b3h5k91z3wq1v2rl03g01w5rc66jwpn8-zed-theme-7457e37",
+    "sha256": "0yci9dfy8564dk27lbmwd5zryz6vnsf69f9v546nmrr6z1f454rl",
+    "hash": "sha256-NJNCXPgm52oNKTu5ZJy223yff2m8LnrEbMQU5F1LkXk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

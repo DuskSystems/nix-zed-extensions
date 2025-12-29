@@ -1,0 +1,19 @@
+{
+  "name": "github-monochrome-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Nishantdd/github-monochrome-zed",
+    "rev": "4d96a5457c6a394f5b8702951c0db05259c41e95",
+    "date": "2024-09-09T12:42:09+05:30",
+    "path": "/nix/store/bfdrikf930jc7cr9852a4ab6xj925x22-github-monochrome-zed-4d96a54",
+    "sha256": "16yvd9056nbcxnxsh5lb8x92vpzi2vgjczwn3yxk3nqllv966a6k",
+    "hash": "sha256-0yhj0qYU2zG7H5Z/Jt8W8d8tUkeLFqi77WxZU0Bq25s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

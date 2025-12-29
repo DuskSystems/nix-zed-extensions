@@ -1,0 +1,18 @@
+{
+  "id": "jinja2_jinja2",
+  "name": "jinja2",
+  "version": "f5c7baa443b9d20746d2335230967234e01c934c",
+  "src": {
+    "url": "https://github.com/ArcherHume/tree-sitter-jinja2",
+    "rev": "f5c7baa443b9d20746d2335230967234e01c934c",
+    "date": "2024-08-29T09:29:48+10:00",
+    "path": "/nix/store/p9yzl4fv5csf9l779dq7vls3f0xvlxx5-tree-sitter-jinja2-f5c7baa",
+    "sha256": "0dbh2lgjavabzhz2d9g1k3dy10v7ghrpd8a6myf77qlb4cvslk40",
+    "hash": "sha256-gEyqNyOL4nOcr0ahdjN8Z4Pg25jhpSY+/EttJR8VcDU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "evolved-theme",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/evoL/evolved-theme",
+    "rev": "3d7c8cbdebc2f6a3b4643d8d220a9bf9a6ee5426",
+    "date": "2025-06-27T23:45:01+02:00",
+    "path": "/nix/store/77d0afwkl4ymkm50kyx0h5mj7djrd3c6-evolved-theme-3d7c8cb",
+    "sha256": "085dfgahnn9xd4b9xky21f7p6xz1wwvccyrvblz7p9bww2zk739k",
+    "hash": "sha256-M40zv+B8pXs+XTt7xjbn4XdzjwvCz54WaT1ZC9VzrSA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "dist/zed",
+  "grammars": [],
+  "kind": "plain"
+}

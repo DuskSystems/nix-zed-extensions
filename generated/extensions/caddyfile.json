@@ -1,0 +1,27 @@
+{
+  "name": "caddyfile",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/nusnewob/caddyfile-zed",
+    "rev": "98fc4527b749c4641a4373ea7f114002d9fd9e08",
+    "date": "2025-10-21T12:24:42+01:00",
+    "path": "/nix/store/18z21xsn2md34rkw52h2ksbgk2qj8aia-caddyfile-zed-98fc452",
+    "sha256": "0k9nryw7hpnl521gm62bzxq5lqww702kg8jskwhrjxq6i1s7d9x8",
+    "hash": "sha256-qKd2dIgGd5khn1qiNwU4nGNacP9LmPqCKNReeLjPNk0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "caddyfile_caddyfile"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dGmF2ZZNaV1/5Z+3W6G/51ebJRY809kStlXhZ/m+IdM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/caddyfile.lock",
+    "outputHashes": {}
+  }
+}

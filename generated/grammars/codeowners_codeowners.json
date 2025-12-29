@@ -1,0 +1,18 @@
+{
+  "id": "codeowners_codeowners",
+  "name": "codeowners",
+  "version": "5fc25f72a44d2fe5b9218c712062dcec79dac87e",
+  "src": {
+    "url": "https://github.com/lukasmalkmus/tree-sitter-codeowners",
+    "rev": "5fc25f72a44d2fe5b9218c712062dcec79dac87e",
+    "date": "2025-10-06T14:58:34+02:00",
+    "path": "/nix/store/wjph275ih1q7y289a9ig50jm29arc6h4-tree-sitter-codeowners-5fc25f7",
+    "sha256": "1gl53pskw1nxgbdi466lv2ly1yyk03gvzvvi9hk00alx918dxz7i",
+    "hash": "sha256-8fzeUEidKgAmTHHvv98A0/vgqdjUGBLbet0GPvUdhb4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

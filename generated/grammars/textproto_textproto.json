@@ -1,0 +1,18 @@
+{
+  "id": "textproto_textproto",
+  "name": "textproto",
+  "version": "568471b80fd8793d37ed01865d8c2208a9fefd1b",
+  "src": {
+    "url": "https://github.com/PorterAtGoogle/tree-sitter-textproto",
+    "rev": "568471b80fd8793d37ed01865d8c2208a9fefd1b",
+    "date": "2024-10-16T16:56:37Z",
+    "path": "/nix/store/zpdnvgrl13nvp8fn555rddl5rab81rfj-tree-sitter-textproto-568471b",
+    "sha256": "056h95fn779p73ik1gyr4n0y0r5w9pk09z25ly6mm42v5jlzq22l",
+    "hash": "sha256-VAj8qSxbkFqNp0X8BOZNvGTggSXZvzDjODedY11J0BQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

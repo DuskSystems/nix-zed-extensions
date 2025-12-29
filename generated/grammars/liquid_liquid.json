@@ -1,0 +1,18 @@
+{
+  "id": "liquid_liquid",
+  "name": "liquid",
+  "version": "d6ebde3974742cd1b61b55d1d94aab1dacb41056",
+  "src": {
+    "url": "https://github.com/hankthetank27/tree-sitter-liquid",
+    "rev": "d6ebde3974742cd1b61b55d1d94aab1dacb41056",
+    "date": "2025-05-23T10:38:45-04:00",
+    "path": "/nix/store/hc6qpy7jln1h98aghca5injisz5l9ab2-tree-sitter-liquid-d6ebde3",
+    "sha256": "04jvix1bzi6rfca258s22ya476f4nhfpbd74v216nfxjm2impi5d",
+    "hash": "sha256-rcRbo6iyO2uC2OS0dR20xJlDlBdCoyIUc9nEv0KPWxI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

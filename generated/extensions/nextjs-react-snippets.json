@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-react-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Konstantinos-Ps/zed-nextjs-react-snippets",
+    "rev": "4a0be6acf7ffeb1a9ed82b0d19b5e54a3fc2a446",
+    "date": "2025-06-13T01:34:10+03:00",
+    "path": "/nix/store/srq4sxvvc4fq936jwk5q25b5g796bxjv-zed-nextjs-react-snippets-4a0be6a",
+    "sha256": "0ac7g8c0zn2qa4492pkwcixn6hvd3x7df67d349ipy5qlfmw6nxq",
+    "hash": "sha256-uFvDq6O4+BsTGe0Y104fbUNje2R8XpEIUVjYDxh6hyk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "react-snippets",
+  "version": "1.0.6",
+  "src": {
+    "url": "https://github.com/tamimhasandev/react-snippets",
+    "rev": "37cccacc2f423883c2bc0eae52122cd91478f358",
+    "date": "2025-10-28T20:51:25+06:00",
+    "path": "/nix/store/3kv84hai8gr4dxsdxgyqvhzv1rz5rs5n-react-snippets-37cccac",
+    "sha256": "0rbwk46kpwrxs7vn8splkcz9rrc846109qxg16pq1dlmqm8z5ylr",
+    "hash": "sha256-mfryUcWVtoCvCa/jBIIhiOWcPpv0amT30T3zOw2ZfGU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

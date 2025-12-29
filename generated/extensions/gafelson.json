@@ -1,0 +1,19 @@
+{
+  "name": "gafelson",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/GafelSon/zed-theme",
+    "rev": "d0c74808cb6073aa42519f0036760a3e86cc93c4",
+    "date": "2025-05-22T12:43:07+03:30",
+    "path": "/nix/store/4vw0id2znsjy8n7xz2apdn4hjj3gpgf1-zed-theme-d0c7480",
+    "sha256": "1gpm6pl4bykwh38g4lagaq6dx6gbwwk9xza21djah5vqgj7vfwvj",
+    "hash": "sha256-cnO3j3x4F6hkC0L9nibn65neDFZPUfLQgHz6Reg19b4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

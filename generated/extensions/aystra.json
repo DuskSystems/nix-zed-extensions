@@ -1,0 +1,19 @@
+{
+  "name": "aystra",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/dotcypress/aystra",
+    "rev": "bfd5a131d9ee6f17a022d5012a73a3d1eee695a9",
+    "date": "2025-02-24T09:13:04+02:00",
+    "path": "/nix/store/xb88xwzfm97zz3biskvnbvvwjk8wvhch-aystra-bfd5a13",
+    "sha256": "0py4piyfc44adhxjnsd49189jabv9fgrs8m9nzjbdnikx4vl08hy",
+    "hash": "sha256-HiJAN+kz2rbkt6kinZ9LeymZUEikaSs7bIoQ5ny8xF8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

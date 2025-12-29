@@ -1,0 +1,21 @@
+{
+  "name": "ltex",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/vitallium/zed-ltex",
+    "rev": "156291bd61e3dfa2c238d2e664387282eac21fb1",
+    "date": "2025-12-01T21:00:15+01:00",
+    "path": "/nix/store/3sc3vkb5mwhxcbyg7g9hzyl4sj0da208-zed-ltex-156291b",
+    "sha256": "18xy2jia4aphaa9s9nsmrc8h45wjhq4ghz4qs7qnl85dd06ikmfr",
+    "hash": "sha256-2dUZDWitIGrx0Zh8+AiGkhcCEctV26STUvAqoqIUvqM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-1jdJkkcOuEo8T/DrHbK9IRvPfORAymzIXy1YbqmKqM0="
+}

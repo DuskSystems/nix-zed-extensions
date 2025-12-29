@@ -1,0 +1,21 @@
+{
+  "name": "surrealql",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/siteforge-io/surql-zed",
+    "rev": "44214d2c5aa720ea984725a4fd70a2ca50740f27",
+    "date": "2024-09-09T21:52:39+09:30",
+    "path": "/nix/store/y329y71mda1p3swr7jl3m9z3fm6wnc4a-surql-zed-44214d2",
+    "sha256": "1csccpwpf70j5j4as64ksjs9rws93mvmlwjryxyanffpxkxsnvd8",
+    "hash": "sha256-qG2r++zXOat891lyWncdSfOctNSTGK2ILBIcd/llTLM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "surrealql_surrealql"
+  ],
+  "kind": "plain"
+}

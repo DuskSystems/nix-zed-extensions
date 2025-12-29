@@ -1,0 +1,19 @@
+{
+  "name": "adwaita",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/somepaulo/adwaita-zed-theme",
+    "rev": "f6ff0aee5d95d3ba2698a6e6124ae679b55c9b45",
+    "date": "2025-08-29T03:51:55+01:00",
+    "path": "/nix/store/1pa4izxggdl12qhdh48nxj25d2gw2fks-adwaita-zed-theme-f6ff0ae",
+    "sha256": "0qff5lrh5sk71wyvicmqj51xib69x2c1npmw8fpwsdkgl1mrpym6",
+    "hash": "sha256-pvqba6BvNs2vQ7xeG5joyazYQ5G4srg9D2fqAjMtzmE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

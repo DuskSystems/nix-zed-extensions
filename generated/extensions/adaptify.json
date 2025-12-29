@@ -1,0 +1,19 @@
+{
+  "name": "adaptify",
+  "version": "0.2.3",
+  "src": {
+    "url": "https://github.com/lodev09/adaptify-zed",
+    "rev": "ad4312daa9dd0d515229c2c0aa3bc56f0487c3f1",
+    "date": "2025-11-18T00:09:16+08:00",
+    "path": "/nix/store/bmiid6pqj5rgp7qzs8xl1kq60klw0ir0-adaptify-zed-ad4312d",
+    "sha256": "0bhvmz1vl7gijf09l23ci1pfx1vr29114bzrdjmflsd1b529xakr",
+    "hash": "sha256-eaqeRFmhaeqqbPkvEkISeYfubohsCJqAk/EdusOvGy4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

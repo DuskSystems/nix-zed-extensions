@@ -1,0 +1,23 @@
+{
+  "name": "codeowners",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/lukasmalkmus/codeowners-zed",
+    "rev": "41007363c7117d11f21b13c553e442f42764463c",
+    "date": "2025-10-27T13:13:48+01:00",
+    "path": "/nix/store/xqzp30lzjp3g8wr2jrvyj0a1zw0nna71-codeowners-zed-4100736",
+    "sha256": "0frm2wh5qx3c6ylhynj3x2c1nf6qa0z8bdqwp9v6i2x3xj6vrzb0",
+    "hash": "sha256-YP28jeyji2h2uhy3hT5Q2DgbmOhDWg+pN2x0XCAXNTs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "codeowners_codeowners"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yM7q6wY9T2Nui6dASsTSG+U8XQMNfp7RKADtuyFBUHc="
+}

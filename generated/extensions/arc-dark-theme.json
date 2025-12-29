@@ -1,0 +1,19 @@
+{
+  "name": "arc-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/wcygan/zed-arc-dark-theme",
+    "rev": "bc468519de5a6ddbc0dc8657d51083f145078690",
+    "date": "2025-11-14T10:06:32-06:00",
+    "path": "/nix/store/2rnl5acnx5i0h9aklbygapr5k503kyvk-zed-arc-dark-theme-bc46851",
+    "sha256": "0szdxxa0l4xjcmqim0zp8hfzarfz47hzajbvjfah64r3kw6v9yk8",
+    "hash": "sha256-aPq0DZ8jEwOVk3tJ9eEh32X1HUT3gxpxZbITClTv7Ws=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

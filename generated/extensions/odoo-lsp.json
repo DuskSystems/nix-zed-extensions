@@ -1,0 +1,27 @@
+{
+  "name": "odoo-lsp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Desdaemon/odoo-lsp",
+    "rev": "e84c077f4993eb37eabe25c86dd3ed4eb377626e",
+    "date": "2025-12-12T09:19:38-05:00",
+    "path": "/nix/store/429a6g21ivjf7swdpz8q18ryi7hv1qhy-odoo-lsp-e84c077",
+    "sha256": "09s072d0izikp9nsx7977vjdq5lk0wdm2qa1wvfxvylky66cbvd1",
+    "hash": "sha256-oe3FjPGT+t3d5kFhURsHkxbc5D4nna5tujP+CJo4QCc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "crates/extension-zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nYxuQZXhmZ0k6inw+8IBbliiIvhQthnSKghIZds1gXo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/odoo-lsp.lock",
+    "outputHashes": {
+      "tree-sitter-scheme-0.23.0": "sha256-FK3F7v2LqAtXZM/CKCijWfXTF6TUhLmiVXScZqt46Io="
+    }
+  }
+}

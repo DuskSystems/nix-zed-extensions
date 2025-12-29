@@ -1,0 +1,23 @@
+{
+  "name": "thrift",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/likaihua/zed-thrift",
+    "rev": "ae3fb38070ddce31fc3c1d4e5a508917f0ced7da",
+    "date": "2025-05-13T16:23:49+08:00",
+    "path": "/nix/store/7qiwzj5icnrw0yjmwdhsyda5h3vjzx4n-zed-thrift-ae3fb38",
+    "sha256": "0ssn9scnam5q8hc62jihqp4f7yq55l6cc4sq35m6wzwljnrrnaxv",
+    "hash": "sha256-uyubs5WUf25qGVgTxgwtBfvjyMUwSmEYRLhUZZlOVms=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "thrift_thrift"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-fIoUQxZgliz9+OBka+/b3jKAk3jwXoNO6fWwf1pOaQ0="
+}

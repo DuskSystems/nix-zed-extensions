@@ -1,0 +1,19 @@
+{
+  "name": "nuisance",
+  "version": "0.0.7",
+  "src": {
+    "url": "https://github.com/xtrasmal/zed-theme-nuisance",
+    "rev": "7d522e0e3f3c1925a128fa1883850027419cf7ae",
+    "date": "2024-10-27T20:26:18+01:00",
+    "path": "/nix/store/ihxcsqc019dxww1m84sq1sl1vpp0abzv-zed-theme-nuisance-7d522e0",
+    "sha256": "01jdradi2dmzc73zvz134da4489vgyikvf5424axhzirjmbvdly8",
+    "hash": "sha256-yNO2V5U5ftgVEaS4PaN/OyFCVCMj/P3HYb82EZvKTQY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

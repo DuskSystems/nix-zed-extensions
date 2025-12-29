@@ -1,0 +1,19 @@
+{
+  "name": "zoegi-theme",
+  "version": "0.4.3",
+  "src": {
+    "url": "https://github.com/nikitapashinsky/zoegi-theme",
+    "rev": "a21fef7af600ab6a1a21dd8e6e8b63b01f589b72",
+    "date": "2025-09-06T21:32:06+02:00",
+    "path": "/nix/store/d4zg8wadb93h6r0fyf55wsiip4lkbi5a-zoegi-theme-a21fef7",
+    "sha256": "1ps1i4ri3xa29sjmwma7iq6wpblarnkss9sqpd2psd4mw6xdr0v5",
+    "hash": "sha256-ZYPcuuGVNH1Fu1gnrafNiq7LDY5HVV6lTkL1ETOJQd8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "discord-presence",
+  "version": "0.2.3",
+  "src": {
+    "url": "https://github.com/xhyrom/zed-discord-presence",
+    "rev": "8690f32278351f2c8e63a56f8847e5801c54513c",
+    "date": "2025-02-24T21:17:30+01:00",
+    "path": "/nix/store/28wh4bjjsrrf1dp7i87yqys8fcmkfx44-zed-discord-presence-8690f32",
+    "sha256": "131kv5lxhzgllrcgnr9lcjqq0l3ya3pxw9mvcf0lnzbissx063hg",
+    "hash": "sha256-Dw4DutZxfUuBY7sm3u9QflCAsWQ0ZftYpvR92GnZM4w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-JLNCEeo9fKeV4vTtPs+Yj2wRO1RKP2fuetrPlXcPBjA="
+}

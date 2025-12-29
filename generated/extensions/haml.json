@@ -1,0 +1,21 @@
+{
+  "name": "haml",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/davidcornu/zed-haml",
+    "rev": "56e55863626a3f75250491e81c0071a2cf927c54",
+    "date": "2025-11-01T17:05:22-04:00",
+    "path": "/nix/store/2asi3h5lzzxmff932fdnwjyiqmsiqb8d-zed-haml-56e5586",
+    "sha256": "0mcpis3y20pbv455avrkk1vpppcgwnh9bhygs167iqavkk37azbw",
+    "hash": "sha256-fH11xpxb4XhM0M/DlaDlj917d5gzb1UK2esC4YeOl1U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "haml_haml"
+  ],
+  "kind": "plain"
+}

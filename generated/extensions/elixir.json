@@ -1,0 +1,24 @@
+{
+  "name": "elixir",
+  "version": "0.2.4",
+  "src": {
+    "url": "https://github.com/zed-extensions/elixir",
+    "rev": "84f7ccd607bd502d6b0e1865a66b875a56ed1dc9",
+    "date": "2025-11-17T10:54:20+01:00",
+    "path": "/nix/store/jry737ryhs21wlkvrl3655iyaf2pl2li-elixir-84f7ccd",
+    "sha256": "1xbmvfx9zkhvfsn0q5bkdcm4fz6zq2jc8f7ql1d93an97n2qkw1f",
+    "hash": "sha256-LvCJhT3JqpFaoPg4xKTA33xHKmtzFQysdhvOn7rbdfU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "elixir_elixir",
+    "elixir_heex"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-JwlD2PRJiCys6u/MF2JkDQ96z390F0q+885F5eeG5Ks="
+}

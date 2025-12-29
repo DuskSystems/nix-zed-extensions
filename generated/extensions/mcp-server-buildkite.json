@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-buildkite",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/mcncl/zed-mcp-server-buildkite",
+    "rev": "45b18ccab0faf0994c59dd7979f8741b75606302",
+    "date": "2025-06-20T12:15:54+10:00",
+    "path": "/nix/store/ka6q6vhjakaldc92p4almqvxxj85v5y7-zed-mcp-server-buildkite-45b18cc",
+    "sha256": "02fvb46xgyjf0qb4vc72g3c5q13dxq4kqphi9xzw6xkv00g2qkxn",
+    "hash": "sha256-tk8sHgB7dsN/TxFePAnubQRc2HjisE0WBk761w1Z2wk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-gmn6N54ToiclH2JQxqq2CvS6YP1nHmAClGj0p4sXcr0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-buildkite.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "lydia",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/dimitrisnl/lydia-zed-theme",
+    "rev": "69657ed690f994163ed8b1f6ea69f3a6923857a6",
+    "date": "2025-08-07T12:06:33+03:00",
+    "path": "/nix/store/g4i1hznj0j0rnki5yvq71w64kkljxvxq-lydia-zed-theme-69657ed",
+    "sha256": "0ybrlc26g8ylzyzyhici7j1la1r30hvjkc3nl1immwp4k19mjvmq",
+    "hash": "sha256-uG5ZU5jk8lpjoHawKTcEIwdFgzyRRei//9SjZwSjeXk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

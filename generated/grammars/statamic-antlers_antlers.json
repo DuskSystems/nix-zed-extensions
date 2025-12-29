@@ -1,0 +1,18 @@
+{
+  "id": "statamic-antlers_antlers",
+  "name": "antlers",
+  "version": "ed922d8e2d681f2744c417fb2f6edbd6902ea5f9",
+  "src": {
+    "url": "https://github.com/Robertsson/tree-sitter-antlers",
+    "rev": "ed922d8e2d681f2744c417fb2f6edbd6902ea5f9",
+    "date": "2025-05-12T11:08:12+02:00",
+    "path": "/nix/store/1sa09qmybv9g7i47hs795glzksfpsp8w-tree-sitter-antlers-ed922d8",
+    "sha256": "1m248zqd0qv7ljgzbr4k0jqlv8rqbkwl90n05ziib2w6r2biwl9v",
+    "hash": "sha256-O1Eel8iGixXjL8CCRPlcOKNNsQST5PWfpGdj0PBHRNQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bend",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mrpedrobraga/zed-bend",
+    "rev": "7193f5684b45252135321bb6fe1314668b593bdf",
+    "date": "2024-06-12T19:40:59-03:00",
+    "path": "/nix/store/9jywfy8ji176pqvq2k4w361qly6ws88s-zed-bend-7193f56",
+    "sha256": "06j3hjs7h3qh8dp3n3j04l2cpb9fz3fykg1nby6g14x17094dyi7",
+    "hash": "sha256-J/pGEjihk/CMXza86d34Lq3LBCVADjtuQxAPeLSEQxo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bend_bend"
+  ],
+  "kind": "plain"
+}

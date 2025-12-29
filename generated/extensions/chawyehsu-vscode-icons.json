@@ -1,0 +1,19 @@
+{
+  "name": "chawyehsu-vscode-icons",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/chawyehsu/zed-vscode-icons-theme",
+    "rev": "252e5af00e47da6735c0b44d6e6557288c0e7b34",
+    "date": "2025-10-03T13:36:19+08:00",
+    "path": "/nix/store/bdqxngbavff153zs2i43z02k1mrzixsd-zed-vscode-icons-theme-252e5af",
+    "sha256": "0933pzc2rxrvfrys1dnz0ayfbmw00lj79z3nppcb08078cy7dgpv",
+    "hash": "sha256-+752PEMHILDYvXb8dCQFgNflvALftqB9djv3LNi/YyQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

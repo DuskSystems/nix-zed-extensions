@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-sunset",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/lczerniawski/ObsidianSunset-Zed",
+    "rev": "a9376ccaad273504630f1e9f129c958ac62075d9",
+    "date": "2025-01-25T10:22:32+01:00",
+    "path": "/nix/store/2fqgy21k7qvhm7cbgsxkzfjcjn1wzpln-ObsidianSunset-Zed-a9376cc",
+    "sha256": "0fzdzllj9w1xzf8a8bpa8jl2admd3hjrvp9qip9l79ww5snwj7an",
+    "hash": "sha256-Vh3JrS6cp0PTjTjdnSUcrTYlqETqLqSQ+z3wJCn97Ts=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

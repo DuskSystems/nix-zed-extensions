@@ -1,0 +1,19 @@
+{
+  "name": "umbralkai",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/platformer/zed-umbralkai",
+    "rev": "b9a7c15732eb1a7f25984c77adeab0f79d85a9a0",
+    "date": "2025-04-03T19:12:26-05:00",
+    "path": "/nix/store/i8qd6wlcld8vfysnpl3df3gvpj104j6l-zed-umbralkai-b9a7c15",
+    "sha256": "07ja963q0gxfhqr06wq85f8nmxab3jxrx1dxbpg76y2sqg8r11r1",
+    "hash": "sha256-IYeQ0cNaeHPeXb2FnrscS/VqkSsIcwMyhq4/gIdJSh4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

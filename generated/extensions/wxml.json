@@ -1,0 +1,21 @@
+{
+  "name": "wxml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/BlockLune/zed-wxml",
+    "rev": "94ca6c29b0c8da5ff091e90d9fa43c6d956cafea",
+    "date": "2025-08-06T17:19:11+08:00",
+    "path": "/nix/store/58dx9d593q33k9p7z7vpdb2pg3mmblgr-zed-wxml-94ca6c2",
+    "sha256": "1v5qnyrsmpyi7dabd7sp8bpd1nngmrrxy394vialfrkvzbmp4k1m",
+    "hash": "sha256-NUxy6/p7ZkdV3CQN33Ouz9rQ7kJXn7ZUO9HfqrO3uOw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wxml_wxml"
+  ],
+  "kind": "plain"
+}

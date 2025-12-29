@@ -1,0 +1,21 @@
+{
+  "name": "oxc",
+  "version": "0.4.1",
+  "src": {
+    "url": "https://github.com/oxc-project/oxc-zed",
+    "rev": "357e28f932512d362e69a06a38eef52641920af5",
+    "date": "2025-12-25T10:00:29-06:00",
+    "path": "/nix/store/i6ncslds5plxw07slbyb5ygx271j9zc5-oxc-zed-357e28f",
+    "sha256": "1nprrh3wkb0y4ypsm4p8k9fzsmih2iz1qprpdf8kyr6jymgh485n",
+    "hash": "sha256-tiACX/XSZD+RazdfHH4UMFb9XZrokqqvJx6syQfM+do=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yxePE3wDyftkCfosqk7tjFQH2tPAhSTrGOQJUw2auoY="
+}

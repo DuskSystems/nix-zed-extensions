@@ -1,0 +1,21 @@
+{
+  "name": "kdl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/elkowar/zed-kdl",
+    "rev": "e2f7ab710e0060112e58f2e2f5f6181a435821d1",
+    "date": "2024-08-28T17:51:33+02:00",
+    "path": "/nix/store/byqvn4wa2476j0vjnh1iffr7z8kq54mr-zed-kdl-e2f7ab7",
+    "sha256": "0pk9pyvjzv74wz7phq8ma6cnayg7xr5b238la9xv3bynpgvbdm7n",
+    "hash": "sha256-9tS29rvWr7F7UhQNsUru53llmVEVYXjP5+TsL7e/aV4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "kdl_kdl"
+  ],
+  "kind": "plain"
+}

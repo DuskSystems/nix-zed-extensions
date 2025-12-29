@@ -1,0 +1,19 @@
+{
+  "name": "pinata-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/stevedylandev/pinata-theme-zed",
+    "rev": "a03af0c77cb43c51aad7ac4b7720ef2fe6ca9f74",
+    "date": "2024-11-25T11:54:56-05:00",
+    "path": "/nix/store/q149yvsc2byaxp6g6ifchxn1amhfxkka-pinata-theme-zed-a03af0c",
+    "sha256": "0igqf969d3m8lg2pnichv5jxwwn4qzwlv50mqwpajlp03la0rv5n",
+    "hash": "sha256-tuwMFB3gUqkuxxWUTfnHxHLeZdmQRXvFo6iOlkxy+EU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

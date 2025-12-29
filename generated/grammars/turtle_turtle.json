@@ -1,0 +1,18 @@
+{
+  "id": "turtle_turtle",
+  "name": "turtle",
+  "version": "7f789ea7ef765080f71a298fc96b7c957fa24422",
+  "src": {
+    "url": "https://github.com/GordianDziwis/tree-sitter-turtle",
+    "rev": "7f789ea7ef765080f71a298fc96b7c957fa24422",
+    "date": "2024-07-02T13:41:07+02:00",
+    "path": "/nix/store/943vfzmdxbn7x4h23hyk9h9k3ax414zf-tree-sitter-turtle-7f789ea",
+    "sha256": "0c3diz97lrnxqkq410s9rlmxddjqgnswyc4spdfny045xgfzp9yg",
+    "hash": "sha256-z6f73euFAG9du5owz7V9WLbWK81Jg0DwxN1metKPbTA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

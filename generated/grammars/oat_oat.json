@@ -1,0 +1,18 @@
+{
+  "id": "oat_oat",
+  "name": "oat",
+  "version": "e691fa14ea94df88fbf0701d26c67d1fa3d75dee",
+  "src": {
+    "url": "https://github.com/WhySoBad/tree-sitter-oat",
+    "rev": "e691fa14ea94df88fbf0701d26c67d1fa3d75dee",
+    "date": "2025-11-19T12:29:57+01:00",
+    "path": "/nix/store/4dw2mp94pv3cgdlz18ssxa85k8ff0a6y-tree-sitter-oat-e691fa1",
+    "sha256": "1q4bhds2vj7k4ayzgv195rv1rkiwlflffkwli5hg16mym3a281a4",
+    "hash": "sha256-RAUk1Ki+mvBgiZRP56ijPM4cdi4p7Pe9IvPILXSDi+A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

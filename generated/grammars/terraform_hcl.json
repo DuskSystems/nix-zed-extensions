@@ -1,0 +1,18 @@
+{
+  "id": "terraform_hcl",
+  "name": "hcl",
+  "version": "e936d3fef8bac884661472dce71ad82284761eb1",
+  "src": {
+    "url": "https://github.com/MichaHoffmann/tree-sitter-hcl",
+    "rev": "e936d3fef8bac884661472dce71ad82284761eb1",
+    "date": "2024-03-08T08:34:24+01:00",
+    "path": "/nix/store/kl8msnpz3g3p02l434cib93np5f24hb5-tree-sitter-hcl-e936d3f",
+    "sha256": "1spl8s1slhf25ry3sggbgckgq5aprc4sq76sgzswdb4rmghyrjwm",
+    "hash": "sha256-lcvs4auZrMb1f9ocrAnLVxX8JnvrPT18LsJBqoNG9Oo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

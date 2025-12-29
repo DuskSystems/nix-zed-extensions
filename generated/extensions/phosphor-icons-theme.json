@@ -1,0 +1,19 @@
+{
+  "name": "phosphor-icons-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/theoluciano/phosphor-icons-theme",
+    "rev": "afef7ddf3418d23e23d902cf26527f087d79cfa6",
+    "date": "2025-03-25T09:16:05-04:00",
+    "path": "/nix/store/mcfxzyz7zh1f6lm0f76nr6dffzd8y00b-phosphor-icons-theme-afef7dd",
+    "sha256": "004f3mf27mc78w2bqla84dk9v6jd2kp0m4npn7zwckck3cfh96y8",
+    "hash": "sha256-yJsEHRuTTcb/sdeSCu4UTZqdZiNIUbwER4fVI1wdjgA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

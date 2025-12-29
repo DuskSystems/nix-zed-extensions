@@ -1,0 +1,19 @@
+{
+  "name": "oscura",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/webhooked/oscura-zed",
+    "rev": "fa0e50c90c9f0fbdce8171e9608e10db3c8ca8c9",
+    "date": "2025-04-16T21:37:13+02:00",
+    "path": "/nix/store/s2rki9z57b0vq7vbz4f51k9v38l3h8m7-oscura-zed-fa0e50c",
+    "sha256": "1v1dw6v9h2nhy5q5fliv0carf93z7f10vrqw5df5x2vakr7iyagf",
+    "hash": "sha256-7ikfT55qi15cKxznDYI7fySXFQM7Uldw8dAKmLbhLew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

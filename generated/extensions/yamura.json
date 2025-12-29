@@ -1,0 +1,19 @@
+{
+  "name": "yamura",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Yxmura/yamura-zed-theme",
+    "rev": "4a7ff00c30c2c8e9b111968455ff174b55f2dff1",
+    "date": "2025-11-10T20:21:17+01:00",
+    "path": "/nix/store/vlhw2nia039v9257ckfv7vx6mjrjicr6-yamura-zed-theme-4a7ff00",
+    "sha256": "1hlfxj85149mbzhcv7rzavvi6zqsrigv8nm60bpswj9pq5523f6d",
+    "hash": "sha256-zbghSsE3Sa7vAqZatF/MGn8T91Y/n83gXzWRUJDsjsI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

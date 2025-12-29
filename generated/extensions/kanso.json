@@ -1,0 +1,19 @@
+{
+  "name": "kanso",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/webhooked/kanso-zed",
+    "rev": "20b3d9f626073159708f62510c5ffab18a8b0c97",
+    "date": "2025-09-30T16:50:52+02:00",
+    "path": "/nix/store/ghqwfrsv3fh42x36ww74mhxx15k9j97c-kanso-zed-20b3d9f",
+    "sha256": "1gnkxc7sp7pc30vvanxbhijca1xc1pkw3psgjp8lhgcvyc4yb0f7",
+    "hash": "sha256-x4HlCfObPUjRlU/fwecNrAfFZISrW7U3GOyeqw/r074=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

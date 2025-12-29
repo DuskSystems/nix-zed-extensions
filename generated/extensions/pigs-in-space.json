@@ -1,0 +1,19 @@
+{
+  "name": "pigs-in-space",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kreek/pigs-in-space-zed",
+    "rev": "8fc78f82e2fee766bd0276915e5c041ec6e2ff39",
+    "date": "2025-12-12T11:06:15-08:00",
+    "path": "/nix/store/5cx5yq8l8id8hknsn26fpv9py67mrrf4-pigs-in-space-zed-8fc78f8",
+    "sha256": "1i45pgqhhqnzpilmrk46ydkv43gs94apc15aqn73l84lxr833mqx",
+    "hash": "sha256-HdcxUO6UIDqOxaoEdhVJ+g2yZ/OGzFxpvN9iCPG7hcQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

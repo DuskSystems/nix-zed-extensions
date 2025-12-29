@@ -1,0 +1,18 @@
+{
+  "id": "haml_haml",
+  "name": "haml",
+  "version": "3e5bdaef84a7a65bd8e2f8a6f69120b53dac1e94",
+  "src": {
+    "url": "https://github.com/vitallium/tree-sitter-haml",
+    "rev": "3e5bdaef84a7a65bd8e2f8a6f69120b53dac1e94",
+    "date": "2025-10-27T20:24:51+01:00",
+    "path": "/nix/store/ak0bp4wbzr5zkx9rxmgvdysfyrwzkx81-tree-sitter-haml-3e5bdae",
+    "sha256": "0iicld2pa921xns6a512af1z25rm8hjd3d4n2s6h0ma8xq1akhc0",
+    "hash": "sha256-gMGpAu5IVQCNFpa00SRENRfxg1MiFGW07UEkdUWjLEY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

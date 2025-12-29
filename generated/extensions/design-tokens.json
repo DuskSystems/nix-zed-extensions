@@ -1,0 +1,21 @@
+{
+  "name": "design-tokens",
+  "version": "0.1.17",
+  "src": {
+    "url": "https://github.com/bennypowers/design-tokens-language-server",
+    "rev": "bd6612153d3987b068be6d09ecddab966de1c584",
+    "date": "2025-11-01T23:47:36+02:00",
+    "path": "/nix/store/cpjy7mla6vriqaxcr6rbr1z328ijzj9r-design-tokens-language-server-bd66121",
+    "sha256": "0xs4wyrwvh1i49b034260kni894qr98p8wbasl6lg7wg24sk794b",
+    "hash": "sha256-i6QzNRGPn0cN1WpxdFHKmCQU7QRGkAFWIjHAzbPnRHc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-PIAzaicr4qbjRtcdBMSYQjDQ5YudhdG08S7KYlgnxc0="
+}

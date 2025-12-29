@@ -1,0 +1,19 @@
+{
+  "name": "dream",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/arturonegrete-dev/Dream-zed",
+    "rev": "9951a46e0fe83f4c6b2570e08f70d7cf41974655",
+    "date": "2025-10-14T22:08:48-06:00",
+    "path": "/nix/store/g16m975i1m3hw3wsx5xs0zsnf2lymb8i-Dream-zed-9951a46",
+    "sha256": "0vjs6ls23qy1026yk8zrqb09wzgy5wws2q6f2yiwkmf4ls24m7wy",
+    "hash": "sha256-np9KhKbE1cmjF85goTkv/n2ewML5o+mNAMHjITQ1Wm4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

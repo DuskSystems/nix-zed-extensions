@@ -1,0 +1,18 @@
+{
+  "id": "gemini_gemini",
+  "name": "gemini",
+  "version": "b60a42df3f76bd4e8f988465309d705a007dc506",
+  "src": {
+    "url": "https://git.sr.ht/~nbsp/tree-sitter-gemini",
+    "rev": "b60a42df3f76bd4e8f988465309d705a007dc506",
+    "date": "2023-11-28T01:50:35+02:00",
+    "path": "/nix/store/zjxy8d6wx02pi3bg8whxwlpxp16l5gp2-tree-sitter-gemini-b60a42d",
+    "sha256": "1gm0h5jpk03s6c9kab799dcyqbl14yhicxf6625xasp0rgj0rkf6",
+    "hash": "sha256-xs0M5MvgatWLMMZ1FqEngS7sWUvpLDUTM3qAeWWBoL4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

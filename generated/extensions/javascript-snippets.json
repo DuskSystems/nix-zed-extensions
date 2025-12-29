@@ -1,0 +1,19 @@
+{
+  "name": "javascript-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/seekode/zed-js-snippets",
+    "rev": "7fd8b0c8a40d4df8a367367bcf8bea256cddab6e",
+    "date": "2025-10-01T16:46:24+02:00",
+    "path": "/nix/store/afiym897ld2d7akf0w0zdsgbsgfaqqhl-zed-js-snippets-7fd8b0c",
+    "sha256": "0kc7ywqf7fb4d8ycgd4k933hg0gc7mlig2jmcpxx4spjpj721qhk",
+    "hash": "sha256-E+IgjrzyatL7ZVWKF2k97IEHx0iTtMc8amS54zD3h00=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

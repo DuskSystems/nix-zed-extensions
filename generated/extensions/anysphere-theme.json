@@ -1,0 +1,19 @@
+{
+  "name": "anysphere-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/stpn48/anysphere-zed-theme",
+    "rev": "daf9066f0c3a6cb9e30aebac3c5f0fc4e78c01d2",
+    "date": "2025-03-31T19:44:23+02:00",
+    "path": "/nix/store/399z8l70fh71zfka15kcra2igimybyfm-anysphere-zed-theme-daf9066",
+    "sha256": "1gpmng26y41iib82rqcbxcvyg28m16n435fxi5wc6n87qilwngf6",
+    "hash": "sha256-xj3LacQHWcN4id2VQawJFYnnN+uL4SzQijEQb8Sz9b4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

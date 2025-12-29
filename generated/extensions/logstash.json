@@ -1,0 +1,21 @@
+{
+  "name": "logstash",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/StrongTheDev/logstash-for-zed",
+    "rev": "2a3d353d0399fc68277163f66c4f69210b66e2f3",
+    "date": "2025-03-28T13:05:38+03:00",
+    "path": "/nix/store/amrqkaw88xn8r1lld2vgwbl6zkjvamv8-logstash-for-zed-2a3d353",
+    "sha256": "1h47ii87zj0jg09a5vkdq5yqsrxri37j816y9rj2np2k2l5r8jx6",
+    "hash": "sha256-pkuUCxVTXCtkTt4EJM+IuWeNfcFt7qISeBLIf1CMh8A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "logstash_logstash"
+  ],
+  "kind": "plain"
+}

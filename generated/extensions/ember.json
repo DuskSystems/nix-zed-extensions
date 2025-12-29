@@ -1,0 +1,23 @@
+{
+  "name": "ember",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jylamont/zed-ember",
+    "rev": "8ee4c655563616156b6f64ab38896c23a09f01bb",
+    "date": "2025-05-16T11:27:32-04:00",
+    "path": "/nix/store/sah6q7iaabaf7v8ljvd9jjfgvfxa4l14-zed-ember-8ee4c65",
+    "sha256": "1jdnpsf3npdzcgd8hpyhmjm98j39r0w5cqr5frcs8d3cwf7wc11d",
+    "hash": "sha256-LQTGj+NsNKRZdiVjVjjIaUiUqqzQX4jaY79dO5y+tsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ember_glimmer",
+    "ember_glimmer_javascript",
+    "ember_glimmer_typescript"
+  ],
+  "kind": "plain"
+}

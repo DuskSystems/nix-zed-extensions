@@ -1,0 +1,18 @@
+{
+  "id": "actionscript_actionscript",
+  "name": "actionscript",
+  "version": "24919034fc78fdf9bedaac6616b6a60af20ab9b5",
+  "src": {
+    "url": "https://github.com/Rileran/tree-sitter-actionscript",
+    "rev": "24919034fc78fdf9bedaac6616b6a60af20ab9b5",
+    "date": "2023-04-18T23:13:15+02:00",
+    "path": "/nix/store/iwaiqgd32hndkhwilp6b0vvbdvqlaqki-tree-sitter-actionscript-2491903",
+    "sha256": "0gdkb7hi6nc6d3rza247c66nzi04m471b6fv32adxqjw76w5bg1d",
+    "hash": "sha256-LbxVuDlc4t6UGNuZFQ6pBMRvjWGHCPXzaIZZE+FZsz0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

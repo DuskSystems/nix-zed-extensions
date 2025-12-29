@@ -1,0 +1,19 @@
+{
+  "name": "pandora",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/edneyosf/pandora-zed",
+    "rev": "46135930a097c83ca77abc96b314ddc0ec8f1f49",
+    "date": "2025-12-04T14:15:31-03:00",
+    "path": "/nix/store/plxfa9i0576kv5f9alfd3hcg1wfhmm5k-pandora-zed-4613593",
+    "sha256": "04a70b6i0fak6q8azlvwnmrhid04xz9y1ny6m1vq2jhlxv23n3a3",
+    "hash": "sha256-Qw07xO4USoF3qMbb4NPvBLQIc7V8068QNlM5EM0CRxE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

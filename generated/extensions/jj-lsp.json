@@ -1,0 +1,21 @@
+{
+  "name": "jj-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nilskch/zed-jj-lsp",
+    "rev": "194bcb34084f4f55b2e89020bceec0e105856331",
+    "date": "2025-07-20T19:42:57+01:00",
+    "path": "/nix/store/ayincpkpc0zynqcqjvjyd51rb6g06vcs-zed-jj-lsp-194bcb3",
+    "sha256": "1c5lmlbl2xzhxl2miwk7j64xspmlhv7f0nnnz0nidb2kndqdqbr0",
+    "hash": "sha256-IC/ccLNTrBYt+NZa4M6GtF7diZFn8lgF7fB3QRettLA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-xhWxor5BI5Z4c5kFJfXoPFLIl4fv2skqa7fYSXqRJy4="
+}

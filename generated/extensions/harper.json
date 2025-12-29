@@ -1,0 +1,25 @@
+{
+  "name": "harper",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/harper",
+    "rev": "32d6409b846032fe53bdb522e68993c50f0f1419",
+    "date": "2025-07-20T16:40:43-04:00",
+    "path": "/nix/store/l6v4m0zy0b0rwbj3n0xgizmklklfpldz-harper-32d6409",
+    "sha256": "0bvigz19nrkvqkzz3293lb7z3xncspvmy1y6y255jyhq41yphyq2",
+    "hash": "sha256-Ant4fSAYelmK8MYHX/fVzPbxz6IjifH/xHtmm8J/cS8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-+HqhxV7SUbGn9j1yYJYLw+yZJWxZNEylB5BGJkCGUrE=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/harper.lock",
+    "outputHashes": {}
+  }
+}

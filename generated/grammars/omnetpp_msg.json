@@ -1,0 +1,18 @@
+{
+  "id": "omnetpp_msg",
+  "name": "msg",
+  "version": "49f037483a07b72edea169c7d9a0961225a633f2",
+  "src": {
+    "url": "https://github.com/omnetpp/tree-sitter-msg",
+    "rev": "49f037483a07b72edea169c7d9a0961225a633f2",
+    "date": "2025-08-04T14:20:03+02:00",
+    "path": "/nix/store/kc57xp9prx72ccmwx75mv7qmjgl7isa8-tree-sitter-msg-49f0374",
+    "sha256": "1d9jg69papk32syca525iqcs7x0amw7m43nzb1a82ifjcdbmyb8p",
+    "hash": "sha256-Fy1fV2PSRYFUWN8OUg+vCvSjGY5FFMW8FmNedZN5MrU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

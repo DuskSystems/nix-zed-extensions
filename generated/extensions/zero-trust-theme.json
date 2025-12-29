@@ -1,0 +1,19 @@
+{
+  "name": "zero-trust-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/yannickboog/zero-trust-theme",
+    "rev": "97b094d56cc980cbbadbc4bee2f0c64c384486e6",
+    "date": "2025-07-21T05:34:07+02:00",
+    "path": "/nix/store/k9y0mxl1q697sykny91m429r25i0svqj-zero-trust-theme-97b094d",
+    "sha256": "0l3wn8spf34mrzlpyvlad607mxds0v8cqkxlwz5nak63p7ahdzvl",
+    "hash": "sha256-dP8G1bnDTGXL57RPzNAGuvV6gGmKbn/pz5UMdzWyfFA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

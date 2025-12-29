@@ -1,0 +1,19 @@
+{
+  "name": "ktrz-monokai",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/pcminh0505/ktrz-monokai-zed-theme",
+    "rev": "52d52b516fa742ee2845b64856c34b3e24c0d408",
+    "date": "2025-03-07T20:28:36+07:00",
+    "path": "/nix/store/85vvigypbc5m89khswic5i6vll0zn09m-ktrz-monokai-zed-theme-52d52b5",
+    "sha256": "04g5hf4qn6ga19679328kr18gghb9gagghnqp3vkphf8lmr8wmfj",
+    "hash": "sha256-0lWOcqXIwTv3uNjC99RLC76HQp5IjHRMCuoZi4mD5RE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

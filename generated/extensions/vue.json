@@ -1,0 +1,23 @@
+{
+  "name": "vue",
+  "version": "0.2.10",
+  "src": {
+    "url": "https://github.com/zed-extensions/vue",
+    "rev": "6568d0a57f749cf831814ed8b3e56f0ccec6a1fd",
+    "date": "2025-12-23T12:42:00Z",
+    "path": "/nix/store/c355jdpqwpp1v8fyf52ppy8g3qaj07pm-vue-6568d0a",
+    "sha256": "1pwg0f4l3g0d5xwg9fcca3nyniiwib7akydag66h05rikjbfa2ya",
+    "hash": "sha256-ygvllpwxFwCNear5qc6KPEbr7VCMufR4Lw28QYkDj98=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vue_vue"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ZIc5d5gEqyFWoDwjJkYOifEznYjiMLsXlTbdchY5kzY="
+}

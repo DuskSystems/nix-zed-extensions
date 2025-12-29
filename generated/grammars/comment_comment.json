@@ -1,0 +1,18 @@
+{
+  "id": "comment_comment",
+  "name": "comment",
+  "version": "93b12e7b219d74fdbbb27e6671ca2f714738b253",
+  "src": {
+    "url": "https://github.com/thedadams/tree-sitter-comment",
+    "rev": "93b12e7b219d74fdbbb27e6671ca2f714738b253",
+    "date": "2025-11-23T19:02:55-05:00",
+    "path": "/nix/store/q6i8vda9nkphnyybvmxc49vli362z64y-tree-sitter-comment-93b12e7",
+    "sha256": "1kcnl6x59rl9b3jqbmbq552xjl8i49kqwsamh0dr353pazrc1ysw",
+    "hash": "sha256-XPvA8ld3lJEbgFVpjmciEVHZRSl41YXlWInmVLqhls0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "deno",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/deno",
+    "rev": "7cf786403ba9860d07451f0f7a9ec6c850c1b31a",
+    "date": "2025-03-05T10:14:33-05:00",
+    "path": "/nix/store/6ablizxzwmxg0d0rf5hrh26f2dx4agz7-deno-7cf7864",
+    "sha256": "1pxsp5w61qxa4igdmphxx97kc9csqdf6953l9725ia8m831srhdy",
+    "hash": "sha256-vsGsw0AVqVjESXSUZFzDmiU2T+od3tpeJKrjYHi5ut8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-LQfuN44GPT/oMPAWf46wM6zsBOoR0o1dIecnZGRFSPs="
+}

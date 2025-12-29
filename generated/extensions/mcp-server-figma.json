@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-figma",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/LoamStudios/zed-mcp-server-figma",
+    "rev": "1036f4b3743c797aad9048a16e48289987dcecd3",
+    "date": "2025-10-02T13:14:12-07:00",
+    "path": "/nix/store/nlkh26i6a4q27wp44jywsd9mx6bca9s7-zed-mcp-server-figma-1036f4b",
+    "sha256": "109zx4jn44bk35n0nq42lj6lg21cv55pdq3vcg7jc7l3x4l6npzi",
+    "hash": "sha256-8V9rKOmDHibPY3vgdkvZLIhHjaSCYAtsGXMRYiXpP4E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-thSxr/WXxTgETpkJ0M5Eu64G9g9DfPkIqPU8sNpj5eM="
+}

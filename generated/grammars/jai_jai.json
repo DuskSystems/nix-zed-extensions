@@ -1,0 +1,18 @@
+{
+  "id": "jai_jai",
+  "name": "jai",
+  "version": "e9826985ad7b40fa91544a282909fa8159150d71",
+  "src": {
+    "url": "https://github.com/seg4lt/tree-sitter-jai",
+    "rev": "e9826985ad7b40fa91544a282909fa8159150d71",
+    "date": "2025-08-21T20:35:27-05:00",
+    "path": "/nix/store/85f5ihm6z30mz950a59an1dcj14739lw-tree-sitter-jai-e982698",
+    "sha256": "1i0c33yxbzgaawykyy7cfbhfg3ysxkhv0ywyq37n1xz6b1nf2hfy",
+    "hash": "sha256-3kHhbFjm92DPwJ57sOHs2o/n4HLseD89V+r91f0YDMQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

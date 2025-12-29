@@ -1,0 +1,19 @@
+{
+  "name": "claude-code-inspired-dark",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/ericbuess/claude-code-inspired-dark",
+    "rev": "c8c4987c936b917d4d3187dcf19381a65cc7acff",
+    "date": "2025-09-05T12:35:26-05:00",
+    "path": "/nix/store/g4c0ggzyqnnjhgbl380r8r3yd4nbgp3b-claude-code-inspired-dark-c8c4987",
+    "sha256": "1iqd6gzdifxr7hiyfj3ayhb0xmck5cn3vd02kbcaibi9yigab1v5",
+    "hash": "sha256-ZYelXvQprqjYmgK0PSwrk9UOFvRqSOcjPLm72P4zDcc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

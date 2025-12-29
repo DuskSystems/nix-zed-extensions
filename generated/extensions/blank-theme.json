@@ -1,0 +1,19 @@
+{
+  "name": "blank-theme",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/kiritocode1/Blank-Theme",
+    "rev": "a5182c347fc034849c2aa71e8ca6ed4b4ee45424",
+    "date": "2025-12-28T20:25:18+05:30",
+    "path": "/nix/store/q78483kfq0r32110sfkb3p1a8v7lrrd7-Blank-Theme-a5182c3",
+    "sha256": "0kfg8llqj0g8jq2dzv6rs09k8m8dv6iwjgi3y3c03794pczhfg3z",
+    "hash": "sha256-fzwHP7sknQHY8CM+yaPZDVU0E9DZ7N8ElugBiSlFz00=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

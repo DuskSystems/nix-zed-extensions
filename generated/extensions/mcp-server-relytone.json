@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-relytone",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/YuweiXiao/zed-mcp-server-relytone",
+    "rev": "f250daadc13f46ac72a0db4e9ef1d9a7b70366c6",
+    "date": "2025-11-20T18:54:20+08:00",
+    "path": "/nix/store/wdxjhll66ancg5fljqasz5kzfc8fbw9w-zed-mcp-server-relytone-f250daa",
+    "sha256": "0nvq4z2d4blmm8cnbglsz6s77dz3bnw9jj5bljg9z0r2wdahzh2n",
+    "hash": "sha256-VsAPVeMig5+epKtImbhd47dztPmavmUZqpUu0sQneFs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pvAcrgsj/9kyi7RzCCpPVmIkLlPPHk5ybqIiwphk/yw="
+}

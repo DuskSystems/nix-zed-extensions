@@ -1,0 +1,25 @@
+{
+  "name": "shadcn-mcp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MrUprizing/zed-mcp-server-shadcn",
+    "rev": "344da28067e03f04f18b3a6d58068851f8e2ece1",
+    "date": "2025-10-28T20:16:33-05:00",
+    "path": "/nix/store/mky17vfblakbfkqn730bnmldglp5in52-zed-mcp-server-shadcn-344da28",
+    "sha256": "1rg1p4fyry5cxrdaqdj8bxz6phbfp9gxf3c80h0x5fvhnk6di00p",
+    "hash": "sha256-F4DYzLRwu9IBBIgN11+6bsFrfl9INqxa7qz47B254eU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-2MXIH+IGvTR+bp6pbJvGQhniJQCdJ2UMDYQUSm0RelU=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/shadcn-mcp.lock",
+    "outputHashes": {}
+  }
+}

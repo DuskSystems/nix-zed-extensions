@@ -1,0 +1,19 @@
+{
+  "name": "melange",
+  "version": "0.0.11",
+  "src": {
+    "url": "https://github.com/adorabilis/melange-zed",
+    "rev": "5ab44ec15b8130a3785b1e2f4dd90e44e4029164",
+    "date": "2025-12-04T23:34:34+08:00",
+    "path": "/nix/store/kbn149y8wh353bp9dqjrv5ppmbsfblky-melange-zed-5ab44ec",
+    "sha256": "1ckz6l6p2vxgmrbwp2dvxb7mds8jz435d44l4ka344a14ipl18xb",
+    "hash": "sha256-q6NAbyRBETLUJJSQVgb5EulWz+q7ictXrq9vcQ01f7I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

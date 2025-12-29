@@ -1,0 +1,23 @@
+{
+  "name": "cds-lsp",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/doxblek/zed-cds-lsp",
+    "rev": "0b32f81bc35f56499db8140ce22e27296ecaf2cc",
+    "date": "2025-11-24T20:45:38+01:00",
+    "path": "/nix/store/4mylsf3hxp8zbs2723arwcwccqgv8zcn-zed-cds-lsp-0b32f81",
+    "sha256": "1x2is2dky5y0mplsfy4fbjmcvdy9049kpp25cdzqcm9p1pj8d3hz",
+    "hash": "sha256-H46G5A03VYZ/Y0XcOxMBybfNqlyOeKfprcAXP5vQUfQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cds-lsp_cds"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-VjtrZLiiHT+KW9EaCVb+59hatOW+5aDaiV44DkVyl7s="
+}

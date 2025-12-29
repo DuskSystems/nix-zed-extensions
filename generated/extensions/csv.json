@@ -1,0 +1,23 @@
+{
+  "name": "csv",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/huacnlee/zed-csv",
+    "rev": "8d3c12917161220b5738bbdacd51ec247013abe3",
+    "date": "2025-09-04T10:34:31+08:00",
+    "path": "/nix/store/hjq7q5dj6bwr7434553gvqbp6rfd1l4z-zed-csv-8d3c129",
+    "sha256": "1c7mvpyip7acjn3s8zla6pralhfzh5i46l08q2xf4fm5l8syyfq9",
+    "hash": "sha256-CTvvNaKlOuK6wAhQQ2KB30Gq8jWKfqSHlUydG/3d9bA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "csv_csv"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-oUL9bY3SQJfNK+y8/lvkSuAD9iRV0gWxrJKbEoZ7bPE="
+}

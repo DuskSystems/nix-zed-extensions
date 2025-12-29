@@ -1,0 +1,18 @@
+{
+  "id": "luau_luau",
+  "name": "luau",
+  "version": "01eb0b61f8f7efdc1ad4f0ed1bd3cd97be7f60fd",
+  "src": {
+    "url": "https://github.com/4teapo/tree-sitter-luau",
+    "rev": "01eb0b61f8f7efdc1ad4f0ed1bd3cd97be7f60fd",
+    "date": "2025-07-21T13:12:21+02:00",
+    "path": "/nix/store/pjlz2g9pf3s0kwwwz1791j2b5wib172l-tree-sitter-luau-01eb0b6",
+    "sha256": "12hkwnbpwrs8zj6slw1gwa1iw2n6grijzvnginamsrzirzqmhgmb",
+    "hash": "sha256-qz5Y8c/xZ12Vjc/uL2N+xgoeg+IvcKqN/EhnfpflE4o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

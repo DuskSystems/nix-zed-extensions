@@ -1,0 +1,19 @@
+{
+  "name": "cursor-dark-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/loosheng/zed-cursor-dark-theme",
+    "rev": "4c990bc2eb6f3d83ec3e27ce5f59711195457d7e",
+    "date": "2025-04-07T09:03:54+08:00",
+    "path": "/nix/store/4v1w9ir9x2mcr0pwz01h76zkn9639vqp-zed-cursor-dark-theme-4c990bc",
+    "sha256": "0r5ar6dr5s7493xa33vknlavvfvfgv1ghdxp9s733cjsq2mzrgqa",
+    "hash": "sha256-Cr/8q8BasjGOTrc3+MJ+bru9FbVzj6H6SOTokpvJqmQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

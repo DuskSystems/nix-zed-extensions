@@ -1,0 +1,18 @@
+{
+  "id": "soma_soma",
+  "name": "soma",
+  "version": "ca5e63aaf56dc2a8e9039eac08769bd74c90d51e",
+  "src": {
+    "url": "https://github.com/srgaabriel/tree-sitter-soma",
+    "rev": "ca5e63aaf56dc2a8e9039eac08769bd74c90d51e",
+    "date": "2025-12-05T21:53:53-05:00",
+    "path": "/nix/store/4p2lkvy7iilb25xl1h5frkpg8c9a9v0v-tree-sitter-soma-ca5e63a",
+    "sha256": "00kabwfs21yaf4qzcxalaba21mfz7snbfdwfvcb7a1pvszjb69m9",
+    "hash": "sha256-qSaz5Nf7BnUW2443t6w+39Ug1FJUdfYxccoHoR1fagI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

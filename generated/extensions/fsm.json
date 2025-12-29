@@ -1,0 +1,21 @@
+{
+  "name": "fsm",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://codeberg.org/reesericci/zed-extension-fsm",
+    "rev": "a38e07df9086c0eac220c509a0403dee0eeb6021",
+    "date": "2024-10-04T07:40:11-05:00",
+    "path": "/nix/store/1p6gmgr4gciv4fg6kca91yj0ys7j0jki-zed-extension-fsm-a38e07d",
+    "sha256": "1kylb9rd57kb66dwi4h6ykr9331i6v4x3brwjvf532qh2f2xmcm8",
+    "hash": "sha256-qLLahRMQi1Hcljyv0ck2MYyR8vQGksibMWue0nJa1M8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fsm_fsm"
+  ],
+  "kind": "plain"
+}

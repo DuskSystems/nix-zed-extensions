@@ -1,0 +1,27 @@
+{
+  "name": "bluespec-systemverilog",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sandytruant/zed-bsv",
+    "rev": "63d40b87e34744426bb92012043eb5df3785fa18",
+    "date": "2025-11-20T18:54:48+08:00",
+    "path": "/nix/store/0symscix9f6qwb83xw4w5s0ls01ll901-zed-bsv-63d40b8",
+    "sha256": "0w4q900xn8dsdvw2ckr0l5mjay7572ygdsm1wfcdxqdqzqld256n",
+    "hash": "sha256-1hTRKP644d6Y46Hq9rw45Xgla6EgTyb4broh2wFImHA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bluespec-systemverilog_bsv"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-j4RnRyJzTuMIstp5psgv9SHQjwzuNVKyIR7eTaPG2uk=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bluespec-systemverilog.lock",
+    "outputHashes": {}
+  }
+}

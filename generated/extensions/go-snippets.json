@@ -1,0 +1,19 @@
+{
+  "name": "go-snippets",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/ayberkgezer/go-zed-snippets",
+    "rev": "fa6dc6fa6d6bc55e1b08dec536074eb94b05eb94",
+    "date": "2025-11-22T22:39:38+03:00",
+    "path": "/nix/store/5rxi28vc8bv03pmh7i58d7pzzl6r5g42-go-zed-snippets-fa6dc6f",
+    "sha256": "0jy01pf98zhiagfi66p94pkf3zilp7ma1h8gnykvd2q2bfy0czwf",
+    "hash": "sha256-jn8GvFsCi7antw/BoOq5NP7h5iXpGhPdUxF+lNwNwEs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "jsonl",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/vim-zz/jsonl-syntax-zed",
+    "rev": "c209a4fb78c6cc4c5a23b0cb845d4a6a9855127f",
+    "date": "2025-09-25T10:09:47+03:00",
+    "path": "/nix/store/f5rggb3lb6viikavjm58y38v2aszygpp-jsonl-syntax-zed-c209a4f",
+    "sha256": "0n2s2zfd03pfzxwdq5pz6gxs7hz6ga7270zh73qggn8jy3ynwmcf",
+    "hash": "sha256-jlVu/fAS2ffwOPCDI4565sOj+zP/Ftx4/+4O0NwXWlg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jsonl_json"
+  ],
+  "kind": "plain"
+}

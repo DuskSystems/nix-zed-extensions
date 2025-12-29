@@ -1,0 +1,19 @@
+{
+  "name": "blackula",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/JacobCoffee/blackula",
+    "rev": "f887115dfad9c75fe31013fd078f628691a16307",
+    "date": "2024-04-19T22:29:25-05:00",
+    "path": "/nix/store/3aynxj8i8n7xpp8i2ryhwv79xad49p0b-blackula-f887115",
+    "sha256": "1xal9jkf1bxm80d9yck85wj9giskaj2pa79q6j95n079n20jv86i",
+    "hash": "sha256-0aAtgbDpAFuSNDgddYVUU8eXJC9oMp8aQLWv4KZMVPU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

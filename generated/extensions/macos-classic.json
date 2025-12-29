@@ -1,0 +1,19 @@
+{
+  "name": "macos-classic",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/huacnlee/zed-theme-macos-classic",
+    "rev": "3d52bff400a8e0b6e6bc145760f9bec03f7c20fa",
+    "date": "2025-10-02T15:18:37+08:00",
+    "path": "/nix/store/xrafln72blasipjpnkb9didb5yy0hh5v-zed-theme-macos-classic-3d52bff",
+    "sha256": "1zfy4v72zh7diffmfi4dcwigk4yqbvgbicniq1kr41gsiaa74v7l",
+    "hash": "sha256-9GxylIr6BZJnwNGyuN5e2JP5ImeNRFedi+3AL84m3v0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "motoko",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/perforate-org/zed-motoko",
+    "rev": "2a59dc64c6b23029ac547726d6250918f4490f40",
+    "date": "2025-11-24T20:05:05+09:00",
+    "path": "/nix/store/jh1f2qs47abgcj0g0r867hwwkbnwvan7-zed-motoko-2a59dc6",
+    "sha256": "12fckhm4z0rmh5jdshfm71wymzi6dck5q92pz942j2spy1fps26f",
+    "hash": "sha256-zgh9XfBXCylI+lckXCZrJv7qeTjVQd1kgTWDTyqczIk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "motoko_candid",
+    "motoko_motoko"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wjarURhqWB7TqK0hoZz0ATDIlDhZbyFQIuBqZ5pKxtk=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/motoko.lock",
+    "outputHashes": {}
+  }
+}

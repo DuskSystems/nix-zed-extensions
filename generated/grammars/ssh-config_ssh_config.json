@@ -1,0 +1,18 @@
+{
+  "id": "ssh-config_ssh_config",
+  "name": "ssh_config",
+  "version": "0dd3c7e9f301758f6c69a6efde43d3048deb4d8a",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-ssh-config",
+    "rev": "0dd3c7e9f301758f6c69a6efde43d3048deb4d8a",
+    "date": "2024-12-28T18:41:29+02:00",
+    "path": "/nix/store/r08awlgmy4dnxpk7imm4fm2iy8j8147g-tree-sitter-ssh-config-0dd3c7e",
+    "sha256": "16r9i6k7kg387if0mz3s3n7p6cr6knvz1rj27h8k474zfdq7vl4c",
+    "hash": "sha256-jNB9cHOfHDIRPELm8LedJjNzjx16/ApcPGi8eaaJKZs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

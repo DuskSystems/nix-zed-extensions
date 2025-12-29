@@ -1,0 +1,21 @@
+{
+  "name": "confluence-context-server",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/mouhamadalmounayar/confluence-context-server",
+    "rev": "ea432c0165d910834c9d3c3e8127be9c404f7e3f",
+    "date": "2025-01-16T15:00:20+01:00",
+    "path": "/nix/store/l24kxfx9s17bpqm74jah55nhiwqzyw5s-confluence-context-server-ea432c0",
+    "sha256": "046mih4k8kpk3yhkha5wa9nb8aj18fyfkmrlk4yksis47b352azx",
+    "hash": "sha256-/StRxjpERz09mTTX6bxDQSq0bFK8KDihH/NONAmM1RA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-LflqoElJVMAcrio+xHU0/IpvfecuEFjOuS8v4LEcJ7k="
+}

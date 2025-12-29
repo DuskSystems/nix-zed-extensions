@@ -1,0 +1,18 @@
+{
+  "id": "awk_awk",
+  "name": "awk",
+  "version": "ba7472152d79a8c916550c80fdbfd5724d07a0c9",
+  "src": {
+    "url": "https://github.com/Beaglefoot/tree-sitter-awk",
+    "rev": "ba7472152d79a8c916550c80fdbfd5724d07a0c9",
+    "date": "2024-03-13T16:57:56+03:00",
+    "path": "/nix/store/m49cblqf763h5126wnfkp3d533vggb1h-tree-sitter-awk-ba74721",
+    "sha256": "0nvq5v1pklh31jhvzi67killbscisk3hgvzmcia0zbcx03vxs2nb",
+    "hash": "sha256-ywrd9wCdrQ9UZPXvB8fUkelFaZzHxL+hDAPSecMueFs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

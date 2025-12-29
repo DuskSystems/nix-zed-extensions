@@ -1,0 +1,18 @@
+{
+  "id": "rescript_rescript",
+  "name": "rescript",
+  "version": "d2df8a285fff95de56a91d2f8152aeceb66f40ef",
+  "src": {
+    "url": "https://github.com/rescript-lang/tree-sitter-rescript",
+    "rev": "d2df8a285fff95de56a91d2f8152aeceb66f40ef",
+    "date": "2025-03-03T20:38:35-03:00",
+    "path": "/nix/store/2h0a0afxx2s0y8ab2y3wzhkxd7j7mgw7-tree-sitter-rescript-d2df8a2",
+    "sha256": "07fr71ahnn5ncg1akp6lwl4mkxxaaa4sysj6pg5xn13q3656pmn8",
+    "hash": "sha256-yNZrihl4BNvLu0Zqr4lSqvdZCeXU3KnCY7ZYC1U42R0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

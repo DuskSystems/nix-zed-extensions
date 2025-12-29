@@ -1,0 +1,18 @@
+{
+  "id": "svelte_svelte",
+  "name": "svelte",
+  "version": "3f06f705410683adb17d146b5eca28c62fe81ba6",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-svelte",
+    "rev": "3f06f705410683adb17d146b5eca28c62fe81ba6",
+    "date": "2024-09-13T11:08:50+09:30",
+    "path": "/nix/store/1xniridx4v9nkwrfcyiisxi8zgx401z4-tree-sitter-svelte-3f06f70",
+    "sha256": "0w9i2gnbk7rf08x2blb7cp4r1p4zhhlpgbna4qqzr3831lhjma58",
+    "hash": "sha256-qKgqIQ0DjfwxJsqudymEn9yQyWVn0SU6Ai6fuewTMXE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

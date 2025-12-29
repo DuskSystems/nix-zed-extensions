@@ -1,0 +1,21 @@
+{
+  "name": "github-activity-summarizer",
+  "version": "0.5.2",
+  "src": {
+    "url": "https://github.com/rubiojr/gas",
+    "rev": "0c18bcce328fd96748c7d60e7a9af4d0318c82a9",
+    "date": "2025-09-30T08:31:29Z",
+    "path": "/nix/store/bfdr2wgxp0zrmvi54i4y5gy67z3l1pb6-gas-0c18bcc",
+    "sha256": "0acnmai68ip77z2fy6ip8bm8jfxlf21gbdwffs7z1h9767wbmfb9",
+    "hash": "sha256-abm6+DEnwfCPdo639YJwtDuJ6kI3Gu/EP+dGZKKqlik=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-GtLQxxE8+um0Vj+5g1z0zFvpnWH+RLli6+PnCcJLHFk="
+}

@@ -1,0 +1,23 @@
+{
+  "name": "just",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/jackTabsCode/zed-just",
+    "rev": "e14f689c9b7fe06bc3c25cda07b590f28482d5f1",
+    "date": "2025-12-14T14:50:47-05:00",
+    "path": "/nix/store/4i9zr867pl8r3qax19x3m7q8bs11698v-zed-just-e14f689",
+    "sha256": "0sp2xraba0pcz4255w8wfl779hli0scrkjrd9isrbd06500yik0v",
+    "hash": "sha256-G8zoASgGtJV1TC3LmZkGkcJ0DnUc8VIE+ewCtVTu4mo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "just_just"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-44bA6nWuN0fZMBjvABhwpzkvBbbt+L3yX8gVFNVsCW8="
+}

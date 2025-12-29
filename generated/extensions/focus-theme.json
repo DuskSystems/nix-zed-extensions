@@ -1,0 +1,19 @@
+{
+  "name": "focus-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jigyansunanda/focus",
+    "rev": "18f71c95651ac3aaa019bcacf4377c44dfab7b8a",
+    "date": "2024-07-13T06:19:49+05:30",
+    "path": "/nix/store/99jl8m2rq15169pn1j3ax7fvcw0s7paw-focus-18f71c9",
+    "sha256": "1bv234ly3j7nxz7cbvhim2qqp2v8j5q375jmj7iw5fc2p6wk5z9d",
+    "hash": "sha256-Lf0yubmCucLjkVWWM3CRaIuLsagR7sXO7/bI4SkZYq8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

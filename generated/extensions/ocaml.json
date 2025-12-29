@@ -1,0 +1,28 @@
+{
+  "name": "ocaml",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/zed-extensions/ocaml",
+    "rev": "044860d2138547f97d4f6a64fe0ad5791e1b14c5",
+    "date": "2025-12-15T23:10:55Z",
+    "path": "/nix/store/simh7l4ksjib7bqlkb38994ymvln9x62-ocaml-044860d",
+    "sha256": "0havbrskqa6gqg0f4x6snn3m5ga6vpc4hfnqz8bh5x210n4l2wz0",
+    "hash": "sha256-4HNBiQVB9AIX+tg6SNjdRr1Sh7XadOLAw88oPHVeW0E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ocaml_dune",
+    "ocaml_menhir",
+    "ocaml_ocaml",
+    "ocaml_ocaml_interface",
+    "ocaml_ocamllex",
+    "ocaml_reason"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-n1qdUqLD4FgK6nljAKgK5AenSD9D+1EU7QyxanLmNew="
+}

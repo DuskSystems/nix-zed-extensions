@@ -1,0 +1,23 @@
+{
+  "name": "rpmspec",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mtorromeo/zed-rpmspec-language",
+    "rev": "750cf24ac3aad639994a4f8882a5f2eb516fdb63",
+    "date": "2024-11-08T15:32:22+01:00",
+    "path": "/nix/store/6vwvb1rxdym87qsha0njjvxd5v58jqp5-zed-rpmspec-language-750cf24",
+    "sha256": "1s7mn3f5lykwmnfm65924qakbczcmxd3pizafz7r6bmhxqnh7wa4",
+    "hash": "sha256-RPEDLe6wLpPPd+rHO1qv7LM1FSYiFVOdrXx6Wtyw9eg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rpmspec_rpmspec"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lOGl5OD20zSNS/XY0lemXbbbB17e9lNWt5cLavmzYQc="
+}

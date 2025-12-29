@@ -1,0 +1,18 @@
+{
+  "id": "conl_conl",
+  "name": "conl",
+  "version": "8ee41b7b58184bcb4420b463d656ce269da25380",
+  "src": {
+    "url": "https://github.com/ConradIrwin/tree-sitter-conl",
+    "rev": "8ee41b7b58184bcb4420b463d656ce269da25380",
+    "date": "2025-07-10T00:08:09-06:00",
+    "path": "/nix/store/mfkwl4xzji6glnvsbdvsshi3ryyibqyq-tree-sitter-conl-8ee41b7",
+    "sha256": "190qmb0gp7hyfigdx94bakg6hkyr7vf6advc29xx9dghlcslx624",
+    "hash": "sha256-RJhONaPwtdR7Emw3Zdw+2U9o3lSLpN5edB6e+8CqGKQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

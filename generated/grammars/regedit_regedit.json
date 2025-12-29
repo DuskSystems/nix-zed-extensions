@@ -1,0 +1,18 @@
+{
+  "id": "regedit_regedit",
+  "name": "regedit",
+  "version": "a3dd844fc0569769404bb235e6d85b97abcdfd65",
+  "src": {
+    "url": "https://github.com/JasonGH17/tree-sitter-regedit",
+    "rev": "a3dd844fc0569769404bb235e6d85b97abcdfd65",
+    "date": "2025-11-23T13:32:44+02:00",
+    "path": "/nix/store/r6164j0wlmdpwgbfpj00qm1my6y73scs-tree-sitter-regedit-a3dd844",
+    "sha256": "1j90wirjzq0ifwrjdzjbv34cz3h3lg1wqy5cqqs3hilln2w13wll",
+    "hash": "sha256-lPIRuLCURjg0xqx4zMOjA47PyNhL/iYzdxHgL3PkIMk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

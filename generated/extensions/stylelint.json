@@ -1,0 +1,21 @@
+{
+  "name": "stylelint",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/florian-sanders/zed-stylelint",
+    "rev": "96015ec447f9dd60516e140d9eae5a2321c58414",
+    "date": "2025-12-06T19:51:27+01:00",
+    "path": "/nix/store/ffjr27b63rg5xxvgb86h54kjzcjp6xry-zed-stylelint-96015ec",
+    "sha256": "0rsn06iq40sm011m0gxk6cbpxk9pm15zpvgvyg88m3l9i9rx1wkq",
+    "hash": "sha256-ePLQc4qJjorQ8/vt+0uoN81+FzOzP1BDAFUDgqMBVmc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-cH4sHWYB8csoelTa5bWuw4lX2UAZCadwFtSJ0pqq+oI="
+}

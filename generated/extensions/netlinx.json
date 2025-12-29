@@ -1,0 +1,23 @@
+{
+  "name": "netlinx",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Norgate-AV/zed-netlinx",
+    "rev": "45f9b53c55ec2eb6bdbd115a896e95edcd9dac02",
+    "date": "2025-11-24T22:50:25Z",
+    "path": "/nix/store/5q6m7nvy5blc55qfv464g3w4qfdn01sd-zed-netlinx-45f9b53",
+    "sha256": "0m0d1x7vjdrh2i2zqnxyxiw3kijlmkqqa5w514nmqh13r27sivfh",
+    "hash": "sha256-0O2oj8gjQFwtCYUXhfGsVMY5eOy+W/xFFDA3uU8PDVQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "netlinx_netlinx"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/E95ATeBIhSlyL38G1izmwUdppiSXBNCCZHhDXSQowg="
+}

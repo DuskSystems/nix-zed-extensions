@@ -1,0 +1,19 @@
+{
+  "name": "carbonfox",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/harrisonablack/carbonfox-zed",
+    "rev": "f1de666b30bb575eb27dcf4ce5faa8f7dc955496",
+    "date": "2025-09-07T18:22:44+10:00",
+    "path": "/nix/store/h9y2lmk2qczkhdfj88nz0xb3ydiyry8v-carbonfox-zed-f1de666",
+    "sha256": "15wjzb9b93hpmvwpzhcprx8ffycp4p8dh32g78764anarr46gncf",
+    "hash": "sha256-jtlnSM7KKmIOOk8M2NAll3nnUM+XwX/5rheOtNL6kpc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "city-lights",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/DP19/zed-theme-city-lights",
+    "rev": "1a6eb4108781a504756ba11a67e1875758d88a26",
+    "date": "2024-06-07T08:49:55-04:00",
+    "path": "/nix/store/lpw5dn7mjc4h8vgc1646cnq6gpm7agmr-zed-theme-city-lights-1a6eb41",
+    "sha256": "0lvva0575g3dpx0b4nkdx46p3mxqddy4z4wf389089hk7j8xjvm0",
+    "hash": "sha256-oG7ZkTwTJgQSGo6TT3xruNdxDeltWrJAv228cgpQe1M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dark-discord",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/zangetsu02/zed-discord-theme",
+    "rev": "77aa57422df065600833baa55d084a3de1a44304",
+    "date": "2025-10-29T21:17:22+01:00",
+    "path": "/nix/store/8fnkbnv65g75xrf5js5hmz0krw37mmqq-zed-discord-theme-77aa574",
+    "sha256": "17aalqc5h6xw6f7hibkgvz2lfpvvfv48gymz1jw5n41s8fbd66rn",
+    "hash": "sha256-NhvTlkM6EFu4DL/6h8h2e19Hxd9vrgiPM7wbWBimSp0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

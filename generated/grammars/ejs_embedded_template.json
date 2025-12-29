@@ -1,0 +1,18 @@
+{
+  "id": "ejs_embedded_template",
+  "name": "embedded_template",
+  "version": "aa0fa1e3bef95c192b2c7c4f527ed41a1dd8363b",
+  "src": {
+    "url": "https://github.com/dangh/tree-sitter-embedded-template",
+    "rev": "aa0fa1e3bef95c192b2c7c4f527ed41a1dd8363b",
+    "date": "2024-07-18T23:22:11+08:00",
+    "path": "/nix/store/majy869ix455hlmqrqk7ywbcmlwl0snl-tree-sitter-embedded-template-aa0fa1e",
+    "sha256": "102a92yjv7dzbgy4z8lziz9m5yq4jimif54ami6yjmkw4vz4jqq3",
+    "hash": "sha256-A2NJ/iZ8VulNrIoUF2uUBPtS04+fok/8W7+dLb1ISoA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

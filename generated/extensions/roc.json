@@ -1,0 +1,27 @@
+{
+  "name": "roc",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/h2000/zed-roc",
+    "rev": "52219d6734eaef3fc3a0b84dab838695000a0399",
+    "date": "2024-06-30T22:24:29+02:00",
+    "path": "/nix/store/1hkclv89fl3vns74b931q0chf37zarzs-zed-roc-52219d6",
+    "sha256": "00v9iybj6lw3rwpla8nq9yi8bkz5h3bkg81pfgwk7f3dq9rincrm",
+    "hash": "sha256-NTMbc8JtuDP5czegN9eA5c+Fok/YIkUvz4NTI5ePaQM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "roc_roc"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-s0EAKW2NBk/YYkZsp2Zw9+yqgeeyxAl2y0JekQTTvQo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/roc.lock",
+    "outputHashes": {}
+  }
+}

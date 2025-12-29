@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-context7",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/akbxr/zed-mcp-server-context7",
+    "rev": "c6b427cff4bc5c36df15533ea64608cb47ab81ff",
+    "date": "2025-09-30T08:06:04+07:00",
+    "path": "/nix/store/4z27w3757w5461pifgfxkxf6zlqs8175-zed-mcp-server-context7-c6b427c",
+    "sha256": "0nbxw8q3cdshi9l1mrmash5ad595k8w6i9nvlz6rqqis3v9klmkn",
+    "hash": "sha256-dlY60x46YpzNp9umaDiaJZWmCtSq5hpoilA3NjDifVk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-xIZD8F1Cj9XBLKHU2Ct5aleBWJ6QWT1aBK5bV2/Dmtc="
+}

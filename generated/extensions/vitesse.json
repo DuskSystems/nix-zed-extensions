@@ -1,0 +1,19 @@
+{
+  "name": "vitesse",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/d1y/vitesse.zed",
+    "rev": "181be37730d4939bdd2d24052ba65ec9b6242359",
+    "date": "2024-09-14T17:44:24+08:00",
+    "path": "/nix/store/6innljv7b7a1bmc4xlaf0kvd4y1a7jjs-vitesse.zed-181be37",
+    "sha256": "000gg5bzg7n962zxichqpnacmksk6ycjqxrdxpsk12m5vp30w7a8",
+    "hash": "sha256-SB0Oxt2lijD17S13LJk3U8/KlL0Ysti/MMme91d5DwA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

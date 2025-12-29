@@ -1,0 +1,23 @@
+{
+  "name": "conl",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/ConradIrwin/zed-extension-conl",
+    "rev": "82217075524bc21dbb10f3ecf0502f05042b8308",
+    "date": "2025-07-10T00:12:59-06:00",
+    "path": "/nix/store/wjqgcg52zisidbzilvmr4fkl75v1msnq-zed-extension-conl-8221707",
+    "sha256": "1sib13rlh1vnr7mqh180wppki0ijwicw0mk04lwdj5ga91yvl7hx",
+    "hash": "sha256-HR66fUjqFdk4JWBWwFnkMoI47+UABYjryXYHSPMIK+o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "conl_conl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yeujH39v5b1PF0dW9CtmeZ8mHKf9Rqw7ZWAvBMp1EGw="
+}

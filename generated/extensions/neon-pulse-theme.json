@@ -1,0 +1,19 @@
+{
+  "name": "neon-pulse-theme",
+  "version": "2.1.0",
+  "src": {
+    "url": "https://github.com/ArnoldWW/neon-pulse-theme",
+    "rev": "4ccbab1368ede44e0a70e1f18b132bc2abd58b82",
+    "date": "2025-10-17T19:03:23-05:00",
+    "path": "/nix/store/iv141gmvf446jmjpp8ga58igf978xh0j-neon-pulse-theme-4ccbab1",
+    "sha256": "0whglqscla6rrf294sjlhwp2vpd03v4brqda3m0w25lifxfb70sa",
+    "hash": "sha256-SoOzXHeRFsFBHarhvMgeoN0tLodUapKEy9koyjSmD3I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

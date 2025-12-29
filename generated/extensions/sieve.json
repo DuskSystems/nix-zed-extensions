@@ -1,0 +1,27 @@
+{
+  "name": "sieve",
+  "version": "0.1.7",
+  "src": {
+    "url": "https://github.com/aRustyDev/zed-sieve",
+    "rev": "69630a685da576b1959ce7e426f5c7c61e05383b",
+    "date": "2025-06-09T13:50:50-04:00",
+    "path": "/nix/store/q3z7amyi3z9rf2lwaw9d9s22cphk2fff-zed-sieve-69630a6",
+    "sha256": "0yxngzw5vr9cj7amabhb7gjcj48a9vvm2shmfrmyjxjh79lqlcfr",
+    "hash": "sha256-2TGKaTpQdulrdhVqUfdOChHJ5DsLLlXVkSzlXfh/tns=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sieve_sieve"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-GkXG6XDcyKAdaNYTTtGJNooLJ05AHU/+zZa1L4eKQVA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/sieve.lock",
+    "outputHashes": {}
+  }
+}

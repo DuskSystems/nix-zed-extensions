@@ -1,0 +1,27 @@
+{
+  "name": "devicetree",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/anikinmd/zed_devicetree",
+    "rev": "a8cc6baba694c8344e987d9afef21469c2abe962",
+    "date": "2024-09-21T22:19:23+03:00",
+    "path": "/nix/store/z9rwrvrn1gmlvr146hnd3m4zd1alvg54-zed_devicetree-a8cc6ba",
+    "sha256": "1y2hja74r6niaz7z0mxrn924vk7a297x9zsfb2p37zi33ql9s2i7",
+    "hash": "sha256-JwqdKB4j/jOuWE7/1E8S6sxNRLK5V/DPV9GaTI6SUPg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "devicetree_devicetree"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0Wj+z+GnEOQAbS0V63hoYrerJZoCRnRafT7u6xEGaro=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/devicetree.lock",
+    "outputHashes": {}
+  }
+}

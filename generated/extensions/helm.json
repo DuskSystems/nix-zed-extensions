@@ -1,0 +1,27 @@
+{
+  "name": "helm",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/cabrinha/helm.zed",
+    "rev": "90f81015a2040b4e4d8647a40ea03d01aa84add7",
+    "date": "2025-08-26T12:03:49-04:00",
+    "path": "/nix/store/j1l6df0jvq4nr0jjkj7p85rnbxh2x75i-helm.zed-90f8101",
+    "sha256": "10c9pkkrldh6ylqq641d8qs0h8xg0h7yzfdlfbsgcqssby6vi7s0",
+    "hash": "sha256-QJ+4jV9aY/b0crS57w8EryMINEYtEIMx9QY2mue8iYE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "helm_helm"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-aThwLofyDl1PRq55IaDwYfbR2dnIU6MNelCE6Yq0nmQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/helm.lock",
+    "outputHashes": {}
+  }
+}

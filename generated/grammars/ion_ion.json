@@ -1,0 +1,18 @@
+{
+  "id": "ion_ion",
+  "name": "ion",
+  "version": "e5efe62c4570c046ce30233246f800a17ff2150c",
+  "src": {
+    "url": "https://github.com/tartarughina/tree-sitter-ion",
+    "rev": "e5efe62c4570c046ce30233246f800a17ff2150c",
+    "date": "2025-10-04T22:42:02+02:00",
+    "path": "/nix/store/gv5li6g9s99vc07zzjwjhpa2wgih4qas-tree-sitter-ion-e5efe62",
+    "sha256": "1h78rh9pw7y43aidcpm9q05vn64syrm8r51imy8jwsyr3c64vbh9",
+    "hash": "sha256-Ca5NDBvZay6RrzGUjGr2mhi7C8CpXtaiGsQffhPM6MA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

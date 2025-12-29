@@ -1,0 +1,19 @@
+{
+  "name": "noctis-port",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sidwachche/noctis-port",
+    "rev": "96beab7d33784deb09e2047c69296d0302b50c7a",
+    "date": "2025-07-26T17:18:42+05:30",
+    "path": "/nix/store/gcfd01mdqb8i05mrxxy5z97v8vr6rzsy-noctis-port-96beab7",
+    "sha256": "141qjc9vi1fwgwf0x9jsqaw06qzlg93hf7bzr9ah9x4lrgbfd7hj",
+    "hash": "sha256-Ep7m1suU9ARVyn8dB0d69GMDuMJapg4cf9yFuBOTOJA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

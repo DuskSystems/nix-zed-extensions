@@ -1,0 +1,22 @@
+{
+  "name": "quarto",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/prefrontal-systems/zed-quarto-plugin",
+    "rev": "6e0b57e7d91b0e1fb1d556495fd656eaa823d305",
+    "date": "2025-11-20T21:53:10-05:00",
+    "path": "/nix/store/1bcay39fxj0b1gx0w1zwlp2wv7wmjykx-zed-quarto-plugin-6e0b57e",
+    "sha256": "1rmw3p0g3ibx59rd70abw6v9vnfdjbxlvq2qmwy9v7fzgdpkj6yh",
+    "hash": "sha256-0Bs5b3vfnZ08r1jgTfuSzdmdtuFLgdNyKn3F8cAdvOY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "quarto_markdown",
+    "quarto_markdown_inline"
+  ],
+  "kind": "plain"
+}

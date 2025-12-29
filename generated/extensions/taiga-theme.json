@@ -1,0 +1,19 @@
+{
+  "name": "taiga-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/joshdales/taiga-theme",
+    "rev": "95e6b3f9ed777a3e84b9aed82c15617702afd55b",
+    "date": "2025-11-03T17:49:09-05:00",
+    "path": "/nix/store/ayl6rs71ai76m67xf9q0954zagwr804z-taiga-theme-95e6b3f",
+    "sha256": "0q5p0538ldg8bvf2vd5yd6q5wszrxi49h2635fmdlj7iygmy73ya",
+    "hash": "sha256-yo/j6/PxSNqqK8MImEjs+WtesGm+tC3cXug1ikYBt2A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}

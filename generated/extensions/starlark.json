@@ -1,0 +1,24 @@
+{
+  "name": "starlark",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/zaucy/zed-starlark",
+    "rev": "54baaa7bb5a78f3a39425b3a83db0bc80aa832fb",
+    "date": "2025-05-19T15:44:04-07:00",
+    "path": "/nix/store/c6wzhc8g6qkiaw2b88kxpdhpr778f1rj-zed-starlark-54baaa7",
+    "sha256": "091hdiy01d2786d1624yjcqrcsbddsq93xlzqsx1gv33fsais6qz",
+    "hash": "sha256-HxsdlXZj7Be6xp/2kbBubWmWMZOeCBOaQUe0AHxsMCQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "starlark_bazelrc",
+    "starlark_starlark"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-p4A3R8Q0l7hYyf0U4Lbuy8Sx/Y54HAzcDOMC7rjLvbc="
+}

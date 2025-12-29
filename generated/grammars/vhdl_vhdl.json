@@ -1,0 +1,18 @@
+{
+  "id": "vhdl_vhdl",
+  "name": "vhdl",
+  "version": "a3b2d84990527c7f8f4ae219c332c00c33d2d8e5",
+  "src": {
+    "url": "https://github.com/alemuller/tree-sitter-vhdl",
+    "rev": "a3b2d84990527c7f8f4ae219c332c00c33d2d8e5",
+    "date": "2022-01-08T22:53:25-03:00",
+    "path": "/nix/store/qp0m1yzljxvyyyf5xv9j4mhzx2p8nsmw-tree-sitter-vhdl-a3b2d84",
+    "sha256": "0gz2b0qg1jzi2q6wgj6k6g35kmni3pqglq4f5kblkxx909463n8a",
+    "hash": "sha256-CtlhSAKp90nXLI5g+vAd0dZZxjPTyMcNFvHL8DBY4j8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

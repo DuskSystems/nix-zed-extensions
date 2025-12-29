@@ -1,0 +1,21 @@
+{
+  "name": "tcl",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/richnou/kissb-zed-tcl",
+    "rev": "1d4079f112ee469bf63abd9efe3008f01af91d45",
+    "date": "2025-07-09T21:17:15+02:00",
+    "path": "/nix/store/bi7cz3lgy56z14bm7k4m08yhanhq48vc-kissb-zed-tcl-1d4079f",
+    "sha256": "1hhgnbriz8fn47jl6nnb8g01cbmdnb4cxw6129hmqd1nbq6cyy86",
+    "hash": "sha256-BnnPDF42NFxhEsHwzsiyrS4WwEPLWkPlIdahH/OyD8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tcl_tcl"
+  ],
+  "kind": "plain"
+}

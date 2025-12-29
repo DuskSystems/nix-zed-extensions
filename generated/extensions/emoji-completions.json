@@ -1,0 +1,25 @@
+{
+  "name": "emoji-completions",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/ahockersten/emoji-completions-zed",
+    "rev": "ddcd74ca832ba30f3f4ebacb9abb31dd0fe1f9d2",
+    "date": "2025-11-27T19:28:13+01:00",
+    "path": "/nix/store/g2wyhd05r0kbivvv8d9m1rq4q9kmzv6b-emoji-completions-zed-ddcd74c",
+    "sha256": "03g7anjmr1q1fnf7acifmannrj0gdd3920yss4hg9mdlmh4z4970",
+    "hash": "sha256-4CTyCay01fQg0doDkUZrD8hsraouMnWcdQGHXKVV5w0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-GhnzJg7oDm/sc9oiR7L8ZOm3lGMYvwVa6XeieeSQgH8=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/emoji-completions.lock",
+    "outputHashes": {}
+  }
+}

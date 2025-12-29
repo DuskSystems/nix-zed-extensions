@@ -1,0 +1,24 @@
+{
+  "name": "rainbow-csv",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/weartist/zed-rainbow-csv",
+    "rev": "a9da93c89128a4e1f2b5afe2816d60e1baaabdcd",
+    "date": "2025-09-06T12:10:00+08:00",
+    "path": "/nix/store/djf471sc7jkjc07iakfl4xdxjjkc9sgp-zed-rainbow-csv-a9da93c",
+    "sha256": "1ravqgjijznnlsrgkgqzxnry86ci02dl38slk5zm2wz4gl5ql4bw",
+    "hash": "sha256-fBGKC33kc1F/mVSjQZsAkRnks+0fv/myptZ+GeXDW+U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rainbow-csv_csv",
+    "rainbow-csv_psv",
+    "rainbow-csv_ssv",
+    "rainbow-csv_tsv"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "seti-icons",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/d1y/zed-seti-icons",
+    "rev": "b69b82c8351460d091cff9d4f17a8e307b597585",
+    "date": "2025-05-06T19:23:49+08:00",
+    "path": "/nix/store/82jd9pgzw2gzpl2ng4svfflzd7gp1h8j-zed-seti-icons-b69b82c",
+    "sha256": "11r8mfvivk1jn8pm3lwyjs6lgfhcscdc9bpkhi0d243ny8n13xga",
+    "hash": "sha256-6vURLPJ2ENFAhPOuxBrTDLpHjZae01EvsjLMHberKIc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

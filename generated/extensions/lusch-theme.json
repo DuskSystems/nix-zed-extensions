@@ -1,0 +1,19 @@
+{
+  "name": "lusch-theme",
+  "version": "0.6.1",
+  "src": {
+    "url": "https://github.com/biaqat/lusch-theme-zed",
+    "rev": "cb9c1fdfbb672a92ad9cf799f7d31fd852ab1b88",
+    "date": "2025-02-25T21:46:22-05:00",
+    "path": "/nix/store/9ljqkr330jnmmh3jj8gvq94gq3klb25g-lusch-theme-zed-cb9c1fd",
+    "sha256": "156rcmg7px58s3xh88yf8pm8q6k4wzrscdwbi9lglkz2yjfqgvsm",
+    "hash": "sha256-Ve+HnfTiT/poios3pvPnZBqM6kXOIwT70Kj0e15l2ZQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

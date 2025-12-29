@@ -1,0 +1,19 @@
+{
+  "name": "nordic-nvim-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/kislikjeka/zed-theme-nordic",
+    "rev": "01e36542cc2687cdf3c62b585ca95de996d9593a",
+    "date": "2025-03-06T09:03:34+02:00",
+    "path": "/nix/store/6zra1f8i6av78g5sfvyrmmda3c0mhxix-zed-theme-nordic-01e3654",
+    "sha256": "1mi7381hwb8iqq8h8sr2lyxzm50cmp8fi39bn7pn710qiam97zkn",
+    "hash": "sha256-dv6TqooYhGPvsSuN6NCtDJT6u6ciawQRxhEtDgMaJ9Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

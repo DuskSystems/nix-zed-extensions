@@ -1,0 +1,18 @@
+{
+  "id": "git-firefly_git_config",
+  "name": "git_config",
+  "version": "9c2a1b7894e6d9eedfe99805b829b4ecd871375e",
+  "src": {
+    "url": "https://github.com/the-mikedavis/tree-sitter-git-config",
+    "rev": "9c2a1b7894e6d9eedfe99805b829b4ecd871375e",
+    "date": "2023-09-26T13:27:58Z",
+    "path": "/nix/store/4yshpkw39sp9y0lxfjdkg6d80bckd9w8-tree-sitter-git-config-9c2a1b7",
+    "sha256": "0s3i4wh1c9hbgki2ibhkjnqw2rriixa01qpr55khhgsg30338k1v",
+    "hash": "sha256-O0w0BhhPPwhnKfniAFSPMWfBsZUTrijifAsmFiAncWg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

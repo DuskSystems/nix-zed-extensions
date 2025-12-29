@@ -1,0 +1,18 @@
+{
+  "id": "numscript_numscript",
+  "name": "numscript",
+  "version": "3e6b94b241e2bdc17b5f3052fff69e4d345bc2a8",
+  "src": {
+    "url": "https://github.com/bamorim/tree-sitter-numscript",
+    "rev": "3e6b94b241e2bdc17b5f3052fff69e4d345bc2a8",
+    "date": "2025-11-08T14:02:34Z",
+    "path": "/nix/store/qpnbnh4iv7saa5cssvndrzlf4yhbmzhf-tree-sitter-numscript-3e6b94b",
+    "sha256": "0x8lv22sbkdjdqgjrdk5sdhbxxqf0aj66w020ycp50ds9p20rcxf",
+    "hash": "sha256-rrMMxE26gXKZBwJwY6QCDve+YNNltiwfbrLNpYXYFHU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

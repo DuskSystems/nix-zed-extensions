@@ -1,0 +1,19 @@
+{
+  "name": "fleet-themes",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/skarline/zed-fleet-themes",
+    "rev": "73aebd4af6a9bc3e91c0398d573acf3279e61b0e",
+    "date": "2025-03-13T14:22:40-03:00",
+    "path": "/nix/store/ll566ffp38xs28a1zj9rqkhcjf4lkmxv-zed-fleet-themes-73aebd4",
+    "sha256": "1b69lmxbb0929m2mmv6rbrgnsvvib9rf8gpgmylvnayai1y45qc2",
+    "hash": "sha256-guFCfIjKK7upr+8+5HJacW9tX17Z7FpFTSKBtXqlyaw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

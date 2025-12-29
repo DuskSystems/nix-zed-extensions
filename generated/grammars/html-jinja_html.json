@@ -1,0 +1,18 @@
+{
+  "id": "html-jinja_html",
+  "name": "html",
+  "version": "5f47d6608069f4ef35d836dc0083c90733c72810",
+  "src": {
+    "url": "https://github.com/JaagupAverin/tree-sitter-html",
+    "rev": "5f47d6608069f4ef35d836dc0083c90733c72810",
+    "date": "2025-03-16T13:46:53+02:00",
+    "path": "/nix/store/lf1jw39j3kvwxi495qg2qgshxcy0is5q-tree-sitter-html-5f47d66",
+    "sha256": "1kmz48vyarh8j5y0clfaq4scwd0kwrnlfk565wfr30rfckhq4yhj",
+    "hash": "sha256-EnqC4WQug5EdL6ZMR23mEzTONMHKUQZ8kQhm5Tciv84=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

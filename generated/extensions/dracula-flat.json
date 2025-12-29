@@ -1,0 +1,19 @@
+{
+  "name": "dracula-flat",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/WangWindow/dracula-theme-zed",
+    "rev": "5880a60c65d1782389653b1c2e38877e31081c00",
+    "date": "2025-12-20T12:09:54+08:00",
+    "path": "/nix/store/y7a43y2x6h40iswlrd74hyxh7v136xzk-dracula-theme-zed-5880a60",
+    "sha256": "1bzz5i8pi447zcdsj9pl7vyqh1fb9f8l4fx7grg72y3fzl1fmdbi",
+    "hash": "sha256-cbXqAv1ueHFefqc7QpFLywWI/T70Jqkb+4eQeFEs/68=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

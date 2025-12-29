@@ -1,0 +1,19 @@
+{
+  "name": "marine-dark",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/MarineDark/marine-dark.zed",
+    "rev": "a77113f08fe26d5d0ca029f689d6ba93e68fdefc",
+    "date": "2024-07-15T18:33:39+05:00",
+    "path": "/nix/store/g17lb9m0bjik5w2qnd6bkaxdx2zjir32-marine-dark.zed-a77113f",
+    "sha256": "1389bsbj6x0fhrbzh2ijyfhhpa1yvy26capr8jgsi2szfd9vcn74",
+    "hash": "sha256-5Fi2U3Nfi6ifRPkqZoTfPqgLofMyCvhXhg50I5deCY0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "the-best-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Nidal-Bakir/zed-the-best-theme",
+    "rev": "0c0d01ce6969fa2c320f6319250f41b660b5db87",
+    "date": "2025-03-01T01:26:00+03:00",
+    "path": "/nix/store/n0fhrpnjffaq9pq5nzmpnhkypmk8sfvr-zed-the-best-theme-0c0d01c",
+    "sha256": "1hig44z6dll2gvy96yyqvnpfdj6wyj652iswjhr7y482060qv5m5",
+    "hash": "sha256-pZaNgQECEX8ylFxHUYz03Mjmrt3Ye5P8foLSZj4hL8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

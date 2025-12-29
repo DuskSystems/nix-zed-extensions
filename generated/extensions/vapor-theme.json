@@ -1,0 +1,19 @@
+{
+  "name": "vapor-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/felipetesc/vapor-theme",
+    "rev": "68b794b6ffabe6443361d8e3797aa40a6a9e0a04",
+    "date": "2025-01-12T16:51:43-03:00",
+    "path": "/nix/store/9b0jdf56g6i39q6fnh4053d9b70zy2s5-vapor-theme-68b794b",
+    "sha256": "02m118rsdmyiq8qd0m96s45fna53vz01214vcmmvqlnzk8kd23h4",
+    "hash": "sha256-BA7RJprfUrxrZZsEEcDfoyjrCtEmVdAwwtHXpjMKoQo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

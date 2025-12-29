@@ -1,0 +1,27 @@
+{
+  "name": "rego",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/StyraInc/zed-rego",
+    "rev": "7e3f1d5690b6373e41e87324fe2a21885f0e9f05",
+    "date": "2024-06-25T10:43:09+01:00",
+    "path": "/nix/store/4ndnqh3gydqgdhlj3v6wi6bk43yni97f-zed-rego-7e3f1d5",
+    "sha256": "032pjrvm70ab1bfza5rv5dgsll2b96g0bwl7xnfv8hpmn6xhl0bp",
+    "hash": "sha256-dwEKu7H1QrSd7YfyBZ5JS1CqXys7F/XdCkuBU3eWVww=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rego_rego"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-1Y/jzzU2FlBG5ufzPA9xA2gHGqm2vkhfvknlovUxuBI=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/rego.lock",
+    "outputHashes": {}
+  }
+}

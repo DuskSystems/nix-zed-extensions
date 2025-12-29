@@ -1,0 +1,21 @@
+{
+  "name": "stimulus",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/vitallium/zed-stimulus",
+    "rev": "bf72bc87df15302024251b7521dad6bc5fc36fd1",
+    "date": "2025-10-16T19:58:59+02:00",
+    "path": "/nix/store/xsj69r0mxnsdr75iighzmh5iqqnfd1gb-zed-stimulus-bf72bc8",
+    "sha256": "1plimf0mz5m06q6dasdfbrfd261x5lfj65hi2f5g0y85r2jvha6f",
+    "hash": "sha256-zii4pcgFefCKExEWIx0tPRjRXF6uadUMNqCWX4Grkd4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dgXCcDu87ry8nqNMe54vA1hfh1IrD/hs4VefqU9JjnU="
+}

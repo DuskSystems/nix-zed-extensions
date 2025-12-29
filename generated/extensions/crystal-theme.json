@@ -1,0 +1,19 @@
+{
+  "name": "crystal-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://gitlab.com/crystalnetwork-studio/themes/zed-editor",
+    "rev": "4ddfc7e7348c8caa1a5e03457bfab35705c4d3cb",
+    "date": "2024-09-13T17:38:01Z",
+    "path": "/nix/store/6ybnbhcvj2isss6ch7rj0q9mgjq67djk-zed-editor-4ddfc7e",
+    "sha256": "043h3l801gg30m625r9lia9njghr5jhrm48w7fp5v7cck04p14fd",
+    "hash": "sha256-zZFwCZiMnV2uOxyRmqEsGT5pk4o05SJMBeO9ABAdcBA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

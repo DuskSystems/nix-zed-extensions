@@ -1,0 +1,21 @@
+{
+  "name": "crates-lsp",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/appelgriebsch/zed-crates-lsp",
+    "rev": "9eed9e25bb93ccd0192bf94ede1339d4a1045e49",
+    "date": "2025-06-02T22:02:00+02:00",
+    "path": "/nix/store/qdps9g119pp496dnf9bb53vnif5irn9n-zed-crates-lsp-9eed9e2",
+    "sha256": "0kw3y3khzhxnr2iaayg2fv3svdr2n3ij9zz6dcpp9im51h5iaxyh",
+    "hash": "sha256-0HcVCwylxnQva+b/JOOwIretx3bieaWiyLbDD+fwg08=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-rthmmT33gJTSg3nYw7tRKaAshCaBLw2NWKZNqEXeRGU="
+}

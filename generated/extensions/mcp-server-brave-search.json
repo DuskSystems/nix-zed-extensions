@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-brave-search",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/mcp-server-brave-search",
+    "rev": "22c28f4d44be0077dbaac87ca750a7eb1e83f66e",
+    "date": "2025-09-30T11:44:41-04:00",
+    "path": "/nix/store/z42g1kw4nzmjq4ym4ni64l5span8qd2z-mcp-server-brave-search-22c28f4",
+    "sha256": "0g86w61laqvh8kp819kxv0nwyndqf55c0hsh8fzdikjjvd4x6ifn",
+    "hash": "sha256-1kXTSdtSzti+Q1BDwEpxuFnPLdh9poDuRHBjRYPhBj0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7E+FM0LWSzaSqTkVe+cUZ3L6lJyCnwZVMcPaD9+AOM4="
+}

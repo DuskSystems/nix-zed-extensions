@@ -1,0 +1,18 @@
+{
+  "id": "zig_zig",
+  "name": "zig",
+  "version": "6479aa13f32f701c383083d8b28360ebd682fb7d",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-zig",
+    "rev": "6479aa13f32f701c383083d8b28360ebd682fb7d",
+    "date": "2025-09-10T15:37:11+02:00",
+    "path": "/nix/store/pgw9a2cl069f21vnala2jjg41q1g0pmx-tree-sitter-zig-6479aa1",
+    "sha256": "038zbh5mkkq87lzr2cc3kmgisiyx81rrdm2ppzwx3lkn2893mm2g",
+    "hash": "sha256-T9Q6EhJ20tH5v1fUlnNA3UcdX52DMZE/PQjPWQtcHw0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

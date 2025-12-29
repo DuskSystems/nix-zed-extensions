@@ -1,0 +1,18 @@
+{
+  "id": "gren_gren",
+  "name": "gren",
+  "version": "c06e272341363c5d8e19ac34bc7c56258a37e71b",
+  "src": {
+    "url": "https://github.com/MaeBrooks/tree-sitter-gren",
+    "rev": "c06e272341363c5d8e19ac34bc7c56258a37e71b",
+    "date": "2024-10-15T18:05:18-07:00",
+    "path": "/nix/store/wxq0rl0b3qpc0wvcrrdszkgiq7vsc12c-tree-sitter-gren-c06e272",
+    "sha256": "1hh6wzy86frw895fcjn0zykz0fmpyn4ql2ncrr8lbbn52kkby5k7",
+    "hash": "sha256-Zxa/5hTFrkVRzswKion1tzrwp//ASuZKQjw7g/znBsI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

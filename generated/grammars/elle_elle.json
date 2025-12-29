@@ -1,0 +1,18 @@
+{
+  "id": "elle_elle",
+  "name": "elle",
+  "version": "03ed4a2e6f36056975947802e58357686b525db3",
+  "src": {
+    "url": "https://github.com/acquitelol/tree-sitter-elle/",
+    "rev": "03ed4a2e6f36056975947802e58357686b525db3",
+    "date": "2025-11-01T18:17:53Z",
+    "path": "/nix/store/w0m913ygnggic5zyp8mnijb6ik2n7wj0-tree-sitter-elle-03ed4a2",
+    "sha256": "1f4bm92qzpsczq7jw6dg4l40x72l8ym6mvb77iyns4m0dj4c1nn3",
+    "hash": "sha256-w9rAiGygEm19PGftaqpHVJwOCCWvGS4P/kzfj0Wqi7g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-resend",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/danilo-leal/zed-resend-mcp-server",
+    "rev": "547e988b94b0355a3c219cf8ca112905f31d815b",
+    "date": "2025-06-09T10:14:26-03:00",
+    "path": "/nix/store/pb3c7494wpsl9dm18vpg3s76ivah33ws-zed-resend-mcp-server-547e988",
+    "sha256": "0b0s8cgxmif3mshkhcqgvv7jf2g5sm59z6llh8p6syv0l4p86n3q",
+    "hash": "sha256-eFiDLqFge20ugpSan0rV5Qknz94PMzihrsPF2h9DGiw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-K+xLXsv6AGwwk5g/T43HlylpAWK3qRvAImFh74pSMas="
+}

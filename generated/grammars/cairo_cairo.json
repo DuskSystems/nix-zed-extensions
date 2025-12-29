@@ -1,0 +1,18 @@
+{
+  "id": "cairo_cairo",
+  "name": "cairo",
+  "version": "4c6a25680546761b80a710ead1dd34e76c203125",
+  "src": {
+    "url": "https://github.com/starkware-libs/tree-sitter-cairo",
+    "rev": "4c6a25680546761b80a710ead1dd34e76c203125",
+    "date": "2025-01-27T18:25:16+01:00",
+    "path": "/nix/store/zrs9yydnnillvxr2ai0fs1d5kalprwck-tree-sitter-cairo-4c6a256",
+    "sha256": "1aj4f3zgb87ckj4dklw9kmfqldhxwhx0kvhyvzjm0zjf9qlgqj92",
+    "hash": "sha256-Ikn8KE5OflDl3x7uCTrkHTaKXZ2J09mInOyg9f5wRKo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "gleam",
+  "version": "0.5.2",
+  "src": {
+    "url": "https://github.com/gleam-lang/zed-gleam",
+    "rev": "775be920d98edf64a7147134045f5e4223d7da13",
+    "date": "2025-09-09T15:52:50-04:00",
+    "path": "/nix/store/7qk9fw0nf9vjja1af1gdn02826hjivg1-zed-gleam-775be92",
+    "sha256": "1aas8qkiq15sy7hg52kzmxibq63hiv4jpbyc85c8865fljc69wq7",
+    "hash": "sha256-B/NkmKSuGIRYQcyvK8mOcBi8Yq9/ivLg8boEHCdGWqk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gleam_gleam"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-kRO3QIrzJfeUc+9RFi9FzcNycOeuOMU+h+WKenm6lIw="
+}

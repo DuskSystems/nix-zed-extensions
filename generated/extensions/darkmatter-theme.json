@@ -1,0 +1,19 @@
+{
+  "name": "darkmatter-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/stevedylandev/darkmatter-theme-zed",
+    "rev": "1e331b64059b817f082bf2e8d6e4f3f8d93e499c",
+    "date": "2025-10-23T19:51:42-04:00",
+    "path": "/nix/store/4wms2blwnfvb8f3pvgcj5wr9g2j8syhk-darkmatter-theme-zed-1e331b6",
+    "sha256": "0xsj007frxl3c1qpy0mglvq89xzdd9b2rky2za4ix69j5vq8jcv9",
+    "hash": "sha256-aTOJ8C4ymR6J+sLPLFZq7feE8KavAn9xYIP27A4AUnc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

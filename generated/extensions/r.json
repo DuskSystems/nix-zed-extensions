@@ -1,0 +1,27 @@
+{
+  "name": "r",
+  "version": "0.2.4",
+  "src": {
+    "url": "https://github.com/ocsmit/zed-r",
+    "rev": "d6c6bd685f4fe4edfb9dd35d0d9e30a30e0bf35d",
+    "date": "2025-08-20T13:33:34-04:00",
+    "path": "/nix/store/xr4jj8g8427123r2c2qwr8qvz1xp91gp-zed-r-d6c6bd6",
+    "sha256": "053vdpw3l4slcyv7z6750wvajp7vsx86c7n1y09wxf9a41mmnshb",
+    "hash": "sha256-C2pbayAquc4T8MEeZlDX+1ypNgflmH+2Z1QTOvhtexQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "r_r"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vAH2aVxpE6yB2UVsnBRmALy//LDjN218zDauMlmWKdQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/r.lock",
+    "outputHashes": {}
+  }
+}

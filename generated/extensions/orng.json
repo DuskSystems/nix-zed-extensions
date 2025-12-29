@@ -1,0 +1,19 @@
+{
+  "name": "orng",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/elithrar/orng-zed",
+    "rev": "59c49cb3b30102f71e38ac152692f98b3d4a4294",
+    "date": "2025-12-11T07:32:38-05:00",
+    "path": "/nix/store/lkadg9p9wgqnnjdjxxw3z12z58nw9f09-orng-zed-59c49cb",
+    "sha256": "1f96w1958rdz7z6x55bxgj2zv913wxc4i3a7mqbp7mbd26dr3113",
+    "hash": "sha256-I4SRmxFt1XMXrkeNSFjnI6T9hXx9ldLNP79lVFLgJrk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

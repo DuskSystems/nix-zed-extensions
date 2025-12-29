@@ -1,0 +1,18 @@
+{
+  "id": "clojure_clojure",
+  "name": "clojure",
+  "version": "38b4f8d264248b2fd09575fbce66f7c22e8929d5",
+  "src": {
+    "url": "https://github.com/prcastro/tree-sitter-clojure",
+    "rev": "38b4f8d264248b2fd09575fbce66f7c22e8929d5",
+    "date": "2024-01-24T18:16:52-03:00",
+    "path": "/nix/store/90msj0bh4jxdjv9jd7zb9wrv1p2a89y0-tree-sitter-clojure-38b4f8d",
+    "sha256": "0hnq1p51h9pyzvcslp1n7nssqb89rb76kxlxjkmc1i89rag88hqz",
+    "hash": "sha256-H0OEnsoJxcDqlJ32ac7KCS2stT02XKrZ/v4mGMoN2EI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

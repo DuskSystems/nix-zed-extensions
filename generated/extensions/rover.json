@@ -1,0 +1,21 @@
+{
+  "name": "rover",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rover-app/zed-extension",
+    "rev": "21bdfaca99798e32118c279f8e44d3921b313e16",
+    "date": "2025-06-05T19:16:39+02:00",
+    "path": "/nix/store/ihca5pda9fxdspb88i49bkxn8zmy4wv9-zed-extension-21bdfac",
+    "sha256": "1h20fj4hn42sc28ykq8z2fp69rsa7yym696z06zh3lgwzh20cnm2",
+    "hash": "sha256-oloGBPz80QG/Ad8kU70/SudkrhMf4emRYFoQC4l0QMA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-IxPKuUv20sxtpbS2EL0rPhjZde/p02KCGBNqvKwmaE8="
+}

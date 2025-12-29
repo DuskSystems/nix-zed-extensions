@@ -1,0 +1,19 @@
+{
+  "name": "tomorrow-min-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/biaqat/tomorrow-min-theme-zed",
+    "rev": "58c95c50c266e0a22e9e71fa6785d24ae63ecf90",
+    "date": "2025-05-15T21:20:10-04:00",
+    "path": "/nix/store/080qamcdbspmwmqyn7jrmip7hmfkzj9h-tomorrow-min-theme-zed-58c95c5",
+    "sha256": "02yb77rz5ki25i1940lqlzk64chdvlvdfi7hml2wbfvlpcvfkscr",
+    "hash": "sha256-menpNrt0u8UFrfBE1zbdDTJi5qeYApJCLCLO8vM5yws=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "stakpak",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/stakpak/zed-stakpak-agent-server",
+    "rev": "b295095a696abbf13ef4ffaeeacb81f47a42ab28",
+    "date": "2025-11-06T15:58:06+02:00",
+    "path": "/nix/store/8iwrgwnqzfxiqyxr766401d3j58h7r6m-zed-stakpak-agent-server-b295095",
+    "sha256": "0f28yiqycn3jn11i6rdcgd09zz7fv10z9v8kgf7jxzbw2mxzarqm",
+    "hash": "sha256-FWf1exV8/S6PexPt9EHY7vyfQHusZRNDsHJY5nH0SDg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

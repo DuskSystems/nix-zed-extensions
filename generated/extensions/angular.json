@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/nathansbradshaw/zed-angular",
+    "rev": "c2991495819335b559c01cd37bb03676e726b2e9",
+    "date": "2025-08-05T13:00:11-05:00",
+    "path": "/nix/store/sdbf24bqdwzb4pdnzaprciwp4bd83izm-zed-angular-c299149",
+    "sha256": "0bmcg0vw46hfvmhvdjsjr8gc5k8lp1g5h3gizsf9q8digg8dy7as",
+    "hash": "sha256-Wh3f0HuxIZyc/vENWF64FM3CHspSy7Zh3Q4awjd4rC4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "angular_angular"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-twS4EkuWFqdG17HQ1ElB/Rnleh/hgKGvXIw8a5ioLsg="
+}

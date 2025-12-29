@@ -1,0 +1,23 @@
+{
+  "name": "vhdl",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/rapgenic/zed-vhdl",
+    "rev": "a7ddb689e54ef49ee0bd5af5a1f2f00805b0717e",
+    "date": "2025-09-29T19:40:03+02:00",
+    "path": "/nix/store/f5icjk6d1l8b55srpx6pyjs55n7zw004-zed-vhdl-a7ddb68",
+    "sha256": "0ygy9j7iv6gqzlacbhjnn27d6236px7s5d8bmdc5yacznkch5ym9",
+    "hash": "sha256-qfoC2bSfKV9Yqwu1ok+/ZgjTjrBWwsUU/fiZHY9M/nk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vhdl_vhdl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-E962KEcx3Hz2MmFWyYIIUumsOzNUoXEqAnO0+GjjBbM="
+}

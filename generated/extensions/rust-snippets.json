@@ -1,0 +1,19 @@
+{
+  "name": "rust-snippets",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/bobbymannino/rust-snippets-for-zed",
+    "rev": "7ad84052d0ef5569163568bd538339e37712076f",
+    "date": "2025-07-30T20:02:32+01:00",
+    "path": "/nix/store/2zr1kanplh0har3b2xdkn1pnpdlvrqkj-rust-snippets-for-zed-7ad8405",
+    "sha256": "025qzxk3viaj0mj6jacdpwh0j0k1q73ppykrqva3ldk4zhbm8i6m",
+    "hash": "sha256-1URUF/xkNjrUxnn6e8fBYQIJIL+NKWlkBVLFPWb/uAg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

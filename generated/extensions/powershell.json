@@ -1,0 +1,23 @@
+{
+  "name": "powershell",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/wingyplus/zed-powershell",
+    "rev": "09481a26513552be698ec287ae53e588be8b6caa",
+    "date": "2025-05-02T22:52:14+07:00",
+    "path": "/nix/store/vnfy2dns0zsg05crnk9w8jd686sx64x7-zed-powershell-09481a2",
+    "sha256": "0p2srp1fn5pkq4dfrv2mmfblbahp23jpdrpy43wcnmysgyqb3hzm",
+    "hash": "sha256-9cOxsH/aV8v4IP7mduUQF6pFl6tV7OwawfMW68LNWlw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "powershell_powershell"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dv3EExd9TDgCtqVcGgzxGyDE9WrBQbqqHK5oVP3PiHQ="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "viewtree_viewtree",
+  "name": "viewtree",
+  "version": "master",
+  "src": {
+    "url": "https://github.com/Dev-cmyser/tree-sitter-viewtree.git",
+    "rev": "09bb16e1ff98b3f54ea156ff8d375b199cf97088",
+    "date": "2025-10-22T20:38:03+03:00",
+    "path": "/nix/store/rxs1s69ddk47xpg5wydl3m799kxyn5d2-tree-sitter-viewtree",
+    "sha256": "0sfhhpsk6bdqjfw0jjryqbd8xryipi0gb8qpv5i7w43z4qqysv8q",
+    "hash": "sha256-GG3tMSZ/EH5i2Rej9UC80eeO2sI+Swm4k7gtM/WF0Gk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

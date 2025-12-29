@@ -1,0 +1,21 @@
+{
+  "name": "tflint",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mgrubb/zed-tflint",
+    "rev": "f09352377c61b96a32f7fb45d64a1e33381a6825",
+    "date": "2025-11-07T10:01:11-06:00",
+    "path": "/nix/store/c751z2iva65x257rcp5apbn7n5ix1nfv-zed-tflint-f093523",
+    "sha256": "1pg0irli6r3kpikgr0h60klq5gy9yh9dab3nrdq3g011iwzmpv23",
+    "hash": "sha256-Q+xbP48hgDdwy3Ys1RL0yb+C6QQGgvxmvHNkE2mO4N0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-w5pJbdkZ/kDPApxsu55DIC/qq/1OanJ1lFvDEgcFhEg="
+}

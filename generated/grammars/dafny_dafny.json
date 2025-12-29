@@ -1,0 +1,18 @@
+{
+  "id": "dafny_dafny",
+  "name": "dafny",
+  "version": "4301a8b8dd27789fb59c6f95a2413d784c4d959f",
+  "src": {
+    "url": "https://github.com/alschena/tree-sitter-dafny",
+    "rev": "4301a8b8dd27789fb59c6f95a2413d784c4d959f",
+    "date": "2024-06-05T23:13:49+02:00",
+    "path": "/nix/store/drva8mwczdln7dhpjjcyj12syyy5cvzn-tree-sitter-dafny-4301a8b",
+    "sha256": "05ra36kara0w4n9lbszgp1si3r3zc4713bs1rddfvnl3zq3h2c3l",
+    "hash": "sha256-dDABB/6D2u1ay0GvEQ5hf+QRdbjv60WTJRyorKYZKhc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

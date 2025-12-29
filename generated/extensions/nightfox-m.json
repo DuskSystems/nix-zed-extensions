@@ -1,0 +1,19 @@
+{
+  "name": "nightfox-m",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/mpopadic/nightfox_m-zed",
+    "rev": "bc6cb842e8d8c8c0b78672cef42214499c745518",
+    "date": "2025-05-20T09:49:46+02:00",
+    "path": "/nix/store/7fal6gn3r80hvgx2j51r9lpj7dix0vxx-nightfox_m-zed-bc6cb84",
+    "sha256": "0wm7rq8r6jm4qaryqbhfaxj216kp81bxc8zwh13p9sm012x6vyda",
+    "hash": "sha256-qvltugig6nRHgPwj1ldAd5ogZFcOLuyzwqRKkxHOp3I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

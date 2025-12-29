@@ -1,0 +1,18 @@
+{
+  "id": "latte_latte",
+  "name": "latte",
+  "version": "95728e2a238562764fc7daf5ef5c919d403a891f",
+  "src": {
+    "url": "https://github.com/josbeir/tree-sitter-latte",
+    "rev": "95728e2a238562764fc7daf5ef5c919d403a891f",
+    "date": "2025-10-06T18:54:05+02:00",
+    "path": "/nix/store/7r4nv4nbjcz022vl4b3z5dmyf9y85w84-tree-sitter-latte-95728e2",
+    "sha256": "1mxm23d14wb3j3s3pg6ixs5c0k6k1jkgdj7ppsvfvfsqqnyjl4mp",
+    "hash": "sha256-txIqvcVYu+22vvfI9qYM00zAiu7RvDv0kGNxEtoQtdc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

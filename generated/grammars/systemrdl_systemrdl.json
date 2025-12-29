@@ -1,0 +1,18 @@
+{
+  "id": "systemrdl_systemrdl",
+  "name": "systemrdl",
+  "version": "c13d48cc9b2da3269486f3921e3a7722be4114b2",
+  "src": {
+    "url": "https://github.com/alex-torregrosa/tree-sitter-systemrdl",
+    "rev": "c13d48cc9b2da3269486f3921e3a7722be4114b2",
+    "date": "2025-08-02T12:49:56+02:00",
+    "path": "/nix/store/gw3li1fs2nbh94p9jihbmf4ni099xrhq-tree-sitter-systemrdl-c13d48c",
+    "sha256": "1lgigk9zh67kb4xpdsq39drm43ngf48dz7drcac3c81c6zgzvszk",
+    "hash": "sha256-8+v93zcsIDaYYrmd3xBxzw5Sc0sD63Y7WfMY+NN88dE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

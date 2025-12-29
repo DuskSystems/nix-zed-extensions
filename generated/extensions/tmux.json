@@ -1,0 +1,21 @@
+{
+  "name": "tmux",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/dangh/zed-tmux",
+    "rev": "b277d696cc5ebf71dbf7157be5fb69de2bd4df20",
+    "date": "2024-07-20T14:18:59+08:00",
+    "path": "/nix/store/5sdsp49d6jwgnay75711p5srzcyykyl0-zed-tmux-b277d69",
+    "sha256": "1ks9lqxfvnfaxw00i52nh2w3imyz37w5q6m4ll32i3g1lhvjv6v9",
+    "hash": "sha256-aZstN6ThjSgGpaQaXPgZ39c4uIBWlAgA78rZ7TqmSc8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tmux_tmux"
+  ],
+  "kind": "plain"
+}

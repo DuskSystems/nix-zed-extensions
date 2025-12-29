@@ -1,0 +1,19 @@
+{
+  "name": "frosted-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/daviiiL/frosted-theme",
+    "rev": "71765fc92e101422791e03431d0107dd1f9167be",
+    "date": "2024-06-01T20:02:50-04:00",
+    "path": "/nix/store/mzwmzhbj2pm69sfp49k5hx9cya99fzlv-frosted-theme-71765fc",
+    "sha256": "1hmg7hqvify9sq914l67sgnlcmk2isxhfb4r8859zdldhyph6p1s",
+    "hash": "sha256-OlwDr4eNtp8KQpksB7uOYlZG7dPHUBIS1sm7uDE8r8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

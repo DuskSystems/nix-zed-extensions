@@ -1,0 +1,18 @@
+{
+  "id": "pact_pact",
+  "name": "pact",
+  "version": "6e94b4d1fc720ea7b53015aa14499618cd92e02a",
+  "src": {
+    "url": "https://github.com/kadena-community/tree-sitter-pact",
+    "rev": "6e94b4d1fc720ea7b53015aa14499618cd92e02a",
+    "date": "2025-01-10T22:00:48+01:00",
+    "path": "/nix/store/smsl787ifxa23a4cwmfl7pxbl6y39vn0-tree-sitter-pact-6e94b4d",
+    "sha256": "0csrsvr8094msgr6201jl4xxf0zdi306skgj3vgyc0w3fv37llp9",
+    "hash": "sha256-6VJ6xnaDA+bfHvJNbcCI7QPXO6EyAGHy05UkgPLWWTM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "snazzy",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/Eivs/zed-snazzy",
+    "rev": "8244277e4d154a3195ce6c06a0439901dddcc3e2",
+    "date": "2025-12-16T16:09:43+08:00",
+    "path": "/nix/store/iwk92mm9hvghbywq1yzfkj0p18n5ldhs-zed-snazzy-8244277",
+    "sha256": "1zrp48h4ayp51dyp8wvgjh5f9vj4hq9npr0dak0bamv6i237dydx",
+    "hash": "sha256-vfl2hohmV7XAVA3kaxOGRO7kCpRvc3R9C+V6RSAiN/8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

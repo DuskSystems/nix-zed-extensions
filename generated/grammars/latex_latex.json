@@ -1,0 +1,18 @@
+{
+  "id": "latex_latex",
+  "name": "latex",
+  "version": "858af2c24547c8ab9386281ece6ead6936dbc8d1",
+  "src": {
+    "url": "https://github.com/497e0bdf29873/tree-sitter-latex",
+    "rev": "858af2c24547c8ab9386281ece6ead6936dbc8d1",
+    "date": "2025-04-03T08:26:16-05:00",
+    "path": "/nix/store/pvn6yxvys6w3asv9fc4c1zllw8ymg9bj-tree-sitter-latex-858af2c",
+    "sha256": "0mmck09jzad0p939nq37wpj6df9k5il6h3fk815rlidh31gga1y6",
+    "hash": "sha256-xgf1XhiwRZpLQNMNaGgsM7lm5OVnYJtGuqCpLxOYrFY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

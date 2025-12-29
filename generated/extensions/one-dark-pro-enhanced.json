@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-pro-enhanced",
+  "version": "0.0.12",
+  "src": {
+    "url": "https://github.com/hadez8877/one-dark-pro-enhanced",
+    "rev": "0411a00f702b609746a29c49e2796d6993e9f461",
+    "date": "2025-11-05T20:03:36-05:00",
+    "path": "/nix/store/xqnzq8mh2s9xs67vxj098kjwklnrxxl2-one-dark-pro-enhanced-0411a00",
+    "sha256": "0hif4vq6z2q4381s2fw6q0h0038hp9nc8a5jkmd9v54pbjbz2iam",
+    "hash": "sha256-VUXxl1yXlJ1anbIoxGy6EA0AIMCGO6EDGgSLb/AmLkI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

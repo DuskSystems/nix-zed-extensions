@@ -1,0 +1,19 @@
+{
+  "name": "serendipity",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/meocoder31099/Serendipity-Theme-Zed",
+    "rev": "01d238a488fb69ab881cb5803601c9c4c096d495",
+    "date": "2025-08-30T23:58:15+07:00",
+    "path": "/nix/store/g3a6fmzq3k83dmpnr0x7abkxaff5rsxw-Serendipity-Theme-Zed-01d238a",
+    "sha256": "05i82bp3dwzaxmbdmj5immvgdyrj3by9hvrjc880lxas71y6m88x",
+    "hash": "sha256-HaFqfDhadQoQYjJvmPwaMvv2dq2xyNpW7erzNu4SKBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sumi-light",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/LogicSatinn/sumi-light-zed",
+    "rev": "f30e47d2a08fc5d86bcf72fa65dfebf74e690505",
+    "date": "2025-06-14T18:35:09+03:00",
+    "path": "/nix/store/zj105ay2gqmb4liwq7fjdm45b35qxsig-sumi-light-zed-f30e47d",
+    "sha256": "09ja54gvclcjaf7v8vpq118bi3s6s5lk8b53njbpyykbzhjkj33w",
+    "hash": "sha256-fAw5Jfxren+XtKMsNGnRRo+4UAj4brSPU5JRth8pSiY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "strace",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/sigmaSd/zed-strace",
+    "rev": "a2b7d3f046779cd351207eaaeb7f03b033d646ea",
+    "date": "2025-03-05T12:55:06+01:00",
+    "path": "/nix/store/v8wvr8grbj46r6vvsdc7mdwxpl5ww3hb-zed-strace-a2b7d3f",
+    "sha256": "0jafwf2wb1g54wpfpan0bcj1yi92rsfx4p4cib5div1k2fq9c8vk",
+    "hash": "sha256-cyOWsBMz7NjKioxc0p3OIkUfJFvAqusuJ+WFxYXjTkk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "strace_strace"
+  ],
+  "kind": "plain"
+}

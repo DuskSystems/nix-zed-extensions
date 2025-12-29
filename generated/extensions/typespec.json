@@ -1,0 +1,23 @@
+{
+  "name": "typespec",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/rhodee/zed-typespec",
+    "rev": "b30b094e631cfdb7d7eb132e51fd72442c6d3d79",
+    "date": "2025-07-07T21:18:54-05:00",
+    "path": "/nix/store/pvph26zfwn5bfz6qk8dvc3pmp72p6a9v-zed-typespec-b30b094",
+    "sha256": "1pcdznqs0s69id2qjl50d6a3kqdqs2i6xg9vhcnrbsl930hvnk2r",
+    "hash": "sha256-WUy7IRiJ6pUtgzu9bqLQuOE5lGmgUIlFi8looLH9jd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "typespec_typespec"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-V7b7MKZ8Kl2Hgjd1ZxUz1xx8rmbaNhiV7JQ9gDK690I="
+}

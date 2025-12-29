@@ -1,0 +1,21 @@
+{
+  "name": "wc-language-server",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/wc-toolkit/wc-language-server",
+    "rev": "6776d355493aed76c46c42bfe46c0673aa9ffde9",
+    "date": "2025-12-20T14:18:32-05:00",
+    "path": "/nix/store/4h4n19q019m8g1h2lg1f7r4s33hizmb4-wc-language-server-6776d35",
+    "sha256": "16810p7j8c8mdgzxpzwsmjz6wpqhb8glbrm7m9zpmk740wim27ya",
+    "hash": "sha256-yh9RIwfkzHp/qqfmRR9aEF9uvqya/9v/axUxJM8FAZk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "packages/zed",
+  "cargoHash": "sha256-rF5xQjqENYrNKQxdUlZV1H1KNQskJJ0rO3B3P4LCBAY="
+}

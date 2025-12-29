@@ -1,0 +1,19 @@
+{
+  "name": "colorizer",
+  "version": "1.0.6",
+  "src": {
+    "url": "https://github.com/tamimhasandev/colorizer",
+    "rev": "28b559c72043fa09d690a3a955d045dddc2d7c92",
+    "date": "2025-05-31T12:38:34+06:00",
+    "path": "/nix/store/yxip99sna74grgb4rj25yqcvwj0pgifh-colorizer-28b559c",
+    "sha256": "047lkb9hx1hkalvjii8k9w1fk20kr00n41b2w3373gdwh96zyj8d",
+    "hash": "sha256-DUn/TYK8vXHG4GIFYgHIE4jpAk8TxSg3VROGDtOa9BA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

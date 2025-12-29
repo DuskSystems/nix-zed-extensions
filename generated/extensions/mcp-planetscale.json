@@ -1,0 +1,25 @@
+{
+  "name": "mcp-planetscale",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hunterjsb/zed-planetscale-mcp",
+    "rev": "c3842ace32adf4da3550bacec785b6b473867810",
+    "date": "2025-05-24T02:05:02-04:00",
+    "path": "/nix/store/vxs59q3wkp933m4zic43rbyx8br72rzi-zed-planetscale-mcp-c3842ac",
+    "sha256": "0sxmmnn1y5691m8ph3vlvx0ryi5aw2p8hhv0m2dgix9abb2hlyyz",
+    "hash": "sha256-33sKxVoq9fiaqGBDiK7gqkSfQd90D3hRDckUH6yttWs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-L30z61N1usitdetpFK8VFxjmhQih75Wruxvl/Dc/Lyk=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-planetscale.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gruvchad",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hey-ewan/zed-gruvchad",
+    "rev": "1616ff9b7719efc8b6eb3fb3a3f7e38470557929",
+    "date": "2025-10-21T08:03:04+01:00",
+    "path": "/nix/store/cdxxypsqp5gz3j588pf9zxbnc42pd7fm-zed-gruvchad-1616ff9",
+    "sha256": "08b8ymyrv69v3czagqzvcs51a0ywk31sj5ivg1bar2d3hwrjanns",
+    "hash": "sha256-2lolM4ejiaxWeDsWqcOY3AMVimb746c+GzuZnX31aCE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

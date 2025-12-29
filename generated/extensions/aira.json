@@ -1,0 +1,19 @@
+{
+  "name": "aira",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/talison-cardoso/aira-zed",
+    "rev": "1818f39a4e5d0eb979d9805b3e12de4c8cf8f657",
+    "date": "2025-11-18T10:10:46-03:00",
+    "path": "/nix/store/h6yx9i6d9vlr56kbf1qjvcjclax50j01-aira-zed-1818f39",
+    "sha256": "1bi0l3rw2kbpgj1km4k2hyq6743r9jv4f1b5zmkcc53d0sc7x88y",
+    "hash": "sha256-HqF+mAZtFMZm/WUFR7ZMeZBjsIdikjqDfHdNwfOgIK4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

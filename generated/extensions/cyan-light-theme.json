@@ -1,0 +1,19 @@
+{
+  "name": "cyan-light-theme",
+  "version": "0.7.1",
+  "src": {
+    "url": "https://github.com/biaqat/cyan-light-theme-zed",
+    "rev": "710acf6f74f2b1aa315c9053bbd98876514b2211",
+    "date": "2025-02-25T21:46:18-05:00",
+    "path": "/nix/store/w759957gq9k4ihw0v1y91x34swx4imj3-cyan-light-theme-zed-710acf6",
+    "sha256": "0mi4pickdk39pvznr1d0hhdzjaqsjy1g60f6m85vbxdyr0v0xygm",
+    "hash": "sha256-9fkONsi+9bULqsYB84KXGiv5G4SghWz/vmnMNlm8JFY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

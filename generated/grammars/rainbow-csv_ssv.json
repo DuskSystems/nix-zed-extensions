@@ -1,0 +1,18 @@
+{
+  "id": "rainbow-csv_ssv",
+  "name": "ssv",
+  "version": "d82f436727f74298bd587ee696dca903efc42ce6",
+  "src": {
+    "url": "https://github.com/coroa/rainbow-csv-tree-sitter",
+    "rev": "d82f436727f74298bd587ee696dca903efc42ce6",
+    "date": "2025-07-22T14:41:05+02:00",
+    "path": "/nix/store/96083zzclr516jcw9b2h59cqyjlbf2vc-rainbow-csv-tree-sitter-d82f436",
+    "sha256": "0hq0bn2lzkl9z6bjdl987gkjsycic1n3dzpsk6m1b6igsmvqw209",
+    "hash": "sha256-CQiOd9UvmhWqmfr+NmxgkXkt5zso0SaX+YnOT4VdAEM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "ssv"
+}

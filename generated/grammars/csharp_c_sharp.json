@@ -1,0 +1,18 @@
+{
+  "id": "csharp_c_sharp",
+  "name": "c_sharp",
+  "version": "dd5e59721a5f8dae34604060833902b882023aaf",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-c-sharp",
+    "rev": "dd5e59721a5f8dae34604060833902b882023aaf",
+    "date": "2023-11-29T20:35:51Z",
+    "path": "/nix/store/26knhrfgq16zghjn1fdvl5a0cxm4sg6y-tree-sitter-c-sharp-dd5e597",
+    "sha256": "15rdg846pnaad6fpljf0bhwxa4jc9vmlnma55a8jpp5p9hiccn8f",
+    "hash": "sha256-DlnGIky33CuRKkVVS+tOTBLVOVzASXqdaUrZawh6LZc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

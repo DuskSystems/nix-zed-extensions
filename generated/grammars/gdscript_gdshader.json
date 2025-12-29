@@ -1,0 +1,18 @@
+{
+  "id": "gdscript_gdshader",
+  "name": "gdshader",
+  "version": "ffd9f958df13cae04593781d7d2562295a872455",
+  "src": {
+    "url": "https://github.com/GodOfAvacyn/tree-sitter-gdshader",
+    "rev": "ffd9f958df13cae04593781d7d2562295a872455",
+    "date": "2024-02-22T19:44:35-08:00",
+    "path": "/nix/store/sqvankiz621w227l5vphhdvls6mhgvli-tree-sitter-gdshader-ffd9f95",
+    "sha256": "0bib2jysvz6sshnaqqc2r0wrw2y0i7vbw6c87nn3ml9m9jrl6s95",
+    "hash": "sha256-JWlDs0w10TqsPYgZvvaJwAueOciCYaws1Nr8rb0UKy4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

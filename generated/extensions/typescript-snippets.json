@@ -1,0 +1,19 @@
+{
+  "name": "typescript-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/seekode/zed-ts-snippets",
+    "rev": "a3dec89782fc937beb8e9cf6ac22f4623cb47844",
+    "date": "2025-10-01T16:36:53+02:00",
+    "path": "/nix/store/r5y7p84g78734wywy09w4876g4ym4kxp-zed-ts-snippets-a3dec89",
+    "sha256": "0hcvpkp8f4l3q8gg3nrnw7pb383wna8gfpa0ybh23l1rhgxbqlgc",
+    "hash": "sha256-7FG8+oM50CHg8kBd95CyfKCx7uE22/EewoMSh+68m0E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

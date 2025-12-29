@@ -1,0 +1,27 @@
+{
+  "name": "rst",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/elmarco/zed-rst",
+    "rev": "d68c5a9f73c5c5c175ad2af8e789358ed3be60d1",
+    "date": "2025-01-21T11:15:11+04:00",
+    "path": "/nix/store/fvfvr43g397chsspb2wxvpqykrxxx7vi-zed-rst-d68c5a9",
+    "sha256": "0p9yn3mag8ag1xjc35yh59qpcbb6vww9snabavvmqm1waki31vm6",
+    "hash": "sha256-pu4w4lQ8VFz3VktZnTjfZi12cSrQl8FkD0+hp+qwPl0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rst_rst"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NTblLZZo7FhPQpyBfFthwdrpW4HaPwZQpcjOVCKUFlw=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/rst.lock",
+    "outputHashes": {}
+  }
+}

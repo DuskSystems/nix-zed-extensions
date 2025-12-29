@@ -1,0 +1,19 @@
+{
+  "name": "min-theme-plus",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/NiFate/zed-min-theme-plus",
+    "rev": "045559afb5144efbe7402309e34ef2a2b717392a",
+    "date": "2025-10-27T17:38:09+02:00",
+    "path": "/nix/store/ivrgz5w93ilfzpxr4p5h08n0h47q6bw4-zed-min-theme-plus-045559a",
+    "sha256": "0sf9dwgc0v39485bqrwfr5f232n1w216vsaja5rahpyy48qmjzr1",
+    "hash": "sha256-IX9ZMSLeX6hyUVLpbYLgwYohXMmOZ7wKImlswB5vyWk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

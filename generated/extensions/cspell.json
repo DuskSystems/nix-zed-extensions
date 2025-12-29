@@ -1,0 +1,25 @@
+{
+  "name": "cspell",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/mantou132/zed-cspell",
+    "rev": "31f8072cd067e8fb6d1693883cfa72bd869a6567",
+    "date": "2025-10-13T22:21:58+08:00",
+    "path": "/nix/store/bhdj002ccjgwzn445n7v7cg1c78q43nc-zed-cspell-31f8072",
+    "sha256": "1c78p1z3qdsnhziyr2l1yjni9vx8h6fm4172mvcf4c6kzz11fqk5",
+    "hash": "sha256-ZWIXwv/TMOLYruIEUp2BqO8UrfSBiuzjh1Y3PH646LA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-BK7myE5N7nLN6bo8c8UnUh0O34yNwVohLH//71lpanA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/cspell.lock",
+    "outputHashes": {}
+  }
+}

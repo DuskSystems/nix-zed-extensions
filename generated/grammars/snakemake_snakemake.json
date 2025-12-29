@@ -1,0 +1,18 @@
+{
+  "id": "snakemake_snakemake",
+  "name": "snakemake",
+  "version": "e909815acdbe37e69440261ebb1091ed52e1dec6",
+  "src": {
+    "url": "https://github.com/osthomas/tree-sitter-snakemake",
+    "rev": "e909815acdbe37e69440261ebb1091ed52e1dec6",
+    "date": "2024-08-05T21:48:48+02:00",
+    "path": "/nix/store/048w82yr7j7r6cg23c5gy6hnvimfmcbr-tree-sitter-snakemake-e909815",
+    "sha256": "1169nc6vbfrr6vypv9j74mxryv54hs7gl9w2pxhyvqvdqxzgasbp",
+    "hash": "sha256-d2n1fsdt4+1hv4In+o6GpGyfeyVHpn39Njm7tQ2zyYQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

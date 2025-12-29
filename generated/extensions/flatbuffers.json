@@ -1,0 +1,23 @@
+{
+  "name": "flatbuffers",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/smpanaro/zed-flatbuffers",
+    "rev": "4bf889d7cd0cac16c257ffa5bf27ff097ff63a55",
+    "date": "2025-12-08T22:45:34-05:00",
+    "path": "/nix/store/7jq8anki5hg9vl25mr3qhl96zj753m1f-zed-flatbuffers-4bf889d",
+    "sha256": "17rkckyx8yk0j4m1h5amwhq3p32dyaxxybm52zfpwcgadwpgl0ka",
+    "hash": "sha256-agL6Lm/qMX7dF6Uu37vyTYw7MORVFRgqkWB61P1kM58=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "flatbuffers_flatbuffers"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-RmDPTPdNmnPXD8+wrQ1IAAj5oxFM9m9QFYr434d+HhE="
+}

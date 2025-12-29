@@ -1,0 +1,23 @@
+{
+  "name": "move-aptos",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/caoyang2002/zed-move-aptos",
+    "rev": "dda043295f22c464a2fc14deee95613f49700af4",
+    "date": "2025-09-16T15:42:04+08:00",
+    "path": "/nix/store/8x7fx3gzg4aqy8npix8f6kpk195vp4k6-zed-move-aptos-dda0432",
+    "sha256": "0n4rzyp95m6yf96r2z50jdkdg3dgxqqy9w1c2hbz41zs3jwn3lv9",
+    "hash": "sha256-adNhuRz6B/IXFCzw5DHur43XZpOgfJFNct7Ukq7/mVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "move-aptos_move"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7MPmehtj/Hu9MZAWZdEfKo7l2uuCuh5OVA2dPVnphQI="
+}

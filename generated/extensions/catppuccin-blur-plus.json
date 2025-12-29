@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin-blur-plus",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/taciturnaxolotl/catppuccin-blur-zed",
+    "rev": "81b55de677a1416345b4c769271c7929de5475e1",
+    "date": "2024-12-11T10:52:19-05:00",
+    "path": "/nix/store/8wnfpmacxj015hirxgfd1cvrz5vg5jvq-catppuccin-blur-zed-81b55de",
+    "sha256": "1jvszw9nn88mfp96xb3xfh1znxd4kgzjffgyagbbmafryr9h9rsv",
+    "hash": "sha256-W+cEU/bZqbrWU/45J/+bpHX7A3R9rG7SdRUhaxP/ess=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

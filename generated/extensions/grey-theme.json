@@ -1,0 +1,19 @@
+{
+  "name": "grey-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mvrcoag/zed-grey-theme",
+    "rev": "475038510016d9953260c80b3c42d3b960f8a1a4",
+    "date": "2024-12-10T13:11:20-06:00",
+    "path": "/nix/store/rv3hw1jsx4ydmq3zz26g4jx0ib8jh02g-zed-grey-theme-4750385",
+    "sha256": "06mqrjq6mlbqfvccgs7lziivydsqiwqhwywiqs6vn17vx4irjws8",
+    "hash": "sha256-SHOZI+n7BLuNxpF7DjGPWDe/Y/z06MfYdnjRarDMuBo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

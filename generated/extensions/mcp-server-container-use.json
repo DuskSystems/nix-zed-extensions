@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-container-use",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/danilo-leal/zed-container-use-mcp",
+    "rev": "a4dce61f97aacab2f0159ef79e7ce2b392c4bfc9",
+    "date": "2025-07-16T19:05:02-03:00",
+    "path": "/nix/store/qqc3b26ky81f5lmp4gqx60cnmzhr9fpc-zed-container-use-mcp-a4dce61",
+    "sha256": "16gfg7491rvjvygk4gp6zl552cvcb7ncd8w9361g9blc5q28axj8",
+    "hash": "sha256-SHaFBC6MrvSCGYmjxuxZbDNRCv3mPjKf33LnkMh57pk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Ik1qQ4ZgcYqDWIK3fliPRa06m4Bafs5kg+0YvdjXzU8=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-container-use.lock",
+    "outputHashes": {}
+  }
+}

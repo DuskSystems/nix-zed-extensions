@@ -1,0 +1,18 @@
+{
+  "id": "java-eclipse-jdtls_java",
+  "name": "java",
+  "version": "953abfc8bb3eb2f578e1f461edba4a9885f974b8",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-java",
+    "rev": "953abfc8bb3eb2f578e1f461edba4a9885f974b8",
+    "date": "2024-04-07T14:37:50-04:00",
+    "path": "/nix/store/j3s9f48b35i90lm60234rnnnbb9i4rv5-tree-sitter-java-953abfc",
+    "sha256": "0f0mi8s0sm9l3hkz23rcfgmdww9lfadj2qmyg44s68skqwzc9sh8",
+    "hash": "sha256-COrEPsdTI6MJeb5iIZtyNHHe6nMsD/EnHDRVDTSKFTg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-nextjs",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MrUprizing/zed-mcp-server-nextjs",
+    "rev": "a7229bfee229fab8170c01b36fd1ff5482b66d4d",
+    "date": "2025-10-23T19:10:38-05:00",
+    "path": "/nix/store/k6ar7kmgn1cs9rdwbdf0si1bqa7y2d19-zed-mcp-server-nextjs-a7229bf",
+    "sha256": "01zs20makid28izy8q8ka23pidnxvycx1jp04rjqxygzj9cqndwz",
+    "hash": "sha256-nzeLWZL/+Y5lJuDK0Jnf3bZ4h1ATYeR/RKLFqSoQ+gc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yAWZg3/0jQAqWcVXLnXwPzmfOaQ8/bRa3h3ITq6EWMA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-nextjs.lock",
+    "outputHashes": {}
+  }
+}

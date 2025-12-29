@@ -1,0 +1,21 @@
+{
+  "name": "gosum",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/kartikvashistha/zed-gosum",
+    "rev": "402def8bfd9ceb3915cf9cefdcc96b583cf61b1f",
+    "date": "2025-05-04T14:27:50+01:00",
+    "path": "/nix/store/1w0wr1cw6kn5jz2f0ryqfigl9c16pm7g-zed-gosum-402def8",
+    "sha256": "0hbpznbvixs43cgjdzkjfrgic75sjnyjcp6a917qr55xhrcsijc6",
+    "hash": "sha256-hsmoWYa9lIxPSMpcJr2VuhwWX3Zy/iYfG0T3uJf9d0E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gosum_gosum"
+  ],
+  "kind": "plain"
+}

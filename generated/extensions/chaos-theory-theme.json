@@ -1,0 +1,19 @@
+{
+  "name": "chaos-theory-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/FeurJak/Chaos-Theory-Zed",
+    "rev": "b997ff56992cf9dc6492da95706c08e74e2d05a1",
+    "date": "2025-05-20T11:51:02+10:00",
+    "path": "/nix/store/1sbnwrgv701cx0vn5nk10cmaba8jaf06-Chaos-Theory-Zed-b997ff5",
+    "sha256": "1cy40zx7iz54aw1gbj1ng3ja9918j3g49ywl109f8mlbqm1h5bkl",
+    "hash": "sha256-dK4CQ8WLVuQSCJT7RN6QKKSk5Hg2yPUCV6T8ePoHxLM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

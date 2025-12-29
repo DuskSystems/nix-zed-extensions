@@ -1,0 +1,25 @@
+{
+  "name": "browser-tools-context-server",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/mirageN1349/browser-tools-context-server",
+    "rev": "bf2949bfaa9f53943fea26235e722ccdd71dd502",
+    "date": "2025-06-17T11:27:02+03:00",
+    "path": "/nix/store/bcffl19wg6b7chbn2c75v3z0ifsf21cc-browser-tools-context-server-bf2949b",
+    "sha256": "0s7ayjkfzmzivsq20d9rs3shmmln5v068h6r9smybm139p1frz77",
+    "hash": "sha256-5/zswk0j1OWrTtlAZMAultYK9dA5NSCw3vHX76b06mg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-HcmQzuXKzFRF0Z8MFlPlkUHDfdaDuhXDtNWl2v1TPko=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/browser-tools-context-server.lock",
+    "outputHashes": {}
+  }
+}

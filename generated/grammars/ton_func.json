@@ -1,0 +1,18 @@
+{
+  "id": "ton_func",
+  "name": "func",
+  "version": "f780ca55e65e7d7360d0229331763e16c452fc98",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-func",
+    "rev": "f780ca55e65e7d7360d0229331763e16c452fc98",
+    "date": "2024-04-27T17:39:08+02:00",
+    "path": "/nix/store/yk7j0v05ddz8apyv6i7lqv6aa5w7x78m-tree-sitter-func-f780ca5",
+    "sha256": "08k95w3s4w4vk4i3lj6n5nghc4m15jc6wnmqcp0fk1azk4jibkcc",
+    "hash": "sha256-jM0VJZlfhenAZbhabpgsoRIGny3WSDoimZtwogcvaSI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

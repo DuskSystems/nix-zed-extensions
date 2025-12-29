@@ -1,0 +1,21 @@
+{
+  "name": "prisma-mcp",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/aqrln/prisma-mcp-zed",
+    "rev": "d91bdbabe5526287de6db7ab40373945978c37a2",
+    "date": "2025-10-02T10:37:02+02:00",
+    "path": "/nix/store/qxz0pskhc1m7fiyh9l00zgqqn9za5ri6-prisma-mcp-zed-d91bdba",
+    "sha256": "1x6mzw7fgjjwx64920hm3l8hfvbw49dq0n88aad0vz2m6b1q3ag3",
+    "hash": "sha256-46mBwzJV/A2aUghZgFsifG0HER0VApGI6VzK5w7/1fQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-djdUuUoQdkJ2CitKffgwgPixmbzcVplMCEt5S06NYvA="
+}

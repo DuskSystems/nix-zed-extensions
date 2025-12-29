@@ -1,0 +1,18 @@
+{
+  "id": "rcl_rcl",
+  "name": "rcl",
+  "version": "9e14baa313f79d1717cf81e8e35f051c7da77073",
+  "src": {
+    "url": "https://github.com/rcl-lang/tree-sitter-rcl",
+    "rev": "9e14baa313f79d1717cf81e8e35f051c7da77073",
+    "date": "2025-12-17T21:23:57+01:00",
+    "path": "/nix/store/8mm8rbz7886jl7y4027jpxlcyc8h29bi-tree-sitter-rcl-9e14baa",
+    "sha256": "1nsqnrdxv9nrwa70x7ji2k29qxzardrkkf0hjf946gdp5ll4k6nz",
+    "hash": "sha256-35pJKC23PUOSkxC4OXPL6necxBRRng6O4tmm3Vu2WNs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

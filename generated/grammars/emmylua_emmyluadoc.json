@@ -1,0 +1,18 @@
+{
+  "id": "emmylua_emmyluadoc",
+  "name": "emmyluadoc",
+  "version": "ea755c0fd34c07e16597bd62a404d6eba2a3891e",
+  "src": {
+    "url": "https://github.com/EmmyLuaLs/tree-sitter-emmyluadoc",
+    "rev": "ea755c0fd34c07e16597bd62a404d6eba2a3891e",
+    "date": "2025-10-30T16:36:39+08:00",
+    "path": "/nix/store/lal191g1yskg8gyzi18058vd7srhpjbp-tree-sitter-emmyluadoc-ea755c0",
+    "sha256": "13bivy4d5v6fl54spmn55ajbj97pizylh58mwlpbx8mfvdsnv61k",
+    "hash": "sha256-M5htdduuor4u5RUVSP2P9yS5pCrF1qtJoc7s0ojfcY0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

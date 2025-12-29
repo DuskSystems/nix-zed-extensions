@@ -1,0 +1,23 @@
+{
+  "name": "scss",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/bajrangCoder/zed-scss",
+    "rev": "7cf56bf53256ea5ab19f4fed374c6e9eb75e5021",
+    "date": "2025-10-26T19:13:20+05:30",
+    "path": "/nix/store/as5aa7xrnjjcwl4s3pnax8z0n1i7jphd-zed-scss-7cf56bf",
+    "sha256": "0iv6ib9xxqlhb0n39imxd8f2kv7fllr370svkjma88f4nxwgfq0y",
+    "hash": "sha256-HmD3eLfEIaSqnFuDMzKl7uwpHGq9xjQsWJDi3tOKZkc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "scss_scss"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-bKCkaYL2NhPRNVJD0jSL6Hl67Ck/BN+m3SCPjK7qpps="
+}

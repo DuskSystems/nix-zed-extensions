@@ -1,0 +1,27 @@
+{
+  "name": "luau",
+  "version": "0.3.3",
+  "src": {
+    "url": "https://github.com/4teapo/zed-luau",
+    "rev": "c4e9681320aa6d56f1bbdca4a0e3fe696816560b",
+    "date": "2025-10-16T22:36:11+02:00",
+    "path": "/nix/store/j21az55rdyfdl82pcg3fx8q4bhl8hk4p-zed-luau-c4e9681",
+    "sha256": "16npmay5p3199mh2flr41c6sda2l7ka4linx3f0q19bwvd5ii49w",
+    "hash": "sha256-PJEYS9t8pYCBG91GStQ8VKimDQskUydgTSmMW7yq15o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "luau_luau"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DjSoAOyzSMEdNuokU/o5kHIZFpVObVKIq6OTuDEccMc=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/luau.lock",
+    "outputHashes": {}
+  }
+}

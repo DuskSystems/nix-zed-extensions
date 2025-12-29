@@ -1,0 +1,23 @@
+{
+  "name": "odin",
+  "version": "0.3.6",
+  "src": {
+    "url": "https://github.com/zed-extensions/odin",
+    "rev": "1cdd79ec075c806ca544ddbba8c9424c640cd72a",
+    "date": "2025-12-29T13:46:04+01:00",
+    "path": "/nix/store/avi1k2vdb2isfbs3kfminc3j2xcr7hwy-odin-1cdd79e",
+    "sha256": "02wax7jwrnda5dzdvhvl76x0mvvqycg7ii1g33hgar66rk8rmz7n",
+    "hash": "sha256-9vya0czGZPXgGC/EeB7zeO8Kujl0w91+K6rZzOXpigs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "odin_odin"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-HXyLJlgcfFXTztCp9Rvh5Odi5mbvfnZtLInMiDtkd58="
+}

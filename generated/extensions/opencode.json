@@ -1,0 +1,19 @@
+{
+  "name": "opencode",
+  "version": "1.0.203",
+  "src": {
+    "url": "https://github.com/sst/opencode",
+    "rev": "7cc4b24ac2a57ab46e0dcbc3f1cb91d5f1c011be",
+    "date": "2025-12-26T04:10:11Z",
+    "path": "/nix/store/fsqk5v5d5kaisycpq8s0a9wqm8m6jss8-opencode-7cc4b24",
+    "sha256": "0v93r1yj77s6f79xmkvyklnhr1k0f1kz6bk5a62c6xh3ncg89zax",
+    "hash": "sha256-Xf2EHrMDdsOEUWUu82dwYIYMLZ1+z9rTcUafI33II20=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/extensions/zed",
+  "grammars": [],
+  "kind": "plain"
+}

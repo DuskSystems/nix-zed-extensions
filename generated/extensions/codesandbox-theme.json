@@ -1,0 +1,19 @@
+{
+  "name": "codesandbox-theme",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/MartinRybergLaude/zed-theme-codesandbox",
+    "rev": "533300a6663bb701bb34a8e9d463540f0dbf48fb",
+    "date": "2024-08-22T21:36:38+02:00",
+    "path": "/nix/store/pnb2yybhlzydk07rklx84gnffp71d4ga-zed-theme-codesandbox-533300a",
+    "sha256": "1g7iiyrm97pbylyi5a9knjm6njjdc005mz6n4ijx8zfj1683byw7",
+    "hash": "sha256-h/s1kAnSfdRlJNb8WgBgTUprqrQzqRI99eueVLOP8bw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

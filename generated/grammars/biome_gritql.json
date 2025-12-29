@@ -1,0 +1,18 @@
+{
+  "id": "biome_gritql",
+  "name": "gritql",
+  "version": "3a48815250680e85a44b3ab2fd74031ef3c66b7d",
+  "src": {
+    "url": "https://github.com/honeycombio/tree-sitter-gritql",
+    "rev": "3a48815250680e85a44b3ab2fd74031ef3c66b7d",
+    "date": "2025-09-21T11:58:02-07:00",
+    "path": "/nix/store/kzx65jrllqlj3x0mx6xlbh9d1dnvah16-tree-sitter-gritql-3a48815",
+    "sha256": "1w16900v7whf45qwjscwswyhxqf9p557600ck7gg46s4v336azn9",
+    "hash": "sha256-yX5lxthEG/LemQwAc0q5yeEOPdecaclxIQ7yswFIJvA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

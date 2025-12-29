@@ -1,0 +1,18 @@
+{
+  "id": "yarn-spinner_yarn_spinner",
+  "name": "yarn_spinner",
+  "version": "bdb90c2be17abe6bfd3d49ea444b627d603c8224",
+  "src": {
+    "url": "https://github.com/yuna0x0/tree-sitter-yarn-spinner",
+    "rev": "bdb90c2be17abe6bfd3d49ea444b627d603c8224",
+    "date": "2025-08-08T18:22:21+08:00",
+    "path": "/nix/store/ns8xbws7s2f8cd0kzajw1qg18vhb2j48-tree-sitter-yarn-spinner-bdb90c2",
+    "sha256": "08m0n4q56i5r7yr8d81hmncjdimnp942d8ijbxkkbiqyn0ppa2jf",
+    "hash": "sha256-Tgp1L7AexzVnXzKiJki6tsYmma0woIayP7lEUzCxoCI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

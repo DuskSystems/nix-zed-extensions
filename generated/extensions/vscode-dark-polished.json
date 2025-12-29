@@ -1,0 +1,19 @@
+{
+  "name": "vscode-dark-polished",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/yayashn/vscode-dark-polished",
+    "rev": "bf65eaa91fa721f039faf50f2851536a8223710f",
+    "date": "2025-05-16T14:10:15+01:00",
+    "path": "/nix/store/crv656sqk4zz2rsigi27a3nifklbsqz7-vscode-dark-polished-bf65eaa",
+    "sha256": "0x5b20qbzgljsg5zc0k070nb3r6rfbvapqf2083z30ga013n9rjk",
+    "hash": "sha256-U+ZkRwDqgfEHAsLhq/Zy2eSxLDhgAvbL05K+vzAQq3Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

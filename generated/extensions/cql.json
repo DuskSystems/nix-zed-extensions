@@ -1,0 +1,23 @@
+{
+  "name": "cql",
+  "version": "2.0.0",
+  "src": {
+    "url": "https://github.com/Akzestia/zed-cql",
+    "rev": "2b24f894f69ebfa120845ec7532918c58eea6bdd",
+    "date": "2025-11-08T03:27:41+09:00",
+    "path": "/nix/store/7lkwg1fs4z6a7kkx2k1yhdaanjqrfyvj-zed-cql-2b24f89",
+    "sha256": "1za45f7pnrbmimsw8ic0lmzb0f4vvd7b4ml6krqday8iiqb67haf",
+    "hash": "sha256-TsFjFo4RedVwnoZWsk7bmziwfqWARcR1jXVle48rRP0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cql_cql"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-4PRhE5vTF+Or3RvGF56Ulbyxn/rARUE1H0lFtMCWqRQ="
+}

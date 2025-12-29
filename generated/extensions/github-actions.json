@@ -1,0 +1,23 @@
+{
+  "name": "github-actions",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/neoncitylights/zed-github-actions",
+    "rev": "1bc384bf0b76cda8e8e9c539b040f2da309e591b",
+    "date": "2025-08-08T03:01:34-05:00",
+    "path": "/nix/store/hhan9nqi4wm6801i3zsvh3rf2wb110ys-zed-github-actions-1bc384b",
+    "sha256": "13i7wcsjx7vdy60dfxw1i02fh13q9lzk3zjcyfcmyga3q37dii2y",
+    "hash": "sha256-XsTYzsBDPV+Z80z+MT9NeAToBIiBd9eA8W2fLjXjJ44=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "github-actions_yaml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EDxlFoShkQM4i/TVe6zs5SCm2mJiipDw1nVI+DnDfHc="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "zedokai-darkest-machine",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/tuzemec/zedokai-darkest-machine",
+    "rev": "a9240ca12dd2b3d6f117a84f2f3cec6277ca9504",
+    "date": "2025-11-22T14:43:22+02:00",
+    "path": "/nix/store/33hc3y1haqrma9ck7gdi11p4r2vcvmjx-zedokai-darkest-machine-a9240ca",
+    "sha256": "1fwy6zlqffpkk9m9s7r4sb6jpmbibi1cs0cw2qfhc65ada6j5c16",
+    "hash": "sha256-JrAijWqqGAYdFpwBzUJccdUrzdIkH51qmvM6h+k3nrs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

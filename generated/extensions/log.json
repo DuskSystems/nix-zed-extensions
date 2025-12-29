@@ -1,0 +1,21 @@
+{
+  "name": "log",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/nervenes/zed-log",
+    "rev": "40628350d7e8322fcfb6f00ccb8d8c77df0d0402",
+    "date": "2024-08-27T18:27:49+02:00",
+    "path": "/nix/store/9iqy7kvagpx8ic7rbw3p6n22b3mqfa1r-zed-log-4062835",
+    "sha256": "1gkivkadkjxxd3kj0skmlgj8n6pq5w8003rb1ssgydfnhp96ca0s",
+    "hash": "sha256-Gihm0oXWNf+0DisPABAv+BqL5KN1aiDnaL3L2dTccb4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "log_log"
+  ],
+  "kind": "plain"
+}

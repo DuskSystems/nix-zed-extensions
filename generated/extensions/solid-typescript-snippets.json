@@ -1,0 +1,19 @@
+{
+  "name": "solid-typescript-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/HarryYu02/zed-solid-ts-snippets",
+    "rev": "c0335552dede2ac19e947e68cb32a69201c0a18c",
+    "date": "2025-06-19T10:24:00-04:00",
+    "path": "/nix/store/2ji6j2q1lmqch5n0cj94s183y3mzk4n5-zed-solid-ts-snippets-c033555",
+    "sha256": "0xjhv67c94rhv399bzama0dxfsr8yf17wdjfq2r4irl063xcxi5c",
+    "hash": "sha256-rMTO+jCA5kiywE42foLzKGvXG1BV/ZXS2DCTxI7ZUHY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

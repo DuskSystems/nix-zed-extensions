@@ -1,0 +1,25 @@
+{
+  "name": "typos",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/BaptisteRoseau/zed-typos",
+    "rev": "b5974d580eb2e3b2db8b4a751389b29f625bb57f",
+    "date": "2025-03-03T09:21:37+01:00",
+    "path": "/nix/store/wb1lqcks2wzdfgfiwkhxfym6ldgkggm2-zed-typos-b5974d5",
+    "sha256": "1fgi452c18ss4ivqibqwxzl0cnp37d71df5j334r5jw66zgjz23m",
+    "hash": "sha256-dYgv3zeGy5LJGLK4Fk4741oG6O8cr4h3JFqjwEQh8bk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-zXMvD7/+3s1m1YCdiyF1BP4fSfn1mV0bJkFwT8DHtqw=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/typos.lock",
+    "outputHashes": {}
+  }
+}

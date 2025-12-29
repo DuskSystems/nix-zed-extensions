@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-icons",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/ziishaned/zed-jetbrains-icons",
+    "rev": "55390e13d7172fecdd4d852f4c912a80067528d5",
+    "date": "2025-03-08T11:17:25-05:00",
+    "path": "/nix/store/fj0b89wpl0m6jlpim8qmljplfwx7ka03-zed-jetbrains-icons-55390e1",
+    "sha256": "1bbbjf4rk34bf58r8rdai3lqjhsdip4d64a6phxfv14sdgfvcxbr",
+    "hash": "sha256-eXW23WuahO06vEYR08iNTUOJ6YiqZZRRcYuMmYmTa60=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

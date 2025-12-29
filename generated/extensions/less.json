@@ -1,0 +1,23 @@
+{
+  "name": "less",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jimliang/zed-less",
+    "rev": "bd69c06000f9a49d65dd447ec8033b804127fe62",
+    "date": "2025-10-30T02:09:35+08:00",
+    "path": "/nix/store/ikrr9d6gb1prh6wxcn0an3fpvzlxp1sy-zed-less-bd69c06",
+    "sha256": "1r0kzfdgsmh9hj8xs591hpg68mfm1d1090nn1ix8slydlw06y2c1",
+    "hash": "sha256-gQlvAKfNU416DNaCBEIL1VVk3oUhFd2RhAlW/Zr7E+Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "less_less"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-mTbA/qAlGPKgAxjkdKyATUCOZMEfT0OKoyzOCYrqL9Q="
+}

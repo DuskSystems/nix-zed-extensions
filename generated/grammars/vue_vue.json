@@ -1,0 +1,18 @@
+{
+  "id": "vue_vue",
+  "name": "vue",
+  "version": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-vue",
+    "rev": "7e48557b903a9db9c38cea3b7839ef7e1f36c693",
+    "date": "2024-02-09T11:37:25-05:00",
+    "path": "/nix/store/yrf7rlvmav71jx7h413whan95v15wnxm-tree-sitter-vue-7e48557",
+    "sha256": "01kfqljqx08hv81ilk5bbk03skxmrnsbgnwkahng12miwq5lsgvp",
+    "hash": "sha256-dz9NC+axivAsVJPbt7TNtU89wFyrTBoD2hCBjiXFbgY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

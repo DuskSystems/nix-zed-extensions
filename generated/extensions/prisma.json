@@ -1,0 +1,23 @@
+{
+  "name": "prisma",
+  "version": "0.1.8",
+  "src": {
+    "url": "https://github.com/zed-extensions/prisma",
+    "rev": "80d3ab68381a50caccbf4b6b4eb776e33a0ba7c1",
+    "date": "2025-12-18T21:21:51Z",
+    "path": "/nix/store/43prahmb25l1q78fx0pvgrxzynpl969d-prisma-80d3ab6",
+    "sha256": "142mp63qm9f69y0ali1nll6w17p7p8rwx4k11dnfqrnrkknskyv0",
+    "hash": "sha256-YPup7ZzZZuxsC2GSzjO6557ADaU2RKqAT8alioe5VZA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "prisma_prisma"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-+Tp1IVS1qVGvYjVFLItvgayyQJlmPUzm4EEOaiWImdM="
+}

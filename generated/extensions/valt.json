@@ -1,0 +1,19 @@
+{
+  "name": "valt",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/valtism/valt",
+    "rev": "cd77c375f2a9d8b4dae34c30a30d40613602094b",
+    "date": "2025-11-14T16:21:54+11:00",
+    "path": "/nix/store/cq3rc61rnirbyh008lgz5nqzglqfvhrp-valt-cd77c37",
+    "sha256": "0w9j42b3yry489pvnn4xlszb31n466g0bdy07yhj8r74l99rph5x",
+    "hash": "sha256-vcCbU6LkZCShP8C3BZ4xxIaxvqadWLtvQsRnP5YgMnE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

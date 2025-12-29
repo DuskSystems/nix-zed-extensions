@@ -1,0 +1,19 @@
+{
+  "name": "emerald-night",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/iamngoni/emerald-night-theme",
+    "rev": "e3b4b2fc4ab2477281b4327046c9eb0cae71e9af",
+    "date": "2025-05-20T10:57:54+03:00",
+    "path": "/nix/store/j4r7fdzq6xqp0charr669j3dk2fbaq4v-emerald-night-theme-e3b4b2f",
+    "sha256": "15brn8slqp72grl2zjj7mncvgadzgg02055sf6am3fvnhd3n3ppa",
+    "hash": "sha256-6t5hR4N2u1GVcboUIMB7v6m3ma1Hyi9ofuJcTDWyeZU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -40,13 +40,47 @@ async fn run() -> anyhow::Result<()> {
     let args: Vec<String> = std::env::args().collect();
     match args.get(1).map(String::as_str) {
         Some("sync") => {
-            let output_path = Path::new("extensions.json");
-            let mut output: NixExtensions = if output_path.exists() {
+            let mut output = NixExtensions::default();
+
+            // Load existing extensions
+            let extensions_dir = Path::new("generated/extensions");
+            if extensions_dir.exists() {
                 tracing::info!("Loading existing extensions");
-                serde_json::from_str(&fs::read_to_string(output_path).await?)?
-            } else {
-                NixExtensions::default()
-            };
+
+                let mut entries = fs::read_dir(extensions_dir).await?;
+                while let Some(entry) = entries.try_next().await? {
+                    let path = entry.path();
+                    if path
+                        .extension()
+                        .is_some_and(|extension| extension == "json")
+                    {
+                        let content = fs::read_to_string(&path).await?;
+                        if let Ok(extension) = serde_json::from_str(&content) {
+                            output.extensions.push(extension);
+                        }
+                    }
+                }
+            }
+
+            // Load existing grammars
+            let grammars_dir = Path::new("generated/grammars");
+            if grammars_dir.exists() {
+                tracing::info!("Loading existing grammars");
+
+                let mut entries = fs::read_dir(grammars_dir).await?;
+                while let Some(entry) = entries.try_next().await? {
+                    let path = entry.path();
+                    if path
+                        .extension()
+                        .is_some_and(|extension| extension == "json")
+                    {
+                        let content = fs::read_to_string(&path).await?;
+                        if let Ok(grammar) = serde_json::from_str(&content) {
+                            output.grammars.push(grammar);
+                        }
+                    }
+                }
+            }
 
             tracing::info!("Cloning extensions registry");
 
@@ -257,8 +291,70 @@ async fn run() -> anyhow::Result<()> {
             output.extensions.sort_by(|a, b| a.name.cmp(&b.name));
             output.grammars.sort_by(|a, b| a.id.cmp(&b.id));
 
-            let output = serde_json::to_string_pretty(&output)?;
-            fs::write(output_path, output).await?;
+            // Write extension files
+            if !extensions_dir.exists() {
+                fs::create_dir_all(extensions_dir).await?;
+            }
+
+            let mut existing = fs::read_dir(extensions_dir).await?;
+            while let Some(entry) = existing.try_next().await? {
+                let file_name = entry.file_name();
+                let file_name = file_name.to_string_lossy();
+
+                if let Some(name) = file_name.strip_suffix(".json")
+                    && !output
+                        .extensions
+                        .iter()
+                        .any(|extension| extension.name == name)
+                {
+                    tracing::info!(name = name, "Removing stale extension file");
+                    fs::remove_file(entry.path()).await?;
+                }
+
+                if let Some(name) = file_name.strip_suffix(".lock")
+                    && !output
+                        .extensions
+                        .iter()
+                        .any(|extension| extension.name == name)
+                {
+                    tracing::info!(name = name, "Removing stale lockfile");
+                    fs::remove_file(entry.path()).await?;
+                }
+            }
+
+            for extension in &output.extensions {
+                let name = &extension.name;
+                let path = extensions_dir.join(format!("{name}.json"));
+                let json = serde_json::to_string_pretty(&extension)?;
+                fs::write(path, json).await?;
+            }
+
+            // Write grammar files
+            if !grammars_dir.exists() {
+                fs::create_dir_all(grammars_dir).await?;
+            }
+
+            let mut existing = fs::read_dir(grammars_dir).await?;
+            while let Some(entry) = existing.try_next().await? {
+                let id = entry
+                    .file_name()
+                    .to_string_lossy()
+                    .trim_end_matches(".json")
+                    .to_owned();
+
+                if !output.grammars.iter().any(|grammar| grammar.id == id) {
+                    tracing::info!(id = id, "Removing stale grammar file");
+                    fs::remove_file(entry.path()).await?;
+                }
+            }
+
+            for grammar in &output.grammars {
+                let id = &grammar.id;
+                let path = grammars_dir.join(format!("{id}.json"));
+                let json = serde_json::to_string_pretty(&grammar)?;
+                fs::write(path, json).await?;
+            }
+
             fs::remove_dir_all(tmp_registry).await?;
         }
 

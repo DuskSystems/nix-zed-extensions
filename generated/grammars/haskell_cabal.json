@@ -1,0 +1,18 @@
+{
+  "id": "haskell_cabal",
+  "name": "cabal",
+  "version": "6f00f6d4883eb2eb650eea7cc1e95bd25e48419c",
+  "src": {
+    "url": "https://gitlab.com/zweimach/tree-sitter-cabal/",
+    "rev": "6f00f6d4883eb2eb650eea7cc1e95bd25e48419c",
+    "date": "2025-02-02T14:49:36+07:00",
+    "path": "/nix/store/4bgpi8gclky1f5jcs35n8kl0i5wfwkpa-tree-sitter-cabal-6f00f6d",
+    "sha256": "0m78smmhwxwgqpz8vhj2snj3w3jqyz94hghh0hwi3h1z2ab2gf1q",
+    "hash": "sha256-OLgnlhI/wBE5BBA+SNL3WA4+pNVCwo3+xY93DmvV6FQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

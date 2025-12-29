@@ -1,0 +1,21 @@
+{
+  "name": "org",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hron/zed-org",
+    "rev": "ac77ff54da59b458af967781aff8ff28794ca12c",
+    "date": "2024-10-31T10:10:36+02:00",
+    "path": "/nix/store/6gci9nzif011fnq3fsabapzhydz92h3s-zed-org-ac77ff5",
+    "sha256": "18y7p511p92nlaavy1v7d2yyh1h3g39hv90l1djvv8r8rdhg119w",
+    "hash": "sha256-PIXwYMsoo71lCxSkDdN4AwbovWhnB7+VolakG0K5x6M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "org_org"
+  ],
+  "kind": "plain"
+}

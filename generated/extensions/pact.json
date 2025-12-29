@@ -1,0 +1,27 @@
+{
+  "name": "pact",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/kadena-community/pact-zed",
+    "rev": "a7523929ad58e092bd423190ef9f54ad4d72003d",
+    "date": "2025-01-15T00:20:05+01:00",
+    "path": "/nix/store/gyfghfrxbjxddvr2m34hlg7pasql3yfk-pact-zed-a752392",
+    "sha256": "0xqmbsphgi67cx4fpz8vfczzggbv50yikavvb8a8q0cb2ycb3xcp",
+    "hash": "sha256-l/WxmBeLAYwUWnurGT0oe733P3Mb/etIZ8fEB69eFXc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pact_pact"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-fIh1QGE6m/fgM2xh+qkt55wo2p7gyRtqzYMYcwIfDck=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/pact.lock",
+    "outputHashes": {}
+  }
+}

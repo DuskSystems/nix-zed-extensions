@@ -1,0 +1,21 @@
+{
+  "name": "nickel",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/norpadon/zed-nickel-extension",
+    "rev": "43dc9211366996fa8be6c4f8a99e44813dbd4faa",
+    "date": "2024-09-03T03:17:42+04:00",
+    "path": "/nix/store/x1mn0cs6g9rgnv4z7cqm814xn6hdnd0z-zed-nickel-extension-43dc921",
+    "sha256": "1vb7d0bs2a7bwc4lh20ackg2ic2r9lls35azlb3nz9ljq1ylkip0",
+    "hash": "sha256-4MZJfcCSpm/Hol+VoSlNWbAo3mQKCEgJ4+sooRdoZ+0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nickel_nickel"
+  ],
+  "kind": "plain"
+}

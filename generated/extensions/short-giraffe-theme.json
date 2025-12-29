@@ -1,0 +1,19 @@
+{
+  "name": "short-giraffe-theme",
+  "version": "2.2.0",
+  "src": {
+    "url": "https://github.com/Mehdi-Hp/Short-Giraffe",
+    "rev": "bf90d6ab252a3198aec67bfe81fce857a665f47e",
+    "date": "2025-12-17T10:00:34+04:00",
+    "path": "/nix/store/0milsyxkwibw00xxd1hprc3mmyssslcv-Short-Giraffe-bf90d6a",
+    "sha256": "1hmkp7m2aw6v66llli16jii1jr5gc0lidf8kp20crs7aavag8ws1",
+    "hash": "sha256-QXP01Fbq6MyAuBO5Filgr2QZYpQmREqpMdtwJeq5s8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

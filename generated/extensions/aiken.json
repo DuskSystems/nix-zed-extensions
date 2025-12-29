@@ -1,0 +1,23 @@
+{
+  "name": "aiken",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/aiken-lang/zed-aiken",
+    "rev": "233e36248138ebb0e81c9f8f63c5ac4fbca8162d",
+    "date": "2024-09-05T17:39:44-04:00",
+    "path": "/nix/store/agzlmln5z0byx2s0gbx8sgls1ik4j1yj-zed-aiken-233e362",
+    "sha256": "1rqlc4w66jrgqhzg69v6l4mpd0srp3gnb05b2sh5vxk0v82wrlnk",
+    "hash": "sha256-09LMBdpg9l2gFquAZd+4WYN2K6FmJ/M+xC9LYzhhFOc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "aiken_aiken"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-43/+44pL4SoUvwKiFKLGFbHpeg7Nw/4y7Nsf/kdoKMw="
+}

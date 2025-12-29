@@ -1,0 +1,27 @@
+{
+  "name": "edge",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/Hexacker/zed-edge",
+    "rev": "e3fe08623f2a7ff9b2e6687d529603b2feb43e68",
+    "date": "2025-10-09T12:23:25-04:00",
+    "path": "/nix/store/yjb7cjl2dfv06mz1sk97p0b5bcvfhj4n-zed-edge-e3fe086",
+    "sha256": "00kjz0isvbpg2dkajb90wgn594q0rvrk94psxrfw8ngx0s82mhgm",
+    "hash": "sha256-9cEqkAb9WcRd7vqSNPPOAJNU7OMgLalmE++urSP4cgI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "edge_edge"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Y73yxrp1TiIpUyoZGFTTdCpMQmY6wq1XAbuW2QvC5RQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/edge.lock",
+    "outputHashes": {}
+  }
+}

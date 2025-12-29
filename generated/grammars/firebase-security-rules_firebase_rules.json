@@ -1,0 +1,18 @@
+{
+  "id": "firebase-security-rules_firebase_rules",
+  "name": "firebase_rules",
+  "version": "065c18e6f18436b1d4594f2cb2d6e448a987b737",
+  "src": {
+    "url": "https://github.com/ChemisTechlabs/tree-sitter-firebase-security-rules",
+    "rev": "065c18e6f18436b1d4594f2cb2d6e448a987b737",
+    "date": "2025-05-13T06:05:24-03:00",
+    "path": "/nix/store/2g3znqrmz79a2jpidwqxaldwgm8s9v8s-tree-sitter-firebase-security-rules-065c18e",
+    "sha256": "1x14vmn14dxpdmjmp19ssws6z172qksg35jzzj5lcr8d62x8w6gv",
+    "hash": "sha256-+xmOujANZUaL/F+W8fTE4oRvNNc6hVtlbbc3EmzdJPQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

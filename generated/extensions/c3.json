@@ -1,0 +1,27 @@
+{
+  "name": "c3",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/AineeJames/c3-zed",
+    "rev": "53e3bbfb25283ba053f6a31c887ad5ed7c50e132",
+    "date": "2024-08-16T15:13:34-06:00",
+    "path": "/nix/store/vnl1xhy0kf6z6nxkilm8p277n9y2apfj-c3-zed-53e3bbf",
+    "sha256": "0svxn7z2z1p0r5g57snw9r1aqq9323x8bgc4ww5y8cfwxxhp3bm8",
+    "hash": "sha256-qK5xYe/cMeQL54S9hfoQI2GsQk7c6lNeyeCGL/6xfWs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "c3_c3"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UMREpCpv7JFKZmfMNO1Acl9ZuaKZ6dKZQpfGvvoV9HQ=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/c3.lock",
+    "outputHashes": {}
+  }
+}

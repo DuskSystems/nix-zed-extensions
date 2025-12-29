@@ -1,0 +1,25 @@
+{
+  "name": "zabby",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/arne-fuchs/zabby",
+    "rev": "9e4e36a983fc99b150aa852e6872d2038c6d751b",
+    "date": "2025-10-22T07:00:57+02:00",
+    "path": "/nix/store/l7w9ni2hnq9x5p0clb398q2rb0svqvd4-zabby-9e4e36a",
+    "sha256": "1954152yammxl97ah6gb87ybn0756cjdgq28h8dvzncf9wi3dn6x",
+    "hash": "sha256-3dg2Ik+O2b8bgkjg1yQz5QC7/EHrGahOor1W5UUJpKQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0osHM9xm8MMdhIvm9WW1PGZTkv6vXkxqaeF2XExJ7q0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/zabby.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "desktop",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mikaeladev/zed-desktop-entry",
+    "rev": "6b3b22b2a0eec6d4bf7d0802c019b845165d0081",
+    "date": "2025-09-21T17:26:04+01:00",
+    "path": "/nix/store/vg7iglxhhr58k7r3kc4mnzcgmbvzhyrb-zed-desktop-entry-6b3b22b",
+    "sha256": "08jidnipg1bgy31m5x6y9fnwdd730wc82ly13680cdw44vbdijsq",
+    "hash": "sha256-WMvY1iaENwaQGcFTgRgH47TGrUve9FLD8G+Fd6NtUSI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "desktop_desktop"
+  ],
+  "kind": "plain"
+}

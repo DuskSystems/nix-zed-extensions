@@ -1,0 +1,18 @@
+{
+  "id": "apache-avro_apache_avro",
+  "name": "apache_avro",
+  "version": "ca58349187a30c3d33cf44315e33cf1cf7b886a6",
+  "src": {
+    "url": "https://github.com/victorhqc/tree-sitter-apache-avro",
+    "rev": "ca58349187a30c3d33cf44315e33cf1cf7b886a6",
+    "date": "2025-10-05T21:44:09+02:00",
+    "path": "/nix/store/fcail1ikap9d7n6w3k9qb1xslhlw1mlh-tree-sitter-apache-avro-ca58349",
+    "sha256": "1v6nzqpkiw86r27nx51vwz1398najiz4c40ap1pn2w694s123c8v",
+    "hash": "sha256-G7EhgibJcGFvuAoQRn6UyqI0wuc7lG6PyAbxOC/+1uw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

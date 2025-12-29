@@ -1,0 +1,18 @@
+{
+  "id": "edge_edge",
+  "name": "edge",
+  "version": "e18511cbab58d115484b321b1e6afcfa19023ffc",
+  "src": {
+    "url": "https://github.com/Hexacker/tree-sitter-edge",
+    "rev": "e18511cbab58d115484b321b1e6afcfa19023ffc",
+    "date": "2025-09-28T23:23:02-04:00",
+    "path": "/nix/store/lkbkndlbkv352zx6r9qnxc166ljs825a-tree-sitter-edge-e18511c",
+    "sha256": "0bh4k44z4l30hkscs8brw5dl0ckzdfmys3mjzw7n8b55lqyx4rbf",
+    "hash": "sha256-bmXSPaalLGQP/7IO7atrfzJAW+F5Ic30hGBQ8gmZBC4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

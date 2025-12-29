@@ -1,0 +1,21 @@
+{
+  "name": "elisp",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/JosephTLyons/zed-elisp",
+    "rev": "c9503d449ba19cff82620c19ba247108d0bac50c",
+    "date": "2025-12-02T23:25:43-05:00",
+    "path": "/nix/store/gm5alkrvkdn7pl6x18f0mi6wfld01ww3-zed-elisp-c9503d4",
+    "sha256": "05vgvcsqq8jh9kbbygzgf8vcdwn09j6wxjm0f8f0ni4grrr05dih",
+    "hash": "sha256-MLYCcs6PRAsccqDKzo1MwPLGNnLvP7/WTFAijDXbbxc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "elisp_elisp"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "green-monochrome-monitor-crt-phosphor",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/Takk8IS/green-monochrome-monitor-crt-phosphor-theme-for-zed",
+    "rev": "f5321c0f64447b68f9c7e8e77fb02a76ca6d3839",
+    "date": "2024-05-31T23:08:44+02:00",
+    "path": "/nix/store/z4xyhvyg5szxqba8p2h7sq54nkhr7743-green-monochrome-monitor-crt-phosphor-theme-for-zed-f5321c0",
+    "sha256": "0n35zz33s7rf705nxq3ijpwcz2n0f218kr9ylk36gp4q0niprf19",
+    "hash": "sha256-Kbh8owWY3GfGpD7liYJwwIrP+JVx4G4LOC4fPcb/ZVg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

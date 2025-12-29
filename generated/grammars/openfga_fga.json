@@ -1,0 +1,18 @@
+{
+  "id": "openfga_fga",
+  "name": "fga",
+  "version": "ee713b95766f8488206330ba8e5e810daadacf86",
+  "src": {
+    "url": "https://github.com/matoous/tree-sitter-fga",
+    "rev": "ee713b95766f8488206330ba8e5e810daadacf86",
+    "date": "2025-08-12T08:19:29+02:00",
+    "path": "/nix/store/bf1w21kabkzgfp2mi4y4yfn2qmm5c0c5-tree-sitter-fga-ee713b9",
+    "sha256": "0h3pxc3r9ihvxjqxg3zqfkcji70w5qbabc4lqn33aakiffmjiyrp",
+    "hash": "sha256-N/soq3NxKjWGxZSwpRYuHJwo2XT4j9ex7BvGlAfrd0A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

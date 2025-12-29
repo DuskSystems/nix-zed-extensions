@@ -1,0 +1,19 @@
+{
+  "name": "arctic-depth",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/MarvellinusVincent/Arctic-Depth-Zed",
+    "rev": "7749cfd395e5e4aaca88b67eb876cfd5aa338a78",
+    "date": "2025-04-15T16:36:54-04:00",
+    "path": "/nix/store/9xxc8fxq14yrx7gk5gb7lnswspiyjahn-Arctic-Depth-Zed-7749cfd",
+    "sha256": "1i6a3jm1fxrzxb0z20prrqi5lrk9k0xcy6m8r49fsaj46qjlisbx",
+    "hash": "sha256-felIJTZEKu0SyagazzqYaWZaIs75AvHB6j93F6ocysQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

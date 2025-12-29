@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-shortcut",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/useshortcut/zed-extension-mcp-server-shortcut",
+    "rev": "be05e83a5f27f277b76d9672dd050f57bb2e71cd",
+    "date": "2025-08-20T16:44:59-04:00",
+    "path": "/nix/store/dlzbnv9f2mf4yp9an3zgbd6hqpb8ii78-zed-extension-mcp-server-shortcut-be05e83",
+    "sha256": "04cxv3knxvnp310ymfdyjmmfzgz3zwg5kclldhygf5apcgg0hq6n",
+    "hash": "sha256-1mAI3mNXFfc8bJSyWR7/47/vapW+uepBGNfubufYnRE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NtQCcpP4sFt/ZGScfh6nb3wC8cZBciCils5S6MbxKjI="
+}

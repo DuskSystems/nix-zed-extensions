@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-material",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/tokiory/zed-gruvbox-material",
+    "rev": "17882066385c0d6114359346725580f859ba815b",
+    "date": "2024-07-30T13:35:36+03:00",
+    "path": "/nix/store/k7ysgpd6zy7j1z4sy1fz591zxkcrv4a2-zed-gruvbox-material-1788206",
+    "sha256": "0419jhy1i1pjyq40sykrazm62vkrdh43gdwz4zwggi5zk4m7sljs",
+    "hash": "sha256-WlJ9Kpm/xPf4J5+3NwhseW5h6ld5eg0I9vKGGDyUKRA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

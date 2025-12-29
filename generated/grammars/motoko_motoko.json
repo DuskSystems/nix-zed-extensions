@@ -1,0 +1,18 @@
+{
+  "id": "motoko_motoko",
+  "name": "motoko",
+  "version": "891ae5cda01d2e1f1e7fa8155f223bc12f537ead",
+  "src": {
+    "url": "https://github.com/christoph-dfinity/tree-sitter-motoko",
+    "rev": "891ae5cda01d2e1f1e7fa8155f223bc12f537ead",
+    "date": "2025-11-18T10:07:23+01:00",
+    "path": "/nix/store/9bf3f3m4w778vvignwfk2b53lc5x64bm-tree-sitter-motoko-891ae5c",
+    "sha256": "1x144ncbsgx0xb5njg887g4pgvnm59fcj28k6dl3yqhyhg34677g",
+    "hash": "sha256-7xxDxoMeYj9oMxMJyVwq1e53yTsIPWnL6qA/vZglJPQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

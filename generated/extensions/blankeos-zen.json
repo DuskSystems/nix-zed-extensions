@@ -1,0 +1,19 @@
+{
+  "name": "blankeos-zen",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/Blankeos/zen.zed",
+    "rev": "be037ab0efbf4cd31f04ef9e81f14faf686a0b97",
+    "date": "2025-10-20T22:20:24+08:00",
+    "path": "/nix/store/siqnxbzyx03z9s9fy5m9afaf5ymsq17s-zen.zed-be037ab",
+    "sha256": "06mmqp369qzlz6qa9f5pb6kdkmha8l8xhg9ilhwvln6rl1q8qfdg",
+    "hash": "sha256-rzmMcKDZWLo5pDE92BFFCtbZplm3uKSw+fTjZMbFtRo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

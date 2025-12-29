@@ -1,0 +1,21 @@
+{
+  "name": "ast-grep",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mathieulj/ast-grep-zed",
+    "rev": "832051b9b2c433bd819880ad3c2142ed097ebc42",
+    "date": "2025-04-13T19:57:26-04:00",
+    "path": "/nix/store/zdz0klvx3s7yjmsmd5k0xqn2fb76d5ac-ast-grep-zed-832051b",
+    "sha256": "1dl0721vgizwf9lkclxrsahk374v0x7rz3ivc9rl2mxcazh0r4wv",
+    "hash": "sha256-m5MM4FesV0FzYjuOn08Hm5wxodK5UzZpcvzHt4M4gLY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-xtqbPf+ajLQhxjvZBkIf7GWKPMrAPKae6iF+y5f5t2M="
+}

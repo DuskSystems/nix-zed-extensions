@@ -1,0 +1,19 @@
+{
+  "name": "bearded",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/lassejlv/bearded-themes",
+    "rev": "38a9026cf6b9d49b4c201aa6517bd3ca5a2ab2f0",
+    "date": "2024-12-01T22:15:33+01:00",
+    "path": "/nix/store/s99hdkbbvm47ml8v27rm7jgk1l15mzad-bearded-themes-38a9026",
+    "sha256": "0ms74jbd5wz2269zfh5j7cchjf2gfv61cpi9gmb13mapjwnmjcm8",
+    "hash": "sha256-qDJZLZdX1RFWfSleFsx2TzgJGTuyQPeTEeLz0pYkR1c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

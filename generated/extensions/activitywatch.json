@@ -1,0 +1,28 @@
+{
+  "name": "activitywatch",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/sachk/aw-watcher-zed",
+    "rev": "c61cb892cb19e12ec7bfe476e4f6cd8c9ea81196",
+    "date": "2025-03-20T23:11:59+11:00",
+    "path": "/nix/store/4gkp4dhzr6qabajm8cvjd3gz8nlryizi-aw-watcher-zed-c61cb89",
+    "sha256": "1xm0ypf3c61yffg832zaxy8zivrvj80x6p3dgvp2az6sccdqjs8i",
+    "hash": "sha256-EWmJG2PafCXufm1c0wGSO+/4ke/qi4Gecz4YNtz1oPY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-5f/sdccXFoj4tNX08/6HxRV9dj9S0lYHE822pagoDiM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/activitywatch.lock",
+    "outputHashes": {
+      "aw-client-rust-0.1.0": "sha256-W1NDIh97IMJgMCgd6raD8kkEmnOzQKlawebJHbSOLEw=",
+      "aw-models-0.1.0": "sha256-W1NDIh97IMJgMCgd6raD8kkEmnOzQKlawebJHbSOLEw="
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "simula_simula",
+  "name": "simula",
+  "version": "9d91a20228d1bc6490f6723028cab97d03964fa6",
+  "src": {
+    "url": "https://github.com/eirslett/tree-sitter-simula",
+    "rev": "9d91a20228d1bc6490f6723028cab97d03964fa6",
+    "date": "2024-09-02T01:13:22+02:00",
+    "path": "/nix/store/h4ch1lad9pzwn1njn8dh6qwa5hp79vlm-tree-sitter-simula-9d91a20",
+    "sha256": "09vx1yysllpsflasw7n4ggrpgksqqjv7z12yhf4javmcwni2a0lk",
+    "hash": "sha256-kwIlouWsbiWJg16Ef7bEWM9383vEHq4VdfpSqr0PfSc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

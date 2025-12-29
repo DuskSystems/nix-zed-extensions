@@ -1,0 +1,19 @@
+{
+  "name": "base16",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/bswinnerton/base16-zed",
+    "rev": "467071f1a658d00ec4fe7220fd2e711b1edb98bf",
+    "date": "2025-06-13T09:26:34-07:00",
+    "path": "/nix/store/pp74089s9qpcjkr0pca09b8g1310hhcy-base16-zed-467071f",
+    "sha256": "1cprqzfihkn7q64cjwsm1dbsz6071vvdw9pp31j17npxvkw920i8",
+    "hash": "sha256-KAKR+Nz92hNkGPcm3vYOB5ivVwtVc8mIwcdOGN3H+bI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

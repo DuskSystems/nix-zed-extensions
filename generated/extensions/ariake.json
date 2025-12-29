@@ -1,0 +1,19 @@
+{
+  "name": "ariake",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/artivilla/zed-ariake-theme",
+    "rev": "157d17a00321011dff1dad287b8444e449304fc6",
+    "date": "2024-10-16T05:58:57-07:00",
+    "path": "/nix/store/abm67dsqksbky5q8mhwc7hqqi096a4rr-zed-ariake-theme-157d17a",
+    "sha256": "1955hpic4hdyc69aa6wyc1nfa1qxfsy5gk49f112p85s88gdqicz",
+    "hash": "sha256-n0XcHkK6oCtCcInMV7x2HQflbGCeG6WSYb5BwuKFpaQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

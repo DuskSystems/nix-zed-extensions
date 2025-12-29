@@ -1,0 +1,19 @@
+{
+  "name": "outrun",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/Acepie/OutrunZedTheme",
+    "rev": "50f67dcd368b438ff6b3a7b8d92a176c55d59198",
+    "date": "2025-03-20T09:39:12-04:00",
+    "path": "/nix/store/rmf1ww9hipya2mcryy170bj0b5hjrqbn-OutrunZedTheme-50f67dc",
+    "sha256": "08bdqfgp7ccgpp810ph3riiy42dskxrm7db378kya9gakpa7nqfi",
+    "hash": "sha256-0WF71J3qJeUnOmO1U3OfugniY8wDXhDQvY+xc5/DbSE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

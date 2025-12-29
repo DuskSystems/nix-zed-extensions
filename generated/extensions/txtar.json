@@ -1,0 +1,21 @@
+{
+  "name": "txtar",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/FollowTheProcess/zed-txtar",
+    "rev": "8575b38b1aa0ee9617a0f3bb3b48313454b1b70c",
+    "date": "2025-07-14T15:11:12+01:00",
+    "path": "/nix/store/0y73bj37m68jb3hsalb5gc262p8z3675-zed-txtar-8575b38",
+    "sha256": "1hl32fzcmpnxksbd8igx9y6lxgia8fg2v9ci1ky037j2zi4dqxwi",
+    "hash": "sha256-kXfcSPxCngH8DJGlLZ5DKr5OjU/9RdSWnt3eyr4Tg8I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "txtar_txtar"
+  ],
+  "kind": "plain"
+}

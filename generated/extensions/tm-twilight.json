@@ -1,0 +1,19 @@
+{
+  "name": "tm-twilight",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/waldirbertazzijr/zed-twilight",
+    "rev": "00a66a916c82d7cf7109faca9865e1e15c908af1",
+    "date": "2025-08-02T10:18:55-03:00",
+    "path": "/nix/store/8w7fd6ni7g3a3lnn6rmpr7jxzblpl6p1-zed-twilight-00a66a9",
+    "sha256": "0jg1kl8r4gqr68lq1clzrbfw1w4lpqc6niw09fhwkyx6gfkd9l86",
+    "hash": "sha256-BtHUpnum+8mhS4BHaxi+lPDA3cqfsoApMhk/khGd4Uk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

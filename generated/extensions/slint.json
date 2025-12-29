@@ -1,0 +1,23 @@
+{
+  "name": "slint",
+  "version": "1.14.1",
+  "src": {
+    "url": "https://github.com/slint-ui/slint",
+    "rev": "ce50ea806a9a1d512d30acab6f99c8a1d511505f",
+    "date": "2025-10-23T11:13:01+02:00",
+    "path": "/nix/store/c9ykdmphzpn0ymdrnqp7f3m73vs773v9-slint-ce50ea8",
+    "sha256": "0f1xqlnq0015n2jx0dm9kl4lrl00lc3xfgrw3lmycn2lxcx345n4",
+    "hash": "sha256-xBYyOutUWOYrHTw/1wejANBMCZ2pNtClsCUAgC3FPTg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [
+    "slint_slint"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-sRfQOK+wXnI7enqa2I9+iD3OehxVfr2cj8hsn75InbA="
+}

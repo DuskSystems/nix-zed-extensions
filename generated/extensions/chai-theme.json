@@ -1,0 +1,19 @@
+{
+  "name": "chai-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/rushabhcodes/zed-chai-theme",
+    "rev": "b2b712bd25900ca2924372dcf9180dedc0014e37",
+    "date": "2025-04-27T11:05:33+05:30",
+    "path": "/nix/store/nfrv9ml9gzg89yfvrp1n3yxx9gm26ka4-zed-chai-theme-b2b712b",
+    "sha256": "17rzxfqmlpncchaqiiyj9m0k780aqr1b7834rv9fw70rislnds1q",
+    "hash": "sha256-OOhmqY4ZHO7SzmSgs0LGCqAzQU3Sx4gVZMxeWrHrP58=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

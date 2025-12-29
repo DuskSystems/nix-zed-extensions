@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-newsnow",
+  "version": "0.0.10",
+  "src": {
+    "url": "https://github.com/benmooo/zed-mcp-server-newsnow",
+    "rev": "cf65c96a5225fe08c9ee8c80bc082972c8f9c377",
+    "date": "2025-08-23T09:44:41+08:00",
+    "path": "/nix/store/825cgcpkp5xbq0rhq94higgfjqh8xnms-zed-mcp-server-newsnow-cf65c96",
+    "sha256": "1sf6fp90d68p96wvwgfdp4v7plrdj31v1sr4qd78dnq3b4nbab1d",
+    "hash": "sha256-LSy1LFkD24ZOwyTrsMOQLdN7NrnNPb65SReZBtJ1xuk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-m1FrW4px/n8MOGISwe6NAFLdjw3Hw6bXNqndFPFW7W0="
+}

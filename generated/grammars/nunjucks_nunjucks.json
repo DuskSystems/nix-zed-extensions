@@ -1,0 +1,18 @@
+{
+  "id": "nunjucks_nunjucks",
+  "name": "nunjucks",
+  "version": "683a6e9b3c836f8e02a90ce6a348395f7f95e331",
+  "src": {
+    "url": "https://github.com/stormwarning/tree-sitter-nunjucks",
+    "rev": "683a6e9b3c836f8e02a90ce6a348395f7f95e331",
+    "date": "2025-07-31T13:49:47-06:00",
+    "path": "/nix/store/ysqc3rmag66fz5zbh2fg98d73yk6snj7-tree-sitter-nunjucks-683a6e9",
+    "sha256": "19vbsgk06j1qxzai3cvd4q930n7wd89lr9yiwnzsb66x848k49i9",
+    "hash": "sha256-KSYyEUHdmKW/5dGnTBNq/FgwEiZtsxHV7zhIA+bTa6c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

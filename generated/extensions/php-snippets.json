@@ -1,0 +1,19 @@
+{
+  "name": "php-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/seekode/zed-php-snippets",
+    "rev": "906904b84c8d9e352b0df9967ff786337c2e8209",
+    "date": "2025-10-01T13:38:26+02:00",
+    "path": "/nix/store/pjp71a2crd2y3hr1w06aq3ir5srx9p14-zed-php-snippets-906904b",
+    "sha256": "01p9zhih0nyi72rnz1p2fqh5f8qn8nzk0pyfskdf5bnaj2pm7y7b",
+    "hash": "sha256-6/hTr5DKruLa1M5fML9FFiNXIHbihm+zONFbACP86QY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

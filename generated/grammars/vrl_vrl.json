@@ -1,0 +1,18 @@
+{
+  "id": "vrl_vrl",
+  "name": "vrl",
+  "version": "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba",
+  "src": {
+    "url": "https://github.com/belltoy/tree-sitter-vrl",
+    "rev": "274b3ce63f72aa8ffea18e7fc280d3062d28f0ba",
+    "date": "2024-07-31T01:48:21+08:00",
+    "path": "/nix/store/785h2xz4lmcd6n43qw312bmskraapwjg-tree-sitter-vrl-274b3ce",
+    "sha256": "1pji8j2c1n0xmaz8b4v2zm326f6g3m08kqp4sqsn1g14qldjxv27",
+    "hash": "sha256-R+wuG8UkvGA11uTiiUAdzzgjRv1ik4W+qh3YwIREUd4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

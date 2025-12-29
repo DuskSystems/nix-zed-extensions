@@ -1,0 +1,27 @@
+{
+  "name": "cadence",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/janezpodhostnik/cadence.zed",
+    "rev": "2c2fde6b3333ffe9fa50f9ba748401011cd81584",
+    "date": "2024-08-19T15:00:19+02:00",
+    "path": "/nix/store/2slxl0f0y4snh3cr3gpajgm7rglasm5z-cadence.zed-2c2fde6",
+    "sha256": "00iqdbbdyaqhpwx6hnhfp401lra25pi8p7pn9sj2dnl04j4ymf66",
+    "hash": "sha256-xrjqiSSA2iakTvaei+ItQmUaALkOWmg6vxAr39ZqOAI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cadence_cadence"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DXdH8DX8bB+xGnfrqc1Ov1nGRnXJi7YxjZm/Fa7T6Og=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/cadence.lock",
+    "outputHashes": {}
+  }
+}

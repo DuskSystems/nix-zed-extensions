@@ -1,0 +1,19 @@
+{
+  "name": "neosolarized",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/carlocaione/NeoSolarized.zed",
+    "rev": "17be73eadef32d864626a782ca92b02b2d56f28d",
+    "date": "2024-09-16T21:28:30+02:00",
+    "path": "/nix/store/yr9iihczdxf0hjvk8mvjfby051dyi4kx-NeoSolarized.zed-17be73e",
+    "sha256": "12cwf35pdb1f1daq5vl36r5jqpsa74rgmv1mrpv3bin4aklrqh19",
+    "hash": "sha256-KUCc6VTExjX2zTXs+jI5Sl8sSzaD7oJVCy6sdstwnIk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

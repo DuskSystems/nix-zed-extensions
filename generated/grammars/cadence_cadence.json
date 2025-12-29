@@ -1,0 +1,18 @@
+{
+  "id": "cadence_cadence",
+  "name": "cadence",
+  "version": "67f1b5e92159c3e3e6cf37ce6e77ec72dfaa1af8",
+  "src": {
+    "url": "https://github.com/bluesign/cadence-tree-sitter.git",
+    "rev": "67f1b5e92159c3e3e6cf37ce6e77ec72dfaa1af8",
+    "date": "2024-03-28T20:48:06+01:00",
+    "path": "/nix/store/mrvliw1n8094fvplxs7z1pai59sgg6f1-cadence-tree-sitter-67f1b5e",
+    "sha256": "045cfg4b08kgkkqz3ibcj9qpygmjncbfryy35hgisdv1fs2il87a",
+    "hash": "sha256-6iAahXZhNx0fLMP77Bazsj5/cZJsxfHxnG8isMhzrBA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

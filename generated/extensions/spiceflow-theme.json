@@ -1,0 +1,19 @@
+{
+  "name": "spiceflow-theme",
+  "version": "0.0.0",
+  "src": {
+    "url": "https://github.com/remorses/spiceflow-zed-theme",
+    "rev": "5a46c3d6c3499ca524f79e1ffaf57b1d97f16b6c",
+    "date": "2025-06-09T17:59:36+02:00",
+    "path": "/nix/store/wfy8cxa35rplj2v25zppn67p30m4vv4g-spiceflow-zed-theme-5a46c3d",
+    "sha256": "0hviay5dbc7xmgp0rd8wpax2kf86dk1zr1kyy0r3vlyc2nky40vg",
+    "hash": "sha256-bwPipxXM0z0y8H6G/MNsBrkpuroctQzuq/2w1YpXcUM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "coffeescript",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/svkozak/coffeescript-zed",
+    "rev": "6e872ed18cdda1e03fd4d6bf44c3dbd28bb9e750",
+    "date": "2025-11-24T11:31:02-08:00",
+    "path": "/nix/store/lp79jkirvnggkl6sgvihvyzkfwsxjj4r-coffeescript-zed-6e872ed",
+    "sha256": "0fv8w08dw38vvh1wcj4jxnpq25nygykvnqakyncj653j2gyfah0i",
+    "hash": "sha256-EUDl/BNyFCOZ9VNhu6d/3haBr+2SSMYD3BsN3hDgaDs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "coffeescript_coffeescript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-aAxAMNv5Xlry0jFer5CkeWJMP1UHUCU2H/E7TdW1CD8="
+}

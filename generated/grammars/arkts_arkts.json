@@ -1,0 +1,18 @@
+{
+  "id": "arkts_arkts",
+  "name": "arkts",
+  "version": "2b3d4b944ea4417729ebcd030834a5352cff7bb2",
+  "src": {
+    "url": "https://github.com/liuyanghejerry/tree-sitter-arkts.git",
+    "rev": "2b3d4b944ea4417729ebcd030834a5352cff7bb2",
+    "date": "2025-11-01T19:34:58+08:00",
+    "path": "/nix/store/83xnj3ysyycqgkm531cx2scvdwmlg1id-tree-sitter-arkts-2b3d4b9",
+    "sha256": "0pvfiwfmxzzvfxkslh8c7ihc0zhx5z1ncvdv6wczkxxd2v8ijxac",
+    "hash": "sha256-THUZ0Rat9/kZN7ttZsMvHX7AYDwMQapnd/v/Xh2Pbl8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

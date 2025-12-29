@@ -1,0 +1,18 @@
+{
+  "id": "wow-toc_wow_toc",
+  "name": "wow_toc",
+  "version": "64bb8008cb206452735236da04af293a84d0f9b2",
+  "src": {
+    "url": "https://github.com/Alexayy/tree-sitter-wow_toc",
+    "rev": "64bb8008cb206452735236da04af293a84d0f9b2",
+    "date": "2025-10-27T17:49:03+01:00",
+    "path": "/nix/store/k6qbndvf1m3dibyl7m4801qm2lbxmdvi-tree-sitter-wow_toc-64bb800",
+    "sha256": "0rsx2wdpmnycmg0852rv5lgrmma39xq4cxlz27aabv6kc5mwxljf",
+    "hash": "sha256-TtLOa2HT7KXUEZ92RnBPQ9WaHy07i4LAq8zbehsXXWc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

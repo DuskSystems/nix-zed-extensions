@@ -1,0 +1,18 @@
+{
+  "id": "amber_amber",
+  "name": "amber",
+  "version": "dc69f42449fd3c807bacefa398263f62e581f755",
+  "src": {
+    "url": "https://github.com/amber-lang/tree-sitter-amber",
+    "rev": "dc69f42449fd3c807bacefa398263f62e581f755",
+    "date": "2025-11-26T00:24:03+01:00",
+    "path": "/nix/store/j78as53dlwzxyhymr6raxmppgiqb6rhs-tree-sitter-amber-dc69f42",
+    "sha256": "02z5mwba9yjwp2kc1zssz8x1m0vfnfnnmjfrk2162imz4xmjm89y",
+    "hash": "sha256-PqEqaye/RmGCmNnJaq2zboMaOvpa/8CmuFz6pBav5Qs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

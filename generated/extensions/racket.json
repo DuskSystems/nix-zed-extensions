@@ -1,0 +1,23 @@
+{
+  "name": "racket",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/racket",
+    "rev": "f6e83acb959d91b851f82f548c2e2f5ff1949016",
+    "date": "2025-12-15T23:57:57+01:00",
+    "path": "/nix/store/75clg9s9azpl0ns1qq5g3fxqc75wkv9w-racket-f6e83ac",
+    "sha256": "1w1dh3bp3jkya5zi7ln9f955qar2az9nyl1190zjv88sy0a50mz7",
+    "hash": "sha256-51dQFPAaoS0/SCFQb9NXIitcSnLJ0hN/UX7KcdeALfA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "racket_racket"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-h3ZFvZd7hOrzj8H3PymJD8xLVCFTOTG3Rvp1AJKLB2I="
+}

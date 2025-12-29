@@ -1,0 +1,23 @@
+{
+  "name": "zig",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/zig",
+    "rev": "bd4825c08e8799d4559ab4abe5a3e26570233427",
+    "date": "2025-09-26T15:58:51-07:00",
+    "path": "/nix/store/84akw2az3jarf7k5mpq2s4pxvqp9q6xx-zig-bd4825c",
+    "sha256": "1z5nripr2vv020rfd4hd8kmsv5wplbbbg6n10wzi4jf5j8bw7hkj",
+    "hash": "sha256-csLDF5LFSRI/B8Gat9ail5et60QNkuYyEGBvkW/Mtvw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "zig_zig"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-kV2EcEWarNsdTX0R4rbzNQ8gxW5PnLm1v9BYs55X9EY="
+}

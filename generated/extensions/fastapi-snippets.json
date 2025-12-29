@@ -1,0 +1,19 @@
+{
+  "name": "fastapi-snippets",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/NarmadaWeb/fastapi-snippets-zed",
+    "rev": "f844a3fe0da758e958757674841eded182c75ab6",
+    "date": "2025-09-16T20:59:18+08:00",
+    "path": "/nix/store/xchsfyaa143flj4gdbfxlr8cym0ji5am-fastapi-snippets-zed-f844a3f",
+    "sha256": "10h5zn07ypgrk8dhnf6i95i2pi2f8hncg4a0zs0q3zw9v30r5hv7",
+    "hash": "sha256-Z8OSwdiJ/4GB/kCRxyxETsQrYknROAsbmvldf4D9BYI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

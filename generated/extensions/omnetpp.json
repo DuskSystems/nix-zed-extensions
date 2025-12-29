@@ -1,0 +1,22 @@
+{
+  "name": "omnetpp",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/omnetpp/omnetpp-zed",
+    "rev": "372b39715ca1fec864f5713520117f31f764a793",
+    "date": "2025-11-07T12:22:19+01:00",
+    "path": "/nix/store/2llcwsyklc4vv5asv91b4vb00vhb9dl2-omnetpp-zed-372b397",
+    "sha256": "1spj9fg6a2j8zzi87jjbn63yg21ggvdl2dyidfpwwkmya5gs9rrz",
+    "hash": "sha256-P+ekX1G+Ts6va9E3Qdt+L4jnh7FLyoPi/0gKZZ5L8uo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "omnetpp_msg",
+    "omnetpp_ned"
+  ],
+  "kind": "plain"
+}

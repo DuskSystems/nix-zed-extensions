@@ -1,0 +1,19 @@
+{
+  "name": "panda-theme",
+  "version": "0.8.1",
+  "src": {
+    "url": "https://github.com/biaqat/panda-theme-zed",
+    "rev": "8b868fcdc7e7a42c6f657c201fc634c8009c44ee",
+    "date": "2025-02-25T21:46:25-05:00",
+    "path": "/nix/store/zi23r8bxy77k1xgiyz0bfchq3nllk9lj-panda-theme-zed-8b868fc",
+    "sha256": "0l5nl6h2fdizwjl3f45hjqka1x949pj8fs34hzm7pzy2yihkg77q",
+    "hash": "sha256-+Jw3YfTC/3vqh2Roh+RNJPWgJpawEDeo5D82J6ChtlA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

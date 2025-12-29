@@ -1,0 +1,21 @@
+{
+  "name": "pylsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/rgbkrk/python-lsp-zed-extension",
+    "rev": "8733a1c64545676f5d6566912905b8b78992496c",
+    "date": "2024-08-12T10:49:51-07:00",
+    "path": "/nix/store/sfr0j1flknvk8yv3fmh798qsh82jggpf-python-lsp-zed-extension-8733a1c",
+    "sha256": "0fj6i28zncb2xhq742s8jbpzzlk34fm9h040zi4kzwvgxldww5l8",
+    "hash": "sha256-iBbOG+1v8z9J/IAAmKojY9L/75JIC3Iw7GIx+5GIRjo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ovYO5kb38NZ8HNhMqiQQBd1dflLBpYaK6eOrjdjVrW4="
+}

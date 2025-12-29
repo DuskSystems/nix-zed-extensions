@@ -1,0 +1,18 @@
+{
+  "id": "circom_circom",
+  "name": "circom",
+  "version": "02150524228b1e6afef96949f2d6b7cc0aaf999e",
+  "src": {
+    "url": "https://github.com/Decurity/tree-sitter-circom",
+    "rev": "02150524228b1e6afef96949f2d6b7cc0aaf999e",
+    "date": "2024-09-09T17:56:49+07:00",
+    "path": "/nix/store/hybfnsv3vy8cbkfk72lkk0048v6vjpvz-tree-sitter-circom-0215052",
+    "sha256": "03z2rjxqzrja1fbsafdxcx53dknlfc529335nkr5laz44312m2y2",
+    "hash": "sha256-wosqwiDkK1rytGWMJApz1M42Sme9OaWXC0rmj7vM4g8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

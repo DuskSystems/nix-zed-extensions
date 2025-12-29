@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_ocaml_interface",
+  "name": "ocaml_interface",
+  "version": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-ocaml",
+    "rev": "0b12614ded3ec7ed7ab7933a9ba4f695ba4c342e",
+    "date": "2024-03-30T01:11:04+01:00",
+    "path": "/nix/store/q3b1cnwraqgzksrcmj5vi9l6czzq89ly-tree-sitter-ocaml-0b12614",
+    "sha256": "113rszhhajzsqwx0afgy83jbrpmzgi11y3w7vg6qhlr168niihya",
+    "hash": "sha256-ysMYLTIhU4jN24cPH0J8v9685ED+OQU6x/pLBeHXeYQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammars/interface"
+}

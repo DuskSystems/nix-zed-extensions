@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-sonarqube",
+  "version": "1.4.0",
+  "src": {
+    "url": "https://github.com/SonarSource/sonarqube-mcp-server-zed",
+    "rev": "292641a87bc12bd9e55f360835d7b276c8a09fd4",
+    "date": "2025-12-09T14:03:10+01:00",
+    "path": "/nix/store/6gfbjqh5n019v2316k018i8x0xbxj7py-sonarqube-mcp-server-zed-292641a",
+    "sha256": "0d0rkclrxbw7k5c3cjjsixfwddcqjfi2ppksmwxhg5v8jcw0a22d",
+    "hash": "sha256-TQgFOJNolwc7r3reK6KTmLXGXY9aSjZYmYevnimbGTQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lrvh4v+RTwmQN8KGTDug2Qg9/QyGLeofh7q3VIfxNoY="
+}

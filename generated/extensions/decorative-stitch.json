@@ -1,0 +1,19 @@
+{
+  "name": "decorative-stitch",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/keithrowell/zed-theme-decorative-stitch",
+    "rev": "7393f8584f43b4a5e438e8883bd3ddb3852f8cea",
+    "date": "2025-01-10T15:23:53+10:00",
+    "path": "/nix/store/a0hlfjryajfx0ndyxrq3gq8x9ph9rd2q-zed-theme-decorative-stitch-7393f85",
+    "sha256": "04vypm5mi9ajw1vmn2638rgy8cf1xkcxkpkfdnfk9q6cjkm5qsyn",
+    "hash": "sha256-1mtc6pTM4DSdbW7e2dnswTHkX0bDCFt34FKlWEu9fhM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

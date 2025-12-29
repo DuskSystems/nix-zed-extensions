@@ -1,0 +1,21 @@
+{
+  "name": "pyrefly",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/pyrefly",
+    "rev": "e2669286fb89946a567cb66b3b6739760c5c7fe3",
+    "date": "2025-05-16T10:41:13+02:00",
+    "path": "/nix/store/6cxms0l5zf9flmzyzyczaflgx6sgljnf-pyrefly-e266928",
+    "sha256": "1sam023z8m0mx8wmc3fmqwc8cizbjlhsh2i6q8a08rzddymkghx9",
+    "hash": "sha256-qcM3q2/tZwQUwiYKqCGV60eGGMfVDVY56hVU9IcAVek=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/FM5u50dM8l4K9o+9ruQD4gVkGkzwmazmnXi4Dx191Q="
+}

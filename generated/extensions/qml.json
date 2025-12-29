@@ -1,0 +1,23 @@
+{
+  "name": "qml",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/lkroll/zed-qml",
+    "rev": "af3fcfc22808dd2960e554a3183bd19bb05bbb09",
+    "date": "2025-07-02T22:03:56+02:00",
+    "path": "/nix/store/ymi0mzaxag2ikrzcmz2dqdivslhm0fjp-zed-qml-af3fcfc",
+    "sha256": "1chvyjdq2yq54kixl1ccqnx73hd652i3xn2bq7k43r6ipjvwrbq9",
+    "hash": "sha256-Ca/Mt7zR5EHmwUvYPqIopsFxusWMBdrjJAV7gZv0G7I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "qml_qmljs"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EtYYXMnJEogl0Q1KPyQk2m59qnzNZuRNo32/NFkDBL0="
+}

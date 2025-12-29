@@ -1,0 +1,21 @@
+{
+  "name": "openscad",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dotcypress/zed-openscad",
+    "rev": "39dae407545f99a911e3aa20fd9c9a9e8bf61d26",
+    "date": "2025-01-08T12:23:35+02:00",
+    "path": "/nix/store/pzy2mhrjj2k07jzbfy8s2i1qjxr0fqzv-zed-openscad-39dae40",
+    "sha256": "10n8nn5vqi0v60h22mynp92ii038wba2kxkyfiz1rq80awddm4h1",
+    "hash": "sha256-AZLaGlcA4Rx+dH72KdTiaIAYRbrWVyEgMBtEvIu1yII=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "openscad_openscad"
+  ],
+  "kind": "plain"
+}

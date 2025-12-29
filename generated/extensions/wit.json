@@ -1,0 +1,23 @@
+{
+  "name": "wit",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/valentinegb/zed-wit",
+    "rev": "7a0c864b748c0a4931c68beaad10236eda74983f",
+    "date": "2024-05-06T17:56:07-07:00",
+    "path": "/nix/store/b0nm1wi2qv9cifqqndpx5s0kijhqw5yz-zed-wit-7a0c864",
+    "sha256": "1958mij5lfl4626f6ydn9grak6iibfrbyhsicpxjczd6960q5wpc",
+    "hash": "sha256-7PKCgUmmfSb7ZVFDv7JbMZqp8ku2eeOMMIQ6WmSsqKQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "wit_wit"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nkngUwXuuGETna+VE/ouGFhABzbDZjyP++r+SSUY/30="
+}

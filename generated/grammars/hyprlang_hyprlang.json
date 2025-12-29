@@ -1,0 +1,18 @@
+{
+  "id": "hyprlang_hyprlang",
+  "name": "hyprlang",
+  "version": "22723f25f3faf329863d952c9601b492afd971c9",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-hyprlang",
+    "rev": "22723f25f3faf329863d952c9601b492afd971c9",
+    "date": "2025-11-03T18:54:42+03:00",
+    "path": "/nix/store/vv7771iwnk7vxf3kj9r33apvrfndc129-tree-sitter-hyprlang-22723f2",
+    "sha256": "1h9fsj0dih8m8g4l9by9vbzv1711nzhjxh8db8wz3wq7i6paykr9",
+    "hash": "sha256-KU+vrokH8/E5Wg3BLuG3IZyw/9rJr0TJQxXB2IDULsE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

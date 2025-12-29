@@ -1,0 +1,19 @@
+{
+  "name": "dev-magic",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/susanta96/dev-magic",
+    "rev": "e944a6a3e3d58f83167987c2b78e8094b77beca3",
+    "date": "2025-12-15T23:54:04+05:30",
+    "path": "/nix/store/vvpps26iavsfrkwpynk1q66hdgjfiwg4-dev-magic-e944a6a",
+    "sha256": "0an4hwa6mx0mfm1jcgify0kssxw3c8a0d29dyzfrb5b2dxpbkn7l",
+    "hash": "sha256-9Ni5bm9ilZXd9y2JBhRig3etJ/AuPiZDdRX0ahSHxCo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

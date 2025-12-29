@@ -1,0 +1,19 @@
+{
+  "name": "material-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Codextor/zed-material-theme",
+    "rev": "e4145b69351b773ba8c9c8b0c44e7d89faacbfee",
+    "date": "2024-10-16T07:33:11+05:30",
+    "path": "/nix/store/60kjdxl218xdwsnav9bhb0ly09lq820y-zed-material-theme-e4145b6",
+    "sha256": "0x3fqv4166s9hw84905647wwmh3nnrxm1xn7xyvf75i5kr6kzzi0",
+    "hash": "sha256-IP4/TZ4lluO278f2UHu2dsDK+SGmgEQQh0kbE8jGbnQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

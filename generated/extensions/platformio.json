@@ -1,0 +1,21 @@
+{
+  "name": "platformio",
+  "version": "v0.0.1",
+  "src": {
+    "url": "https://github.com/weirdo-adam/zed-platformio",
+    "rev": "6a85c044915d812035aad7813f4a46036f191e49",
+    "date": "2025-08-26T10:00:41+08:00",
+    "path": "/nix/store/75mcxvqgiyhf981xpq56q1plwik0j9v8-zed-platformio-6a85c04",
+    "sha256": "098s2nm4k9f8v5288jz1f7nb8mj0h3sb805s0qcskycs496fbl64",
+    "hash": "sha256-xNDlTCKa+akZBroAtPSAQFa07HHhS4RE2cilSaoVGiU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "platformio_ini"
+  ],
+  "kind": "plain"
+}

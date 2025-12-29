@@ -1,0 +1,47 @@
+{
+  "name": "air",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/posit-dev/air",
+    "rev": "88c573ba9cdabf084cf7817ab419f87beea37b39",
+    "date": "2025-02-25T11:23:28-05:00",
+    "path": "/nix/store/2jwx3mnjyvydi51bfv943m1qc9hmxf04-air-88c573b",
+    "sha256": "13b4qqqzwizywsryd2bh42nw87fczxr8ssihy53qc5j93rj4hlay",
+    "hash": "sha256-XlFIZB5JFoZH8TBqjXL/zB3ErSBwieaz5v5H/jHGZI0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yw2Y1sXIthj8x41z/hnMLt86SUlqmqeyiVMt068aOgA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/air.lock",
+    "outputHashes": {
+      "biome_console-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_deserialize-0.6.0": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_deserialize_macros-0.6.0": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_diagnostics-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_diagnostics_categories-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_diagnostics_macros-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_formatter-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_json_factory-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_json_parser-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_json_syntax-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_lsp_converters-0.1.0": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_markup-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_parser-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_rowan-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_string_case-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_text_edit-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_text_size-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "biome_unicode_table-0.5.7": "sha256-kEdA+o2ONthHQl7Nt6rVv6Kkt9LoqCeow/N5i5gkAVs=",
+      "tower-lsp-0.20.0": "sha256-XifEnsyyu7lATo5fdlmW5oM3RKCx7RtwryNUVGYIPLU=",
+      "tower-lsp-macros-0.9.0": "sha256-XifEnsyyu7lATo5fdlmW5oM3RKCx7RtwryNUVGYIPLU=",
+      "tree-sitter-r-1.1.0": "sha256-ryKgJ+3dv/O2AN5zIGtQnKml0zU0/s4Io8Tumpm62Gc="
+    }
+  }
+}

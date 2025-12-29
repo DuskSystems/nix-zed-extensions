@@ -1,0 +1,18 @@
+{
+  "id": "fountain_fountain",
+  "name": "fountain",
+  "version": "2d943e1e3ec8426ab4ae2d5d27c799a5760ebfdb",
+  "src": {
+    "url": "https://github.com/LaPingvino/tree-sitter-fountain",
+    "rev": "2d943e1e3ec8426ab4ae2d5d27c799a5760ebfdb",
+    "date": "2025-07-12T23:00:22+01:00",
+    "path": "/nix/store/zbr32cmq7zbi0yirdh6vf40q7ph520bx-tree-sitter-fountain-2d943e1",
+    "sha256": "0xwgh77rz2563fp7nxyl77gj9bfzdqplxl3y8d378zkvz5cgaigr",
+    "hash": "sha256-+UX1WPl7fnRGQ37QTi9u360k3znUd3uuG6aIn8+Bj3c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

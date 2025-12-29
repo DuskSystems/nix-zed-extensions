@@ -1,0 +1,18 @@
+{
+  "id": "racket_racket",
+  "name": "racket",
+  "version": "beb29de2b668110e69df0c6d51649c3e2c91d863",
+  "src": {
+    "url": "https://github.com/zed-industries/tree-sitter-racket",
+    "rev": "beb29de2b668110e69df0c6d51649c3e2c91d863",
+    "date": "2024-04-11T12:08:40-07:00",
+    "path": "/nix/store/l5pii21ph46p92wvbb9kqqr0iw4l7ck0-tree-sitter-racket-beb29de",
+    "sha256": "06gl7knmzagn2wa7kjyziiz000y4p0p8jncsc33yv7h3l7d951ys",
+    "hash": "sha256-2oeS2qEDnu3HYJpZiS64xAMAfozfy3kUF/apX+089Bk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

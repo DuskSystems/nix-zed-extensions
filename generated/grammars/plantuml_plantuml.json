@@ -1,0 +1,18 @@
+{
+  "id": "plantuml_plantuml",
+  "name": "plantuml",
+  "version": "a3cfbf844d727b077f0070769e6d1c0977cc58f9",
+  "src": {
+    "url": "https://github.com/Szeliga/tree-sitter-plantuml",
+    "rev": "a3cfbf844d727b077f0070769e6d1c0977cc58f9",
+    "date": "2024-02-05T09:29:12+01:00",
+    "path": "/nix/store/wygkbad7riih47dwvrbcjkzb0w3s80cb-tree-sitter-plantuml-a3cfbf8",
+    "sha256": "1n3vyajl6ky3x2479g21nys2q6rvzg1cyayn404hg34ddzdj1ap3",
+    "hash": "sha256-46og22+NjAcJINYrz8L7OxsstLdBvHSI6MNPQ6Xye9g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

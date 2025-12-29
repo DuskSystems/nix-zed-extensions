@@ -1,0 +1,21 @@
+{
+  "name": "cherri",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/videah/zed-cherri",
+    "rev": "ec6347bcf3ff984c8e33daafb59f42bddf39f89d",
+    "date": "2025-11-13T18:05:20Z",
+    "path": "/nix/store/l1flcc8f3vhpizfnbgdqf21782c0k6p4-zed-cherri-ec6347b",
+    "sha256": "0j9f16jszq2r9145kyhk1hav560ana5mpbylp9sd215b4ckavg9n",
+    "hash": "sha256-Nr2tJiOrBNF0utSvW4uyCpiyFQwT+llISFngr6UJLkk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cherri_cherri"
+  ],
+  "kind": "plain"
+}

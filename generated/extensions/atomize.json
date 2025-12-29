@@ -1,0 +1,19 @@
+{
+  "name": "atomize",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zhouyuxiang0/atomize.zed",
+    "rev": "23cc873cbaf6afcc9f907fd4d47a5b95493168c3",
+    "date": "2024-08-21T14:52:13+08:00",
+    "path": "/nix/store/c0wzr0ivsw1rizazfs1gzpa91f9by40d-atomize.zed-23cc873",
+    "sha256": "14f5sdvk5inwmmnfl8gqbh0cnk5l1v6jmgasz8kwji6azimcrrwd",
+    "hash": "sha256-jefMavzKRMkn+lq9Ks0OtEzLAFz4IepsrdzGMnfTxZE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

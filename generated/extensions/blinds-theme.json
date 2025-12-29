@@ -1,0 +1,19 @@
+{
+  "name": "blinds-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/orbulant/zed-blinds-theme",
+    "rev": "a5d15ab90501266c9d58869b4dd989ee737963f3",
+    "date": "2025-07-08T22:50:03+08:00",
+    "path": "/nix/store/4i9fdivgdn1k28xizxq46173rdffik42-zed-blinds-theme-a5d15ab",
+    "sha256": "1ss247namgsmr4z8jivn3rmbjjynlycq69wxrcrinxswrvndjrg4",
+    "hash": "sha256-5GXZ7M5cdxszy50ng5mn1ku5ah52R4k+yVW/quwhQus=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

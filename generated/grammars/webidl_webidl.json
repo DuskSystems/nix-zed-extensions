@@ -1,0 +1,18 @@
+{
+  "id": "webidl_webidl",
+  "name": "webidl",
+  "version": "e6870d31a485bf021f12e0f72a44eefc57173f93",
+  "src": {
+    "url": "https://github.com/padenot/tree-sitter-webidl",
+    "rev": "e6870d31a485bf021f12e0f72a44eefc57173f93",
+    "date": "2025-08-06T11:52:25+02:00",
+    "path": "/nix/store/8j60qrh6m07miysk7xk73kzjp5mrps9i-tree-sitter-webidl-e6870d3",
+    "sha256": "0qa7dmm4da5vlzplca9v8p9gfbkrc8wkfac12qsnfjhim6y4v0n1",
+    "hash": "sha256-wYJNvKkRSmc1FoEpNzlieS730kU7KUbvp7uoRmptR2E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

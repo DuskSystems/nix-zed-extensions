@@ -1,0 +1,19 @@
+{
+  "name": "maybe-material",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/iamawatermelo/maybe-material",
+    "rev": "04ba13e4ddeda7b503c7c913ade433200596c957",
+    "date": "2025-10-23T13:58:54+01:00",
+    "path": "/nix/store/7aj5x4z5s4vpbnn97h0916d85yzbyzym-maybe-material-04ba13e",
+    "sha256": "0g441qvr1sg96y5baz3yxnrhwq4m576kgf0i6jmx9damq1fsy313",
+    "hash": "sha256-IwyvXcBVtdSrNBG4N80plWAOs+1+fLWKN+npkDcOhDw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extension/",
+  "grammars": [],
+  "kind": "plain"
+}

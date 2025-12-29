@@ -1,0 +1,19 @@
+{
+  "name": "poimandres",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/mshaugh/poimandres.zed",
+    "rev": "44237eef53af8000aa9f86d4cc1ab672adf92a1b",
+    "date": "2024-07-25T23:06:03+01:00",
+    "path": "/nix/store/15gm9c7bq2bdwkz00ljyasqwxws9rf6y-poimandres.zed-44237ee",
+    "sha256": "03i94v9pqakf37jay61jhg5q6b3qvrxbz578axfvfz7fij825n4y",
+    "hash": "sha256-ntgikIzufLddV+iUv3reeCyDy4MyGK/kGW4qfNMmKQ4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

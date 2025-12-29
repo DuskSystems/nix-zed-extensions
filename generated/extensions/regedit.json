@@ -1,0 +1,21 @@
+{
+  "name": "regedit",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/JasonGH17/regedit",
+    "rev": "009f9625a5721249ba6bc7b826ce63f06e70919c",
+    "date": "2025-11-23T13:50:45+02:00",
+    "path": "/nix/store/jml4wxn002p8yq7gfr0hh24scpbw205k-regedit-009f962",
+    "sha256": "1mm6jdqx9dbvlc0a5c4kv0q5xc78f2dh373fkh36jkvjs7zjfhzl",
+    "hash": "sha256-9EMn/9FyT2kGnG6cAZtw6LBeMNiTsKIAo3u11HGTptY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "regedit_regedit"
+  ],
+  "kind": "plain"
+}

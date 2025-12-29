@@ -1,0 +1,24 @@
+{
+  "name": "navi",
+  "version": "0.4.1",
+  "src": {
+    "url": "https://github.com/navi-language/zed-navi",
+    "rev": "91792c251f77fa44b5b798eb9dd09e85a3688438",
+    "date": "2025-07-16T14:32:46+08:00",
+    "path": "/nix/store/ak9w1kkrss9i7vi65kz5gm62llachp09-zed-navi-91792c2",
+    "sha256": "0sbyk6qiqcmkglg89zmi7c6g0240n40b4vfnpqabfc3aq976bbnp",
+    "hash": "sha256-165lTsJqMLcUvtZtsgCxgAjwDDux/oQefbMyHLGZfmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "navi_navi",
+    "navi_navi_stream"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-jPHO6pJLTrAZ+BTNRrzgRYrqjfIwLmNICFrUQKVsJfM="
+}

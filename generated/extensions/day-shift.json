@@ -1,0 +1,19 @@
+{
+  "name": "day-shift",
+  "version": "1.0.3",
+  "src": {
+    "url": "https://github.com/Jean-Tinland/zed-theme-day-shift",
+    "rev": "358cdd08fd25665c2f2272118cc89c66da488bc3",
+    "date": "2025-07-05T18:18:55+02:00",
+    "path": "/nix/store/3zazjbq7903i84wyfndjqaa85npfv296-zed-theme-day-shift-358cdd0",
+    "sha256": "0wprfg4d48qwmxja2sjh5fdnwgdq8lchnw89w7hh1kawdnvyj60v",
+    "hash": "sha256-Gxjpt21czQDh4QlxCxlFuD1umytQaqFkrxwj0shz+XI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

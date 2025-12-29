@@ -1,0 +1,21 @@
+{
+  "name": "cfengine",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/olehermanse/zed-cfengine",
+    "rev": "f854236be02efc5cace5a731171081730da8fffc",
+    "date": "2024-04-25T18:16:12+02:00",
+    "path": "/nix/store/i4237icj6m9ns3iv016ijzayi5xv8vf9-zed-cfengine-f854236",
+    "sha256": "0f4wmk3hd3q20w0nn5vq44xrwifc4zql5i5r0nh3976w2ps4bagh",
+    "hash": "sha256-8KlF9BXcnDSgBbnEQvEnzEWeOyF4F2sBBwKPBsesnDg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cfengine_cfengine"
+  ],
+  "kind": "plain"
+}

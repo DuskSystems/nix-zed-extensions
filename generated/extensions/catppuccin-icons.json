@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin-icons",
+  "version": "1.23.1",
+  "src": {
+    "url": "https://github.com/catppuccin/zed-icons",
+    "rev": "6d953c8c7566b9e721d15b54e802dd77ae26fa9c",
+    "date": "2025-11-10T07:07:57-08:00",
+    "path": "/nix/store/r01yd4gy5czy1wpk5xmbwm9fbhj3pbzb-zed-icons-6d953c8",
+    "sha256": "1r1f4c7prjjdgrhfgmhalq59mr5rrf1zyhf3hz0w53vmhj8i6c42",
+    "hash": "sha256-gjATkYR1j8LBh8NB/4PLueSaCqYK1udgfk3KfA8jLuQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

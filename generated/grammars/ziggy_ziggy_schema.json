@@ -1,0 +1,18 @@
+{
+  "id": "ziggy_ziggy_schema",
+  "name": "ziggy_schema",
+  "version": "b621d01da1d1582e6d77a9761fc64e493fecd7bb",
+  "src": {
+    "url": "https://github.com/lvignoli/tree-sitter-ziggy-schema",
+    "rev": "b621d01da1d1582e6d77a9761fc64e493fecd7bb",
+    "date": "2024-12-01T12:32:12+01:00",
+    "path": "/nix/store/1m27kb1nhgzxxhmiy0jrjj3ppiqqzfww-tree-sitter-ziggy-schema-b621d01",
+    "sha256": "0j5dr84r0g9v2wy3fkaghw7a7vfab55lrykgq35g4ba66kax9kp9",
+    "hash": "sha256-6c7U1TRGLfLKwG/6TEtZyu2jDodPTTc8Fzs9kAnKrUg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

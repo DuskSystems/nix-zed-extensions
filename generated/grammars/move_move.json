@@ -1,0 +1,18 @@
+{
+  "id": "move_move",
+  "name": "move",
+  "version": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
+  "src": {
+    "url": "https://github.com/tzakian/tree-sitter-move",
+    "rev": "f5b37f63569f69dfbe7a9950527786d2f6b1d35c",
+    "date": "2024-12-09T13:42:40-08:00",
+    "path": "/nix/store/zbhq7nx9r8j0czvb6iikbr82m71cz0sm-tree-sitter-move-f5b37f6",
+    "sha256": "0y8s5a77hfzlmc9vap2my6rdjxrgp92la59n4w48ykv4jn44ladg",
+    "hash": "sha256-rylKiJVkT48IJzYVRUW6L3fZsvFVXLUTq/Q7eI4qGnk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "astro_astro",
+  "name": "astro",
+  "version": "4be180759ec13651f72bacee65fa477c64222a1a",
+  "src": {
+    "url": "https://github.com/virchau13/tree-sitter-astro",
+    "rev": "4be180759ec13651f72bacee65fa477c64222a1a",
+    "date": "2024-04-23T19:02:03+08:00",
+    "path": "/nix/store/1cn01cnkrjjny4rrpdr01vm6g1m1m1pj-tree-sitter-astro-4be1807",
+    "sha256": "04mqf5n70554fab4cc65hwmwsd2sgh3vk28p2mgy308ha6f4ikx9",
+    "hash": "sha256-qc9InFEQgeFfFReJuQd8WjTNK4fFMEaWcqQUcGxxuBI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

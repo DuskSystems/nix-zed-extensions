@@ -1,0 +1,21 @@
+{
+  "name": "ron",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/onbjerg/zed-ron",
+    "rev": "73e1c3d49bf6cb9023d701d7b4645bbaaa85abca",
+    "date": "2024-07-15T21:59:55+02:00",
+    "path": "/nix/store/g8a1xrh4f4kb4ix5pzbfgxrfm20pz6li-zed-ron-73e1c3d",
+    "sha256": "0yxncrpzzfyckjg7cd0yn961h9wzv3n37n00kbxpzr7439mbi7f6",
+    "hash": "sha256-xp24ahrk5H/7mgDYM+zYnycYTLIeNHaenMy7/29mtns=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ron_ron"
+  ],
+  "kind": "plain"
+}

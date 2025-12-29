@@ -1,0 +1,19 @@
+{
+  "name": "neo-brutalism",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/vishnuroshan/zed-neo-brutalism",
+    "rev": "43f6492bd97316d5cdf1da7ff3a94ef41659415a",
+    "date": "2025-04-26T18:25:43+05:30",
+    "path": "/nix/store/05lxs7irfz02z5l3n7ahqrmvycdfp2zm-zed-neo-brutalism-43f6492",
+    "sha256": "01dgj9pipx8gmph1b2ah766m4lc9g13fccl3wfxjhfxkjxw291p4",
+    "hash": "sha256-5IYkeJezOyi744My5kZ4iVFSjTlQiRXgrQ/1G2+SrwU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

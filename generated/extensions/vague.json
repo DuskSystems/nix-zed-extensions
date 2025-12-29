@@ -1,0 +1,19 @@
+{
+  "name": "vague",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/vague-theme/vague-zed",
+    "rev": "7ed35f11561192ec60cd0d00e8b1d082cce17098",
+    "date": "2025-11-03T20:13:17+03:00",
+    "path": "/nix/store/50c2pn3q505qrl856rcp3qanmhyhvh2w-vague-zed-7ed35f1",
+    "sha256": "1y2nq5b99cjqg4rc4nbbl158g1mxr09ry0xj1xlwggqpljly0b1s",
+    "hash": "sha256-OizgqaQXv8dpD7IDnxPIvYaHSqBrWcIyeViylFbBVvg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

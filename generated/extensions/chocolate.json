@@ -1,0 +1,19 @@
+{
+  "name": "chocolate",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/brunozalc/zed-chocolate",
+    "rev": "d269caa392465daf5dd1e5da8c92b23e26526179",
+    "date": "2025-11-11T23:30:04-03:00",
+    "path": "/nix/store/gb1hlgq4nh0xp9n8szplymsc99s7qb0k-zed-chocolate-d269caa",
+    "sha256": "0f7mchnjfnpm1vd54w3djsnb0gkh0h105rzr8s4vskprjljxbn57",
+    "hash": "sha256-p9jVJZX5Tr2JRvnnAgIEcD6wrJZtcFLaDvVaJy1k9Tg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

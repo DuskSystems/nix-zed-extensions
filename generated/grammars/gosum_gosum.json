@@ -1,0 +1,18 @@
+{
+  "id": "gosum_gosum",
+  "name": "gosum",
+  "version": "e2ac513b2240c7ff1069ae33b2df29ce90777c11",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-go-sum",
+    "rev": "e2ac513b2240c7ff1069ae33b2df29ce90777c11",
+    "date": "2023-05-13T05:33:34Z",
+    "path": "/nix/store/0y7yccmbwajc5lsxs2kx517a6yndnkm1-tree-sitter-go-sum-e2ac513",
+    "sha256": "0d433lym0zk87prkbi1jl4jnip7xsrx8a3kzg5k0lgbrqzd01ynr",
+    "hash": "sha256-2foA2sd5PQpmeX8OhXrW/dxoJaEyxDXzPWh+UD0dgzQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

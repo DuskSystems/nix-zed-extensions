@@ -1,0 +1,21 @@
+{
+  "name": "webidl",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/padenot/zed-webidl",
+    "rev": "3536ab159d9e1c8fc0d8536349bc25ccbe9e0bd4",
+    "date": "2025-08-06T13:38:27+02:00",
+    "path": "/nix/store/mkwm65nvjiqvpswr6bxmhdx6559k7v6i-zed-webidl-3536ab1",
+    "sha256": "11fiqbzjzf5s1i9v9gpkf03m97pc2rl2byn02hazf6jic0x2ywgr",
+    "hash": "sha256-+XEvOmBRGvcVFMD6JWgW7J5UB3DzvrRTDLq4L//C0YU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "webidl_webidl"
+  ],
+  "kind": "plain"
+}

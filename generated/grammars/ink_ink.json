@@ -1,0 +1,18 @@
+{
+  "id": "ink_ink",
+  "name": "ink",
+  "version": "3bafa20b888b97a505164fa9ee3812c331b2b809",
+  "src": {
+    "url": "https://github.com/rhizoome/tree-sitter-ink",
+    "rev": "3bafa20b888b97a505164fa9ee3812c331b2b809",
+    "date": "2025-02-05T11:15:10+01:00",
+    "path": "/nix/store/1v37bw9rfflmh0f34vkv85p80l0354pm-tree-sitter-ink-3bafa20",
+    "sha256": "08infgdbig32gq4v9q0jnx6lcas96ma9ld6hkxv3rkc0m1wvxrwb",
+    "hash": "sha256-i+e+eaiAzTx2n9A0mlQ1SStGTbcS4LQJfmK8uNpzNiI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

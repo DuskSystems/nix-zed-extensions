@@ -1,0 +1,19 @@
+{
+  "name": "anthracite-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/boycsuk/anthracite-theme",
+    "rev": "eacf20ba599a17e82055c989a0458be74dd69269",
+    "date": "2025-05-30T20:26:13+02:00",
+    "path": "/nix/store/hf0br3pg75h95bz9c9id43rqgrfl9fnl-anthracite-theme-eacf20b",
+    "sha256": "1lbackbk7gxzvmd719pjqpvsjjaqp2cj8fvd0wv79anrwzdg4wd8",
+    "hash": "sha256-qHHy2ufZqnQ2B207JJm4WEmp98XypnBa3b+/M9dkatE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

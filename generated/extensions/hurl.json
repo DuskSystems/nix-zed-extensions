@@ -1,0 +1,21 @@
+{
+  "name": "hurl",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tommy/zed-hurl",
+    "rev": "f73ba2c967628e4465fdf843ea24d99d0da71ba1",
+    "date": "2024-11-06T19:41:31-08:00",
+    "path": "/nix/store/glqslc67pk9mx37sq4m27676ygh3hjgh-zed-hurl-f73ba2c",
+    "sha256": "0bc1vqwgywzymdn1bsr3nwwinl7w9wfxc60v8jpy1kkymysg968q",
+    "hash": "sha256-GJn0tK9+zuCvRBsY1h1P/FAbObcj6xVsq/5z/zjegS0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hurl_hurl"
+  ],
+  "kind": "plain"
+}

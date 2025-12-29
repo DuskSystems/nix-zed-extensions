@@ -1,0 +1,23 @@
+{
+  "name": "sourcepawn",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tsuza/zed-sourcepawn-ext",
+    "rev": "4da978ecb71787232b825a524df5a6477023387d",
+    "date": "2024-08-28T04:03:00+02:00",
+    "path": "/nix/store/p56zzlfnp7z9lqk1kh63h7babkpg66ar-zed-sourcepawn-ext-4da978e",
+    "sha256": "0np17935knpbq3cxfxrk5fy7r15kyskybwrd2za1786y08b2bjmd",
+    "hash": "sha256-rcolFgLeoBPUFy3z5af2s4R8vCszd9fZwOvaWUY64Vo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sourcepawn_sourcepawn"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-mActk7tAzTGJK9DNC7QSMOLnZL8EytNXzcLybgsgn2c="
+}

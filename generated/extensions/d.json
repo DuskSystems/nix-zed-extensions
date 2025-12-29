@@ -1,0 +1,27 @@
+{
+  "name": "d",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/staysail/zed-d",
+    "rev": "302b527b078d9d3b72abd81698fc5bece6420dbe",
+    "date": "2025-04-09T09:32:26-07:00",
+    "path": "/nix/store/9ra3krj8w14rm1zi0yw69ghqy5x10dz6-zed-d-302b527",
+    "sha256": "0lkary22mps30ml5m4phh6qdw1yg87xpl1xqpzrs9mp167qv7n86",
+    "hash": "sha256-Btmz8THh1qTzv7gHevtBzwfesIHwklpoBUPfKoTPalI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "d_d"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uopSFGYeQlNBQehv6c8JBQcSg550FlI6cH7tNFTpaBo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/d.lock",
+    "outputHashes": {}
+  }
+}

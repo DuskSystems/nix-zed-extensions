@@ -1,0 +1,19 @@
+{
+  "name": "codebuddy",
+  "version": "2.19.1",
+  "src": {
+    "url": "https://github.com/jasonwang82/codebuddy-code-zed",
+    "rev": "f060279446034718dccab2b1fdf9e2adf04296b2",
+    "date": "2025-12-16T16:04:31+08:00",
+    "path": "/nix/store/j5sqri6ww8nx96g64r6dr8hzp5q85kai-codebuddy-code-zed-f060279",
+    "sha256": "0dkq3v6321gv86zp9w7dfsr4m3nrw47by74vjz0jil4sj6rhm5cd",
+    "hash": "sha256-jZUKs5Ga0CjBl5scvw7h2Y5Ksnbt8HS/QfsFMcweeDY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

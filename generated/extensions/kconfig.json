@@ -1,0 +1,21 @@
+{
+  "name": "kconfig",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hubertmis/zed-ext-kconfig",
+    "rev": "147b23a9170f75ee9266140e3faa0085479ac791",
+    "date": "2024-12-29T16:13:02+01:00",
+    "path": "/nix/store/vv12q7nj052wg6zp7i2dsvhzxi5w12fj-zed-ext-kconfig-147b23a",
+    "sha256": "0j62i9yxfrkv491fpilk4vzlghgcs2i45q32s2knfw51lnddr5yl",
+    "hash": "sha256-1JfcmqWhcGen0GLgQqLQ7MFH/yaTxutCIntm132Kwkg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "kconfig_kconfig"
+  ],
+  "kind": "plain"
+}

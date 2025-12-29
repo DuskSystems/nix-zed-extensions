@@ -1,0 +1,19 @@
+{
+  "name": "neovim-default",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/KimNorgaard/zed-neovim-default",
+    "rev": "caca086c7638c5429f6c1cfce934ea1e0ece9d60",
+    "date": "2025-02-24T19:33:34+01:00",
+    "path": "/nix/store/siflmy4b38mq57vpgpfjvg9x8iq1kcp0-zed-neovim-default-caca086",
+    "sha256": "1m6a3j7a28r326hds553m0s4imv458vlmbbn8d4hrf7lf8rp10s1",
+    "hash": "sha256-QYNwM3L0uAxJQ3atSjcqZNdINKijFN2gESMjoY4cytQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

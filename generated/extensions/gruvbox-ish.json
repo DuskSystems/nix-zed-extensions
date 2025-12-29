@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-ish",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/LeoDog896/zed-gruvbox-ish",
+    "rev": "13ade393632d548cded9b5883585e2dd92efe7b6",
+    "date": "2024-08-22T22:39:11-04:00",
+    "path": "/nix/store/y5q2z9zm7cmb2gadhv75vrp02j5h8wm7-zed-gruvbox-ish-13ade39",
+    "sha256": "1s5s7kk0iiykb20y93rw6h4qy42jc98nd62jbg5y52wy972vzssy",
+    "hash": "sha256-Xuu/xUmei+LLW1KYZlFiUhCPCTQ8j+SBWNPHCOY8uug=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

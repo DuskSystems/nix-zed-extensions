@@ -1,0 +1,19 @@
+{
+  "name": "yue-theme",
+  "version": "1.2.1",
+  "src": {
+    "url": "https://github.com/biaqat/yue-theme-zed",
+    "rev": "078f75e28906e2a9c128122ff34c1bbeb5c6cb08",
+    "date": "2025-02-25T21:46:40-05:00",
+    "path": "/nix/store/b114v04h31nl180mdg3kajxynw9xvq7v-yue-theme-zed-078f75e",
+    "sha256": "0y6i6a10xm7nk2s2pnm0k3xcx1mkin0a8g55cbl3lh5aphf37152",
+    "hash": "sha256-ooQzHLyqQDroYqU8pICNs4bO+pig2iu0mPbUDoIy0Xg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

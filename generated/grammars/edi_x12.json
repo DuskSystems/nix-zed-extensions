@@ -1,0 +1,18 @@
+{
+  "id": "edi_x12",
+  "name": "x12",
+  "version": "cfb81db868feff29befb6a58d50a06e9ce39e484",
+  "src": {
+    "url": "https://github.com/hugginsio/tree-sitter-x12",
+    "rev": "cfb81db868feff29befb6a58d50a06e9ce39e484",
+    "date": "2024-11-24T21:04:07-06:00",
+    "path": "/nix/store/gp6w2fkp4dj7xh1c99cs08zm9z2dgzw6-tree-sitter-x12-cfb81db",
+    "sha256": "05bvysdwkwz65zzl988ydx3mr4fgajipiwv3ydlqy5a0mklxkc7s",
+    "hash": "sha256-+rDZ6axAFY9p82PzeKNUz5FcR28eoUT/L+bzyZv2exU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

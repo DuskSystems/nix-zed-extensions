@@ -1,0 +1,21 @@
+{
+  "name": "zuban",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/CMLL/zed_zuban",
+    "rev": "62e1aeb027097756fbe79a404b18b0dc008e2ccb",
+    "date": "2025-09-04T22:01:41-05:00",
+    "path": "/nix/store/dbfpxbx1qq5x36rymh7nhj8ipcr9nmla-zed_zuban-62e1aeb",
+    "sha256": "0ngzrh83c93dcshr1k90pvjjp3ynrp5wda4gm7xy4iv4l955vlk4",
+    "hash": "sha256-ZNJdSqJkR+L7qY+oxsvN1o8r5b4gzZChZm0kNhDM/1k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ju9WVmFwqH93lQTXpc1hywfvlSCOnh8GjqiaLHWcVwY="
+}

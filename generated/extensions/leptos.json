@@ -1,0 +1,21 @@
+{
+  "name": "leptos",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/leptos",
+    "rev": "8dffcf2bf0d87e333895410729171776f6664a33",
+    "date": "2025-05-16T11:02:07+02:00",
+    "path": "/nix/store/m9drxh52hm5xx9j6cfj7xak7ng5lnzcm-leptos-8dffcf2",
+    "sha256": "0wmcdmz35y15kjjn5qxxh4ac5jgg48x9498s7vn8gmhjf9mx8xk4",
+    "hash": "sha256-ZHbUa3IS1ofsPholkjoi78nCFIG942KlnCX4Mn5trHI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "leptos_rstml"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gentle-dark",
+  "version": "1.2.2",
+  "src": {
+    "url": "https://github.com/gentlelionstudios/gentle-dark-zed",
+    "rev": "4e5e1039649d37ec87b7669cd13d0286a8023dc5",
+    "date": "2025-10-31T00:15:40-05:00",
+    "path": "/nix/store/ivsypjzgq678iyc7nr9lw1xnvahgxwgc-gentle-dark-zed-4e5e103",
+    "sha256": "06v5idznhgvabp0zc1pbyfvm9iqr5fh4s81yjdlp0gl0q1c703f1",
+    "hash": "sha256-wQ1wWMCAPnBpkz4gTaArGcdUt/PrBvbBXWo/aH+LZRs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

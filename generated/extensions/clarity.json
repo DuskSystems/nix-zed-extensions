@@ -1,0 +1,23 @@
+{
+  "name": "clarity",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hirosystems/clarity-zed",
+    "rev": "74ed85e0251f7855f83977a0cec59f69030a5c8a",
+    "date": "2025-06-03T15:39:22-04:00",
+    "path": "/nix/store/k103dcbkf7dnqap7wmc8jg954fh0rrzl-clarity-zed-74ed85e",
+    "sha256": "1mgxfnpcnmi3khnm9h0l3wwsmnyhwyvdnvnnq8x0hf10p5jn780a",
+    "hash": "sha256-CqBjZbkgOAg6wtZu27bn0NuqOR8UwFQtnCNWy651/dU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "clarity_clarity"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Cb/xkbXoz8to29XePlCZis9vUiy54uPg5icZbogV/No="
+}

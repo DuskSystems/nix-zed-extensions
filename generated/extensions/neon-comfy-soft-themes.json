@@ -1,0 +1,19 @@
+{
+  "name": "neon-comfy-soft-themes",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/guustavocl/zed-neon-comfy-soft-themes",
+    "rev": "e6954b3eeabcd301b1448864a9d1dd467bbc76d0",
+    "date": "2025-11-28T16:34:48-03:00",
+    "path": "/nix/store/0byjf9prhkz3hxpyzhj7l4066w6f9d3b-zed-neon-comfy-soft-themes-e6954b3",
+    "sha256": "0yb32ygngw1rl91ymfq8kpsr2qsa9rrc3hly9w4nwifrvwq7g3wq",
+    "hash": "sha256-mI93MN/ZRW4JT57CwXJOSmOR9Z0Iu+pDojnwZ58XY3k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

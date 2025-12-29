@@ -1,0 +1,18 @@
+{
+  "id": "curry_curry",
+  "name": "curry",
+  "version": "d2c895516233b66e1f8d938fb9335b031c582759",
+  "src": {
+    "url": "https://github.com/matthesjh/tree-sitter-curry",
+    "rev": "d2c895516233b66e1f8d938fb9335b031c582759",
+    "date": "2024-07-28T23:04:49+02:00",
+    "path": "/nix/store/mb079krw3vg9pghsfpks98rprs85cgxh-tree-sitter-curry-d2c8955",
+    "sha256": "1fz96yx5gpgnqmmf6nqx35m4c4rh7bnfyjyhfg88h688yryml8ap",
+    "hash": "sha256-VyFaffYIGYjQc9BL7+w6MBNGahkdW+NqxfbdV7o36bs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

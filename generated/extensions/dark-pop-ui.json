@@ -1,0 +1,19 @@
+{
+  "name": "dark-pop-ui",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/kunal-arora/zed-theme-dark-pop-ui",
+    "rev": "66837c6173d5986c64e4fc412f5aa09440837381",
+    "date": "2025-04-15T10:56:15+10:00",
+    "path": "/nix/store/jq0866k8403dv4xcqmi9miwbkfdxm9wy-zed-theme-dark-pop-ui-66837c6",
+    "sha256": "1kf5xysihgrq0xp0vsfib4frvc35wll1q6dbfcl4xhiridh3bglq",
+    "hash": "sha256-mL41YIs5wk4oc6sZHCjlZbCdHVnR6Q1uBzg/GLXvxc0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

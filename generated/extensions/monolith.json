@@ -1,0 +1,19 @@
+{
+  "name": "monolith",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/someone13574/zed-monolith-theme",
+    "rev": "0fa4cfecfecf771dc549e336ffae90d91c49cb7d",
+    "date": "2025-02-23T20:55:40-05:00",
+    "path": "/nix/store/6s1d5rngz7g7cdibzfbfqjzwdg9jdmpm-zed-monolith-theme-0fa4cfe",
+    "sha256": "1j8j69vxs6jh64lvk7xx075l6fy8z0pzzfv10gygfjalbhqw7jkv",
+    "hash": "sha256-e8rDMVxUSff8A2G7/y/4yDtDywG9n7kpMVAa3XcyEsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "missing-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://codeberg.org/dz4k/zed-missing",
+    "rev": "87dbd45f8d66ecd10b0348e6a5191299d53bc255",
+    "date": "2025-08-14T14:28:32+03:00",
+    "path": "/nix/store/3wd31hw0r66qrq5zkz0mqq3486dfs9kz-zed-missing-87dbd45",
+    "sha256": "02kdp4az98211v54kh0dwdraida5ibhb7zkgzadzy88ak0dlz0zf",
+    "hash": "sha256-7oNPG5gKIf+b+m/+s+CKRbWocuMNwEnKDkGg9BW5bQo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

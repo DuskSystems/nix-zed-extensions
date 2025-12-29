@@ -1,0 +1,19 @@
+{
+  "name": "seoul256",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jcmorrow/seoul256-zed",
+    "rev": "d1d879eb14171a23c925019b5d87a8e4e4547ffd",
+    "date": "2025-07-02T08:46:37-07:00",
+    "path": "/nix/store/y1q8v4hq796ac644dxjcihkbhl8v5vb9-seoul256-zed-d1d879e",
+    "sha256": "04rfqlc9npypj3qa4g6fmlpy9vwl96nplkhcg5x2kmhwh3d2m2zx",
+    "hash": "sha256-/Ysq2oAc1il6eQxOeq1JlO/kL63OPKLwkNdfmxjFLhM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

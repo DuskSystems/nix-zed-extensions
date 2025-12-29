@@ -1,0 +1,18 @@
+{
+  "id": "wdl_wdl",
+  "name": "wdl",
+  "version": "e0ea84c0a38fac0122c2bf0692806250b83995fe",
+  "src": {
+    "url": "https://github.com/broadinstitute/tree-sitter-wdl",
+    "rev": "e0ea84c0a38fac0122c2bf0692806250b83995fe",
+    "date": "2025-01-13T15:48:47-05:00",
+    "path": "/nix/store/m2mpnhyydnr0b0ps8zh41h6cwjxzp873-tree-sitter-wdl-e0ea84c",
+    "sha256": "1z15dpar90mkflyb7w11nbzrgyd4v95afvad881yq08nm161apdp",
+    "hash": "sha256-t10VTKgWAewDQk1tp0rapPmX/7Ih8LM8dbOClNVtJfw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

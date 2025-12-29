@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-2slides",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/2slides/zed-mcp-server-2slides",
+    "rev": "44d364eef29c6a3142235ed205535cc8fcbd7fe6",
+    "date": "2025-11-18T12:18:19+08:00",
+    "path": "/nix/store/2djn51k6ihji4r6i5nzqdjvis75xpfqc-zed-mcp-server-2slides-44d364e",
+    "sha256": "03cip30s6i71bhsnjggrih681g1ambvyazj9ad0hdx6y1mvnj2a8",
+    "hash": "sha256-SAlpdw3e9AZBU0l+5feqKryADIz5PWk1XOFEo8G4kQ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PmfXjl/lA7BnaEfmhPW3Jh8zhBNai1KxsAOEuXcDoeA="
+}

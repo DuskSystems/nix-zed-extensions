@@ -1,0 +1,18 @@
+{
+  "id": "vento_vento",
+  "name": "vento",
+  "version": "3321077d7446c1b3b017c294fd56ce028ed817fe",
+  "src": {
+    "url": "https://github.com/ventojs/tree-sitter-vento",
+    "rev": "3321077d7446c1b3b017c294fd56ce028ed817fe",
+    "date": "2024-03-29T15:04:40-04:00",
+    "path": "/nix/store/2rzqn80msrymnk39y37p97qdn0l3d6k9-tree-sitter-vento-3321077",
+    "sha256": "01vc73s6flx33ipb6i5s78qw7lmnc20hq660n5bgmxq24rk22kzx",
+    "hash": "sha256-/U8hZiYC9/pWscAYDIFgttLDMTq6RLNuHKNTZ/Q4bAc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

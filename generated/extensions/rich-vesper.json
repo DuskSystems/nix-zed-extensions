@@ -1,0 +1,19 @@
+{
+  "name": "rich-vesper",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/zezic/rich-vesper-zed",
+    "rev": "3016c095470c117b88ecd10cc29b7187b284c270",
+    "date": "2025-08-07T18:23:29+03:00",
+    "path": "/nix/store/5z3qz568l43nacvhkp104ij3m4hhj7k3-rich-vesper-zed-3016c09",
+    "sha256": "1bxigv2iw1pvrxj3gzkbqfc1rxhvq0i2c3pr4ncyp08agnw42kp2",
+    "hash": "sha256-4k5BuH0KgeuZJfkOJiLAG/YcmMNr/jdkz/sGHsV+sa8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

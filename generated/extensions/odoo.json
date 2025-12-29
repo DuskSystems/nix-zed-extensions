@@ -1,0 +1,25 @@
+{
+  "name": "odoo",
+  "version": "1.0.4",
+  "src": {
+    "url": "https://github.com/odoo/odoo-zed",
+    "rev": "1faf6525f1cc19b300f2790399c759afc81ecce8",
+    "date": "2025-10-31T14:34:34+01:00",
+    "path": "/nix/store/956z7aa4nhgqnznx771qhgjg0rw6kw5s-odoo-zed-1faf652",
+    "sha256": "1nlprcg4gc38m531pyfqzahfhz5ri07lmv0z8s118jpp2jrgn5c6",
+    "hash": "sha256-hhX7shT3ShSCRh/sSg+IuXzooPrY+RtGqWiwRx7Ll9o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-yJFUm8jKeaByWHmhZB9QjhF/nYI2X3TuCLXiUKNQ5Go=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/odoo.lock",
+    "outputHashes": {}
+  }
+}

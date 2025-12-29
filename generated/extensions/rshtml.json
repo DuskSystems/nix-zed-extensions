@@ -1,0 +1,23 @@
+{
+  "name": "rshtml",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/rshtml/zed",
+    "rev": "b681c79ecdbccb6bd72d8bcb1c4bea9798f02707",
+    "date": "2025-11-06T14:24:18+03:00",
+    "path": "/nix/store/pgl4pg1215yi7hlz5riv9kd1j7awr8nn-zed-b681c79",
+    "sha256": "110j41qqs8fdl8kz9p1rmvf6c12krxq12lxlgin8hnillqhv5s79",
+    "hash": "sha256-6eiyIaY0WohsfLRTEXDPUwRm3K453PQnos0hjXEgEoQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rshtml_rshtml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-s4+s3h0N9VNFAMT5/dICfAIZvs7zub/60Y3ipImDeE8="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "csharp-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kenBinary/csharp-zed-snippets",
+    "rev": "d292d89c32a6096076c0496a3c16ad3d13c0f40b",
+    "date": "2025-11-20T22:57:47+08:00",
+    "path": "/nix/store/jv3ryplil27ifz4lramw6wrni7r3bifa-csharp-zed-snippets-d292d89",
+    "sha256": "03nh7iqs83b4m1ngmzxd8hqg90lx1zvp3qdm04jp1l0wll0nvxj2",
+    "hash": "sha256-QvZtAaUc0HAlAbXhcfcPnYL0MESt//psqGQNpHE80A4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

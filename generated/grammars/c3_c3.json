@@ -1,0 +1,18 @@
+{
+  "id": "c3_c3",
+  "name": "c3",
+  "version": "790a0326833cd647e00d8dec01268aa1ec2e3bdb",
+  "src": {
+    "url": "https://github.com/c3lang/tree-sitter-c3",
+    "rev": "790a0326833cd647e00d8dec01268aa1ec2e3bdb",
+    "date": "2024-08-16T13:25:42+02:00",
+    "path": "/nix/store/ghyfyr9ph6vgsvd2mn8634sfciwpvihs-tree-sitter-c3-790a032",
+    "sha256": "1fjp3hzr3glivg26fqwiqy472kjg0n7jrhdm6i9a147ls8rxf4i4",
+    "hash": "sha256-JBLXM9L0kKBSNLXBLI8FT05xiMeRY2fE25G+kT8cV7o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

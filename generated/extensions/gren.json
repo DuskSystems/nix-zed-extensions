@@ -1,0 +1,21 @@
+{
+  "name": "gren",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/johanalkstal/gren-lang-extension",
+    "rev": "446dcdce0665455c7b3dfef7256ae37d1c174038",
+    "date": "2024-11-12T18:25:07+01:00",
+    "path": "/nix/store/xn0mryplbkx2avhmxz33q74wdjcjixhj-gren-lang-extension-446dcdc",
+    "sha256": "071lszvfk4fj0rp3k4jk30l4im6is2z578hc8dkidihr0807zb0p",
+    "hash": "sha256-F6x/AAIZxhZnQwyiU77Q0dRIKBhTkjluBtKR6fbXNBw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gren_gren"
+  ],
+  "kind": "plain"
+}

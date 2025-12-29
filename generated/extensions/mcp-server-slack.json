@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-slack",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/semioz/zed-slack-mcp",
+    "rev": "d9057bd4ec3f062c95f4e1f66a79a0b2ee5db35e",
+    "date": "2025-09-30T22:56:19+03:00",
+    "path": "/nix/store/8zl14mr412sscj5zhp987325q28b8389-zed-slack-mcp-d9057bd",
+    "sha256": "1pyajymrhrjiw1chasvc53cfn81cg629hjqbcyr8nqlwwqq8pkd1",
+    "hash": "sha256-oc2LMOacYouyZwtLmIR5LCDr2ChsawVZ4FFmmKuXyt8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-kowwDTHg8bD/EyjIKxfuaNJ962rI3JBu84EfQwObHo8="
+}

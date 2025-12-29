@@ -1,0 +1,18 @@
+{
+  "id": "motoko_candid",
+  "name": "candid",
+  "version": "91523a436ae4075e3cb8a341f64c6dd8b8820f25",
+  "src": {
+    "url": "https://github.com/perforate-org/tree-sitter-candid",
+    "rev": "91523a436ae4075e3cb8a341f64c6dd8b8820f25",
+    "date": "2025-11-05T10:05:14+09:00",
+    "path": "/nix/store/7b5mbhmy30p7f0kb96wsvrv9wbs87vr1-tree-sitter-candid-91523a4",
+    "sha256": "0ddl8rn58k8d7nx3j85676xmfpa5jjiwqgqv8l26wbv55qbw139h",
+    "hash": "sha256-MI3AFy5lL24ERRs/zKOURV1XuzmmIDm6PQ1NVGxGtDU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

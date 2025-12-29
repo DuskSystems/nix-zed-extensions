@@ -1,0 +1,18 @@
+{
+  "id": "bsl_bsl",
+  "name": "bsl",
+  "version": "91efca3c969fe21cadd98e94e631c430cbc75f74",
+  "src": {
+    "url": "https://github.com/alkoleft/tree-sitter-bsl",
+    "rev": "91efca3c969fe21cadd98e94e631c430cbc75f74",
+    "date": "2025-03-04T17:45:26+03:00",
+    "path": "/nix/store/ybryfjnmwmwd6brsp4x6hsivzh55sfxb-tree-sitter-bsl-91efca3",
+    "sha256": "0xvi7hj74j6ippsf9r0fjab665zgi1vrdrp8l1acfxhnk4aj0zhn",
+    "hash": "sha256-Fn4gFZkWdsdUoOjmlneI7xdjlpIO5OT0vdFIciQ8cXc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

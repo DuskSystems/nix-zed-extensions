@@ -1,0 +1,19 @@
+{
+  "name": "blackfox",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/matejcerny/BlackFoxZed",
+    "rev": "0e2ceedb7d21d85dfc7e1449caa4025e78f90672",
+    "date": "2025-08-11T17:41:35+02:00",
+    "path": "/nix/store/wvlppg94qsv7bcyb5m9bcsy2447f6fpj-BlackFoxZed-0e2ceed",
+    "sha256": "00gjlqy0p8k0gfaj570jixnwij0bannw2ccv401xqa9hp0ii7nkp",
+    "hash": "sha256-d9oTI7gwKdwDIJsxwa1VC8jIbY8SnCKVe2CiCzym8gE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

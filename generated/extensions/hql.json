@@ -1,0 +1,21 @@
+{
+  "name": "hql",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/el-yawd/hql-zed",
+    "rev": "9748407fd7e3f7f2bef8b595c3da5af9dd66ca3c",
+    "date": "2025-11-12T09:21:02-03:00",
+    "path": "/nix/store/00ilhdjrdbyidxsgfxzwr6mzqs994bp1-hql-zed-9748407",
+    "sha256": "1mksnb750gw3i3x84s28jwhyfqbg343y5yckz6mrq74mxz7bz6km",
+    "hash": "sha256-dZq/zu+VHJyr+ZP54gcZb2HnIZdIaIL6iIM/UM6yetY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hql_hql"
+  ],
+  "kind": "plain"
+}

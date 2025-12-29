@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-supabase",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/maximoffua/zed-mcp-server-supabase",
+    "rev": "6ee1157c9057e312ca2064095dfac1266233700c",
+    "date": "2025-10-14T20:51:30+02:00",
+    "path": "/nix/store/p9lhrb2d459wyaawcghb6c7pz3nddy9j-zed-mcp-server-supabase-6ee1157",
+    "sha256": "17y5zvpabk3nlha5fzn2qjmkx0nvyh49sgmx7dkr4k3wgl03vxlr",
+    "hash": "sha256-mfY9AH18TJJnO70+nQj024I+q8TCflcUpHbMpe7+xZ8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-mDHVeTnSCTeQxxGBeQzn+pJcPjhBBIQ+V7hbCo8PsN4="
+}

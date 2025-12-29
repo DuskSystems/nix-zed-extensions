@@ -1,0 +1,18 @@
+{
+  "id": "html-jinja_jinja",
+  "name": "jinja",
+  "version": "07a62adf99c0f41e0cab7ab523541309a8d73dc4",
+  "src": {
+    "url": "https://github.com/cathaysia/tree-sitter-jinja",
+    "rev": "07a62adf99c0f41e0cab7ab523541309a8d73dc4",
+    "date": "2025-03-02T15:19:03+08:00",
+    "path": "/nix/store/f0wlym5x71mph23kk0knmn94ir2s5bb4-tree-sitter-jinja-07a62ad",
+    "sha256": "0n93gwxi3cmxkf8sklzymxy2i7jn5kqhvkbvwgvxm5w4wm69cvpa",
+    "hash": "sha256-6m6WTOWEl9r343vNDfEsVp4ofK/+06mRm72yETt/I1k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-jinja"
+}

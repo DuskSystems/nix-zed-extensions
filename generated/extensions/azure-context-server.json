@@ -1,0 +1,25 @@
+{
+  "name": "azure-context-server",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/oWretch/zed-extension-azure-mcp",
+    "rev": "0d8af41508344a3d840e37455e248e7338294505",
+    "date": "2025-06-10T09:56:40+12:00",
+    "path": "/nix/store/q5xq97g2nlmp3q1xl3ccg1lab48bhww3-zed-extension-azure-mcp-0d8af41",
+    "sha256": "14crnzmj8jjzb7jbnqavwm8z27h3yf5d26jia8i4a7kgw72fy04h",
+    "hash": "sha256-kADvxOFvHkUiUlEa0YrzAx7xUeVbYbvkWV9KJOu3mZE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-J6ITYXV+oIlJemv71zTdJcXoW/dWfz5S0JCB6bY6NF0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/azure-context-server.lock",
+    "outputHashes": {}
+  }
+}

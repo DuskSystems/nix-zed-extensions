@@ -1,0 +1,19 @@
+{
+  "name": "polar-theme",
+  "version": "0.8.1",
+  "src": {
+    "url": "https://github.com/biaqat/polar-theme-zed",
+    "rev": "9640cd6a07cb42590acfca7d2b307a3e5f6b0593",
+    "date": "2025-02-25T21:46:26-05:00",
+    "path": "/nix/store/0ygdnq1g6a9krz0mwkiaby17v8zj3syx-polar-theme-zed-9640cd6",
+    "sha256": "180011whpqfs9qx02m3c2bi32zyx8pi1sdm9nhi80if7545n984s",
+    "hash": "sha256-mqBkCynHRYAitKk2HeJF3X8x4hJsVAE6TtrhC3kIAKA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

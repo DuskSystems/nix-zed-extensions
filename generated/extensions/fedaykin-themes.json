@@ -1,0 +1,19 @@
+{
+  "name": "fedaykin-themes",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/btriapitsyn/zed-fedaykin-themes",
+    "rev": "c80e856d23b48716456eebc6502d147ade904136",
+    "date": "2025-11-27T14:10:18+02:00",
+    "path": "/nix/store/j8wq3qwiw4m805wdf2rskmk44z2d4hk2-zed-fedaykin-themes-c80e856",
+    "sha256": "12ir0x6qrwmf5skk3232flwpkz5lcshpdz2g0bd1i537fx0j7qxq",
+    "hash": "sha256-uOMjQXdnlBjaAk/8dqFmtPx5OXViiDGnLq7yjE0HOYo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

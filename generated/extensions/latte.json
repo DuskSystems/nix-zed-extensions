@@ -1,0 +1,24 @@
+{
+  "name": "latte",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/josbeir/zed-latte",
+    "rev": "3de8d6fc50f12d22d5a3b1fe6b93b779f4f7c6e8",
+    "date": "2025-10-06T18:55:17+02:00",
+    "path": "/nix/store/4y5r8h5i1krs1vivnfrnlr7ixbp0b626-zed-latte-3de8d6f",
+    "sha256": "0v03cfg0nvh5n19f19rkdsrwhly06c0w5wdps9d9n0yynlbplbfl",
+    "hash": "sha256-1C16F7XeA5ta0rfxwgEzwFPIs24zp+BSsAVuC55jA2w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "latte_latte",
+    "latte_php_only"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-BevaUfH3JWkz13Sx85lEwKw2fAHHULNgycFaiWQ2dKo="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "powershell_powershell",
+  "name": "powershell",
+  "version": "b3fe65637fca35e426dc8c889d86c8724aaa73d5",
+  "src": {
+    "url": "https://github.com/airbus-cert/tree-sitter-powershell",
+    "rev": "b3fe65637fca35e426dc8c889d86c8724aaa73d5",
+    "date": "2024-12-09T10:05:33+01:00",
+    "path": "/nix/store/mdwzmf5k3kqhbvc9y0fqhk5qmhpvr3in-tree-sitter-powershell-b3fe656",
+    "sha256": "0sfmwr30xjcqkfazwkrmrcb2aja0pqglcdhijaqll1zv22hjghnv",
+    "hash": "sha256-28InoRD7B0qxkhE2Rh++QEklFss1T/6Vm5jJDkbm1Wk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

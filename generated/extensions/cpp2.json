@@ -1,0 +1,21 @@
+{
+  "name": "cpp2",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tsoj/zed-cpp2",
+    "rev": "1a5679160b3e6a97e6aefe958f3705a302432700",
+    "date": "2024-10-21T18:20:04+02:00",
+    "path": "/nix/store/6ws8wc6xzfakbk58cckgp4kh9cxwhpyp-zed-cpp2-1a56791",
+    "sha256": "1b2173wwax2rbari562m1jbxw271zz71xadbq1x5z9mb9w6mwn9m",
+    "hash": "sha256-NVleDU+rpl96wKupHs7/4QjelwxVmBKzWll0xfk4Qaw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cpp2_cpp2"
+  ],
+  "kind": "plain"
+}

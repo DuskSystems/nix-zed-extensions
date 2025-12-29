@@ -1,0 +1,19 @@
+{
+  "name": "dracula",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/dracula/zed",
+    "rev": "08a007ef54231a6144fcb04a764912651f015bc4",
+    "date": "2025-11-04T13:12:28Z",
+    "path": "/nix/store/y987msgilnqv9vw242fz090f9jvrir1c-zed-08a007e",
+    "sha256": "015p1n8nygbx0j15qg8j17kd1by4n6c8zlh4h9h23hjv1l5069lj",
+    "hash": "sha256-kiYDCg1bwiFgggTSj5ixxK/Q5gkSPVyCBH09b5ENtwQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

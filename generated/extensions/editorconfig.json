@@ -1,0 +1,21 @@
+{
+  "name": "editorconfig",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/notpeter/editorconfig-zed",
+    "rev": "4cb92cda2a589be7b26eae61f809d4c040ea3171",
+    "date": "2025-11-13T21:08:01-05:00",
+    "path": "/nix/store/5r33cc31x2bigwvf0xc1k7mnl2s1bsba-editorconfig-zed-4cb92cd",
+    "sha256": "1wcajvzqa41fawjn14r0y0b1k2292m1pp0vs63nmg65whh9ds4l6",
+    "hash": "sha256-hhLdEoS8mFftMHqDe0MVSYgZFvAgk2AlVy4Qhf+WivE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "editorconfig_editorconfig"
+  ],
+  "kind": "plain"
+}

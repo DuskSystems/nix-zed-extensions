@@ -1,0 +1,18 @@
+{
+  "id": "php_phpdoc",
+  "name": "phpdoc",
+  "version": "03bb10330704b0b371b044e937d5cc7cd40b4999",
+  "src": {
+    "url": "https://github.com/claytonrcarter/tree-sitter-phpdoc",
+    "rev": "03bb10330704b0b371b044e937d5cc7cd40b4999",
+    "date": "2025-04-02T16:34:01-04:00",
+    "path": "/nix/store/6rxx8f5wcw6cnc1qzsfl1nycdp8qnklj-tree-sitter-phpdoc-03bb103",
+    "sha256": "1drlx8gb8cm9601kkwjsjdax3pjnwsvfpz7p15r0jcx1bl5yn00k",
+    "hash": "sha256-EwDrC12hMwlyCff867bmVt7RVZNa8jkDMKkytB7qNLc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

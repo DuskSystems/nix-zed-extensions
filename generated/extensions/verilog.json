@@ -1,0 +1,23 @@
+{
+  "name": "verilog",
+  "version": "0.0.14",
+  "src": {
+    "url": "https://github.com/someone13574/zed-verilog-extension",
+    "rev": "78d3d7cdbf380345ce15a3f20fe97f0cfe6152d6",
+    "date": "2025-10-30T15:23:18-04:00",
+    "path": "/nix/store/1hwx9dq955x0dy7lpp36rpza58nd3dkj-zed-verilog-extension-78d3d7c",
+    "sha256": "1fgnpj2dm7ldgan4rsd41kdh37gwqwzd5c4bb2kg88r0qn4qvhbx",
+    "hash": "sha256-fcGNicUgI/SmWIuw0j7H/J0B2wyk6Uyseo2e2oS89rk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "verilog_systemverilog"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-VDLjwpMjsNgjCZm43hYOiHQIM4hatx6aI24+6Pw+dIE="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cucumber_gherkin",
+  "name": "gherkin",
+  "version": "133e9b270e80ecb8875bbe2f0625fcb276ea5ddb",
+  "src": {
+    "url": "https://github.com/thlcodes/tree-sitter-gherkin",
+    "rev": "133e9b270e80ecb8875bbe2f0625fcb276ea5ddb",
+    "date": "2025-02-13T20:54:09+01:00",
+    "path": "/nix/store/7g6ym6sw68vsp4ffx576fzkr3n1c09i2-tree-sitter-gherkin-133e9b2",
+    "sha256": "1pfaymvw3di6jp52qpl692dl0qi60igm50ydp8kcfh4bg1j79ybj",
+    "hash": "sha256-cvl0ZHiLQMcmus2DUl8EJmJAm0iGXizKlSa2wXf1yt0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

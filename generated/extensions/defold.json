@@ -1,0 +1,27 @@
+{
+  "name": "defold",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/whiterabbit1983/zed-defold",
+    "rev": "e0b0ce7dd7af5530c321d168098faf2793bde48f",
+    "date": "2025-10-26T21:19:17+03:00",
+    "path": "/nix/store/p0aclj3ckhsgflklfrdz59jb2ssf5hqx-zed-defold-e0b0ce7",
+    "sha256": "1i4l8dm7d07ihpr0lrmk3d6ghblf25g1zkiyw6r0f5kplv49qihp",
+    "hash": "sha256-F0acyKZ3Fgey4T7OH14Rji74TBuzZgryhfGAdmpDlMQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "defold_lua"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-hHnMUthgELO99g6ETN9c0hP0zdrBIystDcYumCKs5Yg=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/defold.lock",
+    "outputHashes": {}
+  }
+}

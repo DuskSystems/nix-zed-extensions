@@ -1,0 +1,23 @@
+{
+  "name": "nix",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/hasit/zed-nix",
+    "rev": "269fc9f940a9c5fb3d14862d08a08bfb8249adb0",
+    "date": "2025-09-02T11:14:38+02:00",
+    "path": "/nix/store/9wfx38dbi2f6xf9zfa3rrbyy72nkz88q-zed-nix-269fc9f",
+    "sha256": "1ah2mcpdpdp56swj78zkwanshy9ycqw649ldaq578z5yrfxvgyyx",
+    "hash": "sha256-3fu3u8u+fHQKVo0mYjhmPnmoreLzoyO5NuW22y6rAqo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nix_nix"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YkZs79CAusqw7CGEFeQUOkedOGtl1V/44wjwllMb+HE="
+}

@@ -1,0 +1,21 @@
+{
+  "name": "texpresso",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/lnay/zed-texpresso",
+    "rev": "6cc4f853acf01fc2688264cdb72a1fc6abddc48e",
+    "date": "2025-09-30T14:00:20+01:00",
+    "path": "/nix/store/5pvv8dgksd0c66a7m5ll7cq490kjzjj2-zed-texpresso-6cc4f85",
+    "sha256": "16x4yjj242qkxi67npisbddh145b1wijqj1jkrkkdy2wv4b7igqw",
+    "hash": "sha256-HL94Ftlc+DZnnjJILCMPq5AAW1s6XntM7BMLIqT0pJs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-h3VjX7NmH844LEcs1Q+2MyB0t22e9aUdp6JCgPy2NIY="
+}

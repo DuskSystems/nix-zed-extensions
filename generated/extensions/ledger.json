@@ -1,0 +1,23 @@
+{
+  "name": "ledger",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/mrkstwrt/zed-ledger",
+    "rev": "5d742433add4e4b0a0b6eb7f186bd038287b5c5a",
+    "date": "2025-08-21T17:02:28+01:00",
+    "path": "/nix/store/bq3pnzc4qic3b6vhx6crab87fnxgyp0q-zed-ledger-5d74243",
+    "sha256": "0b01xiqx51ajamqr5dkq8a0ymxnhf2y2fx3g9nxim4hgmqyw9hjl",
+    "hash": "sha256-VMLEPa4Pkhq7TW90J7xw0PbqgUJ4tpJxVVKF0nHsASw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ledger_ledger"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-njY7ef18DO2bVwyuLDxOJ4xccUwVrvShpvpTR2J8vsE="
+}

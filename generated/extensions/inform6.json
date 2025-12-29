@@ -1,0 +1,21 @@
+{
+  "name": "inform6",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Or4c/zed-inform6",
+    "rev": "f722ec390be3b948607418dcf4e486db6467a771",
+    "date": "2024-08-25T11:02:14+12:00",
+    "path": "/nix/store/kd2rahx74vngw7hbkiya9slbcbvbkah3-zed-inform6-f722ec3",
+    "sha256": "045caqj8jkiv83mv9y37xyp1lc8p48vsjfc9x16zhppals2r22l1",
+    "hash": "sha256-gQqRhabqXvhN6Ik5qTciFzEaru9n+LTrQDtOiSRWrBA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "inform6_inform6"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "moonbit",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/quirk-lab/zed-moonbit",
+    "rev": "7bb3c86f3e584ead2d095d01bbd2f23907e6026f",
+    "date": "2025-10-24T11:45:17+08:00",
+    "path": "/nix/store/wjg3g1pjg8a6rc35fryzymc60j0x26ii-zed-moonbit-7bb3c86",
+    "sha256": "0lr3n7chig8fcrzqffhxgd73m0mpk6nyhmkir7vvwnq53xmrv5jn",
+    "hash": "sha256-Vpadax8FW773yXFW6K2Zt4I6TnsdOod/Zg69CNmxI1M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "moonbit_moonbit"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vMJSLEt3ZiI118Gpnc4yCzxKbkcbhBScqvOJbe2/4AI="
+}

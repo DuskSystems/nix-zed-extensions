@@ -1,0 +1,18 @@
+{
+  "id": "cherri_cherri",
+  "name": "cherri",
+  "version": "c76ca6be39a1bb2b6e12091e3922be5a82b46229",
+  "src": {
+    "url": "https://github.com/videah/tree-sitter-cherri",
+    "rev": "c76ca6be39a1bb2b6e12091e3922be5a82b46229",
+    "date": "2025-11-13T18:02:57Z",
+    "path": "/nix/store/z6f3v17aj5jyfldadqj78vglzrzmxmq7-tree-sitter-cherri-c76ca6b",
+    "sha256": "0zkhlqi7n89zf8239yia96mgwfay3ljwnbh1kkgxnryz4dl1ss1j",
+    "hash": "sha256-MmgdaCPfZ9vfnAEuyyUdXjn+qkkq+jQEcj8heyKmcH4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

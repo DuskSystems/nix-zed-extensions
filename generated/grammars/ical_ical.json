@@ -1,0 +1,18 @@
+{
+  "id": "ical_ical",
+  "name": "ical",
+  "version": "49cf7c426bf30e1d3dcb118519d0ab64498219d3",
+  "src": {
+    "url": "https://github.com/TitouanReal/tree-sitter-ical",
+    "rev": "49cf7c426bf30e1d3dcb118519d0ab64498219d3",
+    "date": "2025-02-11T11:17:24+01:00",
+    "path": "/nix/store/34nvqgk189p6m7mhg6pjg0kvbkgf8sck-tree-sitter-ical-49cf7c4",
+    "sha256": "1hca7szwkig69bh3vw4ya4jcr6n3l5xvf9bacfw807w8858s4zzd",
+    "hash": "sha256-7X+iUUGIH4C4Y2olt3uhw5rMJFGe8D3gSubFyb8+isE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "tera",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/uncenter/zed-tera",
+    "rev": "02354d9c55b6726e619b397bade42850173df391",
+    "date": "2025-06-05T19:18:35-04:00",
+    "path": "/nix/store/82xlnzhnqvi611zbn5r9sikhva13nvcn-zed-tera-02354d9",
+    "sha256": "0n3jx0p9q182ci6fnbhm9sv9ahg32cmysmh62sjazqj92nmk4dr8",
+    "hash": "sha256-KDcyqxVJ4q+kFgZW7SsT40GVtk4VLutMZAIFnC7oclg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tera_tera"
+  ],
+  "kind": "plain"
+}

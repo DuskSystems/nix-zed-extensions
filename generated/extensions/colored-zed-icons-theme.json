@@ -1,0 +1,19 @@
+{
+  "name": "colored-zed-icons-theme",
+  "version": "0.3.1",
+  "src": {
+    "url": "https://github.com/TheRedXD/zed-icons-colored-theme",
+    "rev": "65c8206a093cc9fddd5d19940b33b4d3cc8cf641",
+    "date": "2025-03-04T18:29:56+02:00",
+    "path": "/nix/store/jhfqr9jla7l1nwr2qrhzwcllqrlbq4dq-zed-icons-colored-theme-65c8206",
+    "sha256": "1xjvxyxxsw37jmici9w15liyb0wn89awl3mmkkibgihjlbfazbla",
+    "hash": "sha256-iq6v3KISxrfinLUOylVCloPlIy2Bp8hilWdw3bvvW/Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

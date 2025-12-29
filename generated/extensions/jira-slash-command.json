@@ -1,0 +1,21 @@
+{
+  "name": "jira-slash-command",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/trbroyles1/jira-slash-command",
+    "rev": "ab76298a0007b7395a739aa91ad0ffc3ff35f7e6",
+    "date": "2025-02-25T00:55:20-05:00",
+    "path": "/nix/store/wq77yhq45w54184nr85dnnpfg8bv04bg-jira-slash-command-ab76298",
+    "sha256": "0xj5jii9jbnd1g7k36f7bxl9f7k0m3wi28kg69s6cdhbvz0zg8s6",
+    "hash": "sha256-RqP3wd8LNmZ0Mm8iEfmoYB6XaF/HmTHPC80umWKURXY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-oS3/rQg9kRWLy7e4Z2QSRWoA/pQi/97mqhhvOzBUAoY="
+}

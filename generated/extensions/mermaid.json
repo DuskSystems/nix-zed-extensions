@@ -1,0 +1,21 @@
+{
+  "name": "mermaid",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/gabeidx/zed-mermaid",
+    "rev": "dc06f48ddf72c30fcbdb606bc422d41a1f174644",
+    "date": "2024-10-16T22:24:06+02:00",
+    "path": "/nix/store/b0apzdf00rifi1gljm8bij4y9v9q7k8z-zed-mermaid-dc06f48",
+    "sha256": "17a32vi7nnhh2d88hg33p5i53ia0a38s0l3kpsj007bp7ygfvadp",
+    "hash": "sha256-t6ntnj93HQCkvnNQoNFQQMVRYrljPIhQExBae+IWQ50=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mermaid_mermaid"
+  ],
+  "kind": "plain"
+}

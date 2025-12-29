@@ -1,0 +1,21 @@
+{
+  "name": "cylc",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/elliotfontaine/zed-cylc",
+    "rev": "8fbdc540fcb3ab857e20177bed101b26c50a9870",
+    "date": "2024-10-03T17:40:00+02:00",
+    "path": "/nix/store/37sh6wwwizsdhcwvw99kyyf7c9bdibxs-zed-cylc-8fbdc54",
+    "sha256": "1zig4gb4vjl2lksrmhy0gxcq9nyld0grqn0iz8qw3x8scd3rmknm",
+    "hash": "sha256-1c6aR2Ma9cEx+hFYnB9o1NuEWX/Aw5r1pILKTdYjL/4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cylc_cylc"
+  ],
+  "kind": "plain"
+}

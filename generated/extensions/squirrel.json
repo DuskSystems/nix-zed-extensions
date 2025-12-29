@@ -1,0 +1,23 @@
+{
+  "name": "squirrel",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mnshdw/squirrel-lsp-zed",
+    "rev": "991f9bdc929b8fbd1c6df1425ed34b219817afdc",
+    "date": "2025-11-26T07:47:29+01:00",
+    "path": "/nix/store/vica2cjfjmcxc3wii8wa5jiyyvwkm0yp-squirrel-lsp-zed-991f9bd",
+    "sha256": "0hj9aaq2sfprzq9razs7ivl9vd5rapa64i2hplyrbgwh3c159rz9",
+    "hash": "sha256-6edUAhuQv5U9vVBEYtRVubSd6I5Hf5UT/vk6LbBSSUI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "squirrel_squirrel"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-apfbGpknTIEy6+zwI8mHYRAGEZHAX6eF2yLd+Qb3uHg="
+}

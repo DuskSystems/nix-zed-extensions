@@ -1,0 +1,19 @@
+{
+  "name": "the-dark-side",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/Imgkl/the-dark-side",
+    "rev": "7bc55bb0ee395a300c22c801ade7dba48772a236",
+    "date": "2025-03-02T02:40:43+05:30",
+    "path": "/nix/store/gwx99sy696ins31i3y0296qpd4pvzz8c-the-dark-side-7bc55bb",
+    "sha256": "1k45jc1mpscx42kj97slmsi7vaajz0xsazzd377in8b3hly30hmd",
+    "hash": "sha256-rUIwPIVjIRvPGe1/pTv4Uql9oq5UnySnIJ3pWwOThcw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

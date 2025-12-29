@@ -1,0 +1,21 @@
+{
+  "name": "openfga",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/rosnovsky/zed-extension-fga",
+    "rev": "c402cea6d70928d285c73f78660e403939c19c38",
+    "date": "2025-09-11T23:09:38-07:00",
+    "path": "/nix/store/si9v4gwwiwrv5yp06a94c2x4r0n8blsm-zed-extension-fga-c402cea",
+    "sha256": "1qg68rjx8dghdax1s9bk0fl8nxhh04y5wkp03krjqb5dhc1vqrqn",
+    "hash": "sha256-Fme8A4OtLCzzHOBOXjwBEHaLqANzJR26avA11GVG5uE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "openfga_fga"
+  ],
+  "kind": "plain"
+}

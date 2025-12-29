@@ -1,0 +1,21 @@
+{
+  "name": "emmet",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/zed-extensions/emmet",
+    "rev": "ec6a7960c5b4035f0efdbc5e0e2a5218dddc35b9",
+    "date": "2025-12-22T11:41:51+01:00",
+    "path": "/nix/store/042f2w820l1nfn28cia7zl3vnm7yyvrk-emmet-ec6a796",
+    "sha256": "0lkvkx14dpn3j0b8cq0bp8g08ly7af6j347v67j702mrwg0xy9hm",
+    "hash": "sha256-FSbfweO5CnDkMfuQIY1Tx1MEHroLYIYWkMPeRkKfe1I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uWmuORMwLeAs2xUk0f1bluVvlXgkb3Uhi4jm+2qse+g="
+}

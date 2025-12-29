@@ -1,0 +1,19 @@
+{
+  "name": "ayu-darker",
+  "version": "1.1.1",
+  "src": {
+    "url": "https://github.com/k4yt3x/zed-theme-ayu-darker",
+    "rev": "7f9525f8512c0d24889b95288385bc9e849bbab4",
+    "date": "2025-10-30T06:55:27Z",
+    "path": "/nix/store/ams2f6xzywrf0p0bk3arfrnwrhl09bc0-zed-theme-ayu-darker-7f9525f",
+    "sha256": "0bbfba03mq6di21grl1j60k4smn5isxnl6zn817g2zkmjcbjvrzc",
+    "hash": "sha256-7OctF5N1fvFOQPYbaruOxVZNJjAy0PyCiM3gOoBabi0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

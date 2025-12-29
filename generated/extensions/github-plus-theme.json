@@ -1,0 +1,19 @@
+{
+  "name": "github-plus-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/thenikso/github-plus-theme-zed",
+    "rev": "f2eb6b235c59ddcb2f26a8c0eb024e1187ec4de1",
+    "date": "2025-06-26T10:52:37+02:00",
+    "path": "/nix/store/7rr5r5h8xbi3zi5vg3fb174xcsxncl2f-github-plus-theme-zed-f2eb6b2",
+    "sha256": "04wsc1im79ggyhffqgbmgia1ls731gqliyz1qk82qr8m5k188q04",
+    "hash": "sha256-BGCEwiwVZSzQxOH7SPEL42gaVHx1Pewc9O+lU2NgmhM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

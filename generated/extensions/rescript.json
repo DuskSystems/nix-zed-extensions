@@ -1,0 +1,23 @@
+{
+  "name": "rescript",
+  "version": "0.4.2",
+  "src": {
+    "url": "https://github.com/rescript-lang/rescript-zed",
+    "rev": "1f211de00db191b9d995678be041ba8f3531580e",
+    "date": "2025-12-29T09:05:33+01:00",
+    "path": "/nix/store/0ni9qim876b3ca22rd32817si7h8rvsa-rescript-zed-1f211de",
+    "sha256": "1mai4xkrdkma84ybdhrpcvddd03ysg0sd229l3mpksnd6dv6lpyb",
+    "hash": "sha256-y19qdjPN6nnroEmIpsHTfoDW2mY3w7Y8QarOlmcnUdU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rescript_rescript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-U2GoKEjddVIIOzUC9sPqOvzuzHjOOKYjIwGvFyPqWtI="
+}

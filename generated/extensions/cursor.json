@@ -1,0 +1,19 @@
+{
+  "name": "cursor",
+  "version": "1.1.2",
+  "src": {
+    "url": "https://github.com/takk8is/cursor-theme-for-zed",
+    "rev": "492e39fb6313d30873e8db3f6b20e00eb3f6bd85",
+    "date": "2025-08-09T02:41:41+02:00",
+    "path": "/nix/store/blp3zy4xj3xf61y6rvi8vhxvlrgzdywf-cursor-theme-for-zed-492e39f",
+    "sha256": "1bly9c2mz185yq9f9y61jcq1c60njb3fgxmfq7j2cqgpamxa55r1",
+    "hash": "sha256-IZeielX3YSbkwa7258aSFhgWMJPB+OQS9gWFXwVLnq4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

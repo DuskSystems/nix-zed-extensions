@@ -1,0 +1,18 @@
+{
+  "id": "hql_hql",
+  "name": "hql",
+  "version": "8004a59420796ae311bfa4cc30a2e3be611ce046",
+  "src": {
+    "url": "https://github.com/el-yawd/tree-sitter-hql",
+    "rev": "8004a59420796ae311bfa4cc30a2e3be611ce046",
+    "date": "2025-11-10T13:28:46-03:00",
+    "path": "/nix/store/n440kf0qwn114xh7670i5dyrndrf3g31-tree-sitter-hql-8004a59",
+    "sha256": "1jz3ryckbdak4jqcp6jammxfcm77z7lalh8d9zgc3j18b895g32p",
+    "hash": "sha256-V4xXElooyMHeTw1Bquj551Tmeq1KmsuwJFO1NZnP48s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

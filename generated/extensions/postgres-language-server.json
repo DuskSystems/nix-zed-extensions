@@ -1,0 +1,21 @@
+{
+  "name": "postgres-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LoamStudios/zed-postgres-language-server",
+    "rev": "a3e14880269d032231ea1a6c6fa35e349987fc62",
+    "date": "2025-10-02T10:42:21-07:00",
+    "path": "/nix/store/chy257mf1yzvgjwp46k5vc3kk49x2vkc-zed-postgres-language-server-a3e1488",
+    "sha256": "0z4fdrx6za9ggx942k12jvl04cqxs81s80q3a1yidk7fkrl0r2w3",
+    "hash": "sha256-g4sMaJ7uzBZ9UAMDpAPSHTMC6JYiTEFSfy+pb3pujnw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-XFntZ9V8fq2/756hpKV7iFI5UqtG9tFYu9KqkSyPH5U="
+}

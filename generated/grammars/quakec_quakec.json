@@ -1,0 +1,18 @@
+{
+  "id": "quakec_quakec",
+  "name": "quakec",
+  "version": "268be403609e944a45e5620c49cbbd6683b7f676",
+  "src": {
+    "url": "https://github.com/vkazanov/tree-sitter-quakec",
+    "rev": "268be403609e944a45e5620c49cbbd6683b7f676",
+    "date": "2024-07-18T08:04:52+01:00",
+    "path": "/nix/store/0mn90w40mk9rwgvvyv9mns1qhhmwixba-tree-sitter-quakec-268be40",
+    "sha256": "14p2jzb1fghd8iqvpq7g14a6qqg13z11aci9bmz6caw0lfdqzdya",
+    "hash": "sha256-yrePm6OAK2Z+XSkyFcIf4WFsFAnv4LtxRA0+F9aX4pI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "asn1_asn1",
+  "name": "asn1",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/tdanner/tree-sitter-asn1",
+    "rev": "6938113e9f559ada7819cf2ae35e1d5986efd76b",
+    "date": "2025-10-16T19:42:29-05:00",
+    "path": "/nix/store/gmbkmgy57frxhdraamva49726lj643qp-tree-sitter-asn1",
+    "sha256": "0zs2nhfm54f8nxpnlj5kwc76pbjv5ng5qf88b5ajw3dncvp10f68",
+    "hash": "sha256-yDgQ7ma2DS5VWQg5XJ4tW65rDuOzSGpvt8iRUh20Qn8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

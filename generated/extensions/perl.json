@@ -1,0 +1,23 @@
+{
+  "name": "perl",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/tree-sitter-perl/zed-perl",
+    "rev": "f0292b82514730c182a221fe341a12a082e6e4af",
+    "date": "2025-02-10T00:31:43+02:00",
+    "path": "/nix/store/pb2caxr4cmnfyj3h5xac7mgxjrdgwxqf-zed-perl-f0292b8",
+    "sha256": "1w60qz1vqzhxjiwb4ia6z7j2qbkcwn2vfa0bmc5d7b19d0hi8sll",
+    "hash": "sha256-lGoUIWgprNMKqwsot4XlbC4s5PlGRbJ4lB1+vMPHwPA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "perl_perl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-tAV6jOS3S6i/1+kEgzIdZsgwq0dMEUxxzK+7iR6domY="
+}

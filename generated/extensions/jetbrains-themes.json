@@ -1,0 +1,19 @@
+{
+  "name": "jetbrains-themes",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/artemevsevev/zed-theme-jetbrains",
+    "rev": "b0685c5700a137274c0131e7bba7dbcec576754d",
+    "date": "2025-12-21T10:47:34+03:00",
+    "path": "/nix/store/p95d7wrclwimihlsq4pasc4finxkv51c-zed-theme-jetbrains-b0685c5",
+    "sha256": "0w0dqjnpxzdm7v8vkycfyzx7wgnqfw3w6dr77pwfxcskgci6464w",
+    "hash": "sha256-nBhiIntTs+74PSc3wwd32D5++veO+bnRPrX9fq3EDXA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

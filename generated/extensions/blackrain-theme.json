@@ -1,0 +1,19 @@
+{
+  "name": "blackrain-theme",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/kurokirasama/zed_blackrain_theme",
+    "rev": "f9768749175418a907ab0a58ff9b3fa6559cdc21",
+    "date": "2025-08-11T11:37:50-04:00",
+    "path": "/nix/store/jagmwmb5fxgrgspm5ipi4d0jr6gac0sn-zed_blackrain_theme-f976874",
+    "sha256": "0w7z0hc0i1x9r1cagnjyvbqhdbia9hycrslpdbl9zi5gllgpl245",
+    "hash": "sha256-hQh6H6WvxJ/oapfqzDxMKq4G8dpe2qdYyKmHCBgE/3A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

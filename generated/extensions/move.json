@@ -1,0 +1,23 @@
+{
+  "name": "move",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/Tzal3x/move-zed-extension",
+    "rev": "df8fb317d24ffedc47ab6fa87c1b1f081a253b13",
+    "date": "2025-11-24T17:05:30+02:00",
+    "path": "/nix/store/15m0zbmi8c7qrhpq653jvxycnvhh8lz4-move-zed-extension-df8fb31",
+    "sha256": "0dmqvf8gfa82kwq58nccr3q7wkxv2pb41jnz05jnwql1clldpbr6",
+    "hash": "sha256-Jq/bKGWBYm5lAd/KQNYVu09+8MiMWVQwnwIp95DbuDY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "move_move"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UmmCTMqPAjH8XcYmtXvz2lcEGZAlyCYKZaXYozq6JTM="
+}

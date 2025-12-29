@@ -1,0 +1,21 @@
+{
+  "name": "scls",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/d1y/simple-completion-zed",
+    "rev": "e88297784afae0967dbbf1a6edae1e8723de312d",
+    "date": "2024-05-19T01:05:05+08:00",
+    "path": "/nix/store/ivlrhc7rv1h6qs580146vfjnxn7amx0i-simple-completion-zed-e882977",
+    "sha256": "005pjglwmldxr0sc6778rgpz6x8sx3gi29rg7mb8xs0qvrpvyl0x",
+    "hash": "sha256-HVC/b94Y6I5WPS8nEd/oGnXz78voHMM0yL3RyumTtwA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-970vAerVSg1yxfudcyKm5TX1ddAnUMZAy15ShcgpMT8="
+}

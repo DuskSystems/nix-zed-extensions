@@ -1,0 +1,19 @@
+{
+  "name": "graphene",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/adinack/graphene",
+    "rev": "cd34e6ba4bb099b3f1e8e165a87b25b0bf12014e",
+    "date": "2025-01-30T09:41:30-08:00",
+    "path": "/nix/store/a9bd9d260jlv0pifwx03d5q82ywdgqkj-graphene-cd34e6b",
+    "sha256": "18xlq784bzsgrrlrfjnxpqzxhf9nir0zfk170rmrc153jsl5inb5",
+    "hash": "sha256-ZdlYqJajBJZrBidM90GONjnYP77dSpdpzk//RdDBtKM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

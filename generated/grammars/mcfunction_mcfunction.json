@@ -1,0 +1,18 @@
+{
+  "id": "mcfunction_mcfunction",
+  "name": "mcfunction",
+  "version": "5bf1f08320697c24f395af76422a845f9f627fb0",
+  "src": {
+    "url": "https://github.com/IoeCmcomc/tree-sitter-mcfunction",
+    "rev": "5bf1f08320697c24f395af76422a845f9f627fb0",
+    "date": "2022-08-18T16:59:20+07:00",
+    "path": "/nix/store/94a7b5wff73a47g6advqv12zwq3jf6fz-tree-sitter-mcfunction-5bf1f08",
+    "sha256": "16fsrp42rzr53w10dnsl2w7smdqximwv20w982gkn6psfw6c27k1",
+    "hash": "sha256-YR7BDHf6GjufQIkDsXmNHbeqDxdU2wYCHyX/LMjN2pk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

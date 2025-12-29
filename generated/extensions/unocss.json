@@ -1,0 +1,21 @@
+{
+  "name": "unocss",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/bajrangCoder/zed-unocss",
+    "rev": "5d487ceef3fc6097c5787843d4e1569f84df1587",
+    "date": "2025-09-27T15:57:35+05:30",
+    "path": "/nix/store/73z5yrg3p0fwgi419wga927dlgzjykda-zed-unocss-5d487ce",
+    "sha256": "1vwnqvjsvsibc74rqslrpfab1xvrnyc9gjql1ysb9kipk4hd6mmd",
+    "hash": "sha256-rVbTIJk3zrS0DxTLl5i3efewlLuZapzJYSvqreXGlu8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dYGy6odrcYURiN8jvoYfoMB499SjH4YM0h3zcuqIL+8="
+}

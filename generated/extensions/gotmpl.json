@@ -1,0 +1,21 @@
+{
+  "name": "gotmpl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hjr265/zed-gotmpl",
+    "rev": "dfaaf4e16ff37113fb8f785a5cd7e923c3dd963c",
+    "date": "2025-08-03T18:34:54+06:00",
+    "path": "/nix/store/wp64y7nj18iz3n7di2ips101i676n5ba-zed-gotmpl-dfaaf4e",
+    "sha256": "0gq83xa3vi5dvk72g906d9kw5724i175fgsqya6zi2d9v1nn39kw",
+    "hash": "sha256-fKZhbdipifiN8lg/V06IRJzCZ2oGpCfO3K3EPVQfCD8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gotmpl_gotmpl"
+  ],
+  "kind": "plain"
+}

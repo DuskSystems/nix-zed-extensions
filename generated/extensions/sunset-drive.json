@@ -1,0 +1,19 @@
+{
+  "name": "sunset-drive",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/tahayvr/sunset-drive-zed",
+    "rev": "0c56aaeb9c5144b084fb0672952a75a01392f659",
+    "date": "2025-10-24T10:19:47-07:00",
+    "path": "/nix/store/i7wbkfsz35wpfppq5ggsxsvk6fa279n9-sunset-drive-zed-0c56aae",
+    "sha256": "0pngdhqlpgw30qrhmckh37085cyznakk2jr6b5fdg5dbcgd0kzfa",
+    "hash": "sha256-yv0J2mOrlddcWSZLMaey37OCwBlwsgozBoO/SzFsz14=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

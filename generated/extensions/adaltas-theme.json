@@ -1,0 +1,19 @@
+{
+  "name": "adaltas-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/adaltas/zed-adaltas-theme",
+    "rev": "4f5256f2d096e916b3ec2018f1a712e8b707dfe5",
+    "date": "2024-09-29T13:56:08+02:00",
+    "path": "/nix/store/dym7p5a9b9ijd8w9l1g6a7wba4jd4il2-zed-adaltas-theme-4f5256f",
+    "sha256": "1lq9czxysi8531qmr5iwv5pyqf918j4x8yndbhp8ph6lh1lkxzvh",
+    "hash": "sha256-cP8+aYDUwIsuXM161IlEITnsb9k8llxxGAVF7ftnCdM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

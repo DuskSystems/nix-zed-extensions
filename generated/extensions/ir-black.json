@@ -1,0 +1,19 @@
+{
+  "name": "ir-black",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/sametaylak/ir-black-zed-theme",
+    "rev": "999f590d8467dca03831ed6876da65bed45dab6a",
+    "date": "2025-07-03T20:03:54-04:00",
+    "path": "/nix/store/xf9g3qrfnr6z3xlmmiv7f9zi9ij1zn20-ir-black-zed-theme-999f590",
+    "sha256": "07yl3yy3866kvri20q165jf5c6xvbwfdx28hs019rwkjp6yzizfl",
+    "hash": "sha256-1P34vbly8pwC0BCJ3hxfuxtWnCwmYCBi3tMYNLwf1B8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

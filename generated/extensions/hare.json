@@ -1,0 +1,21 @@
+{
+  "name": "hare",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/xdBronch/hare-zed",
+    "rev": "ac9402919d37cad95e688b498fd4a0e556b96ebb",
+    "date": "2024-11-05T10:31:28-05:00",
+    "path": "/nix/store/7mznfyglzq7fw33lyxycvd7p2bwrn98d-hare-zed-ac94029",
+    "sha256": "0ngwfq8c1gzvhsa07apj0nhf6385p1r41mhd34ixg3m5lg2gjg63",
+    "hash": "sha256-wzz5xKOljtcjGQ3WQHK4BQ3joAXyqgOUhvu/wBB2/Fk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hare_hare"
+  ],
+  "kind": "plain"
+}

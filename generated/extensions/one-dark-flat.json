@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-flat",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/0PandaDEV/zed-one-dark-flat",
+    "rev": "d90856e4fa022530457b1deff71526bbf41ee8f6",
+    "date": "2025-04-15T22:42:10+02:00",
+    "path": "/nix/store/hzdimvf1wsyqzz4lpfg43h3bvy2mj938-zed-one-dark-flat-d90856e",
+    "sha256": "1194x5n1gnfanfbiad4jgnbwmqv6s3xsqqjpim18hlb79lcicqhf",
+    "hash": "sha256-DmIWGU1nUYhCjVdirPvQZuPKl32SNBWXs8rZF2zpJIU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

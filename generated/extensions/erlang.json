@@ -1,0 +1,23 @@
+{
+  "name": "erlang",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/zed-extensions/erlang",
+    "rev": "e8659da522ddca5d3e67f7a6183964f4d089b857",
+    "date": "2025-03-06T17:25:11-05:00",
+    "path": "/nix/store/pj7fx2k4s1f96y5bnm8yypzkbi7xyrgb-erlang-e8659da",
+    "sha256": "01h5kp2s90h3ihd4p672nxin58rdfg714pynklj367pqk4ay71k7",
+    "hash": "sha256-Z4bjFZn4HjMkndZfEs5zLaNiY7fimEsajAOCpMWdBQY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "erlang_erlang"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-AAQ68Yj9braA1X9Y0iCwl1nZvGS2WrfqPP+acBdGXfg="
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-mui",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/danilo-leal/zed-mui-mcp-server",
+    "rev": "8d30b976a496cb20e44a7f38d50fc7dc617da95b",
+    "date": "2025-06-21T12:48:46-03:00",
+    "path": "/nix/store/04anx37dy7wi2jp4br8rbdmz6ikfwinr-zed-mui-mcp-server-8d30b97",
+    "sha256": "1gncq6ij18yb2f3ya595xqbir3djhlf0zif1drarnjvpajrnf3my",
+    "hash": "sha256-vg5ns1R3S5tVbsHFDxyFso0cF+4lFeWHE8ujIKPBzL4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-23ftrDvyijFGhgbvI5aGaGYyJ23ihLExXit8d2ZGZrw=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-mui.lock",
+    "outputHashes": {}
+  }
+}

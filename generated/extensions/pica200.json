@@ -1,0 +1,21 @@
+{
+  "name": "pica200",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Squareheron942/zed-pica200",
+    "rev": "0dcc0d720c115f68237cb4267bcbf28f5f46db27",
+    "date": "2024-11-15T11:55:07-05:00",
+    "path": "/nix/store/lim1imk55mmkijkibqjmy1wppycfs1h5-zed-pica200-0dcc0d7",
+    "sha256": "0sn8pkj702xyjxl1q3h3algc69qvcrga8v4zh1nqzm0nbvinbhzx",
+    "hash": "sha256-/cNl414W1I9tgJ9spF5mGyfDHlUDDhxol74LcOS8yGo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pica200_pica200"
+  ],
+  "kind": "plain"
+}

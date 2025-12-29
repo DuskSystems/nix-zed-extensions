@@ -1,0 +1,19 @@
+{
+  "name": "moonlight",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/Rick-VA/moonlight",
+    "rev": "7ccc067cc5e9d49727746e3c440b137474a1970d",
+    "date": "2025-10-24T12:01:49+02:00",
+    "path": "/nix/store/s4kg8hc0xra5x5b50sd7ixg7f0h428zj-moonlight-7ccc067",
+    "sha256": "0i412xj893gvqsxpkrjx7yyqzgi38m8c7xf55a1f7zvs3phv4x9v",
+    "hash": "sha256-O3Wy4R16/+OCKsX1w1BFI76PvT9d5nm7xvuNhGQXgUQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

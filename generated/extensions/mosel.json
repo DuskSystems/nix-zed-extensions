@@ -1,0 +1,19 @@
+{
+  "name": "mosel",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/pierrenel/mosel",
+    "rev": "d318beb7b525552306774c75842eb6eac0b52de6",
+    "date": "2024-10-10T10:18:38+02:00",
+    "path": "/nix/store/m78wcn5bqnq80ckfb4vmzzlr6xm33c8l-mosel-d318beb",
+    "sha256": "0c0m1jr31jgcjxkgim2f5381xmjj2yvz1j5w6q0flblr3sjh8x2k",
+    "hash": "sha256-U3QEpR6ZLuoANrzI8LcXUtYe0ChO1Phml+zJMLIMFTA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

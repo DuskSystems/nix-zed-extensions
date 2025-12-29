@@ -1,0 +1,21 @@
+{
+  "name": "rcl",
+  "version": "0.12.0",
+  "src": {
+    "url": "https://github.com/rcl-lang/zed-rcl",
+    "rev": "ec71590e79ef4fb60180715893fb2d79ed0c5262",
+    "date": "2025-12-17T21:23:57+01:00",
+    "path": "/nix/store/nqqiz818g1n8brrd287d911910r8jkjk-zed-rcl-ec71590",
+    "sha256": "1x4wfic0qf8asprsnlgcsnl3l8z2adkx253k1pwii69y850syqxx",
+    "hash": "sha256-vWOvQUE+mRj5DXMU0WdT4iM6qNXsUavz1Qo5DFh0nPQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rcl_rcl"
+  ],
+  "kind": "plain"
+}

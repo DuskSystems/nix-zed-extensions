@@ -1,0 +1,19 @@
+{
+  "name": "github-theme",
+  "version": "0.1.5",
+  "src": {
+    "url": "https://github.com/PyaeSoneAungRgn/github-zed-theme",
+    "rev": "ca4ed7504f5bb26c0a311605f46b55b8099c49da",
+    "date": "2025-11-25T12:21:06-05:00",
+    "path": "/nix/store/y01xskpc2s72ajkcmblwls2idwqmv33m-github-zed-theme-ca4ed75",
+    "sha256": "0gmxz77qlp0d5iyzbg1y9bk1yg6gvcxfcr12kgzf4nckbrv58jf0",
+    "hash": "sha256-wElUdl6TWeL+myJk5jrbzzwf5ko+vPV9LA1cis/5vT4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

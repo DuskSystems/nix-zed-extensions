@@ -1,0 +1,21 @@
+{
+  "name": "jq",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/dangh/zed-jq",
+    "rev": "b711df1684586f96143660044f55d26d4d2caaef",
+    "date": "2025-08-26T04:23:39+08:00",
+    "path": "/nix/store/qcf60csx9hz6qhjb3hhxb08ilp81l697-zed-jq-b711df1",
+    "sha256": "1hjjs29mnglrlpdywnirq1nmdi1fa4zkl73dxkmkjc6gnk3nrx5m",
+    "hash": "sha256-tfRsx7TPMDnr7G0cOj9RLsRWbcA5Wu7bpZk+W5PQUsI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jq_jq"
+  ],
+  "kind": "plain"
+}

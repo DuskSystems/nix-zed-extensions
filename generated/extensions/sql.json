@@ -1,0 +1,21 @@
+{
+  "name": "sql",
+  "version": "1.1.6",
+  "src": {
+    "url": "https://github.com/zed-extensions/sql",
+    "rev": "7b3f1486d944ddacea28e437dfc53cdb98a99260",
+    "date": "2025-12-19T18:18:06+01:00",
+    "path": "/nix/store/bqrlg5b45az1b7sv4c0yrclmz2kpk6jv-sql-7b3f148",
+    "sha256": "05w2jwyd153c26qn979skw2i0y0myqdry2q7pgdk6032ph4s2n5d",
+    "hash": "sha256-rVihCbxiADPbuwcLnxv2FXgQBZ86nWSxEWyU0DyXghc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sql_sql"
+  ],
+  "kind": "plain"
+}

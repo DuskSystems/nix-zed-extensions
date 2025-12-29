@@ -1,0 +1,18 @@
+{
+  "id": "less_less",
+  "name": "less",
+  "version": "307541e7b4d9d890a0d85bd9acf7da777d26d323",
+  "src": {
+    "url": "https://github.com/jimliang/tree-sitter-less",
+    "rev": "307541e7b4d9d890a0d85bd9acf7da777d26d323",
+    "date": "2024-06-30T21:56:33+08:00",
+    "path": "/nix/store/lc2wcl5gkjpzy54k8lrsr2i7nwzllfk1-tree-sitter-less-307541e",
+    "sha256": "116y5lzpcdb8r59pmzc9l59xdjwksz8nfaa7xnlv6ivrnf0hjkqv",
+    "hash": "sha256-G08JgbN5R7Op7UcpZ9HXk8vWU6GJ/XpTyWg1dj8t3oQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

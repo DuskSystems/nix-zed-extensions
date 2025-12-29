@@ -1,0 +1,18 @@
+{
+  "id": "editorconfig_editorconfig",
+  "name": "editorconfig",
+  "version": "439a3fcdbf239db35f587936a36f48b704ba8357",
+  "src": {
+    "url": "https://github.com/ValdezFOmar/tree-sitter-editorconfig",
+    "rev": "439a3fcdbf239db35f587936a36f48b704ba8357",
+    "date": "2025-11-01T16:30:04-07:00",
+    "path": "/nix/store/r6qs15130362z9lj79n9wlxvvx2dm8vn-tree-sitter-editorconfig-439a3fc",
+    "sha256": "1n3vha3kl0jyfxla210k8s6bhyz5s8jmc4qa266ikc2wi8jzx6qq",
+    "hash": "sha256-GJv+JYpcsBmNEQoTViXS5Xu4jEYTBKFod14COoeCe9g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

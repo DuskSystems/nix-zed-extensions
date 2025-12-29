@@ -1,0 +1,19 @@
+{
+  "name": "solarized",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/harmtemolder/Solarized.zed",
+    "rev": "09865c9ec516c9a7f0e4e6267ccdbbd893e77ca8",
+    "date": "2025-06-26T14:00:41+02:00",
+    "path": "/nix/store/4g380cnkl5gwxzwcikk2xac4cgjkjipk-Solarized.zed-09865c9",
+    "sha256": "071h95hm5jjnq48lyi8j5igz736ls80s53zjjfjgmn6n4qkmhi14",
+    "hash": "sha256-JERYJybW2Pqkk/KPogHS1IzzXywSRU8RwVbKUmFJMBw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

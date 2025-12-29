@@ -1,0 +1,19 @@
+{
+  "name": "material-dark",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/xerodark/zed-material-theme",
+    "rev": "e902b96f14d392af3056e50a51ab40696d55b2c2",
+    "date": "2025-03-06T12:55:02-08:00",
+    "path": "/nix/store/gly3iwlavwgyrx4cqrba7xy3pinfd77b-zed-material-theme-e902b96",
+    "sha256": "0gk1fq8p76vq6hn5wkq2d7rpkycb6f4pqr33jl0np9zf0nq2xc9k",
+    "hash": "sha256-M7EusAXup2sBlWNkfIkzi/l582kCT14sNHibcxF2YT4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

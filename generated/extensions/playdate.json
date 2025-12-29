@@ -1,0 +1,22 @@
+{
+  "name": "playdate",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/notpeter/playdate-zed-extension",
+    "rev": "760b17ab2d723aac49886dac4872607eb2d20cce",
+    "date": "2025-12-09T12:24:14-05:00",
+    "path": "/nix/store/xfiqwmwlcgs9l70kq2jaik4c4srmsxrw-playdate-zed-extension-760b17a",
+    "sha256": "1xi9nkbhaylhnw119wfbyj1wcr9vgg8dl1crpfbf4r6as53dhdv6",
+    "hash": "sha256-ZjfYRtHKZOKWu5kF2tB7O2XGg/TL8RQCt5B6Bde0KfY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "playdate_animationtxt",
+    "playdate_pdxinfo"
+  ],
+  "kind": "plain"
+}

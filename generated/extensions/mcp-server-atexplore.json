@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-atexplore",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/moshyfawn/zed-mcp-server-atexplore",
+    "rev": "76d95297697b6ae6e932a42f386b04d967633773",
+    "date": "2025-12-24T11:40:28-05:00",
+    "path": "/nix/store/31b4rplj2xm0q5d1g36hfll7ik97wlzk-zed-mcp-server-atexplore-76d9529",
+    "sha256": "0is6lynn228yy89ic5ccnw1bbxyh8rkv6z779bwhy8gk1ksh0k0b",
+    "hash": "sha256-C0wA9QzzIQ/5Sud8s2dG0Pe1AreMFRYT8h4JYa2nRkc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-6eaz2khk7B281gx9SKAXspW3bYb8jtKdwQTWNw+4j3c="
+}

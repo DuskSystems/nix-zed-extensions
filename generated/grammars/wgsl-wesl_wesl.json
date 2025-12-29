@@ -1,0 +1,18 @@
+{
+  "id": "wgsl-wesl_wesl",
+  "name": "wesl",
+  "version": "3fa2b96bf5c217dae9bf663e2051fcdad0762c19",
+  "src": {
+    "url": "https://github.com/wgsl-tooling-wg/tree-sitter-wesl",
+    "rev": "3fa2b96bf5c217dae9bf663e2051fcdad0762c19",
+    "date": "2025-09-26T22:31:58+02:00",
+    "path": "/nix/store/ra6v00yy3g49m0d7vadiv5zgc738s8d1-tree-sitter-wesl-3fa2b96",
+    "sha256": "1ksdmsay8idsg33sinfqd081gnadq41zs186fxgiq6k05gjzly9v",
+    "hash": "sha256-O3n65StgGhxfdwYF/QPBTdkXEGjY2ajHeLpF5JWuTc8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "verilog_systemverilog",
+  "name": "systemverilog",
+  "version": "e88937e66adc3ee7be0bfe40b7e937eafe4212bb",
+  "src": {
+    "url": "https://github.com/gmlarumbe/tree-sitter-systemverilog",
+    "rev": "e88937e66adc3ee7be0bfe40b7e937eafe4212bb",
+    "date": "2025-10-08T21:13:22+02:00",
+    "path": "/nix/store/ia7q879kp2bk1974n34skf591xm4742w-tree-sitter-systemverilog-e88937e",
+    "sha256": "12sis5yaa23jnagzqcpaq57z0964mcdh37sv7agx2rgs74f26fy3",
+    "hash": "sha256-wzsjHDn6ZdGfOlufARurxCTwT8HqMvyfsnIIpXzRUYs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

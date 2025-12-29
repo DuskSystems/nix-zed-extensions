@@ -1,0 +1,22 @@
+{
+  "name": "lilypond",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/nwhetsell/lilypond-zed-extension",
+    "rev": "9363b8c5be4211eb86861d833768339f475dcd29",
+    "date": "2025-05-11T16:39:11-04:00",
+    "path": "/nix/store/nmin2d1wzzaxgsqz374khg0s772wnlyh-lilypond-zed-extension-9363b8c",
+    "sha256": "0rj1gm7l7hrpyhbsrha1ddvnpwshybb5r2mgm2cjjjmf57m2f62d",
+    "hash": "sha256-TRgn6imuSimZqK+KXNbyUPNrd2tBwawX9DfDQ099QWY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "lilypond_lilypond",
+    "lilypond_lilypond_scheme"
+  ],
+  "kind": "plain"
+}

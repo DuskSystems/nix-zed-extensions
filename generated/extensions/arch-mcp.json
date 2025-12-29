@@ -1,0 +1,25 @@
+{
+  "name": "arch-mcp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/nihalxkumar/arch-mcp-zed-extension",
+    "rev": "742ee7122be6d703e76c3eabe4855c565070b879",
+    "date": "2025-11-18T00:02:55+05:30",
+    "path": "/nix/store/qhy2hb1nhx18pvrz7z1x5gdqr023j6kv-arch-mcp-zed-extension-742ee71",
+    "sha256": "0abpcg2ddi6bw35fh13544gs8ydbnhiy8pwscp0kk5v5iqh1v0ml",
+    "hash": "sha256-tIIdII5llznBZZpf5CO0q3mkHyFlBOjK4MvE1sRjdyk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-aXbHKJukuFomCXm7i2GqzoUIVpCvS2sOWLRqSMvHrQo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/arch-mcp.lock",
+    "outputHashes": {}
+  }
+}

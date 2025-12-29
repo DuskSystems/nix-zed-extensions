@@ -1,0 +1,18 @@
+{
+  "id": "aiken_aiken",
+  "name": "aiken",
+  "version": "229c5fa484468e0fd13f6264710a7f6cbb7436f1",
+  "src": {
+    "url": "https://github.com/aiken-lang/tree-sitter-aiken",
+    "rev": "229c5fa484468e0fd13f6264710a7f6cbb7436f1",
+    "date": "2024-08-12T14:27:19-04:00",
+    "path": "/nix/store/6i2xb4bdd7c6j1m2nw3cdysknlxk3yl6-tree-sitter-aiken-229c5fa",
+    "sha256": "193fhdmrxxsrl6v3ip27p31x8pac0hg4mcc7sf2n7ypvl2jrvmjx",
+    "hash": "sha256-XdadpaD7+mOF04exSh4ETF3Uw7hH3Di2oVn3nmuDbqQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
