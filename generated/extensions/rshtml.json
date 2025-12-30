@@ -1,13 +1,13 @@
 {
   "name": "rshtml",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "src": {
     "url": "https://github.com/rshtml/zed",
-    "rev": "b681c79ecdbccb6bd72d8bcb1c4bea9798f02707",
-    "date": "2025-11-06T14:24:18+03:00",
-    "path": "/nix/store/pgl4pg1215yi7hlz5riv9kd1j7awr8nn-zed-b681c79",
-    "sha256": "110j41qqs8fdl8kz9p1rmvf6c12krxq12lxlgin8hnillqhv5s79",
-    "hash": "sha256-6eiyIaY0WohsfLRTEXDPUwRm3K453PQnos0hjXEgEoQ=",
+    "rev": "0081ccde61d6553a19301102e38f1793814b706d",
+    "date": "2025-12-28T15:31:13+03:00",
+    "path": "/nix/store/pn7p5dya3dnp99bfaivlaryigzbqbnap-zed-0081ccd",
+    "sha256": "0dj27zx1c6mk98mhivkdj61p7dfyjil9xzk11qkdlfbysgv8phcz",
+    "hash": "sha256-n8GL9tN+OdomDmH+nmiU3rVzg5Ft7ggrSrMaFvo/QjY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-s4+s3h0N9VNFAMT5/dICfAIZvs7zub/60Y3ipImDeE8="
+  "cargoHash": "sha256-T0RBsFmtMRI56uYAzRQN48ufgTFVewu8ycZQ9d9lZCc="
 }

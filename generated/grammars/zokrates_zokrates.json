@@ -1,0 +1,18 @@
+{
+  "id": "zokrates_zokrates",
+  "name": "zokrates",
+  "version": "186a68e3e945f7f83450968ee3afa8c95e877db9",
+  "src": {
+    "url": "https://github.com/threonyl/tree-sitter-zokrates",
+    "rev": "186a68e3e945f7f83450968ee3afa8c95e877db9",
+    "date": "2025-11-27T13:44:51+01:00",
+    "path": "/nix/store/0p04m7i6ld1d4595880qk5q81bpf08g0-tree-sitter-zokrates-186a68e",
+    "sha256": "0hrl7nrnk1ql1h3c6663krsbiqq0i2ybzic7zph7961dgflnkv1p",
+    "hash": "sha256-N+xpqXstmHTg/YfFv7yIAOO4dJ7DGMMGDBSHabM9NEM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

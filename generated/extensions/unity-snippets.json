@@ -1,0 +1,19 @@
+{
+  "name": "unity-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Abdallah-Alwarawreh/unity-zed-snippets",
+    "rev": "608b0163c157440687dbd3753a3c412b375261b1",
+    "date": "2025-12-27T15:39:47+03:00",
+    "path": "/nix/store/pi2shfz0s8xzhjl9xly6p8w4kf1sakwy-unity-zed-snippets-608b016",
+    "sha256": "1jm9yc4n1qm5v5kcdm42mxp54r1raxv24hacw101w6hv6j93sx4n",
+    "hash": "sha256-lnQ9kjQbGh5A4ExBInZXOWRSbq+C1MZm2aXiYAnzqco=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

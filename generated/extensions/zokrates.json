@@ -1,0 +1,21 @@
+{
+  "name": "zokrates",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/threonyl/zed-zokrates",
+    "rev": "d0be5c6ae16535e8bac503703cb3dae778c815d5",
+    "date": "2025-11-27T14:47:09+01:00",
+    "path": "/nix/store/f5z6ssf7mvi7i6mkyng1vkx432z33xxw-zed-zokrates-d0be5c6",
+    "sha256": "0f6nnf0mrm83kc90xdj00f6dqngvnybzcsks6xarirz6cn4hyqab",
+    "hash": "sha256-S2EPiWXm55hVN3pq9pe3+1ncjANAtg4SmwPVXIGz1jg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "zokrates_zokrates"
+  ],
+  "kind": "plain"
+}

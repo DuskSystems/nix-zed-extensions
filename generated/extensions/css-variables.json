@@ -1,0 +1,21 @@
+{
+  "name": "css-variables",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/lmn451/css-variables-zed",
+    "rev": "d3a1c968b5594ff8023c02ea00c6b32047be7f2f",
+    "date": "2025-12-15T20:33:36+02:00",
+    "path": "/nix/store/5f1s5jaaggdzhvqmqz072y16f29j700b-css-variables-zed-d3a1c96",
+    "sha256": "1gpcnxax9l9jb1mvrmvmix0xvnxm35q43zrz5yn3hi5phj70pxfv",
+    "hash": "sha256-2/ULjoS3RDisLz//QXAZtdvdQY9117xrWDLR1FW37L4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-9th1BQ2JCfgPWK4QJfK5ibnaQK9sLMNsCl6ABeWhHsg="
+}
