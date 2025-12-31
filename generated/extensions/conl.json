@@ -1,13 +1,13 @@
 {
   "name": "conl",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "src": {
     "url": "https://github.com/ConradIrwin/zed-extension-conl",
-    "rev": "82217075524bc21dbb10f3ecf0502f05042b8308",
-    "date": "2025-07-10T00:12:59-06:00",
-    "path": "/nix/store/wjqgcg52zisidbzilvmr4fkl75v1msnq-zed-extension-conl-8221707",
-    "sha256": "1sib13rlh1vnr7mqh180wppki0ijwicw0mk04lwdj5ga91yvl7hx",
-    "hash": "sha256-HR66fUjqFdk4JWBWwFnkMoI47+UABYjryXYHSPMIK+o=",
+    "rev": "86ccd28eefbef6730d0941027a1bc5f8e4c5e983",
+    "date": "2025-12-30T20:09:48-07:00",
+    "path": "/nix/store/83y3nfl6p2nxvspsmfhkpibp9z99lzjl-zed-extension-conl-86ccd28",
+    "sha256": "1shd2wi7xnpi4v9mdn7idkmakhsxwp8s5zlk1j36cwwpncjwhgci",
+    "hash": "sha256-kT3IJbOXc2aGDJP+otHlXcOp6mzx2FbTJvHafiIXDeo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-yeujH39v5b1PF0dW9CtmeZ8mHKf9Rqw7ZWAvBMp1EGw="
+  "cargoHash": "sha256-Cgu9gaIOiW5hHvCAHvU5Ed+pH0qU7vqqTABaNRr/BgU="
 }

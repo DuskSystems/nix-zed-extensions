@@ -1,13 +1,13 @@
 {
   "name": "luau",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "src": {
     "url": "https://github.com/4teapo/zed-luau",
-    "rev": "c13baef5a8e578282b9cdd17f68dc38143f9314c",
-    "date": "2025-12-29T21:58:42+01:00",
-    "path": "/nix/store/4qp7a74lwkv4l4i3xghpqx3aqljbalr2-zed-luau-c13baef",
-    "sha256": "15c2ngb98c7qbh9hw1di4yzncrs2qhgpzdjsw5kfagmi6c15ddjd",
-    "hash": "sha256-TbZWAjOxPuVm4Vq2fx/EQmdmvyexBQ4TXPgwlNazgpU=",
+    "rev": "04a9be84ccade126a7f3ffc61c11a21dd85778db",
+    "date": "2025-12-30T13:06:05+01:00",
+    "path": "/nix/store/axivqrrv73skwn9hx51j2m429l5y990j-zed-luau-04a9be8",
+    "sha256": "0w9za4cawiywqqqjy5yphlcww3ybky3whdx82lc75zppphhzhdla",
+    "hash": "sha256-ijb4Ibz3/nIYFag3yIefyw/OGYXXFy8xxtxHrhhRP3E=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-brfacDZVB0O+/F4rNfI2VkND52rWA61Fd4/NLWRvSww=",
+  "cargoHash": "sha256-WuLJx2aDsAZ1e247W64zAQZioMjQDkR2pHXrUjULYvk=",
   "cargoLock": {
     "lockFile": "/generated/extensions/luau.lock",
     "outputHashes": {}

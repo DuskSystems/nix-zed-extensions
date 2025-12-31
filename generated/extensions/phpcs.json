@@ -1,13 +1,13 @@
 {
   "name": "phpcs",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/GeneaLabs/zed-phpcs-lsp",
-    "rev": "bdf54db1a5bdafeac80fd0b6d74726d543a2aee5",
-    "date": "2025-09-17T22:56:15Z",
-    "path": "/nix/store/p3vhlkvz8l9dh8n64xj2gp3y9sfnmqm7-zed-phpcs-lsp-bdf54db",
-    "sha256": "0jhg5ap2ii4g0k3hxx9d4mbzpk5zh6cm5qk22mf0big4177y24fy",
-    "hash": "sha256-3hHhzwnkxQVcFWLiUpmBv8z7VyUt9Q7HBI/EKK4qD0o=",
+    "rev": "5d1608367d43a5c4d27d42c3f86cb1ac5933118b",
+    "date": "2025-12-30T05:23:18-07:00",
+    "path": "/nix/store/grzy7db1q0klrr9bdfzdq095vs6pq3xd-zed-phpcs-lsp-5d16083",
+    "sha256": "1klp4wrj97y99z41cgnydh9k0w07dy5f0rhv82vz8dkya56n4zqf",
+    "hash": "sha256-Dn9iTVF+NvS3QBtm4IpvB3AwE2zePhbIT8mfJDMnl84=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-fAO4Mkdo5fu4U65p1S830sLX6tjTE4Z81uuxC9jDxkg="
+  "cargoHash": "sha256-eP0PWyC3mZZ1A7a2I9/SznXL2s/+kx7S7g+wEFobKTk="
 }
