@@ -1,0 +1,21 @@
+{
+  "name": "hackatime",
+  "version": "0.1.10",
+  "src": {
+    "url": "https://github.com/espcaa/zed-hackatime",
+    "rev": "ead002315a2dd94d7f20602bc43714c19b7e4939",
+    "date": "2025-12-28T00:43:40+01:00",
+    "path": "/nix/store/ymgsplvhgg4yg6hgywknf561v0d49pji-zed-hackatime-ead0023",
+    "sha256": "0zkxl21ac9nwy67bn7arppfgh93zzmxy9yiwhmk71lyv0qvf92wq",
+    "hash": "sha256-mIvkNgbb03BmhTz65Hv9fyT43L1ZHbuO8dwmpoKgfX4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-x2axmHinxYZ2VEddeCTqMJd8ok0KgAVdUhbWaOdRA30="
+}

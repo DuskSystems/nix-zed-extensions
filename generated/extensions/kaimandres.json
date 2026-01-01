@@ -1,0 +1,19 @@
+{
+  "name": "kaimandres",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/MartelleV/kaimandres-zed",
+    "rev": "4147a00fbffbb8f4e5c1c012aaa3bb525c95443b",
+    "date": "2025-12-26T22:49:29+07:00",
+    "path": "/nix/store/7q0n0a0fwmg6kllp2jlgrg40ky5vif4i-kaimandres-zed-4147a00",
+    "sha256": "1y2avgmdpcsh3nxv26ipdsy7qn11lzprmlr9bz7q3qwq5i8y69ig",
+    "hash": "sha256-LybjUSyY44HPXynTmu+nIVh8vG43GrG7HVCz2+rbSvg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

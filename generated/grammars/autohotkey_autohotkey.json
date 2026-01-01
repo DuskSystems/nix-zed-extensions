@@ -1,0 +1,18 @@
+{
+  "id": "autohotkey_autohotkey",
+  "name": "autohotkey",
+  "version": "1d755dccb903aa008ffa8f8e71e884ef9d31e078",
+  "src": {
+    "url": "https://github.com/alfredomtx/tree-sitter-autohotkey",
+    "rev": "1d755dccb903aa008ffa8f8e71e884ef9d31e078",
+    "date": "2025-12-26T18:01:10-05:00",
+    "path": "/nix/store/zfpnx3pbbvrvr7yrd9xba07xbkjm2570-tree-sitter-autohotkey-1d755dc",
+    "sha256": "011q9fnqy5s7sszhxhirnq31lpb1ksjj63yzd5593lbqzzk5li92",
+    "hash": "sha256-IkVa5v940ZFKad8PI6WeYV0aBrY5wg6/1kcXj61LOAQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "."
+}

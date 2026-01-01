@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-atproto-docs",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/moshyfawn/zed-mcp-server-atproto-docs",
+    "rev": "232b894011356e528e5af28199a132b8c58dc61e",
+    "date": "2025-12-27T13:10:04-05:00",
+    "path": "/nix/store/girsjxha01af5rjd2byr481zwgn91hh1-zed-mcp-server-atproto-docs-232b894",
+    "sha256": "0bv7s863lxhjwlhrzfnr2nhn99zsav5jgqhhiiff3b51p6hf86vy",
+    "hash": "sha256-fhvkoLmhrOFcjBDiJ8tW+qdkoRXZup8h5RJ2OgzSZy8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-bPcAzDTUnG2yZk+S1IA6WsMC4tWfUH220AYxySF2XWI="
+}
