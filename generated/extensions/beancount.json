@@ -1,13 +1,13 @@
 {
   "name": "beancount",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "src": {
     "url": "https://github.com/zed-extensions/beancount",
-    "rev": "3221e59cce9cc2e62e0511bc53204d60133e31a1",
-    "date": "2025-02-07T09:09:23-05:00",
-    "path": "/nix/store/wi0vx63lwjfvjf10pxqxxc6v8xs1s6x1-beancount-3221e59",
-    "sha256": "0g3nqgxfaixf1gi0b6h5wnl8aqh4mqqv0y2cw6d65ixwdnwzhz76",
-    "hash": "sha256-5nz4uW28x2Ka4Ux4sDGuBGKFqOUFmgXiC65H5frDdjw=",
+    "rev": "75bc453c8f913b2391430e57a8217120e74521ca",
+    "date": "2026-01-02T10:43:28-05:00",
+    "path": "/nix/store/r4g0cww74caj4g9nd3izhyrbdxj14l0s-beancount-75bc453",
+    "sha256": "0dlik6049wp9izqhvbv4n8w5pnz01caycadkl62yqwg2p07pd4lm",
+    "hash": "sha256-lZJ2D7jiceyFobMp5hUL4NtbOLJkrw3xj+nyRICZkTY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-5NNnAZSJg7zt8DJIYMPHhrvrSDOY+BV3ENLP4Jd9rtY="
+  "cargoHash": "sha256-TosFw65T+1IMUfajNpDNkqk+pG8RdYYPCf2Ojevn+do="
 }
