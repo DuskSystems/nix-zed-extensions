@@ -1,0 +1,19 @@
+{
+  "name": "theme-lince",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/xaviduds/theme-lince",
+    "rev": "8cae4faa4c744c650efea387f460b46907ef744d",
+    "date": "2025-10-25T10:16:36-03:00",
+    "path": "/nix/store/18ys35aa0vq9q56i0425ghx9v0y749jd-theme-lince-8cae4fa",
+    "sha256": "03diqkrayy83wa01hixnli3bvw6vc8mxcgjiidsvdawvvdkbxqyk",
+    "hash": "sha256-0+O+Ztubq7Z1i1E+1iti2/C9RqS2RxiA4gN5r/LEsQ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
