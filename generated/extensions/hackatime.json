@@ -1,13 +1,13 @@
 {
   "name": "hackatime",
-  "version": "0.1.10",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/espcaa/zed-hackatime",
-    "rev": "ead002315a2dd94d7f20602bc43714c19b7e4939",
-    "date": "2025-12-28T00:43:40+01:00",
-    "path": "/nix/store/ymgsplvhgg4yg6hgywknf561v0d49pji-zed-hackatime-ead0023",
-    "sha256": "0zkxl21ac9nwy67bn7arppfgh93zzmxy9yiwhmk71lyv0qvf92wq",
-    "hash": "sha256-mIvkNgbb03BmhTz65Hv9fyT43L1ZHbuO8dwmpoKgfX4=",
+    "rev": "ef212c4e171b9e86e4a5455cf0195ceaec436600",
+    "date": "2026-01-02T23:53:17+01:00",
+    "path": "/nix/store/g9g5kbf41ci2ql7715mzbbjkzlzc1f45-zed-hackatime-ef212c4",
+    "sha256": "17bi6bgvd2c48aj9ynxiy7imbgvimribrw81kwkcym8qaqcsxai7",
+    "hash": "sha256-J6quGVYYVc8mnwHxvGKucb9V4/GxW5+kQoSJtt8ycZ0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-x2axmHinxYZ2VEddeCTqMJd8ok0KgAVdUhbWaOdRA30="
+  "cargoHash": "sha256-VkoxCloiYenhKQqAQvx4FnTKzznFsqe2Qv0gr1ftahg="
 }

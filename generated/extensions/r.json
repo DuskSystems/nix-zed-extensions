@@ -1,13 +1,13 @@
 {
   "name": "r",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "src": {
     "url": "https://github.com/ocsmit/zed-r",
-    "rev": "d6c6bd685f4fe4edfb9dd35d0d9e30a30e0bf35d",
-    "date": "2025-08-20T13:33:34-04:00",
-    "path": "/nix/store/xr4jj8g8427123r2c2qwr8qvz1xp91gp-zed-r-d6c6bd6",
-    "sha256": "053vdpw3l4slcyv7z6750wvajp7vsx86c7n1y09wxf9a41mmnshb",
-    "hash": "sha256-C2pbayAquc4T8MEeZlDX+1ypNgflmH+2Z1QTOvhtexQ=",
+    "rev": "3fa5b05688ed7499e76afbc707de0a83e33ca496",
+    "date": "2026-01-04T14:16:32+01:00",
+    "path": "/nix/store/ikqnnlsi8b17m533pqwwd9bq04bqxy85-zed-r-3fa5b05",
+    "sha256": "0sazp11vnqq3ycyrid6wqwpm5fqis8vsvsk5f0bx47n2id1rlfdd",
+    "hash": "sha256-rTmaQ4vCHtIXcGXqrTfSEbtSL8fctJg98wNju0O4X2k=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vAH2aVxpE6yB2UVsnBRmALy//LDjN218zDauMlmWKdQ=",
+  "cargoHash": "sha256-X5ystVLTeATZwpCQYF094rpiCAI0W+lQa6d95QWB71Y=",
   "cargoLock": {
     "lockFile": "/generated/extensions/r.lock",
     "outputHashes": {}

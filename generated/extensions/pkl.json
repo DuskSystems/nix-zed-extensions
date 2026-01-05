@@ -1,13 +1,13 @@
 {
   "name": "pkl",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/Moshyfawn/pkl-zed",
-    "rev": "44619a4d20bf1292d7f2262ecae38ff9a143fea8",
-    "date": "2024-03-26T21:55:19-04:00",
-    "path": "/nix/store/74hxbmzwg45xi0pp6cdr2fd26dz33qwc-pkl-zed-44619a4",
-    "sha256": "03fqg89qglck2k4lbqm65y5k5jbjcmsi692n6br9n1ysdabdqzdr",
-    "hash": "sha256-uX3clmraB5vyMlYkE3Vlcskyiy+m4kXJFJPRhxN62A0=",
+    "rev": "ca3160ae6b1fbd1501079875382cb82f234572fe",
+    "date": "2026-01-02T15:37:29-05:00",
+    "path": "/nix/store/w7vzbllynx269amgpni7rf6iz07rspmg-pkl-zed-ca3160a",
+    "sha256": "1w06j4dyd2aq9s9fy27a2p9hjhcdhkk65y1257q73njdvifnpsym",
+    "hash": "sha256-1etrXdxN2nHwKSL4YuaEjUEJ0xXqCO+STliJ5huRBvA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "pkl_pkl"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-hF+JeYgbX5QXmyzs10edMffRJ/rT+kf1q4pm7NoCHsc="
 }

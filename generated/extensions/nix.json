@@ -1,13 +1,13 @@
 {
   "name": "nix",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "src": {
     "url": "https://github.com/hasit/zed-nix",
-    "rev": "269fc9f940a9c5fb3d14862d08a08bfb8249adb0",
-    "date": "2025-09-02T11:14:38+02:00",
-    "path": "/nix/store/9wfx38dbi2f6xf9zfa3rrbyy72nkz88q-zed-nix-269fc9f",
-    "sha256": "1ah2mcpdpdp56swj78zkwanshy9ycqw649ldaq578z5yrfxvgyyx",
-    "hash": "sha256-3fu3u8u+fHQKVo0mYjhmPnmoreLzoyO5NuW22y6rAqo=",
+    "rev": "f8e670ff5dae868385126c203c2f524e3107d76d",
+    "date": "2026-01-04T21:38:27Z",
+    "path": "/nix/store/yns06hp8q21d7k1f0r5gf3kpcjpi693p-zed-nix-f8e670f",
+    "sha256": "1bg3japq3wjv30lmg1d773fs5mjg0dqvfkx12qw6bpgb1lqpd0nj",
+    "hash": "sha256-0oJ2MQ3r3WU4FqFPt3EDT9ai3TinhVcpGFvyga+S460=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-YkZs79CAusqw7CGEFeQUOkedOGtl1V/44wjwllMb+HE="
+  "cargoHash": "sha256-g93P50c9OqEMWVpg2hEdgXLaaapbe5YQBxRs22gTYSg="
 }
