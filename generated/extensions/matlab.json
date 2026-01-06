@@ -1,0 +1,23 @@
+{
+  "name": "matlab",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/matlab",
+    "rev": "642e9bb255318d7f0dfd12af1765abe538f6ec42",
+    "date": "2026-01-05T19:59:02Z",
+    "path": "/nix/store/wlls5j1k5r23sdgy1dymf1nga2hp61v9-matlab-642e9bb",
+    "sha256": "1kb2rs8xqir1b73k4fxnjsx3a2hzmqaiml7z408wkyaqi4ngn5bd",
+    "hash": "sha256-bRX7LIlY+ckRIP/QGhWuHwo1upa2OzLHWSFH3JHOYs0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "matlab_matlab"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-8vNX4JNihg/saWc0uMFDwQeWAISg9EC4I3GMlox004Q="
+}

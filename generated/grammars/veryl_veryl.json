@@ -1,0 +1,18 @@
+{
+  "id": "veryl_veryl",
+  "name": "veryl",
+  "version": "8fe7d4b5ff90abbdefe82f21e31105ab6888685f",
+  "src": {
+    "url": "https://github.com/veryl-lang/tree-sitter-veryl",
+    "rev": "8fe7d4b5ff90abbdefe82f21e31105ab6888685f",
+    "date": "2026-01-03T17:06:42+09:00",
+    "path": "/nix/store/az5sdfc9z09vaah6qxxjhn0s1h8q7005-tree-sitter-veryl-8fe7d4b",
+    "sha256": "193k4bkbfnvvzwllb3y0j38k7rcfi70nd0p13lr2j4apmj854h2n",
+    "hash": "sha256-VkBSkKxXESkyHeGCZsGJjuUz0ZDAj0Up/3tbt+Yic6Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

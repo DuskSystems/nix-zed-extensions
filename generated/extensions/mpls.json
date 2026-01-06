@@ -1,0 +1,21 @@
+{
+  "name": "mpls",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/pnyda/zed-mpls",
+    "rev": "e02a38a86e19cfcae2221e29d81225b0e0a1996c",
+    "date": "2026-01-03T16:24:08+09:00",
+    "path": "/nix/store/79gd1vh0yh5x9866ci2ysfd7d39cfr9f-zed-mpls-e02a38a",
+    "sha256": "1fl9lgfh51wr8jnj044qzpjbg5gdq9s7mz49sbrcaxp2f7csbjx0",
+    "hash": "sha256-oMul2XHidsXy0on8enTC7ZW35P2YECCtRJmHAt2jibo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-P45E+hV05AVW/KhkGhZRgu9OBOoiivg6uQCAMSkXdcw="
+}

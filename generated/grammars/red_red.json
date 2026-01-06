@@ -1,0 +1,18 @@
+{
+  "id": "red_red",
+  "name": "red",
+  "version": "0efbf66570cb6a10a198851c82c9f7c16b22cac6",
+  "src": {
+    "url": "https://github.com/red/tree-sitter-red",
+    "rev": "0efbf66570cb6a10a198851c82c9f7c16b22cac6",
+    "date": "2025-12-27T11:33:45+08:00",
+    "path": "/nix/store/c4dqkk633360l9a3307i3n4qb6ny0al6-tree-sitter-red-0efbf66",
+    "sha256": "1f3zp86506sj1vxh88l8wa5826c3j103wbbmnxf6zjy0pim9cmqq",
+    "hash": "sha256-GFeWarzAy29ct3UtPkCQgxmBiuKIIgT7DlIbUAy6f7g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

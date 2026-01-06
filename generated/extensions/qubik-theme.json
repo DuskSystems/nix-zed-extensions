@@ -1,0 +1,19 @@
+{
+  "name": "qubik-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/qnbhd/qubik-zed-theme",
+    "rev": "9c74c9c0adc28e4b3bd37637ac80908537aaf107",
+    "date": "2025-11-29T12:58:27+03:00",
+    "path": "/nix/store/83zzmi7ak2ykqg88258bdxx8865qmmdc-qubik-zed-theme-9c74c9c",
+    "sha256": "1ym8hpch1522kyp3piw3x1vgv4059ysg7y9knm36dha8fi3dryyf",
+    "hash": "sha256-zvvcRnRIwWZGtTP587RPBZD9duiDxzuun0KUANmFqPo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

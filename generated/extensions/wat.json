@@ -1,13 +1,13 @@
 {
   "name": "wat",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/g-plane/zed-wasm",
-    "rev": "57c5e9f2ae5d42c6afbeb0b6fbdaa18cfa98a158",
-    "date": "2025-01-22T08:13:37+08:00",
-    "path": "/nix/store/vkf5z499ndjwjwj1avy91vvzydfsqliq-zed-wasm-57c5e9f",
-    "sha256": "1qpc3wwllhh9y1hmc1qykz4134a82ymx3dcvdysch13r15gvj5cf",
-    "hash": "sha256-jhW5Xwl5BMi0b5u10asXSJERyJ8eB1Zh8AlCSjkf7OI=",
+    "rev": "0cea6c22cf4d5aa7bef8ef5e08c77e44a745ae85",
+    "date": "2026-01-04T17:27:55+08:00",
+    "path": "/nix/store/3nzqh925jabgrw69lf5l8gc9w85m8d88-zed-wasm-0cea6c2",
+    "sha256": "0i7v3s8indv5fcmwpj7hkgj0gkn03ahk82ciljy2khni5wgyjhq9",
+    "hash": "sha256-CUPpHy/Rwim8pJEJNKEawM4H5JvwyMsrc2U3G5Ee+0Q=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-JyRnXT1wUkuyHQ1DlNnNk9lTflzO5JygxTRQUqJxsgE="
+  "cargoHash": "sha256-pkfjucZLvJ81S3l44LAYKNlsNWDfswPqTqSLJBMCZvg="
 }

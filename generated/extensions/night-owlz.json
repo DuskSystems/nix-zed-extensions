@@ -1,0 +1,19 @@
+{
+  "name": "night-owlz",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/elGusto/night-owlz",
+    "rev": "b518472abceb5cc28a7549d73bbb4f5eba2dba12",
+    "date": "2026-01-05T20:22:00+01:00",
+    "path": "/nix/store/wi37d9sqllarwn8dx80irnbgnyz9vxf1-night-owlz-b518472",
+    "sha256": "1y4z7x0xll06m7l281i5cgami6zh06143cicbl9x8482dxc0kn8l",
+    "hash": "sha256-FNkJWG8CEdQTXSyyQYIB8JtY1WMlBiToqQZQ2kE/n/g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

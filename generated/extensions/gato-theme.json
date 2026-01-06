@@ -1,0 +1,19 @@
+{
+  "name": "gato-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/DCCXXV/gato-zed",
+    "rev": "c6c40125c3d4993e3cff32f58110f2848b228469",
+    "date": "2026-01-06T00:35:33+01:00",
+    "path": "/nix/store/g2fxyvzg6iirjxljwqxafihixd0zbvw4-gato-zed-c6c4012",
+    "sha256": "0mh46mwmzc1i8znzf0wyh4hhyma3xy6l8i05a8r8s5f497c887pi",
+    "hash": "sha256-8R6E2EnEFY0yUgVERI3vQ1UPIYGeA/ftRzGwX3k1BFY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

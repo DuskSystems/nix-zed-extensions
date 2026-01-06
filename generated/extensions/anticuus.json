@@ -1,0 +1,19 @@
+{
+  "name": "anticuus",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://codeberg.org/juanmilkah/anticuus",
+    "rev": "2f088617811d4a3aaad033659de73489435cb199",
+    "date": "2026-01-05T19:16:09+03:00",
+    "path": "/nix/store/8gjq8bqhv420ifh058vv8d8mgp4ndycg-anticuus-2f08861",
+    "sha256": "1xwjmk4difkvnz6rlb1lqrchqvabwpigv4w0zwcla8ffd6pwv6z6",
+    "hash": "sha256-5pvNr2nOIUUZ/4CT/eLlS20MWcY0LJrNt3u62Miskvc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

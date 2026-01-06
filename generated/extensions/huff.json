@@ -1,0 +1,21 @@
+{
+  "name": "huff",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Niraj-Kamdar/zed-huff",
+    "rev": "0d812719ab2a69e8f63d3edb9c57a79cb565db8b",
+    "date": "2026-01-03T23:32:46+04:00",
+    "path": "/nix/store/fas6v0kbq758pwkf9bdd8qkbgymd7cfd-zed-huff-0d81271",
+    "sha256": "04w73y6b2nimd5b28ljf0pdd36vhvqaidad5cyqv41agiarxld9x",
+    "hash": "sha256-PTXas4pPBbKxZ6WpFhXecJvR2gVOUiRWaTVasYwfhxM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "huff_huff"
+  ],
+  "kind": "plain"
+}

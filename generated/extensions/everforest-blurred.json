@@ -1,0 +1,19 @@
+{
+  "name": "everforest-blurred",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/illescasDaniel/everforest-blurred-zed",
+    "rev": "b4b5c16daa17dc3a4bcc13a419fdbc94b8b62cd8",
+    "date": "2026-01-04T18:55:59+01:00",
+    "path": "/nix/store/r2rv4yxjm4pdz6y389nbnc24v8vphsns-everforest-blurred-zed-b4b5c16",
+    "sha256": "19n85ql8lh4fdvzs0rcnjfvs7j5vbil36cxqjj5jg570i2fnyn3i",
+    "hash": "sha256-cVhvnYjglCeLlLgzM2hcu8ijt5OWZaD/bo5AiiguyKY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

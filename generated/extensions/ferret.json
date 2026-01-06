@@ -1,0 +1,21 @@
+{
+  "name": "ferret",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Ferret-Language/ferret-language-support",
+    "rev": "857aa6c8c63453a394ad01e45bd860592c33ca6e",
+    "date": "2026-01-05T22:53:34+06:00",
+    "path": "/nix/store/hzj919lp2krgvdzyr1prz55j1zpwicm1-ferret-language-support-857aa6c",
+    "sha256": "0vj0m1n64nrl6iyxs72dw8kbjma3b4xvs4j25r70qj82p7g83f3j",
+    "hash": "sha256-criB3rkCSQxOLkISvTtZQ1W5JuJNHN19NDRbYmyoQG4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ferret_ferret"
+  ],
+  "kind": "plain"
+}

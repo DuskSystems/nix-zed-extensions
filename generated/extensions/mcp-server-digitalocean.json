@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-digitalocean",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/adowair/zed-mcp-server-digitalocean",
+    "rev": "cd5f8aeb5f1e37aa5aba7f89e87894ced692e7b2",
+    "date": "2025-12-27T04:47:02+03:00",
+    "path": "/nix/store/2arycwzy9xvxp9f3pzw57rjv1qc4kxz0-zed-mcp-server-digitalocean-cd5f8ae",
+    "sha256": "08b54zmwkaqvpfbgb13q21lkm6n0r5skcn1ycypv7rf6wabj1kb4",
+    "hash": "sha256-ZM0gl+LG5bOvZz5YNnXJwJo6aRB4hPWWuxuryesnZSE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-CN7kGhKQTAgm/UFdbYua7GGkB+WRPLgXgq5G5n6FfgI=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-digitalocean.lock",
+    "outputHashes": {}
+  }
+}

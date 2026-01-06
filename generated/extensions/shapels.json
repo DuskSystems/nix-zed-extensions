@@ -1,0 +1,21 @@
+{
+  "name": "shapels",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/carrascomj/shapels-zed",
+    "rev": "abbbda07f402abeea35503e8e76c53d2755187b2",
+    "date": "2026-01-01T22:58:11+01:00",
+    "path": "/nix/store/i878rnpw0jmk9vddq45jx2apjfz762i6-shapels-zed-abbbda0",
+    "sha256": "0cy02v3dc02cq143r07wkd16b4a2kl5rj798d7xphhh4d5h5yadg",
+    "hash": "sha256-rylfYGkEQnj7aSgdmQudQpFlQpv8gDxIwEwA1sYWwDM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-tpPjvkRkJvb9ZdD1B8yT/VqyfGXZPDegh7xUv4IJPjY="
+}

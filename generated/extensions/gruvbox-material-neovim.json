@@ -1,0 +1,19 @@
+{
+  "name": "gruvbox-material-neovim",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/RiverMatsumoto/zed-gruvbox-material-neovim",
+    "rev": "843104e23008ca834d42e91c9c91e62cd44b0442",
+    "date": "2026-01-03T21:36:57-10:00",
+    "path": "/nix/store/fkf45kmypyn1rll9p0821m3jgzf4falj-zed-gruvbox-material-neovim-843104e",
+    "sha256": "0jycggjw2shvpl96yr8gf123k26apia3r6kz1d8lzfbp891kkgm5",
+    "hash": "sha256-pb45Q0J3uU9RC3+aPFS8yog5RHAPZW8SvRtqweV7zEs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-ocean",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/george-aidonidis/zed-one-dark-ocean",
+    "rev": "ae486b55262515c661c7d7ba6ad9d4c5a4ed0329",
+    "date": "2025-11-06T16:40:12+02:00",
+    "path": "/nix/store/bsy2skjy3gji804v8p3006lq3yqcpd3v-zed-one-dark-ocean-ae486b5",
+    "sha256": "1mv0j5wcmwm5vd2vc9m3dfhqy51z01b10mxmhl9ypvwdjk8791k6",
+    "hash": "sha256-ZoZ00JSN7+sThbVXEFYAPxSPoWujJrZF26XyyniRYNc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

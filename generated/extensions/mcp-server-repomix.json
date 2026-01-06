@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-repomix",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mlopezgez/mcp-server-repomix",
+    "rev": "5e8d905a32655a23765515e7a083c8f3b48954f5",
+    "date": "2025-12-02T14:50:31-03:00",
+    "path": "/nix/store/n0kpcxcn6kbf24kvjc4cj7vnyc7jpklp-mcp-server-repomix-5e8d905",
+    "sha256": "05mc78wpx5mmh9w5d3xh5r881yzmk9lqsscpgi2bcsgbky6syv75",
+    "hash": "sha256-5WyvjZ/rabZEfJdpjWma9fuAUC6wj1Z4grWWfjk6rBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-5EOofq3JBX2z7svrDlGRGaD725xSaLcVb4DgO0CM0T0="
+}

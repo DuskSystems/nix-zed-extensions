@@ -1,0 +1,18 @@
+{
+  "id": "duper_duper",
+  "name": "duper",
+  "version": "1a06b5e296f9545db4e6bb547837e283dbe3c7bb",
+  "src": {
+    "url": "https://github.com/EpicEric/duper",
+    "rev": "1a06b5e296f9545db4e6bb547837e283dbe3c7bb",
+    "date": "2026-01-03T13:58:52-03:00",
+    "path": "/nix/store/hdxsccfcpy70liqly9xvx66nbgrdwlqx-duper-1a06b5e",
+    "sha256": "0m4j1pj0zggf3v6prfhwfa35m2s7r86216yn71fz0jjyq583bx42",
+    "hash": "sha256-gvQ1UMFeSvBdONabIAzKR4tahnIcunzNHu69D+QNklQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-duper"
+}

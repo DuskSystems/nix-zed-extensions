@@ -1,0 +1,21 @@
+{
+  "name": "chrome-devtools-mcp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/gohryt/chrome-devtools-mcp-zed",
+    "rev": "cf24c8619e09b72967395e4d741644ad957353dd",
+    "date": "2026-01-06T00:41:34+03:00",
+    "path": "/nix/store/aqqhv15khmfy62bwr1985ls3z4g3c26r-chrome-devtools-mcp-zed-cf24c86",
+    "sha256": "1gdb23h33r6yadaqjhgvs6qj56a16n59zml79s2nh3x168ps2c81",
+    "hash": "sha256-ATGhLzKhD2iFTofWn4o1QZkisdH7QYlVU97kMeAQq70=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-n4lD2BSBS6611cIAgGTUtjJEUstO5YsSkUoLpiCtS2U="
+}

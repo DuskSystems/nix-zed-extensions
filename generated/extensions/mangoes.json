@@ -1,0 +1,19 @@
+{
+  "name": "mangoes",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/fangorodev/zed-mangoes",
+    "rev": "f32cdc956032a1d504c90adc7c7539ebc46d845e",
+    "date": "2025-12-27T13:51:29+01:00",
+    "path": "/nix/store/vx16bj2hpc66xaii5bpmj1gi78wai3pr-zed-mangoes-f32cdc9",
+    "sha256": "0g80xnb8bqp8sbihcxy92skjwghac9viia8ggbmzb7bpzbhgspda",
+    "hash": "sha256-ql394Pp3nfXreg+pGHdiCj4upxbJdwbj0ujihZbtAD0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

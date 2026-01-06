@@ -1,0 +1,18 @@
+{
+  "id": "huff_huff",
+  "name": "huff",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/Niraj-Kamdar/tree-sitter-huff",
+    "rev": "f6dc520bb7525adab0846e55c694a93d1c902da9",
+    "date": "2026-01-03T23:31:22+04:00",
+    "path": "/nix/store/gvyy5413wcpklszwn7hlyh5s07w96vwv-tree-sitter-huff",
+    "sha256": "10m30d8az8hrw1cpyrqqimg2s7bvknybs4mw5v95ijhkplmrmcch",
+    "hash": "sha256-kLGaK70TyljSLrwSvbydex0tXo0YZ39Z4Bmir1ADo4I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

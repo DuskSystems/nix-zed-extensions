@@ -1,0 +1,18 @@
+{
+  "id": "ferret_ferret",
+  "name": "ferret",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/Ferret-Language/tree-sitter-ferret",
+    "rev": "ed837361582a12aa1de7ccc16227d7d66068da63",
+    "date": "2026-01-06T00:53:59+06:00",
+    "path": "/nix/store/xgsqs0aizr71ig03zl6nwv9dx1rc270y-tree-sitter-ferret",
+    "sha256": "00bznl8h7c8amy8fcwvbbadk7i22lvyar8m5fjim22ffm63dlfq0",
+    "hash": "sha256-ADvahqnOCVGjdKWirPymQsQzm1prc+aQrwqxAxG1fwE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

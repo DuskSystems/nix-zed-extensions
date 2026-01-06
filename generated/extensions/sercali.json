@@ -1,0 +1,19 @@
+{
+  "name": "sercali",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Bilal-AKAG/Zed-sercali-theme",
+    "rev": "caa535cb42ba00e74749ebec9d769f1dd69acc4a",
+    "date": "2026-01-05T16:09:42+03:00",
+    "path": "/nix/store/lp6h775vh485wbyijrbs6mr4iw6a9d77-Zed-sercali-theme-caa535c",
+    "sha256": "02czww8sxgnajrkys9y73j1hx044qg68q2rv4w0lyfr3y534y6l4",
+    "hash": "sha256-hBpPRvEjO08BJzsLjMzDhIAOgxzHJ+1nlsq+rhHnnwk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

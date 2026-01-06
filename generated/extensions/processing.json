@@ -1,0 +1,23 @@
+{
+  "name": "processing",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/Robot-Inventor/processing-zed-extension",
+    "rev": "0b63300df4d2b1d6d8c01e7ffe326aeaa06e8a66",
+    "date": "2026-01-06T00:11:30+09:00",
+    "path": "/nix/store/4rj4wpa1q8518rmh9hiis1q4aphg0rg8-processing-zed-extension-0b63300",
+    "sha256": "001lz5345yl98z3v24ak3sxzx03wsnsvhygj2j6zd7wvi2fyh3lm",
+    "hash": "sha256-lQ7onYibn/aNFPJ5uLXVfID+ux5TEbHHR4n6Qkb5NAA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "processing_java"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-y9dKR3ACDFaqb67CGD7BJjW5X88M2UYg4JwllqPg8+Y="
+}

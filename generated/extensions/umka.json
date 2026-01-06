@@ -1,0 +1,27 @@
+{
+  "name": "umka",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/michabay05/zed-umka",
+    "rev": "b4e01ae30279c1175b52ee952c3935ec743ec7ce",
+    "date": "2025-12-10T08:38:15-05:00",
+    "path": "/nix/store/i8z5knfjapyn7khxb0mj5hds9ll5crg5-zed-umka-b4e01ae",
+    "sha256": "1qk4iqd0lj3bhgi72r08fhb7a5fp2yy8pmc964kb7inb9cf27ppf",
+    "hash": "sha256-7t4jHEvLxrMmMYnVi7wX1xV1FnQIZHHig2tIChqOZOI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "umka_umka"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-AmBT3R50FcSrfGzFM8BZsBpVN8NjlsPWhAlJxTvZlbA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/umka.lock",
+    "outputHashes": {}
+  }
+}

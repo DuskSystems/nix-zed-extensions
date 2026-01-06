@@ -1,0 +1,19 @@
+{
+  "name": "codebabel-ztheme-dark",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/codebabel-appbag/codebabel-ztheme-dark",
+    "rev": "a3b97778cc8a0748aee92824795e3de4b947da77",
+    "date": "2025-12-31T17:31:06-03:00",
+    "path": "/nix/store/96w2rkkfsjhb05cmirgvmwfqjji8b3xg-codebabel-ztheme-dark-a3b9777",
+    "sha256": "0izhdam5n9j07slvzrjfrbyx5zl7mj7b5n43fj8hhf56f0zgqw89",
+    "hash": "sha256-CXH8PnCmOAiRdIPYso6sh/7S/cpO5r+pPkAmW6pq8Ec=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

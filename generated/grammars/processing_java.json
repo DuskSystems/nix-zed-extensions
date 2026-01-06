@@ -1,0 +1,18 @@
+{
+  "id": "processing_java",
+  "name": "java",
+  "version": "e10607b45ff745f5f876bfa3e94fbcc6b44bdc11",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-java",
+    "rev": "e10607b45ff745f5f876bfa3e94fbcc6b44bdc11",
+    "date": "2025-09-14T23:45:52-04:00",
+    "path": "/nix/store/rypirw6b9wwvkkwc04byc9p0gaq1c2za-tree-sitter-java-e10607b",
+    "sha256": "00w4d34rgl52blkx7x1jz4cj9d272ncljicjgdyvbchy1m2qg1jy",
+    "hash": "sha256-XoaHRQ0esrV9e5JFSZkVR7QkGfky9NMnXaLQl8lohAM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

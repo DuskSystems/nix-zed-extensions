@@ -1,0 +1,19 @@
+{
+  "name": "aizen-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/vivy-company/zed-aizen-theme",
+    "rev": "92dea53cfb8edab0817b87d33576aa8527df4040",
+    "date": "2025-12-26T18:11:44+08:00",
+    "path": "/nix/store/p50092czby94zmmslhfkqvpnfx770v5w-zed-aizen-theme-92dea53",
+    "sha256": "1w8ah148ma3ia8c1bgb013rfbhfs0d4b0p2i4kqpw392ma2zxdyq",
+    "hash": "sha256-2Lf+haoiDX7xJFFcsEgD2sHl8ghgvRUYUnGoikiACvE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

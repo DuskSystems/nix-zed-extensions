@@ -1,0 +1,21 @@
+{
+  "name": "linkerscript",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/notpeter/linkerscript-zed",
+    "rev": "4eb43ee6cbeeb0054bc721c87afe54c3b069b42b",
+    "date": "2025-10-08T13:31:16-04:00",
+    "path": "/nix/store/95qxd71nf2a0d7qvwl0flzs2yicppgaw-linkerscript-zed-4eb43ee",
+    "sha256": "1cg13xmif3r88hy9zf95n1l4sxhvpj73qp1g26nl8sr1fnx6n7ll",
+    "hash": "sha256-lB5runUha0StES9cPI68G3ZNaLAluZ88RCgPF2sf4bE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "linkerscript_linkerscript"
+  ],
+  "kind": "plain"
+}

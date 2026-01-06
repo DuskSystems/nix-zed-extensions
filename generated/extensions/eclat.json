@@ -1,0 +1,19 @@
+{
+  "name": "eclat",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/utakotoba/eclat-zed",
+    "rev": "2d337cb79f3ddab0c9ef897fb419adea72f51ff6",
+    "date": "2025-12-28T13:45:45+08:00",
+    "path": "/nix/store/fqakgp61gz8d089a6q6ikyifmxfs54kn-eclat-zed-2d337cb",
+    "sha256": "0c4bh0x98kiapvd1cn5yzcl910vzqiqr6wn0cbfwgp0gnkrp67ph",
+    "hash": "sha256-8B5z87QP3MfdYsByk3HEf4OQKPu+WBbavipOlDqAizA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

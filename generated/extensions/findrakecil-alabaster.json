@@ -1,0 +1,19 @@
+{
+  "name": "findrakecil-alabaster",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/findrakecil/alabaster-zed-theme",
+    "rev": "7be79a76950a864a1ed95e3f90ac4678e403c82b",
+    "date": "2025-11-29T20:30:22+07:00",
+    "path": "/nix/store/g6iqlx8r2imarami74x5rxa8q1iimaw4-alabaster-zed-theme-7be79a7",
+    "sha256": "1s9iid3bacvn4fgjzb5il8xv04y0bzqnr8vcw6f82hz6p2lpy3sp",
+    "hash": "sha256-Vw9/qbjmQ4Gc4WyjbPFfwBOwO6KxrC+fI3YztUaLMek=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,18 +1,18 @@
 {
   "id": "wat_wat",
   "name": "wat",
-  "version": "2ca28a9f9d709847bf7a3de0942a84e912f59088",
+  "version": "20d139ef7133257bdebec52711c7cbb388bd4092",
   "src": {
-    "url": "https://github.com/wasm-lsp/tree-sitter-wasm",
-    "rev": "2ca28a9f9d709847bf7a3de0942a84e912f59088",
-    "date": "2022-05-17T17:11:07-06:00",
-    "path": "/nix/store/ph5d3d68j4bnmv281zqwksfiz2a9cn83-tree-sitter-wasm-2ca28a9",
-    "sha256": "02v08hs9wirdzfx9a7c3kpn0cpc9i867pw28qka0fid9q537hnbb",
-    "hash": "sha256-a1l4RsGpRQfUxEjwewyKiV0G7J2DHZW6+y1HnjREYAs=",
+    "url": "https://github.com/g-plane/tree-sitter-wat",
+    "rev": "20d139ef7133257bdebec52711c7cbb388bd4092",
+    "date": "2026-01-04T15:48:17+08:00",
+    "path": "/nix/store/0i1x247gsgq3c5s4v3y471xc8fiwh9n9-tree-sitter-wat-20d139e",
+    "sha256": "0p7gmf0al08l3ks8cavsbwv4zlpmqwf3j1xylnllfv46qvhih97i",
+    "hash": "sha256-8SQY4caGbEeppb4HORzH9dJPNl96K4b0HBQBqoCr71w=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
-  "grammarRoot": "wat"
+  "grammarRoot": null
 }

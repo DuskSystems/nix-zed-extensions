@@ -1,0 +1,19 @@
+{
+  "name": "monokai-sharp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/probablykasper/monokai-sharp-zed-theme",
+    "rev": "6a213546d9c0f4d836a20d80eab8c929a99f6ef7",
+    "date": "2025-12-03T01:55:26+01:00",
+    "path": "/nix/store/aa612i8m0fxig9b8bg4qhwzg96vd2sgc-monokai-sharp-zed-theme-6a21354",
+    "sha256": "0zwxdlbi01q37ya18gi1b6jx2q02skjn1793bhmiq9fx3q6f2kb0",
+    "hash": "sha256-YE3hDB7dJRwrXCOdYOXUAmDRpVkhPhSUPwMHEBdtnX8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

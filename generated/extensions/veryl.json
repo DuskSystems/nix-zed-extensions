@@ -1,0 +1,23 @@
+{
+  "name": "veryl",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/veryl-lang/veryl",
+    "rev": "3487acadef7eedaf51b2edb61f5b171692e3d447",
+    "date": "2026-01-06T10:26:00+09:00",
+    "path": "/nix/store/ss76jq0lj1n5izhwc5waa38zvac47zny-veryl-3487aca",
+    "sha256": "1if2rpshii4257srvv96kplziinz8rnkcslw12x8zwiqj4r4fwsy",
+    "hash": "sha256-XnNHMpE48o+6CJxqNm1G38b46Z0m7Z31KYLECPXNwsU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "veryl_veryl"
+  ],
+  "kind": "rust",
+  "cargoRoot": "support/zed",
+  "cargoHash": "sha256-+8CmvJaYIQGAodtdVSc6zZRX4RrwLNTxGcLtPRraLsA="
+}

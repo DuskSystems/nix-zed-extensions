@@ -1,0 +1,18 @@
+{
+  "id": "csound_csound",
+  "name": "csound",
+  "version": "bec243979801e3f5885731bf75df1be8eba6e44c",
+  "src": {
+    "url": "https://github.com/PasqualeMainolfi/tree-sitter-csound",
+    "rev": "bec243979801e3f5885731bf75df1be8eba6e44c",
+    "date": "2026-01-05T16:26:54+01:00",
+    "path": "/nix/store/ffdjwvvwi82nzp8f8pqgw38hmk2flk3i-tree-sitter-csound-bec2439",
+    "sha256": "0hq50qlj1354jam5vyk08lblpww1imhdmpx9prmyrkmipk3a36ny",
+    "hash": "sha256-3pqhxryxzuxrvqnf2mCNgfNLF0Vg+l2qkqSMICkGBUM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

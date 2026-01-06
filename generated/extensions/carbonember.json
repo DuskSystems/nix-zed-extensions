@@ -1,0 +1,19 @@
+{
+  "name": "carbonember",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/HurrellT/CarbonEmber",
+    "rev": "30fd206253c7dd581b9347f09100c469404227d7",
+    "date": "2026-01-05T15:59:57-03:00",
+    "path": "/nix/store/zgynasxcbsc0xy7si7jfx7i1xvjq9fhc-CarbonEmber-30fd206",
+    "sha256": "0h4nm9q5wyi3ic4xkwv7krmkdl8v6fvdvz4j27jc4agxb97shchm",
+    "hash": "sha256-FTKoT1r9KcLkEZL83bYzG9E2a55n89kJiyN6XnCqlkA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

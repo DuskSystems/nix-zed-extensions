@@ -1,0 +1,19 @@
+{
+  "name": "autohand-acp",
+  "version": "0.1.3",
+  "src": {
+    "url": "https://github.com/autohandai/autohand-acp",
+    "rev": "5e2cbbcf9c3afa42b784d5fca14f71285aa31012",
+    "date": "2025-12-24T01:32:17Z",
+    "path": "/nix/store/p16sfy9f3x6ryxzdnmd3awinpn61h08m-autohand-acp-5e2cbbc",
+    "sha256": "1hbj4vnb9yv324w5xjsbqrfqq1c187l2yglbpr5bwqhj9h88pzjk",
+    "hash": "sha256-U/6LEEwSYr5Kvos+L+hBgQWMXcZLy144EWP7tOwmcsE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

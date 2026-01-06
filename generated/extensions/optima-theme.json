@@ -1,0 +1,19 @@
+{
+  "name": "optima-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/iftekhar-ifat/optima-theme",
+    "rev": "ae25d9b12e997b0a046f54d3575aaf676b33cfba",
+    "date": "2025-12-31T22:56:38+06:00",
+    "path": "/nix/store/ja4faidz752yccb1rk1xp3qa1fqxbdij-optima-theme-ae25d9b",
+    "sha256": "1m716zbcnxkm0x04bnx1gp6nwi9zaxgrd5av87x1lgzlf2yy3mck",
+    "hash": "sha256-k9XhvXD0Pxr6QVuVll9XP0VuzX2h20VAB3V2y9Y34dQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

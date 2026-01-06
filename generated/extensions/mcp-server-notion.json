@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-notion",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/f1729/zed-notion-mcp",
+    "rev": "529112134f47b467e0dc629a49cee6b12f4d1b87",
+    "date": "2026-01-02T10:02:05-05:00",
+    "path": "/nix/store/4kl60vi0m66r7gqljzscdq65183yz1x8-zed-notion-mcp-5291121",
+    "sha256": "0889q5k3yc3cpkywklhnvpz4jlq7vq9qyls6gki8dg1l9416z51w",
+    "hash": "sha256-PJRvAkk0vIbifEZTjxPeB1NJ/t0W0sn9vGwwP2bBCSE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7k0my2/Elt2h6dbobDv6XQW2LZ8fnBwJr57HOdHCXn0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-notion.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,13 +1,13 @@
 {
   "name": "autohotkey",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/alfredomtx/tree-sitter-autohotkey",
-    "rev": "3da1af2f896b3e4b329131ce2acb1526ff18e6ad",
-    "date": "2025-12-26T18:01:26-05:00",
-    "path": "/nix/store/3lf89iga62hjrkmibd0nd629cp053w14-tree-sitter-autohotkey-3da1af2",
-    "sha256": "15485kr832h7ipg1q12bsjh6z59444023w8vhbvn931l3nr0d2ky",
-    "hash": "sha256-fooGsh00jGT3ghvxIQAhJJVvoNRLBBzejQeKgfIsiJQ=",
+    "rev": "5979ea40f155e221bb95671d9c6cfdcecc224f20",
+    "date": "2026-01-04T18:41:04-05:00",
+    "path": "/nix/store/xf77zi08j8ggfh2wznvw6rma3hz5plj2-tree-sitter-autohotkey-5979ea4",
+    "sha256": "0wf2qxc541c27y10vng112m17fagrdnpvcbph8jy462iakckkv2d",
+    "hash": "sha256-Tew52VRRGOIlgnexfW3LT7kTqgjh2Q2CP4IFUljHwnE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "autohotkey_autohotkey"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PyvpT15IPuYzDLkm6nYUkvqY3j/EozccscdPgzsnqrA="
 }

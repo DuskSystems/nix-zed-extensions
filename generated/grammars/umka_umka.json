@@ -1,0 +1,18 @@
+{
+  "id": "umka_umka",
+  "name": "umka",
+  "version": "f2588765c45d7f5099d53cf34b46883f31407ff2",
+  "src": {
+    "url": "https://github.com/thacuber2a03/tree-sitter-umka/",
+    "rev": "f2588765c45d7f5099d53cf34b46883f31407ff2",
+    "date": "2024-06-14T22:28:51-04:00",
+    "path": "/nix/store/pha74axq3gg038z1wwjrzwa6c8m2rxrj-tree-sitter-umka-f258876",
+    "sha256": "02kjqqx57qidfymjmzfsnnsq7w623w6fjb8rcx8h22x7vs4b6h17",
+    "hash": "sha256-J0CziN6nCwFRZxkt6QwfwvCDtbXa/Sqrdy3iUzrGcgo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

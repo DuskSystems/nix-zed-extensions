@@ -1,0 +1,19 @@
+{
+  "name": "monokai-pro-ce",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/monokai-pro/zed",
+    "rev": "b0d7921aa5cc02ec76f8ef92100e3ed4433d8e8f",
+    "date": "2025-12-16T11:08:31+01:00",
+    "path": "/nix/store/8vnnw5ds10izbk83zi74a9j7v5dv6kf4-zed-b0d7921",
+    "sha256": "1f7mmvz3wzgdcjafxvbrxmyl9lac7n5vkfagkxpax3lvbcqrhacv",
+    "hash": "sha256-mymYMVubjq5un0+5uYs9TNFEfe157e6UZO19Pv6u9bg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

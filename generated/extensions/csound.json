@@ -1,0 +1,23 @@
+{
+  "name": "csound",
+  "version": "1.0.2",
+  "src": {
+    "url": "https://github.com/PasqualeMainolfi/csound-zed",
+    "rev": "917fc02bdfcfbc842a973a6d83625ef7b9ef4be9",
+    "date": "2026-01-05T17:48:24+01:00",
+    "path": "/nix/store/ich7fbdlvdxkk5vqqagdq544s2y74zkq-csound-zed-917fc02",
+    "sha256": "1x8mdhyvl0igkbxrv15sfgi6i0zjxkfjbq29848545gsdfx6053y",
+    "hash": "sha256-fhRgumv6FVIQQUngJd3s8oNo4nO6hJ37mi8Cuj1sFfU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "csound_csound"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-v0u4NSoXaO5SYWfvNB9pOd0hsonRr0TxtW0KlGXmgWg="
+}

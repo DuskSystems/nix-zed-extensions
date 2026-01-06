@@ -1,0 +1,19 @@
+{
+  "name": "qqcode",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/qnguyen3/qqcode",
+    "rev": "be6a96ce73998b00f12217255d612d907800fe7e",
+    "date": "2025-12-18T08:57:49+01:00",
+    "path": "/nix/store/s886bvbn5nw6409bk56jp5dkyjkg2b69-qqcode-be6a96c",
+    "sha256": "0qphcs95k5frgp8vsmyraix2k5w1mgcxa6msl7z89k9990shbigv",
+    "hash": "sha256-+8UFNUgpzYT+oboa1dmrgZcpelTZV73RfdmVWZJm8GI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "distribution/zed",
+  "grammars": [],
+  "kind": "plain"
+}

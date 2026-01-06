@@ -1,0 +1,23 @@
+{
+  "name": "red",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/red/zed-red",
+    "rev": "808cc8cd17671edb26742b42e24a0b1468d3c7e8",
+    "date": "2025-12-27T11:50:27+08:00",
+    "path": "/nix/store/fh2ad5g7b9zjzkabl7rgj5c0brn011ad-zed-red-808cc8c",
+    "sha256": "1fxycavn69nzhfm9ns8pzq5hcvl4pfm10fw6pfkdgx849gvdh9bx",
+    "hash": "sha256-fSXY9ksE9demu4Y7EKq7hG4GC/4XaZuqg98mY7divrs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "red_red"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-bDlBacnjuFjRZsPhC/qOVAo+Q14ZRezXKvBdGVnqzfM="
+}

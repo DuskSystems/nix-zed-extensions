@@ -1,0 +1,18 @@
+{
+  "id": "linkerscript_linkerscript",
+  "name": "linkerscript",
+  "version": "f99011a3554213b654985a4b0a65b3b032ec4621",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-linkerscript",
+    "rev": "f99011a3554213b654985a4b0a65b3b032ec4621",
+    "date": "2023-11-18T23:41:18-05:00",
+    "path": "/nix/store/jj1ghvfxhh66cy56wn126xyl12qg6aap-tree-sitter-linkerscript-f99011a",
+    "sha256": "004irhiaj5n4sgr0fqwqxnijsbalvn3ahc2ys4s9l33rr4hhr3qf",
+    "hash": "sha256-Do8MIcl5DJo00V4wqIbdVC0to+2YYwfy08QWqSLMkQA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
