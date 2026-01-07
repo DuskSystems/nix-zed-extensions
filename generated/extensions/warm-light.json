@@ -1,0 +1,19 @@
+{
+  "name": "warm-light",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/YangGangUEFI/warm-light-theme",
+    "rev": "875dd50339c0447aa2db1e9858fb62ba92454b4d",
+    "date": "2026-01-06T11:36:17+08:00",
+    "path": "/nix/store/ah9kplqsklpb73vfmi99daa3fgfhjj7q-warm-light-theme-875dd50",
+    "sha256": "1hyw1snlwkljw4szz500f9wffalf0bf89izq73g429bdhna49v08",
+    "hash": "sha256-COxElIVtJUHeOPjHhNwCjirneHIAlP814ZJOTq0O3MM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

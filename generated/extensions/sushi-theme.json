@@ -1,0 +1,19 @@
+{
+  "name": "sushi-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tomopumipumi/sushi-theme",
+    "rev": "5052732d19051d2925ac2e8445a66e018f64028f",
+    "date": "2026-01-06T14:18:19+09:00",
+    "path": "/nix/store/6kvw47w1q2syz47mdnkiqnx49xnb0b24-sushi-theme-5052732",
+    "sha256": "0q3s6bqrgg62h5v0z563r4i3w0hbqy05qi5qsgipcb2mf3zrlx9i",
+    "hash": "sha256-MXWa/3BVLHbj07hEXIDHCwI+IsnDlA92gcK8l/EyemA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
