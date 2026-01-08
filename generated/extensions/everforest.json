@@ -1,0 +1,19 @@
+{
+  "name": "everforest",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/albertsko/zed-everforest",
+    "rev": "42026ed8b8be0bd3db670c681a1cbd21b57e9907",
+    "date": "2026-01-07T21:11:32+01:00",
+    "path": "/nix/store/vw6cw93mwkjyr5j9jnif4n7ljvc3zxyk-zed-everforest-42026ed",
+    "sha256": "12bvpy2drw3a049cv02qw6an4hc3vyv9fn6j7alk17blxva4524v",
+    "hash": "sha256-m4hC1O50nTCpOtJYl7bfg0FileFYgM0SAWrw3IS/e4k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

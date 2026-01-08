@@ -1,0 +1,21 @@
+{
+  "name": "microscript",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Nascir/zed-microscript",
+    "rev": "b54016b8ec11d5769eeb08dff948757be03fa237",
+    "date": "2026-01-01T13:17:05+01:00",
+    "path": "/nix/store/ivjq36qpqd16irv4qsq88mg3rzahljix-zed-microscript-b54016b",
+    "sha256": "0gwvfb9p2cypjxkc6xy5ig79h7dz3xzz1hd8f8bfnb77qrzm629b",
+    "hash": "sha256-KwlTf8bnLOsWcqjB8H8fvx2YzovFd8Nml9czcdNymz8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "microscript_microscript"
+  ],
+  "kind": "plain"
+}

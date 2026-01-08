@@ -1,0 +1,19 @@
+{
+  "name": "sweet-dracula",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/armync/ArminC-Sweet-Dracula-Zed",
+    "rev": "43578cbdf3f64795f5cb76c37adccdf5eea8cb99",
+    "date": "2025-12-30T23:25:37+02:00",
+    "path": "/nix/store/dz24zdh8nja5dp68bh05kv4npfrmgx8c-ArminC-Sweet-Dracula-Zed-43578cb",
+    "sha256": "0aqsa8d9l9q13wnpzfdyfv13pi0xwsfvpjbaxfb005wafn5igdm6",
+    "hash": "sha256-prYXi3WKFwCW62rJu53mHcQ7wna+uX8tHwEnmhpSGis=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

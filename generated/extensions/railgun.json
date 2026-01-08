@@ -1,0 +1,19 @@
+{
+  "name": "railgun",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Al-Pharaday/zed-theme-railgun",
+    "rev": "5ccaa5acc404bfba7cde62e116c5b4243d3fa22b",
+    "date": "2026-01-06T18:25:27+03:00",
+    "path": "/nix/store/k7f7wg1xmpizr0c66sidwka343kl2a1c-zed-theme-railgun-5ccaa5a",
+    "sha256": "0my1zn95v9i0j23yjw61i2vksy7md0ad8qq62qs9app9975r3ic4",
+    "hash": "sha256-hMWRy0npXpU0FgZj1BRo9Xg9t4jBcOmHkCCmXZL9wVc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

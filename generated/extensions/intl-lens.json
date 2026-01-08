@@ -1,0 +1,25 @@
+{
+  "name": "intl-lens",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/nguyenphutrong/intl-lens",
+    "rev": "7557440dc7971dd5340d222f3bf52a2416af205f",
+    "date": "2026-01-07T21:24:27+07:00",
+    "path": "/nix/store/k0g8qylwak9slq049xphji6ig1ah9x6a-intl-lens-7557440",
+    "sha256": "0gwsbh3njnrhdiy8cdlaby78gszpzrvhl8v7z6fn70wqpj63lxz1",
+    "hash": "sha256-4Xc6jLyYg2Od+WcjCnf+9+uHjl+KNoZ8bDBbaQdcmj8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "crates/intl-lens-extension",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-sNNRv4uuF2B3fHVYQD1emxkP3U0h4D78DbGPW0dDU7E=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/intl-lens.lock",
+    "outputHashes": {}
+  }
+}

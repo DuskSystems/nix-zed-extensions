@@ -1,0 +1,19 @@
+{
+  "name": "ashen",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/adhi-thirumala/ashen.zed",
+    "rev": "0847f0541cb1967c7678b1e527bb2443c1945e98",
+    "date": "2025-12-23T17:35:28-05:00",
+    "path": "/nix/store/inx9qz8jgs64xj8d55zhfgzjlrxh12q8-ashen.zed-0847f05",
+    "sha256": "1ijzxr6amf4mb8a4n1wjsbzdx7smfk67q5km802qria8lbq3invw",
+    "hash": "sha256-fNs48KJIxYwFQHUWfMx0VZ/e/tKSB0sUWpW4qkzuX8Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

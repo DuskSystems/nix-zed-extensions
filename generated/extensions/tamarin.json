@@ -1,0 +1,21 @@
+{
+  "name": "tamarin",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LH104729/zed-tamarin",
+    "rev": "5ea5cef6484e384208c56d4c7a7a42ac2eab0779",
+    "date": "2025-12-22T23:29:45+08:00",
+    "path": "/nix/store/pxq1j5y2ws68pmv94n1xm9c94m2fpvj6-zed-tamarin-5ea5cef",
+    "sha256": "0x864xnfc9ibihxqpnj921ixrwqa4b14r5ll0lg280bsk603cp27",
+    "hash": "sha256-R1w2gJl6ASQeBZSWTMIiCvPcYxBJ2os7jCsm5mwnBnU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tamarin_spthy"
+  ],
+  "kind": "plain"
+}

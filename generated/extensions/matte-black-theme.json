@@ -1,0 +1,19 @@
+{
+  "name": "matte-black-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/youpele52/matte-black-theme",
+    "rev": "16481e04e6edd5c381a829ea88e5babc871bb276",
+    "date": "2026-01-06T13:44:06+01:00",
+    "path": "/nix/store/r3hki6apxs07zg2rs5sjwg402i5hj7w4-matte-black-theme-16481e0",
+    "sha256": "11i1vnfsv7i2c5yprms7h32y9vqpgzsjwrmsdnp5mzylijgqazxv",
+    "hash": "sha256-u3+Fn4zU/1qubbpmLvV/F+/kxYBH13x9YSKerZ3dIYY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "csound",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "src": {
     "url": "https://github.com/PasqualeMainolfi/csound-zed",
-    "rev": "917fc02bdfcfbc842a973a6d83625ef7b9ef4be9",
-    "date": "2026-01-05T17:48:24+01:00",
-    "path": "/nix/store/ich7fbdlvdxkk5vqqagdq544s2y74zkq-csound-zed-917fc02",
-    "sha256": "1x8mdhyvl0igkbxrv15sfgi6i0zjxkfjbq29848545gsdfx6053y",
-    "hash": "sha256-fhRgumv6FVIQQUngJd3s8oNo4nO6hJ37mi8Cuj1sFfU=",
+    "rev": "4685ac977216b8a568b4f7dda8ca61cb1b0d5555",
+    "date": "2026-01-08T01:43:34+01:00",
+    "path": "/nix/store/0l8akhjqa9kzy1gkyshng6p26ndnrzfw-csound-zed-4685ac9",
+    "sha256": "1nscvcy18cdcw3k6mr7n7jy8gnjikq2sp9idknkbk2ja4fg90j2q",
+    "hash": "sha256-WEiQniNKirmmnS2mqwWeUdqHvDz25Grm4KwxFDzbTNs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-v0u4NSoXaO5SYWfvNB9pOd0hsonRr0TxtW0KlGXmgWg="
+  "cargoHash": "sha256-E9Y/fa+ZlL24PJT1O1GLU/95PwlT3BwDkyhgtUmjgUk="
 }

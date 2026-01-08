@@ -1,0 +1,18 @@
+{
+  "id": "tamarin_spthy",
+  "name": "spthy",
+  "version": "f3f5380c6d24aeec51da76cbbca10bde07d0a6ec",
+  "src": {
+    "url": "https://github.com/tamarin-prover/vscode-tamarin/",
+    "rev": "f3f5380c6d24aeec51da76cbbca10bde07d0a6ec",
+    "date": "2025-08-01T23:07:41+02:00",
+    "path": "/nix/store/hvcpq523k58fp48s0s7dp6mj79sk7ih5-vscode-tamarin-f3f5380",
+    "sha256": "00fgvymbi2rjhn08ljifh1pbrkd2pd5cibm2xdr13cda7whqxadw",
+    "hash": "sha256-vKmOIT+qsRFy66KuyEq7os28boAuSoqAhTKLuKrfzwE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "server/grammar/spthy"
+}

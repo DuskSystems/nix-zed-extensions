@@ -1,0 +1,25 @@
+{
+  "name": "npm-package-json-checker",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/e-simpson/zed-npm-update-checker",
+    "rev": "4203d027f5b0baa35a0efc5c15c340d651be09a7",
+    "date": "2026-01-06T17:45:05-05:00",
+    "path": "/nix/store/llfiqf6h78az55m9zxcnicnadrajd6km-zed-npm-update-checker-4203d02",
+    "sha256": "150zv75nbs7wi4zbr7bzp0z7p3pdzylr4zbizcs53bhv94jhlfw7",
+    "hash": "sha256-hzsKJUkbrlE0+3F9kqn/7Y57Prh/nbw+ifzoZcvZH5Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Y3dcrHLI2WTAdlbX34xyctWmpiLtXNyBxupJLk6pyW0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/npm-package-json-checker.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "vibrant-abyss",
+  "version": "0.4.14",
+  "src": {
+    "url": "https://github.com/noelhorvath/vibrant-abyss-zed",
+    "rev": "135a79893007218f771fbbd8213440459aaf75af",
+    "date": "2026-01-04T18:37:11+01:00",
+    "path": "/nix/store/qjpkpwg2c0qid8ci39wga3d4xxdi8xzd-vibrant-abyss-zed-135a798",
+    "sha256": "1xb48x6i98kg4rz6n0a12ymlhpzkk2qhfphxdlv4chyi8n64xlzr",
+    "hash": "sha256-+dNOjEXRQ0Y2bR1eB7GY819IqxdBAWt+Jm+iFE1HZPU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

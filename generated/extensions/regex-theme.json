@@ -1,0 +1,19 @@
+{
+  "name": "regex-theme",
+  "version": "0.11.11",
+  "src": {
+    "url": "https://github.com/oxnan/RegEx-theme",
+    "rev": "2d5218e6c4706ab52d97751f5eb890bf6334cd10",
+    "date": "2026-01-07T13:24:05+01:00",
+    "path": "/nix/store/6h9gs90bg1432apf030nwp539fv1mkjr-RegEx-theme-2d5218e",
+    "sha256": "1wdx61mc7g57izwwn9p9zj43fbz4q63v1xaph8wzlryfl72vv4vy",
+    "hash": "sha256-fpO9xaHOZ/o5glf1sIfB5C83iPzpJsv5j6e8w2owvfE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "microscript_microscript",
+  "name": "microscript",
+  "version": "d3b917287cb67ea00d5005fc395fc34b9de75683",
+  "src": {
+    "url": "https://github.com/Nascir/tree-sitter-microscript",
+    "rev": "d3b917287cb67ea00d5005fc395fc34b9de75683",
+    "date": "2026-01-01T12:01:54+01:00",
+    "path": "/nix/store/6r03nl5vhvfawi8qbc4vm7aibw8i4nbw-tree-sitter-microscript-d3b9172",
+    "sha256": "0kgd7y6zm3qixw7y4slk4c8amjyzqz8zfjfiva7mzkvh7idjapf3",
+    "hash": "sha256-w10lWzxwz1+P2tFJ99HH38uqECOTauIP7xGP+o0/7U0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

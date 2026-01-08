@@ -1,0 +1,21 @@
+{
+  "name": "bison",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fanwenlin/bison-zed",
+    "rev": "9e0c56d9a811a029812714dd2ed0f1a3ee6842d9",
+    "date": "2025-12-15T15:20:42+01:00",
+    "path": "/nix/store/dnvd9zdpsx58k8s7r8zp1gk8s3hxijwx-bison-zed-9e0c56d",
+    "sha256": "1gkrylaw9pnvlxhp84hw8314af286a1jmafrj8zx9qym7hc707ay",
+    "hash": "sha256-Xh1wGDzV49Q/ktmpKoMySDhFwkAcEnRhp9vexBX1eb4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bison_bison"
+  ],
+  "kind": "plain"
+}

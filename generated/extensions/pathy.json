@@ -1,0 +1,21 @@
+{
+  "name": "pathy",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/gokulp01/pathy",
+    "rev": "f9578378ee9e5eaa969dbb3ad6395909c167eefa",
+    "date": "2026-01-03T00:37:46-06:00",
+    "path": "/nix/store/z9i9c9dgm89z5iv83msg7y2fbbdwhyi8-pathy-f957837",
+    "sha256": "1q81x6qwr4c0gkskjmhvw12vn61arnfsh6jfpb2qza6da26qcv5p",
+    "hash": "sha256-t2yGjVDNqI/Fuk4aqJ3NKhi7ReAbVjn1fICRzLHpAeE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-BxTcW5Y0546c5e/iZSI1pv5zG627A4Z6ETO9Yx+xalw="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bison_bison",
+  "name": "bison",
+  "version": "ec9b9bda4314d5d60f00502dd1357031141744b8",
+  "src": {
+    "url": "https://github.com/fanwenlin/tree-sitter-bison",
+    "rev": "ec9b9bda4314d5d60f00502dd1357031141744b8",
+    "date": "2025-12-14T18:02:59+01:00",
+    "path": "/nix/store/kndckjxckq2nfj6cmz9j5pkv4h3xsj0p-tree-sitter-bison-ec9b9bd",
+    "sha256": "0bybri063x14gi15z7n439n4cmc3irsbkxvspqa8bpnv5nksigd7",
+    "hash": "sha256-p72opy3b3oUUvnr3uXSOg1VGbBrEnl9CfCT0YUDMyy8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
