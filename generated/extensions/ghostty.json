@@ -1,13 +1,13 @@
 {
   "name": "ghostty",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "src": {
     "url": "https://github.com/Else00/ghostty-zed-extension",
-    "rev": "a20f5464564adf8202cd88b449a7379ebc156d7d",
-    "date": "2026-01-05T11:14:29+01:00",
-    "path": "/nix/store/2bqnz60n1bcir0lqasxbwbky5rp20dnf-ghostty-zed-extension-a20f546",
-    "sha256": "0k4jdgqnl3asps948b4crc5bng9dklpxx1iqkx3g4imw5krbx7df",
-    "hash": "sha256-rp2+8iy8RvJGnziG3i+dLT27CsuMLESSvloNavFrkkw=",
+    "rev": "968afadc3e38d4851deb73528a724db899cab967",
+    "date": "2026-01-07T17:43:45+01:00",
+    "path": "/nix/store/0pbcmlhnlwb3yricw68kkxsq8gs316r1-ghostty-zed-extension-968afad",
+    "sha256": "0a3jlv9khv3ad5nlcmfnnbnv45033aahhr426nh410v06xh8ncnf",
+    "hash": "sha256-zjKLYDdgg0CgNYJkCJUaAxSy7bLWVUZtaWpsONOmcig=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-luywnMtmGEUOKNZvbGXDxNSHa5kNpTF9xdRSY3ZWpkk=",
+  "cargoHash": "sha256-Bro3Fsbeo3jNbfs9giATyZtFfl8q0zuV+6KBRZHQy4Q=",
   "cargoLock": {
     "lockFile": "/generated/extensions/ghostty.lock",
     "outputHashes": {}
