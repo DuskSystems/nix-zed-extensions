@@ -1,0 +1,19 @@
+{
+  "name": "blanche",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/kwonoj/zed-blanche",
+    "rev": "8f31f81b652055209a014f694e8936000d464053",
+    "date": "2026-01-07T17:59:28-08:00",
+    "path": "/nix/store/z1vy1qpk7ircn1vg87xj6q7dsss02frs-zed-blanche-8f31f81",
+    "sha256": "1kydhbc99hkpx8d7k1f0ds50dj3hjjhsc0c689hrlhj7msm008h6",
+    "hash": "sha256-BiIAqq5HQpphQoYBpqGUcMgGim7AhXka6nfClNiCzc8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

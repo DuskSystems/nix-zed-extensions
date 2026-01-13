@@ -1,0 +1,19 @@
+{
+  "name": "snazzy-light",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/seyhajin/zed-snazzy-light",
+    "rev": "1d54608af795053e47d4151612c56b49aff6ed9b",
+    "date": "2026-01-09T14:23:51+01:00",
+    "path": "/nix/store/m1ipm5pzm8pwl1s0pz5kpcqnd1fdnhih-zed-snazzy-light-1d54608",
+    "sha256": "1l8wjbfa2fjk1b0azrrmavh0vap1jdyv4grmigf5bmia4i3b8gm1",
+    "hash": "sha256-oT60RiQq1lXcizU/sn2T4aoN4FY156/AClM6odySHNE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

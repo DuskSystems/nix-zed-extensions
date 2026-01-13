@@ -1,0 +1,19 @@
+{
+  "name": "formosa-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/takeshiyu/formosa-zed-theme",
+    "rev": "6ff1026ed8c6a33c56b2f2d4873e91a54444d37d",
+    "date": "2026-01-11T01:12:43+08:00",
+    "path": "/nix/store/991jn8r80mmlqgqpayix15a94l5pn36k-formosa-zed-theme-6ff1026",
+    "sha256": "15dn199azmvmny84sx81zn9yli0h4wqsxzjpp2q27jzpr1xblbwg",
+    "hash": "sha256-jy+6esj3yyOwuFf+rjEnEETqk/0BdU2Qt3XXr1IKtpU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

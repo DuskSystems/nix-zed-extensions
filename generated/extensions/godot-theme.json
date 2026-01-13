@@ -1,0 +1,19 @@
+{
+  "name": "godot-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/D4r3NPo/zed-godot-theme",
+    "rev": "0df291ed1fcb2472bd1285844423a599679c49dd",
+    "date": "2026-01-09T20:11:15+01:00",
+    "path": "/nix/store/f6z7fiayikmi26y4z1fc673nl0607w0c-zed-godot-theme-0df291e",
+    "sha256": "0kr6hz0mgfxbi96awwl0s2a0nkzday76cr6hkph2ladi0hhw4h4d",
+    "hash": "sha256-jUDCIQSxKSrgndBkZo5X7U8LlNCAcq5Miqu7V8GHJk8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

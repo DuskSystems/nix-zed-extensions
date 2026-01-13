@@ -1,13 +1,13 @@
 {
   "name": "intl-lens",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "src": {
     "url": "https://github.com/nguyenphutrong/intl-lens",
-    "rev": "7557440dc7971dd5340d222f3bf52a2416af205f",
-    "date": "2026-01-07T21:24:27+07:00",
-    "path": "/nix/store/k0g8qylwak9slq049xphji6ig1ah9x6a-intl-lens-7557440",
-    "sha256": "0gwsbh3njnrhdiy8cdlaby78gszpzrvhl8v7z6fn70wqpj63lxz1",
-    "hash": "sha256-4Xc6jLyYg2Od+WcjCnf+9+uHjl+KNoZ8bDBbaQdcmj8=",
+    "rev": "7522e67ea761ca9b1a01d90989690670dd6a5483",
+    "date": "2026-01-11T14:33:29+07:00",
+    "path": "/nix/store/sbqgim81fp6j82qsv38cwpjgv63q2v00-intl-lens-7522e67",
+    "sha256": "05n0ab2ldsralzm9vj4ik1q7h0wl3dzadrkgajzz414r4553sv90",
+    "hash": "sha256-IG09SiGZBPK/VG/mpn4blAN4cJiRyJ3qpyrrRsVSwBY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-sNNRv4uuF2B3fHVYQD1emxkP3U0h4D78DbGPW0dDU7E=",
+  "cargoHash": "sha256-4NH4nxTGgc03P0DfcvjHcrbIIwgkqIkWC/UzdT7Or5g=",
   "cargoLock": {
     "lockFile": "/generated/extensions/intl-lens.lock",
     "outputHashes": {}

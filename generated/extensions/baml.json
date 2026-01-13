@@ -1,13 +1,13 @@
 {
   "name": "baml",
-  "version": "0.0.1",
+  "version": "0.216.0",
   "src": {
     "url": "https://github.com/BoundaryML/zed-baml",
-    "rev": "670e3adf382a7d6443161fdb53d7fbf7aec7da67",
-    "date": "2025-07-29T20:43:10Z",
-    "path": "/nix/store/v26khha6aqvzli7iq6ydp4k3x8kyk77v-zed-baml-670e3ad",
-    "sha256": "0s8h5q4xghk778vvn11d5h5v65xnsvacddhrk19q65q4lpnyxddh",
-    "hash": "sha256-sLXu7aUEF4NTmBm2xtTWthezCywtBLs3OmfC1wkuEGk=",
+    "rev": "72c2880ae7423002a35522eb4ef81b604bfa134b",
+    "date": "2026-01-09T19:28:39Z",
+    "path": "/nix/store/x4kmbhhybkz7xx37j7vbmbpyr2p4h982-zed-baml-72c2880",
+    "sha256": "1mk51ajhfq4635747akb5z9wc1i2kw0l2b2kvvdpkm0pkrdwx6fl",
+    "hash": "sha256-1JnOW54X1Hnb3lMsQQGfIgbG0y9rqkNOGYZgB6UKZdY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wA2qBkWqLirl/jaIbAEalRIV9E6tLSsHEIu169OwubI=",
+  "cargoHash": "sha256-hlDkwS/mhzWVeAqb328kWROpqLn39yxk7ragTaMHyfQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/baml.lock",
     "outputHashes": {}

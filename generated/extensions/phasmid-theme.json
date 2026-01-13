@@ -1,0 +1,19 @@
+{
+  "name": "phasmid-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/t-lander/phasmid-zed",
+    "rev": "f921a2cbe8597b06258b24c300d04acb7f5c504d",
+    "date": "2026-01-12T14:27:37+01:00",
+    "path": "/nix/store/32i7yzqrc77pfznpmi0kc9zz3578ixp2-phasmid-zed-f921a2c",
+    "sha256": "182gnd3545afsm3ri6ws14z0z0xm2kq4s2yw6rcs54jdmbhkyyqp",
+    "hash": "sha256-F3s/4apNkqJZNtwLTfAUtYMPPgmam5hH1U4VUkazT6A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

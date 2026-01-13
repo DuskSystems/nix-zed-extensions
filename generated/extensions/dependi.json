@@ -1,13 +1,13 @@
 {
   "name": "dependi",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "src": {
     "url": "https://github.com/mpiton/zed-dependi",
-    "rev": "e689d880649b8212a8c8394e966d9fef6b057d11",
-    "date": "2026-01-07T14:15:56+01:00",
-    "path": "/nix/store/qscws5f1y29124hxqwn0clxnxyws6bwr-zed-dependi-e689d88",
-    "sha256": "1wirp05h14p590vw6rxj52x4lzhgnlkfc1lgfz17x1xz3ffnvgg1",
-    "hash": "sha256-4b1tnRu/h37Cd48G5ia1D35KuiiyZ8M3SOWSAAu4OfI=",
+    "rev": "d97136fc954c0397e46d1c5cfcbfe971efcc43f9",
+    "date": "2026-01-10T17:00:23+01:00",
+    "path": "/nix/store/8i6ad96267f1072638nmp74bjri0kmkn-zed-dependi-d97136f",
+    "sha256": "14ahc293n2rb932j84fj8aap33sshdlkq88snil8zyd6gznc6mlw",
+    "hash": "sha256-nFbD7H+m+Y9otBohPGmDWo9xlULSESTFSCsLO5JgUJE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "dependi-zed",
-  "cargoHash": "sha256-RaBkw0gFbKAEHhYIugRLiIHkWCaE0qg+Ax9hB7JIQFw="
+  "cargoHash": "sha256-nORy2B5Tbor8qEZv72OQ4/tIvZX4F7G66wotjrDMmcI="
 }

@@ -1,0 +1,19 @@
+{
+  "name": "tokyo-night-dark",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/pyncz/zed-tokyo-night-dark-theme",
+    "rev": "958111b0a25b6bee20e6ca2be4f0660e44cf4af2",
+    "date": "2025-12-03T23:20:52-03:00",
+    "path": "/nix/store/c5396rjxy7r3491k6pl5sj00yzjb75zk-zed-tokyo-night-dark-theme-958111b",
+    "sha256": "1nbhsayrxaw8wx00nwbk6cg6215858d1a8jkzbj531pz3vm9hxwp",
+    "hash": "sha256-l3eY6h7/hlHk+lMiFRoqqARhHjNzcQtA54irnr3ScNk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

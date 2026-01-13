@@ -1,0 +1,18 @@
+{
+  "id": "jsp_el",
+  "name": "el",
+  "version": "0a710ca2640d11b7d06c9eb188d6c581f1303ef9",
+  "src": {
+    "url": "https://github.com/tartarughina/tree-sitter-el",
+    "rev": "0a710ca2640d11b7d06c9eb188d6c581f1303ef9",
+    "date": "2026-01-11T16:24:19+01:00",
+    "path": "/nix/store/6xvmd1rv26cv3b2x1milfynahs3p06d2-tree-sitter-el-0a710ca",
+    "sha256": "0f7vz3131jd09xi1yy7v1yn7a8m530jx534x6baz87d9p8z028m9",
+    "hash": "sha256-qSIBPrqpHfTVMp2M0iUYpSJ1rA/7eB9iT6DJMML4+zg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

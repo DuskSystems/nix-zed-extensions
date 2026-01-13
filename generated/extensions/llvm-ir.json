@@ -1,0 +1,21 @@
+{
+  "name": "llvm-ir",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/kdkasad/zed-llvm-ir-extension",
+    "rev": "1d30d88c704f9eefe3dbddbefc0123055af72174",
+    "date": "2025-11-27T15:23:32-05:00",
+    "path": "/nix/store/ndb3z8wvdxz2s4dscqv3ywz1a0i2hkq0-zed-llvm-ir-extension-1d30d88",
+    "sha256": "1n0wnvkqcgicd35s8j5vn3rj01sdfp3ysxk7n0s0dj8b25ac2ggh",
+    "hash": "sha256-8D3BVBELyQY0sGd27cd1TQcg87C7SKTLaCw+hue2HNg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "llvm-ir_llvm"
+  ],
+  "kind": "plain"
+}

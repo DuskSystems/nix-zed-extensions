@@ -1,0 +1,21 @@
+{
+  "name": "deps-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/bug-ops/deps-zed",
+    "rev": "d487557cf0e4dda053fe2b198221c4ed977c665e",
+    "date": "2026-01-07T15:27:57+01:00",
+    "path": "/nix/store/4265jzf71r5d0ar76fpmbm2243l4p0kp-deps-zed-d487557",
+    "sha256": "1sbk6syncp3kfzb8h4wn8fd0whv1p285h923x9xd5fbz3xnyxlj8",
+    "hash": "sha256-SNLubR9/udJ66kMkWJC4YUMOmkOWE4jWd3NcZr02c+k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-OVfTi44Wl4VWuA9llLyWpk+lkpEIU2+oV7nrMnEdZ0c="
+}

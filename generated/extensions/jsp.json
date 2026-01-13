@@ -1,13 +1,13 @@
 {
   "name": "jsp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/tartarughina/zed-jsp",
-    "rev": "952fc28dd651a219b840f35e400812259695d243",
-    "date": "2025-08-10T11:36:13+02:00",
-    "path": "/nix/store/1w7119kj3zlhwgj3mdb4jc8mq070w3hq-zed-jsp-952fc28",
-    "sha256": "088c2060c3rzc8wygfk419wx0zdlbbc4nm4qcai9gb4v8psni2j4",
-    "hash": "sha256-RIpo9UWbrJeiYphUS9hatH3QeQpkuuc5Yj8PBgwQDCE=",
+    "rev": "fee6ff739dba582d8f1ae62549eade6241aee9f4",
+    "date": "2026-01-11T19:40:46+01:00",
+    "path": "/nix/store/ayqq3hqppzmkcxijgbl3fl3cvc12qm6c-zed-jsp-fee6ff7",
+    "sha256": "14k6gv4d82isvlwgmy58v032acsgg1f7clsh5yqqj2ll5aza86bz",
+    "hash": "sha256-fxmkviqUComxL1BTdlx4TzMlBtio+Po43ToK1Mh+ZpI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,6 +15,7 @@
   },
   "extensionRoot": null,
   "grammars": [
+    "jsp_el",
     "jsp_jsp"
   ],
   "kind": "plain"
