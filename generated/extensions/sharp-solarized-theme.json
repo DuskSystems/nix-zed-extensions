@@ -1,0 +1,19 @@
+{
+  "name": "sharp-solarized-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/leodiegues/sharp-solarized-zed-theme",
+    "rev": "68bbbfc97e9fb120e1b879f827d5265bf0cac85b",
+    "date": "2026-01-12T20:39:00+01:00",
+    "path": "/nix/store/9zf45prp7abzf1a5dnvsdb4pp8a85q3m-sharp-solarized-zed-theme-68bbbfc",
+    "sha256": "15861iqfa1fzzl6xarw88ph5qf92m49bcayb7k2crkll0m0krqmi",
+    "hash": "sha256-seI8QQWUzszEPMsrthKpIjlc4EWIZ9UN/d8F5XAMBpU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

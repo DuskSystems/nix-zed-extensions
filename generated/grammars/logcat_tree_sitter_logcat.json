@@ -1,0 +1,18 @@
+{
+  "id": "logcat_tree_sitter_logcat",
+  "name": "tree_sitter_logcat",
+  "version": "b339f8402fe66f46bdc0a58ccde9f29162528865",
+  "src": {
+    "url": "https://github.com/vinnom/tree-sitter-logcat",
+    "rev": "b339f8402fe66f46bdc0a58ccde9f29162528865",
+    "date": "2026-01-08T18:45:59-03:00",
+    "path": "/nix/store/8im09fyvnv6vi20x2w2v01752daybbrb-tree-sitter-logcat-b339f84",
+    "sha256": "1y5xlpqs64h3fzxb589f4pyk1lzkp1hcdwz9mw46v0js57jd23m6",
+    "hash": "sha256-pg7R5Clagm0Ir+nzxmC489Mw/SUuobL6dwMSo/Glvfg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

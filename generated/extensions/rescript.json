@@ -1,13 +1,13 @@
 {
   "name": "rescript",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "src": {
     "url": "https://github.com/rescript-lang/rescript-zed",
-    "rev": "1f211de00db191b9d995678be041ba8f3531580e",
-    "date": "2025-12-29T09:05:33+01:00",
-    "path": "/nix/store/0ni9qim876b3ca22rd32817si7h8rvsa-rescript-zed-1f211de",
-    "sha256": "1mai4xkrdkma84ybdhrpcvddd03ysg0sd229l3mpksnd6dv6lpyb",
-    "hash": "sha256-y19qdjPN6nnroEmIpsHTfoDW2mY3w7Y8QarOlmcnUdU=",
+    "rev": "b3930c1754ab2762938244546ea2c7fb97d01cb3",
+    "date": "2026-01-13T16:25:11+01:00",
+    "path": "/nix/store/r1sv3svfli0xyafybbybr6bm5jd48nk4-rescript-zed-b3930c1",
+    "sha256": "1y2hn2n9j52cr414675hcggb8hp3vdfznbpqmj5qm1b1f12qbr4l",
+    "hash": "sha256-lOSFRXBhhYqLrPgu+13b40K03mOwHEMCyUwUmaywUPg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-U2GoKEjddVIIOzUC9sPqOvzuzHjOOKYjIwGvFyPqWtI="
+  "cargoHash": "sha256-RAk2a+HwsyMYCaFhKJyw3oXTpmBfFMHz/L+npbYehyY="
 }

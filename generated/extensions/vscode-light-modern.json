@@ -1,0 +1,19 @@
+{
+  "name": "vscode-light-modern",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/XiangpengHao/zed-theme-vscode-light-modern",
+    "rev": "571702ad6b9555d24e2002323c901009a5035b26",
+    "date": "2026-01-07T09:38:11-05:00",
+    "path": "/nix/store/bpqry0pn7aylg6sigal2w43v0vmgisa3-zed-theme-vscode-light-modern-571702a",
+    "sha256": "1hb5j2v03cijl8yffbxiarhkz9fdxxzldbixnrgia26lki0gghi8",
+    "hash": "sha256-KML3QJzUCBVftj2uRn/vzaU/YVaxL+c8ojKyAbaQZcE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

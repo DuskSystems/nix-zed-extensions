@@ -1,13 +1,13 @@
 {
   "name": "css-variables",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "src": {
     "url": "https://github.com/lmn451/css-variables-zed",
-    "rev": "25e3db4662b9927e7516893562c39541518363a1",
-    "date": "2026-01-07T21:01:04+02:00",
-    "path": "/nix/store/yxbmw17asvqiqzyv6a7nrypv133dw6zx-css-variables-zed-25e3db4",
-    "sha256": "1d2y53l4qcha9njs44d79zz5idb1ggflj76lkvpwqqx6zd7b1q50",
-    "hash": "sha256-oOCwTvumY8zvntQcSd17YbVY/k+nEaKlTQoyTOgoXrQ=",
+    "rev": "bd2257b793b91c5b5a97017ad87a1d48f1b5f726",
+    "date": "2026-01-13T15:31:59+02:00",
+    "path": "/nix/store/skv35k1answ234w4x7jdll4mq0jmylys-css-variables-zed-bd2257b",
+    "sha256": "0j8sgfx6kwj9qkviimwqr8609rcwxqnp6bhlzvyjg7l75x9gq4b8",
+    "hash": "sha256-aBH8Ui+Hnif9/hQucy3unOUEDMqY1xj3xEnyabp7Gkk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-hEuLbeSzj5ujYEpjpLUW8Kc7e95QSmipzDEWthOwqOU="
+  "cargoHash": "sha256-0DsrbwB6e1Cmu5q9w/XKrpBMyr6hHKXMEJa1TGIdbxY="
 }

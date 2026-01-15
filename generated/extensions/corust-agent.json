@@ -1,0 +1,19 @@
+{
+  "name": "corust-agent",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Corust-ai/corust-agent-release",
+    "rev": "9d11dc6d17bd28d664003bf0735400dc76f48482",
+    "date": "2026-01-06T10:10:42+08:00",
+    "path": "/nix/store/s1v6g4v3d3dhs0f00pyq9nix5fb05wab-corust-agent-release-9d11dc6",
+    "sha256": "0qi4jpnl5d0fccmrfjirkxnkd4mnsfndd7yg73sxsl18iaw27f8g",
+    "hash": "sha256-D7kjuIooUN31OM+f1qzTtpI2bZ85SpcrYw60Qu2VJGI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

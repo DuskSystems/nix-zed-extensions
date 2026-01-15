@@ -1,0 +1,19 @@
+{
+  "name": "apathy-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/coopmoney/apathy-theme",
+    "rev": "3b1309e9778b3b070f2a6ce9fa6bd7a3875f1428",
+    "date": "2026-01-13T06:02:53-08:00",
+    "path": "/nix/store/7gar6rrpsprpdmw4b2h85ffz8s66m3c8-apathy-theme-3b1309e",
+    "sha256": "1v7dfqds00ifiy2wx62b77wzin7hf5x2iacj1f9xnrvb4zixacd3",
+    "hash": "sha256-ozHV4ydrZ9uTC5KpKHpx8Nj4+TlLmM6Fjy4CoBt27ew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "logcat",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/vinnom/logcat-highlighter",
+    "rev": "c3752cad342484d3b09f95826c92bfad18428424",
+    "date": "2026-01-13T09:37:33-03:00",
+    "path": "/nix/store/4qyyrkil3c5gzzishsnkzggbqysh2kdv-logcat-highlighter-c3752ca",
+    "sha256": "1v68fag401fj587wjjlj4hz57a5hd1sv833pkm4wp2dsvpyfgwyj",
+    "hash": "sha256-0vPn/N26ictJnXcMtHVosKhTPiSSSskPKtIFQJ5yyOw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "logcat_tree_sitter_logcat"
+  ],
+  "kind": "plain"
+}
