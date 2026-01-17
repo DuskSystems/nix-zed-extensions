@@ -1,0 +1,19 @@
+{
+  "name": "factory-droid",
+  "version": "0.52.0",
+  "src": {
+    "url": "https://github.com/Factory-AI/factory-zed-extension",
+    "rev": "fde6a056e9430eb3b69814701e2b35e0ab3ad7d1",
+    "date": "2026-01-16T10:42:35-08:00",
+    "path": "/nix/store/s9gxb7ys974jd27ds364vnxm59z2hqrz-factory-zed-extension-fde6a05",
+    "sha256": "11s8kyni7gg7r64q8zm3ddf8qb0q7mrp8m9jdgwbwf2rb3f3izlx",
+    "hash": "sha256-nf443FhZOL74azJVdHM9GCyMXGujfoSJyee9E62fSIc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
