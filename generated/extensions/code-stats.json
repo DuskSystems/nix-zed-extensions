@@ -1,13 +1,13 @@
 {
   "name": "code-stats",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/maxdeviant/zed-code-stats",
-    "rev": "b9dbf93ce98b9b6d68cd0739cf9115f9ced04bed",
-    "date": "2025-07-20T09:58:04-04:00",
-    "path": "/nix/store/14azvp6yhn0flv80vh4445aahyn83k1l-zed-code-stats-b9dbf93",
-    "sha256": "1384vby6g8h505hd1m2kb53ygk95vszkkywhw9mjnkvda9fbhikg",
-    "hash": "sha256-b0a4XFJtTytr4pD7Ob/eJc3nR1lT1NBgAQWiZ/zaBI0=",
+    "rev": "363b0f200dbf010fb5b70def4d058c487be5cb9c",
+    "date": "2026-01-19T11:33:29-05:00",
+    "path": "/nix/store/csfa9mxn3y0iqjvz6nmvj7jjmfv25pwx-zed-code-stats-363b0f2",
+    "sha256": "0af2801d1mnjn5vxhl786473aqkqkwg479x96mv91mmgbw6h2fyw",
+    "hash": "sha256-3DsBDV+v1pB2NamnQx6feGI1DjHoUNh3sdLW0AJAwik=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Fqqo+M+RiyFKrOUvEfGLSIwGitZr4Uq+htQy1SWEjF0="
+  "cargoHash": "sha256-LWSPuzbCecDwhT7wfNOoRTzvk+BZC93dDXOKBfwpOHE="
 }
