@@ -1,0 +1,19 @@
+{
+  "name": "nube-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/meastblue/nube-zed",
+    "rev": "758f2d447d9d3da455b3bfbf9189fbd3c094d7c8",
+    "date": "2026-01-15T13:19:10+01:00",
+    "path": "/nix/store/6j364bk5bfjr3faf5hfb28xrxzjn8dll-nube-zed-758f2d4",
+    "sha256": "1kg8i95rrsnhxif9mbxbl51vg11q8rfdl2xmx48vjr3dg6zg5xas",
+    "hash": "sha256-WvXyvnltZLkR6bUL2lxGOIS3Q6Grr5pc7NDqnEuK6M0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
