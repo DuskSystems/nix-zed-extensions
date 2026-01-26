@@ -1,0 +1,19 @@
+{
+  "name": "bearded-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/BeardedBear/bearded-theme-zed",
+    "rev": "1a1e7be3f43ac77835fcef7b98d3a7147f613044",
+    "date": "2026-01-17T22:26:41+01:00",
+    "path": "/nix/store/xjb4r2a7hg6m1jcp6yf91pmcibr4f7g1-bearded-theme-zed-1a1e7be",
+    "sha256": "0ry4l8rf99h9kd1d54px0rqb3rnjrsnv71zyvagk03a0np5q5frx",
+    "hash": "sha256-PbuCy7VADTCf2v6Hs63O0uaxcAb9ktJCmwmm5DKixGc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

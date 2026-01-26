@@ -1,13 +1,13 @@
 {
   "name": "bun-docs-mcp",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/kjanat/bun-docs-mcp-zed",
-    "rev": "b22ab65ecded51a6c67f609583f0b7ea3d9ee754",
-    "date": "2025-11-03T18:57:06+01:00",
-    "path": "/nix/store/7s53m2733c7lmw50g01j0lnpkqym8gxa-bun-docs-mcp-zed-b22ab65",
-    "sha256": "08bi7xiiilmflxcx5frdv6qwi419k8fnbn5kmqnh8kjycrsj02kk",
-    "hash": "sha256-cwogdWZeTgQtrrPYZR2aKZDIsdktu9JZp67SGGM/cSE=",
+    "rev": "5324eb7d4bce899263bc40662344e285207133ed",
+    "date": "2026-01-24T07:24:30+01:00",
+    "path": "/nix/store/8cj3slyg3b6lqyyk3kakbjssy5nqlp8g-bun-docs-mcp-zed-5324eb7",
+    "sha256": "152j61z88q04bgx2aijd4sg9jg7ly0acngc02f0in1vcvad2x5cp",
+    "hash": "sha256-l5UumtpsBxuBE4A9yxTw9DyZniZNRiX6WwRghH4wUpQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-yUKHRdLRE1EXoBrXmLSlnJ46VzAO1q1jv45Of7Y5UcE="
+  "cargoHash": "sha256-yY9Q7brPEy0TzX6+Fyru2+HILcQzWywrYG0vQxqAFug="
 }

@@ -1,13 +1,13 @@
 {
   "name": "quadlet",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "src": {
     "url": "https://github.com/mufeedali/zed-quadlet",
-    "rev": "7290303b8c77795f8753ead94575fbb9dd6ee863",
-    "date": "2025-11-18T21:12:58+05:30",
-    "path": "/nix/store/9rxaypqsqdxn9qm0a5vf7qq9knnl3q6v-zed-quadlet-7290303",
-    "sha256": "0cr66ap2gzk3ammjdx0kx15qhffm35xicvjlsz0ab7wjhicgpl25",
-    "hash": "sha256-RdD7WISSn6XA11RuFnsZ1TmIS+gT9CZrVWP+J64yJjM=",
+    "rev": "cf69a465b0f12e3ce1c9f07deccf818ade05d7d1",
+    "date": "2026-01-26T00:03:32+05:30",
+    "path": "/nix/store/7cli28n90i5klxmm4rv1d01vh89j6a4g-zed-quadlet-cf69a46",
+    "sha256": "0il8nyh26d1ch5lz56i3pj53xz02aiaj05fg057mw031jl7w54wv",
+    "hash": "sha256-m5PCD5VhAF5PAc8VIFVUAvw+irwjmvJpgSw0I6C3iEY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-ZqNEiBXGeiQ8izhFbsRJzGmlfZ5zq1zC7wpbHTLX41Q="
+  "cargoHash": "sha256-Y+TrUfibycwBZgoU0o92yXjfTadBxshtZ4OPTQhxwMY="
 }

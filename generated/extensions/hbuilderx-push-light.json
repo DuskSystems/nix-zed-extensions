@@ -1,0 +1,19 @@
+{
+  "name": "hbuilderx-push-light",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/yuanzhhh/hbuilderx-theme-zed",
+    "rev": "b931d8098509a458b5737f982ce0f5c5ff510a35",
+    "date": "2026-01-23T18:16:15+08:00",
+    "path": "/nix/store/jgvm9px093vlmd1rl12wnisy84nrwdfs-hbuilderx-theme-zed-b931d80",
+    "sha256": "09i43n2ld7sz0cnj73ybcmyxw4p9y31l92jcr1p4zbldp7jwq1rl",
+    "hash": "sha256-NAfM5bmNrk9uyEyKRMPw6RLefWXLjyMtA1+fRoUdJCY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
