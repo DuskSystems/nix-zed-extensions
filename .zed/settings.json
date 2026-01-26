@@ -2,7 +2,10 @@
   "remove_trailing_whitespace_on_save": true,
   "ensure_final_newline_on_save": true,
 
-  "file_scan_exclusions": ["**/.git", "**/.direnv"],
+  "file_scan_exclusions": [
+    "**/.direnv",
+    "**/.git"
+  ],
 
   "languages": {
     "Rust": {
@@ -18,7 +21,7 @@
     },
 
     "TOML": {
-      "language_servers": ["taplo"],
+      "language_servers": ["tombi"],
       "format_on_save": "on",
       "formatter": "language_server"
     }
@@ -38,7 +41,15 @@
         "check": {
           "command": "clippy"
         },
-        "checkOnSave": true
+        "checkOnSave": true,
+        "imports": {
+          "prefix": "crate",
+          "preferNoStd": true,
+          "granularity": {
+            "enforce": true,
+            "group": "module"
+          }
+        }
       }
     },
 
@@ -60,10 +71,10 @@
       }
     },
 
-    "taplo": {
+    "tombi": {
       "binary": {
-        "path": "taplo",
-        "arguments": ["lsp", "stdio"]
+        "path": "tombi",
+        "arguments": ["lsp"]
       }
     },
 

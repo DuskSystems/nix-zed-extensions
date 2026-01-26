@@ -83,7 +83,7 @@
             clippy
             rustfmt
             rust-analyzer
-            taplo
+            tombi
             cargo-outdated
 
             # WASM
