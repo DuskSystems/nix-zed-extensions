@@ -1,0 +1,19 @@
+{
+  "name": "not-too-shabby",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/staleo/zed-nottooshabby-theme",
+    "rev": "cd211d2e91483ce6b5035e31b0de92902898c523",
+    "date": "2026-01-17T01:15:02+01:00",
+    "path": "/nix/store/qj2rhj35z8zpjc4fhbcmvyjf7y19ni9y-zed-nottooshabby-theme-cd211d2",
+    "sha256": "188lwv6mhpd8v2n20brydg8v4ghv967wssnycp4r90vj7ydwwypy",
+    "hash": "sha256-/nrOmz9yg5TJZd5qzY9JGz6y0Ws+LyCs2KhdWM3mFKE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
