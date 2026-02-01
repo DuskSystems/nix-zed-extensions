@@ -1,13 +1,13 @@
 {
   "name": "scala",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/scalameta/metals-zed",
-    "rev": "c3e67c64a51b731c8f1ce7975d1257ab55ee1f26",
-    "date": "2025-11-18T16:00:06+01:00",
-    "path": "/nix/store/v3nfrsgqna381xl5ynwn45kbcpznsd70-metals-zed-c3e67c6",
-    "sha256": "1zbxg9jzrn3bmjn43glqmhs23bz3i9j8qcba3j4hli22zn2pqvwk",
-    "hash": "sha256-k298hf1CRAqJHGoxjGSK468hNKyYvkGsrGvY/GV6ff0=",
+    "rev": "8e2246a3744dbe2b33a05f4a5596511f30c7377b",
+    "date": "2026-01-27T15:57:57+01:00",
+    "path": "/nix/store/b6m6gdcb2qll5l30jgqynbj35z2fp9vr-metals-zed-8e2246a",
+    "sha256": "06fh4am0hl3a7aq321m00n5kj8ibxcz2pqa6sy9v601nw8r63sx3",
+    "hash": "sha256-o+thMuI2ALOT10bhKz7rKyI5iwWgBjGwOmpQCKoi0Bk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-58Y1lgmQQAl6OROlsOuc6WLTJfRi1dgZICReFiTbyEg=",
+  "cargoHash": "sha256-JN9/A2KQ6MJTScCP8S1oFYroqRJirMj/P2N3bPsf0Js=",
   "cargoLock": {
     "lockFile": "/generated/extensions/scala.lock",
     "outputHashes": {}

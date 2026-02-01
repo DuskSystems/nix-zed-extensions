@@ -1,0 +1,18 @@
+{
+  "id": "smalisp_smali",
+  "name": "smali",
+  "version": "fdfa6a1febc43c7467aa7e937b87b607956f2346",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-smali",
+    "rev": "fdfa6a1febc43c7467aa7e937b87b607956f2346",
+    "date": "2024-05-05T18:19:49-04:00",
+    "path": "/nix/store/xss5bz2aasfxa1hz1ar7hjl6dlijrjyk-tree-sitter-smali-fdfa6a1",
+    "sha256": "0b7b6vziwj2c3ngrpz439gnsxh5v22illc4nms1mxkzdx5g3liab",
+    "hash": "sha256-S0U6Xuntz16DrpYwSqMQu8Cu7UuD/JufHUxIHv826yw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

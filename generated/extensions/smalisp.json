@@ -1,0 +1,23 @@
+{
+  "name": "smalisp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/AbhiTheModder/smalisp",
+    "rev": "329c6b98b4bb48f27db7ef61f56ab1f070f4d0ce",
+    "date": "2026-01-25T15:32:52+05:30",
+    "path": "/nix/store/7mfch0didxpyk07layp76il16xkwwfb4-smalisp-329c6b9",
+    "sha256": "17b47cchcg44dhlkkxxzyld6vl96wgjjw34yrxryklzlmsvxxy24",
+    "hash": "sha256-RPjet6700+lzz54MLuXjJtFtGvW/9zkpbIQ8Bhk7ZJ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "smalisp_smali"
+  ],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-ffYpH9jSD5FYiWjlMDOBC0WYPeUlnMQtHo2fLqFvIkY="
+}

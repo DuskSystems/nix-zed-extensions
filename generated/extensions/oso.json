@@ -1,0 +1,23 @@
+{
+  "name": "oso",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/osohq/oso-zed",
+    "rev": "3c5650dcff13a4f0c23335dbb7b499d7dcbe21cc",
+    "date": "2026-01-16T10:13:08-05:00",
+    "path": "/nix/store/8r7j562fqkimwigml09bfdgmhjcp2826-oso-zed-3c5650d",
+    "sha256": "1rv9kk4p9s99y3kx2kmigc5xysm6lvwsg9aml515swiw9wk3ky71",
+    "hash": "sha256-4fg5Jk88cl1CoVWlp/mmpmrfC3uxTtHn8CnpdMmcaec=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "oso_polar"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wfpdQbKt00yJvwWP0yKnEmvnau+uiOdswh9aosEtffc="
+}

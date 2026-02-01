@@ -1,0 +1,18 @@
+{
+  "id": "scss_sass",
+  "name": "sass",
+  "version": "fb280c41b070657e4ff4d4e5e6eea6cb19efd9b8",
+  "src": {
+    "url": "https://github.com/bajrangCoder/tree-sitter-sass",
+    "rev": "fb280c41b070657e4ff4d4e5e6eea6cb19efd9b8",
+    "date": "2026-01-18T13:05:21+05:30",
+    "path": "/nix/store/f4i349jgv10v3a05na87gkhga1hjwm2y-tree-sitter-sass-fb280c4",
+    "sha256": "080qq1225kq6yzh9f68j5jwmgmivg7iywcmajzani7gpr5ybslb4",
+    "hash": "sha256-ZFG9fMn3nWjVl6oy7uN5O9ZXuSwSGZfg9wbPIkTAGCA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

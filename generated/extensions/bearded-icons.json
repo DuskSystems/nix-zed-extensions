@@ -1,0 +1,19 @@
+{
+  "name": "bearded-icons",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/BeardedBear/bearded-icons-zed",
+    "rev": "f5928450d4f59f1ca1f63ccdf7215df6aadc2932",
+    "date": "2026-01-27T00:28:23+01:00",
+    "path": "/nix/store/2ly14fz542w5sprsyp3p52f3ggxrnfy6-bearded-icons-zed-f592845",
+    "sha256": "1xdix64705rp6yg2x1k6pa3vw44h2jdjrrsva4rkkcnyrhcn45c1",
+    "hash": "sha256-gRViGczesjkzUVvnLJsUkBC+h7pmhi6eNzcXcIjpsfU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

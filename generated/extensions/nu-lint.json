@@ -1,0 +1,21 @@
+{
+  "name": "nu-lint",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://codeberg.org/vmeurisse/nu-lint-zed",
+    "rev": "ca0dd729c60bf54409cec12e868a81c307b4bc30",
+    "date": "2026-01-28T14:32:08+01:00",
+    "path": "/nix/store/gjdq1ncpm1ymhiljlb90q08gxfv1wylz-nu-lint-zed-ca0dd72",
+    "sha256": "1djlbka5azs3qs93d0s4vcg3hb95w24zsy455x43wq61g5za5pq7",
+    "hash": "sha256-B9+ifnnBYD5IL4V4/YngJS04HttEgzaSxkN/VdRcVLY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-fO6UAtJi4bwByl4PnhU+ZtgQQDa+tkoC+r8RyirKrQs="
+}

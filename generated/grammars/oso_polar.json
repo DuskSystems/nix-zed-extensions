@@ -1,0 +1,18 @@
+{
+  "id": "oso_polar",
+  "name": "polar",
+  "version": "b44da606fd7e095f2a17bfea49085635f2a6c3fb",
+  "src": {
+    "url": "https://github.com/osohq/tree-sitter-polar",
+    "rev": "b44da606fd7e095f2a17bfea49085635f2a6c3fb",
+    "date": "2026-01-09T18:46:20-05:00",
+    "path": "/nix/store/az0kkbx939sdvdvxpg0nvzxfqxqiab81-tree-sitter-polar-b44da60",
+    "sha256": "1p28wbjcgvdqs0csvhvl8r77bglcd5nm0xnrf7dngx4mgscvaivv",
+    "hash": "sha256-e0e1mX6V9Gfbcdl2UG1pjL51TkZ0w60Z0Ljtx+TiSNw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
