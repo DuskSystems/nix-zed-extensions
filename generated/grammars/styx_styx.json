@@ -1,0 +1,18 @@
+{
+  "id": "styx_styx",
+  "name": "styx",
+  "version": "9c85e9bfd63a5512d691760d11664ceec3257be8",
+  "src": {
+    "url": "https://github.com/bearcove/styx",
+    "rev": "9c85e9bfd63a5512d691760d11664ceec3257be8",
+    "date": "2026-02-02T19:17:20+01:00",
+    "path": "/nix/store/h3fxx3jqlrxwyr00mfqprg3ryk6fzs6m-styx-9c85e9b",
+    "sha256": "1pclwbwfi1myblkzwhyz8nkpkksxyybshbmy5lp8jc3h3qyb92ja",
+    "hash": "sha256-Soq0PB5wMIkuLb4uqJf3Xc95p0XfQ/4nXb6G6PjilN0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "crates/tree-sitter-styx"
+}

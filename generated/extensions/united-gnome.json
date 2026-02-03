@@ -1,0 +1,19 @@
+{
+  "name": "united-gnome",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Smyrnis/united-gnome-theme",
+    "rev": "234791f8a9d63ce78c2805bea0aabf48191d9ff4",
+    "date": "2026-02-02T17:02:03+02:00",
+    "path": "/nix/store/yvmi87xns55q9svsy0ahwjwnnkdx72i5-united-gnome-theme-234791f",
+    "sha256": "0llvn3l4fibw68kdair8mf6c91a6zyd392vji8cc9n9rbdpigcii",
+    "hash": "sha256-MbIXb1s52cQYinKLNJr/RoXEjKsoR9UmMnxFR+iwm1I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

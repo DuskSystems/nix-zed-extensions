@@ -1,0 +1,19 @@
+{
+  "name": "herzha-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/madhanmaaz/herzha-theme",
+    "rev": "beb670e498f8ccc337daea32a9eb517ae2854165",
+    "date": "2026-01-30T20:39:57+05:30",
+    "path": "/nix/store/1b334z5nydycx6jmj70qmci77f4kzjzz-herzha-theme-beb670e",
+    "sha256": "0laxk8ihlfx542j58xydzk5kbkd2mww1w69aykk9fc37k22lil3m",
+    "hash": "sha256-ddBIhZhnMJfm9CoZHjivos01y/zNd1SkIKU7CiOaXVE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}

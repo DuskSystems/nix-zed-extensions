@@ -1,0 +1,23 @@
+{
+  "name": "styx",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/bearcove/styx",
+    "rev": "3f44500be783e0dfbbbbef4dbfb4406b27c58672",
+    "date": "2026-02-02T19:18:29+01:00",
+    "path": "/nix/store/k3mxjz6xxf65lr77p2dqh10h26sn6ps4-styx-3f44500",
+    "sha256": "0q8pv23fndq6vz5y3js0cnm97v3c8m0z03d8s8hz1h229ydcvb9k",
+    "hash": "sha256-M63Nmk9CwPAh0qgN8EFFbOyTqmVAy+HL3wY364bYF2E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "styx_styx"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed-styx",
+  "cargoHash": "sha256-Xl8F7reRJFzcZhCf+hu9FTRIlWqqqoDmlqYq4VmpVf4="
+}

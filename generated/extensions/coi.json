@@ -1,0 +1,21 @@
+{
+  "name": "coi",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jturner/zed-coi",
+    "rev": "834e73974c6e2cd9056b59b17625d1eba143b9c6",
+    "date": "2026-01-24T13:28:10-05:00",
+    "path": "/nix/store/h41r7mqf4g8wny2sq1d2ddgc8y3w02hy-zed-coi-834e739",
+    "sha256": "1kqf1brpiyvv4yw68nv44j9b1iiy3mxyjp8g2y6c46rf0mcw0dpv",
+    "hash": "sha256-+zbAWQUuG8KMFw9d6XsdPsawkiRkW2S4J3v7ePMKDs8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "coi_coi"
+  ],
+  "kind": "plain"
+}

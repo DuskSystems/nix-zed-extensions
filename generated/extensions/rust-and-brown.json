@@ -1,0 +1,19 @@
+{
+  "name": "rust-and-brown",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/LukianovII/rust-and-brown-zed",
+    "rev": "1d4b02e5b61596c6803ed8d4b33b4832e18325d0",
+    "date": "2026-02-02T18:34:41+03:00",
+    "path": "/nix/store/6jsg946mwcjrf6flxc1n1690c51d5b8i-rust-and-brown-zed-1d4b02e",
+    "sha256": "1wy1w6915ysc69dj9w8yxamw0mmnfyxj7s04rghsn30p5mfrzpbz",
+    "hash": "sha256-f92fXS0XDKvhywToI7t3tlbAq+oe8SRbMkz7EpLhwfM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

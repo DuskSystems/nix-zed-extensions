@@ -1,0 +1,18 @@
+{
+  "id": "coi_coi",
+  "name": "coi",
+  "version": "77fc94fac03f38c8a9f776924d0e3134529ec643",
+  "src": {
+    "url": "https://github.com/jturner/tree-sitter-coi",
+    "rev": "77fc94fac03f38c8a9f776924d0e3134529ec643",
+    "date": "2026-01-24T12:52:17-05:00",
+    "path": "/nix/store/g113i57nsin9p115zcvapxd4i15hih44-tree-sitter-coi-77fc94f",
+    "sha256": "03ibih66y3f6m21r7z1l8wlj7am2i492ag4ncjv8n2m69w3vz03v",
+    "hash": "sha256-e4C/B0+mCou2ZJY8JRKJoqojKUc0/JODqMYNbwyMKw4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

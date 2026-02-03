@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-playwright",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/karlomedallo/zed-playwright-mcp",
+    "rev": "b96f3029f05f6b3336649aaf1949f9aabc727e33",
+    "date": "2026-01-28T04:50:43+11:00",
+    "path": "/nix/store/j45l1prjj8g8il6d1d6qns85g9zafgns-zed-playwright-mcp-b96f302",
+    "sha256": "1w6wjlw6a85mnn98p2x5k0mwrw1dcl3hhxlpxgpwr4fd2h5iawf6",
+    "hash": "sha256-xnEVCxTNkczv65d2CAdlLfDMK5ili4uStbUgZTiV3PA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-s8DDVKWqWZ1ZV1GrzbG798RPCVzWNkDablmNCC43VdY="
+}

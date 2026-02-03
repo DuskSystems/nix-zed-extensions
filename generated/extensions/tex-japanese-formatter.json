@@ -1,0 +1,21 @@
+{
+  "name": "tex-japanese-formatter",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/keufcp/tex-japanese-formatter-for-zed",
+    "rev": "9dc6cf309e3ec445d5387221b11742e819831c71",
+    "date": "2026-01-19T00:06:41+09:00",
+    "path": "/nix/store/szal2ig54nk1zg4w4qim86aclfrk34dg-tex-japanese-formatter-for-zed-9dc6cf3",
+    "sha256": "1v41h9j9r535qxkrd8kjxdgc0x3i5i455nzfajrg3ki45vc2y8vk",
+    "hash": "sha256-cyMv2C4kzvGyVO7bUkgscXTAXutyopZnx2WUnGSCgew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-27BtYQrMoQuciPCUlf9husDkbprzo2zQduT3BCITEdQ="
+}

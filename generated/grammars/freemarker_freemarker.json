@@ -1,0 +1,18 @@
+{
+  "id": "freemarker_freemarker",
+  "name": "freemarker",
+  "version": "36bb2937c43abea5f8fb1ddc89cf2730da5fec0e",
+  "src": {
+    "url": "https://github.com/debba/tree-sitter-freemarker",
+    "rev": "36bb2937c43abea5f8fb1ddc89cf2730da5fec0e",
+    "date": "2026-01-13T12:30:48+01:00",
+    "path": "/nix/store/plii5si4iqgm4sgnp51wr1mibyga85bq-tree-sitter-freemarker-36bb293",
+    "sha256": "150aqxixylnd2gnv14npinz5j9kcqidzy7hkcljzcgm0ql9jkrq9",
+    "hash": "sha256-CecpE8WgPvYlZRMe/1vEbCZZvo3XkrDtE81S32PHCpQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

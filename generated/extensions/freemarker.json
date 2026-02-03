@@ -1,0 +1,21 @@
+{
+  "name": "freemarker",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/debba/zed-freemarker",
+    "rev": "c6c2078d4960b4d9d07ed010b7b43185f37b734f",
+    "date": "2026-01-13T12:46:09+01:00",
+    "path": "/nix/store/la7jdb1k9qr8fywmvqvf5d984880byyh-zed-freemarker-c6c2078",
+    "sha256": "10b64l3qdh8s4w4w0aj5k6l6nw7laad6gardngyga5rfr94fn14r",
+    "hash": "sha256-mQTrSMouF/X8sy2rZ5pS9HBrqJlFKsAJJxrBhgclZoE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "freemarker_freemarker"
+  ],
+  "kind": "plain"
+}

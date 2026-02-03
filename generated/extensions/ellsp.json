@@ -1,0 +1,21 @@
+{
+  "name": "ellsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/elisp-lsp/zed-ellsp",
+    "rev": "ffd2a058be368b65e91812ced0277d54c809161f",
+    "date": "2026-01-25T01:40:14+08:00",
+    "path": "/nix/store/ii9zfpwkphg3lh5lzdm2nc236638x72p-zed-ellsp-ffd2a05",
+    "sha256": "0fq28vhlkrq3bp0px5gpg009an3sgpbz1z6z0hplaxa101gx5v6w",
+    "hash": "sha256-3OzSXwBBdUUvBN/88Nd9eliVAHj3lX7BXQPnSeFGAjs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7VYdGOeWmqlCUsMBx/eXk05T0dHaj+o0uLjJRgMhCuw="
+}
