@@ -1,0 +1,18 @@
+{
+  "id": "haskell_alex",
+  "name": "alex",
+  "version": "1b20e2e6592ccd859ae5e06649d8335d19cdb60c",
+  "src": {
+    "url": "https://github.com/brandonchinn178/tree-sitter-alex",
+    "rev": "1b20e2e6592ccd859ae5e06649d8335d19cdb60c",
+    "date": "2026-02-01T16:08:03-08:00",
+    "path": "/nix/store/nss91vi3f0gigz0wqa50pbcc3acnim2z-tree-sitter-alex-1b20e2e",
+    "sha256": "0wfw1q7mhw53049cqvgn804ln6vrwr401s7biz3hci09nm2rxbvr",
+    "hash": "sha256-ea+eRbUJRAbHj+voAEjmeRtLCUD2bcwSAaNwWA8O3HE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,25 @@
+{
+  "name": "sqlmesh",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/GitToby/zed-sqlmesh",
+    "rev": "23b9a2d022561da7f5e9a7c4ff584f6ac8587c19",
+    "date": "2026-02-03T13:39:54Z",
+    "path": "/nix/store/zpx7irrx8kv6j6ykdml1z5qxbvlzjzf1-zed-sqlmesh-23b9a2d",
+    "sha256": "18gaqs5xzgbqkscidrw5yrz224mxvn11qrd0236w2fysjin9pbyf",
+    "hash": "sha256-zq+bbJTaO8HNEKBlHILdvRIhfvaF5xaZnni934vG6qE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-XENprdjrEB1/poJmTsDlfIpHcbVyIWkgXqc0pAjfY5A=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/sqlmesh.lock",
+    "outputHashes": {}
+  }
+}

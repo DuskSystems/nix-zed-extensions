@@ -1,13 +1,13 @@
 {
   "name": "basher",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "src": {
     "url": "https://github.com/zed-extensions/bash",
-    "rev": "072c22de93e49744b653377f55546ca049e81325",
-    "date": "2025-09-26T16:19:33-07:00",
-    "path": "/nix/store/ph3v2yir4sy2l9m1rbfrx06xlimkjxng-bash-072c22d",
-    "sha256": "08fng5kvrl3yfl92hl31z8k5sisnp97ljmkjpk0lbglavq17nb16",
-    "hash": "sha256-Jix7At6KvkXBvHJWSU+6VkddJvphUCgSdX7QvGd51iE=",
+    "rev": "0e119f926f7251afb0eb962225672310103961d9",
+    "date": "2026-02-04T01:03:25+01:00",
+    "path": "/nix/store/az5q0k4fizsab37aifcd4ngxrhvlb3b2-bash-0e119f9",
+    "sha256": "1rb0a9mljlwxx563kkvi6sj0lg3nmycfl33mlksrrikh8zja4qiw",
+    "hash": "sha256-PGKi5Edwxpz1pHUM6pivdjwKpDZxzzlM6Z1TSWtSYOU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-T7QVTHu25ky0PYjvdZMd0kGnQ/3LsmGyNwI11CvrPN0="
+  "cargoHash": "sha256-wVnln54cm+g7lxHkQipbk5jXgRZ48mEXcBRtTxJAYmc="
 }

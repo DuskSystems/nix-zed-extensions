@@ -1,0 +1,19 @@
+{
+  "name": "keepcalm",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/sgmonda/keepcalm-zed",
+    "rev": "f0713c6b1b98f76b1aaffbd4d1f928cdddf069af",
+    "date": "2026-02-04T08:25:13+01:00",
+    "path": "/nix/store/a3ybxsqb6sds2ah1nzqch60ar9i1z99m-keepcalm-zed-f0713c6",
+    "sha256": "1xlq0xmh79h3dvrzw3m91f22sb9np382vmy50zv01r9qmcp01pr7",
+    "hash": "sha256-J98ALqs45QD2B8XXLdC4Ni0thAupDv7zbgOmA2sHmPY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

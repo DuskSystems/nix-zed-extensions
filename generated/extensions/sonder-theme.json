@@ -1,0 +1,19 @@
+{
+  "name": "sonder-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jmg-duarte/sonder-zed",
+    "rev": "efd5fbb3e729a3035eae2135455bafe07bccd050",
+    "date": "2026-02-04T09:17:04Z",
+    "path": "/nix/store/mg3cw2vyvxss13d7kr0lrxcnhkwlqxb7-sonder-zed-efd5fbb",
+    "sha256": "1b6xw8xagz9130pm68ynjf3314j3byswq6f5k2lxh3nawi2rm8ys",
+    "hash": "sha256-2qOaReTKDtipmMUZzLVfQ5IwhpPWI1MvGCH9pzri3aw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
