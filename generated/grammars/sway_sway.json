@@ -1,0 +1,18 @@
+{
+  "id": "sway_sway",
+  "name": "sway",
+  "version": "master",
+  "src": {
+    "url": "https://github.com/FuelLabs/tree-sitter-sway",
+    "rev": "9b7845ce06ecb38b040c3940970b4fd0adc331d1",
+    "date": "2025-09-02T16:22:14+10:00",
+    "path": "/nix/store/vpn64dkgm8ga887jhd3cp2gzw13n8qz9-tree-sitter-sway",
+    "sha256": "11lff0pjs5999w1mbyqr1gvhpbdqmfcqz0njimjv2vshw7h7057q",
+    "hash": "sha256-+BRw4OFQb7FljdKCj5mruK0L9wsZ+1UDTykVLS9wjoY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

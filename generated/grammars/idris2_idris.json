@@ -1,0 +1,18 @@
+{
+  "id": "idris2_idris",
+  "name": "idris",
+  "version": "c56a25cf57c68ff929356db25505c1cc4c7820f6",
+  "src": {
+    "url": "https://github.com/kayhide/tree-sitter-idris",
+    "rev": "c56a25cf57c68ff929356db25505c1cc4c7820f6",
+    "date": "2024-11-05T18:17:08+07:00",
+    "path": "/nix/store/rk6xraryx508hl3kn5ffz20a3sgzl387-tree-sitter-idris-c56a25c",
+    "sha256": "1nd8flcmkknhg01l4l50i6y1haqkn3qhxj3z6ljjr1d389pk3q38",
+    "hash": "sha256-aOAxb0KjhSwlNX/IDvGwEysYvImgUEIDeNDOWRl1qNk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

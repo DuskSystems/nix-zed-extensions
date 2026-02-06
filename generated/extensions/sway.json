@@ -1,0 +1,27 @@
+{
+  "name": "sway",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/FuelLabs/sway-zed-extension",
+    "rev": "e062765059564e0c71f6f05c5f2c17e9584ffb47",
+    "date": "2025-09-03T10:30:58+10:00",
+    "path": "/nix/store/c4qsdidflv66j2kksr13z7ri98r7yi27-sway-zed-extension-e062765",
+    "sha256": "02fq6l2cr7dy6dwpb0kjnk52sgwhd3fjaq7ky3gyjdciml7138vf",
+    "hash": "sha256-bqMRDq2RNenf8PNgJd1okD8tyrRygnV5M76dzAQ12Ak=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "sway_sway"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-e0vvPVFOPtOoPfl+xFIop13nKEuqq0tTGz0T5GrRVe0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/sway.lock",
+    "outputHashes": {}
+  }
+}

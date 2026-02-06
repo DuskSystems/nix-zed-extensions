@@ -1,0 +1,23 @@
+{
+  "name": "idris2",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dylanbraithwaite/zed-idris2-lsp",
+    "rev": "b97395e759fcbb3cb4d91f45a5f3f913dbdfe950",
+    "date": "2026-02-02T23:21:36Z",
+    "path": "/nix/store/y9fb15gwf16bjcmhbr1fm2lhbg9z7r76-zed-idris2-lsp-b97395e",
+    "sha256": "0lhz9fa4qb51r8kr9ymczwfy1wkymimih1zlp95zcv78xy9057yx",
+    "hash": "sha256-3Z8Cku/obPZLuvQHGGusfvLgHf+s+pQnyqEsTJRLH1I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "idris2_idris"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pum0q/YpgcN039SulgU4J25lxl32ZX3DktHbXrQJvi0="
+}
