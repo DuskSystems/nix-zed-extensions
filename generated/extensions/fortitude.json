@@ -1,0 +1,21 @@
+{
+  "name": "fortitude",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jhelgert/zed-fortitude",
+    "rev": "f59132d0f0d7506a528aefba027286c3a570e5cb",
+    "date": "2025-12-21T13:55:35+01:00",
+    "path": "/nix/store/6nx0x3lqzh0kpfmapvzwdqrl9dfyginb-zed-fortitude-f59132d",
+    "sha256": "1k415dq0c57zj579mab2b8iwrim7lb0li2n6cmg15v0i90k8ihy9",
+    "hash": "sha256-ycOIJkgR7BJeZcaKSMGip8bMI1piqZpOkf8UBnArgcw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pkDwRdEqj3pkXaC/tEIF832zetdbQ+F+b0dmneO1Y0Y="
+}
