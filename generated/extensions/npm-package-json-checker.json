@@ -1,13 +1,13 @@
 {
   "name": "npm-package-json-checker",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "src": {
     "url": "https://github.com/e-simpson/zed-npm-update-checker",
-    "rev": "0b6b4bcf3e3f1670ae06656feb63d7d39cbaef42",
-    "date": "2026-01-31T15:56:13+01:00",
-    "path": "/nix/store/55yckznvfpi31r1kpv3nzah465a7ychk-zed-npm-update-checker-0b6b4bc",
-    "sha256": "04clgm4fm71ymg2zhrgp71793vwa756lzshlvaw0h3bnv0sjws9k",
-    "hash": "sha256-M2kuNdh2DQi42hTqT005iu+RTjj3ZfjFqz6c6kh9lBE=",
+    "rev": "271df146008769d94bc3e70f32eda2a689b09906",
+    "date": "2026-02-08T06:11:26-05:00",
+    "path": "/nix/store/ybp8h6pyxxvgkcv10f43g01iadx9nfgn-zed-npm-update-checker-271df14",
+    "sha256": "1frif6dq77js8s20vxjg4wyik0lswmqpl9h1cvh432vpv96xm3kc",
+    "hash": "sha256-bI7aTdp3i0HgZgEmenHlmoIZPSdP9g2ERlqeg5txMbs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-umHX2pzNUEoJhCVr+M7/XjKTU0dektbF+I/rWIFIb7M=",
+  "cargoHash": "sha256-/fxNBUMTKiNorzOUBQriBkNndWo2Gwa+C9S4xHqRaMU=",
   "cargoLock": {
     "lockFile": "/generated/extensions/npm-package-json-checker.lock",
     "outputHashes": {}

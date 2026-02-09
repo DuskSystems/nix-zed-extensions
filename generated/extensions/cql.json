@@ -1,13 +1,13 @@
 {
   "name": "cql",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "src": {
     "url": "https://github.com/Akzestia/zed-cql",
-    "rev": "219d29e77cac2bd67ab34f2a2bc565e7cdb3f367",
-    "date": "2026-01-19T20:18:06+09:00",
-    "path": "/nix/store/n0snsflr955ilfxmv1f04hb9axm23wlz-zed-cql-219d29e",
-    "sha256": "05aga9a2xfbgm80ps2qvbl8ln3zbpdr9nq3fmd2s7pi8gdwb4b4q",
-    "hash": "sha256-mCyyeHso3qNFq25gm3K76w9LEV0bC30Bqm+5LlRSTxU=",
+    "rev": "06ea8dda05dfb758c0df57cbd1313128477c771c",
+    "date": "2026-01-29T20:48:55+09:00",
+    "path": "/nix/store/rdxcy6iszyixsdlrxqxaxkkqns7dg2qx-zed-cql-06ea8dd",
+    "sha256": "044myrc4x53lhdmswmiz9gks0chzm9jzmd222lg2h4icmin7nh00",
+    "hash": "sha256-AEB7bKwsEigeFUK0+mWqHzKg50s/Vq5rg3SUTlj2lRA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-4PRhE5vTF+Or3RvGF56Ulbyxn/rARUE1H0lFtMCWqRQ="
+  "cargoHash": "sha256-hmJJiTvXIITPO8W0vasHOxHqcKa9ZuQGw7Y5SuYgG+8="
 }

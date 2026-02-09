@@ -1,0 +1,19 @@
+{
+  "name": "tiniri",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/vladstudio/tiniri-zed",
+    "rev": "352fc8bb2dbefa0535ffa14a0f808171d2dd768d",
+    "date": "2026-02-07T09:55:10+04:00",
+    "path": "/nix/store/nwm8avp4zjqd9gsydsnfprfc6i28x78f-tiniri-zed-352fc8b",
+    "sha256": "1v8zvr5r79a8dgakv45201j1bs3mgzj3zjdcnpj5i99lnhg3rp5c",
+    "hash": "sha256-rNw8HrQ0pVjktazJP+R/degVZACikD3Va0ilk0veH+0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
