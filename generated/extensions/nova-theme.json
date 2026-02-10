@@ -1,0 +1,19 @@
+{
+  "name": "nova-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/overstarry/zed-nova",
+    "rev": "b0b24247c8f073e439c0add9f0623eb9dbb8130f",
+    "date": "2026-02-05T21:01:39+08:00",
+    "path": "/nix/store/65dh475zzj0g036g4rq3d8v5jzb4biva-zed-nova-b0b2424",
+    "sha256": "1l8wy2myd28i8gpd07pn1pk7z7vdk5mqcf18q704y5lls8rhb0a5",
+    "hash": "sha256-RYEFM9KUFk/AwSg4hmuZbZ9/5g32HtDuQxGJ5qvwHNE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

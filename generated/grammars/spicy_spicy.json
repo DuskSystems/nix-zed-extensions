@@ -1,0 +1,18 @@
+{
+  "id": "spicy_spicy",
+  "name": "spicy",
+  "version": "85150dfaf0eb247d912f3beaa2b0fa1cca063dab",
+  "src": {
+    "url": "https://github.com/bbannier/tree-sitter-spicy",
+    "rev": "85150dfaf0eb247d912f3beaa2b0fa1cca063dab",
+    "date": "2026-02-02T13:04:22+01:00",
+    "path": "/nix/store/apdkb2ha7rv8mdj1rznnpxk1ld1jwb3h-tree-sitter-spicy-85150df",
+    "sha256": "14096h8vsz0xbgmciz33grxb2ysn62f7vcazirssbpbsw5bhmfv0",
+    "hash": "sha256-YLsKV+F63aV1jl+xfZwwVnuxen5j/MjqWx18vRE0CZA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

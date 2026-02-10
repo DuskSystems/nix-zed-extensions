@@ -1,0 +1,18 @@
+{
+  "id": "hp42s_hp42s",
+  "name": "hp42s",
+  "version": "main",
+  "src": {
+    "url": "https://codeberg.org/brechanbech/tree-sitter-hp42s",
+    "rev": "ac4e84f0f90b42f1af8a55b6cd448f851f8c0d3a",
+    "date": "2026-02-09T07:32:32-06:00",
+    "path": "/nix/store/19csip77q25d916dzi6dyxpzkqdby66w-tree-sitter-hp42s",
+    "sha256": "0kll4d271kkzlcb7bvaq0pyiqxcjj189qdr0hfd4x8qcr16s1kyr",
+    "hash": "sha256-2c+gTcgMo06agyA3nFCQknUc/QVY7XUWo3/OcEQjlE4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dang_dang",
+  "name": "dang",
+  "version": "7a2abd2cf5119ed4ceb5854f111b607f2b1eb336",
+  "src": {
+    "url": "https://github.com/vito/dang",
+    "rev": "7a2abd2cf5119ed4ceb5854f111b607f2b1eb336",
+    "date": "2026-02-08T18:27:08-05:00",
+    "path": "/nix/store/zpvkk9l7wcpbc78f83867vjw1l259wf9-dang-7a2abd2",
+    "sha256": "1wgsfjbz169n8cldx9csbbnm1scdsgk2xrpsx3h713cl0s4gyhnb",
+    "hash": "sha256-y0L/iAaUjXDg6PrmLubTjelQ7Vqapd4oQzaZ8Jd0+vE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "treesitter"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "dang",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://codeberg.org/vito/zed-dang",
+    "rev": "f072d501255d96923dd679d376d1f8c2ccabdeaa",
+    "date": "2026-02-08T18:27:29-05:00",
+    "path": "/nix/store/bswyv5kpyb55b5nypjsr1s1zfxa8wmqa-zed-dang-f072d50",
+    "sha256": "1wky3k1mgf6zy6nfqa7l4lna1g7g7yv9j74grcmn6c710myf0y5m",
+    "hash": "sha256-tXjgfAXhMGMry48cmbY/77ygLCX0KOys8d+4V8McfvI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dang_dang"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wvuuzfYD5Xi2ycFDm3GmR3izSZUZxmD5Z8R7phOrAMA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/dang.lock",
+    "outputHashes": {}
+  }
+}

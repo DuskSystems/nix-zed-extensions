@@ -1,0 +1,21 @@
+{
+  "name": "hexpeek",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/A-23187/zed-hexpeek",
+    "rev": "561faff3390c0b4d851075682c9c0a8294783355",
+    "date": "2026-02-06T23:27:50+08:00",
+    "path": "/nix/store/56j9y2y22qybl56qkz048i0a7dnj0mx2-zed-hexpeek-561faff",
+    "sha256": "14z96qsac77yhvzjqdzp31ilvz3220szxvlnknz85zvak2kbbhyp",
+    "hash": "sha256-18O1pphq/4K+nZbu/jUQYvxNYxj3Nyz/hv4cpjQ26ZM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-uixxyILmuWdWRxJgeAdeC5j6K5y10AuKHzikHkrx3Rc="
+}
