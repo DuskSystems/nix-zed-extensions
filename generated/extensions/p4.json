@@ -1,0 +1,21 @@
+{
+  "name": "p4",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/gaetschwartz/zed-p4",
+    "rev": "67e62de644ff4d17a2347648d4216a40055dd96c",
+    "date": "2026-02-06T23:41:03+01:00",
+    "path": "/nix/store/8b0ylwsm7z4b4k7hr4n8yv65g55misfh-zed-p4-67e62de",
+    "sha256": "1y60fbnwg283afm4z27z5k577fix3fnxp281671rkhznx6qr81w4",
+    "hash": "sha256-hAeUsen2w5nDMQGJ260bPbpzyiz/iE+qUwOJx+1ywPg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "p4_p4"
+  ],
+  "kind": "plain"
+}

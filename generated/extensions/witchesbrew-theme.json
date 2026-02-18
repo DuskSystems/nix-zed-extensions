@@ -1,0 +1,19 @@
+{
+  "name": "witchesbrew-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/shoenot/witchesbrew.zed",
+    "rev": "732f17b8bb822db7034401f99131a1887113f549",
+    "date": "2026-02-17T10:20:37+06:00",
+    "path": "/nix/store/r1aqfabvs4h5avi8rs83wm3y766rw3zb-witchesbrew.zed-732f17b",
+    "sha256": "1m3qkf6sv2ajrjc771lrvybcpi3ilgh6dax5kbk34mzpqkfm1y7w",
+    "hash": "sha256-/PhQ3cT3VzLmmqWrZuCjccTLlt+ZhnOYzFKJrY2beNQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

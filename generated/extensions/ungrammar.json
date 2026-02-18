@@ -1,0 +1,27 @@
+{
+  "name": "ungrammar",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/b4d8/zed-ungrammar",
+    "rev": "38ceb7fcf9f797a47d8a8956a79a5df9d8ec31c8",
+    "date": "2026-02-14T13:37:54+01:00",
+    "path": "/nix/store/g2sdkj98h57p7dyrvdjax8f74g57vfz8-zed-ungrammar-38ceb7f",
+    "sha256": "1v2bxld6wah3pv80wc414pvghagp3g1w0d7h2794iywihnk1abar",
+    "hash": "sha256-WS0VpoWR+0jSEfA0wMMb9yn49iWBMA7QvgMqbhrtS+w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ungrammar_ungrammar"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-tkauMf3LZ4PoZqP4m58YuqDpXdF5hk7EO9RPVstbZvY=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/ungrammar.lock",
+    "outputHashes": {}
+  }
+}

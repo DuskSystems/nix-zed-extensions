@@ -1,13 +1,13 @@
 {
   "name": "ruby",
-  "version": "0.16.5",
+  "version": "0.16.7",
   "src": {
     "url": "https://github.com/zed-extensions/ruby",
-    "rev": "e17a0a3888f4ee128f2354cc43b3d1c1ce0c4eeb",
-    "date": "2026-01-24T09:34:42+01:00",
-    "path": "/nix/store/lvv5qvjjjmhz2xpvr0m8zvwc04zqf7i7-ruby-e17a0a3",
-    "sha256": "13na94lxygxz0ln2klsbazjpsfwhd380jmha7dd71k4fhb9gmpp2",
-    "hash": "sha256-4t760oKOzHBaOwpWCdBokDt95VdL0yksBb8/3ylJyo4=",
+    "rev": "4485d0a024e1bad600ee73f39a4a1ffd1983c9e6",
+    "date": "2026-02-15T17:12:48+01:00",
+    "path": "/nix/store/f22v2jji5xnfb91nk4j1lp5w2yz360wb-ruby-4485d0a",
+    "sha256": "1d4c99jvglnvzqmnjjvlmrim02slzwcry7l97n9d6rmygxav5ixr",
+    "hash": "sha256-uceyVX++ZtOSPYkenxn/VAtQY650S2kr/tvSt2VKjLQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -21,5 +21,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-L2RtkcBNG6M1JHFj1XqtC3REZbKUgr/UVQL/CCp2FAA="
+  "cargoHash": "sha256-o2DuIvNeEQfVOUKbm47Z3Fz+6aBwPCOyKGIohagyMcE="
 }

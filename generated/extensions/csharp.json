@@ -1,13 +1,13 @@
 {
   "name": "csharp",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "src": {
     "url": "https://github.com/zed-extensions/csharp",
-    "rev": "2149a11a8c50b539270c284ab8ff6ddd4709f472",
-    "date": "2026-01-26T12:40:44+01:00",
-    "path": "/nix/store/6p5fqi8drbmn9xpm1b4igc7387c5f59z-csharp-2149a11",
-    "sha256": "0ms0x2vq98vzk9q8f3arr6cam7x2h6ryxpc8mi0la3043l5h4bjl",
-    "hash": "sha256-VC4CCx0EDEVBrIjd7rOBop+qmMlZDYdwmn+jhLfoQFc=",
+    "rev": "7116ea7392ba67d6ca0e1b86cbfbafebdd5d9a75",
+    "date": "2026-02-17T02:36:47-05:00",
+    "path": "/nix/store/yvybc8i6hg1c5pcj81cnqnydq0yzfpf1-csharp-7116ea7",
+    "sha256": "0ip1x0l3rwl2rlihbnnyg1g01l5iq7a217smbgapfq31kcxf51l9",
+    "hash": "sha256-iYbiOpthYHfVW1WfINTBsdAAXnje2gUjzYLyPCjo4UY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-ZQfejpXddHn27S/b3N2EymGl7NnNVY0ZQTqB1hMspTw="
+  "cargoHash": "sha256-X9lHbmFKFPmvrzX+9++43+7b7y2QzB/0lGOak5nLepo="
 }

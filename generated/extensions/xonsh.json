@@ -1,0 +1,23 @@
+{
+  "name": "xonsh",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/oscarvarto/zed-xonsh",
+    "rev": "ca5030ffcf4feb8fc7625838e2def93abfeccf7b",
+    "date": "2026-02-10T05:08:58-06:00",
+    "path": "/nix/store/r6raf17q5k39jgrh1x1gdgy8mlj9ql71-zed-xonsh-ca5030f",
+    "sha256": "1vygy5cm2jlq4di8cxkcly219cw8wl45r2197hxdhid88fpx6lc4",
+    "hash": "sha256-hFHTr0OoRdg6PCmIXAjliLMUhKdsdoZiI5hKUVnxz+8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "xonsh_xonsh"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-hstX62PdMhTJGsd6ge/kj9M256gmpQ8H+wnC4J2TKys="
+}

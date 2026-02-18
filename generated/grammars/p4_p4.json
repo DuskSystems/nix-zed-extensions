@@ -1,0 +1,18 @@
+{
+  "id": "p4_p4",
+  "name": "p4",
+  "version": "ec27f5123d4f80ced59302820bec3e212794132f",
+  "src": {
+    "url": "https://github.com/oxidecomputer/tree-sitter-p4",
+    "rev": "ec27f5123d4f80ced59302820bec3e212794132f",
+    "date": "2025-04-23T16:24:40-04:00",
+    "path": "/nix/store/cbadx4mx9j8nm5x1vx3730i0w9m17x55-tree-sitter-p4-ec27f51",
+    "sha256": "08ssj47f0lyr5b53jyn3m1af31aarmy33l2q9izr527fk6mwjndz",
+    "hash": "sha256-v1nJq5nuiJJ/TFjQMXzNSoXhVKjDejnKKtlT4A6RWiM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

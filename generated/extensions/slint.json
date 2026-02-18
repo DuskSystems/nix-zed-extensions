@@ -1,13 +1,13 @@
 {
   "name": "slint",
-  "version": "1.15.0",
+  "version": "1.15.1",
   "src": {
     "url": "https://github.com/slint-ui/slint",
-    "rev": "1cbf604a616034dad35c895ed6e756b3c868f03d",
-    "date": "2026-02-04T16:38:17+01:00",
-    "path": "/nix/store/d48f15lvl6l3zbzy8kqnjbwvzldqn2hy-slint-1cbf604",
-    "sha256": "0zmhwcsl5fg15np8r03szmylq5b2szkrfjjpjqd7b423w9cb3six",
-    "hash": "sha256-PeqxWOJDkHUalldKl+fXYhVMff16gIyuLeG5QjXjsH4=",
+    "rev": "e5754fc1c0e7e1ba4933ec0611afe076955a8791",
+    "date": "2026-02-12T12:56:09+01:00",
+    "path": "/nix/store/acwq1wwhwjq5730dxydkmq1h6k9vcxrg-slint-e5754fc",
+    "sha256": "1fm4ghd6x0sr2bsk8ccnqwrzg44fx490wipd6r9amgkq0ccr1gij",
+    "hash": "sha256-Mr6QGQN4vqpSNu1GDhLpjpD3M8eWMTT1ElmDbhp8pLo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-3PdyfjKBbMUbBGKeEta7vjCzd8mWCVzfSjOxUpejvhE="
+  "cargoHash": "sha256-5cOfsZkGHF8LLr4sjVzAYpLOq8zrghgGcBS2Q2r8oo8="
 }

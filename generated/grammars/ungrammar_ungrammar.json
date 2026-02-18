@@ -1,0 +1,18 @@
+{
+  "id": "ungrammar_ungrammar",
+  "name": "ungrammar",
+  "version": "debd26fed283d80456ebafa33a06957b0c52e451",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-ungrammar",
+    "rev": "debd26fed283d80456ebafa33a06957b0c52e451",
+    "date": "2023-02-27T19:08:34-05:00",
+    "path": "/nix/store/x7c9rhw51j70d6057sf0ij7y0hyki88m-tree-sitter-ungrammar-debd26f",
+    "sha256": "09bbml1v1m6a9s9y9q1p2264ghf3fhb6kca1vj3qm19yq87xrnvy",
+    "hash": "sha256-ftvcD8I+hYqH3EGxaRZ0w8FHjBA34OSTTsrUsAOtayU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "xonsh_xonsh",
+  "name": "xonsh",
+  "version": "5c94a94909011f17fc22d045f8b94eb26ad7a152",
+  "src": {
+    "url": "https://github.com/oscarvarto/xonsh-tree-sitter",
+    "rev": "5c94a94909011f17fc22d045f8b94eb26ad7a152",
+    "date": "2026-02-09T14:10:25-06:00",
+    "path": "/nix/store/xgi879ni6212d2syli0g29hc67pln6dm-xonsh-tree-sitter-5c94a94",
+    "sha256": "0av669k8j8bb6s9mq7v7290x28vn46ywmyxy8mylqcq8g5blf1v4",
+    "hash": "sha256-ZAdHV3kIM0x9Rb77yr0hdiPRQRJnH1yTNmshiWYyZis=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

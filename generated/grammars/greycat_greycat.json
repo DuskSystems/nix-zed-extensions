@@ -1,0 +1,18 @@
+{
+  "id": "greycat_greycat",
+  "name": "greycat",
+  "version": "8427de2152f682d30d230fcfb6d9915db1be4a7b",
+  "src": {
+    "url": "https://github.com/maxleiko/tree-sitter-greycat",
+    "rev": "8427de2152f682d30d230fcfb6d9915db1be4a7b",
+    "date": "2026-02-17T11:58:33+01:00",
+    "path": "/nix/store/zqr1wq77hvfyxzans5xkh9gv5p2438j2-tree-sitter-greycat-8427de2",
+    "sha256": "0qf2pjgwjigg5jpb6srsj0km25ra17bndn4j36bkbpx53110z7y7",
+    "hash": "sha256-x58PQhil3zWXGZLYZtcJKhdRJ5A6a7OuLO9FyZ+8wmE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
