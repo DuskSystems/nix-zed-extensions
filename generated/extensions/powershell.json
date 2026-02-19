@@ -1,13 +1,13 @@
 {
   "name": "powershell",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "src": {
     "url": "https://github.com/zed-extensions/powershell",
-    "rev": "38c9bc71d1ec7706b778a4c89cf604b6949c03bc",
-    "date": "2025-12-30T16:08:17Z",
-    "path": "/nix/store/71jgd2qm6h55c65gkiwrwmyy0sbnd0jb-powershell-38c9bc7",
-    "sha256": "1blwbif6rxs3zl4s7mx1axhfa4db7whsbm8r5d0db6r25f6y899c",
-    "hash": "sha256-LCXkjSsim9VAKxnVpSE/qxHlYFeh16MJ/UP3bFxcnK4=",
+    "rev": "e831276a686b442f6946bc2888628c1d4382706b",
+    "date": "2026-02-18T13:29:53Z",
+    "path": "/nix/store/mpib4lvp43ali26hg4zhq804nr5n9b33-powershell-e831276",
+    "sha256": "099p82fk855y7xn6z91fjryh3r5x0ma93gwld3j5s365h567cfgv",
+    "hash": "sha256-+zl2TIHFDF3kaJS/kVQFveQBfZYupG9sP74UNJ1ANyU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-D16zBedAPwaeHnxCsgDSjeRTc4SvcdsThU4TFBiqbmA="
+  "cargoHash": "sha256-fXIPK7ONtFIqLun4D802SrVRZpCKhC1WTILDGcUotSI="
 }

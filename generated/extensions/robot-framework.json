@@ -1,0 +1,21 @@
+{
+  "name": "robot-framework",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mendes-jose/zed-robot",
+    "rev": "ea57f6b96aa5812e9209d154a0a5ca7c1c988706",
+    "date": "2026-02-18T08:41:48-03:00",
+    "path": "/nix/store/qvjjp77b38shj6ksprv7yrxgr1drscas-zed-robot-ea57f6b",
+    "sha256": "18v4zhgjva5gici6ia0anvwkb9jd95bk1m4h27sjx93ir16gqfl5",
+    "hash": "sha256-hTr8TMhxpC71EZDUMFdJTaY1+bYKqGgii6+oLR/8ZKM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "robot-framework_robot"
+  ],
+  "kind": "plain"
+}

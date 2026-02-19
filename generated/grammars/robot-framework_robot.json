@@ -1,0 +1,18 @@
+{
+  "id": "robot-framework_robot",
+  "name": "robot",
+  "version": "e34def7cb0d8a66a59ec5057fe17bb4e6b17b56a",
+  "src": {
+    "url": "https://github.com/Hubro/tree-sitter-robot",
+    "rev": "e34def7cb0d8a66a59ec5057fe17bb4e6b17b56a",
+    "date": "2025-05-01T14:09:01+02:00",
+    "path": "/nix/store/ixkbnv73csirmlr7d2zy89a59pciagnm-tree-sitter-robot-e34def7",
+    "sha256": "0782rmxa12iw6id2lc123l3awg16cnc5m60xpsi9zn996kjphdbx",
+    "hash": "sha256-fTV45TQp2Z+ivh2YWphlJjyuBh0iMCpaNDyKoHrNAh0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

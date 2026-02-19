@@ -1,0 +1,18 @@
+{
+  "id": "mach_mach",
+  "name": "mach",
+  "version": "bbfae43619b361c33b77311477151cab7218b06d",
+  "src": {
+    "url": "https://github.com/octalide/mach-tree-sitter",
+    "rev": "bbfae43619b361c33b77311477151cab7218b06d",
+    "date": "2026-02-11T18:10:30Z",
+    "path": "/nix/store/hfibww6mvhd3kvvx4iabag2zyc3j34fq-mach-tree-sitter-bbfae43",
+    "sha256": "1apvyg3ilvhf1hgdhk83if48x52ax0mxw2jmsl6s7rw65z8iz0vm",
+    "hash": "sha256-dYMf0S+G56MN1VUK3ivoSpSOiIsDTdgeDA5uGsfz+6o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

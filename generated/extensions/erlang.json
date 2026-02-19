@@ -1,13 +1,13 @@
 {
   "name": "erlang",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/zed-extensions/erlang",
-    "rev": "17de68f7e12f8f1857920975ebe19022a3b155ad",
-    "date": "2026-02-02T21:00:56Z",
-    "path": "/nix/store/krckz6hl8flmdjn6y23rj3bj62pbf4c5-erlang-17de68f",
-    "sha256": "1x60mpnjq5k3f79vpknfr4hqw67jaxrbmma8gbr85kaph36q4s64",
-    "hash": "sha256-xGiCzYBXzYLyekjVunJX8hiOIcnOzrvTcWMWLO2twPQ=",
+    "rev": "58fbbcd4fec78a757c88c8264c24ccf91440d472",
+    "date": "2026-02-18T13:36:30Z",
+    "path": "/nix/store/3r4025vs6331c7b10swawn1annj4swck-erlang-58fbbcd",
+    "sha256": "1qhbjrvmmch5gawn0zcns7sbgdvd7kwvclh3xb5wxwk39glly8hr",
+    "hash": "sha256-GSJP6Utj8s7L6gNStvk8bbe39NGWfWC5egWyWneWC+I=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-/6P1+0hPdbjTOP/odWruqHjWgsP9uXCKBscUer+v0xc="
+  "cargoHash": "sha256-TL1/05710uuI5/ofeF4OetwnVPNUDDo7UtQ+uxN124A="
 }
