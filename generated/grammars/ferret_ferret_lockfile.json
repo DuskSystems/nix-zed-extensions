@@ -1,0 +1,18 @@
+{
+  "id": "ferret_ferret_lockfile",
+  "name": "ferret_lockfile",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/Ferret-Language/tree-sitter-ferret-lockfile",
+    "rev": "079eb6893fa63bc1374f0568729012da529ac533",
+    "date": "2026-02-10T12:48:53+06:00",
+    "path": "/nix/store/z4avmifp2qcg84v11qz1jjazbg8zp1pk-tree-sitter-ferret-lockfile",
+    "sha256": "10vcpj29vlqbysryl61zwqvrkh0lp60bhr4bh0395mll9vvicasd",
+    "hash": "sha256-TSsW906U1pIGgItkuIC5FMCZN+Y/GOqz9gvTnYS8bIM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

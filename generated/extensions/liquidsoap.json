@@ -1,0 +1,21 @@
+{
+  "name": "liquidsoap",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LooFifteen/liquidsoap-zed",
+    "rev": "43b5075e5dba06cb5b97343708c5226d230d8d04",
+    "date": "2026-02-20T15:20:46Z",
+    "path": "/nix/store/ri0bfw9mi7kf23f5lx6bwm1ywl8s4rsc-liquidsoap-zed-43b5075",
+    "sha256": "1zs569xn4zn7zayqbam9w99vpaxjpsklb7ng0jd15cdhc02rmr1m",
+    "hash": "sha256-NeSaBWCwsRKaBM+eRae+squ7U+KpqoW9+sd+YnsyRf8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "liquidsoap_liquidsoap"
+  ],
+  "kind": "plain"
+}

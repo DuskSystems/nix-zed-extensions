@@ -1,0 +1,19 @@
+{
+  "name": "blk-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/leetdavid/blk-zed",
+    "rev": "aa82e41bf0260d04f09efc8f14cb796d98a373bf",
+    "date": "2026-02-21T21:56:27+09:00",
+    "path": "/nix/store/bh8xzdmg67x69k5fay5j689zvqg16nqk-blk-zed-aa82e41",
+    "sha256": "1sr89bnd8ins10jfici0lqm53ghrkgbfh4245h7bry811vs0d45d",
+    "hash": "sha256-rZAG9A4B+bwOLEQQ6NabGb5RKqYgsugkCNpG1OxKKOs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ferret_ferret_manifest",
+  "name": "ferret_manifest",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/Ferret-Language/tree-sitter-ferret-manifest",
+    "rev": "38c5e70771ee2ed4d65d891945e291fe6568fcf2",
+    "date": "2026-02-10T12:48:50+06:00",
+    "path": "/nix/store/65r3i4mbf8vz6aa7bc77wjg7rg403pzr-tree-sitter-ferret-manifest",
+    "sha256": "19wqa771x9gdrhc5azj5lapms293m9jb92r0xgzijb9p89ngycma",
+    "hash": "sha256-qjL/bEI3LRn/6yCLtGSqIwldr6JFflUYzO2lHs5RmKc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

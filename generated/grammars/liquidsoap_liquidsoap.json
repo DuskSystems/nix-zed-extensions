@@ -1,0 +1,18 @@
+{
+  "id": "liquidsoap_liquidsoap",
+  "name": "liquidsoap",
+  "version": "d092c65598e940564e12214ff7c2097528cfa159",
+  "src": {
+    "url": "https://github.com/savonet/tree-sitter-liquidsoap",
+    "rev": "d092c65598e940564e12214ff7c2097528cfa159",
+    "date": "2026-01-12T21:34:39-06:00",
+    "path": "/nix/store/99dnj6gqydlqxxnbq223krbs60a494g1-tree-sitter-liquidsoap-d092c65",
+    "sha256": "0gvsql269f64kjb4j40ndwypwy4539dw5bk569fmkd4rg2f90zmv",
+    "hash": "sha256-u36QnHiZtFldMmWuwlsahXh+PW8WEEmWnMS4ZATFej8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
