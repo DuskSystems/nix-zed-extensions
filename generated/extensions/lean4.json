@@ -1,13 +1,13 @@
 {
   "name": "lean4",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "src": {
     "url": "https://github.com/blackbird314/zed-lean4",
-    "rev": "727524811125f2cb6742151b0e0b5e923cd5ad43",
-    "date": "2025-07-26T06:29:01+08:00",
-    "path": "/nix/store/qy7ifj96cvg3vgx67xxfgd59yqrc49nk-zed-lean4-7275248",
-    "sha256": "1v5pv0s2ccsqlq0fjy3f3ys3ja45qpbvwyj3y08ci6hm7grb3brk",
-    "hash": "sha256-M6+x8jsVmsgQ8EN6vtfFhSg5tB9ueOkAplgzJjTYt+w=",
+    "rev": "22f5e1e3e566a0275c9730f74c16187cfc293af8",
+    "date": "2026-02-22T19:23:56+08:00",
+    "path": "/nix/store/mpgfnvdvbkbzcjvw5l17mh94q1g6izwq-zed-lean4-22f5e1e",
+    "sha256": "0c5aim9s2gf48cpdgp42bx3prwxk46pf5j0hga7qgzp19c2r6jv1",
+    "hash": "sha256-YUuTBUvh/oePehDI4q4hs/N8R1+C3NcuQ8Q9oVONqjA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,9 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-d0CThD2HHS1TmCeeqt/1h347pubEfOAg7Qn8mo94uIo=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/lean4.lock",
-    "outputHashes": {}
-  }
+  "cargoHash": "sha256-11dXZP9Okg4XdaucTTcsyQLC9WrCKrRmc+/jPXK17J8="
 }
