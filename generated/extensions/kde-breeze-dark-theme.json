@@ -1,0 +1,19 @@
+{
+  "name": "kde-breeze-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jovi-j/kde-breeze-dark-zed",
+    "rev": "5752f918d2f5b18b156099ca80e97b4ec67b97e4",
+    "date": "2026-02-24T14:58:52-03:00",
+    "path": "/nix/store/5kr4lnnnhnkvm9azdhh34sbps21412sv-kde-breeze-dark-zed-5752f91",
+    "sha256": "1jvzhc0kdfgwwa49f7j032f2w41kbfsv174dvwrs4v20wb4mg17q",
+    "hash": "sha256-+IRXyeJAbKIz342csLVbMxAunBhAHpeI4vy5NgGDf8s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

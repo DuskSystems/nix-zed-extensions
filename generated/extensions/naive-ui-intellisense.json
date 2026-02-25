@@ -1,0 +1,21 @@
+{
+  "name": "naive-ui-intellisense",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/tu6ge/zed-naive-ui",
+    "rev": "b424a4a2c5ac6da403fafa3531548d266241e346",
+    "date": "2026-02-10T13:58:37+08:00",
+    "path": "/nix/store/qgfxwirc68v5ql89629w2xy6gdxs13ca-zed-naive-ui-b424a4a",
+    "sha256": "12cychh2yzvpjramav22ixdjg2s0vnazr944d15dil9pg3qnhb9l",
+    "hash": "sha256-NC1o8Xg30dhKaISk/JXdQIsnW49CbFVVlnd/LyBknok=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-wFJjFG6L/bHLQ8h2goiYHdapR11rMXzsDNp8xytNpE8="
+}

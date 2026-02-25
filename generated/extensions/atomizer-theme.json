@@ -1,0 +1,19 @@
+{
+  "name": "atomizer-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/riipandi/zed-atomizer-theme",
+    "rev": "1a3e4e2e4ce232fee18cc5a8209f23327c82c0ec",
+    "date": "2026-02-19T07:50:54+07:00",
+    "path": "/nix/store/v74mds045gxrp4jq5bvlk351f97zkg01-zed-atomizer-theme-1a3e4e2",
+    "sha256": "19ssbiy1akjbn23q65i4bbdz6nix152gyzfpj2bvbj4yacjjkbfp",
+    "hash": "sha256-160pJVOeyLWXkNd9/0QJPVrz21okFoOHsEtOFXxcWqc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

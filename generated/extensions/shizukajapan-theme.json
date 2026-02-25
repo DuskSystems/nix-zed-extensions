@@ -1,0 +1,19 @@
+{
+  "name": "shizukajapan-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/BinaryLeo/Shizuka_japan",
+    "rev": "6a245d523b966bde5b9e71141ac444a2b01ac468",
+    "date": "2026-02-20T15:41:22-03:00",
+    "path": "/nix/store/2hbai0p26zr7gki7qprjgnwb2xwlcxya-Shizuka_japan-6a245d5",
+    "sha256": "0ysqgh5kmh2zcjqfrlyvz96jbaab2g33jbc76xxqwfmvnn2a93sw",
+    "hash": "sha256-XI+khLW7Oo57N4ctOcYTS6klTfrb0+ywZF/AOgt8WHs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

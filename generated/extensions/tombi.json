@@ -1,23 +1,21 @@
 {
   "name": "tombi",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/tombi-toml/tombi",
-    "rev": "5c80844d6dff50fbb93c1d2afe1267abff201adf",
-    "date": "2025-10-19T08:16:28+09:00",
-    "path": "/nix/store/71pckw42z3ilp6apn3z89w0aszc04dbd-tombi-5c80844",
-    "sha256": "1mqpx2r40ffgahajk5090903sam3q77sip35pxw5m5096gq01kjl",
-    "hash": "sha256-VM4A8DMJlFp4v2XcqM/Boyo9QAIJlCkVVM85QLLoF9c=",
+    "rev": "1517a938d105bfffd7515011b0844df5305121ea",
+    "date": "2026-02-22T21:40:38+09:00",
+    "path": "/nix/store/v91bwb1syxs33j4h51m992162k8l50hp-tombi-1517a93",
+    "sha256": "16qyi62ibb05i6gc7k0rzxj7ymff7parhy79qkmia362fjay5svl",
+    "hash": "sha256-dOvilXTCDBXrxOl4mNU9zlV/ZP8ZzMOeiQWsFYWJHps=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
   "extensionRoot": "editors/zed",
-  "grammars": [
-    "tombi_toml"
-  ],
+  "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-bj+d03asqABk4RphtCPQoM8E36Hb26yzAhSMIgrg7DI="
+  "cargoHash": "sha256-LrMtaZUFkSroxlxEze6TTTAjWjtb+BTnuXKXkYOjTGg="
 }

@@ -1,0 +1,27 @@
+{
+  "name": "vibescript",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mgomes/zed-vibescript",
+    "rev": "5b358ed3056ec329af6d8fa620c92e9daec184a6",
+    "date": "2026-02-23T22:47:46-05:00",
+    "path": "/nix/store/fs83xv3vb7p0pjpbrxin14ay2zx9vfaq-zed-vibescript-5b358ed",
+    "sha256": "1rrhd2ghnfw9wa5rkddr6p1xpaiy5xj90v26hdbfkxsldc5i5n76",
+    "hash": "sha256-5tgSC2tU9+lWg0ZskGQvPqrbwzW5tZmL4ok7C59oMOc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "vibescript_vibescript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-XV/M+8v8VLy5qb+34BIE/zd38y89Bx6tFqJ2nf/r5r0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/vibescript.lock",
+    "outputHashes": {}
+  }
+}

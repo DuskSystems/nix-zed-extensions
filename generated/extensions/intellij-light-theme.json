@@ -1,0 +1,19 @@
+{
+  "name": "intellij-light-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/chandruscm/intellij-light-theme-zed",
+    "rev": "70c2311a19671b399471066c5e8cf1ab0b504532",
+    "date": "2026-01-24T15:45:06+01:00",
+    "path": "/nix/store/r6552zaah7n2jgvfpgr726f164cr4l38-intellij-light-theme-zed-70c2311",
+    "sha256": "1iw7h9l4ym776xkqw4kk57dqnxlbg1hvpmmn0z0xmgi7mmnh85qs",
+    "hash": "sha256-GhcEba0nvtrBB7bWu2F4i3aL2ylzEo5nN+dUT2iCh8c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

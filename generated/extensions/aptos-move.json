@@ -1,0 +1,27 @@
+{
+  "name": "aptos-move",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/0xbe1/aptos-move-zed-extension",
+    "rev": "5c6029c1a9319230f7048c1c067efd8685706989",
+    "date": "2026-02-13T09:07:49+08:00",
+    "path": "/nix/store/bw3y1rcg0m9k2l3wqz4c92s55whizjf3-aptos-move-zed-extension-5c6029c",
+    "sha256": "1s9qf9xpihsfck3hbiwqfxbd0dlf840x3qdsms7k8358v5n57y0g",
+    "hash": "sha256-D/hTbNmoDDSPrrrh0QFBjjbQVneYxwXHZE7DeHtyOOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "aptos-move_move_on_aptos"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-f2SeI4tEB77b4AZ+U79HtZjKWWQr4UlaQQ6rwzuv1uE=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/aptos-move.lock",
+    "outputHashes": {}
+  }
+}

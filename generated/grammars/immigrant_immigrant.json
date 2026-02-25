@@ -1,0 +1,18 @@
+{
+  "id": "immigrant_immigrant",
+  "name": "immigrant",
+  "version": "81eb0a5accacfdf5846080cac59f56ee5ec41cdf",
+  "src": {
+    "url": "https://github.com/deltarocks/tree-sitter-immigrant.git",
+    "rev": "81eb0a5accacfdf5846080cac59f56ee5ec41cdf",
+    "date": "2026-01-09T20:45:51+01:00",
+    "path": "/nix/store/8ysp23lsyq293vikzjs55ddmxa78i5lb-tree-sitter-immigrant-81eb0a5",
+    "sha256": "16h2dr35297ad5m6chbvq783cdz87h5741050z9j7xa3fh2k8mbd",
+    "hash": "sha256-bVU0BXRD9SPTBwUEcgo86Dc20MF7QWZqaeokUUZuApo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

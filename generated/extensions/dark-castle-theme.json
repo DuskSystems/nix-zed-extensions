@@ -1,0 +1,19 @@
+{
+  "name": "dark-castle-theme",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/malucard/dark-castle-theme-zed",
+    "rev": "b81e148c2d45792bc5ab99557b67129c441a0f5b",
+    "date": "2026-02-23T00:05:35-03:00",
+    "path": "/nix/store/ccp74l9j0xhg5qmw2mdvx2vnrz0bz8ni-dark-castle-theme-zed-b81e148",
+    "sha256": "016k4phivlmcmzvpr28xd19if62zzqnsn2c3cg099fyyxdj2qld4",
+    "hash": "sha256-pFEsZOveu5TAY4MJqy3+XxgXU2gdiXz3r6zSHeEl0wQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

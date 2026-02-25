@@ -1,0 +1,19 @@
+{
+  "name": "mashu-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/exdarku/mashu-zed",
+    "rev": "1dd2fb038727d471ef689432f93957d782c226b0",
+    "date": "2026-02-11T05:15:31+08:00",
+    "path": "/nix/store/r24x8x8c66biiw5sxk5i859sn6amxswv-mashu-zed-1dd2fb0",
+    "sha256": "184cff4cxxq341av6a4b1ra5601p4r2kra70kf858wwsw48ixa3l",
+    "hash": "sha256-dKgeEeGac1SQm+CoPEUmNwBTVA6LKLNVIAP3zohzjKA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

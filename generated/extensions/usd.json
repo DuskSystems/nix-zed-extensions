@@ -1,0 +1,21 @@
+{
+  "name": "usd",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/elkraneo/zed-usd",
+    "rev": "701b5a3afac17a9b6e021ac5426112f12596c2df",
+    "date": "2026-02-16T19:40:14+01:00",
+    "path": "/nix/store/7hzl69rj2mjpqrih8vz09xmfqyxlj5wz-zed-usd-701b5a3",
+    "sha256": "1ac8l3b42kfqmh8m79hi2r39wzplq2p7qsv4f492dsd62nbw20g1",
+    "hash": "sha256-4QHBlxWm6SYScWRrfK7A9H6eRhYRplMRrNhNQdagiKk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "usd_usd"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "zeek",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/0xORB/zeek-zed",
+    "rev": "71dce5fa1b9e2d86c1ee0729fcdb86fbec65d8b8",
+    "date": "2026-02-10T16:40:32-08:00",
+    "path": "/nix/store/lmflnkqxrhygmyv7hmvam9fgfzmcwynx-zeek-zed-71dce5f",
+    "sha256": "0yqwi05vjrsqdwjb39x059qr3h1nxb4rk7lh9xs13m4pxwmc5qib",
+    "hash": "sha256-K+LCKu+X1BF0T5CemcnqNsCRcSqgp7Ekb1hnuQuIHHs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "zeek_zeek"
+  ],
+  "kind": "plain"
+}

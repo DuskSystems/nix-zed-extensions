@@ -1,13 +1,13 @@
 {
   "name": "iwe",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "src": {
     "url": "https://github.com/iwe-org/zed-iwe",
-    "rev": "44454bb8a239ff59ebaac59b4880fa08e19c9730",
-    "date": "2026-02-11T07:05:12-05:00",
-    "path": "/nix/store/j4w529b337a24d82ymiccyw58x4sdjaa-zed-iwe-44454bb",
-    "sha256": "1wjscxvk1d22dmf9vg0ninw7c96kpj8wkvqzdmfw6yyjl57npljv",
-    "hash": "sha256-W9JrT6HSe8NdbR/vyZG80yR2uI0WvJ1cbUK0MHdnWvI=",
+    "rev": "fa2a6395ef6ff847003bd30100298f5fd20f26fb",
+    "date": "2026-02-22T12:09:05-05:00",
+    "path": "/nix/store/v30dkbyficlbi6c8j223m2dgs0l49gga-zed-iwe-fa2a639",
+    "sha256": "09jg1kv69qmxadiv858adi4yr4vi8m9x730hpa208p2ah8jl9dzs",
+    "hash": "sha256-+rdEJYJKXASEuhCM01NFcZPsSWwKFbRjU73iZPYMTyY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-TQERPD5tgZWs6NwOYuok6vPGC1jxmYCcgfXONDaSBJw=",
+  "cargoHash": "sha256-FBkwR6TtjDQWODKV/rk4gk49T6t7DusVwUdbptDzYzI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/iwe.lock",
     "outputHashes": {}

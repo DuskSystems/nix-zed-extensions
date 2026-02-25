@@ -1,0 +1,19 @@
+{
+  "name": "midnight-marina",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Muddyblack/midnight-marina-zed",
+    "rev": "6544aac1ffed7d2c9865304b53b26c4b5b85a192",
+    "date": "2026-02-08T14:08:34+01:00",
+    "path": "/nix/store/3jx3i2pdappi2lay2sk190fx239riw2s-midnight-marina-zed-6544aac",
+    "sha256": "14yqdp9ai7zwkip86b15yw6p6k9gbbbscbv7pgz2br9dfafgzd02",
+    "hash": "sha256-ArT/nHIt5SX+u2cvptdaL01zDfclLINunPyfqNJt2JM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "usd_usd",
+  "name": "usd",
+  "version": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216",
+  "src": {
+    "url": "https://github.com/ColinKennedy/tree-sitter-usd",
+    "rev": "4e0875f724d94d0c2ff36f9b8cb0b12f8b20d216",
+    "date": "2024-04-28T23:14:11-07:00",
+    "path": "/nix/store/pvnxz472c2d3z41ly59gddvpc64krv88-tree-sitter-usd-4e0875f",
+    "sha256": "0cpz4wk8v6v2qvzr23y8d3zkkl2nay91n04pfdc1g0wkb3qad95g",
+    "hash": "sha256-r6Sm8FiTgxdYc5cAG5JXVtA5/2jID5H/xmKbjSYn/zI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

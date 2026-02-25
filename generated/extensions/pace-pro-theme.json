@@ -1,0 +1,19 @@
+{
+  "name": "pace-pro-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/VMachihin/pace-theme-pro",
+    "rev": "5bf91708531e66e5b7e8a8c7b3cd487a32a310a0",
+    "date": "2026-02-21T10:41:43+03:00",
+    "path": "/nix/store/lmsxjfbmb6ybxlfr99qm8s1ynzjs2fds-pace-theme-pro-5bf9170",
+    "sha256": "13chr7pb5qrrxnq93793rbbpgnh9z61894n3z0jqa14hxzkc69dv",
+    "hash": "sha256-uyXD5u+QBIUl+MOShIL5Cdp318ojnZGw7Tnjsu7JkI0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

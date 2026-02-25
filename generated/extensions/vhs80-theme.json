@@ -1,0 +1,19 @@
+{
+  "name": "vhs80-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/tahayvr/vhs80-zed",
+    "rev": "825ad27737cd2b4623ee1eac11517dc3aa901fdb",
+    "date": "2026-02-24T10:55:17-08:00",
+    "path": "/nix/store/srjnc6qc2hmm0gzcvh8w7y1f06lwaz1v-vhs80-zed-825ad27",
+    "sha256": "013w0cdjv16j0syp5cy9sgzp7lnh88v6gaxh8nw54df0vixpsx76",
+    "hash": "sha256-5nR9e9zANVK4RbCrZzZC0NJz/9PJs3K9BtKELRsDfAQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

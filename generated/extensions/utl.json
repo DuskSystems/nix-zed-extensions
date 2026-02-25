@@ -1,0 +1,21 @@
+{
+  "name": "utl",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/JekRock/zed-utl",
+    "rev": "e426da6f18972f2636a7cb466b359ec00673df43",
+    "date": "2026-02-18T16:56:55+02:00",
+    "path": "/nix/store/dsck2k6wpsjnzzc19447pv72b04yh3qw-zed-utl-e426da6",
+    "sha256": "0qywdicc6pqyqgvlzamc7kwfqlj475hp39riyvm13zba38rvbm51",
+    "hash": "sha256-odS1Mxpq/RHq9jGncWE5RFLs+Dysqk/3wx5fw1hs3GM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "utl_utl"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "opaline-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/IgorAlexey/opaline-zed",
+    "rev": "3883d137f1ce616ed3dc72010a79325f8203669a",
+    "date": "2026-02-23T14:26:37-03:00",
+    "path": "/nix/store/vpn177fsib2kg9snkwlhf1kyq4kv06j8-opaline-zed-3883d13",
+    "sha256": "0mmxrg7csrgr0znq12pv4h0nqls15gsppq34ra5668w9kyk4dcbp",
+    "hash": "sha256-d7FGpp+JI2OKymTge/UrQVNsAST7ioDtB/llzc7LvVY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

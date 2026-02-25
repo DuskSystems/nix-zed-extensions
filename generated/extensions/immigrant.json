@@ -1,0 +1,21 @@
+{
+  "name": "immigrant",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/deltarocks/zed-immigrant",
+    "rev": "722f802a6b769b4a2442061590d433adf52a8ec6",
+    "date": "2026-02-24T21:17:39+01:00",
+    "path": "/nix/store/x1laliaiwdfnpgky180fn9m7zm76rgbk-zed-immigrant-722f802",
+    "sha256": "0dy3x5jlnd3fnr7z19gq2djlii5z946pxlaklr3qx3bdgvf7b6dx",
+    "hash": "sha256-vZl13H5tjY5HplPRfg1Jv8RIZRP4pfBPtm40S2Xpwzc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "immigrant_immigrant"
+  ],
+  "kind": "plain"
+}

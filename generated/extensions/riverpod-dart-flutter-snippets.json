@@ -1,0 +1,19 @@
+{
+  "name": "riverpod-dart-flutter-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/OppositeDragon/riverpod-snippets",
+    "rev": "39554fbbeea204c96bb55f1fd29924a6ebae09f3",
+    "date": "2026-02-23T15:29:40-05:00",
+    "path": "/nix/store/r8lpaiz7csy0xlayb0d3rp7i6sl0q6cf-riverpod-snippets-39554fb",
+    "sha256": "0pqx0hwhn6zp3j4n63l6bm1g44kx47ndjcdiip7ifg1k5xk2f8kz",
+    "hash": "sha256-fyInZi8zPBfPjbEx2ewhfRLyQl2GDmOJHPcbCzkEHV8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

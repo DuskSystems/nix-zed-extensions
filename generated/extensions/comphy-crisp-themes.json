@@ -1,0 +1,19 @@
+{
+  "name": "comphy-crisp-themes",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/VatsalSy/comphy-zed-themes",
+    "rev": "827fdb9d1f3e144a6e58be4988f2df8298dccc7e",
+    "date": "2026-02-15T14:47:12Z",
+    "path": "/nix/store/bg8xbdiziyx1zh0ps1b44m3ppwfhnapk-comphy-zed-themes-827fdb9",
+    "sha256": "127952k3g7d1zh70g0mz8achsv38pfxi07j9csvm7c53km1m584h",
+    "hash": "sha256-kKBSQ52jsFO3ZkkeELu7aGwNmUK/ggcO/KGdN6Yo6Yg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

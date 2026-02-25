@@ -1,0 +1,19 @@
+{
+  "name": "deep-ocean-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/axatbhardwaj/deep-ocean-theme",
+    "rev": "60ad61a21b22d7bc020fd82d61c70d6b48fb529d",
+    "date": "2026-02-24T13:31:45+05:30",
+    "path": "/nix/store/c0866ldz9q2a9ikmlqfr830b5p8sccj0-deep-ocean-theme-60ad61a",
+    "sha256": "18s74f86q1c7jxynvzsw59wxw7rr0aj8zqa87b9pdxnv7wjssxcr",
+    "hash": "sha256-mXWtJT/b9nbTOkjhj6QCOR/eeSpc/219l4cFbJAjR6M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

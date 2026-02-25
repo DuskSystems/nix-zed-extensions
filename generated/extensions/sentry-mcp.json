@@ -1,0 +1,21 @@
+{
+  "name": "sentry-mcp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fabric0de/sentry-mcp-server-zed",
+    "rev": "db28fd3165587a6659e666a165254125eb1daed3",
+    "date": "2026-02-22T14:42:29+09:00",
+    "path": "/nix/store/0bbv6hj74brppkssqiyqin1fsff4xkvr-sentry-mcp-server-zed-db28fd3",
+    "sha256": "15n559dgnyhjj6k5sslqp2r3rb6pdnqn8m4hm6rh8f0l5brxakw0",
+    "hash": "sha256-gE/V8yoUOASzqZBUZLFt16w8sriYal2mkRJ6+1oqxZY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-+zoaKmzFnEKntEVBJQEALRa3bjM4vhs7kb5pvJT+wIw="
+}

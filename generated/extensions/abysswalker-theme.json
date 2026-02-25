@@ -1,0 +1,19 @@
+{
+  "name": "abysswalker-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ModusTeam/abysswalker-zed",
+    "rev": "cf423896374ba9fdb9d089becec32b2bad69b54f",
+    "date": "2026-02-23T22:18:10+02:00",
+    "path": "/nix/store/ncfqpa596p41m4m6lpwwr6nqn5rqa8a6-abysswalker-zed-cf42389",
+    "sha256": "187f5pb6lf7gf050g4qfal0kk1n5ry1s65xcw4w3a3n96gy9ibxh",
+    "hash": "sha256-sK+Y/DPJDjU44awXo4PPxYY5AVUOkwcKcO84atYt7qA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

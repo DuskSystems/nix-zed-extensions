@@ -1,0 +1,19 @@
+{
+  "name": "matt-white-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mrzzmrzz/matt-white-theme",
+    "rev": "a7be2c638d71794c7639d730c7884167d0525471",
+    "date": "2026-02-24T15:34:00+08:00",
+    "path": "/nix/store/13arlwwjamq3zfcf3i3fsrvx7h0zk0ww-matt-white-theme-a7be2c6",
+    "sha256": "1px981w4g0vj9ybyqcpz23ipmh7cf16hr4l4gikhjc0jmlam14ik",
+    "hash": "sha256-M5JQFa0SMAlnfISSDE1w7MB64xD/MuyXT3KDR3hAqd8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

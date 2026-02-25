@@ -1,0 +1,19 @@
+{
+  "name": "zord-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/diogopereiradev/zord-theme",
+    "rev": "d6c616e5ac5a9b543e87f6fdc5c51f977901fa75",
+    "date": "2026-02-24T14:37:52-03:00",
+    "path": "/nix/store/3k0bbkwxh1sxss7lj382w0rzvp79n61l-zord-theme-d6c616e",
+    "sha256": "04ximglc5rw6g1x2k01m9y8qir0v4dsvfm1mf9q2dffff6k09dnc",
+    "hash": "sha256-zLYEpnHOuSZwcjVUt3UjG+SIkU81gCl6eIbnwuirsRM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

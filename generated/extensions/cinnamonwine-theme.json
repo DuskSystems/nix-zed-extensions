@@ -1,0 +1,19 @@
+{
+  "name": "cinnamonwine-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/shoenot/cinnamonwine.zed",
+    "rev": "84aabf1b06f195267d9ac53b62f4351173466afc",
+    "date": "2026-02-17T10:19:15+06:00",
+    "path": "/nix/store/d73202zn44nkpivn4x7nxi20n8sq9661-cinnamonwine.zed-84aabf1",
+    "sha256": "18hf67cijrvly4qdr5fj4a06dsaxg1qwhb3y5f29vrxkrya9a8kq",
+    "hash": "sha256-eCKVlM+z552EK34syHF4XelmgCLSldww8XRnGdkxDqI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

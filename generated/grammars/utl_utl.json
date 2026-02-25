@@ -1,0 +1,18 @@
+{
+  "id": "utl_utl",
+  "name": "utl",
+  "version": "6ac9525e9f96483679e781ff06297ccd65013e4d",
+  "src": {
+    "url": "https://github.com/JekRock/tree-sitter-utl",
+    "rev": "6ac9525e9f96483679e781ff06297ccd65013e4d",
+    "date": "2026-02-18T16:26:12+02:00",
+    "path": "/nix/store/38gqs7m50lpszipzdrwrw7gj7k2cpld6-tree-sitter-utl-6ac9525",
+    "sha256": "1s5nfcgjcv1ch0q4b5qry880d417iqivjdqzqb6pvrsh0r8vxwwy",
+    "hash": "sha256-nvO+UQZQ533Nwh83uSOOJ5AGEPIZl0UwgCxsJh9ztug=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

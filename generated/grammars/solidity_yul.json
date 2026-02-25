@@ -1,0 +1,18 @@
+{
+  "id": "solidity_yul",
+  "name": "yul",
+  "version": "bc7a44058521b8689375416f9e23f842df8abb55",
+  "src": {
+    "url": "https://github.com/czepluch/tree-sitter-yul",
+    "rev": "bc7a44058521b8689375416f9e23f842df8abb55",
+    "date": "2026-02-16T12:48:52+01:00",
+    "path": "/nix/store/9aq6hhjhqhnz20rrcdb0wi130nwm6a9x-tree-sitter-yul-bc7a440",
+    "sha256": "09z53k8w4nz3n12m1lw9lb9rj4j8ij5axng3vnkbdavfz7drbp63",
+    "hash": "sha256-w9yV2/luq7am3ePZroqMSBKZ06KJ01BFsONbwtEc5Sc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

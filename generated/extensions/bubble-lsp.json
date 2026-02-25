@@ -1,0 +1,21 @@
+{
+  "name": "bubble-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ianm199/bubble-zed",
+    "rev": "06f79e62bd2200bc0be4c82f28d08f504568c807",
+    "date": "2026-02-24T15:39:28-05:00",
+    "path": "/nix/store/lcr9dijg0cm7pp5bs5pfzzsx3yhx07lh-bubble-zed-06f79e6",
+    "sha256": "0hfaha7w4dk2w29z2194fpb3j7cm36j1x76az0qdh2n5h6z44wwa",
+    "hash": "sha256-inNCvoHFCtgw+MqcHqQZlR051nUkBfGT4GI2wo+CykE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-H1GSaNf71XwuotiAh7iCzvfLnq+9Zezc7wYUdjs5w9I="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "freezed-dart-flutter-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/OppositeDragon/freezed-snippets",
+    "rev": "2dc34ac2b3e8b115362305e76a1b81b5390962ef",
+    "date": "2026-02-23T15:27:30-05:00",
+    "path": "/nix/store/5qvjf7hqzwwyfwqjl385jbwl1xcalab4-freezed-snippets-2dc34ac",
+    "sha256": "090m4dk4a2c1jcmjd9y436i98jxpinw9d204v9h4cpjp08392av6",
+    "hash": "sha256-ZiuRBgJXXkZg2gSIlriNt0uUohnEpyYrk4EJRWYjFSQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

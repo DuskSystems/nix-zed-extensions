@@ -1,0 +1,19 @@
+{
+  "name": "hilleer-v-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/hilleer/zed-v-theme",
+    "rev": "be8f7e973e10dc38b7a549c971c460c9df2148de",
+    "date": "2026-02-10T21:48:21+01:00",
+    "path": "/nix/store/g6bd8kykhhgc5p9jqkypgrrhnrf997z1-zed-v-theme-be8f7e9",
+    "sha256": "02inszzs2pyx1bq3i9mhiah7rrw4gl7ada2877gg10a3yhbk5ifp",
+    "hash": "sha256-18UyF/RDgfDeOUiopg59hOd8oIqwpjjwCt1fof/XNgo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

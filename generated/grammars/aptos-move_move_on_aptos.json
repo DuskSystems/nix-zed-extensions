@@ -1,0 +1,18 @@
+{
+  "id": "aptos-move_move_on_aptos",
+  "name": "move_on_aptos",
+  "version": "c820eb4716e16393fa10f6a800ec00d506e22c34",
+  "src": {
+    "url": "https://github.com/aptos-labs/tree-sitter-move-on-aptos",
+    "rev": "c820eb4716e16393fa10f6a800ec00d506e22c34",
+    "date": "2025-03-21T10:00:37+01:00",
+    "path": "/nix/store/9n0jm93m834n5raly60s48nk95y9y543-tree-sitter-move-on-aptos-c820eb4",
+    "sha256": "1nvs441l5z6ma2429lczvkfbml3kbmank0zqiz0knwbd331ds937",
+    "hash": "sha256-ZyTdwhhtcTvBj/iDaVVdc9C63Nyf0SSIUNX8QgMhets=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,13 +1,13 @@
 {
   "name": "deputy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "src": {
     "url": "https://github.com/filiptibell/deputy",
-    "rev": "e5aa58aadef8dc979ba64e2280cfeb4641ab29fb",
-    "date": "2025-06-25T23:25:22+02:00",
-    "path": "/nix/store/d45i3kr698sypq54zb0bk0cj6877af0p-deputy-e5aa58a",
-    "sha256": "0sr4b7hxk0kva2g53kzc25zmng77gim4c5yzdbzmrawazhzrhr8v",
-    "hash": "sha256-G2WYP/yKq1z/at8XRmp85zxbfxHsz1GeUHuC2eFZJGs=",
+    "rev": "1b533a9e3fea0ffd0289ddf73958d55901c730a5",
+    "date": "2026-02-10T11:25:31+01:00",
+    "path": "/nix/store/kpwjb51m0k3cq78n6y5ip2mr72hap05y-deputy-1b533a9",
+    "sha256": "1g1gim0sppjiq149c3h6q327h18qx1m1d1xg47d9j6gflaj7dr7x",
+    "hash": "sha256-/eR2pKLuGZnaIa+HFmroGAV4xMAGDpZIwFHeq0GNL7w=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-F6Xbwup2Udc+HhKnna+f2wW7RzWATuI3zk0Ns4whfEw="
+  "cargoHash": "sha256-3hH0s0T4cacrXn+6z5x7UdFaXBkdTle/pwnuNRfJJsQ="
 }

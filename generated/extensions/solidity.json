@@ -1,13 +1,13 @@
 {
   "name": "solidity",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/zarifpour/zed-solidity",
-    "rev": "74563f137e869701d15d1836f7868c3ea62ecc44",
-    "date": "2025-11-11T16:57:51-05:00",
-    "path": "/nix/store/2jcpgy97va7drihjk23ahy8hx6iyfvcv-zed-solidity-74563f1",
-    "sha256": "1n6pgjjpwsm87k12idg0131a5jrh9jisfk1skcf693c25lad04za",
-    "hash": "sha256-6hPQFC2CjWQcmzpMp6NMMMuiwgjgtSjCPKhqfqV819g=",
+    "rev": "d23da97d12e16bb09253ef81da4e7ca8d5669cc8",
+    "date": "2026-02-19T15:00:06Z",
+    "path": "/nix/store/9avlcmdcg80s0iink26hscnpdzb5mjww-zed-solidity-d23da97",
+    "sha256": "0571fi4vja0621k2dsrfvnfd1s28blzbcxqgl7ign6pmfvwpcf4g",
+    "hash": "sha256-jzh2+Xb1GvvioQ93tj5dSOjQnN0u6yZmEAYouUl04RQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,7 +15,8 @@
   },
   "extensionRoot": null,
   "grammars": [
-    "solidity_solidity"
+    "solidity_solidity",
+    "solidity_yul"
   ],
   "kind": "rust",
   "cargoRoot": null,

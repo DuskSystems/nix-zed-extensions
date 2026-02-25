@@ -1,0 +1,19 @@
+{
+  "name": "prime-dark-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/priyanshu00001/prime-dark",
+    "rev": "47da21153283c374aceff199b84cb7dff9525181",
+    "date": "2026-02-23T22:05:34+05:30",
+    "path": "/nix/store/kjyhr7jzrls6wdpfw2vpcf1p129fibk1-prime-dark-47da211",
+    "sha256": "17jhmmdwjn01cgwbryg0cma92vz0alqxp3jas7ds5hsbqfdprcpw",
+    "hash": "sha256-/LJ8m8NLw6Lb0UqO2zFV4G+RVGXg+bz4YwFYyVutUJ4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

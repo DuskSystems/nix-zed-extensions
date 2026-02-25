@@ -1,0 +1,18 @@
+{
+  "id": "vibescript_vibescript",
+  "name": "vibescript",
+  "version": "10232168c7104c232bad8ddcac82bbe33d821207",
+  "src": {
+    "url": "https://github.com/mgomes/tree-sitter-vibescript",
+    "rev": "10232168c7104c232bad8ddcac82bbe33d821207",
+    "date": "2026-02-23T22:47:29-05:00",
+    "path": "/nix/store/xqkzmfc6prcdzs7a0kai5fn6i94adpwi-tree-sitter-vibescript-1023216",
+    "sha256": "01w2yz8nf3wsn83v5y7l7hin36hcis7fipcf69s6jyl8sc72ybzr",
+    "hash": "sha256-+S8vDtOIeml0Mo7d6I6ODJphIzz0+LIHspoPZ9H3ggc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

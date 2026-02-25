@@ -1,0 +1,19 @@
+{
+  "name": "vercel-carbon-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/SwiftlyDaniel/zed-vercel-theme",
+    "rev": "cdcd60b944ae6df47add54afacc2a08e68571059",
+    "date": "2026-02-20T20:17:06+01:00",
+    "path": "/nix/store/1bzdpgjx03hzg7nrz5k4bj7gwjrkxvr1-zed-vercel-theme-cdcd60b",
+    "sha256": "0s8apxdbk5c8gdjjq6fsn2k58bkibgs6xvzd0ssnv8x61cfnz00j",
+    "hash": "sha256-EoBvHQumo221Bu3vbvRbcS5UprDaGSxle4iVuVq/Cmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

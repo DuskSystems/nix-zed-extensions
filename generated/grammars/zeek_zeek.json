@@ -1,0 +1,18 @@
+{
+  "id": "zeek_zeek",
+  "name": "zeek",
+  "version": "a51c076339c822356fb66e863daff48e7f0e9ca0",
+  "src": {
+    "url": "https://github.com/zeek/tree-sitter-zeek",
+    "rev": "a51c076339c822356fb66e863daff48e7f0e9ca0",
+    "date": "2025-11-06T15:54:39-05:00",
+    "path": "/nix/store/g2q7bf9408kqq5hcssvh8had0k4crsyp-tree-sitter-zeek-a51c076",
+    "sha256": "114q3nrzdnwjjv88vgliwdn6c6b70il52d2zsf32c79m24avaj7j",
+    "hash": "sha256-8ki1FRE1HSaG0180UWgEZxlmbOORvo3QlpLb9rMdmIQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-threadbridge",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/dereklei12/zed-mcp-server-threadbridge",
+    "rev": "9fd14d1cc7e295bc2fa39ef2513aa52c49cc2a6d",
+    "date": "2026-02-21T16:07:07+11:00",
+    "path": "/nix/store/y9z28qic8fyln1x3xlvjnr283d2r1sp9-zed-mcp-server-threadbridge-9fd14d1",
+    "sha256": "173saq23w94f8fj28w3bxh6bvici7gfwx61sas8vl4w1qnja9phf",
+    "hash": "sha256-Dt6kpMWBE7qRVjqYzt07kcW9DOxrcCSkQ44kPgRWepw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PMhZiXiPGq4mTY/6p7yaDUs5vwrmfqGrEfTcGCbDV1s="
+}

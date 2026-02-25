@@ -1,0 +1,21 @@
+{
+  "name": "cloudformation-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Ben-Wormald/cloudformation-language-server-zed",
+    "rev": "c26dfc78a93a75df4ad64a7408de78b023c45fad",
+    "date": "2026-02-10T09:40:36Z",
+    "path": "/nix/store/y7syqrw3yg6x8698pwwb4sqkikllly60-cloudformation-language-server-zed-c26dfc7",
+    "sha256": "0n6x7l61krikiisrlcp6bxhn19vn1q6j4b9n5pkxq7mvhb74xrwg",
+    "hash": "sha256-j+dOzoK7HtznLTYtIg0OdqdgYV/mMpp1jDPmGQw93Vg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pX6spUCTuSlKr94mfWuRKje5P3pVfGtImlwgYUe/R+I="
+}

@@ -1,0 +1,23 @@
+{
+  "name": "metal",
+  "version": "0.1.14",
+  "src": {
+    "url": "https://github.com/computer-graphics-tools/metal-analyzer",
+    "rev": "81ca2a3079ccbdfc4ed6a65a830ffc2ee58c9cdb",
+    "date": "2026-02-24T21:19:57Z",
+    "path": "/nix/store/bh618yrnd5a8jgcc1a4g5kq2v3jhk7qw-metal-analyzer-81ca2a3",
+    "sha256": "1a45wwwbap6s56lrlbsl7n9gry1qgpna3pl5zbkww280ysk25bmc",
+    "hash": "sha256-rK4ipvYACc7n+oXeoex9OPj8kj1UL5qpKdpctTjnhag=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [
+    "metal_cpp"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-a0iS4qpbVWr0djBWyGchxxt5977P64r94f+tq8nP86s="
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gatito-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lozinsky/zed-gatito-theme",
+    "rev": "edad449d94179bc09f0c0746af6028d50cdaab42",
+    "date": "2026-02-24T22:45:05+03:00",
+    "path": "/nix/store/49dmg86k4lkp4hls5ln940v7waff7z7g-zed-gatito-theme-edad449",
+    "sha256": "1b1y213yhnwlyq11158jc1xaqghc0al7729wmg8qgm462lkyj7ym",
+    "hash": "sha256-1R/pJxWG1IfRqzyJc6gCDD6semASlRAC9pRb6EcQPqw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

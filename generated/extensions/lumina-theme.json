@@ -1,0 +1,19 @@
+{
+  "name": "lumina-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/alexjthomson/lumina-theme-zed",
+    "rev": "e46370226a5bd624752e84cf9ba04994115fc684",
+    "date": "2026-02-24T19:27:41Z",
+    "path": "/nix/store/i13s8i22qbidna2vdfzcx1wxhl6iqlm3-lumina-theme-zed-e463702",
+    "sha256": "0r9vah5a6fl4zhfxr1kpqq2mvmgsjqy8ay6landvdv3bass8d9p8",
+    "hash": "sha256-6KaGtFZr7LabVdR4hTyW+tVdBcZ3htwd/IQ6owpUO2U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "kagimcp",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "src": {
     "url": "https://github.com/jmylchreest/kagimcp-zed",
-    "rev": "861b616c8ddca8bf75e731b697e95de276bd9456",
-    "date": "2025-12-04T14:19:04Z",
-    "path": "/nix/store/sjbw0njnz6gjm1d3bbs0gjxg8wca8s0z-kagimcp-zed-861b616",
-    "sha256": "0fwajncgzm7acrymvhg0zs0ip4bwsm9ndqbd7xlzj4f0mrs1li8j",
-    "hash": "sha256-EkUadK7AEflpP23hZlPVfJEbgf7gwV19ZurU/5iVijs=",
+    "rev": "d1d4d04d10cedb9058a1eace729ecb61c5ceed57",
+    "date": "2026-02-09T22:59:02Z",
+    "path": "/nix/store/lshb9sifwlm1hlrzakzfa0811v75m7pm-kagimcp-zed-d1d4d04",
+    "sha256": "1k7id7fl5admgbsfd84fgz32d66m6hmd3w0xsri48f5gs91d9rdf",
+    "hash": "sha256-ruXUQtKvOERi1h3w0So01Zgmxn+OoOb0erWpQt1p8cw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vXP4kmAw/Eq3HCsnWeFqr/Et58j9phX4c8yi8UnQiIY="
+  "cargoHash": "sha256-ow+ec/L3fDFy4YyCNcYu8h8txEthK5AiTOLtDApj0dI="
 }

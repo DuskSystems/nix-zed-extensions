@@ -1,0 +1,19 @@
+{
+  "name": "ocean-green",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tracepanic/zed-ocean-green",
+    "rev": "1a698517da9dd0d0f5c2164869160e1e0e10ccd9",
+    "date": "2026-02-22T23:14:18+03:00",
+    "path": "/nix/store/gigx086x7a8gb41p4khd1hkb453b6xrc-zed-ocean-green-1a69851",
+    "sha256": "17643n55njvnqpv0yv1k06s3ihji025iw487722ckyn97mvpzps7",
+    "hash": "sha256-R99/dz3J+smEOAcRHosAUcI4tAEzbA/2xXZLW4odxJw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

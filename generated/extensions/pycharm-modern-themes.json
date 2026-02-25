@@ -1,0 +1,19 @@
+{
+  "name": "pycharm-modern-themes",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/injirez/zed-pycharm-modern-themes",
+    "rev": "79cfd4fbbdcdb83de694f6268f359f7b11a2c857",
+    "date": "2026-02-24T16:30:01+03:00",
+    "path": "/nix/store/yhh0iv8hwmp8h49jwyni1g2h6h32sc2s-zed-pycharm-modern-themes-79cfd4f",
+    "sha256": "19qpflz2j9vrgpnaqqsbx6vklihq6kf1y97nj4gppfajjrmkw7df",
+    "hash": "sha256-rh0+a5ZSuXsfkfYkH9w0GEY6t+lLY6zsfXknKT51F6c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

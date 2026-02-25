@@ -1,0 +1,19 @@
+{
+  "name": "dark-oled",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/DaviAragorn/dark-oled-zed",
+    "rev": "ee62979c23f9c7f8d6eac8e110f02f2a463f062f",
+    "date": "2026-02-06T19:44:40-03:00",
+    "path": "/nix/store/gsis5v4p54m0ngjn7j3gcb16b4lvp995-dark-oled-zed-ee62979",
+    "sha256": "1s6mval16q91jmjr6wqr6x3p85vrnm51h154l9qdw0hwbsgv85x8",
+    "hash": "sha256-qBe0n14cAt5woqQEGEq1eRd0RzcZc5NllSFhE6ja1eg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
