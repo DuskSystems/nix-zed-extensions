@@ -1,0 +1,19 @@
+{
+  "name": "supertheme4",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/superkacper4/supertheme4",
+    "rev": "101e44cbb306de5446fa73a0b6ecc4919ef98840",
+    "date": "2026-01-19T18:32:48+01:00",
+    "path": "/nix/store/f37rghg25wpy99yl4vby384bv1ja5904-supertheme4-101e44c",
+    "sha256": "1vyxs5pxykjjijwaahscmg97ssb3jfd6lsqkv2hmixmvdnhlvv7y",
+    "hash": "sha256-/uxNoW279lih2BNrapqTY2l90qtMQ6W4jFJO32/R3e8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "warplabs_oml",
+  "name": "oml",
+  "version": "6105fa6360df78e2d477e9e496551875e5e93ea2",
+  "src": {
+    "url": "https://github.com/wp-labs/tree-sitter-oml",
+    "rev": "6105fa6360df78e2d477e9e496551875e5e93ea2",
+    "date": "2026-02-25T13:08:09+08:00",
+    "path": "/nix/store/43kg5vhnmg579188b2g5zr1zlh2m13fz-tree-sitter-oml-6105fa6",
+    "sha256": "1cr53nbwfhzai2r5qh6x2r90v5ksghaaqvb68cavay40fqzh43bg",
+    "hash": "sha256-bw0CP3aAeLUVQ2ZtrBR8epYNUhbdQFyyiOpDx5cdJbM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

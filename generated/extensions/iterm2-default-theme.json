@@ -1,0 +1,19 @@
+{
+  "name": "iterm2-default-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/EtanHey/zed-iterm-default-theme",
+    "rev": "df5d5a24ba1499288430e2d8aa815071a5f51a9b",
+    "date": "2026-02-06T17:11:23+02:00",
+    "path": "/nix/store/n4vv8l7qp3zrln44h77ch8jyl6a48g3m-zed-iterm-default-theme-df5d5a2",
+    "sha256": "1mlzv0x068ypjaaykav4gvq76a5hhmd3jjz7yhqsz599qx0gsh9p",
+    "hash": "sha256-N0H9QMcpla8x9OdLOVqFsChz8H5kq+mVktcjAzrYn9Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

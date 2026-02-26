@@ -1,0 +1,18 @@
+{
+  "id": "plaintasks_todo",
+  "name": "todo",
+  "version": "b4c615b8a8db36b4ff87bf84b09c054914380dea",
+  "src": {
+    "url": "https://github.com/cseelus/tree-sitter-todo",
+    "rev": "b4c615b8a8db36b4ff87bf84b09c054914380dea",
+    "date": "2025-12-30T18:14:48+01:00",
+    "path": "/nix/store/070d32kjgbildm1kp90bvb7gf9inj75b-tree-sitter-todo-b4c615b",
+    "sha256": "0p53w15cp9h8halkgwxy1y98x8qm309knvqmdqp8km8snb09zq3v",
+    "hash": "sha256-e+CfwLIa1YkubhVvOxMYFaOOkg++8zepggimy0rgo1w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

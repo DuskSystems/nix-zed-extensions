@@ -1,0 +1,25 @@
+{
+  "name": "agnix",
+  "version": "0.12.1",
+  "src": {
+    "url": "https://github.com/avifenesh/agnix",
+    "rev": "f396e9c8819521dfcf622e7901cfba01183f28c5",
+    "date": "2026-02-25T14:34:04+02:00",
+    "path": "/nix/store/1xhdxch01fgpd41qcq76fxp5z7idj4mq-agnix-f396e9c",
+    "sha256": "1i0wqqr0j78lr4nww3mg2zk0lpm2bfbz410s111w51xkin9gxhyk",
+    "hash": "sha256-08P+ko2zh8JDCBoE8pdbol4K5hevDs4tyRQdCTLGHMQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-10J021aG0rUFljYeLA7wjwV/FY1lq0fSzNjHuyx+8f0=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/agnix.lock",
+    "outputHashes": {}
+  }
+}

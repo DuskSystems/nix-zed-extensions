@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-mysql",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/toonvd/zed-mysql-mcp",
+    "rev": "16ccf02c9577a239015390c73b4da4d9bb991610",
+    "date": "2026-02-25T23:17:19+01:00",
+    "path": "/nix/store/hxphhfpq6yd7cbkiyn0wpps5glpb1y5l-zed-mysql-mcp-16ccf02",
+    "sha256": "19a1fn2kg3wcgphlqsdnaxdady4ri11ygxcnf5xzf5j6ax0gy5f6",
+    "hash": "sha256-xhX/QFdGFvd7cZb150OImfimWle2aUzhfYyPN4V1QaU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-P2OMtJOAcRjTDfro3QQu17DnxgBQ2MnUpVng3AptI8s="
+}

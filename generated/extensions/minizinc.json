@@ -1,0 +1,22 @@
+{
+  "name": "minizinc",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://tangled.org/dekker.one/zed-minizinc",
+    "rev": "0ea5a042bf6ba30bdc1c32add6460bf2dfce80ea",
+    "date": "2026-02-13T16:37:14+11:00",
+    "path": "/nix/store/qirkpshsjj65n3yljgy8x2vcch4xvjc3-zed-minizinc-0ea5a04",
+    "sha256": "04cc6f8z547zxrf1lgvxxhan34lxzn8s57rg93nkbl0qnabr0j1z",
+    "hash": "sha256-P0iQl7IY0DXtSC+fopH9nZJhFex9Pxpc7v+Q8pEzjBE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "minizinc_datazinc",
+    "minizinc_minizinc"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "plaintasks",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/cseelus/plaintasks-zed",
+    "rev": "a80c6e5a70276c6a8f1f372b3ae7861ad6859d37",
+    "date": "2026-02-20T01:13:14+01:00",
+    "path": "/nix/store/ywz46f9pqp3477c1hx3zpfh3ch6nw6dy-plaintasks-zed-a80c6e5",
+    "sha256": "037b9bga09ig78ybbwsbc919hd3vk2fk6vm00wgab5ds5x3an4dl",
+    "hash": "sha256-tBGrRi+6laUeB6BuM52YezSYQmJL87U8Oi8moN5K6ww=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "plaintasks_todo"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-3yAZ65N/SxLXx6d3vjqIiEQW16dwxkgPR8/q+E2a8OE="
+}

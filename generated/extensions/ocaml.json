@@ -1,13 +1,13 @@
 {
   "name": "ocaml",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/zed-extensions/ocaml",
-    "rev": "4d47f6b3fe28536aa02760f97bf85b83172d7afb",
-    "date": "2026-02-23T19:05:15Z",
-    "path": "/nix/store/xzsh64yb125vrimvq9kjmgx8gfs0w09j-ocaml-4d47f6b",
-    "sha256": "0bfwbq3z30dahvzx9v1vn1mqm2fkw40372wski3vxigaxly244pb",
-    "hash": "sha256-6xIiPO3qxb5HnJqLMwDh04mKa7A77NT/hqqB8Qde3C0=",
+    "rev": "036d764d4f8152dbd5989da553fc54e85b92acda",
+    "date": "2026-02-25T17:30:55+01:00",
+    "path": "/nix/store/brsihjff631wal0lf7ggy93q6fz26jcv-ocaml-036d764",
+    "sha256": "0amh80lal8354iv5c7xwfsxlcb5j8rk65rqh0ijdmv3zl6jcgg6d",
+    "hash": "sha256-zbzHpKF/7NpkBBDnYmZGsixGu3a8H1Z2JGUgqihAsCo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,10 +19,11 @@
     "ocaml_menhir",
     "ocaml_ocaml",
     "ocaml_ocaml_interface",
+    "ocaml_ocaml_mlx",
     "ocaml_ocamllex",
     "ocaml_reason"
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-2n+MNyA3ShZa0lkrw/OvCmdYqSvy3D6GGU8X73Onnl0="
+  "cargoHash": "sha256-Dvh23nidZl+REu975arxEyBgI4lCfctjhfQx/H1SDUg="
 }

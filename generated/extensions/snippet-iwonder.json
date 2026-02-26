@@ -1,0 +1,19 @@
+{
+  "name": "snippet-iwonder",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ityme/snippet-iwonder",
+    "rev": "e536b01c07b5566c6a9e0a86c143617524ec1c36",
+    "date": "2026-02-05T13:39:24+08:00",
+    "path": "/nix/store/57zg34sm1qgyx4yvp1rf5drcab9knr3j-snippet-iwonder-e536b01",
+    "sha256": "1c8h92zhb8bnqy1g6lnvhzc3a1bgrxxhcl2rfha88v6q69jw65zq",
+    "hash": "sha256-+BfDZTLYbIQUdFlQBnvPbwU12IfbUvOCx3ahBb9IELE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

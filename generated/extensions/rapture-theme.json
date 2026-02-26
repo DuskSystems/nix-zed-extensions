@@ -1,0 +1,19 @@
+{
+  "name": "rapture-theme",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/gabors0/rapture-zed",
+    "rev": "52562c55e3e98f71083de5c575daa7061befa99e",
+    "date": "2026-02-15T15:22:29+01:00",
+    "path": "/nix/store/j1fsvjalj86v9pj42696vjywxmbrwza7-rapture-zed-52562c5",
+    "sha256": "18vp6imnlm0xhk67b5m3r5y5m8nk6hvyzh0r9gkv52r2qb69q14s",
+    "hash": "sha256-mgSczMIii7LnSxnA7zc006JafMmjlnXMhB1Uams0d6M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

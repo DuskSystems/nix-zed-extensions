@@ -1,0 +1,19 @@
+{
+  "name": "puppydog-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lillianrubyrose/puppydog-theme-zed",
+    "rev": "68c17d06d8cd61bb814dfdca46534cdb0c4f0ecf",
+    "date": "2026-02-25T01:39:33-05:00",
+    "path": "/nix/store/ajx3pqz1kk3jb07q6r53zxyy46hw8yia-puppydog-theme-zed-68c17d0",
+    "sha256": "1s3wyralbdhci11zlvkq05f9jafikrfh1xc9v00sq198kw0vqnhj",
+    "hash": "sha256-Elq8AZ8oBawB2In1AF2e0SmZXAF4bvpDiAy2RVX2fOg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-code-runner",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/formulahendry/zed-code-runner-mcp-server",
+    "rev": "f0ef05796c55a9d5bcfa08a25904085b8528e1c7",
+    "date": "2026-02-07T10:04:15+08:00",
+    "path": "/nix/store/84s5n3m0j7c9hvny0lklrij6yd62c3w7-zed-code-runner-mcp-server-f0ef057",
+    "sha256": "0a502w6fy2vwk2wvxwgam516zi36i4m62sa2ydgna46rnaycr515",
+    "hash": "sha256-JZTMvLLZEGVf80JpYSqJZsRvQqnq8b65mHwL7wwXoCg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dyr1mDJ/tB2vx4KNPGNHAA9X7C2Nl2C0E7yk7iHyBD0="
+}

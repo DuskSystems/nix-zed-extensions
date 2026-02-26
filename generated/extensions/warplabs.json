@@ -1,0 +1,28 @@
+{
+  "name": "warplabs",
+  "version": "0.14.0",
+  "src": {
+    "url": "https://github.com/wp-labs/zed-warplabs",
+    "rev": "a43cf62e2265451d227ec692cecb22fd5c90e6a2",
+    "date": "2026-02-25T14:12:04+08:00",
+    "path": "/nix/store/xs58zimxw3d74fszvgqx1q6h6m5vwkbk-zed-warplabs-a43cf62",
+    "sha256": "18881fm054rm3fmfd003gk33rk4kjcl5l5d1d5fb1dsg46zmpmbh",
+    "hash": "sha256-cNVbvyFPt7BcaaEVWiiTk8w8xnwDgOaqGzWTAqoLCKE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "warplabs_gxl",
+    "warplabs_oml",
+    "warplabs_wfg",
+    "warplabs_wfl",
+    "warplabs_wfs",
+    "warplabs_wpl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-b8mx/nJPwH2HmV6+MqjfNNMPXhxKQMEOtrtePPEvLGA="
+}

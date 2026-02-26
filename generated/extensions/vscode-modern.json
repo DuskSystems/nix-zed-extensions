@@ -1,0 +1,19 @@
+{
+  "name": "vscode-modern",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fabrialberio/zed-vscode-modern-theme",
+    "rev": "f61ad066bc0694a667826b99e65584ef80aab219",
+    "date": "2026-02-01T15:05:54+01:00",
+    "path": "/nix/store/20h7qrzb8fiiyjdvpbs73hadmpvf81g5-zed-vscode-modern-theme-f61ad06",
+    "sha256": "1hdnmiy35lcidncxxivzx917fwmapl9wxadv8vg6jdrrq7va6qry",
+    "hash": "sha256-PmOj9sE5N2neRrupzhO9qnJ3Qup/x96ZbZHRMnystsE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

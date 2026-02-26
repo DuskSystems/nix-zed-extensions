@@ -1,0 +1,19 @@
+{
+  "name": "marathon-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Zev18/marathon-theme-zed",
+    "rev": "e62c31ce1ea67dca9d2b6abb789960d784689389",
+    "date": "2026-02-25T13:09:13-05:00",
+    "path": "/nix/store/qkcbyfj8a263ckbk5h6dir10c42i7433-marathon-theme-zed-e62c31c",
+    "sha256": "1j0scgl7j5gmw1zjd2y7jvf6v0xbznqwvrnpjanna1gzjagcax8a",
+    "hash": "sha256-CnXFnpL/BWWtktfmzbH9q4Nt3JbHiyZ/4PUVeehjGsg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "atom-one-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Stelath/zed-atom-one-theme",
+    "rev": "ed0513f0655ec72ffcfd33e87e31fb0a06c28948",
+    "date": "2026-02-13T01:59:21-05:00",
+    "path": "/nix/store/71w262wrafdfhzdls50bvyhyyymh1vg8-zed-atom-one-theme-ed0513f",
+    "sha256": "1hax157gd8mdznfrz9x4rdcly2g0nq4178w7120iiq4kmi5p8ys3",
+    "hash": "sha256-Q3t0S6yT4BiBCIejEwi24AlPWcukp5+d/a2i9k4JXcE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

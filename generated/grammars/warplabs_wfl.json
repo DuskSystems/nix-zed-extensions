@@ -1,0 +1,18 @@
+{
+  "id": "warplabs_wfl",
+  "name": "wfl",
+  "version": "540c47074c56c8c6a118c4c9c23706609ee54c51",
+  "src": {
+    "url": "https://github.com/wp-labs/tree-sitter-wfl",
+    "rev": "540c47074c56c8c6a118c4c9c23706609ee54c51",
+    "date": "2026-02-22T11:36:56+08:00",
+    "path": "/nix/store/aillr00iw35s1pffwyvc4syv62pbblqr-tree-sitter-wfl-540c470",
+    "sha256": "0iiqxg116m1883a48vs8bdqna484qcps7piszd9zn7ykzsl09f4h",
+    "hash": "sha256-kLgEqP7TH/tT+zreoy/DBBFlcVtIb0TUQChUE8LrOEY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

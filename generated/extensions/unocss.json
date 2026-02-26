@@ -1,13 +1,13 @@
 {
   "name": "unocss",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "src": {
     "url": "https://github.com/bajrangCoder/zed-unocss",
-    "rev": "5d487ceef3fc6097c5787843d4e1569f84df1587",
-    "date": "2025-09-27T15:57:35+05:30",
-    "path": "/nix/store/73z5yrg3p0fwgi419wga927dlgzjykda-zed-unocss-5d487ce",
-    "sha256": "1vwnqvjsvsibc74rqslrpfab1xvrnyc9gjql1ysb9kipk4hd6mmd",
-    "hash": "sha256-rVbTIJk3zrS0DxTLl5i3efewlLuZapzJYSvqreXGlu8=",
+    "rev": "62026ba19b214ee153b8cf5e11f2c3038cac152e",
+    "date": "2026-02-25T15:34:26+05:30",
+    "path": "/nix/store/d4y53m51ad0i4rjs4cs6s2f20h549gw5-zed-unocss-62026ba",
+    "sha256": "0nqic82gbcs4nm6acyad1w9valslivz2knidp76xa95n16kmijnw",
+    "hash": "sha256-3MpYpwm2JNXNuS3aKf6OVFO1Ew9NeaZMtUSz9QRiEVs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-dYGy6odrcYURiN8jvoYfoMB499SjH4YM0h3zcuqIL+8="
+  "cargoHash": "sha256-1q/gOetNXKpWQ7r0bDPEneFt0ItWPfIJEGZx5XWx7ls="
 }

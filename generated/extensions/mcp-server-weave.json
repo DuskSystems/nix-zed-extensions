@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-weave",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/Ataraxy-Labs/weave-zed",
+    "rev": "f4f4e8935a7a5cf0fd88193aab0a1ef030166a5e",
+    "date": "2026-02-24T16:32:06-08:00",
+    "path": "/nix/store/nsz6y766bmxhvi5vyax341fmjcc7yln5-weave-zed-f4f4e89",
+    "sha256": "1x9rlsxkm1aqxkpckpx7dh8mgf4frjxr2835amdh3f884y8vddk6",
+    "hash": "sha256-Zra2kScIuQFbVWUgkbvMjrhXEWyn38nu7FiFOrumOfU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-T3VoiPvaHL1VrehfPyydig3neXI+MfxBQa84O5IZnFg=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-weave.lock",
+    "outputHashes": {}
+  }
+}

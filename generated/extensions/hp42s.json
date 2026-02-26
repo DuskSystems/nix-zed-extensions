@@ -1,13 +1,13 @@
 {
   "name": "hp42s",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://codeberg.org/brechanbech/tree-sitter-hp42s",
-    "rev": "7c4ce466e79734ae02087ee06e1774f5885e8b6c",
-    "date": "2026-02-08T23:48:20-06:00",
-    "path": "/nix/store/cg3fla9f2syphswf1jn7wafzpg8ffbkf-tree-sitter-hp42s-7c4ce46",
-    "sha256": "0lr2309cqahws52zrrq5w57fcca776d3y2mp68warbpm0085pgfd",
-    "hash": "sha256-zb1bEAD1rqw4MrcKP5o5RzHmTuEF5/xF0RwqzBIYIlM=",
+    "rev": "ac4e84f0f90b42f1af8a55b6cd448f851f8c0d3a",
+    "date": "2026-02-09T07:32:32-06:00",
+    "path": "/nix/store/s6frqhp5wxn9sssjyys5cpns2nr7yfbn-tree-sitter-hp42s-ac4e84f",
+    "sha256": "0kll4d271kkzlcb7bvaq0pyiqxcjj189qdr0hfd4x8qcr16s1kyr",
+    "hash": "sha256-2c+gTcgMo06agyA3nFCQknUc/QVY7XUWo3/OcEQjlE4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-pomnX7ywH4nucFufckFf8nkTWYXwUhZCjcy134OnVIs="
+  "cargoHash": "sha256-fw7TOJWUIMUPrPOhJgQZ+2ODjUqc1aQepamz2rUUT1I="
 }

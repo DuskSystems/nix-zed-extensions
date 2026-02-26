@@ -1,0 +1,27 @@
+{
+  "name": "hledger",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/juev/hledger-zed",
+    "rev": "119faa65d2a8e015b5743b1b32ae3ab34bcbc6b4",
+    "date": "2026-01-20T13:45:14+03:00",
+    "path": "/nix/store/pax2sz18y6vxnds1g8sl3p2zbw4a5xhs-hledger-zed-119faa6",
+    "sha256": "0xiaiv2lkhz3lpgqlbpsc49qxzmy73f3gpswr74zg9ir3k5v1z3w",
+    "hash": "sha256-fPywyxw5pvfJyVzfN9w4vv6OE2H6LorfpePDScWOKnY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hledger_ledger"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-6SW70L1xy7DjOSQBwQy5Uj9IdRJPO5jDXW65a13mXpo=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/hledger.lock",
+    "outputHashes": {}
+  }
+}

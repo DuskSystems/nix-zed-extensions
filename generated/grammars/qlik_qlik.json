@@ -1,0 +1,18 @@
+{
+  "id": "qlik_qlik",
+  "name": "qlik",
+  "version": "6390263559b69e32ab3acc7c6453772f66191ea3",
+  "src": {
+    "url": "https://github.com/bintocher/zed-qlik-tree-sitter",
+    "rev": "6390263559b69e32ab3acc7c6453772f66191ea3",
+    "date": "2026-02-11T18:46:30+03:00",
+    "path": "/nix/store/gznrahlipwfvs013n5h2b5n5qshm32y2-zed-qlik-tree-sitter-6390263",
+    "sha256": "1137jqiq1j5zh6n4wsa63q5dhzcp0al7gbkgbbbw5p1vcwdy8pkc",
+    "hash": "sha256-bF7kG2c73MLXWm+ud6gCl33YCh5GaU6sgb/IgCOWZ4Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

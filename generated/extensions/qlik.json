@@ -1,0 +1,21 @@
+{
+  "name": "qlik",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/bintocher/zed-qlik-editor",
+    "rev": "b2123f90a4d418c652412409473549096d9ce994",
+    "date": "2026-02-11T18:59:11+03:00",
+    "path": "/nix/store/ckw1afffmgpsll9pmxq1fas57zlngfh0-zed-qlik-editor-b2123f9",
+    "sha256": "0id3xbm2c5n7c1qvf65g94klqlp9psc73gk1yrg12ag7fik8k7dr",
+    "hash": "sha256-uZ2JZnTnKRFe9mG+cZi+6VJMJ0mvGLdxYMcWJurqo0U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "qlik_qlik"
+  ],
+  "kind": "plain"
+}

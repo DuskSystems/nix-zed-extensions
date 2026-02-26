@@ -1,0 +1,21 @@
+{
+  "name": "htmx-lsp",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/prophittcorey/zed-htmx-lsp",
+    "rev": "c9704672d93b010b84fdf0618ca098768f0f0483",
+    "date": "2026-02-21T11:51:00-08:00",
+    "path": "/nix/store/n5vmzk2xdjyy6xiy4crcaqhpf8dv6j14-zed-htmx-lsp-c970467",
+    "sha256": "1zmlbhrp0lnhvir3sn5h1izbvy3jk9ragjmhkrzrv26zj872640w",
+    "hash": "sha256-HBAjDpLfiJ1/nrDKp3Kacvi9fgywWD1y3NBScDNctP4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-EQIEkfdIQB5K5whl9h/Nv+rL/LwTm+9BCcWqAf1j7LY="
+}

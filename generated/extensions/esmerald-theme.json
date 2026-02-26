@@ -1,0 +1,19 @@
+{
+  "name": "esmerald-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/esthorace/esmerald-zed",
+    "rev": "a931c2449f20bd246533b4d2d641724c718edd89",
+    "date": "2026-02-25T10:12:42-03:00",
+    "path": "/nix/store/yhncsqgmp9v0yjcfc6nv3535cni9yclh-esmerald-zed-a931c24",
+    "sha256": "0fsi4av531vpj9wwqkr6i9nv23bcrakhxh8rr75sihd2r532xdvc",
+    "hash": "sha256-bLcuRsmiwajLyRnBDqfKbA2xbYomT8x5kneHUbYiUTs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

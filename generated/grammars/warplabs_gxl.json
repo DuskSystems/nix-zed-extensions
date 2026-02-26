@@ -1,0 +1,18 @@
+{
+  "id": "warplabs_gxl",
+  "name": "gxl",
+  "version": "85e678d9aedac0f3422ad547d668b3b8b0103b9b",
+  "src": {
+    "url": "https://github.com/wp-labs/tree-sitter-gxl",
+    "rev": "85e678d9aedac0f3422ad547d668b3b8b0103b9b",
+    "date": "2026-02-25T13:58:55+08:00",
+    "path": "/nix/store/9499j3phyh4qky4nnyp6lxpdadvcg3a1-tree-sitter-gxl-85e678d",
+    "sha256": "0xl8pjhllc0vmvs5pd6rk4627z4b2l792qqr3aa1vdcpsnqyxs2b",
+    "hash": "sha256-S+jusdWXtR2UGhljkQ4Vi/wjDJnZtFv0rhswSqG8iHY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

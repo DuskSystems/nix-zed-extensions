@@ -1,0 +1,21 @@
+{
+  "name": "firrtl-source-locator",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MrAMS/zed-firrtl-source-locator",
+    "rev": "76e71c5344baac995863e7f134fda5290105a5ef",
+    "date": "2026-02-25T14:31:45+08:00",
+    "path": "/nix/store/gbc2x04kgb59qnicpccisfrdhyr1najb-zed-firrtl-source-locator-76e71c5",
+    "sha256": "18mlmjdg9g1asnsfcd57mds3q6si69q8wm2ki5lmxhxqwds0f3vj",
+    "hash": "sha256-cg8HdOO4w15piVNUjnAyURs8dKunNOa01Sq89JqstKI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Oby2QPavxFcO0VGROeV/bwZ+aQE2YLI05pHT7blRljc="
+}

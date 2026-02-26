@@ -1,0 +1,19 @@
+{
+  "name": "jellybeans-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/sdawn29/jellybeans-theme",
+    "rev": "9360e024607b1ed9c74e29891d2bf41ce4f2bfbb",
+    "date": "2026-01-25T13:47:09+05:30",
+    "path": "/nix/store/wvrqd7mgpimxsc63hdk78xr2cjqd494s-jellybeans-theme-9360e02",
+    "sha256": "1a5aqw71l1andl2ph4q1x43hnrifavagh2hc87937g114x3wlwix",
+    "hash": "sha256-PXLKRychvDPSQQwK+NRWLmYLB+kBE3gFbVYFGg7Hqqg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
