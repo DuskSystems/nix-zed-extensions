@@ -1,0 +1,18 @@
+{
+  "id": "scss_sassdoc",
+  "name": "sassdoc",
+  "version": "cb8295778a66b73ed5cef2fc112f41c9e804e806",
+  "src": {
+    "url": "https://github.com/simeonoff/tree-sitter-sassdoc",
+    "rev": "cb8295778a66b73ed5cef2fc112f41c9e804e806",
+    "date": "2026-02-24T21:22:15+02:00",
+    "path": "/nix/store/6ryma7wszgq04ircpwcich5nb5fvh8fw-tree-sitter-sassdoc-cb82957",
+    "sha256": "00xyji7mr3zn7430n2iyw9brqxaids24gnp0mx4qqr3kifa10s02",
+    "hash": "sha256-AmgQlItzZIxJr+DaR4RuUXWcV+I+CgsGOfaPXE+UvgM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

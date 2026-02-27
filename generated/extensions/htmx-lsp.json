@@ -1,13 +1,13 @@
 {
   "name": "htmx-lsp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "src": {
     "url": "https://github.com/prophittcorey/zed-htmx-lsp",
-    "rev": "c9704672d93b010b84fdf0618ca098768f0f0483",
-    "date": "2026-02-21T11:51:00-08:00",
-    "path": "/nix/store/n5vmzk2xdjyy6xiy4crcaqhpf8dv6j14-zed-htmx-lsp-c970467",
-    "sha256": "1zmlbhrp0lnhvir3sn5h1izbvy3jk9ragjmhkrzrv26zj872640w",
-    "hash": "sha256-HBAjDpLfiJ1/nrDKp3Kacvi9fgywWD1y3NBScDNctP4=",
+    "rev": "518270e535550d1fa096e77375c2d177e8b30a9d",
+    "date": "2026-02-26T04:23:46-08:00",
+    "path": "/nix/store/x5cnf7lza3ipplzh7716qr91lh7h7gy6-zed-htmx-lsp-518270e",
+    "sha256": "1lfcwsy118vsfj4xfbakk0xrvrij20i28jq6a49iknnyh5p8aq8d",
+    "hash": "sha256-DWGFboHe2hkTUQZLJCIQMuadO5hTLdeJdHqjELzmzNE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EQIEkfdIQB5K5whl9h/Nv+rL/LwTm+9BCcWqAf1j7LY="
+  "cargoHash": "sha256-mtM76fvmXZLoWghG6maPWhXm/Bu63wihPPOqfaFRu2o="
 }

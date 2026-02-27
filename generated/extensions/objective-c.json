@@ -1,0 +1,23 @@
+{
+  "name": "objective-c",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Akzestia/objcpp",
+    "rev": "488958c61807b6a44919fa848f44a38483f48b3f",
+    "date": "2026-02-26T12:43:18+09:00",
+    "path": "/nix/store/l494xdl1j8f65yvhd7li5b26m7p6nv08-objcpp-488958c",
+    "sha256": "1fvxmm4q1q2kgxvm2dx4vbb7zx1wwl9whprs759w5k127f3d9ba9",
+    "hash": "sha256-Sa3UhjsizMJTOTpfyBPlPPR/1tqkN1F3f1PggEmtfbs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "objective-c_objc"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-YCTc7t+jkuFORemU0NQUyR1INcUo3UHh3f0yfPIP0lA="
+}

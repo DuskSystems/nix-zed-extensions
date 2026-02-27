@@ -1,0 +1,19 @@
+{
+  "name": "dark-glass-theme",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/MagnusPladsen/dark-glass-theme",
+    "rev": "6ddb0e611ea8225d3828d588da7e6a942a34af9a",
+    "date": "2026-02-26T12:47:59+01:00",
+    "path": "/nix/store/4csa2yk8zhs3xd3ani39nmnq0s04xwzm-dark-glass-theme-6ddb0e6",
+    "sha256": "1mmaj6ami3111aslpbhbmyyag6pgm5x532s8xqp461gah7qnm8f6",
+    "hash": "sha256-xqFq8YHqBUMu7kiLUXqp75qnvK8Lrku1CiGMWJWRqtY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
