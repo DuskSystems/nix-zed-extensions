@@ -1,13 +1,13 @@
 {
   "name": "dockerfile",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/zed-extensions/dockerfile",
-    "rev": "6f341f0c18f6afb4ed3e9346a9260013cf84c377",
-    "date": "2025-11-03T11:53:45+01:00",
-    "path": "/nix/store/i7zn87s1934bmcbi5fria8ml6h5zily0-dockerfile-6f341f0",
-    "sha256": "03jrfyi0f3qjfj6iqfagiyzmzq2dx1smrqlqx9himr1m6q9njjdl",
-    "hash": "sha256-tElpEzY15Bph6pjiXHXoTeBfv49PORyNdBIPB6J3WQ4=",
+    "rev": "19be1b94725ff7e1ad2f73a48ad19d668ef9784c",
+    "date": "2026-02-27T11:51:38+01:00",
+    "path": "/nix/store/1kpnl79gh3sacbi4c1yn0pnqc735zq82-dockerfile-19be1b9",
+    "sha256": "1m71prl81a9dvsi3apy3ad0rvwr87g0f638q8gssc2afi134a95b",
+    "hash": "sha256-qyRFRohOCab1QxgN48A7KPOdQVPDXzWi3i2pgGi+4dQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-DLFLPdjJng4y5YRr2lwBghBtonlBaTFf+zstsTJKtRU="
+  "cargoHash": "sha256-/tA6irzth4IGQGZ81QzsvBxfB2naF3+GCmgYu8YyTzM="
 }

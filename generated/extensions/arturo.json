@@ -1,0 +1,27 @@
+{
+  "name": "arturo",
+  "version": "0.5.5",
+  "src": {
+    "url": "https://github.com/DaZhi-the-Revelator/zed-arturo",
+    "rev": "6392489a6dbc0444562a812c951d44a9043e97bc",
+    "date": "2026-02-26T20:50:24-05:00",
+    "path": "/nix/store/l4ii2kfl0lys3csyl96hvd72pg7gvnw6-zed-arturo-6392489",
+    "sha256": "05d2hx37k2j32ih6v16k9pm63jvzgrdyniv4wakkh7b7gijfc2mw",
+    "hash": "sha256-vArmZHxnHTin4mRH61t+f8th6k3ThG1gFEOKeUaHohU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "arturo_arturo"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pLa+PPpOyMkgyTqX/C3oeWZsrN9lSqqmZWhpVBRyC2Y=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/arturo.lock",
+    "outputHashes": {}
+  }
+}
