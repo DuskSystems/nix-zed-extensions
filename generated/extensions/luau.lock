@@ -750,7 +750,7 @@ dependencies = [
 
 [[package]]
 name = "zed-luau"
-version = "0.3.6"
+version = "0.3.7"
 dependencies = [
  "serde",
  "serde_path_to_error",

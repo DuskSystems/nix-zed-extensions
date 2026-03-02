@@ -1,13 +1,13 @@
 {
   "name": "starlark",
-  "version": "0.3.0",
+  "version": "0.4.1",
   "src": {
     "url": "https://github.com/zaucy/zed-starlark",
-    "rev": "54baaa7bb5a78f3a39425b3a83db0bc80aa832fb",
-    "date": "2025-05-19T15:44:04-07:00",
-    "path": "/nix/store/c6wzhc8g6qkiaw2b88kxpdhpr778f1rj-zed-starlark-54baaa7",
-    "sha256": "091hdiy01d2786d1624yjcqrcsbddsq93xlzqsx1gv33fsais6qz",
-    "hash": "sha256-HxsdlXZj7Be6xp/2kbBubWmWMZOeCBOaQUe0AHxsMCQ=",
+    "rev": "63b1bd23c290b5aca5d9fa5a65216075feb1f0cb",
+    "date": "2026-03-01T14:06:30-08:00",
+    "path": "/nix/store/0wy45rs17hk661kh28h8gprslb4x8ajk-zed-starlark-63b1bd2",
+    "sha256": "0zwa2w0491xrshg2cv4i67yc80dmh0pbqz9gjd3n8nik2izzrlqq",
+    "hash": "sha256-GNP8fxQzWmRHky99vC6AtQHE/DGRbCYe1LmHRAAXin8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-p4A3R8Q0l7hYyf0U4Lbuy8Sx/Y54HAzcDOMC7rjLvbc="
+  "cargoHash": "sha256-+uaPFN6lCrUSKAP6oAUX3Zi4xpfkjcyH3fhJnxa6FgU="
 }

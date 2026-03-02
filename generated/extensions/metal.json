@@ -1,13 +1,13 @@
 {
   "name": "metal",
-  "version": "0.1.14",
+  "version": "0.1.18",
   "src": {
     "url": "https://github.com/computer-graphics-tools/metal-analyzer",
-    "rev": "81ca2a3079ccbdfc4ed6a65a830ffc2ee58c9cdb",
-    "date": "2026-02-24T21:19:57Z",
-    "path": "/nix/store/bh618yrnd5a8jgcc1a4g5kq2v3jhk7qw-metal-analyzer-81ca2a3",
-    "sha256": "1a45wwwbap6s56lrlbsl7n9gry1qgpna3pl5zbkww280ysk25bmc",
-    "hash": "sha256-rK4ipvYACc7n+oXeoex9OPj8kj1UL5qpKdpctTjnhag=",
+    "rev": "7f0ad2ea2e92df3de6930c7e65fd716519118778",
+    "date": "2026-03-01T11:46:51Z",
+    "path": "/nix/store/vfk97cyral7ds96kxk2n79s1rbwh3f3b-metal-analyzer-7f0ad2e",
+    "sha256": "0c3m3a15v9m66lbw69hm7ffihqacnn34wpsgvr0qwwj2n9s9r8jr",
+    "hash": "sha256-WaKcdLJCco5B3k9fToa1TGEYnTsVJsMXNaamXYIadTA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-a0iS4qpbVWr0djBWyGchxxt5977P64r94f+tq8nP86s="
+  "cargoHash": "sha256-cEjS1J9+8/0EVswWXNrPrJF2Z9Okmr9hyvbV2F5RnIw="
 }

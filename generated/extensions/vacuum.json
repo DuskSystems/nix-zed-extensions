@@ -1,13 +1,13 @@
 {
   "name": "vacuum",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/kovapatrik/zed-vacuum",
-    "rev": "8289e8cb661127fceefed31f0aa377df597aaff8",
-    "date": "2024-09-20T19:07:21+02:00",
-    "path": "/nix/store/i9i8vr36a21vwcqwrws6v0xn2i2gn06j-zed-vacuum-8289e8c",
-    "sha256": "1wjmjzbv3san419kws03j3x71rx37dqjy07czcqgjkiky6sqzan6",
-    "hash": "sha256-xqqPtfEzTvkw++wAL3E7o+dw+pADaD5TIFbpsdeXVfI=",
+    "rev": "c9368616554089a1420c830852e339c7a4c4d718",
+    "date": "2026-03-01T20:07:48+01:00",
+    "path": "/nix/store/w7gdrqjvb1fyh3y45vyp9qyp3zli28lc-zed-vacuum-c936861",
+    "sha256": "02p1abpnh50ch2diak50lz1acmazkfkwj06sb3xwhgpd6kzh24rg",
+    "hash": "sha256-LxMB/zTtPsj7WNoAyaebX1WmwqegTBWbgAwUaO9S4Qo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-/1+S4/qGAOcH5mV/eR1l3X0wXvuhYPM9NN0ogDu7GkI="
+  "cargoHash": "sha256-6trkbB4xUF1D+xmCCisrtt2gqDLDLwbq4La1Zy2erh4="
 }

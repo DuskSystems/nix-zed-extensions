@@ -1,13 +1,13 @@
 {
   "name": "sentry-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/fabric0de/sentry-mcp-server-zed",
-    "rev": "db28fd3165587a6659e666a165254125eb1daed3",
-    "date": "2026-02-22T14:42:29+09:00",
-    "path": "/nix/store/0bbv6hj74brppkssqiyqin1fsff4xkvr-sentry-mcp-server-zed-db28fd3",
-    "sha256": "15n559dgnyhjj6k5sslqp2r3rb6pdnqn8m4hm6rh8f0l5brxakw0",
-    "hash": "sha256-gE/V8yoUOASzqZBUZLFt16w8sriYal2mkRJ6+1oqxZY=",
+    "rev": "38d9aad3c1d073da5e284e7c872d41a4021e0353",
+    "date": "2026-03-01T15:39:07+09:00",
+    "path": "/nix/store/maql1m6wpci54ydlvn64qigil0g5hrdm-sentry-mcp-server-zed-38d9aad",
+    "sha256": "0fbv7ifxn9snbj4rzsmyafgaywwak9cq0g1mmp8bgxq6l0dy09hl",
+    "hash": "sha256-FCbgG6AG97fQrTU8gFmainOvnlO+6p+JXFYn2108ezk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-+zoaKmzFnEKntEVBJQEALRa3bjM4vhs7kb5pvJT+wIw="
+  "cargoHash": "sha256-6jpjO8OscOoKkeNkCnl/V6j/XVLJCtXMv8wYJ2Ilx6o="
 }

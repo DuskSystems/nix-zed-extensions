@@ -1,0 +1,19 @@
+{
+  "name": "plastic-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/ibnuh/zed-plastic-theme",
+    "rev": "98c34dc4b59c65d64a9410aa25e4f66be0918cf8",
+    "date": "2026-02-28T12:03:55+08:00",
+    "path": "/nix/store/arz4lnv1rbihsb9mcdxa1ns1fz90a971-zed-plastic-theme-98c34dc",
+    "sha256": "02x8n6zx75gv8y7y0kdgmqglcpd0j5s8f09bbfrqrqnpyh8xa46m",
+    "hash": "sha256-1RDVEfTX4oyzWysBh3SRoF1GH66vTeCPR/uV07+xqAs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
