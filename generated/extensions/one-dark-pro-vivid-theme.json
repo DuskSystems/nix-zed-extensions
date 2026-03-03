@@ -1,0 +1,19 @@
+{
+  "name": "one-dark-pro-vivid-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/navinpeiris/zed-one-dark-pro-vivid",
+    "rev": "d76efc6b97777575d289c5eda0aab3fd7b04f441",
+    "date": "2026-02-20T08:09:02+05:30",
+    "path": "/nix/store/hqf18sb582xvkf7az4vzjl3ha3hn0ahj-zed-one-dark-pro-vivid-d76efc6",
+    "sha256": "1jmif87g0fd343z4flw28fxqirgz5rj6l4c7r3gg70rylxinlnyc",
+    "hash": "sha256-zFtqY6c+g/PeyIcRamQu/+WIu0OCU0f+IKM58A5ysco=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

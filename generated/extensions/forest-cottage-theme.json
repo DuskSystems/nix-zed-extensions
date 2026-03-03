@@ -1,0 +1,19 @@
+{
+  "name": "forest-cottage-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/zphrs/forest-cottage-theme-zed",
+    "rev": "a5d6bd4390dc98a2feff2d582eb68ec5aaa1c257",
+    "date": "2026-03-02T04:35:54-08:00",
+    "path": "/nix/store/96h9sainfprdbjriar3n83gk5415gsm9-forest-cottage-theme-zed-a5d6bd4",
+    "sha256": "1kh2hbwdwvfs45az1hw9ci2s9yiczaw8jqd9s24ij82phydnrqn6",
+    "hash": "sha256-xuJsm4dXIBmJ0Klhibj6LPqkRWSJw/BVIdpt3viCAs4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

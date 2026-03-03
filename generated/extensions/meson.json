@@ -1,0 +1,27 @@
+{
+  "name": "meson",
+  "version": "0.5.0",
+  "src": {
+    "url": "https://github.com/jobpaardekooper/zed-meson",
+    "rev": "f33ba209f7c75390a6a3265e5f1cc18884e9f39f",
+    "date": "2026-03-01T23:06:23+01:00",
+    "path": "/nix/store/qsaf4fpsgjjjf6izf0p19ijlrjvzdcrx-zed-meson-f33ba20",
+    "sha256": "0166404jr5gsd2lliwzpiipaxp38j4srlkw5n423bjfi83zlzzzj",
+    "hash": "sha256-8v9P/0DRyTUEsYVPmjWRaNyuboz380ipaPqVLAkgxgQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "meson_meson"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-g2JZ2EUIMRVGzPIf2oI5OxMflyAOcOcl4U7d4alyyYs=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/meson.lock",
+    "outputHashes": {}
+  }
+}

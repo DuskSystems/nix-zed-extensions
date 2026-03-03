@@ -1,0 +1,22 @@
+{
+  "name": "tla-plus",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/Akanoa/Zed-editor-TLA-syntax",
+    "rev": "85e44d9f288dabf8e198980994a673b7a20f1b19",
+    "date": "2026-02-15T08:09:52+01:00",
+    "path": "/nix/store/spjvc8dzk4qfg73m3r962d6qn2wf8bnd-Zed-editor-TLA-syntax-85e44d9",
+    "sha256": "1fcibdwd7dgmhz1vg4bg2xflig0sscbhvaj05gisnc0pni9smgsy",
+    "hash": "sha256-Xr+qU7QXMKvjK0CqDRfTGrxIXRdvkbfDh/W103hbkbk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tla-plus_tlaplus",
+    "tla-plus_tlaplus_cfg"
+  ],
+  "kind": "plain"
+}

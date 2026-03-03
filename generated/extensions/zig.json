@@ -1,13 +1,13 @@
 {
   "name": "zig",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "src": {
     "url": "https://github.com/zed-extensions/zig",
-    "rev": "9bb2b1ad0c563808e72178baf6dfd7991de61046",
-    "date": "2026-02-02T21:06:10Z",
-    "path": "/nix/store/bxkscrllhz58pf0lj39vg7yr9dzwi0ch-zig-9bb2b1a",
-    "sha256": "1kj5prxd7pn9n9nvh2j9q147d7xvai3ngarf5xxzhf18w7y0f7kj",
-    "hash": "sha256-ch4H/OEoOPh7Ly6rZ0dUu592SMBJCrhtssne03q+Rc4=",
+    "rev": "64fc8ac0fb074565f91764cf76ac5ff68638df8d",
+    "date": "2026-03-03T02:09:29+01:00",
+    "path": "/nix/store/vzg85x0zd2jd0g2ghq0j2vqpgz46mjkd-zig-64fc8ac",
+    "sha256": "1zs18b2gqd02ldxc12azp2yvwfsl6dxsq0b144n2x1hvyqn0cwqv",
+    "hash": "sha256-G3MGLPYbhi4sIWEBrHszVDu+vbhficB6owI0/MRCQf8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wSuzMRMs7uVKRsxZxtioFShAtBoIOtA2WSwD6Ushois="
+  "cargoHash": "sha256-9YCquyjJuJdhxG/NqbfyDpVD+g+HtLdrKyalfAoaB9I="
 }

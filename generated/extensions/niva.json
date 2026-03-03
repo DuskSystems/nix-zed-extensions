@@ -1,0 +1,23 @@
+{
+  "name": "niva",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/gavr123456789/zed-niva",
+    "rev": "cbe1f7706e07715920ab3019c0bd8aa528d2c7c4",
+    "date": "2026-02-28T21:03:47+02:00",
+    "path": "/nix/store/65j7x45jx825lgkbkr7d9jkrfn68bwv7-zed-niva-cbe1f77",
+    "sha256": "0cx1bz8ya615pwdwnjcj93ksy9hj2x9ll8lswl49k84rqh8bv7aw",
+    "hash": "sha256-XJ29EMSZoJkI5ZoiSlMXEiav50iSScsbvyUY5dFfoTM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "niva_niva"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pO5SwNWANYP1S8ajiIGs5sz0kp67oKa58DFU9p12c8s="
+}

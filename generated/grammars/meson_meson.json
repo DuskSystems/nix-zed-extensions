@@ -1,0 +1,18 @@
+{
+  "id": "meson_meson",
+  "name": "meson",
+  "version": "c84f3540624b81fc44067030afce2ff78d6ede05",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-meson",
+    "rev": "c84f3540624b81fc44067030afce2ff78d6ede05",
+    "date": "2026-01-23T08:46:46+09:00",
+    "path": "/nix/store/p9kcz0qz3xj3vd5mqxk42rxyy0c53xjj-tree-sitter-meson-c84f354",
+    "sha256": "085v9jw10n3217jyj7852prsa19bycyxkmxbh6nddwsbkp9i2qzq",
+    "hash": "sha256-+GMR051L89asgavX2T3zKwWl8xUFHenlCWJYELhMuyA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

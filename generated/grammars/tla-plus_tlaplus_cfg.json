@@ -1,0 +1,18 @@
+{
+  "id": "tla-plus_tlaplus_cfg",
+  "name": "tlaplus_cfg",
+  "version": "8d10f7d4a9138d0f75ca490f760dee1ec302c44c",
+  "src": {
+    "url": "https://github.com/Akanoa/tree-sitter-tlaplus-cfg",
+    "rev": "8d10f7d4a9138d0f75ca490f760dee1ec302c44c",
+    "date": "2026-02-15T01:50:49+01:00",
+    "path": "/nix/store/vp4fgf9crsvqwgyb0w1swyd4rhpy3ry0-tree-sitter-tlaplus-cfg-8d10f7d",
+    "sha256": "1g4k535rbp3l443cf8vjndblxrqzckwhyfqckbiymjrn9l201ns1",
+    "hash": "sha256-QdsABE02y+rjmgw7D/lkH+dOV7NyI8cGIXTclcsok7w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

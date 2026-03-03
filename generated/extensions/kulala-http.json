@@ -1,0 +1,23 @@
+{
+  "name": "kulala-http",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/HusuSama/zed-kulala-http",
+    "rev": "524909f96fb023ed09cafc85bc396aedf2c9164a",
+    "date": "2026-03-02T14:40:37+08:00",
+    "path": "/nix/store/2qpj537xg8fmffjsxdwnvj6bpjd506r2-zed-kulala-http-524909f",
+    "sha256": "0cbacmnwj5cckz0fchwvppfwghsi67r8dqps8f6lg3ddnxqb6122",
+    "hash": "sha256-QgSzcLetjUeNQ/rihvIxUcPH3b2bQ+bAn4wVyW1lajE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "kulala-http_kulala_http"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-TvsNlNhIyPAaUwaBwE90NmmdxGrUzlOJFpICTOpWLRw="
+}

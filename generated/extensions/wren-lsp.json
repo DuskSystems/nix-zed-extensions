@@ -1,0 +1,21 @@
+{
+  "name": "wren-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jossephus/wren-lsp",
+    "rev": "0605d69b6fa356c803c090a851eec5448e3b12cd",
+    "date": "2026-03-02T18:02:11+03:00",
+    "path": "/nix/store/kfya7a1511wzzfz5zb7k8kmsyz6n110h-wren-lsp-0605d69",
+    "sha256": "1sk4725fwyxgm1cn9bi4jzasqspcyigd2q8jqgkxrkpd4gd0k5fr",
+    "hash": "sha256-2ZUJ2iPtztznwxJh0V707Gqs1ZckrmRZqK977oo4ZOo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-6ySRCl3o32nE3GrYYeeJPlpH0l2136DBPPocU09eaPs="
+}

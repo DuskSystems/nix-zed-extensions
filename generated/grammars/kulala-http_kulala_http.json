@@ -1,0 +1,18 @@
+{
+  "id": "kulala-http_kulala_http",
+  "name": "kulala_http",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/HusuSama/tree-sitter-kulala-http",
+    "rev": "1b385e7954b2805d9871e5527e45207777978daa",
+    "date": "2025-12-25T08:25:37+08:00",
+    "path": "/nix/store/8w2q5yp9qbc6rsmj5v4i8i71fsc1wz8h-tree-sitter-kulala-http",
+    "sha256": "01xbrbfc6gj0agcs3n06li0c60yhxpky5g42hi2adqp6l838gkfb",
+    "hash": "sha256-y82HBqLm4qZEhIK84uft0APDQKQG2KHZU0A+w9zKqwc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "niva_niva",
+  "name": "niva",
+  "version": "6e06542cac003906f65d8320885c63c0a881e480",
+  "src": {
+    "url": "https://github.com/gavr123456789/tree-sitter-niva.git",
+    "rev": "6e06542cac003906f65d8320885c63c0a881e480",
+    "date": "2026-02-17T20:51:27+02:00",
+    "path": "/nix/store/9b68qsb2xxmagx1nfsydi7g4551z04gb-tree-sitter-niva-6e06542",
+    "sha256": "1jsx3g56c21fli7k4gfaivddz9f8c56ibk1v65w8iiyzibvxr2sj",
+    "hash": "sha256-Uovc94rfx4h4MTvMFU1hyKXf2o7KPTJPpC4IZsobXcs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

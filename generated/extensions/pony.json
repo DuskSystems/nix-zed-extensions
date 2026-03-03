@@ -1,13 +1,13 @@
 {
   "name": "pony",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "src": {
     "url": "https://github.com/orien/pony-zed",
-    "rev": "1d7fee4ab62a279a056f573e513964d6a99f29ac",
-    "date": "2026-02-13T01:32:33+11:00",
-    "path": "/nix/store/8c6rs2gknnmyazpf9vd8xavzwms94zh6-pony-zed-1d7fee4",
-    "sha256": "11b6lklya64jxp61q5ny4c6y7afwmzcxzf36qxq5000l18yjzcj5",
-    "hash": "sha256-RbIvPQoUAFBwx2a439mv3KnjDSPeFhzM7ZIY5emkZoU=",
+    "rev": "acff98067c857223148dc657e895123533405b2d",
+    "date": "2026-03-03T06:59:57+11:00",
+    "path": "/nix/store/aznjiv6gyfpclf7n1axr63z3z38504cd-pony-zed-acff980",
+    "sha256": "03fczwimaqvimrj8d582lgy6628sg7znkyiwp9gyd89mj45jrf23",
+    "hash": "sha256-Q7gsC5E1oeZfujz6af95Gglj/KMClYZkrnFjVSP/zA0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-kTs1BqoeDp5u3NAJj9zN+lcCXDMBrlv+71nMYvMeHnU="
+  "cargoHash": "sha256-Q89RvnmqAqEpfZ/U3XdDmhSoh16D6A5mpdpTeLBvYSU="
 }
