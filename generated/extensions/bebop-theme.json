@@ -1,0 +1,19 @@
+{
+  "name": "bebop-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ATTron/zed-bebop-theme",
+    "rev": "b459bf84413e5cb15c3b45daf22bb7433265fa9f",
+    "date": "2026-03-03T18:28:36-05:00",
+    "path": "/nix/store/4wlxi5nf7yq9d164z0868g7b447fr57c-zed-bebop-theme-b459bf8",
+    "sha256": "1nz6i1kd372jhz2j96q9df9v2ciaicc4n8jgz9sla4jjiyx4wmvp",
+    "hash": "sha256-d1dOuo9SEkV1+k8iSxiLKjKxk2sJmyTFh1Kc0WaI5ts=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

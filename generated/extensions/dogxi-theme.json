@@ -1,0 +1,19 @@
+{
+  "name": "dogxi-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/dogxii/dogxi-theme-zed",
+    "rev": "22a7cf3f82ec022b499431f2c5f81ca40280f22f",
+    "date": "2026-03-04T22:22:35+08:00",
+    "path": "/nix/store/bk2s8cqnfd82mf494qjm0cpz25havrnc-dogxi-theme-zed-22a7cf3",
+    "sha256": "03c71vmvni48bgm2nh3dv9l7p2mn2w719wk8wdf0w4pag1gjmlmk",
+    "hash": "sha256-s9IqX3jqEg5c42jyFA4Xtop7aNptQCvqW4hEu+sOhw0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

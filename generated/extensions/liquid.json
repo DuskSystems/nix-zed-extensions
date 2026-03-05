@@ -1,13 +1,13 @@
 {
   "name": "liquid",
-  "version": "0.5.0",
+  "version": "0.6.1",
   "src": {
     "url": "https://github.com/TheBeyondGroup/zed-shopify-liquid",
-    "rev": "4107cc25675ae19af3e99b3adcaca313c448248a",
-    "date": "2025-09-29T14:55:42-07:00",
-    "path": "/nix/store/3nnqjyli1vicg68ng53kr0m58dpanx0k-zed-shopify-liquid-4107cc2",
-    "sha256": "1884ap6jhk1yxw5li3amkn6g5pq8pm3nx23flpwv8yf3i2kfpmh5",
-    "hash": "sha256-BdbrpojDebT5pW6Ibke9CN/yjJ1VjUgL7z5MKM1VBKE=",
+    "rev": "868560e8352339dc53ec05bcc8e2e1dec5e1c432",
+    "date": "2026-03-03T10:54:58-08:00",
+    "path": "/nix/store/ijhl23v46gc79spx30wm3sq3mqb871ry-zed-shopify-liquid-868560e",
+    "sha256": "0mqdaxjgryry6pmswbl8gm8m0rznqpf90q6wavs9mx18mhv8qqpy",
+    "hash": "sha256-/mKMNqwo9Jr0VtxgkNzF9mdQUX2ILq7rNT77/GRXDVc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-QhQPysHgi5UgpUnG2JRH3rHdFQmQwpIlq77E4y6qe+Q="
+  "cargoHash": "sha256-4e9NirKsIrcx6uUx4twaIz8da1FpxQelZAzG+IeRTug="
 }

@@ -1,0 +1,19 @@
+{
+  "name": "pierre-theme",
+  "version": "0.0.23",
+  "src": {
+    "url": "https://github.com/pierrecomputer/theme",
+    "rev": "328308d0606b17e44f7a18146fef2e6e630d6035",
+    "date": "2026-03-03T12:04:52-08:00",
+    "path": "/nix/store/0labcgpai40gz17mmd565awx4w6vf4al-theme-328308d",
+    "sha256": "0r38b9szizm6handpkvsjg5nfmk98baqh9dgcn28q3v1dyyiqh2m",
+    "hash": "sha256-VUAcvW9hD4yEZa8liNVCaVZny5N6z9usgqb++HVaaGQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

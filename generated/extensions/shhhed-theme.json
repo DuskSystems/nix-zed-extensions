@@ -1,0 +1,19 @@
+{
+  "name": "shhhed-theme",
+  "version": "0.9.9",
+  "src": {
+    "url": "https://github.com/mkhamat/shhhed",
+    "rev": "81defc2bd86d2d78670c15f621c74d04b2436766",
+    "date": "2026-03-04T19:19:18+03:00",
+    "path": "/nix/store/0afgbi1cqzbvdp50xmhzjsj7cra41xms-shhhed-81defc2",
+    "sha256": "18x2qczryfy4h8rznap1mwxlzzlk7mdks40hzkabpcmm7fv8mxvb",
+    "hash": "sha256-a/eKtju1srvU/BAQPVs9k/5PO6/hKvszgsQ7nz/DoqM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
