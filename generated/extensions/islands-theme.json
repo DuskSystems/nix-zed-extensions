@@ -1,0 +1,19 @@
+{
+  "name": "islands-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/himattm/zed-islands-theme",
+    "rev": "4923d5b0a9d8dc2bd783d29d24a05cfe857d2409",
+    "date": "2026-03-04T13:44:45-05:00",
+    "path": "/nix/store/bhirk022gkd500jbcxhzawmxb217givj-zed-islands-theme-4923d5b",
+    "sha256": "037ncqzwvxj8xw24wwpgdgpwrkmdg8p75r2sd1ilqmivszh2n4b0",
+    "hash": "sha256-YBEr4Nc7VkxjaFrkci56rc7M72vvck4E70j2zT9m9gw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

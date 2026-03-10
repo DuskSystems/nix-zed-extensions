@@ -1,0 +1,19 @@
+{
+  "name": "blueforest-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/alonsodomin/zed-blueforest-theme",
+    "rev": "9b50a79684bf6f16f60c42ca183fee60483461c8",
+    "date": "2026-02-02T00:13:15+01:00",
+    "path": "/nix/store/0mzvr8ybw9ff4wf8h0kpk2vawn56qpvn-zed-blueforest-theme-9b50a79",
+    "sha256": "1qfa2f0ahlalp5pw4iv4iqcp3rkk1cfkqwq4dlxs1gzxhyjs6bxg",
+    "hash": "sha256-ry+jpYf9v6A7bQRzPB0Lc+ZxGY5kR8JvuVRRqIATyuE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

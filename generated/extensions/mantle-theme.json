@@ -1,0 +1,19 @@
+{
+  "name": "mantle-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/madi-zh/mantle-theme",
+    "rev": "ec7e2e5e88fd8e56b46b4aef051e3b475c4f97b9",
+    "date": "2026-03-06T21:30:21+05:00",
+    "path": "/nix/store/ws538yjy8j2r1dn6qniaqqxalkn0igrk-mantle-theme-ec7e2e5",
+    "sha256": "1dn32681ihdd0swc6q1sq45dry2b4y0madahffhml9y4453cflmg",
+    "hash": "sha256-r1LHRiHEJ1qhc1A1VYEnS/jcCsE6YMO4Bq3BGJARw7Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

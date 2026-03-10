@@ -1,0 +1,19 @@
+{
+  "name": "zarcula-theme",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/igorgoroun/zed-zarcula-theme",
+    "rev": "1dfc93f511c1046c2ae1a48883507de49e6d7810",
+    "date": "2026-02-05T20:54:53+01:00",
+    "path": "/nix/store/w3c3jjmadimq7c0fx4l2fk5swz44rppy-zed-zarcula-theme-1dfc93f",
+    "sha256": "0kpf5qgb9d4gmk1h5q66k5l07lp6pl1zf7gln2vhixw49irjy08c",
+    "hash": "sha256-DAEvc0yE9wi3sPQd9wO95tIDaJnG4ALDrI+0tB4u7k4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

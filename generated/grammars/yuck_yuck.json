@@ -1,0 +1,18 @@
+{
+  "id": "yuck_yuck",
+  "name": "yuck",
+  "version": "e877f6ade4b77d5ef8787075141053631ba12318",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-yuck",
+    "rev": "e877f6ade4b77d5ef8787075141053631ba12318",
+    "date": "2024-05-05T18:16:50-04:00",
+    "path": "/nix/store/1lrswld79bkwi3jzjp8ivv3r22cj7svp-tree-sitter-yuck-e877f6a",
+    "sha256": "00l009xmjpr2fgrbibhgkymk1kw2al2m8zi93civyjxwpbzkbiwp",
+    "hash": "sha256-l8c1/7q8S78jGyl+VAVVgs8wq58PrrjycyJfWXsCgAI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

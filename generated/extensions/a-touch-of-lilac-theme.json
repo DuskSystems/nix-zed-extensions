@@ -1,0 +1,19 @@
+{
+  "name": "a-touch-of-lilac-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/szymkab/a-touch-of-lilac-theme",
+    "rev": "90f49cfa9236f159ed75c46d9f5cd451ae118fff",
+    "date": "2026-03-08T19:02:18+01:00",
+    "path": "/nix/store/p8nvhml1kdlamxfalh1jds0km97p1y6j-a-touch-of-lilac-theme-90f49cf",
+    "sha256": "1g5qmwck1vw785ywvcia6qnzbq7kp5lcpscr9zmhn04k906snv3b",
+    "hash": "sha256-a2yrDUiTAAvrT5npy2i58+D1LTYqss19QYfvMBmvuLw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "yuck",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mikaeladev/zed-yuck",
+    "rev": "4dbd53884c85afeab3e4e9f4b9e3dcf95fd4ab84",
+    "date": "2026-03-08T13:46:39Z",
+    "path": "/nix/store/9rz2wn0bpndk1l7f3n58msz179kgi8ic-zed-yuck-4dbd538",
+    "sha256": "00ws2wacp4q49qv0j3cwl383wz8wq8kzjjrzwdvlq15cf8cs5p32",
+    "hash": "sha256-YtyiGXKsBEx34z9L+SfCHH0+0KCcDQk2TgSTyxQXmgM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "yuck_yuck"
+  ],
+  "kind": "plain"
+}
