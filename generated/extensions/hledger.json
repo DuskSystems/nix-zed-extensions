@@ -1,13 +1,13 @@
 {
   "name": "hledger",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "src": {
     "url": "https://github.com/juev/hledger-zed",
-    "rev": "85a419dd4ea9afbf513dc9e35fd5b3228360a88a",
-    "date": "2026-02-26T13:01:15+03:00",
-    "path": "/nix/store/ddr0gcxnmqdz7m8497xh0ngzvz2s2zi2-hledger-zed-85a419d",
-    "sha256": "0x2q943affsn9zrk7cwhjg2wh59hay0wqq7krid2axdxrj1bqq0p",
-    "hash": "sha256-F2C8gsy9dSVazPNgzIFXMBXIxZOQszPzT1Y7pwZJWHQ=",
+    "rev": "0a675884bb22292697b9c461d3f994439add07b7",
+    "date": "2026-03-10T14:03:27+03:00",
+    "path": "/nix/store/b249hzp7ljrspmr9kbbvibm5fqrai02g-hledger-zed-0a67588",
+    "sha256": "1zz6dpac9plqhaj1pa49p3b9hizsyr0p4xaq9asz6xy85ianzhnk",
+    "hash": "sha256-08JvVSzId/O1Slh1ckH2+keY1riJqBukgpjexNRt5v8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-6SW70L1xy7DjOSQBwQy5Uj9IdRJPO5jDXW65a13mXpo=",
+  "cargoHash": "sha256-5oAFYkAvW32B6oz0aS3mGQhEaCO9YFbUMb8Sk661yRE=",
   "cargoLock": {
     "lockFile": "/generated/extensions/hledger.lock",
     "outputHashes": {}

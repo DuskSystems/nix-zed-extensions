@@ -1,0 +1,27 @@
+{
+  "name": "arduino",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mambucodev/zed-arduino",
+    "rev": "ac86290e5f8602188defb358a26082a38626c9d5",
+    "date": "2026-03-03T09:45:32+01:00",
+    "path": "/nix/store/kl30r471v12ndnc356b605vln3jd58kl-zed-arduino-ac86290",
+    "sha256": "07q8rggwkkskpkzbc2wlqzcw5xjfs6lbi7yw4d74ckdgkxhxf9g1",
+    "hash": "sha256-4SXXYZ+vTUZOI9yfuKjRTvbC2ceUC7b+vFPPyd/LCB8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "arduino_arduino"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-qBtWqOscGoheKu4ShQsAsqNkJFVcPH/pRLBH4n1bLao=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/arduino.lock",
+    "outputHashes": {}
+  }
+}

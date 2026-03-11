@@ -1,0 +1,18 @@
+{
+  "id": "arduino_arduino",
+  "name": "arduino",
+  "version": "53eb391da4c6c5857f8defa2c583c46c2594f565",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-arduino",
+    "rev": "53eb391da4c6c5857f8defa2c583c46c2594f565",
+    "date": "2025-09-07T09:14:12+03:00",
+    "path": "/nix/store/03kyfl0fk6dq0dgavhvn14qfs90mbrxb-tree-sitter-arduino-53eb391",
+    "sha256": "1xv2ihny8gis8lm1gqikns202rmy6x9d07y29r2jzqwr4dc581d9",
+    "hash": "sha256-qQVUWCOZ4y9FTsIf0FI3vmYBhLYz4hcqRTo+5C2MYvc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

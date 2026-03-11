@@ -1,0 +1,19 @@
+{
+  "name": "nostromo-ui-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tscritch/nostromo-ui-theme",
+    "rev": "598c60ba9891f2d56b1bc853d984e8b4d23f6aba",
+    "date": "2026-03-10T16:22:20-05:00",
+    "path": "/nix/store/kiqrmz4k6cf4sylsizjpfkc2cl42qla0-nostromo-ui-theme-598c60b",
+    "sha256": "1628qkj6h98brq9bc75ypmw55awxj9qb3ck7hd3vh02qnbbz2qpd",
+    "hash": "sha256-7WLx17JYALhHg2eysXCSnatSeL2+HLYSzgslaOTESJg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
