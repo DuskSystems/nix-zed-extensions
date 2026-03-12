@@ -1,13 +1,13 @@
 {
   "name": "ocaml",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/zed-extensions/ocaml",
-    "rev": "036d764d4f8152dbd5989da553fc54e85b92acda",
-    "date": "2026-02-25T17:30:55+01:00",
-    "path": "/nix/store/brsihjff631wal0lf7ggy93q6fz26jcv-ocaml-036d764",
-    "sha256": "0amh80lal8354iv5c7xwfsxlcb5j8rk65rqh0ijdmv3zl6jcgg6d",
-    "hash": "sha256-zbzHpKF/7NpkBBDnYmZGsixGu3a8H1Z2JGUgqihAsCo=",
+    "rev": "2016935dd93e7ea01ce19e468fe97575da970ea2",
+    "date": "2026-03-11T18:48:02Z",
+    "path": "/nix/store/kisd7xfgcb75440v9n3h326lgwr2w6cc-ocaml-2016935",
+    "sha256": "0msq5pva18r70l2pczd7d1m6lnk0wgwdpjjm5l2l64rywih9hwjr",
+    "hash": "sha256-WXKYYOQ+E0MFLVXK2/jjYFpqaminfXYFBSejoPYtWFc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -25,5 +25,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Dvh23nidZl+REu975arxEyBgI4lCfctjhfQx/H1SDUg="
+  "cargoHash": "sha256-dS/FpuFh+RhUuymij544JK8rWhW5X0FYlupzSgQDGMw="
 }

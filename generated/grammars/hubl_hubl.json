@@ -1,0 +1,18 @@
+{
+  "id": "hubl_hubl",
+  "name": "hubl",
+  "version": "f5af1bf3564c837d52fa6d16157a3991edd4815d",
+  "src": {
+    "url": "https://github.com/blueambr/tree-sitter-hubl",
+    "rev": "f5af1bf3564c837d52fa6d16157a3991edd4815d",
+    "date": "2026-02-13T15:54:55+01:00",
+    "path": "/nix/store/xw841rr0mz6v98xcwlbvx9pwcrlii445-tree-sitter-hubl-f5af1bf",
+    "sha256": "1icdmbi818r16sdrm539yjp1xf742fw9j5vmhbcrc9q3h541h8rn",
+    "hash": "sha256-NiMYSIEDJ5bZgnUXmbgT5LgervRplJqbNiGjgOKqjcU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

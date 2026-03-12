@@ -1,0 +1,19 @@
+{
+  "name": "irodori-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/agrahamlincoln/irodori",
+    "rev": "eadfec7f301ddc24d33a60c8e32aa8baecb1a288",
+    "date": "2026-03-02T21:57:32-07:00",
+    "path": "/nix/store/6hkmv8i6lly7d39s3ak5357imjy8v1bf-irodori-eadfec7",
+    "sha256": "1lr3fax2lgbp5d99yn6ll2xdf4n7vzaqbdfhndy5mzjkap1ij4kj",
+    "hash": "sha256-chIZw1VT/lp8s9C1hdXfxxLXuqDUWJ9SK3c9KrpyI9M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "hubl",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/blueambr/zed-hubl",
+    "rev": "e7197f6ddf1c59ae3144f1e848e6f0ace089085f",
+    "date": "2026-03-02T17:57:59+01:00",
+    "path": "/nix/store/qkdbzx3syd3hal8fjpa3fp5ppw760g9x-zed-hubl-e7197f6",
+    "sha256": "1dkma61a72avlqavpsiwwa4r8vxxzy4mjna6j77m2vclvazlw86l",
+    "hash": "sha256-1CBOv9qUbVHPkUZZWYn/vW+UieI86rsVpluJo4JRdbY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hubl_hubl"
+  ],
+  "kind": "plain"
+}
