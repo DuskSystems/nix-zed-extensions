@@ -1,0 +1,19 @@
+{
+  "name": "gleam-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/BlueBlizzardd/gleam-zed-snippets",
+    "rev": "9ad75cbcd342d56443ebdbfac297988d4093061b",
+    "date": "2026-03-12T12:57:33-04:00",
+    "path": "/nix/store/9r5jy87v9m4fl8ar178gpkxbwsf1vy45-gleam-zed-snippets-9ad75cb",
+    "sha256": "0vn4gmkgn0i779smshj0iqpis90rxli9s432vi8kzjq6aq2rypcr",
+    "hash": "sha256-mV2fBVYGyz9R3GIQnSLtGSQdL45AQl11OicC+2Z9xG4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

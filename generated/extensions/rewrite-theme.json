@@ -1,0 +1,19 @@
+{
+  "name": "rewrite-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/RewriteToday/theme",
+    "rev": "82c3bf654e334cea9bbcf878ccaa959bc33b5675",
+    "date": "2026-03-12T08:57:52-03:00",
+    "path": "/nix/store/y1p1c1bp96ymgaq7nirc2bi2fcml1pdm-theme-82c3bf6",
+    "sha256": "1ybha7fnhqfddkgcfpcgrjrn5gy4rvl27bc6ac8l7zdd4x4n1qxs",
+    "hash": "sha256-uuNgSSet/UMRU4atI+jOxL9is8yPXcfebM1haN1RcPk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}
