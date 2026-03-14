@@ -1,0 +1,19 @@
+{
+  "name": "spinel-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/a-lavis/zed-spinel",
+    "rev": "d53e6ae7defa2670aedd300699b6b4dec3c3dc31",
+    "date": "2026-03-12T13:45:48-04:00",
+    "path": "/nix/store/xqh39gxg9idsp2pqmqs80j2vd0n1ssc7-zed-spinel-d53e6ae",
+    "sha256": "0ipvhaxhdbph7ldkin0a7aif03chsk7akb002fc59i68gvfv2s2q",
+    "hash": "sha256-WGix3X7IxFSYEwCsqc7UkA3gojoK2DgbPfCuBruC+0Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

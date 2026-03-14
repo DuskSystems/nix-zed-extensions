@@ -1,0 +1,19 @@
+{
+  "name": "kokedera-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/7th-Layer/kokedera-theme-extension-zed",
+    "rev": "9ab485b251779b663d9914620a53a4761fc77538",
+    "date": "2026-03-13T11:26:41+01:00",
+    "path": "/nix/store/vi8z758xym8b5glxnf9wpfgxlc7wrhc8-kokedera-theme-extension-zed-9ab485b",
+    "sha256": "0yjbwgkmwgl8fxrq50xamnx4zf0bqa4nzxs02babb20s1b1z78rp",
+    "hash": "sha256-N6PzwwoaiLXUEkD3b4nCC7hPuq2qg4Jzd4g+XufjS3o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

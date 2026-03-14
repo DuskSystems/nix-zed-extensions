@@ -1,0 +1,18 @@
+{
+  "id": "doxygen_doxygen",
+  "name": "doxygen",
+  "version": "d74754b74100a5f8eb5981f4a1323127750c9b30",
+  "src": {
+    "url": "https://github.com/ozacod/tree-sitter-doxygen",
+    "rev": "d74754b74100a5f8eb5981f4a1323127750c9b30",
+    "date": "2026-02-07T23:53:48+03:00",
+    "path": "/nix/store/a7ndiq3nhxa763smayc8y6mmm8l1isg5-tree-sitter-doxygen-d74754b",
+    "sha256": "0cpiywzki4ajpwhlg1ixhzxjqq5iclkx1x0k0cjxxi3x5nkci1mr",
+    "hash": "sha256-uYbIpi19xN4lAxP00CdlsWAs+4c9hkchv1KROD/38TI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

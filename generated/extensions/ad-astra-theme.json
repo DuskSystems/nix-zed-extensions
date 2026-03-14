@@ -1,0 +1,19 @@
+{
+  "name": "ad-astra-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/ugi-dev/ad-astra-zed",
+    "rev": "6093f733e857f62c5a8f242f12dca59dce64c555",
+    "date": "2026-03-12T00:08:39+11:00",
+    "path": "/nix/store/rsbrqfw3hywzfgh3x79lp5xklv0hczry-ad-astra-zed-6093f73",
+    "sha256": "1dnxz0pa0yxnxh6xnz7rw20sak599f0zagivjiihpgwza7skg0kk",
+    "hash": "sha256-c4I39VGfvwtjlDs+9YFLqUylgeD5fNsN7LZ7oC743bY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

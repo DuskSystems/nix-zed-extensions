@@ -1,0 +1,21 @@
+{
+  "name": "doxygen",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ozacod/zed-doxygen",
+    "rev": "21f049332daf2cc4a73fbc04c5ea455b855e5d4c",
+    "date": "2026-02-07T23:54:25+03:00",
+    "path": "/nix/store/6mf25njl0l6slxrh54hf7dh8l370khvp-zed-doxygen-21f0493",
+    "sha256": "1k5s54prggcg202d8ifx1v9jjk8rgp9asz9fb668c6if8w9bhg34",
+    "hash": "sha256-ZDy4EkcuGoaMWS59rdJ9GU0p0w7dRdQEEI+9ly8pusw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "doxygen_doxygen"
+  ],
+  "kind": "plain"
+}
