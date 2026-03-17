@@ -1,13 +1,13 @@
 {
   "name": "agda",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/haohanyang/agda-zed",
-    "rev": "31695a9fc3d1606a5f12d4f94ef3740b81de32fa",
-    "date": "2026-03-07T19:23:44+01:00",
-    "path": "/nix/store/y9rmhggn9rfcvngid36vs4l5svhb0x5w-agda-zed-31695a9",
-    "sha256": "0z6rl4k5aghlhnsv7lzx3bqcimmi1wmcfgnzr1xd3i8c3cpba8fc",
-    "hash": "sha256-zCG1LhsMxdF6yN8+xyoPsdbI8Br907O1hRQ+VSah2Xw=",
+    "rev": "9283ca39982b07e4002e5cc15f889c98a34eb802",
+    "date": "2026-03-13T17:29:23+01:00",
+    "path": "/nix/store/hylff42jxq12wk241qdalnznqxhpksqr-agda-zed-9283ca3",
+    "sha256": "1m13i8pys2bm7xb86shfjigh5vzwsmxz5k01aix0qbv0f40yjzwf",
+    "hash": "sha256-jn/pAXFgLwx6VAHM8nvV/O8CX5QOaoNWP3UJ7S+KI9Q=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-PG05G9Od+9s7vonwdyD627FH0XCxzjHr76+97q81VUY="
+  "cargoHash": "sha256-3qLK/WiOtMdwx2g3y3eVA6yXlCZDjn+a9uqE8cgZO7I="
 }

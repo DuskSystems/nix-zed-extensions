@@ -1,0 +1,19 @@
+{
+  "name": "superior-green-theme",
+  "version": "0.0.10",
+  "src": {
+    "url": "https://github.com/rm-reins/Superior-Green",
+    "rev": "c8dd641ceb0e9feb9d3fb2233c1b20134915ab55",
+    "date": "2026-03-16T00:48:04+01:00",
+    "path": "/nix/store/j9mvgw033as64k6p5hqxa25g6q60rn00-Superior-Green-c8dd641",
+    "sha256": "10brcdjsfsp3lxiprz63dw0pclk1qf0jmmgqfwryr9xzx7yscab6",
+    "hash": "sha256-Zimm/em/p+wzd/jVKoHDYVJ2AW/D/Hxjp+Nqp2VjeYE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
