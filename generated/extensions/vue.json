@@ -1,13 +1,13 @@
 {
   "name": "vue",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "src": {
     "url": "https://github.com/zed-extensions/vue",
-    "rev": "cd058f3e2454b0838d43c4c7de9d0fbd2858e191",
-    "date": "2026-03-10T17:14:00+05:30",
-    "path": "/nix/store/aiif41yzcq16kr1rcgadfa7n53mqynsn-vue-cd058f3",
-    "sha256": "1cy80zccsdj8ij7rrf3mww8c3akwamfga7b9s73r9pmf5xvvwgjj",
-    "hash": "sha256-Uj6+dy+u3pTH0Wkd9VxVfKrBEOd1uJyPjEg2zdgHyLM=",
+    "rev": "77640b5fa1676072570dc67b1909257a09775ad9",
+    "date": "2026-03-18T17:30:34Z",
+    "path": "/nix/store/f2zmyplpwa01ajrczcqib0si48hkyc30-vue-77640b5",
+    "sha256": "0vqyjbc30m6k1z317qq2l0cp71v2azmr510skwm5m0h48ivf29kc",
+    "hash": "sha256-bCbhdkQEgloqnxqEkutXYodzGaAC4xPGD9NUMNiSHm8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-uEDphVTOVYyaa3kYXQ4fYjeB46Q5TOLWwAXowv8dt5U="
+  "cargoHash": "sha256-qOxxDdX/JbPq8rvhZyfqeoFK886FHeaDdaTSTMno1bc="
 }
