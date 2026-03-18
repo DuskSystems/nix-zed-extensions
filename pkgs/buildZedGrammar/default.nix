@@ -33,7 +33,7 @@ lib.extendMkDerivation {
       pname = "zed-grammar-${name}";
       inherit name src version;
 
-      buildInputs = [
+      nativeBuildInputs = [
         wasi-sdk
       ];
 
@@ -47,9 +47,7 @@ lib.extendMkDerivation {
           SRC="$SRC src/scanner.c"
         fi
 
-        clang \
-          --target=wasm32-wasip2 \
-          --sysroot=${wasi-sdk}/share/wasi-sysroot \
+        ${wasi-sdk}/bin/clang \
           -fPIC \
           -shared \
           -Os \
@@ -61,7 +59,6 @@ lib.extendMkDerivation {
         popd
       '';
 
-      doCheck = false;
       dontInstall = true;
     };
 }

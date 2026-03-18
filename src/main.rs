@@ -2,13 +2,14 @@ use std::{
     collections::{BTreeMap, HashSet},
     env::temp_dir,
     num::NonZero,
-    path::Path,
+    path::{Path, PathBuf},
     process::Command,
     sync::Arc,
 };
 
 use futures_util::stream::FuturesUnordered;
 use registry::RegistryExtension;
+use smol::fs::unix;
 use smol::{fs, lock::Semaphore, stream::StreamExt};
 use smol_macros::main;
 use tracing::Instrument;
@@ -18,6 +19,7 @@ use crate::{
     sync::process_extension, wasm::extract_zed_api_version,
 };
 
+pub mod copy;
 pub mod manifest;
 pub mod output;
 pub mod registry;
@@ -420,8 +422,8 @@ async fn run() -> anyhow::Result<()> {
             }
 
             let snippets = &path.join("snippets.json");
-            if fs::metadata(snippets).await.is_ok() {
-                manifest.snippets = Some(snippets.to_owned());
+            if manifest.snippets.is_none() && fs::metadata(snippets).await.is_ok() {
+                manifest.snippets = Some(manifest::ExtensionSnippets::Single(snippets.to_owned()));
             }
 
             tracing::info!("Writing output");
@@ -429,58 +431,87 @@ async fn run() -> anyhow::Result<()> {
             fs::write(manifest_path, manifest).await?;
         }
 
-        Some("check") => {
-            let nix_name = &args[2];
-            tracing::info!(
-                name = ?nix_name,
-                "Nix Name"
-            );
+        Some("install") => {
+            let out = PathBuf::from(&args[2]);
+            let grammars: Vec<(&str, PathBuf)> = args[3..]
+                .iter()
+                .map(|grammar| {
+                    let Some((name, path)) = grammar.split_once(':') else {
+                        anyhow::bail!("Invalid grammar argument: '{grammar}' (expected name:path)");
+                    };
 
-            let nix_grammars: HashSet<String> = args[3..].iter().cloned().collect();
-            tracing::info!(
-                grammars = ?nix_grammars,
-                "Nix Grammars"
-            );
+                    Ok((name, Path::new(path).join("share/zed/grammars")))
+                })
+                .collect::<anyhow::Result<_>>()?;
 
             let manifest_path = Path::new("extension.toml");
             if !manifest_path.exists() {
                 anyhow::bail!("Missing extension.toml");
             }
 
-            let manifest = fs::read_to_string(&manifest_path).await?;
+            let manifest = fs::read_to_string(manifest_path).await?;
             let manifest: ExtensionManifest = toml::from_str(&manifest)?;
 
-            let toml_id = &manifest.id;
-            tracing::info!(
-                id = ?toml_id,
-                "Extension ID"
-            );
+            let extension_dir = out.join("share/zed/extensions").join(&manifest.id);
+            fs::create_dir_all(&extension_dir).await?;
+            fs::copy(manifest_path, extension_dir.join("extension.toml")).await?;
 
-            let toml_grammars: HashSet<String> = manifest.grammars.keys().cloned().collect();
-            tracing::info!(
-                grammars = ?toml_grammars,
-                "Extension Grammars"
-            );
-
-            if toml_id != nix_name {
-                anyhow::bail!(
-                    "Extension ID '{toml_id}' does not match Nix package name '{nix_name}'"
-                );
+            let wasm = Path::new("extension.wasm");
+            if wasm.exists() {
+                fs::copy(wasm, extension_dir.join("extension.wasm")).await?;
             }
 
-            for toml_grammar in &toml_grammars {
-                if !nix_grammars.contains(toml_grammar) {
-                    anyhow::bail!("Missing Nix grammar package: '{toml_grammar}'");
+            copy::copy_items(&manifest.themes, &extension_dir).await?;
+            copy::copy_items(&manifest.icon_themes, &extension_dir).await?;
+            copy::copy_items(&manifest.languages, &extension_dir).await?;
+
+            if let Some(snippets) = &manifest.snippets {
+                let snippets: Vec<_> = snippets.paths().collect();
+                copy::copy_items(&snippets, &extension_dir).await?;
+            }
+
+            if !manifest.icon_themes.is_empty() {
+                let icons = Path::new("icons");
+                if icons.exists() {
+                    copy::copy_items(&[icons], &extension_dir).await?;
                 }
             }
 
-            for nix_grammar in &nix_grammars {
-                if !toml_grammars.contains(nix_grammar) {
-                    anyhow::bail!("Unexpected Nix grammar package: '{nix_grammar}'");
+            for (name, entry) in &manifest.debug_adapters {
+                let schema_path = entry.schema_path.clone().unwrap_or_else(|| {
+                    Path::new("debug_adapter_schemas")
+                        .join(name)
+                        .with_extension("json")
+                });
+
+                if schema_path.exists() {
+                    copy::copy_items(&[&schema_path], &extension_dir).await?;
                 }
             }
 
-            tracing::info!("Nix extension is valid!");
+            for entry in manifest.agent_servers.values() {
+                if let Some(icon) = &entry.icon {
+                    let icon_path = Path::new(icon);
+                    if icon_path.exists() {
+                        copy::copy_items(&[icon_path], &extension_dir).await?;
+                    }
+                }
+            }
+
+            // Symlink grammars
+            if !grammars.is_empty() {
+                let grammars_dir = extension_dir.join("grammars");
+                fs::create_dir_all(&grammars_dir).await?;
+
+                for (_, path) in &grammars {
+                    let mut entries = fs::read_dir(path).await?;
+                    while let Some(entry) = entries.try_next().await? {
+                        unix::symlink(entry.path(), grammars_dir.join(entry.file_name())).await?;
+                    }
+                }
+            }
+
+            tracing::info!("Extension installed");
         }
 
         _ => {
