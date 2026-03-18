@@ -25,10 +25,26 @@ pub struct ExtensionManifest {
     #[serde(default)]
     pub grammars: BTreeMap<String, GrammarManifestEntry>,
     #[serde(default)]
-    pub snippets: Option<PathBuf>,
+    pub snippets: Option<ExtensionSnippets>,
 
     #[serde(flatten)]
     _other: BTreeMap<String, Value>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(untagged)]
+pub enum ExtensionSnippets {
+    Single(PathBuf),
+    Multiple(Vec<PathBuf>),
+}
+
+impl ExtensionSnippets {
+    pub fn paths(&self) -> impl Iterator<Item = &PathBuf> {
+        match self {
+            Self::Single(path) => core::slice::from_ref(path).iter(),
+            Self::Multiple(paths) => paths.iter(),
+        }
+    }
 }
 
 #[derive(Debug, Default, Serialize, Deserialize)]

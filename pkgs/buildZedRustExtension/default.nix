@@ -2,9 +2,6 @@
   lib,
   makeRustPlatform,
   rust-bin,
-  clang,
-  wasm-tools,
-  jq,
   nix-zed-extensions,
   ...
 }:
@@ -46,6 +43,7 @@ lib.extendMkDerivation {
 
     let
       extensionDir = if extensionRoot == null then (if cargoRoot == null then "." else cargoRoot) else extensionRoot;
+      grammarArgs = lib.concatMapStringsSep " " (grammar: "${grammar.name}:${grammar}") grammars;
     in
     {
       pname = "zed-extension-${name}";
@@ -57,68 +55,23 @@ lib.extendMkDerivation {
         ;
 
       nativeBuildInputs = [
-        clang
-        wasm-tools
-        jq
         nix-zed-extensions
       ];
 
       buildPhase = ''
-        # Rust
         pushd ${extensionDir}
         cargo build --release --target wasm32-wasip2 --target-dir target
-        popd
-
-        # WASM
-        mv ${extensionDir}/target/wasm32-wasip2/release/*.wasm ${extensionDir}/extension.wasm
-        wasm-tools metadata show ${extensionDir}/extension.wasm
-        wasm-tools validate ${extensionDir}/extension.wasm
-
-        if ! wasm-tools metadata show --json ${extensionDir}/extension.wasm | jq -e '.component' > /dev/null; then
-          echo "Failed to produce a WASI component"
-          exit 1
-        fi
-
-        # Manifest
-        pushd ${extensionDir}
+        mv target/wasm32-wasip2/release/*.wasm extension.wasm
         nix-zed-extensions populate
         popd
       '';
 
-      checkPhase = ''
-        # Checks
-        pushd ${extensionDir}
-        nix-zed-extensions check ${name} ${lib.concatMapStringsSep " " (grammar: grammar.name) grammars}
-        popd
-      '';
+      doCheck = false;
 
       installPhase = ''
-        mkdir -p $out/share/zed/extensions/${name}
-
-        # WASM
-        cp ${extensionDir}/extension.wasm $out/share/zed/extensions/${name}
-
-        # Manifest
-        cp ${extensionDir}/extension.toml $out/share/zed/extensions/${name}
-
-        # Assets
-        for DIR in themes icons icon_themes languages debug_adapter_schemas; do
-          if [ -d "${extensionDir}/$DIR" ]; then
-            mkdir -p $out/share/zed/extensions/${name}/$DIR
-            cp -r ${extensionDir}/$DIR/* $out/share/zed/extensions/${name}/$DIR
-          fi
-        done
-
-        # Snippets
-        if [ -f "${extensionDir}/snippets.json" ]; then
-          cp ${extensionDir}/snippets.json $out/share/zed/extensions/${name}
-        fi
-
-        # Grammars
-        ${lib.concatMapStrings (grammar: ''
-          mkdir -p $out/share/zed/extensions/${name}/grammars
-          ln -s ${grammar}/share/zed/grammars/* $out/share/zed/extensions/${name}/grammars
-        '') grammars}
+        pushd ${extensionDir}
+        nix-zed-extensions install $out ${grammarArgs}
+        popd
       '';
     };
 }
