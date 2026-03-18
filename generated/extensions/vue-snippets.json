@@ -1,0 +1,19 @@
+{
+  "name": "vue-snippets",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/rubjo/zed-vue-snippets",
+    "rev": "4e9b319f1c62c682186a548032970b1165a8f429",
+    "date": "2026-01-30T09:53:50+01:00",
+    "path": "/nix/store/qx4wp32f3gqkbp6aqj4pynqg8ln44pbg-zed-vue-snippets-4e9b319",
+    "sha256": "0k74wf9zqsr52wdrmdk3nxrc3x99bjhxpyyrf9yqr3xmqsxpig2d",
+    "hash": "sha256-Tbx4u8a1j4x9ctn726FcKfXBcrdjtpobFyVr/JPj5Ew=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

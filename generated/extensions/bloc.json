@@ -1,0 +1,25 @@
+{
+  "name": "bloc",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/felangel/bloc",
+    "rev": "28b92e57ff84b4d0e1e6e1d041d442e50d40bdb1",
+    "date": "2026-03-04T22:56:30-06:00",
+    "path": "/nix/store/52v6h491r3nb3in1wzrwm4ig5k8ky8hf-bloc-28b92e5",
+    "sha256": "10wa7hsnqhigph8khff6612xp1spzn3jfdnnfawwqlqmk4qdcv7r",
+    "hash": "sha256-+WzWMJkVU8y5ctY2J4f9V4fbRTDGOTgRvC9CbDU8ioM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-uPsdKdFckS02cBLxjFmQh3MW6kmw0s+9A8dElZSx2cU=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/bloc.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "svelte-snippets",
+  "version": "0.0.9",
+  "src": {
+    "url": "https://github.com/bobbymannino/svelte-snippets-for-zed",
+    "rev": "fad04a351f7363cef5219a129187b6016167e6af",
+    "date": "2026-01-30T14:49:20Z",
+    "path": "/nix/store/61aqhgwml9a00zvh9f8wbzbmvmb9ndn8-svelte-snippets-for-zed-fad04a3",
+    "sha256": "17idikd5rhkl2dhz0kqsaz41lgva1jby4jbv5r4b8pdr0rg616xf",
+    "hash": "sha256-rptgXga5XbRILntJ4pcMaj8ayFcaT/BhE3TCXNqMLZ4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
