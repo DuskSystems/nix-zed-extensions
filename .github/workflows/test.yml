@@ -11,22 +11,22 @@ jobs:
       matrix:
         include:
           - runner: ubuntu-24.04
-            input: nixpkgs
+            nixpkgs: github:NixOS/nixpkgs/nixos-25.11
 
           - runner: ubuntu-24.04
-            input: nixpkgs-unstable
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
 
           - runner: ubuntu-24.04-arm
-            input: nixpkgs
+            nixpkgs: github:NixOS/nixpkgs/nixos-25.11
 
           - runner: ubuntu-24.04-arm
-            input: nixpkgs-unstable
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
 
           - runner: macos-14
-            input: nixpkgs
+            nixpkgs: github:NixOS/nixpkgs/nixos-25.11
 
           - runner: macos-14
-            input: nixpkgs-unstable
+            nixpkgs: github:NixOS/nixpkgs/nixpkgs-unstable
     runs-on: ${{ matrix.runner }}
     permissions:
       actions: write
@@ -44,4 +44,4 @@ jobs:
 
       - name: Test extensions
         shell: nix develop --command bash {0}
-        run: ./scripts/test.sh ${{ matrix.input }}
+        run: ./scripts/test.sh ${{ matrix.nixpkgs }}

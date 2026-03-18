@@ -2,7 +2,7 @@
 
 set -euxo pipefail
 
-NIXPKGS=${1:-nixpkgs}
+NIXPKGS=${1:-github:NixOS/nixpkgs/nixos-25.11}
 
 # CLI
 nix build .#nix-zed-extensions \
