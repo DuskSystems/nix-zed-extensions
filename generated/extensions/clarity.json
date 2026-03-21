@@ -1,13 +1,13 @@
 {
   "name": "clarity",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "src": {
-    "url": "https://github.com/hirosystems/clarity-zed",
-    "rev": "74ed85e0251f7855f83977a0cec59f69030a5c8a",
-    "date": "2025-06-03T15:39:22-04:00",
-    "path": "/nix/store/k103dcbkf7dnqap7wmc8jg954fh0rrzl-clarity-zed-74ed85e",
-    "sha256": "1mgxfnpcnmi3khnm9h0l3wwsmnyhwyvdnvnnq8x0hf10p5jn780a",
-    "hash": "sha256-CqBjZbkgOAg6wtZu27bn0NuqOR8UwFQtnCNWy651/dU=",
+    "url": "https://github.com/stx-labs/clarity-zed",
+    "rev": "dae56dd66f69f8bd606b13ee3ba23b493c4ffae9",
+    "date": "2026-03-16T15:29:56-04:00",
+    "path": "/nix/store/8ncv1vbmqapmha2x8byx8m9mdi1k86pj-clarity-zed-dae56dd",
+    "sha256": "1l3pcsq5frs9837zn3zdc2dya0b19ialhhpn7ms67faykashspv6",
+    "hash": "sha256-Zl8NtZpeuWN0PfZCSFVMYQHlm2DtD/vPQElnV7Bmd9A=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Cb/xkbXoz8to29XePlCZis9vUiy54uPg5icZbogV/No="
+  "cargoHash": "sha256-IjKkwdSIg2M4eltm3Hx7n2ledVGAAE8ZnqQeXIXjdjQ="
 }

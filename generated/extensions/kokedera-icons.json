@@ -1,0 +1,19 @@
+{
+  "name": "kokedera-icons",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/7th-Layer/kokedera-icons-extension-zed",
+    "rev": "5c2fdd375a81cb9a4fcc89f973a7dc55d4035426",
+    "date": "2026-03-18T20:06:15+01:00",
+    "path": "/nix/store/ind22vl4nhqpsbj2xgqmwc0yc0x2sc1h-kokedera-icons-extension-zed-5c2fdd3",
+    "sha256": "1n3v4a5nnyyawhikzd10k1djp3m4j1g8fj4aawrqdicdyymw27jv",
+    "hash": "sha256-Wx7Bq/eNxYYzV4pIh16QpI4rW5ggtD8j5Mp7a4sie9g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

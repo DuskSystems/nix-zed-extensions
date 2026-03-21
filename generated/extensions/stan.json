@@ -1,13 +1,13 @@
 {
   "name": "stan",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "src": {
     "url": "https://github.com/WardBrian/zed-stan-extension",
-    "rev": "3d8d99244aaa78b713ecffb5adefeb6503186099",
-    "date": "2025-09-30T12:43:35-04:00",
-    "path": "/nix/store/bgjkdd8fxfzmy6d0h54i2qf5kgnk252w-zed-stan-extension-3d8d992",
-    "sha256": "0jih9749vmv3psh4h65n8w5slp3sfc4z7d5bnqxq8gkh53l6lgb7",
-    "hash": "sha256-Zz1q6ChwPoQ7tqu08wlzelyqC0e2GEigvmPXnchJMEo=",
+    "rev": "0b0b9a2e27de2d5b3c1534dca81415987c53ceed",
+    "date": "2026-03-19T17:26:56-04:00",
+    "path": "/nix/store/34ml6j5i10k986sh70j9cgbrglhhzkxx-zed-stan-extension-0b0b9a2",
+    "sha256": "1qmzbxcw2h5ydxiqnxq5w276a1izgn3wygxz6fj14zfm5pyhqni4",
+    "hash": "sha256-JFoM/S3VfRKkM78/z4d9PwZljuAFd4tjb75AwVlfv+I=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,9 +15,10 @@
   },
   "extensionRoot": null,
   "grammars": [
-    "stan_stan"
+    "stan_stan",
+    "stan_stanfunctions"
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EWDFEcu8H0xuTeURD3lLY2yk39bO4L6HUeK6iwUp1HM="
+  "cargoHash": "sha256-Te14DFzd7bwAn5/DetwF0HSp3Aqj39EC3MQ+o7h4WsU="
 }

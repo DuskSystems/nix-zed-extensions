@@ -1,13 +1,13 @@
 {
   "name": "oso",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/osohq/oso-zed",
-    "rev": "3c5650dcff13a4f0c23335dbb7b499d7dcbe21cc",
-    "date": "2026-01-16T10:13:08-05:00",
-    "path": "/nix/store/8r7j562fqkimwigml09bfdgmhjcp2826-oso-zed-3c5650d",
-    "sha256": "1rv9kk4p9s99y3kx2kmigc5xysm6lvwsg9aml515swiw9wk3ky71",
-    "hash": "sha256-4fg5Jk88cl1CoVWlp/mmpmrfC3uxTtHn8CnpdMmcaec=",
+    "rev": "eabe4645698d6beff4986af8beb134d7afb60088",
+    "date": "2026-03-19T09:35:20-04:00",
+    "path": "/nix/store/yj6j3hxxw4sr1r44wy2rclizs08ryg2w-oso-zed-eabe464",
+    "sha256": "0lzb48p4z57bhkrs5jz2lsbvxcjw7gbv3irmb9dp5028mkai7423",
+    "hash": "sha256-Q5AT1axIgHJbWjXHsdc7XLK+l6biy6LzhOuUTy4i61M=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-wfpdQbKt00yJvwWP0yKnEmvnau+uiOdswh9aosEtffc="
+  "cargoHash": "sha256-d//kt62db08p6Lu7hhfKnyPbqngXt6Su7gA2fCix6TA="
 }

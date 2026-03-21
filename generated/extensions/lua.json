@@ -1,13 +1,13 @@
 {
   "name": "lua",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "src": {
     "url": "https://github.com/zed-extensions/lua",
-    "rev": "9d6ab716c5faed423f04408e51def04fdc8fd1c2",
-    "date": "2026-02-02T21:18:20+01:00",
-    "path": "/nix/store/6a1rjn3sjpjbhmr2577rrlg1gpid8bj9-lua-9d6ab71",
-    "sha256": "0lp3ajmg5v3n92rp37avp64whgg2nynyf3z924airn93yaz8wq4a",
-    "hash": "sha256-imCOvvIj2RwVEekP56234j3IiblbnXGzSHbs8qpU41I=",
+    "rev": "1799663ef96865956ef84062f9f86173dce10cd3",
+    "date": "2026-03-20T12:33:49Z",
+    "path": "/nix/store/pja9x7ylfylw0rifmgqn5y5gmsfx8w2b-lua-1799663",
+    "sha256": "1ka7c2acgwq2c910qyy8p7bniw52k1ksg1k3iky4q1xaxfvn1733",
+    "hash": "sha256-Y5xgt+uqB0z8jGOGp2eYovBo17nIewxCYgLzx5RgR80=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-YgeNJ4GWGSGevMTRV6ZRJdsyqIPiBl3Td7LVqRFDv5k="
+  "cargoHash": "sha256-cQU72naDhYEF1Tl3wQhXVDSuIUiEIim2nfc4zSGfho4="
 }
