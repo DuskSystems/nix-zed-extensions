@@ -1,0 +1,19 @@
+{
+  "name": "earthsong-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/hsjoberg/zedsong",
+    "rev": "b61d08a5ccf7a3b6eb340de4f5933116f79fb57f",
+    "date": "2026-03-20T16:14:27+04:00",
+    "path": "/nix/store/qnhj05waxyy883r3kxdidgnh4z33xjvl-zedsong-b61d08a",
+    "sha256": "188vd3gpwwndrncadkp0k0wzsbzb03h36vm41s931ks4g01b3il7",
+    "hash": "sha256-h8axAnhEzzCSDqRuM+AA6y/9OZjgzqaYzc1yft9oG6E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

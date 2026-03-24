@@ -1,13 +1,13 @@
 {
   "name": "templ",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "src": {
     "url": "https://github.com/makifdb/zed-templ",
-    "rev": "9020ba13af70cff8355f453f83dfc82ac344f74d",
-    "date": "2025-04-11T10:13:35+03:00",
-    "path": "/nix/store/04zk9rxnmj7v3965lk8ynanmlknbdkrr-zed-templ-9020ba1",
-    "sha256": "0cfwqsw78cgdqsyjp5y9w3h6b32dlblizraniihqgwwdpha95kxk",
-    "hash": "sha256-s8+SFLyN84dhjFblH+miTYxl4ODJlyu9xu0xdLjG3DE=",
+    "rev": "8866e11aaf7d1f3009fe59f793e08143f9f3942d",
+    "date": "2026-03-20T20:14:42+03:00",
+    "path": "/nix/store/1rmlhqacb91vrmms82n4lpdc59rw3gbh-zed-templ-8866e11",
+    "sha256": "182gibnpl2xj6gsm4h5083dssir95lvs7lv97qidx53aps1kxgdr",
+    "hash": "sha256-ub0+g75qlN4iPmnTozctKUet20CgQFL1M7ILeu2KT6A=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-28stgYOB4uHS5HzW/UcL00Md+Tvdw4KFchud2QJkBvA=",
+  "cargoHash": "sha256-WiHw6CfingBX3Qiua+0d/0Vf6JsANtS/y7v+AAqymno=",
   "cargoLock": {
     "lockFile": "/generated/extensions/templ.lock",
     "outputHashes": {}
