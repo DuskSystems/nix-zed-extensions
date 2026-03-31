@@ -1,0 +1,19 @@
+{
+  "name": "commander-gold-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/koctep/z-commander-gold-theme",
+    "rev": "dec3cd220109dc4b5c332fd55e10aff44880c4e1",
+    "date": "2026-03-27T10:50:53Z",
+    "path": "/nix/store/3dqwp9jn9aww5jv5jqia4rb40s8z63kq-z-commander-gold-theme-dec3cd2",
+    "sha256": "0rbclxyrak5dxcnfzl4krkmwiw2g7hmmshv42xl3z2f6i0n93pjw",
+    "hash": "sha256-XN6RLIjGiT9oF2RDXSs8T/DI68yT0O8s661MlX2nbGU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

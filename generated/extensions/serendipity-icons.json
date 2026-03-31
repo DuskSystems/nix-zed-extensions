@@ -1,0 +1,19 @@
+{
+  "name": "serendipity-icons",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/meocoder31099/Serendipity-Icon-Theme-Zed",
+    "rev": "14d9fc86b6cda7dee43d334347d3d62fa2dbfd4a",
+    "date": "2026-03-30T09:41:35+07:00",
+    "path": "/nix/store/96k3slzk9l7hcs1lra4zly0g5ygda1rx-Serendipity-Icon-Theme-Zed-14d9fc8",
+    "sha256": "0sqh5f1mgb3kj9rhgvr069wmqh6yfdsiwfw7kk95dvy5d1ppkkgg",
+    "hash": "sha256-7815b2jF71bSnIc7HnVz3kBceTIg7wdzknOsV4MrEGs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
