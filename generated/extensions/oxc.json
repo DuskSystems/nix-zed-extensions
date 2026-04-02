@@ -1,13 +1,13 @@
 {
   "name": "oxc",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "src": {
     "url": "https://github.com/oxc-project/oxc-zed",
-    "rev": "a6007083bfb291e5ecd5489e1eeecc2210966f66",
-    "date": "2026-02-07T16:40:03-06:00",
-    "path": "/nix/store/c68yvikwy1njlgb91rkgdp7a723dirjb-oxc-zed-a600708",
-    "sha256": "1q6qmln324bk9h319hqbzr8569x9ag589bx5gq2bczz5ji084jh3",
-    "hash": "sha256-A0qCQJTlf7YEfqWvhMpTqSdTUP4LwxQGTHMRMSyt2OA=",
+    "rev": "afd5b19032c201207a2c049363e918325bb3d7a0",
+    "date": "2026-03-31T23:02:34+01:00",
+    "path": "/nix/store/rdxybi64lwan6mqzi0zh27arfrj4sj12-oxc-zed-afd5b19",
+    "sha256": "0nd7j98g3g935f72azhxfy53rgfh36gpqmd65fn1r630cm3jcdbv",
+    "hash": "sha256-ezUmR2VgmBysK6ZVfJ8Z0L08incdfiWOKyO98VCSp1k=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-klX2e95kAJ9nZBzZwwd9YEs275Wm55+0jbt7T0HobbI="
+  "cargoHash": "sha256-AZoVsbbNKMbEhMLVkPKGIndX3fbNd0vDgko2mOUHX3s="
 }
