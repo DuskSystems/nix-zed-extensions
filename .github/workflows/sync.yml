@@ -1,4 +1,4 @@
-name: sync
+name: Sync
 
 on:
   workflow_dispatch:
@@ -11,29 +11,30 @@ concurrency:
   group: sync
   cancel-in-progress: false
 
+permissions: {}
+
 jobs:
   sync:
+    name: Sync
     runs-on: ubuntu-24.04
     permissions:
-      actions: write
-      contents: write
+      actions: write # dispatch
+      contents: write # push
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v5
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           persist-credentials: true
 
       - name: Install Nix
         uses: nixbuild/nix-quick-install-action@2c9db80fb984ceb1bcaa77cdda3fdf8cfba92035 # v34
-        with:
-          nix_conf: |
-            download-buffer-size = 524288000 # 500 MB
 
       - name: Cache Nix
-        uses: nix-community/cache-nix-action@135667ec418502fa5a3598af6fb9eb733888ce6a # v6.1.3
+        uses: DuskSystems/nix-cache-action@dfb0f60031b8762e2211da4c65f3da96e5a8727e # v1.4.1
         with:
-          primary-key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/*.nix', '**/flake.lock') }}
-          restore-prefixes-first-match: nix-${{ runner.os }}-${{ runner.arch }}-
+          key: nix-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('**/flake.lock', '**/*.nix') }}
+          restore-keys: |
+            nix-${{ runner.os }}-${{ runner.arch }}-
 
       - name: Sync extensions
         run: nix run .#nix-zed-extensions -- sync
@@ -54,7 +55,7 @@ jobs:
 
       - name: Trigger test workflow
         if: steps.push.outputs.pushed == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
