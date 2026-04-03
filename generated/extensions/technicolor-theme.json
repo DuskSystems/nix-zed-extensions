@@ -1,0 +1,19 @@
+{
+  "name": "technicolor-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/phaux/technicolor",
+    "rev": "6207f63c83e4d9b4e395e2b6446d8e23fcc8b728",
+    "date": "2026-03-10T14:39:29+01:00",
+    "path": "/nix/store/05wh0jghy3sbcdagb1yqscvzkwnig1ip-technicolor-6207f63",
+    "sha256": "1ryhqx2s0dx3207ippf39672xlan4r4j7gaaf8j0kzm6zrnqlc82",
+    "hash": "sha256-AjGKbf6m/gkkckq9I0kmVtEujknD3RsPEKM3oEXH0Oc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

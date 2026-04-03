@@ -1,0 +1,21 @@
+{
+  "name": "genexpr",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/isabelgk/genexpr-zed",
+    "rev": "c454aa8420708d4388597bb72ff64a729e9679a7",
+    "date": "2026-03-03T15:53:12-05:00",
+    "path": "/nix/store/3i5dss3fbl26g68kxr1s4w2k9c2rrlhr-genexpr-zed-c454aa8",
+    "sha256": "0cdwlly1c2idm3qk529szi7zkddnz9nb3m8scmd5csgk9f72q114",
+    "hash": "sha256-JAQsjkvzaVZaZRrVsWz6trX5T/w6iTLxqC0KFjylvDE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "genexpr_genexpr"
+  ],
+  "kind": "plain"
+}

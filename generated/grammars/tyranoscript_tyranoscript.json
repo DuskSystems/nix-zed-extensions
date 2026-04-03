@@ -1,0 +1,18 @@
+{
+  "id": "tyranoscript_tyranoscript",
+  "name": "tyranoscript",
+  "version": "d2a61bb83d2d70d1713b8d11d803c6dc342e2198",
+  "src": {
+    "url": "https://github.com/void2610/tree-sitter-tyranoscript",
+    "rev": "d2a61bb83d2d70d1713b8d11d803c6dc342e2198",
+    "date": "2026-02-28T06:22:08+09:00",
+    "path": "/nix/store/s65l69d32i12hpb4yg4wvm3cbvfs1zaa-tree-sitter-tyranoscript-d2a61bb",
+    "sha256": "0v7ggfys66zk5p4hi48qxkylqdqfvx6ch1s3mcv0h0pwp4wd2ypn",
+    "hash": "sha256-9nrROLn8Agg2q0MHyEzfDjdM/ewYkQjJLfMbo71772w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

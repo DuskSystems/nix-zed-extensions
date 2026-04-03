@@ -1,0 +1,18 @@
+{
+  "id": "taskfile_yaml",
+  "name": "yaml",
+  "version": "4463985dfccc640f3d6991e3396a2047610cf5f8",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-yaml",
+    "rev": "4463985dfccc640f3d6991e3396a2047610cf5f8",
+    "date": "2026-01-25T18:37:52+02:00",
+    "path": "/nix/store/dg98y14j1d9ybal63fkkvjam96w5g9zm-tree-sitter-yaml-4463985",
+    "sha256": "0v3nmqqsx8wlrk4f3q3kdlz7fasdf78x0p19zjd7vsk0jrx8cb4w",
+    "hash": "sha256-nCyGepZg6n2a/Clc0NFxTSt3Pm1z4OHIzJSjrjGudmw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

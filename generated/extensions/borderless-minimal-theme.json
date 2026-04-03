@@ -1,0 +1,19 @@
+{
+  "name": "borderless-minimal-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hatemecha/borderless-minimal-zed",
+    "rev": "c090f1d64459e738d85c9fb54e28e17477c915fd",
+    "date": "2026-03-04T11:08:17-03:00",
+    "path": "/nix/store/h6yq0jym04xi0r6ybcc0zpbxglq4nyvq-borderless-minimal-zed-c090f1d",
+    "sha256": "1jcy15xigsh9ckxjbqdw52v50bd2n84kf9mqk0bp21yp4n7kp2vl",
+    "hash": "sha256-dIs7jyXXB3EXmLgmNwmyoi1Qtii84SX7ZAnqF3sJnsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

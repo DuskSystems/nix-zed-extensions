@@ -1,0 +1,21 @@
+{
+  "name": "taskfile",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nickalie/zed-taskfile",
+    "rev": "7b2ac7e904845d4b7430b004afa7bed4fb5809c5",
+    "date": "2026-02-26T12:50:57+03:00",
+    "path": "/nix/store/yhnqms8fds0widj284kww3r05m0yn0pc-zed-taskfile-7b2ac7e",
+    "sha256": "05x0rb7jm9gkfawa9rzl84gzfwybjjy27r17629q86xcs07jr3sy",
+    "hash": "sha256-Xo8sD9CsG4STMCfkI7yUy3P3H0H056S4cvOlKs/KoBc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "taskfile_yaml"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "pearish-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dvhthomas/pearish-theme",
+    "rev": "c3a08cf2d82579bef536fe6bb3c7dfb71345f25f",
+    "date": "2026-03-02T13:29:11-07:00",
+    "path": "/nix/store/spwi5jr9530zmg62w754817aj7zmw56r-pearish-theme-c3a08cf",
+    "sha256": "1r5k89d7p1yrcxm0fcnbxgv60db6lhs3zrmdmxfzwzj2z8rgqr1x",
+    "hash": "sha256-PWT8MvpCfv5dr63mPzSkZjVg9uvLMgdqZ9mHe1pCs+Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

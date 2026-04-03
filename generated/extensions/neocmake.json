@@ -1,13 +1,13 @@
 {
   "name": "neocmake",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/k0tran/zed_neocmake",
-    "rev": "27b1c47a7a7a1016baabbaf1e29bcdef7332a017",
-    "date": "2025-11-25T17:37:01+03:00",
-    "path": "/nix/store/qvpz6s8hnphs8pwmx6bvisi3vcmn4aps-zed_neocmake-27b1c47",
-    "sha256": "1yymk8v53lirrj9vz21jfykqyvw4zz3xfrw00gsw45nmm8d11jw0",
-    "hash": "sha256-gMsQGqrVFsL1A4Bn18f/hG+Pp3cyiL+TzDnSUTaa1fs=",
+    "rev": "a219bbc9d700a4c00dbc53bf7c112ec57c3ad124",
+    "date": "2026-03-23T14:34:24+03:00",
+    "path": "/nix/store/cp9fwh1bzq32x3y4n0qr2i5rsvy7b7mx-zed_neocmake-a219bbc",
+    "sha256": "1h00w04iqilnkvn4iwdwgyln2qrlnd9bg2ji1narax1y5mczf746",
+    "hash": "sha256-hhz3WS0+dJWVDVGKt1KzNGNhqX+88UjsnpZGHAngAMA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-KP5WNyDvn6f3ZbaivhobkJKVvfbA7q5NyeQ8b/oXg3M=",
+  "cargoHash": "sha256-7zlgScJfCiBeJwI4PBoE3TTlJzJ2cctM2fzxmzbNnaI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/neocmake.lock",
     "outputHashes": {}

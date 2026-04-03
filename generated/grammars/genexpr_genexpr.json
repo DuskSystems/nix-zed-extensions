@@ -1,0 +1,18 @@
+{
+  "id": "genexpr_genexpr",
+  "name": "genexpr",
+  "version": "17703728be0e51cce993a5e440bd7a3fa3d6e374",
+  "src": {
+    "url": "https://github.com/isabelgk/tree-sitter-genexpr",
+    "rev": "17703728be0e51cce993a5e440bd7a3fa3d6e374",
+    "date": "2026-03-03T14:50:41-05:00",
+    "path": "/nix/store/83wc5jrnsqsg8s06w712byw7pryf0x4a-tree-sitter-genexpr-1770372",
+    "sha256": "0x3b6xss4cdzs6ip32lm0wzrhpsv5anik2iz0pi3bsxc1bgajig5",
+    "hash": "sha256-5UWp3gqs6zXiBT+KGa0qW1+YPweVinGj0b8xonU3a3Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

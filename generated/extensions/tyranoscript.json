@@ -1,0 +1,23 @@
+{
+  "name": "tyranoscript",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/void2610/tyranoscript-zed",
+    "rev": "471168a3a87f2af8fbb95674f3b496f8b47369bf",
+    "date": "2026-03-01T23:19:08+09:00",
+    "path": "/nix/store/jdi0kzyqxaq4y7msgmbb83sh78qm4yaa-tyranoscript-zed-471168a",
+    "sha256": "15r7s58f7zd1nx6vd0kykxlqg44im19h6xa9jk4fm1wfbr5069qz",
+    "hash": "sha256-HycDSl6Oh+rIlEl1A1OokZCHaZ9+grZNt6H941DRJ5c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tyranoscript_tyranoscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-CSBOU+GvwvOvdT7gABmJlmzJQfbrKAYOLyns7QMVUco="
+}
