@@ -1,13 +1,13 @@
 {
   "name": "sml",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/omarjatoi/zed-sml",
-    "rev": "aff0b870608e3ca26e039e1d759bb4ee21ae0e82",
-    "date": "2024-10-28T10:18:55-04:00",
-    "path": "/nix/store/ab633r6yj4wb06v48gx1j1qvfihw6d4f-zed-sml-aff0b87",
-    "sha256": "072g1bd6ij9r2ndl3qkp59pwypr1wznk5ri4wji5cna2bgvqlr7p",
-    "hash": "sha256-92SK91tCWVai5CTmMu3nIV/Pbyp34kGbFTnJaNoKTxw=",
+    "rev": "638d8971a10aeadc79ffed733c5092fd949d1c24",
+    "date": "2026-04-05T11:44:50-04:00",
+    "path": "/nix/store/hl0myjn96xcq9y3rphy3cipj3wlm9vnj-zed-sml-638d897",
+    "sha256": "0br3b893ajic1dk2lq99jy5xhqbmbav1r2kz41kh9vmlk8vf7y4k",
+    "hash": "sha256-k/jjNpq07gRnIH+KHLZadWHYi5cpYSpmCyxKNRJaIy8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vazD5+I6ZMc1FGbuidnaZQ5lUP421lLzvsWwpMAEwKY="
+  "cargoHash": "sha256-nNK4bOcfhLjGcb6XiGgF5vVJiIueNjLiypqVjKFRRrk="
 }
