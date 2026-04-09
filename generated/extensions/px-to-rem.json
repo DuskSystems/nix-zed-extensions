@@ -1,0 +1,21 @@
+{
+  "name": "px-to-rem",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ugi-dev/px-to-rem",
+    "rev": "3b74d45123ea5da36774ea8ecf0cf3bdf26fa83a",
+    "date": "2026-04-01T22:51:29+11:00",
+    "path": "/nix/store/f2ljk1q87h8zgpaq6jz8apzipqx6blaz-px-to-rem-3b74d45",
+    "sha256": "0l83nnf30chkwb0shml94qk2sz5mxk0wv7465m2lrm1bfhk4m5yz",
+    "hash": "sha256-35dKJnQr1ExFLYaczcHstXwtJiaJVqjB4hMyMJy1A1E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/t0hg52UE+DJY9qdZneF51E97xo+LPRNap1c/ze4v4U="
+}
