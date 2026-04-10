@@ -1,13 +1,13 @@
 {
   "name": "harper",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "src": {
     "url": "https://github.com/zed-extensions/harper",
-    "rev": "25101d926091db965e7d5b9d70c11a1d26013d58",
-    "date": "2026-03-31T12:08:46+02:00",
-    "path": "/nix/store/0n1nyskpqq1967lkjsqikd4i2nykbccd-harper-25101d9",
-    "sha256": "0y0bwy8rg6bcah7n0yayav7w9qd2ga7jp6injas0pjb4lfwm3bfp",
-    "hash": "sha256-161RuaNkyQu0kjaaK496ouHEz1ZeeWAPVGyZl5HnC3g=",
+    "rev": "382688adc5ee052b5d0627d361f5d2cedb009820",
+    "date": "2026-04-08T15:25:01+02:00",
+    "path": "/nix/store/7ikh37cz19a2fv6fb9vpp2f2p27hw9hh-harper-382688a",
+    "sha256": "1ldphwl431r2bxcd7snspp1b3g6ascfg0vq155h14njnnf333zbd",
+    "hash": "sha256-bf0xhrNWWhJgKQFv8BzTyryxwr3a6tNYXyKHQSiHt9E=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-V3BSnf61ey2o8HbhP+b/25BHto2MRR7EEGeJdca6elE=",
+  "cargoHash": "sha256-AXqWvkdoZOumMBk3yK53pu5lApgf5x923Qo+gho5tBY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/harper.lock",
     "outputHashes": {}
