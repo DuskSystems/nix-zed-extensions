@@ -48,7 +48,6 @@ lib.extendMkDerivation {
     {
       pname = "zed-extension-${name}";
       inherit
-        name
         src
         version
         cargoRoot

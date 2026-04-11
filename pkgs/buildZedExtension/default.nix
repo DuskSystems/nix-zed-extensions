@@ -34,7 +34,7 @@ lib.extendMkDerivation {
     in
     {
       pname = "zed-extension-${name}";
-      inherit name src version;
+      inherit src version;
 
       nativeBuildInputs = [
         nix-zed-extensions

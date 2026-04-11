@@ -31,7 +31,7 @@ lib.extendMkDerivation {
     in
     {
       pname = "zed-grammar-${name}";
-      inherit name src version;
+      inherit src version;
 
       nativeBuildInputs = [
         wasi-sdk
