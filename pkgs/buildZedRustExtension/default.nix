@@ -38,6 +38,8 @@ lib.extendMkDerivation {
       extensionRoot ? null,
       cargoRoot ? null,
       grammars ? [ ],
+      cargoBuildFlags ? [],
+      nativeBuildInputs ? [],
       ...
     }:
 
@@ -56,11 +58,11 @@ lib.extendMkDerivation {
 
       nativeBuildInputs = [
         nix-zed-extensions
-      ];
+      ] ++ nativeBuildInputs;
 
       buildPhase = ''
         pushd ${extensionDir}
-        cargo build --release --target wasm32-wasip2 --target-dir target
+        cargo build --release --target wasm32-wasip2 --target-dir target ${lib.concatStringsSep " " cargoBuildFlags}
         mv target/wasm32-wasip2/release/*.wasm extension.wasm
         nix-zed-extensions populate
         popd
