@@ -1,0 +1,21 @@
+{
+  "name": "rovo-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Arthurdw/rovo",
+    "rev": "35babc0383fc163da27d8587f16ceca1c07e5d5f",
+    "date": "2026-04-02T11:03:50Z",
+    "path": "/nix/store/3x6lz2w5acc1akdiva8d2qmwsbp71bks-rovo-35babc0",
+    "sha256": "06qcmh00rjn59rh9dvgfj98pcsjw0jywfmahf29fv81jr1z3qd3p",
+    "hash": "sha256-dzQ8fsgyoO2ScFBVx70EXGp2UZLu7ZZgTsXKDACsDBs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "zed-rovo",
+  "cargoHash": "sha256-P6lJJJB3V69/sigu3fAMGY6hHhEGe5doMzrxic5GSh0="
+}

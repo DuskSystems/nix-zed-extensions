@@ -1,0 +1,19 @@
+{
+  "name": "tokyoppuccin-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/EmmanuelVernet/zed-tokyoppuccin",
+    "rev": "3b1ea65c3dbe2d6442fa4024d2b0eaaca65aa167",
+    "date": "2026-04-02T17:41:24+02:00",
+    "path": "/nix/store/c5vdk06k5m2j7ahi4n5hjfd6jik7302w-zed-tokyoppuccin-3b1ea65",
+    "sha256": "0602jml93zqkljd9a4fm5xsxz9a4ydhnmn83wsb3jnqkhk0vb0a1",
+    "hash": "sha256-QYG1wYQTWzmW5gPZamHzRKXfdS/VEZWapBP/kWiVAhg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

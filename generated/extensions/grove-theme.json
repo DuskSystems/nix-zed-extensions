@@ -1,0 +1,19 @@
+{
+  "name": "grove-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/HimaAramona/grove-theme",
+    "rev": "392b5c27367d73c43214e1d4470d4d2f1f07b9ba",
+    "date": "2026-04-01T14:29:01-07:00",
+    "path": "/nix/store/cm4hj3lm8xwcswx3hjrxw4zrl3vq3zp7-grove-theme-392b5c2",
+    "sha256": "0j0qrms4cjq9k8cqq6220i7f3jx63apz58x76nyxzdwa4yvr0rw6",
+    "hash": "sha256-hmeQtyeKt9+9Naej8q8apsvhTgRCGIwZmglLRnTNGEg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

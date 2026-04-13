@@ -1,13 +1,13 @@
 {
   "name": "auto-file-header",
-  "version": "0.2.7",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/MrAMS/zed-auto-file-header",
-    "rev": "ccafcec915a76289c1f1ed6e66c72d99aa36a6f2",
-    "date": "2025-12-09T09:04:26+08:00",
-    "path": "/nix/store/77sk064lx381kqm3fq23j1lb6x3ay0yr-zed-auto-file-header-ccafcec",
-    "sha256": "0al9fm7wxa6zxn6scffzlkh4dk1vq9dlqswx6ggjrjq508z5x205",
-    "hash": "sha256-BYhePgIFyyzfM51rTFvCO8xG4KTfOaaN7d+ozk91iSo=",
+    "rev": "424f1f2ecf8bb02b57171158ef9f6d31781c14d5",
+    "date": "2026-04-10T15:50:27+08:00",
+    "path": "/nix/store/ik2n8sgkvasqa0p7xybvkcbn2zx43svm-zed-auto-file-header-424f1f2",
+    "sha256": "1781pvj4zd9z6vi9vvzdny95j72lrm523w7vir0l0fcylabra9k9",
+    "hash": "sha256-aSaVl6KeOUBBjvvwIUrNVBxZkrft753iNj+1T+S+AZ0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-2RWVOyVU8B+lc3DvnmCxPlxG9DMijCa9ga9s41IZ/34="
+  "cargoHash": "sha256-0qzQiwx3o48QX2FX1PAv/JgpGYIIG4RVLQZ+Qm38NnY="
 }

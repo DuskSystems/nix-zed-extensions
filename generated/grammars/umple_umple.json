@@ -1,0 +1,18 @@
+{
+  "id": "umple_umple",
+  "name": "umple",
+  "version": "d5a2311da0cbaa0f4cee08aaa0cde8bea1f99e3a",
+  "src": {
+    "url": "https://github.com/umple/umple-lsp",
+    "rev": "d5a2311da0cbaa0f4cee08aaa0cde8bea1f99e3a",
+    "date": "2026-04-04T01:28:28-04:00",
+    "path": "/nix/store/kdc0bbwip97ahgnq1llglxnf8g6izi52-umple-lsp-d5a2311",
+    "sha256": "0m7gbvf5a60r3jk4sadb7lqn566ksxl77byqkkgkrrb9xadk302c",
+    "hash": "sha256-TIAxm+pp5TzfnNivc2jX05hiMT2rKU2mHBkYVdxe71Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "packages/tree-sitter-umple"
+}

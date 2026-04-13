@@ -1,0 +1,19 @@
+{
+  "name": "lume-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/danfry1/lume-zed-theme",
+    "rev": "606310a8d621c6ecfebe892ab9ec1ee8ca67983f",
+    "date": "2026-03-23T22:21:53Z",
+    "path": "/nix/store/d8xq7bb1wbswkfzhk6nipds6vwyi2mr0-lume-zed-theme-606310a",
+    "sha256": "1m47pzy61094l84s3ipskygziy1w35kfhsdm51140ygir0gy01gq",
+    "hash": "sha256-+AXgH8jxeUBCKLVp6GYZPPj4n5/6xqEJoiSBYPy/h9Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

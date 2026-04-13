@@ -1,0 +1,19 @@
+{
+  "name": "earo-theme",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/earomc/earo-theme-zed",
+    "rev": "9e003294597086518ae5f4d215fdf12d0f301b93",
+    "date": "2026-04-13T00:49:21+02:00",
+    "path": "/nix/store/5p7gsjrgc92lpa4b1nz91bcrapwliflj-earo-theme-zed-9e00329",
+    "sha256": "0f4wj8l4vpwjx073cm7srp9pjm91ppxyif94dzqri2pma8z8xxvs",
+    "hash": "sha256-eveOPlL1ipjxbyS56Pu9IVV50836VDYO6JLfTSiSnDg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

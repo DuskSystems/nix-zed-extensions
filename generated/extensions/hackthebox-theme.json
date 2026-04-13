@@ -1,0 +1,19 @@
+{
+  "name": "hackthebox-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/b00tk1ll/hackthebox-zed-theme",
+    "rev": "31b9a1bf8a770db4800b59b70e2a74217775489b",
+    "date": "2026-03-28T18:37:27-03:00",
+    "path": "/nix/store/dp1nwpa22iqsbcqbn0y3sw6ccp073nv5-hackthebox-zed-theme-31b9a1b",
+    "sha256": "0q3x9imgkwix95gr3ganbm3d2c84d1rj6479p7bwmyz9riscg14b",
+    "hash": "sha256-i4THdMzp+8rXuekQI3NoBDHRRl1WvZFfST3y+WpMfWA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

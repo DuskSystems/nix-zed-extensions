@@ -1,0 +1,23 @@
+{
+  "name": "lisette",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ivov/lisette",
+    "rev": "f98a844ef3f4b63108d4c97f3a62d8dd4b032c16",
+    "date": "2026-04-12T21:57:23+02:00",
+    "path": "/nix/store/i1ixfg57kpcqxzkhxg0xfny4ad6lj1b3-lisette-f98a844",
+    "sha256": "08m2iyj8ghi0y322a0q796psni3ckj2dayy6h27nvpy96xxq1dch",
+    "hash": "sha256-kLWAezfJ322PgMZ71YScbESrr0kHAyXE8CDCh6SPoiI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "lisette_lisette"
+  ],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-dVa4ZufCbbnPEMS+1PXTNGa8zfpoSDAzr4nVn6EYfb8="
+}

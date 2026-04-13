@@ -1,0 +1,18 @@
+{
+  "id": "lisette_lisette",
+  "name": "lisette",
+  "version": "a2fbd9d956ba38f52a456c5ad51da30e4bacdd1f",
+  "src": {
+    "url": "https://github.com/ivov/lisette",
+    "rev": "a2fbd9d956ba38f52a456c5ad51da30e4bacdd1f",
+    "date": "2026-03-21T16:59:16+01:00",
+    "path": "/nix/store/yq53kjxy28vnxdkpmljl32wd3lrd4nfj-lisette-a2fbd9d",
+    "sha256": "0ssbr9v9408d7k3i3vzhjni7ya27q0z80jwpk55ir0glpp45rccs",
+    "hash": "sha256-mrFcyL30gRxLmZdLgD7ARyh/opXw7xHHPA0BknbKS2s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "editors/tree-sitter-lisette"
+}

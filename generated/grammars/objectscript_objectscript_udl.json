@@ -1,6 +1,6 @@
 {
-  "id": "objectscript_objectscript",
-  "name": "objectscript",
+  "id": "objectscript_objectscript_udl",
+  "name": "objectscript_udl",
   "version": "e492601cb5b4564fdf41e5a1800432a3ee4cf74f",
   "src": {
     "url": "https://github.com/intersystems/tree-sitter-objectscript",
@@ -14,5 +14,5 @@
     "deepClone": false,
     "leaveDotGit": false
   },
-  "grammarRoot": "objectscript"
+  "grammarRoot": "udl"
 }

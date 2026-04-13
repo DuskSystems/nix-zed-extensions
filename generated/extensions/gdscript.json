@@ -1,13 +1,13 @@
 {
   "name": "gdscript",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "src": {
     "url": "https://github.com/GDQuest/zed-gdscript",
-    "rev": "5fa11781b0743415e0ee70864078c206d3de3451",
-    "date": "2025-10-23T20:16:06+02:00",
-    "path": "/nix/store/srh12iw2agrdmik55ms9c3hh6z03brzx-zed-gdscript-5fa1178",
-    "sha256": "1pszdmr9c17ww3py6iqskc1g0kk320afhbvlxpygi91bwkixlch0",
-    "hash": "sha256-ADLa4+QrpPj87XQv6BQQY07wApsaR+Pv4PwElnJtX98=",
+    "rev": "4fad78702c89b47096bc351bb7b7bfaf8db52e7d",
+    "date": "2026-04-11T23:58:30+02:00",
+    "path": "/nix/store/mfrkywliyl559w9c3n13841r5451nmm3-zed-gdscript-4fad787",
+    "sha256": "1lba3m0bqnhc16mi8im57yq9hp5wbf508cgwd2gxpmj4s5n0dsq1",
+    "hash": "sha256-AesGbNFE1tufaPwxBIpbvFyYsD+lRhSrCQxavEAdatE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -21,7 +21,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-8TlAYh7PstTv+32+eiTEgQfrpgkPKs8BNDzyl3dF7NE=",
+  "cargoHash": "sha256-GqqDoSZpjPSopT+B2IOr5MWeQr/b8Ul7qKey6OpVnp0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/gdscript.lock",
     "outputHashes": {}

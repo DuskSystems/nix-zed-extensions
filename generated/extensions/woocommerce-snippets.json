@@ -1,0 +1,19 @@
+{
+  "name": "woocommerce-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/renzojohnson/woocommerce-snippets",
+    "rev": "6b4c54294b4e51b118018fe21cf77fec9cfbc1d8",
+    "date": "2026-03-18T17:32:49-04:00",
+    "path": "/nix/store/h2kg92aq7x4ihzv2g1frddjb5zhgd42w-woocommerce-snippets-6b4c542",
+    "sha256": "11d1ddzfxyqa8x4inkvmn3jlvfwb32xpc9k6zwr9bs4spzyn9kp8",
+    "hash": "sha256-6M5k/b+a6JUy/2YmdrsYi7tN5bB1TxtJRwr77n5roYU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

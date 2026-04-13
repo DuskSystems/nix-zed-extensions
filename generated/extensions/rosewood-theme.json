@@ -1,0 +1,19 @@
+{
+  "name": "rosewood-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ayush-porwal/zed-rosewood-theme",
+    "rev": "45b5312e59dcdb9ed71fb7e3482d12c8ee34f9da",
+    "date": "2026-04-12T22:50:46+02:00",
+    "path": "/nix/store/bjdlgc6knxk48gnksd76ylkxgk50p85a-zed-rosewood-theme-45b5312",
+    "sha256": "1g0dcs9xd7gqpm7w8r08hlhcwm4jfwsn0b1f2kfz148h6lr6sn9x",
+    "hash": "sha256-PVltMjUQkfDdFC4sYDV3klTOIIUIZMRPvfid1pNmDbw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

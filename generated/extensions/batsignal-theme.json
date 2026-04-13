@@ -1,0 +1,19 @@
+{
+  "name": "batsignal-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/kijv/batsignal-zed",
+    "rev": "4a9d1fa8dcd84b8eca30e101ce0568353513aad5",
+    "date": "2026-04-12T17:25:57-04:00",
+    "path": "/nix/store/4bljnbcjk5zmwva3hajgxmyr4aigidxj-batsignal-zed-4a9d1fa",
+    "sha256": "0sbp9iwnhni5q4gmvhyy3xdk41r5sign82bx71qbqv2v3j112xjl",
+    "hash": "sha256-VHYRghxbbLxwOH0JZF/UJQcyWx/ew10fwSVaaHlMd2k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

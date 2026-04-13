@@ -1,13 +1,13 @@
 {
   "name": "objectscript",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "src": {
     "url": "https://github.com/intersystems/zed-objectscript",
-    "rev": "9c6909f4342177c894d212d5eac36d38003be5c3",
-    "date": "2026-03-01T12:31:06-05:00",
-    "path": "/nix/store/iracf7ldgj5x54nf1rphcrms6jx3bmr8-zed-objectscript-9c6909f",
-    "sha256": "1xcqpvjch5qm3bvi9h7cmhv3gxmy161k5ka6f3q4k501n497x0wp",
-    "hash": "sha256-l4N+ErEBlEnwcEbNMoMJvvY3NqzswBT3GhUXyOS+mPU=",
+    "rev": "0b2d67bd01de030d3fc3a1685561817bb31048c7",
+    "date": "2026-03-31T20:41:51-04:00",
+    "path": "/nix/store/8c5mqfcl7gyamny280vahfgfl284i6j3-zed-objectscript-0b2d67b",
+    "sha256": "1mjbszclg6j1xcyfd16bm4b3lm2d97ph8gayvpqnsq588inaafgm",
+    "hash": "sha256-9TmlbESoYG3x3V49BO9JTVQ6FqnLhOY860GaR9nXS9Y=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -16,7 +16,9 @@
   "extensionRoot": null,
   "grammars": [
     "objectscript_objectscript",
-    "objectscript_objectscript_core"
+    "objectscript_objectscript_routine",
+    "objectscript_objectscript_udl",
+    "objectscript_xml"
   ],
   "kind": "plain"
 }

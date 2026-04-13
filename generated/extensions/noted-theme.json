@@ -1,0 +1,19 @@
+{
+  "name": "noted-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sergeevalera/noted-theme",
+    "rev": "4a1d1d556d7a98479b6b13518cceb6dbb78c3616",
+    "date": "2026-04-13T00:01:30+03:00",
+    "path": "/nix/store/ni20ahn63af54mi9dbqa104lmy4f754z-noted-theme-4a1d1d5",
+    "sha256": "1sf352mj781pbl0ajfjyqxb2sg8j4b08h3y5pq8l9gjrfs5vs7ip",
+    "hash": "sha256-Nx69i3ZZvkQRvsUPiMAiEj0tVsdeOqkAXTegI6sow+k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

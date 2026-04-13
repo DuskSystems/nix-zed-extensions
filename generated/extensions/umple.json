@@ -1,0 +1,27 @@
+{
+  "name": "umple",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/umple/umple.zed",
+    "rev": "27d4d7ed4ba960bd09fef2f893aeead4608916f7",
+    "date": "2026-04-06T19:57:27-04:00",
+    "path": "/nix/store/smx9kykhi5m7s79whv0wzn9mpb8vims9-umple.zed-27d4d7e",
+    "sha256": "1jd982adz89sbr99dnfmm48jj37ji35gnlz6vz9jwirk4w0j664r",
+    "hash": "sha256-mRgjASczRy7T3+ZT+8qI8gwpEanV2ZZSXjqh35RAqck=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "umple_umple"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pZs1YmiJgQTpD7i6AIW1IWJUP3Un3laSGKtFFNyOtkw=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/umple.lock",
+    "outputHashes": {}
+  }
+}

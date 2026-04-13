@@ -1,0 +1,19 @@
+{
+  "name": "pink-candy-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/paulovictor237/pink-candy-theme",
+    "rev": "589234287e3bab80e38014b4e0d8281e8e04449e",
+    "date": "2026-03-14T16:04:38-03:00",
+    "path": "/nix/store/i51b3427sqzqv1d0wy1sk65174l39fsl-pink-candy-theme-5892342",
+    "sha256": "0sa2cnzmjb2wvfhpgjb0lfsapqglkyzn5pxgfaw9kqpg5rfnxspi",
+    "hash": "sha256-8epuXS7v4pm4cq/fYr+f9OGrtKNgyXeh21wsWb9lQmk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

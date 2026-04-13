@@ -1,0 +1,25 @@
+{
+  "name": "import-cost-lsp",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/gcampes/zed-import-cost",
+    "rev": "5a9f9aacc93ef225cb3fce61e2096594dbffa9f6",
+    "date": "2026-04-10T13:57:56+02:00",
+    "path": "/nix/store/g7y723kmyjpppp8q7ylvrcl9c4pp603a-zed-import-cost-5a9f9aa",
+    "sha256": "1rskalzqjqdlr437i1bkhyz89ccdrl5sd8sprz5qcm96hiblc7n7",
+    "hash": "sha256-xx5GV4QmVYbLz1ejpgvNjbGEvodzhXgGybRhiT9VU+c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PeGrPQt4hPFapMLUoFHcHSRz49BpwxqDx4bfW0TqmVA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/import-cost-lsp.lock",
+    "outputHashes": {}
+  }
+}

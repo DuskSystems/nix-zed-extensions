@@ -1,0 +1,19 @@
+{
+  "name": "remedy-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/andrewRCr/zed-remedy-theme",
+    "rev": "dd3ab53f98df15506aaec40fc639b414077e8855",
+    "date": "2026-04-02T16:00:33-05:00",
+    "path": "/nix/store/cd93a5xxjy0xk2a476gznh16n0x1nwc7-zed-remedy-theme-dd3ab53",
+    "sha256": "1dliscys2d0594nv44g4kcpbjb9g99pnfsjigsgb4i8alp71p1qf",
+    "hash": "sha256-DocbzqUKRbKeflFqZ29KLy25LpvkEbItSQU0oT3TkbY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

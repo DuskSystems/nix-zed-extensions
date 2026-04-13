@@ -1,0 +1,25 @@
+{
+  "name": "zk",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/srivtx/zk-zed",
+    "rev": "1ba1595d49d4d7b5e8b3c87d5ee3352605a05f5d",
+    "date": "2026-01-21T01:04:53+05:30",
+    "path": "/nix/store/c0ihi3mkgbdm6djwmbabz719dchjwvkh-zk-zed-1ba1595",
+    "sha256": "0xb8fixnrc9bldminn8vqnkidqqjnn0826pkls7whsxj2m4wlv09",
+    "hash": "sha256-CWzKSRWya8iPpvMagYC1EuMWp8UbWRtroyuxbHt0aHU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-NpoEYTR0KNWSvEcerAu1c450vm2LdhQJUlVEjg6jDQE=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/zk.lock",
+    "outputHashes": {}
+  }
+}

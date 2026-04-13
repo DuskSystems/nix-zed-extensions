@@ -1,0 +1,19 @@
+{
+  "name": "ultraviolet-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Gurvirr/zed-ultraViolet",
+    "rev": "7f22041b3c37e68f8f2aa4e9ca1fb881642fe7f1",
+    "date": "2026-04-10T11:55:24-04:00",
+    "path": "/nix/store/0llc5bqz8fsg0815dsi8cw2208giis1k-zed-ultraViolet-7f22041",
+    "sha256": "14302qy8wajmrm3ar851194f33h70qs3b8pj8v0hnrx24qwas9q3",
+    "hash": "sha256-AyetOCaiZwvBRvKiNTQGB47hSAqhoKxGzVUqjjwWYJA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
