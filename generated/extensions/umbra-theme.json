@@ -1,0 +1,19 @@
+{
+  "name": "umbra-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/zaitsev-av/umbra",
+    "rev": "24628693e15bb1f39d6c8ef81d597b5ae5b3360c",
+    "date": "2026-04-13T09:49:02+03:00",
+    "path": "/nix/store/00cpm5bxb57w09jimfhkzhm42134dv5m-umbra-2462869",
+    "sha256": "0x8hqwqmvfbc20dqdq6a0acg4im2k35s0xv495id353qgsg1a5fn",
+    "hash": "sha256-1hUVnn54lNFiSWR3oMuYokbymALK4IYbEGy5XTHHEHU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

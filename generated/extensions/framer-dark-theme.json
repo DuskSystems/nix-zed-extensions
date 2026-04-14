@@ -1,0 +1,19 @@
+{
+  "name": "framer-dark-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/gxanshu/zed-framer-dark",
+    "rev": "d486d87f09ff11eab70a6e8834b598be6e682cdc",
+    "date": "2026-04-13T08:28:33+05:30",
+    "path": "/nix/store/p0m3lw7k59f1biv7cnf0d8gal7qxjkp9-zed-framer-dark-d486d87",
+    "sha256": "1w3ybvsyr8bxqyfihzh60amm3pm6wdddr1k410cy35ffg3hl1x2a",
+    "hash": "sha256-SvRA4XjOleEZCGSG3Frjpt5RqwIGfhidx32h7PVefvA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

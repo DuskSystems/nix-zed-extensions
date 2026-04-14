@@ -1,0 +1,22 @@
+{
+  "name": "mlir-tablegen",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/feichai0017/mlir-zed",
+    "rev": "ac2a16efec69404c5061be9c80d746e8cde97452",
+    "date": "2026-04-13T20:38:28+10:00",
+    "path": "/nix/store/44v7pjdsvr0jp9d6fjsvz1mykhxzh7ga-mlir-zed-ac2a16e",
+    "sha256": "1j8p3vg275aj2lq7mnh7kxisqcpahhygwag62apnnrbx7gbc4lbg",
+    "hash": "sha256-b1HC1jt9ZWuvEuYp/jyE6jKsY58H2nowFVKVI94eF8k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mlir-tablegen_mlir",
+    "mlir-tablegen_tablegen"
+  ],
+  "kind": "plain"
+}

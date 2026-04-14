@@ -1,0 +1,19 @@
+{
+  "name": "mainframe-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jmg-duarte/mainframe-zed",
+    "rev": "48aa31c41ebaaf5e1c6890f43f06647d5710cf31",
+    "date": "2026-04-13T09:18:48+01:00",
+    "path": "/nix/store/kl6pqmfry1s7z3czlwaxkxw9y00jnras-mainframe-zed-48aa31c",
+    "sha256": "06bwjblq3zf48jm9cy2lfg3952m27wwrs953br4hyrs66z9spw1q",
+    "hash": "sha256-OPCr0zdGZw9JXqMknTk/ooqSxnNUeJaqRMT9gemSfBk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

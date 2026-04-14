@@ -1,0 +1,25 @@
+{
+  "name": "csskit-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/csskit/csskit",
+    "rev": "904b9aef93210f43bf80b7fc017a9cc8de1a6ddd",
+    "date": "2026-04-13T10:37:28Z",
+    "path": "/nix/store/rmvgif2czp5f4c6w2n1rjy8nsbh6im0s-csskit-904b9ae",
+    "sha256": "076qz4mgq54yrx4a9vzfdqdhcmpjpfz5h5wm98ppla05azc6xgbg",
+    "hash": "sha256-b71u2FcFKHovSpUXWL678lYGG27u76RIz54U/Cr52Bw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "packages/csskit_zed",
+  "cargoHash": "sha256-wDAqdoucBRJB9Cu0Tt3/JI6RJu8SSrEEnm0Dq9UBPTU=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/csskit-lsp.lock",
+    "outputHashes": {}
+  }
+}

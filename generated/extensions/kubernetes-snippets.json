@@ -1,0 +1,19 @@
+{
+  "name": "kubernetes-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zed-kubernetes/kubernetes-snippets",
+    "rev": "cecfcdf81786ade32b3b4759db61161966224404",
+    "date": "2026-03-21T19:35:58+05:30",
+    "path": "/nix/store/p3z7lxal5n88w289ivzp5z27z7z8d6j4-kubernetes-snippets-cecfcdf",
+    "sha256": "0ycym00szhmbh5h7cl8gqd669vj065m41381nvycybhp8fk0v87p",
+    "hash": "sha256-96ANpkMXLs/8tgGNQGoxQO5kTMMPUXZggavCrwGonnk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

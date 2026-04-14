@@ -1,0 +1,19 @@
+{
+  "name": "little-league-theme",
+  "version": "1.4.1",
+  "src": {
+    "url": "https://github.com/ilikescience/little-league",
+    "rev": "a1b545e311d17c44473184691fb85bc3e8c778d2",
+    "date": "2026-04-13T09:01:31-04:00",
+    "path": "/nix/store/ib2cynr9navvfwp6jlpsx6nz0gcbm9sf-little-league-a1b545e",
+    "sha256": "1303fidznfc28hh21snqyrb7w96k2wxyd7rgwrylnzpqp4brmns9",
+    "hash": "sha256-SduaF7n4fkt95i+f5jsX0yR+VvbY6iAgRII5+1t0A4w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "targets/zed",
+  "grammars": [],
+  "kind": "plain"
+}

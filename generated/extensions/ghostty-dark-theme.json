@@ -1,0 +1,19 @@
+{
+  "name": "ghostty-dark-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/davideluzi/ghostty-dark-theme",
+    "rev": "3861656168ab98977d9c9754813e0aeb25095617",
+    "date": "2026-04-13T10:40:06+02:00",
+    "path": "/nix/store/v5v63jqnsgqgpd2gq7spglib7k7fb0rg-ghostty-dark-theme-3861656",
+    "sha256": "0sym3y770j4i8gdihqajwisn0559fka8flrd0m3fs04npcka46mm",
+    "hash": "sha256-tRqiJruWAO1GBS1Th9R0qRRgdeRSYRjbQ5FIcI4f1Ws=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "sunrise-bloom-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/tejasashinde/sunrise-bloom-theme",
+    "rev": "9555b54720049a8f7750e47dbbc5f2ae5ca102e2",
+    "date": "2026-04-13T09:28:29+05:30",
+    "path": "/nix/store/7xgjdgjwr9218m4p42harz8mq16ava4y-sunrise-bloom-theme-9555b54",
+    "sha256": "1ph7p57jggg13rclqqidcbbxda4dpy5pspp4bcv72cg706q1rxdw",
+    "hash": "sha256-vPUcsAHnMXE2W+RefYu/jajW12ItYkxZHuG9J0+5B94=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

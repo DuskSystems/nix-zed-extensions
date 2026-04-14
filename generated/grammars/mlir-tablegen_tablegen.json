@@ -1,0 +1,18 @@
+{
+  "id": "mlir-tablegen_tablegen",
+  "name": "tablegen",
+  "version": "3e9c4822ab5cdcccf4f8aa9dcd42117f736d51d9",
+  "src": {
+    "url": "https://github.com/Flakebi/tree-sitter-tablegen",
+    "rev": "3e9c4822ab5cdcccf4f8aa9dcd42117f736d51d9",
+    "date": "2024-10-04T02:25:23+02:00",
+    "path": "/nix/store/alzzii00gss3inc7dxz8yjzbznf9cgqf-tree-sitter-tablegen-3e9c482",
+    "sha256": "02anzjxk30323jmbvn2l7fwarq59zix84g7rdcgx8s7z7c5zyagk",
+    "hash": "sha256-8yn/Czv/aNQfa/k8gnr8qeCsuDtU2L2qHGKAMbv8Vgk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

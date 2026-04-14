@@ -1,0 +1,19 @@
+{
+  "name": "green-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/ningfangbin/zed_code_green",
+    "rev": "539b70dca27de24caedb2886b944091b78edc1ae",
+    "date": "2026-04-13T10:11:41+08:00",
+    "path": "/nix/store/sd878nv9li2gv5823g39vs1dv1namkv6-zed_code_green-539b70d",
+    "sha256": "1p8ird5xh9kilb4j34nv7xpvj4288y6q42lkb85xnv7ypf3g491r",
+    "hash": "sha256-OSTyhrv+bNsLWpMKgo1HSBC5bz/bkiHJonEm2EvLEd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

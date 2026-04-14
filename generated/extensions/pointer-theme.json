@@ -1,0 +1,19 @@
+{
+  "name": "pointer-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/nezdemkovski/pointer-theme-for-zed",
+    "rev": "90ed0b378e98a6e3063028a2c23d9d37e5e9e039",
+    "date": "2026-04-13T02:04:19+03:00",
+    "path": "/nix/store/xs1vfm2xagqf9mfsl0j9a31sql2lpc2n-pointer-theme-for-zed-90ed0b3",
+    "sha256": "1nzbp8wzmnbha8d8viy6r49xffnbcxd8hh2cgba60amsc53kq4yg",
+    "hash": "sha256-zxM8R2G6KmDUekxAiFpnyzrXE8nGx40aUnDZ+jm669s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

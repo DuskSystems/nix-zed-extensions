@@ -1,0 +1,19 @@
+{
+  "name": "oceans-of-andromeda-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/jdonlucas/zed-oceans-of-andromeda",
+    "rev": "ac3f255001d87df20c8fc7fd3cad4239b765128e",
+    "date": "2026-04-13T10:28:06+02:00",
+    "path": "/nix/store/dd2bcrpm5ak7r9ygsras13l499qhkrr8-zed-oceans-of-andromeda-ac3f255",
+    "sha256": "112wnazvpwj84nqzfpcg7xvyx3dzsc1rxyxi2z0hh9imd0348q1v",
+    "hash": "sha256-O2BEBmg1JgjBF7H7ngPTv43udz+PXfexJUjyu7+yXIQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
