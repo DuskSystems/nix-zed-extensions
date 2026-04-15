@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-e0vvPVFOPtOoPfl+xFIop13nKEuqq0tTGz0T5GrRVe0=",
+  "cargoHash": "sha256-I9QWI0qdVsLuNCJBOjhhe4/dmgtv3Uqm4tIwTUolHic=",
   "cargoLock": {
     "lockFile": "/generated/extensions/sway.lock",
     "outputHashes": {}

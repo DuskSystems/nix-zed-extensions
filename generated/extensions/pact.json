@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-fIh1QGE6m/fgM2xh+qkt55wo2p7gyRtqzYMYcwIfDck=",
+  "cargoHash": "sha256-BGxHMlkGqv7xfad/G6W/471HDEcgYQrK1hIf8k7KXGc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/pact.lock",
     "outputHashes": {}

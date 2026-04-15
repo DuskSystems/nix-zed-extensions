@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-AXqWvkdoZOumMBk3yK53pu5lApgf5x923Qo+gho5tBY=",
+  "cargoHash": "sha256-DQHkdwgMVVh3puBnRQRO/NSsIPlarsQ0pt2jaRU317I=",
   "cargoLock": {
     "lockFile": "/generated/extensions/harper.lock",
     "outputHashes": {}

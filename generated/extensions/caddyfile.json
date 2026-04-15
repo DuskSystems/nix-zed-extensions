@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-OwbhE78eCMGnt7FZwD4BLBDQu3kMgplxcxWTRkgqMXk=",
+  "cargoHash": "sha256-6/PIQU8h4Nkj8zNN+QyHfHpKBZrMLulogGucqqS/7VA=",
   "cargoLock": {
     "lockFile": "/generated/extensions/caddyfile.lock",
     "outputHashes": {}

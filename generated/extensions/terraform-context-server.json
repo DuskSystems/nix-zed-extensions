@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vxtRHGBtWlnS5KYMhWUeT4i9jsyaaQnYLH/p1lFPxOs=",
+  "cargoHash": "sha256-j8njnOMGZ5lxuS68Mt3MZJxo3fVmHEbyy13PB29ow1M=",
   "cargoLock": {
     "lockFile": "/generated/extensions/terraform-context-server.lock",
     "outputHashes": {}

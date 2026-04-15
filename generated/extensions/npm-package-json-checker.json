@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-LNsa6hTLMzyYV5jJB741UHnm9QCWYZh2OXtw3QxElQg=",
+  "cargoHash": "sha256-rJ62sUSCAAYbKf8LJSfj2zGZTFwF6R1TxJyY7OReSC4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/npm-package-json-checker.lock",
     "outputHashes": {}

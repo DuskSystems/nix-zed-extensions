@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-PeGrPQt4hPFapMLUoFHcHSRz49BpwxqDx4bfW0TqmVA=",
+  "cargoHash": "sha256-EDewoMKoa1eyjd6pnCUgiVprQAmAnAKxgT8B+92EZDg=",
   "cargoLock": {
     "lockFile": "/generated/extensions/import-cost-lsp.lock",
     "outputHashes": {}

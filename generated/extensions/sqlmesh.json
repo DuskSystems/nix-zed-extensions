@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-XENprdjrEB1/poJmTsDlfIpHcbVyIWkgXqc0pAjfY5A=",
+  "cargoHash": "sha256-Z8SS5voixTs+kCYJsynnvzzhcXq7pdSI8lCY4MvT+x0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/sqlmesh.lock",
     "outputHashes": {}

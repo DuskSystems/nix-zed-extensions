@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-WiHw6CfingBX3Qiua+0d/0Vf6JsANtS/y7v+AAqymno=",
+  "cargoHash": "sha256-L4T5kiBjQNDio8Az7D4HtgEM0jb7ZRfFHjrKOJ3o87c=",
   "cargoLock": {
     "lockFile": "/generated/extensions/templ.lock",
     "outputHashes": {}

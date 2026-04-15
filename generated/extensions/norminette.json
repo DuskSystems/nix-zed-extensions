@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-HFnt3Ghy5RCiZTDq0s+RY58hMFE+8O1BTTNqzWgGrZQ=",
+  "cargoHash": "sha256-x4JA9dz3oz9qIXaLbmyv1DuLPZIHKWHTmu3wEyiM+Eg=",
   "cargoLock": {
     "lockFile": "/generated/extensions/norminette.lock",
     "outputHashes": {}
