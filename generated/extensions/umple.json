@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-pZs1YmiJgQTpD7i6AIW1IWJUP3Un3laSGKtFFNyOtkw=",
+  "cargoHash": "sha256-MLu9SnyL+ARbL24sKYwSUtF76OD93Qei4VGU7W6YobE=",
   "cargoLock": {
     "lockFile": "/generated/extensions/umple.lock",
     "outputHashes": {}

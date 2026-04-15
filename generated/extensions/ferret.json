@@ -1,13 +1,13 @@
 {
   "name": "ferret",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "src": {
     "url": "https://github.com/Ferret-Language/ferret-language-support",
-    "rev": "3e04421dd125fa7617d9aa6e57c303bf58db61f0",
-    "date": "2026-03-01T00:20:54+06:00",
-    "path": "/nix/store/fj1p86awq707sm4lpzgbk0arsps2k6y2-ferret-language-support-3e04421",
-    "sha256": "0m0k8ivy5df9gz9476qa4i3bpv56vfk3yncp7ybsaik3m7xl6xbw",
-    "hash": "sha256-fHVD+6ljRqWXP5dZP6bbpuy7RiQKm0PSf8m14ndEE1Q=",
+    "rev": "92857c2adc4b1fe378312ad0d32efb73f7070698",
+    "date": "2026-03-28T01:33:30+06:00",
+    "path": "/nix/store/cv81g32gigazqmqqsqj5r9i24vqligzi-ferret-language-support-92857c2",
+    "sha256": "1d8yabdqz55xz4vp7m8hrjy0zrr3dsm03sj7z19p4dgvc9ykpp92",
+    "hash": "sha256-It07fWL7NXJT+EfqAapuI+cPvMwQ1XM3+b2Uj9tSHrU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -21,7 +21,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-lIOYxM0XbmszfQb6aRFcynXXIyxSnSMYfuoCQAGvMlU=",
+  "cargoHash": "sha256-Dyi3Q/sy5PJJhjwIxMB0wyCstPFwl7f8myQx7RbloUA=",
   "cargoLock": {
     "lockFile": "/generated/extensions/ferret.lock",
     "outputHashes": {}

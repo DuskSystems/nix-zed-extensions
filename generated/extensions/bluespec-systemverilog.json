@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-j4RnRyJzTuMIstp5psgv9SHQjwzuNVKyIR7eTaPG2uk=",
+  "cargoHash": "sha256-ej/XAVd+qQTPo3f9JOyoUbsCUX6Hw8IOCYGTovaNpIQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bluespec-systemverilog.lock",
     "outputHashes": {}

@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-hHnMUthgELO99g6ETN9c0hP0zdrBIystDcYumCKs5Yg=",
+  "cargoHash": "sha256-Y35pkLXi1+Z1tD+p22oZK5Aggi/GYI6xOtqycDLgb0c=",
   "cargoLock": {
     "lockFile": "/generated/extensions/defold.lock",
     "outputHashes": {}

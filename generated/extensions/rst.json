@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-NTblLZZo7FhPQpyBfFthwdrpW4HaPwZQpcjOVCKUFlw=",
+  "cargoHash": "sha256-10mWFHnctC/JPo8cWXifVcRjY7ZUe+CJ/ElBoLzX7Ns=",
   "cargoLock": {
     "lockFile": "/generated/extensions/rst.lock",
     "outputHashes": {}

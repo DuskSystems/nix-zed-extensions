@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-nqvQyNLkcdZ/koDO/740GgY8KfDCND6T2dgkECoaOoE=",
+  "cargoHash": "sha256-+j5kyrnpI0PxAgytTK9WdeySalOJAQktZsaoERv144Q=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bqn.lock",
     "outputHashes": {}

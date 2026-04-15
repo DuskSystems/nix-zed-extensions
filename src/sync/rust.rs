@@ -1,5 +1,5 @@
 use std::{
-    collections::BTreeMap,
+    collections::{BTreeMap, HashSet},
     env::temp_dir,
     num::NonZero,
     path::{Path, PathBuf},
@@ -123,7 +123,7 @@ async fn process_cargo_lockfile(
     }
 
     let lockfile = fs::read_to_string(&workspace.lockfile).await?;
-    let lockfile: Lockfile = toml::from_str(&lockfile)?;
+    let mut lockfile: Lockfile = toml::from_str(&lockfile)?;
 
     let has_git_deps = lockfile
         .packages
@@ -132,7 +132,8 @@ async fn process_cargo_lockfile(
 
     if has_git_deps {
         tracing::info!("Lockfile has git dependencies, storing copy");
-        fs::copy(&workspace.lockfile, &stored_lockfile).await?;
+        deduplicate_lockfile_packages(&mut lockfile);
+        fs::write(&stored_lockfile, lockfile.to_string()).await?;
         return Ok(true);
     }
 
@@ -317,4 +318,38 @@ async fn calculate_cargo_output_hashes(
     }
 
     Ok(output)
+}
+
+// HACK: Remove once 26.05 is the baseline.
+fn deduplicate_lockfile_packages(lockfile: &mut Lockfile) {
+    let keys: HashSet<(String, String)> = lockfile
+        .packages
+        .iter()
+        .filter(|package| package.source.as_ref().is_some_and(SourceId::is_git))
+        .map(|package| (package.name.to_string(), package.version.to_string()))
+        .collect();
+
+    lockfile.packages.retain(|package| {
+        let Some(source) = &package.source else {
+            return true;
+        };
+
+        // Keep all git packages.
+        if source.is_git() {
+            return true;
+        }
+
+        let key = (package.name.to_string(), package.version.to_string());
+        if keys.contains(&key) {
+            tracing::info!(
+                name = %package.name,
+                version = %package.version,
+                "Removing duplicate entry"
+            );
+
+            return false;
+        }
+
+        true
+    });
 }

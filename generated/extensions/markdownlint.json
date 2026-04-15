@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-dyYT1I4rZ+lcDsgRmLgJMc3ff3z/9BHpwhdncRT5ZJM=",
+  "cargoHash": "sha256-SOq6+yV0dyUeyPfq+shvUO2oEtzySOBWsmxDj1fPqWQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/markdownlint.lock",
     "outputHashes": {}

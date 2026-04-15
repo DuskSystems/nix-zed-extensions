@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-zXMvD7/+3s1m1YCdiyF1BP4fSfn1mV0bJkFwT8DHtqw=",
+  "cargoHash": "sha256-Cucci0y9yyTCrU6qrL+qwagS7rlAQR+ILG8SFhMeDDc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/typos.lock",
     "outputHashes": {}

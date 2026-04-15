@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-g2JZ2EUIMRVGzPIf2oI5OxMflyAOcOcl4U7d4alyyYs=",
+  "cargoHash": "sha256-yd6Pj7ZrqTmT9kALiRvcrHVfgVjo/Hu+4TIPrcff+0A=",
   "cargoLock": {
     "lockFile": "/generated/extensions/meson.lock",
     "outputHashes": {}

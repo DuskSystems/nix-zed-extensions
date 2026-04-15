@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-f2SeI4tEB77b4AZ+U79HtZjKWWQr4UlaQQ6rwzuv1uE=",
+  "cargoHash": "sha256-zMeiiURte2wzBe1HHYoeQsyY2OMmRKy1nSd2Pfd4yIo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/aptos-move.lock",
     "outputHashes": {}

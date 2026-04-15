@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Yr0/5PqLon365UFuI/wQwWjn7UIqtpsVHfGxm9koG6w=",
+  "cargoHash": "sha256-opCXaYtCLnn3xiOFNxrPkyXbwTkoSnPWj3Oc4ImqPFM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/graphviz.lock",
     "outputHashes": {}
