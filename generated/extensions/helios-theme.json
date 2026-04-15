@@ -1,0 +1,19 @@
+{
+  "name": "helios-theme",
+  "version": "0.0.8",
+  "src": {
+    "url": "https://github.com/heliosgraphics/helios-theme",
+    "rev": "d86df3026824887659f1356ef3828dfeb4ff7eae",
+    "date": "2026-04-13T18:18:46-07:00",
+    "path": "/nix/store/fdsjqy4vlvlayqwri5m26y7jwia4rjjj-helios-theme-d86df30",
+    "sha256": "1dmkpkj5nkd5iirbv1wrryyfs8v00ilrclq1yclg0y69a7fi84c3",
+    "hash": "sha256-gxEU3VHJePAo8wFTlmkEYCPtvM+Zh71yjKVNW+S8s7Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
