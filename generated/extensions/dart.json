@@ -1,13 +1,13 @@
 {
   "name": "dart",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "src": {
     "url": "https://github.com/zed-extensions/dart",
-    "rev": "232e32de598b9de5d591fe45dd85174db6391e83",
-    "date": "2026-02-02T21:18:13+01:00",
-    "path": "/nix/store/6w7lwxf1v2xaf0p8sgfgicc44i8w5f27-dart-232e32d",
-    "sha256": "0yahm1g17a52ip4nkzl1c0sswkw4vs60z70viirn7gxi5q2yqim7",
-    "hash": "sha256-p0bsBS6xv2NzjBucD4zehE+uNWCB/mnJjaKoE16oUHk=",
+    "rev": "6d56dc844f1b5a218819ab0c0a27e77112194490",
+    "date": "2026-04-17T11:27:23+02:00",
+    "path": "/nix/store/2r81q66v8qs8jf7gnnls0l5ddp819hw2-dart-6d56dc8",
+    "sha256": "04lamq9f4qnzq077vgl7jz1nj0ac1lrp053ikng8lw4r0bk2gm76",
+    "hash": "sha256-5tQn5gKZcIqenXEUcDMNTAFpw5eHvn0OwN9i4hKuihI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-PQMf2mNv4WqplAK14UU0YKysasH1OUkRQq1n2mlWNjc="
+  "cargoHash": "sha256-SQdrv22rm9TFRka/yLJYFcYOhUVYNM0+s8kn5Xs3Pf0="
 }

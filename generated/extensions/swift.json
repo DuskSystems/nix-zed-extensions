@@ -1,13 +1,13 @@
 {
   "name": "swift",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "src": {
     "url": "https://github.com/samuser107/zed-swift-extension",
-    "rev": "57fa39e77ee8c8dc44a8bb791af1d500277a038f",
-    "date": "2025-12-22T22:24:16Z",
-    "path": "/nix/store/k066a6i27rf638b5yf56gln8hib7pdnz-zed-swift-extension-57fa39e",
-    "sha256": "18n5n30rv9cx62mz2yh4588blq8qrvh6l8hydac9nd4yil0vm1v9",
-    "hash": "sha256-aYe6AY2eNJuYah4iauDOGGG6ECoEevGrMJ2lncGwxaI=",
+    "rev": "6449c155324857bc10c1f90dbbea046821bebe6d",
+    "date": "2026-04-17T09:57:51Z",
+    "path": "/nix/store/hzd3jpgj03fbiqal36ahpdqsqqiwdv9y-zed-swift-extension-6449c15",
+    "sha256": "02siwnf3410kprm8nav89vaz3xvd1f7pmnz4i4iryfakfgsj6z1i",
+    "hash": "sha256-MXwj9XNTOZ8jieTbeo8Lbffx1U5oK4tqvhMEMpzlUQs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-WePKCtkpgLCidCEZU6I48jaU/MY93TelNi74Iv5G0zM="
+  "cargoHash": "sha256-8ftDW3M7YXyRASDkRu/OmkWpPQ5t83ZuH5/I1Q1upSQ="
 }
