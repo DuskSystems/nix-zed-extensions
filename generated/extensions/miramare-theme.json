@@ -1,0 +1,19 @@
+{
+  "name": "miramare-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/franbach/miramare-zed",
+    "rev": "e6d95e7e271b4b8cd895b99881ad151f7a7ff47e",
+    "date": "2026-04-15T23:40:42-04:00",
+    "path": "/nix/store/mjkq0n2ifp0dzk3nh95qnkjp2pl5wra9-miramare-zed-e6d95e7",
+    "sha256": "1m7qjy56s3lagpqij7sv8k43dykcc52mg1kvizi5dl9wzybjq9id",
+    "hash": "sha256-LSYsl/880Vbij3uGV0VhbPo2yERbHxnxfYoObYqX+NQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

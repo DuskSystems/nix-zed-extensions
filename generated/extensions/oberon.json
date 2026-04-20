@@ -1,0 +1,21 @@
+{
+  "name": "oberon",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/KnyazLV/zed-oberon",
+    "rev": "a93b7c7e710259fda3b37aeaf9335d0a43297db3",
+    "date": "2026-03-03T11:00:02+02:00",
+    "path": "/nix/store/pbamalaza6w25lzk8jjh49qmw1v6x2r4-zed-oberon-a93b7c7",
+    "sha256": "0dd73szp7zxkn824dx28myx06a0qgmwhkha36mz2x02fh0ghi55p",
+    "hash": "sha256-t5QIH4BOgC5+NUPBCXl9GCgDuq9I9EYEsrP/c78epzU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "oberon_oberon07"
+  ],
+  "kind": "plain"
+}

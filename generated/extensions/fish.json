@@ -1,0 +1,21 @@
+{
+  "name": "fish",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hasit/zed-fish",
+    "rev": "2f68a1daf7d32a34603d31c1257f97e5db92e265",
+    "date": "2026-04-16T16:25:54-07:00",
+    "path": "/nix/store/5j1hb6223rr2ngk67f0la8m0l6dcfcy1-zed-fish-2f68a1d",
+    "sha256": "1f31gsrahb0wr3pj6gbal0ag25im6rjdlkm5fw278nd3mcmy30ix",
+    "hash": "sha256-PYLhK6ujWXQEd6VO2mQ2NRbxFKBqPSPvyBwsqLJ+Ybg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "fish_fish"
+  ],
+  "kind": "plain"
+}

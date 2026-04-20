@@ -1,0 +1,18 @@
+{
+  "id": "oberon_oberon07",
+  "name": "oberon07",
+  "version": "00dc0a4ad462907e743eeed4bf4a27046e968e8e",
+  "src": {
+    "url": "https://github.com/KnyazLV/tree-sitter-oberon-07",
+    "rev": "00dc0a4ad462907e743eeed4bf4a27046e968e8e",
+    "date": "2026-03-03T10:50:01+02:00",
+    "path": "/nix/store/8cd2fcgczabw6qbqzr0cgh2nnqql699k-tree-sitter-oberon-07-00dc0a4",
+    "sha256": "13flajsba1hwb64lx0nisx8vrypfxpsj08insj21pgh3ah6fjf7i",
+    "hash": "sha256-8TjpDFQDvhuE1DYiIPXt7vq8UdfRgk6JWRwGtbRU1I0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
