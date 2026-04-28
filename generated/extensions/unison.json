@@ -1,13 +1,13 @@
 {
   "name": "unison",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "src": {
     "url": "https://github.com/zetashift/unison-zed",
-    "rev": "617007440c14617a62808663a9678bb75834e2fc",
-    "date": "2025-06-11T23:46:01+02:00",
-    "path": "/nix/store/prxn7sr9a0vqkcggaskwjyxcp4kxmxj2-unison-zed-6170074",
-    "sha256": "1hkk3fq7y0647bdlhplqmzpnngzvcx5v35sdx3mzjb5ldgb90ayv",
-    "hash": "sha256-2yuQ1mu0LPnr6E2XsUtn+z9r76+YXkjbOsQAf7Abc8I=",
+    "rev": "86cf4043ed6c59fe858fab5b9b6cd41b1339f2ba",
+    "date": "2026-04-19T22:05:15+02:00",
+    "path": "/nix/store/1pa2x3wkxfn73z4c148ir94rqsqa8jzp-unison-zed-86cf404",
+    "sha256": "0naqasn0klm5b457qcvw1g8p5irql55hbrkybqjgvnxjgdligv2h",
+    "hash": "sha256-UOwXaXuy2/0kXn7mBUuhOMdy0Qt8M3wKWaXSCaxWWFk=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-3yX1+FAEJS25/A2Bs9pNWUMIZuR9PI9mun4fNk5qqRQ="
+  "cargoHash": "sha256-Xl3ikXdniJK8IgeqX2n2krTGrwVVVrhgrR+ltIKZsnA="
 }

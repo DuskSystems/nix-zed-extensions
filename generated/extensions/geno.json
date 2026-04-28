@@ -1,0 +1,21 @@
+{
+  "name": "geno",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jlyonsmith/zed-geno",
+    "rev": "f8d1cebbd0bb6926c90668beaf0437c56c71a827",
+    "date": "2026-03-04T19:55:29-08:00",
+    "path": "/nix/store/rsrhh9slb9m0w05qyqsnh6wi0rgm5ccw-zed-geno-f8d1ceb",
+    "sha256": "0qs10pmwg5digrf3jwbgaq762jqwp5h75r2kf8j458pv4kgilmyj",
+    "hash": "sha256-0lca3yT7okIkclPkcmC5HEthDlZvcTlcfrGVx+sFQWM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "geno_geno"
+  ],
+  "kind": "plain"
+}

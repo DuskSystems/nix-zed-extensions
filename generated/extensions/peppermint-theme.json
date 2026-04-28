@@ -1,0 +1,19 @@
+{
+  "name": "peppermint-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/sttefaano/peppermint-zed",
+    "rev": "742f3f99fdda0955f056380064eea8d7ff6b1d8b",
+    "date": "2026-03-30T12:03:39-03:00",
+    "path": "/nix/store/ar0li70l954p8p9hnavwhs17m88vj99v-peppermint-zed-742f3f9",
+    "sha256": "0zzwljhjmdsysrdbdifq55b46anw6kywys4pzn59k8w37j0gxnjm",
+    "hash": "sha256-Vdr+gDyDo5mK/Zdoz/003CpDVinYxbZa1l63KqGk/H8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

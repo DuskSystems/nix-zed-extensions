@@ -1,0 +1,18 @@
+{
+  "id": "geno_geno",
+  "name": "geno",
+  "version": "f39b2cad212d54163650efd640700023506f6a30",
+  "src": {
+    "url": "https://github.com/jlyonsmith/tree-sitter-geno",
+    "rev": "f39b2cad212d54163650efd640700023506f6a30",
+    "date": "2026-03-04T19:26:38-08:00",
+    "path": "/nix/store/cy4x784yllba0aqgbrrsl1vwby8d5f23-tree-sitter-geno-f39b2ca",
+    "sha256": "0jvbym354b28jdaxhwwp54hxv83za595rnf9afngdgw62mlyycy1",
+    "hash": "sha256-wTPvaRWGv/asU8nZXFJRf6DdISmXc9hVk0gsUkb1a0s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

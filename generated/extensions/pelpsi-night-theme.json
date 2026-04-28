@@ -1,0 +1,19 @@
+{
+  "name": "pelpsi-night-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/simonepelosi/pelpsi-night",
+    "rev": "4c780c8836986aa1d223eed808cb2b8f4c9be344",
+    "date": "2026-03-30T15:03:28+02:00",
+    "path": "/nix/store/f7xqi3vwbmyrm1si7kz3jl2b5f95vzdz-pelpsi-night-4c780c8",
+    "sha256": "0qhik0ffl1lqfj7xjq2lsng1rwb103bhsbdf716kkpjwff586jjy",
+    "hash": "sha256-XkqDinNc3jlNOK4tDdcAYfEcntVUYNmPdJgG6hyYEWI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

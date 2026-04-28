@@ -1,13 +1,13 @@
 {
   "name": "umple",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "src": {
     "url": "https://github.com/umple/umple.zed",
-    "rev": "27d4d7ed4ba960bd09fef2f893aeead4608916f7",
-    "date": "2026-04-06T19:57:27-04:00",
-    "path": "/nix/store/smx9kykhi5m7s79whv0wzn9mpb8vims9-umple.zed-27d4d7e",
-    "sha256": "1jd982adz89sbr99dnfmm48jj37ji35gnlz6vz9jwirk4w0j664r",
-    "hash": "sha256-mRgjASczRy7T3+ZT+8qI8gwpEanV2ZZSXjqh35RAqck=",
+    "rev": "36fdb563a67a3e2b56a26d78304c51e2950997e6",
+    "date": "2026-04-20T15:39:00-04:00",
+    "path": "/nix/store/kb1671dal36zlpbcr5pack4gj5afhcy0-umple.zed-36fdb56",
+    "sha256": "1hih66nbbd5mjw803iw2rpm2rwhz8c04f792dfc7viplsgsndmip",
+    "hash": "sha256-N9Zm9dP0xn2YayIdRwBDH/Is6s2CxwEQl7W0tawxMMI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-MLu9SnyL+ARbL24sKYwSUtF76OD93Qei4VGU7W6YobE=",
+  "cargoHash": "sha256-kVH/+SsF9YoKOUf0o/e5Ie4cYgVbyklpdXhobkXgHiY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/umple.lock",
     "outputHashes": {}

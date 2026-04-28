@@ -1,0 +1,19 @@
+{
+  "name": "keo-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/keoneSomers/Keo-theme",
+    "rev": "a170aaca32487b58d015b27e10fec844bb4445fd",
+    "date": "2026-03-30T16:24:48+01:00",
+    "path": "/nix/store/l6bqi77fsm1pvhxrkr3k2snv2fzwgqch-Keo-theme-a170aac",
+    "sha256": "1ymyizzf96x804ah7fm2npbkmyl0r7gcmmkdcfaz8p45akvfmxi4",
+    "hash": "sha256-JPbq9lSFXPSVY23Wyt7JgPo617WiugMVAaib5P6Pvvo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

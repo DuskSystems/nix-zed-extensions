@@ -1,0 +1,19 @@
+{
+  "name": "dark-purple-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/brgr/dark-purple-theme-for-zed",
+    "rev": "680040bfe8e3130e1331dcd6714773b91712c018",
+    "date": "2026-03-05T21:05:10+01:00",
+    "path": "/nix/store/52vcv2wf46p9jqk8ac5s08y4na36m29n-dark-purple-theme-for-zed-680040b",
+    "sha256": "0hjwsg3ln4spl2g5h9sfgyj0pf4p57wzizq28ixwkfv0lknd1h9n",
+    "hash": "sha256-NsHQ7KRgu8l7RAL/+Pkpl7gLpH9OJ1ieoFcTS8fTXEI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "mcp-server-threadbridge",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/dereklei12/zed-mcp-server-threadbridge",
-    "rev": "ee70b27e759627eefc32d3518e337a5edfd41255",
-    "date": "2026-04-19T20:08:36+10:00",
-    "path": "/nix/store/rwzkfiff259zk828i9cxv71fw1mr1f90-zed-mcp-server-threadbridge-ee70b27",
-    "sha256": "04mkikrl0vf3bvp9m68qj4jhf18bbqvr8nzbhmbbfbv4l0pv65bl",
-    "hash": "sha256-dBWzL6BkL7dWhetblDdeCwUHJZEYmZruXsNtQPOMsxI=",
+    "rev": "c44381597557ecc9088a9ea7eb64502ee431f50f",
+    "date": "2026-04-25T21:52:28+10:00",
+    "path": "/nix/store/p4yrc59wjn3nn8p7vz45fbbb4p8v15w2-zed-mcp-server-threadbridge-c443815",
+    "sha256": "0jlw824dy424916l33afglsqna1fmp0hl639snkiyqc8dg694igg",
+    "hash": "sha256-70WSzGuIYR+n1WkYCsGtLiiLNX1OjUFNSEQQ34hAnEo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-PMhZiXiPGq4mTY/6p7yaDUs5vwrmfqGrEfTcGCbDV1s="
+  "cargoHash": "sha256-iqwcgirz73AzNdZDkb/mctsPuCDvT2Paprfwh5JrS7k="
 }
