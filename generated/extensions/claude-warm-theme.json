@@ -1,0 +1,19 @@
+{
+  "name": "claude-warm-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/intherejeet/claude-warm-theme",
+    "rev": "7199e606cff0b003ad7374c9fc2db072ddfe1cf3",
+    "date": "2026-04-05T20:38:07+01:00",
+    "path": "/nix/store/svy1jk9svrsiy3p1ivnfycf0cm5df7b3-claude-warm-theme-7199e60",
+    "sha256": "05mw2g311ihipdqbl9xl5gx8izg7zwj5645705jshbvg0rchmj1k",
+    "hash": "sha256-M8gKWQZvL6hlAacQUyT/5/2I+iu0J7pwuxHGEMYTvBY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

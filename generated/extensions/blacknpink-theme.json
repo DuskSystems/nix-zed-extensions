@@ -1,0 +1,19 @@
+{
+  "name": "blacknpink-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/blacknpink/zed",
+    "rev": "4cb78cbb65b4bbc6dae4f495319718bd7c9204ba",
+    "date": "2026-04-27T22:25:48+02:00",
+    "path": "/nix/store/nm425mgyay9svy1m5lan35h0z34nzqgl-zed-4cb78cb",
+    "sha256": "08avhzkfy61c84bg63gzcdhclfiblr2vkn6js4x6mjycqqcf2ifz",
+    "hash": "sha256-30XhGMbMy2o60dLYuUWmKzrKYGP/DfMWQSwY7+aHWyE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

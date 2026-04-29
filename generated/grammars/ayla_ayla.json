@@ -1,0 +1,18 @@
+{
+  "id": "ayla_ayla",
+  "name": "ayla",
+  "version": "main",
+  "src": {
+    "url": "https://github.com/z-sk1/tree-sitter-ayla",
+    "rev": "5bc98f463d8c86717a123b6bd653c8e08f3bc13a",
+    "date": "2026-03-19T15:53:05+04:00",
+    "path": "/nix/store/fvmbbygbhjsh1cb8lqjiddasvw174izr-tree-sitter-ayla",
+    "sha256": "1w21wlxzbpbig8dhijydrfx6kph2hc9fa7pk2z1sq9vxlrhdsz9i",
+    "hash": "sha256-MX3dYKZ9J6zDF/Me5RKDAt5pusvNywgbenHd9TvlQfA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "high-contrast-themes",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rakshit087/high-contrast-zed",
+    "rev": "bf09dd50fd20f3272c74352eced305ed3f9d3af5",
+    "date": "2026-03-10T10:40:40+05:30",
+    "path": "/nix/store/27x7w9s452g050ghabnxwi08spdjk8zy-high-contrast-zed-bf09dd5",
+    "sha256": "0lx2jryzcxi94n5nds2j473x2ijrh36a1sf0bpdwrzakpczxacsb",
+    "hash": "sha256-SzPVP7tT/czbXcDpoMyAWUbRxyFS6GaLJSl29n2WolM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mako_mako",
+  "name": "mako",
+  "version": "cff49671cc8c1d72030b82d7859ae0994925a090",
+  "src": {
+    "url": "https://github.com/sbaldasty/tree-sitter-mako",
+    "rev": "cff49671cc8c1d72030b82d7859ae0994925a090",
+    "date": "2025-08-12T21:15:05-04:00",
+    "path": "/nix/store/9dqk1pgm6q6wr1bxqjsryql17iwhwwdk-tree-sitter-mako-cff4967",
+    "sha256": "0sg0d5r8qxjc32xg4y8r7jnwq68b42fszx86crfy4b1f9c5n0i07",
+    "hash": "sha256-B0RgC0suLOJdZgb1r50gCxnMrTwZefK6GEx2jHJp4Gk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

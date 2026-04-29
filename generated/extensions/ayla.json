@@ -1,0 +1,21 @@
+{
+  "name": "ayla",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/z-sk1/zed-ayla",
+    "rev": "072a8313b60c89e1a6b259eb18875e171e1a99c3",
+    "date": "2026-03-03T07:57:49+04:00",
+    "path": "/nix/store/xxdz2fhj5hlljz1012pz2b6gr9yd5ziz-zed-ayla-072a831",
+    "sha256": "18da5xajrqcdl8n1bmv9yjqz9riyv1328sg1qv4rhimb24v0rp7c",
+    "hash": "sha256-7NwMNhGrRpjJxuFpJEbYPub0sfRp1xUsoo3hLFUvqqE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ayla_ayla"
+  ],
+  "kind": "plain"
+}

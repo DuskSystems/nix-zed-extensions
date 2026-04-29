@@ -1,0 +1,21 @@
+{
+  "name": "bugstalker-dap",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/godzie44/BugStalker",
+    "rev": "ad32f4968fb6bfb1dc9796a0c4403fa9d1f72c2b",
+    "date": "2026-04-14T10:58:53+03:00",
+    "path": "/nix/store/22dx2idc9kvka1w8n2iq46vcndnfm15i-BugStalker-ad32f49",
+    "sha256": "103isrnz6wnigfbc3hd5hxh8rn2w3h6kqw5hbq13pxn60sgi1lsg",
+    "hash": "sha256-T9MQnwbG9jsCXrBwPA0cXNiMYIelwcGWe9Fy823WcYA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extension/zed",
+  "cargoHash": "sha256-i+r5u6bu0kVYEf1KMiqT0Ny9MPqepTA68uawid7sYw4="
+}

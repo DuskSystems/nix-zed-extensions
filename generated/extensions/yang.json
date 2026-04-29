@@ -1,13 +1,13 @@
 {
   "name": "yang",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "src": {
     "url": "https://github.com/olitez/zed-yang",
-    "rev": "cdd3cb3192ef18276973c6539fc89cc9103c5c61",
-    "date": "2025-07-30T09:35:45+02:00",
-    "path": "/nix/store/j0d76ai8d7gsyg2b6wg8mghd1dxf8znl-zed-yang-cdd3cb3",
-    "sha256": "01ldg09k1jff4bkjaksmjzmx1wwgy9f9yhys1gsiwpchali3irnl",
-    "hash": "sha256-1OY4IlWQXR71C9pDn1zyj/PQ65dVTyXnIs7JMBN4jQY=",
+    "rev": "3eb9b69e75fb03729e650045f5140d179663ecf8",
+    "date": "2026-04-27T10:24:00+02:00",
+    "path": "/nix/store/yp84kajcrdnhdjj6c621jwjw4bkmph3z-zed-yang-3eb9b69",
+    "sha256": "1x0fn4bj1vqay799gs4lq820gfpxsnfwfdd7drf9nmgg0v0xjkfx",
+    "hash": "sha256-3U3ZwQbvVZtcbqc1x53V/boHBMKU6JfS8QrvIBexDvQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "yang_yang"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-czgzvUVTX0WgTHHowiQMPzBkfitV+P2Co2TAn41myMY="
 }

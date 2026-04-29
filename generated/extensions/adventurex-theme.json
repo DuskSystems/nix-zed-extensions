@@ -1,0 +1,19 @@
+{
+  "name": "adventurex-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/AdventureX-RGE/zed-adventurex-theme",
+    "rev": "dc8a2bbb6a006e9f7e4787d49339c39009080967",
+    "date": "2026-03-25T16:00:06+08:00",
+    "path": "/nix/store/jf5ch8axzyk9high2i3d0c5r7hin2265-zed-adventurex-theme-dc8a2bb",
+    "sha256": "0vxbrdqhrzg31pzgcj57smwp8m2vn9d04b5k6h72abxihbi9m80d",
+    "hash": "sha256-DaCa4oKxLyUONLMsAlqyW1R0edWnSPb+DeP9DHHLq28=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

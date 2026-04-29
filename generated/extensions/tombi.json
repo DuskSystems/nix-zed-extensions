@@ -1,13 +1,13 @@
 {
   "name": "tombi",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "src": {
     "url": "https://github.com/tombi-toml/tombi",
-    "rev": "4cf9b6dc968f442f7bb32d135526cb7212a058a0",
-    "date": "2026-04-25T23:54:59+09:00",
-    "path": "/nix/store/j490kj5g8gda068k1vf3ydwrg4ag3ygd-tombi-4cf9b6d",
-    "sha256": "173sr3ipg37c1sypg1li0j4d2ipskj16hwiima4jga0lphw4rrk8",
-    "hash": "sha256-aOZMOLwUqCeJqjFyaIKc+kbRiASRhne9DuyMd+PIepw=",
+    "rev": "ba05f23c5f250cdb2e6c3b32f4863536cc46ad8f",
+    "date": "2026-04-28T00:16:34+09:00",
+    "path": "/nix/store/hqmlmw4m4ld5qlm7k15pk52k9ggz98i1-tombi-ba05f23",
+    "sha256": "149w6r1xqikzx95yv5kgd4ffzx37ig6krv0l6x4bnxywcwx01h8d",
+    "hash": "sha256-DcEAOmfcd7tINxTsPM2LZ/TvHGlvlu1L6n9G3EM2PJE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-kQB0vRj07lcX/Rzt+KTenD4NoK0BI0yc6D3V/ewT3Bk="
+  "cargoHash": "sha256-XRz5KY8GcChjMUZ76Q/ZAoEBAzW3gitNeIUBvAjRJSU="
 }

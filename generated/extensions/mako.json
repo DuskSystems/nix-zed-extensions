@@ -1,0 +1,21 @@
+{
+  "name": "mako",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/ron0studios/mako-zed",
+    "rev": "c1422c8a5e653590c4a167016590c6d70341d1df",
+    "date": "2026-04-24T22:22:19+01:00",
+    "path": "/nix/store/g52mcv41wfj3rkqn591xkrg00xs808q4-mako-zed-c1422c8",
+    "sha256": "1aj940zmmd3hyawjh5wq6yckk2kns47n9d5gfm6j179bxjgbs0yc",
+    "hash": "sha256-zAO9nuwrnSBNda+0ZA/Rdoo5mTeYFyi58nC0Wj8gSao=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mako_mako"
+  ],
+  "kind": "plain"
+}
