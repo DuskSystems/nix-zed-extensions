@@ -1,13 +1,13 @@
 {
   "name": "cfml",
-  "version": "0.1.9",
+  "version": "0.2.9",
   "src": {
     "url": "https://github.com/cfmleditor/zed-cfml",
-    "rev": "4850f21b667f15c39125e25421a9c607bbf9d89e",
-    "date": "2025-12-23T19:59:47+10:00",
-    "path": "/nix/store/vmwipb2k7j0yba35jfvn4adf0chkdig0-zed-cfml-4850f21",
-    "sha256": "00c08rnd1axjbmzgb8l4zz35zyza2hlvdkbl22r0hm7diq9wya8q",
-    "hash": "sha256-GCnPE47tVAiyEHTNtikU6vtfxv+EovV+XbKr0GxGgAE=",
+    "rev": "649f42dc9444cac2e0f5da196f00b24eac32036a",
+    "date": "2026-04-29T22:29:40+10:00",
+    "path": "/nix/store/jyzh2m9a60wigi23srd0xqwhgzfs8rga-zed-cfml-649f42d",
+    "sha256": "1a6lwylsym13m7nw9fpd7qbcvbh2why34avrg4hnpz4m7h2jbdzl",
+    "hash": "sha256-9LclBTyV/GsheXkrMjzkAq7NFj7tusTtqSNUr6nn1Kg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,11 +15,11 @@
   },
   "extensionRoot": null,
   "grammars": [
-    "cfml_cfhtml",
     "cfml_cfml",
+    "cfml_cfquery",
     "cfml_cfscript"
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-SOFxNdl3V/2bMjyXZMZFkpRYn/MQjTYL5m8OJIZg1/E="
+  "cargoHash": "sha256-4PXR8SPZVnkq8j3yzeqkqv92molbgtFhfO2guT7UwRU="
 }

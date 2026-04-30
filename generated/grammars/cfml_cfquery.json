@@ -1,6 +1,6 @@
 {
-  "id": "cfml_cfml",
-  "name": "cfml",
+  "id": "cfml_cfquery",
+  "name": "cfquery",
   "version": "3da2ed7859d39b752c0586693f3b2f069412d7bd",
   "src": {
     "url": "https://github.com/cfmleditor/tree-sitter-cfml",
@@ -14,5 +14,5 @@
     "deepClone": false,
     "leaveDotGit": false
   },
-  "grammarRoot": "cfml"
+  "grammarRoot": "cfquery"
 }
