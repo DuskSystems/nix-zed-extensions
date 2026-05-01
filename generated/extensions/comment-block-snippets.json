@@ -1,0 +1,19 @@
+{
+  "name": "comment-block-snippets",
+  "version": "1.0.2",
+  "src": {
+    "url": "https://github.com/rami-shalhoub/comment-blocks-zed",
+    "rev": "294ea520749d1ce15a947d1cd3af8c36ce1d2abf",
+    "date": "2026-04-29T00:23:55+02:00",
+    "path": "/nix/store/9plw0dz8pllzbj7dhjnzz2mrsnldil6d-comment-blocks-zed-294ea52",
+    "sha256": "02kww202bgwkm2r8qkhlgjf8vmwkxkl4dyv14qb6sjsbsicijnli",
+    "hash": "sha256-kVoZWdRLS20WJmH7Rujsk9eNnHwUToyyqJO/JYDgfAo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
