@@ -1,0 +1,19 @@
+{
+  "name": "fjord-theme",
+  "version": "0.1.5",
+  "src": {
+    "url": "https://github.com/fjord-themes/fjord-zed",
+    "rev": "95a485b5ee530964a52c7c7a3eb59e46a87bf8a3",
+    "date": "2026-04-14T16:12:07Z",
+    "path": "/nix/store/wp3d9nligxlnyq6c3irmdg2169fi1jx4-fjord-zed-95a485b",
+    "sha256": "1zj4c52lv4kg6cy40qldc7bsrpkmsalbp47pi7xqacmgc1l1aqpa",
+    "hash": "sha256-6mIVaGCvMoX7ifeQu6jSdd6s12GNYkA8M2+STUVhRP4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

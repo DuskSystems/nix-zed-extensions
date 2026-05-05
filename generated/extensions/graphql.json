@@ -1,13 +1,13 @@
 {
   "name": "graphql",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "src": {
     "url": "https://github.com/11bit/zed-extension-graphql",
-    "rev": "9499482d55dc4ddf4d1d4da0a77416a55befa5b9",
-    "date": "2025-09-30T15:52:21+05:00",
-    "path": "/nix/store/a8i956srmqfqi4ivddd1fb6pbkick8fn-zed-extension-graphql-9499482",
-    "sha256": "087nwhbi7gbc088lmwbbsbmklxvql7gw0b0b2s3aj1mmkg44wz24",
-    "hash": "sha256-RHxOyJu1BqmGFgsswN+heHc669Jr8UoRAmy9Exfk9iA=",
+    "rev": "5e90aac5f22678c8eca3213785d8b0c8590fdcd3",
+    "date": "2026-05-01T12:25:45+05:00",
+    "path": "/nix/store/gdy8d9z8pqj09gk04jhi1zvz2254by67-zed-extension-graphql-5e90aac",
+    "sha256": "0gdbsw1c50xg52wf64dfj9cw2wi81qfmayll8ikz3krdh7rrhgn7",
+    "hash": "sha256-xz6Y84Etz/FnRJR6VR0OKHLBWZKuEeO4KK+DwgLXqz0=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-pKpkYJ0jd0N34Ld1M2/bzanDWbMuYNe/IfQOLOvdilU="
+  "cargoHash": "sha256-94oMX4Iuz5lhcReWuWvCheRkbsN5VqC3HbUj7nTf0G4="
 }
