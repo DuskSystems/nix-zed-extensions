@@ -1,0 +1,19 @@
+{
+  "name": "lazyvim-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/BadRat-in/zed-lazyvim-theme",
+    "rev": "d7e32d0d72a568644526f6f6991f1492e769e724",
+    "date": "2026-05-05T11:25:49+05:30",
+    "path": "/nix/store/li03ihy41ac74x7qjwy0k2lkz9g41kdp-zed-lazyvim-theme-d7e32d0",
+    "sha256": "1k2gxj5cxn7cqkf0ajr7xiajs0nbwlxnmg2l3nqpzg1dj5ls3lqj",
+    "hash": "sha256-EtOhaZEtvH+xHVS8ajvlywItVewnSwXcxOzYzorsT8w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

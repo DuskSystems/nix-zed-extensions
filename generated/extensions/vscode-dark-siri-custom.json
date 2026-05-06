@@ -1,0 +1,19 @@
+{
+  "name": "vscode-dark-siri-custom",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rschili/zed-theme-vscode-dark-siri-custom",
+    "rev": "22900e6fb827747473f5b07f8d9112f7c6826565",
+    "date": "2026-04-02T21:21:07+02:00",
+    "path": "/nix/store/mx8s9j8l2l13agv5mqsjskf5khmfw7lk-zed-theme-vscode-dark-siri-custom-22900e6",
+    "sha256": "05h3knylvaahvz9mqr0ywjzknfyxzlsrkwj396yxr9y2a33frs32",
+    "hash": "sha256-YujsxlDCp9y9SUPymTX93Ts7v+QeZFzT31CpTb2dAxY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

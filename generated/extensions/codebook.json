@@ -1,13 +1,13 @@
 {
   "name": "codebook",
-  "version": "0.2.11",
+  "version": "0.2.12",
   "src": {
     "url": "https://github.com/blopker/codebook-zed",
-    "rev": "75ece7affb149dc7d89aa909f34faf5f2aaa2b67",
-    "date": "2026-04-11T15:43:10-07:00",
-    "path": "/nix/store/w7iqz91b989b5m5ywwq8kn6p89dh2xdz-codebook-zed-75ece7a",
-    "sha256": "05nwwg97hcb3gjp1fszi70sx4f48kw0zhiycpv300riyiwi3a8yk",
-    "hash": "sha256-0yM1Io8+ZgDGvsxH+AGfiDjSNTjxaxeufGMxeNLj3BY=",
+    "rev": "022ac525e2b0a20f3c88f0b748f598836cd529b7",
+    "date": "2026-05-04T15:27:50-07:00",
+    "path": "/nix/store/j6hcdbd5mqbdrsxgj2bmhxvbhllal9yd-codebook-zed-022ac52",
+    "sha256": "0lq1nsxlaf0gbh5ay6x02c5kxr1cx6n4g2zn1rcqmajr043z2nsb",
+    "hash": "sha256-S1vxBwFZqopZDvaLR6zpLOQ+CxOgG68KXA84Rbu2AVM=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-NOw8QSyG+Hf/RsG7GznmF17Pjt9OqnQzJND8f5CqtjQ="
+  "cargoHash": "sha256-H6JF99tuxnQoWCk60zr/nLLPmAnA6wvsYjS+ARZAks8="
 }

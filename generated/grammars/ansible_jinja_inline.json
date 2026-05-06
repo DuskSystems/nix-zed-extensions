@@ -1,0 +1,18 @@
+{
+  "id": "ansible_jinja_inline",
+  "name": "jinja_inline",
+  "version": "d268e94390e97fb5f859bd6d822155ba0d8fb0d1",
+  "src": {
+    "url": "https://github.com/cathaysia/tree-sitter-jinja",
+    "rev": "d268e94390e97fb5f859bd6d822155ba0d8fb0d1",
+    "date": "2026-01-28T10:27:03+08:00",
+    "path": "/nix/store/yr9k580g8jv88ql7l4ns7phl9clmwq3k-tree-sitter-jinja-d268e94",
+    "sha256": "1cr2iwv17fcprmvcbirpavxkb3zpkx4cz4pwcmb43zjylc5fy8ss",
+    "hash": "sha256-WiPvCqNe/kFWZfySz0if9481+1Y3x8V2zZe5EzaPIrM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-jinja_inline"
+}

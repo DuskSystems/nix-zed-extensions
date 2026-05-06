@@ -1,13 +1,13 @@
 {
   "name": "ansible",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/kartikvashistha/zed-ansible",
-    "rev": "f0cd7047ea8eb1316a2ee563a2e664e59375a8a1",
-    "date": "2025-09-28T11:09:39+01:00",
-    "path": "/nix/store/571nj6aaal8xx5ix6q1wsx8xbblysa20-zed-ansible-f0cd704",
-    "sha256": "1g8h7srj1gyn3bb245k0zvj8sgpb8x71lvj0h9wrz5xkdc5f82g5",
-    "hash": "sha256-5QnkCmuzl595gkBuGk5H6z6N5P5gFiLWGta/ILM+EL0=",
+    "rev": "0bf597ed8fb4e3de431def79eaec3521a018174a",
+    "date": "2026-05-04T08:52:45+01:00",
+    "path": "/nix/store/3zrbxja5kyc396q1kdcr2acgj6vpzc9s-zed-ansible-0bf597e",
+    "sha256": "0w7dcr759npc6k0jkx29vk5c64flx9zy8yrg8bmpnimdxdc8bvd6",
+    "hash": "sha256-pu2FWOutRnvrQi975H/q1BHDytxJ9CnBNOzaVE5m7XA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -15,6 +15,8 @@
   },
   "extensionRoot": null,
   "grammars": [
+    "ansible_jinja",
+    "ansible_jinja_inline",
     "ansible_yaml"
   ],
   "kind": "rust",

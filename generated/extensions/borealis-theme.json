@@ -1,0 +1,19 @@
+{
+  "name": "borealis-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/VimCommando/zed-theme-borealis",
+    "rev": "9676365674b27dd922a8aa1264e29d4f3ba66f70",
+    "date": "2026-04-15T10:37:27-04:00",
+    "path": "/nix/store/nzhi0slmr7xnb1dpn4cqddpg7wcw0r1n-zed-theme-borealis-9676365",
+    "sha256": "0jrmxaqpwgpl006gkagdx0hyhchbb9054rvyn8qcgrfj3vlk474x",
+    "hash": "sha256-nRwy6R7S5ccwsn5nUkBaCzLoIejtqfkMAPQ+frHqNUs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

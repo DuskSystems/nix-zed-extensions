@@ -1,13 +1,13 @@
 {
   "name": "arturo",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "src": {
-    "url": "https://github.com/DaZhi-the-Revelator/zed-arturo",
-    "rev": "fe1caaaea4ec644ea49c39c26a68cce67f881359",
-    "date": "2026-03-03T12:12:11-05:00",
-    "path": "/nix/store/q47akwhqgy8sis1kccyd9y3caclr12a3-zed-arturo-fe1caaa",
-    "sha256": "11w6bf975qpvn7lhmjhbknvh19i6j86am6bn8vzdvlqh51955hzg",
-    "hash": "sha256-78NSUigQ093+RnaZqgySJqYAt50LygrpsfvicpJbhoc=",
+    "url": "https://codeberg.org/DaZhi-the-Revelator/zed-arturo",
+    "rev": "268004c8331d76704e3af062c7c73ecc1339003f",
+    "date": "2026-04-24T03:39:31-04:00",
+    "path": "/nix/store/q6l3zdlh86zzk43yc3n982sxdp2818c4-zed-arturo-268004c",
+    "sha256": "1g6s96yiykvcddkhkzfwzlszvnzz1a0kj42dza0ccs68abn5gy2c",
+    "hash": "sha256-TPhX7FLIaMaA+k0QOYEK/9v9Nf3c/Qlna2xPH71J2rw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EI7qs1fhy8BDhjgMb75h4TU54XZCkkuaSexHkkpdJ1s=",
+  "cargoHash": "sha256-9qT32VY1fsx+XJlxKlEHLw8Sx3SdOSOajE5Qg1VarNM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arturo.lock",
     "outputHashes": {}

@@ -1,0 +1,19 @@
+{
+  "name": "akhdar-by-aramb-dev-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/aramb-dev/akhdar-by-aramb-dev-theme",
+    "rev": "d8ce2eb0644658daeda385af42da03a7f9c77e69",
+    "date": "2026-05-04T13:30:24-04:00",
+    "path": "/nix/store/qlzs2c1925ncfq0c6z272cia2w5ilzjm-akhdar-by-aramb-dev-theme-d8ce2eb",
+    "sha256": "1s0k64ndf3s7411bzjcwwqnpimk0k1wbwms5dx21cmriwz9pk1fn",
+    "hash": "sha256-1oV50+cxVxZEb0VXvniYYNZ4Leacyb9CIEcP1ywxE+g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

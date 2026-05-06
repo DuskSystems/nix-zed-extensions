@@ -61,9 +61,9 @@ checksum = "8f42a60cbdf9a97f5d2305f08a87dc4e09308d1276d28c869c684d7777685682"
 
 [[package]]
 name = "leb128"
-version = "0.2.5"
+version = "0.2.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "884e2677b40cc8c339eaefcb701c32ef1fd2493d71118dc0ca4b6a736c93bd67"
+checksum = "6cc46bac87ef8093eed6f272babb833b6443374399985ac8ed28471ee0918545"
 
 [[package]]
 name = "log"
@@ -318,7 +318,7 @@ dependencies = [
 
 [[package]]
 name = "zed-arturo"
-version = "1.0.1"
+version = "1.0.3"
 dependencies = [
  "zed_extension_api",
 ]

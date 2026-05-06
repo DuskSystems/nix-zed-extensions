@@ -1,13 +1,13 @@
 {
   "name": "marksman",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/vitallium/zed-marksman",
-    "rev": "dde7ed3556f2fb965da3639878bd98d398c94870",
-    "date": "2026-02-11T17:38:17+01:00",
-    "path": "/nix/store/kf3dzpj6m6794ahi7by0jjzhqkwl63ah-zed-marksman-dde7ed3",
-    "sha256": "0mafb87f57y1pkzzkzyr7pz9zhk54r2zgynb86790fy2n5fsj6mn",
-    "hash": "sha256-thqpXbHCO5COQcv690UmZcKf/j3Z//n/vMGf4g5aTlU=",
+    "rev": "e006b2c3cabe31e5b08dc38294e4e02b279a1431",
+    "date": "2026-05-03T09:57:32+02:00",
+    "path": "/nix/store/23glxm8gzqwl22sac5v539k4ksvcksg5-zed-marksman-e006b2c",
+    "sha256": "181f32mw4q2cgix12s8r6jy1k28lm56bsas2sqn7qcqml45a1rkd",
+    "hash": "sha256-beagCqEVM3ws1kIrvUypFIkZvDQZaRF6fExgwqsYLqA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-s1FKyYYjWN2nItvgPWOjJkT0kUrKjEe7UiiqsawJmXk="
+  "cargoHash": "sha256-rNdDfD2UBDMIcR3onxXl7Wme/JI+GOziKfwSHWCqZDc="
 }

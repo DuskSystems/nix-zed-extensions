@@ -1,0 +1,19 @@
+{
+  "name": "retropc-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/abhishek-bhatkar/retroPC-zed-theme",
+    "rev": "6a3f18759fa357cab9755780e2498e38b12cff8c",
+    "date": "2026-05-05T18:05:08+05:30",
+    "path": "/nix/store/4nsm0f4lc9mcyv0qdh6sm3wxkdn5xzpv-retroPC-zed-theme-6a3f187",
+    "sha256": "0j0096jbs2nm2h2y1mv39hl03gmsqqh53d8x962ykg4fc5399zmd",
+    "hash": "sha256-rf6URmGOvOmFSR21USDGur4BKExj1+AFFNUKvaRJAEg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

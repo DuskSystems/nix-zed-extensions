@@ -1,0 +1,19 @@
+{
+  "name": "tbilisi-night",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/IosebKoplatadze/tbilisi-night-zed",
+    "rev": "e5cf63eada3f6cd06ab28a282a935ba99250bb23",
+    "date": "2026-04-23T11:52:22+04:00",
+    "path": "/nix/store/plp6i4hk7lz0dxglx12phcdfyww2fdmb-tbilisi-night-zed-e5cf63e",
+    "sha256": "0hj0mgax3lxv0z3rj2737ww620pf0p6nc84xjhhygdyjich6ankq",
+    "hash": "sha256-eFplIIvSt+chlJ0gZs0F7gJhOD/jCJnHB7vT0dWrQEI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
