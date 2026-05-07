@@ -1,13 +1,13 @@
 {
   "name": "bsl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "src": {
     "url": "https://github.com/dlyubanevich/zed-bsl-extension",
-    "rev": "b0975ec366a868423e8b6385cba8ea688b4381c0",
-    "date": "2025-10-20T15:06:34+03:00",
-    "path": "/nix/store/zv1kvhnnk1qvks00ik9vzlc0x8w8a6ns-zed-bsl-extension-b0975ec",
-    "sha256": "1dsxrn2b4v7sxwnd2l58jh4ij9f1bzqnfg9i762rawq8l2bqbi0k",
-    "hash": "sha256-E8SFl6AIc5WFOTE9Z/FfwSUZCZSoUNEs7/pssoTNXbc=",
+    "rev": "b30a5d8778b12153060a997ebb2febd94ffaa057",
+    "date": "2026-05-06T11:47:19+03:00",
+    "path": "/nix/store/mfzsdvrbb4qihc39sxfl7mrb6jzdpx42-zed-bsl-extension-b30a5d8",
+    "sha256": "070c6bhx89pvd2hv803amlxbyfspdw4c1g9332i1nyp8jyzzs0fn",
+    "hash": "sha256-1gH9v5foehuiGCO9wAhvVzu/Oq1qALShaPsm1OEyDBw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-SjYPdohNOQOMgZiVXcnRDHq32C13/fcD/TWRYfIacyE=",
+  "cargoHash": "sha256-9qkSVY5e3kH7TkfVP312FRMu4LhyoCBRm6x4by1SPMw=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bsl.lock",
     "outputHashes": {}

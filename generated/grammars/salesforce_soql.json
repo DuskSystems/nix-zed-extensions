@@ -1,0 +1,18 @@
+{
+  "id": "salesforce_soql",
+  "name": "soql",
+  "version": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
+  "src": {
+    "url": "https://github.com/aheber/tree-sitter-sfapex",
+    "rev": "3597575a429766dd7ecce9f5bb97f6fec4419d5d",
+    "date": "2025-02-12T20:38:09-07:00",
+    "path": "/nix/store/cwkpm4ki8cwgnvg9ws3wxqmhx21j47pw-tree-sitter-sfapex-3597575",
+    "sha256": "1kcv8g7smh76nb46np5yqmjma1c4zna74nkhc11xa1g3gwysvv2c",
+    "hash": "sha256-TOytPX/jBdVDYHBacpT9hAVVZcW+XGvIsubAqs9Dm80=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "soql"
+}

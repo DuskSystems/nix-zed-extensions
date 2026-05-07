@@ -1,0 +1,26 @@
+{
+  "name": "salesforce",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/Damecek/zed-salesforce-extension",
+    "rev": "d05f62cbc8a70f1f0064b9c1f9fc6c753d2d291d",
+    "date": "2026-05-06T12:18:00+02:00",
+    "path": "/nix/store/npfk4zpgvw0ksk58dczzp3dxhhk1lp80-zed-salesforce-extension-d05f62c",
+    "sha256": "1inm66nknsd9cmix753zx01j83k7sqis5p18jcpsw2wmrvycmwaf",
+    "hash": "sha256-TvHK/M6VC64vkyjcoiPWZw4kA+h/lNNjZalpO60x1cY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "salesforce_apex",
+    "salesforce_sflog",
+    "salesforce_soql",
+    "salesforce_sosl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0PH8BHzAh87I+/0anqsYgNvdVIWLU+18Bhuy/XyB6xE="
+}

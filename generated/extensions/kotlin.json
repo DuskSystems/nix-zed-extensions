@@ -1,13 +1,13 @@
 {
   "name": "kotlin",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "src": {
     "url": "https://github.com/zed-extensions/zed-kotlin",
-    "rev": "d0ef57942afd516a377176cfad017ed825f09f6c",
-    "date": "2026-05-06T01:19:18+02:00",
-    "path": "/nix/store/sqs5wfsvdpi6whiqx3s7zwyxs20fbv11-zed-kotlin-d0ef579",
-    "sha256": "04lnrf4rjhjb9xrhb4q99y64ddsvkls6xkw3mxnwh2wb5w8j7i64",
-    "hash": "sha256-xMQjES+LC8htr4PPbjSdW7dGjE8JkwVzT0tCmYnLlhI=",
+    "rev": "ec98814c40de8cec74c0aceba90298a13fb3f166",
+    "date": "2026-05-06T18:51:29Z",
+    "path": "/nix/store/ymg3wra91bws7kvd5igx73lm39xvn39h-zed-kotlin-ec98814",
+    "sha256": "04fh6nrfi7ikq7fxa7ahii7iva543nqfzyrv465vp81907w1i3g9",
+    "hash": "sha256-6Y0Y+AEpoLuLITv777AdpKgdT4xQHdXdwTOe6LI10BE=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Fdd95oNgoc1BaZnm6vfqOiEOvAYokjXz0gXaCBGO0HU="
+  "cargoHash": "sha256-BjeNi9jlsfPNEgj9O2pUFe+CyC1K2dSTrJntfm0SWM8="
 }

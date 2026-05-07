@@ -1,0 +1,19 @@
+{
+  "name": "pinkzuna-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/memiux/pinkzuna-zed",
+    "rev": "8f9245a26f233c65dfa901603e9dab91d224cd81",
+    "date": "2026-04-21T17:45:37-06:00",
+    "path": "/nix/store/d5s1xx3kfm2b2vb2090c9dmgs29msbmy-pinkzuna-zed-8f9245a",
+    "sha256": "1f9gl1vxd0bc198csqabr6gbz8a8xj2f8vcdhjmh3kxbgyndwxhs",
+    "hash": "sha256-GnberH+rzwGrhI1t5ITsSKG/nslLYc1QCmyB1negL7k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

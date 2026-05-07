@@ -1,0 +1,21 @@
+{
+  "name": "infracost-ls",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/infracost/zed-infracost",
+    "rev": "7e911406df3e075ef9e6d1cd0b934de3afa2991f",
+    "date": "2026-05-06T11:19:59+01:00",
+    "path": "/nix/store/hrq4qs9f5gyh1k7jpz7mjsp4pvzn1mh0-zed-infracost-7e91140",
+    "sha256": "0qj05m0ap3kilz0z8wnxivz75wdvhy9bxh2pcbcggcwdr0lnqkwn",
+    "hash": "sha256-lk9sKciNs/fYYlfAvpKHu/Fy/o7dcvTBp3GOq0AtQGI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-cashXPrIxDwmc4tB42KcNDU/r8/yEoq5Mi2NEpVj06E="
+}
