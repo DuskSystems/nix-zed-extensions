@@ -1,0 +1,18 @@
+{
+  "id": "grafana-alloy_alloy",
+  "name": "alloy",
+  "version": "58d462b1cdb077682b130caa324f3822aeb00b8e",
+  "src": {
+    "url": "https://github.com/mattsre/tree-sitter-alloy",
+    "rev": "58d462b1cdb077682b130caa324f3822aeb00b8e",
+    "date": "2025-11-28T23:49:35-05:00",
+    "path": "/nix/store/gwdhr5sbzvrshjrfi8iyrnhppyjwcrr2-tree-sitter-alloy-58d462b",
+    "sha256": "1l14y0lx5bm11grcbz87xmlq7khx0v3zm3id7fg9m5ggrys0cdn8",
+    "hash": "sha256-yDYGtM/vlZqeOy2O+scGHc6Dae0H/cXyC6Gu0inwJNA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "grafana-alloy",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/lenstr/zed-grafana-alloy",
+    "rev": "44586f637cc37dce48c4d99f15119c68ba028b09",
+    "date": "2026-05-06T21:53:40+03:00",
+    "path": "/nix/store/1vkxiw135p8kq59d5bvwmgg7xymg7isp-zed-grafana-alloy-44586f6",
+    "sha256": "04232lkmi8y41i02rfa9azxi2aarxbanqdjzfz57ycbk4dnq81r8",
+    "hash": "sha256-KAeEbSNzMX/Kd182bNXqWSkR+1dJuSxADMSjWCcVQxA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "grafana-alloy_alloy"
+  ],
+  "kind": "plain"
+}
