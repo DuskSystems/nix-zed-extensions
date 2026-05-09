@@ -1,0 +1,23 @@
+{
+  "name": "gn",
+  "version": "1.4.0",
+  "src": {
+    "url": "https://github.com/dsa28s/zed-gn-language",
+    "rev": "118ef1eb66db445a3cadc6975094b8f19ab6798d",
+    "date": "2026-04-22T14:00:36+09:00",
+    "path": "/nix/store/hm5acm37smcg91bwrcmhmni6zk2ajdrv-zed-gn-language-118ef1e",
+    "sha256": "0lgbk00axgmwzni9kv7gas0nrd39g79s1b5gqz0hcwqra1iryh96",
+    "hash": "sha256-JkGfY1AZcwbBx6+soNN5abRsgVbv7Jmi/by+rgCY61E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gn_gn"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DB5yCfYtFHeWv6njvbHXkpFZFyCCvnqgr8ZLItjEMso="
+}

@@ -1,0 +1,18 @@
+{
+  "id": "gn_gn",
+  "name": "gn",
+  "version": "bc06955bc1e3c9ff8e9b2b2a55b38b94da923c05",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-gn",
+    "rev": "bc06955bc1e3c9ff8e9b2b2a55b38b94da923c05",
+    "date": "2023-10-22T01:17:21-04:00",
+    "path": "/nix/store/yls3jhkyvckw2j0lxhcmxy8719k7kxkm-tree-sitter-gn-bc06955",
+    "sha256": "0i6f0kar3c734ag5bli519ah3rmamsk8kihbw5ga5b0ihrxqfzja",
+    "hash": "sha256-Sn6He4YRrKJe4QvGiaauquYBVQol0lWeIuOwkdUEzkQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

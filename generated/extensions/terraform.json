@@ -1,13 +1,13 @@
 {
   "name": "terraform",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "src": {
     "url": "https://github.com/zed-extensions/terraform",
-    "rev": "5ea4664f1cf43e77456631f50639c970f944eea5",
-    "date": "2025-12-22T11:07:42Z",
-    "path": "/nix/store/gbfiz9d7yph01pv26sagwnkszdlxhxf8-terraform-5ea4664",
-    "sha256": "10pmab4z4k65ikffr0q3a3nraqw6hqyw4wmnrms5b763cwv0bb3i",
-    "hash": "sha256-cawFNmfDnFV0zbZywj2GhmOV7VADg+zcjMVM8slS9YI=",
+    "rev": "cd6eeb142d8de28fb722718397b2fad957acc61f",
+    "date": "2026-05-08T16:38:48+02:00",
+    "path": "/nix/store/im5naq7xf30mcn4w0y6by2l8hn7b1s1d-terraform-cd6eeb1",
+    "sha256": "0d4v6pq45gjkspgrxc9dmj5kq7zz5hfiv704c26yncbb94f3n24k",
+    "hash": "sha256-kwg7HElrMeuNYAScHR0s/x88i6wtsZ7f1VO+QvA1mzQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-8ffejosfhVvKITT+OxcvM8R3hOJ5r79WmNsMZTTXwGw="
+  "cargoHash": "sha256-Wpd3kYO+74PlLZgz8z/dvbBoEGax5JDvmKF9/YeCGw4="
 }

@@ -1,0 +1,18 @@
+{
+  "id": "tonel-smalltalk_tonel_smalltalk",
+  "name": "tonel_smalltalk",
+  "version": "382bfaf5a74d7b7497075b34a51d2d739612cac2",
+  "src": {
+    "url": "https://github.com/mumez/tree-sitter-tonel-smalltalk",
+    "rev": "382bfaf5a74d7b7497075b34a51d2d739612cac2",
+    "date": "2026-04-06T22:37:03+09:00",
+    "path": "/nix/store/virrhw6w4cyxw4cc1sb286iiq6qrll9w-tree-sitter-tonel-smalltalk-382bfaf",
+    "sha256": "15h8yq60pggphs52nd73pry8v30l84fzz3vmj0gk8ib9dnz4ap9z",
+    "hash": "sha256-P11Fvm1pRTQfkHWP/x1BFIyNfL7jNCuKhve9Cwz2CJY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

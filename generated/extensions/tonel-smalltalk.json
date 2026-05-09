@@ -1,0 +1,23 @@
+{
+  "name": "tonel-smalltalk",
+  "version": "0.1.7",
+  "src": {
+    "url": "https://github.com/mumez/zed-extension-tonel-smalltalk",
+    "rev": "0c7d0ac2cc0a19ef2bddd1a603efde1ed3ca68dc",
+    "date": "2026-04-10T10:48:37+09:00",
+    "path": "/nix/store/gwg2rswv2qzwml8qccda5v6isss5v7av-zed-extension-tonel-smalltalk-0c7d0ac",
+    "sha256": "1yaldkqvcgby9h8nzzqfyqx2z5dlvf2d523lnxjfmksdql5s912x",
+    "hash": "sha256-XYSkC8VNz+pkt3SI0oTbtJUvOvYO/28RTH49tvFsVPk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tonel-smalltalk_tonel_smalltalk"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pFF4nFLeYNPOC9j7M3YSC3c+rUrEozdGIlEYO+nGFA0="
+}

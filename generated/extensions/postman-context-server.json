@@ -1,0 +1,25 @@
+{
+  "name": "postman-context-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/postmanlabs/postman-mcp-zed-extension",
+    "rev": "bc098dcbf7b3bed1a7c90315baf8274df6f3422a",
+    "date": "2026-05-06T18:29:20+03:00",
+    "path": "/nix/store/482z8v8av8dh5h39p8svsp2wbnivhsjz-postman-mcp-zed-extension-bc098dc",
+    "sha256": "1gac7rzf8xdbqb7ljj6h3xrqvkwnp29chgbjysrlglk49v5mzspn",
+    "hash": "sha256-9upfy05k0kez9nI9yJK4ls+Ncx/QSEnPwqt15H4+TL0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-d3o+sF/VUt8vpcGZwE8kgHrk8oJNacgA0EBrBCiLHSE=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/postman-context-server.lock",
+    "outputHashes": {}
+  }
+}
