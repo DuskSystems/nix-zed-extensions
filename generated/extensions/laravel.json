@@ -1,0 +1,25 @@
+{
+  "name": "laravel",
+  "version": "0.1.15",
+  "src": {
+    "url": "https://github.com/GeneaLabs/zed-laravel",
+    "rev": "b2138fea492088c0d3da7c79009bc12b67a795af",
+    "date": "2026-05-08T22:21:39Z",
+    "path": "/nix/store/7l2kb9zhm5l0ik1y6ygr09ghgdhvk9b8-zed-laravel-b2138fe",
+    "sha256": "1xf7k673lgjbras9x328y2mvvzzxlpv4w5lximl5bj9c0kmq83md",
+    "hash": "sha256-rQ6E6wQsyVVojZ0WTval/f+9q/BIjJ60yks+Oo6Zx/U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vomNpJzjhvt1PEm/CDWbbDrGyTzRz3bnJkaMlbB3ndY=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/laravel.lock",
+    "outputHashes": {}
+  }
+}
