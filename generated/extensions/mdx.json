@@ -1,13 +1,13 @@
 {
   "name": "mdx",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "src": {
     "url": "https://github.com/srazzak/zed-mdx",
-    "rev": "ab5b9135826a8132c2c29169d0b56375e41a46db",
-    "date": "2025-11-06T17:54:27-05:00",
-    "path": "/nix/store/xly2s205psl567nxhzsyq90v5pddnniz-zed-mdx-ab5b913",
-    "sha256": "0fqsgyja6ll7rwxgi53wckf6kxxxrl2dg52mhg6nq0y93g2mcila",
-    "hash": "sha256-ikZWxRvJA2zNg1WU1wTNvfdp3GR8lPg6z4dSo6R/Gjs=",
+    "rev": "1e4be2ac8bb418f27fd258fbf4d9f05456f116da",
+    "date": "2026-05-09T22:18:46-04:00",
+    "path": "/nix/store/hfp7h35hq5p7rvfbyy5dsh8ppawiv4ax-zed-mdx-1e4be2a",
+    "sha256": "1rrfj2p9wyvinpv1f8g63189mkd44rmayd98prx2yn42njypghki",
+    "hash": "sha256-ccJ3vbSCWC96vig1r2ompM2aUBjmIRf2tXF7nq6QLuc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-f658cgQBqQTi/l+RaOw+FrzELqo2G+jt9yX+dQ5iIrE="
+  "cargoHash": "sha256-hea2GLQ04nBfmUEg1accjsWmZmMYllV3h8Kz3qlhZVY="
 }
