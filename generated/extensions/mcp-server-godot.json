@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-godot",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/maccesch/zed-extension-mcp-server-godot",
+    "rev": "89eef4f0af0c0ff20692c04a3638f915afd7f986",
+    "date": "2026-04-25T22:16:29-05:00",
+    "path": "/nix/store/lhvd0apmrp372llawp7pcqi82z7zdpqj-zed-extension-mcp-server-godot-89eef4f",
+    "sha256": "0dbh8b8y3vscd9032fr69hadq7slnk3hc68rbiw17v8ygzhalh6j",
+    "hash": "sha256-0kCq4H8e7RN4XBkZBse0VB/cFEwmOzFAakzv4dFCcDU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-83twnMOjtBQQnXdmJYLqi6qRjiUKaMawzktGVns0m30=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-godot.lock",
+    "outputHashes": {}
+  }
+}
