@@ -1,0 +1,19 @@
+{
+  "name": "mdias-oled-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mcdays94/zed-vaporware-oled-theme",
+    "rev": "9de0ff61c5da57b37deebdf9afb6905349d564cd",
+    "date": "2026-05-12T14:12:44+01:00",
+    "path": "/nix/store/14b36zasa7lgz9776g6ykxl75hnax3ks-zed-vaporware-oled-theme-9de0ff6",
+    "sha256": "17cy5x0kid37kmwhwxijdgrwg59sqkz0cbbii3gpxyigqg03yi73",
+    "hash": "sha256-40Q/wMMv+n7fiHEtBv7EOpXH82sydg55nWe0OEEvnp0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

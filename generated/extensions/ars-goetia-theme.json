@@ -1,0 +1,19 @@
+{
+  "name": "ars-goetia-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/rvdeguzman/ars-goetia-zed",
+    "rev": "e65b6ffe2e5b39003836ada2ebdc3ef4cbd9ddea",
+    "date": "2026-05-12T23:19:37-04:00",
+    "path": "/nix/store/3ik6p7pibzbyzrbx010pp7f0z8f4wl4i-ars-goetia-zed-e65b6ff",
+    "sha256": "02mr9mk3vfj18jszyvw9qvp5yfqz741sg7k4hdmna3xi3fmya5sj",
+    "hash": "sha256-UhflqxuxD2Vrg2SepwM5Hztf7saJb/+1REG6PWZNuQo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

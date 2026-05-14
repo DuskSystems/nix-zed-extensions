@@ -1,0 +1,19 @@
+{
+  "name": "mire-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/monarcode/mire-theme-zed",
+    "rev": "b229a795d1064d792cb16e5b8c331bbd2518e6c1",
+    "date": "2026-05-11T13:10:53+01:00",
+    "path": "/nix/store/0yh3hi07azbbflfh022k244jb5ww87yp-mire-theme-zed-b229a79",
+    "sha256": "1rnamala3063gvj0x6rpn0b1r2k3l75zl5f81vr5z1mqjriz316g",
+    "hash": "sha256-z4TxY5a4hl/yDsgV+suhY4ocFrA3mw7kfsOAoaiqyuY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
