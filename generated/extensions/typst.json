@@ -1,13 +1,13 @@
 {
   "name": "typst",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/WeetHet/typst.zed",
-    "rev": "a84345b58cf5dea8e6a37deac396bd26a26d013b",
-    "date": "2026-03-26T13:03:29+01:00",
-    "path": "/nix/store/yqjrfr6c1mja9327vh8awbdh1lm6aln3-typst.zed-a84345b",
-    "sha256": "0n2lzwrpcfdd1l0w07jc6qnvl1c8wmfym8qjssj6hrs5x0c1h2ai",
-    "hash": "sha256-UQkYGOhFZ2ik1hKj6l3liAW6LTZMHsABDa05djP/VFg=",
+    "rev": "97b7c75e77478a234e1add41c567a812ead63eb5",
+    "date": "2026-05-14T13:04:23+02:00",
+    "path": "/nix/store/d70lrv3rbb5273rq39kkz8gzsiwd9nzq-typst.zed-97b7c75",
+    "sha256": "1dfhqcchcdvdsqc97qh947x42gbwg5wim7ffngxh7v4ffv2wrq3x",
+    "hash": "sha256-feDMxXaO7AP7s86dGnl5fD1B+iEJ4pMY1m03BhnD0LU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-rjRiBCnrXEp0E7B/dliNKSESl8cf9HEw/dimh7EknX4="
+  "cargoHash": "sha256-hLeVODMWza0JAiJu5rmMjgG/Q+yBcKq5WtOjr8LofzA="
 }
