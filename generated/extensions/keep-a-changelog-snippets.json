@@ -1,0 +1,19 @@
+{
+  "name": "keep-a-changelog-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ssh-den/zed-keep-a-changelog-snippets",
+    "rev": "79aaef0ab633a75fa2a87d987d47a2d59d13b6ec",
+    "date": "2026-05-15T12:27:44+02:00",
+    "path": "/nix/store/fcbwxiah39wc9if66vrz6r8rq2g18lv1-zed-keep-a-changelog-snippets-79aaef0",
+    "sha256": "0bwyak0m7nbg1730cq3g76191cm4w5xn59f10nvfnzq0298ikmmc",
+    "hash": "sha256-rNYZURIAf+u2BcGlYnvhpLKQgjlvYAbGCW/ZU8FUni8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,13 +1,13 @@
 {
   "name": "laravel",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "src": {
     "url": "https://github.com/GeneaLabs/zed-laravel",
-    "rev": "af6f680cda27af5a22822af5c8671781cbb2ee02",
-    "date": "2026-05-10T14:27:37-07:00",
-    "path": "/nix/store/sykx6wlfn5jwipa4hgf30dlc47a6fg13-zed-laravel-af6f680",
-    "sha256": "1vdjnc5kkb2nqlyi7ik27l1m6pwrmv8a3m5lrpqwjg4rjlkxc8yz",
-    "hash": "sha256-3yPWJ5WZPMnxzbTUodCumV9TAz1ixhM9xVasOQuzsu0=",
+    "rev": "e6dee41352943600c54b1bd13d39d62929e5eec9",
+    "date": "2026-05-14T20:15:00Z",
+    "path": "/nix/store/cs2y1pdjk37mdxg93an63nrmms1z4p9j-zed-laravel-e6dee41",
+    "sha256": "0g2hn1xpjpynns4sfkz6vk7y9jnb16qh8kivgqfi5gq1d1sap9fr",
+    "hash": "sha256-2aWrdGgBvxIdfjtOBLEJy8rkz9zmT6eJttZfeXuwUDw=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-rjVyRjiNgb4W8kndKqohiwK0z4ZjT5EGEEFb9I8mXJ4=",
+  "cargoHash": "sha256-4RfbOblIO4T6Kzo9+i94tIg3ESZ308w6/qZamcq4LDM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/laravel.lock",
     "outputHashes": {}
