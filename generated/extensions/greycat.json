@@ -1,13 +1,13 @@
 {
   "name": "greycat",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "src": {
     "url": "https://github.com/maxleiko/zed-greycat-extension",
-    "rev": "a719607fd9681f33f7542f2ed0b2dc1a23397be3",
-    "date": "2026-05-13T08:23:55+02:00",
-    "path": "/nix/store/7xqx7jfn1qsrjm2bqvsyihi1gfm7v028-zed-greycat-extension-a719607",
-    "sha256": "1k9diafabkyxb2ck1hsb5da268n8gl56g8m1893w58c2q8dzcavj",
-    "hash": "sha256-civ2G8KCocJHQqGiZwp9yCIjVCtLwzCZWN3PpZyKLc0=",
+    "rev": "b2b28a68b8325d0c711c8bc3e2b20e4742f5950f",
+    "date": "2026-05-17T16:03:16+02:00",
+    "path": "/nix/store/2xc3fhzjvj04nbwl5jrz72skzjrnzpjj-zed-greycat-extension-b2b28a6",
+    "sha256": "12x078l82fl36hh1la1ia1gnnz4sjwfk99sqcwa9z9pfrg1hvdgr",
+    "hash": "sha256-+bUNw8vupp8UZ1inNB2XmnxrX1AxKBogNIM6gSg6oIs=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-9MCCne4a0cjvYxMQ5dKF60EooHWBCa/+QRURHzbV8tw="
+  "cargoHash": "sha256-mA6PFeTe9MBlNIx61gXzMTlPx7IIFkJmk/u6w2IxFyQ="
 }

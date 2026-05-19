@@ -1,0 +1,19 @@
+{
+  "name": "fujihaze-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/BinaryMoura/FujiHaze-Theme",
+    "rev": "1938047c35444bdfbe53add466484f02b73786a8",
+    "date": "2026-05-16T22:31:43-03:00",
+    "path": "/nix/store/dv3q00wa0b25rr2h7ikid21czfpq492i-FujiHaze-Theme-1938047",
+    "sha256": "0pg9x88dwmll6s34zg925m0wxlxi032ask85vcwfjnw853yplk85",
+    "hash": "sha256-BU16/SiIW+k42wVNrcQAsdPOQS0ivU+GNpRW3hDq6V0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

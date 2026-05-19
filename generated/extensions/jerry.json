@@ -1,0 +1,23 @@
+{
+  "name": "jerry",
+  "version": "0.3.2",
+  "src": {
+    "url": "https://github.com/jeffscottbrown/jerry-zed",
+    "rev": "7dbe16eaa8286e84fea84093c65b841921f50073",
+    "date": "2026-05-17T16:03:07-05:00",
+    "path": "/nix/store/431plf5nm9lx5kln3ync843spwmpr5m6-jerry-zed-7dbe16e",
+    "sha256": "0zppbgzinjspar9gkx3hf9qjsvda07j7f80qk5ig673na8cig4j1",
+    "hash": "sha256-QZIXGVJ2HPNimRggd+QBqm0tcXJw9PlSVldLG/9b934=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "jerry_jerry"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7l1X8hVU2hatkL+hE8LGnatsJpNw6OfKxTHhp4bIz4I="
+}

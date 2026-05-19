@@ -1,13 +1,13 @@
 {
   "name": "opentofu",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "src": {
-    "url": "https://github.com/tzabbi/zed-extension-opentofu",
-    "rev": "f1f6c7aaf59d5cfcac16b215e3c61dcc2222990c",
-    "date": "2026-02-15T19:05:27+01:00",
-    "path": "/nix/store/d1f0w7pbghsdcd8qxip9a060cpr1ha11-zed-extension-opentofu-f1f6c7a",
-    "sha256": "01b80xlgjmiiyi0py30cqljfpnfqs0ivq8b8d47k7wl8r00wlacb",
-    "hash": "sha256-iynKAciI8jMPaWghvCPQ2NnrJMUMDH9B9DFW+WgHaAU=",
+    "url": "https://github.com/tzabbi/zed-opentofu",
+    "rev": "d1e33416a5985ec3853e64939217442c483bcbea",
+    "date": "2026-05-13T19:15:50+02:00",
+    "path": "/nix/store/m6r2hsg5fqmd7lbdmcpj97ghwg7j3vky-zed-opentofu-d1e3341",
+    "sha256": "1h4dh534bwryh90ryyjgssfsgh64cvni68h2q9cqmryxhhhjbx84",
+    "hash": "sha256-BPUlIYTd54pZwgIiE+1mxMCnndZPep9Bgj7zRUaBjcA=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-a0oLJOD7NWTBpnUfPkYoYtyIIwk2PUeZMBgQoWoC3uE="
+  "cargoHash": "sha256-LueiPaAnfJ5ZWnyUX6iSFes6FyxmGUK0WlhGK+KhUlE="
 }

@@ -1,0 +1,18 @@
+{
+  "id": "jerry_jerry",
+  "name": "jerry",
+  "version": "2892b5607abdd2fed300d8a9345b9121a95c4b00",
+  "src": {
+    "url": "https://github.com/jeffscottbrown/jerry-lang",
+    "rev": "2892b5607abdd2fed300d8a9345b9121a95c4b00",
+    "date": "2026-05-17T15:16:24-05:00",
+    "path": "/nix/store/xwaxqs6w8asdgw59pn3241sxdfzy55a0-jerry-lang-2892b56",
+    "sha256": "1mq56m4gy68wazijnvvcdb5m83j0drcb11xz241s0nv0dlbv1sx5",
+    "hash": "sha256-peuwF21gW6ADEb+HsFhuQA5Uy2psbyvjVxwZ/0g1Bdc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "tree-sitter-jerry"
+}

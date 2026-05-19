@@ -1,0 +1,18 @@
+{
+  "id": "aptos-move_toml",
+  "name": "toml",
+  "version": "64b56832c2cffe41758f28e05c756a3a98d16f41",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-toml",
+    "rev": "64b56832c2cffe41758f28e05c756a3a98d16f41",
+    "date": "2024-12-02T23:56:18-05:00",
+    "path": "/nix/store/1h2svs9bjgzb24qg3izvrhy8yjiaqspd-tree-sitter-toml-64b5683",
+    "sha256": "1j9fgy1hlsq6xqqnpjl65a2mmydlx91p8ss36k7vyf7284d6bm4v",
+    "hash": "sha256-m9RlGkHiOL/PNENrdEPqtPlahSqGymsx7gZrCoN/Lsk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

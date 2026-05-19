@@ -1,0 +1,19 @@
+{
+  "name": "frieren-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/PR454D/frieren-theme",
+    "rev": "d832900e0415a763787140d87e30812c6c950d89",
+    "date": "2026-05-12T11:39:48+05:30",
+    "path": "/nix/store/s6rsrylirglv4sxx1jgk6gwjz2zrm03i-frieren-theme-d832900",
+    "sha256": "056dzmdzs896h1g34074hq5pnajpjy3isb56aa9671gdmgqq6svb",
+    "hash": "sha256-a2uD8avthWOSUqYsHYeXVyp7C4bkADJegCYh/Vv9zRQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

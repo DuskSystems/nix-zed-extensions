@@ -1,0 +1,19 @@
+{
+  "name": "astral-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/leofernandesbh/astral-zed-theme",
+    "rev": "d038448236f1ae49589524ee130b2b4f41ab38fd",
+    "date": "2026-05-08T09:35:39-03:00",
+    "path": "/nix/store/dijyij8s0cfiw45nckg48a86y89n80hs-astral-zed-theme-d038448",
+    "sha256": "1scby8kssk02x3d2i85yi67aml0mw504m3p81gq15aqsqz6wnw2n",
+    "hash": "sha256-VnDLzccaqxLwC+iOSkDhFdCqjom+oCja6AJMrSfyi+k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

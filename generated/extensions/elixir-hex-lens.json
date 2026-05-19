@@ -1,0 +1,21 @@
+{
+  "name": "elixir-hex-lens",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/jotaviobiondo/elixir-hex-lens-zed",
+    "rev": "8145120a7c83a44ad9ae090a1131e741a152de82",
+    "date": "2026-05-03T15:58:40-03:00",
+    "path": "/nix/store/qszhvknnldjygv918w0my9h2aii55crg-elixir-hex-lens-zed-8145120",
+    "sha256": "0ywgvjcr6scfxdzng0vx7z6d2cx7z8q5n605x0wqmzq7mwcsk72h",
+    "hash": "sha256-UJypGa8H/4o56AUYWzD6pzPRzD99g2d/645pk5ncj3s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-C3R+wy2qiyiEBO22FSyrqZkgjxZff8iL0YXRDMi8Bmg="
+}
