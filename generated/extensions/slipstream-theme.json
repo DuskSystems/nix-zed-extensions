@@ -1,0 +1,19 @@
+{
+  "name": "slipstream-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/kylemcd/zed-slipstream",
+    "rev": "e7f8e3e6637638bafe2b974d987784473ea45be0",
+    "date": "2026-05-01T09:53:55-05:00",
+    "path": "/nix/store/g7m5d0aig5gqjh45gwcidayg2vl9i91x-zed-slipstream-e7f8e3e",
+    "sha256": "0vmar29nn1ykm2kr59c2q008rvrklww1692zbx7xbi4wd9l1frsr",
+    "hash": "sha256-WWcXaGqcxNVPX18kEzinM++MAMCCpZKnqNMHa5PIqm4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

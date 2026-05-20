@@ -1,0 +1,19 @@
+{
+  "name": "darcula-forest-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/oryanm/darcula-forest-zed",
+    "rev": "6d50bee007dfd6d4a15d46a899c0a8c59024db5a",
+    "date": "2026-05-02T18:31:40-04:00",
+    "path": "/nix/store/7b0sz336ffy6mck2adhy1811s4bf4b8k-darcula-forest-zed-6d50bee",
+    "sha256": "11vfhw66bxkyxlzp4ckdv9rmpgfq55v39pnwzzlkla789wxpbmn6",
+    "hash": "sha256-xtZ1O0/oKDrp/9zeNHYp2L1bc9ptMnI/7X72ZQyHboc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

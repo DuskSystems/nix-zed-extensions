@@ -1,0 +1,19 @@
+{
+  "name": "easy-opaque-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/KarmanyaIyer/zed-easy-opaque-theme",
+    "rev": "21b00ef7ef621531d0e4fcb1cd445f4e7be4d930",
+    "date": "2026-05-02T03:08:32-04:00",
+    "path": "/nix/store/l04qa26dphmr22mxclwqnq59bbrlc543-zed-easy-opaque-theme-21b00ef",
+    "sha256": "0y2vb2cwl8wfmi8csmncibxsrqz1mp0z54nbinf3hkwjx1cb37xy",
+    "hash": "sha256-vp+xWOiSTzicjcuS8sGt4eOs+4rMVs1QrI4jyplYW3g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

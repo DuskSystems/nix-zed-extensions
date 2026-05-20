@@ -1,0 +1,19 @@
+{
+  "name": "loi-paper-theme",
+  "version": "0.3.1",
+  "src": {
+    "url": "https://github.com/aliaksei-loi/zed-loi-paper-theme",
+    "rev": "6302adfaf466d3fd17befdb6985ad9ef26be6e04",
+    "date": "2026-05-19T14:11:14+03:00",
+    "path": "/nix/store/6hz8y2m3wc61dpjzcj3apxihn1bczlil-zed-loi-paper-theme-6302adf",
+    "sha256": "0xfgxr323511d76m6wl0q20gy1d1g3mxbl958f4fiq68wwhhbz4k",
+    "hash": "sha256-k/wFIefI4OiIQyXR1et4oQX/gMCAclPNaSGUIUbuz3U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

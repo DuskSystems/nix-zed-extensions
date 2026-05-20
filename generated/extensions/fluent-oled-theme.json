@@ -1,0 +1,19 @@
+{
+  "name": "fluent-oled-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/fermeridamagni/fluent-oled-for-zed",
+    "rev": "d1f4a139bf7acbf7b5148a1bfba1013667bc14d3",
+    "date": "2026-04-29T20:40:05-06:00",
+    "path": "/nix/store/82mig9nvmnqnvwyf7b9hz9zax7ji8djf-fluent-oled-for-zed-d1f4a13",
+    "sha256": "1i1lpi0z39jklw257z0c1nlx82k6n2kgy2xf5g15ljvxsk25yrdw",
+    "hash": "sha256-vGVfxNR9S1rCK64L/6awZgrUqQ0M/FMEp1Om8UG8NMQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

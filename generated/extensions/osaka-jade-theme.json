@@ -1,0 +1,19 @@
+{
+  "name": "osaka-jade-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ruslan-kurchenko/osaka-jade-zed-theme",
+    "rev": "edc12674c17d3d46ae361bd5282670176ffc8926",
+    "date": "2026-05-01T15:57:34+03:00",
+    "path": "/nix/store/nzya8nzrqwzd6g22fplqp1qsfbg5y56c-osaka-jade-zed-theme-edc1267",
+    "sha256": "1vd8x3f9pf4svgpak5n4c10jqvnyrz7vyl48i0wcjf3i1w0dwjpa",
+    "hash": "sha256-6kreAA9xOMk4iIhQv8/P3m4sQWDElqnu25q4m9zoqO0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

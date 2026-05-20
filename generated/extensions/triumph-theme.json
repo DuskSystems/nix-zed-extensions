@@ -1,0 +1,19 @@
+{
+  "name": "triumph-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Bushenzie/triumph",
+    "rev": "3bb374ad0e68a4f9a416daca40da089af5fbeaaa",
+    "date": "2026-05-02T20:12:38+02:00",
+    "path": "/nix/store/j1107jw48407ndchhkzmy1w0w00rsh88-triumph-3bb374a",
+    "sha256": "1isa35h435h0fkwfaac3ssz09ddix26ashwgqda7alf8hsxgygam",
+    "hash": "sha256-VT3/uobIUXVUw49DrYzosbUEvtaDKeX4dACWQWAZSsc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

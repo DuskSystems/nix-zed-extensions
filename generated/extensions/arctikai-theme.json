@@ -1,0 +1,19 @@
+{
+  "name": "arctikai-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/hexqnt/arctikai-zed",
+    "rev": "20ed10623f202897060efe87a25cbd3f2754e148",
+    "date": "2026-05-01T03:12:12+03:00",
+    "path": "/nix/store/5hj4zyady3m21nrja4b9c68nwlmlcmw0-arctikai-zed-20ed106",
+    "sha256": "1x18n94w9q8c55bz883p10l9cwxmdby25ma247q6j6rz6gx6pnc8",
+    "hash": "sha256-iNlr+jM/G2nwIULVIvxqtXOWKAh3IPRXKQzhxEmyKPQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

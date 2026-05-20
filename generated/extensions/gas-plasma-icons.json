@@ -1,0 +1,19 @@
+{
+  "name": "gas-plasma-icons",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/JohnThre/GasPlasma-theme",
+    "rev": "cdd3223406fa4113bbc0d75cb4ce907849809799",
+    "date": "2026-05-13T23:12:33+08:00",
+    "path": "/nix/store/4czi3r2d45as15lzzp74bdl8gcyi1rxm-GasPlasma-theme-cdd3223",
+    "sha256": "0jxzzhvi21wpqybbymf40fjl65y9dxwqx9c5mfbpv08zmiyz5zhl",
+    "hash": "sha256-FP7yfawfgX2Xq4WljnlvyRdDpQPEVb+Wx5cHETf8v0s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed/gas-plasma-icons",
+  "grammars": [],
+  "kind": "plain"
+}

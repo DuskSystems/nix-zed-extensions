@@ -1,0 +1,21 @@
+{
+  "name": "fff-mcp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/dl-alexandre/zed-fff",
+    "rev": "7be731aec1975030348271615fb5df1c27fbb3fa",
+    "date": "2026-05-02T08:43:38-07:00",
+    "path": "/nix/store/185c66ab4nf2d7cmsx6lszv4av2i3578-zed-fff-7be731a",
+    "sha256": "04dk29y38kii9qn96pffn2jab2v64247845gqcbpw09vq94c3117",
+    "hash": "sha256-J4TBSMI7AX4Xw68QdIggZoulpLDOXZMsTjFONHwSsxE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-v7JlGrnchcRB4DSE/A0ky4ogFZsrjqRWlfgNzEW1FlA="
+}

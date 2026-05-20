@@ -1,0 +1,19 @@
+{
+  "name": "horizon-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://codeberg.org/ava/horizon-zed",
+    "rev": "2f7e568ddb215c073ebb7d36c0c105886bb25e13",
+    "date": "2026-05-16T19:45:41+02:00",
+    "path": "/nix/store/p4kpz9x3gzq7j7wnac8lsz9vibjrvl9d-horizon-zed-2f7e568",
+    "sha256": "03ap1h557m796scq6ps6lg9r4zw3k8ipsxfwsyblzq5rz66xayfa",
+    "hash": "sha256-ynnVjfm54E+X19x1fSOag3+S06NGX4OZNunUUwoMVw0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
