@@ -1,0 +1,19 @@
+{
+  "name": "blueberry-banana-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/srijonp4/blueberry-banana-zed",
+    "rev": "f99cec674a0edfb4c68a5976b1c0be7970af2d22",
+    "date": "2026-04-30T23:12:37+05:30",
+    "path": "/nix/store/wqgqd03cnqr7xhp1qbvyc730ky2jvb1y-blueberry-banana-zed-f99cec6",
+    "sha256": "1pnkqsnnnc19j457dsrrfmhy4gxs5sa7hs3svj15ffblrwshr093",
+    "hash": "sha256-I4EMNc90OVeC3HpoeJQuuj/iYXU563YKkSkwa63G094=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

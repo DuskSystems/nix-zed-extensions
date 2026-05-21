@@ -1,0 +1,19 @@
+{
+  "name": "jubby-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/zeke-john/jubby-theme",
+    "rev": "ac522e407ae7e50f20bc9df8924ccd7bd52a754f",
+    "date": "2026-03-21T13:00:35-07:00",
+    "path": "/nix/store/n9maxal666l4ysj0n2gl0lis560y9gid-jubby-theme-ac522e4",
+    "sha256": "1q8l5q3y033202ghjjjzj6jrxzaq89by8j63cqgmh2wg7z63ag2w",
+    "hash": "sha256-XDw1zD+PC1gfZsNI5FdCWP2epZFfSgmfAGIM4AcuFOE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

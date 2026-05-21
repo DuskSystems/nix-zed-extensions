@@ -1,0 +1,19 @@
+{
+  "name": "falcon-theme",
+  "version": "1.0.10",
+  "src": {
+    "url": "https://github.com/panxiaoan/falcon-zed-themes",
+    "rev": "cbe90a43750e7a2bf4dd6b447b891296c2241007",
+    "date": "2026-05-14T16:35:31+08:00",
+    "path": "/nix/store/implaqchvxxwffxwz8hy1h37pzza3h7k-falcon-zed-themes-cbe90a4",
+    "sha256": "0g1pbjqjzxj6gkq8gbqlzhwf5whnkfk27lml940wgdykqv8a2lz6",
+    "hash": "sha256-5lOh0MbTt8cBSbTSI6abFvLiOPwUr4fwfEb2L7FcNzw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

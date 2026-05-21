@@ -1,0 +1,19 @@
+{
+  "name": "fineorite-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Finorion/zed-fineorite",
+    "rev": "2bb6e22f2d250c1dd725c7f48bed66ee82cb39e4",
+    "date": "2026-05-20T20:55:04+07:00",
+    "path": "/nix/store/0mayli3hw0wr53rmf5zy1m35fcdy659s-zed-fineorite-2bb6e22",
+    "sha256": "1xja5alllp15ykwlbpsb6h58xgqicjai0qk5b0g7bfr35wqpcxwq",
+    "hash": "sha256-mHd2MS8ju3UeWGViEJVkEb+OCjRL30X59CVcSqkqSvY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

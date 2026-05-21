@@ -1,0 +1,19 @@
+{
+  "name": "carbonmeda-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Fyelne/carbonfox-andromeda",
+    "rev": "aa061d76a5098ab4dff23d01b6e2b1b31c64cea8",
+    "date": "2026-05-09T23:18:01+02:00",
+    "path": "/nix/store/9g6lavf8ibrj3szqbcn996zlm8vvpjaw-carbonfox-andromeda-aa061d7",
+    "sha256": "0axvnjyvlx4ckkkjbnwwyn8jcxa7r24hqb6417s8dxv2a50h8bjv",
+    "hash": "sha256-Wy4EQVFi94b0CcQsDInIR3UmkfWc2yXnnIx0ur20uys=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

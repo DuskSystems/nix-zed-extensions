@@ -1,0 +1,19 @@
+{
+  "name": "sergio-tech-code-black-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/sergios-tech/sergio-tech-code-black-zed-theme",
+    "rev": "13865f52d92396acde34a8f80e95fcccaa6f5002",
+    "date": "2026-05-15T13:27:31+02:00",
+    "path": "/nix/store/vdh3nis9zi8xkj0xi1nycmbgqq9imp5q-sergio-tech-code-black-zed-theme-13865f5",
+    "sha256": "0jbrkrqjqf13gsr5gx7l4vkj4ljx45n9xjsj82ibcgdahrnr2gyb",
+    "hash": "sha256-yz+RbYaqPbaiQFLLnmwhXVIi5yb09FeyfiM4LHGeeUk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

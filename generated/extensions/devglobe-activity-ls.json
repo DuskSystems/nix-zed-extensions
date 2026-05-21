@@ -1,0 +1,25 @@
+{
+  "name": "devglobe-activity-ls",
+  "version": "2.0.1",
+  "src": {
+    "url": "https://github.com/devglobe-xyz/zed-devglobe",
+    "rev": "cf9724a3053f4c2a868c5bb525696d9ef1b35dbc",
+    "date": "2026-05-20T15:56:18+02:00",
+    "path": "/nix/store/827n720vb6i879w079zzyxkv38m8jx0p-zed-devglobe-cf9724a",
+    "sha256": "1dmb77g9j5p36bdj8s6djzvc9f8jaxzf69csbg477ryjmd0gmh2k",
+    "hash": "sha256-U8D6QKvS53PIW5ol435XErnE9pfNaCTbMuMWmd45q7Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Of1TelhIqxslLBLnsbJIRjKHAjqxCnX40c8W/uqKGkk=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/devglobe-activity-ls.lock",
+    "outputHashes": {}
+  }
+}

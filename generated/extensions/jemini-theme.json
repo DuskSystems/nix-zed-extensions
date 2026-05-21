@@ -1,0 +1,19 @@
+{
+  "name": "jemini-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/iamguba/zed-jemini-theme",
+    "rev": "f10ce487049a2f9b95886bdb4e37f7d292b7b2d5",
+    "date": "2026-03-14T21:20:06+02:00",
+    "path": "/nix/store/iai3qzpyrnf18n7qdxvgq3qhjbhrv3fp-zed-jemini-theme-f10ce48",
+    "sha256": "1i56zah3b0m8li38021dysbnpxi1x5v4idifzdyimm2rf2k6rwrx",
+    "hash": "sha256-PfNspnBZ1Bp9+y62SHbpIfZrl/YtCIBGpKiCNaD6psQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "atlas-ragnarok-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/AyoubTadlaoui/atlas-ragnarok",
+    "rev": "d91d4b9f52a77cb343e51114fa858cf908ec72d9",
+    "date": "2026-05-19T16:37:11+01:00",
+    "path": "/nix/store/44p7jn9qyx2qrbxy9brr35fan8bjdzqi-atlas-ragnarok-d91d4b9",
+    "sha256": "12hc8c88pgi748mn27xg63qqpph0qrkpwdim8dwi41b63jpvlx14",
+    "hash": "sha256-JHS6rxxmBRJ5QzU2fmfGAN6L8TCvH2ErIie+ixBDDIo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "plain"
+}

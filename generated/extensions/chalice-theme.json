@@ -1,0 +1,19 @@
+{
+  "name": "chalice-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/huangkairan/chalice-theme-zed",
+    "rev": "ebb1d41185d3e17eb74ea002d4b7443f42281ef3",
+    "date": "2026-05-14T10:01:32+08:00",
+    "path": "/nix/store/sg2yacpipkmsfyfxr1b8nbr230zk95bi-chalice-theme-zed-ebb1d41",
+    "sha256": "1srji0zvg6mmb11fbq9xazccgf61cswyhbdf68r7pssmjyainyz8",
+    "hash": "sha256-6HsblZdV63syMq4t6LlmwbjH2Fc94eVCWLWatz+IMus=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "resonance-with-hatsune-miku-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/yuzukq/zed-theme-Resonance-with-HatsuneMiku",
+    "rev": "81775cb91400d7327e46936a9e0e843f0440d3f4",
+    "date": "2026-05-19T20:12:35+09:00",
+    "path": "/nix/store/wyjs0wqpayrdfm1yvx07p83ryx22z5y2-zed-theme-Resonance-with-HatsuneMiku-81775cb",
+    "sha256": "0h2j9nggpmcjynzdlca959frrxgdky5b4wg9rbpjsqqc7syv5w5p",
+    "hash": "sha256-t/CyvT4MYy3vyulxsoqf7fWcXSpJMdq+9ZLV+55NUkA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

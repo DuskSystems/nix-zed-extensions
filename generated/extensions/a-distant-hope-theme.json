@@ -1,0 +1,19 @@
+{
+  "name": "a-distant-hope-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/chrislockard/a-distant-hope-theme",
+    "rev": "4931e6cf3d07bf1fb09690a3f2d668127f227a4b",
+    "date": "2026-04-30T14:23:40-04:00",
+    "path": "/nix/store/jhm202n4is8w82c297jbgnj59c6p9dqw-a-distant-hope-theme-4931e6c",
+    "sha256": "0a1c7bjzvbm8kwq5ccva9ksa1ica08rzrn01qmijn61265rnfgc6",
+    "hash": "sha256-hj1nczEiGCtjxQHY/DMCisWg9ExqM1Ywn6iu/eU6LCg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
