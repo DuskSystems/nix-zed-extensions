@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-chIPsWG9VixAE66iuubh8thAN08hOvHa7Ni9gOlwAMg=",
+  "cargoHash": "sha256-gfJCowDCgvSan7GTfLxrJBScClwa25VzA2Vmp/ceAVc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-digitalocean.lock",
     "outputHashes": {}

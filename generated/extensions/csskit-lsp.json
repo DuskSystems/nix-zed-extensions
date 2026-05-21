@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "packages/csskit_zed",
-  "cargoHash": "sha256-45UiT4vhmdkW668ulvf8NQR4cFGzGtmmutwRmjwde1A=",
+  "cargoHash": "sha256-lnyvoTkpKTchYMFSpqdiuP1fWECVqd+sucsUP0ZU07g=",
   "cargoLock": {
     "lockFile": "/generated/extensions/csskit-lsp.lock",
     "outputHashes": {}

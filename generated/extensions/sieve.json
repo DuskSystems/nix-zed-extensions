@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-kvbjjEjIroh/wIEi/9TPZdCZ/QLnKw6xIxoBGPgzZHo=",
+  "cargoHash": "sha256-/B5d3HxAL2kDmqOEeB2LPb+wttQDrP92NTgQ1qn27Ig=",
   "cargoLock": {
     "lockFile": "/generated/extensions/sieve.lock",
     "outputHashes": {}

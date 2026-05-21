@@ -41,7 +41,7 @@ module_name_repetitions = "allow"
 option_if_let_else = "allow"
 str_to_string = "deny"
 too_many_lines = "allow"
-multiple_crate_versions = "allow" # TODO: toml 1.0
+multiple_crate_versions = "allow" # TODO: cargo-lock release
 
 # TODO
 missing_errors_doc = "allow"
@@ -57,14 +57,14 @@ futures-util = { version = "0.3", default-features = false, features = ["std"] }
 cargo-lock = "11.0"
 
 # WASM
-wasmparser = { version = "0.245", default-features = false, features = [
+wasmparser = { version = "0.249", default-features = false, features = [
   "component-model",
 ] }
 
 # Serialization
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
-toml = "0.9" # TODO: toml 1.0
+toml = "1.0"
 
 # Logging
 tracing = { version = "0.1", default-features = false }
@@ -76,9 +76,3 @@ tracing-subscriber = { version = "0.3", default-features = false, features = [
 
 # Errors
 anyhow = "1.0"
-
-# Pinned
-idna_adapter = "=1.0.0"
-
-[package.metadata.cargo-shear]
-ignored = ["idna_adapter"]

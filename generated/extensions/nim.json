@@ -20,7 +20,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Q9IISrUWWUJBbMojGuKzTLBvLvAJ0qKQ+BZp8FA0sUE=",
+  "cargoHash": "sha256-3IbCrO7iWLCwq9INKyvp4qLEY9s4302dOehcD/G3hdE=",
   "cargoLock": {
     "lockFile": "/generated/extensions/nim.lock",
     "outputHashes": {}

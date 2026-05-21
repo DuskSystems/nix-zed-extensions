@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-fGs1MWL6V1t8PR/T2+LQaS9gRaBhlAQR7eJOk8GWVlU=",
+  "cargoHash": "sha256-Et5Ixmi5Y6KLATaKg0iTZdmpHFPTS/TKvgO/6/bN0AM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/iwe.lock",
     "outputHashes": {}

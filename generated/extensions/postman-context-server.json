@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-d3o+sF/VUt8vpcGZwE8kgHrk8oJNacgA0EBrBCiLHSE=",
+  "cargoHash": "sha256-+EpQulY0fhuehp6wJezLntHbQVHWBQKLNOY77L2/koM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/postman-context-server.lock",
     "outputHashes": {}

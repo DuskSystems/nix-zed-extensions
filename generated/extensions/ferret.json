@@ -21,7 +21,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Dyi3Q/sy5PJJhjwIxMB0wyCstPFwl7f8myQx7RbloUA=",
+  "cargoHash": "sha256-BMecmrxTplNMrLN0cYFo3egHn2A47w2IV5lrUuyHX2Y=",
   "cargoLock": {
     "lockFile": "/generated/extensions/ferret.lock",
     "outputHashes": {}

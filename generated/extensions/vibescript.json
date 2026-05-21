@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-uW+jqz4NcTmmMir0NxrNFoLpmrvh1PP3tQh/UNd/ZYw=",
+  "cargoHash": "sha256-+D5UJ3JhhK4cv7SHP1cuqdAWx1hq4GYxW9f0kgHVNZs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/vibescript.lock",
     "outputHashes": {}

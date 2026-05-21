@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-DdF+P86Wpyvr4cJdeTk6ZSt4Y3hd9HK+7RGZ6zqelrE=",
+  "cargoHash": "sha256-g6hTfrW6UkjHsrieLQ2jPljYPsTni51iOf5wtrGrZEw=",
   "cargoLock": {
     "lockFile": "/generated/extensions/cspell.lock",
     "outputHashes": {}

@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-iLHKYOPMBvAZ+ejiOAgduOGTkJfdrEolafa9HvSSiC4=",
+  "cargoHash": "sha256-g0E7fI0oZCcUU0ZpYTbHBkap3P1/wvIP9my/KyYntwc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-nextjs.lock",
     "outputHashes": {}

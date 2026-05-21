@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-RcV2PLj6CMGuZdTtYkX2gRhKGiDtUb5ZdoA+XVIW10s=",
+  "cargoHash": "sha256-OflHWgfEM7NsRlR1HwjJT2SS1vbxh3lJAifVFQ8Qzbc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/yara.lock",
     "outputHashes": {}

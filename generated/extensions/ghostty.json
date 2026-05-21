@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-T5mvvcpxsFN8qkWjOj7LBSKrnNKSGNKTYLrLDEUuPF4=",
+  "cargoHash": "sha256-qS8UYO6m6LSguwiwRqxN88dLf/UsVzX3+oTc1TyEGLs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/ghostty.lock",
     "outputHashes": {}

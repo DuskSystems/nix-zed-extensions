@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Qk+bx22LxP0OWnpvqhY2CPFYwAcxI326P6v7vKDd9Vg=",
+  "cargoHash": "sha256-o1ySdglJSDJZ/N35IKjOGICAd3JmEQmiK3nDS8ZV2g0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/css-modules-kit.lock",
     "outputHashes": {}

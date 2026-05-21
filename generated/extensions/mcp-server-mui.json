@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-R8HPezk4Md6cLED+PJlrkf3j+TllXzNQyFgDiI/LhIc=",
+  "cargoHash": "sha256-aiyCpxUb1WAY838pnuiRBTTNrxOCZneQwLLzudMHcv4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-mui.lock",
     "outputHashes": {}

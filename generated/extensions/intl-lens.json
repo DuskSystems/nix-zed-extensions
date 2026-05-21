@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-1Qnq1IxGEtQNDKVwQZJqpBKfaMl0RSX4Zcgnggfm3jw=",
+  "cargoHash": "sha256-z1vyUyohp63NjErTOmrLFJEQx/TsQQSQdnIWboj2hvs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/intl-lens.lock",
     "outputHashes": {}

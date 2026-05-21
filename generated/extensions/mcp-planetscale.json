@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-ucj63kyQ55r1qOFlmIA2BXleLZGfSorm7abEpiZ5o0w=",
+  "cargoHash": "sha256-cz33mLD8L/LKteGkTcTCxwnRMqucComGd/5ew4EtJ48=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-planetscale.lock",
     "outputHashes": {}

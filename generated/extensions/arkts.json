@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-A/7irsgh/DODJhOH564Js4iOiSslXEFMDliTVZIQ6+g=",
+  "cargoHash": "sha256-H2QRNYsiQ/y94X5tP43s3+kOTiCqLlFot/a42MeGLyQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arkts.lock",
     "outputHashes": {}

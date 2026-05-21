@@ -20,7 +20,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-xbUH5IbljV4GqX2vygPiTvvIFfyAI66hITRJwaXAJgI=",
+  "cargoHash": "sha256-Sua6oRrAL0qmfL68fAWG+uYNEIR0eYo76rBM47OXk8M=",
   "cargoLock": {
     "lockFile": "/generated/extensions/motoko.lock",
     "outputHashes": {}

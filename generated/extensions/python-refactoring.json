@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-8D9S7Rq3uUQYlRjMfFtYo5RFJxbtVXkmm3n4AtgyXeQ=",
+  "cargoHash": "sha256-7Afn6dGXNFamFuhV+wicewfPiTCohRF9IN6OzzwRj0A=",
   "cargoLock": {
     "lockFile": "/generated/extensions/python-refactoring.lock",
     "outputHashes": {}

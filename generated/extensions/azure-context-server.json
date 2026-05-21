@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-AJy7eaL0/JJMIC5Pw8u0po/BHrEaPfGa6J1iN6fBXHk=",
+  "cargoHash": "sha256-i2ZQthVbM28GagjasbMURENSCMY+k+7m4Qx/Sc/6n6k=",
   "cargoLock": {
     "lockFile": "/generated/extensions/azure-context-server.lock",
     "outputHashes": {}

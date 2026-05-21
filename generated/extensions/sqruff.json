@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-7H2FafMdOiRaBSpCqLG3SZNDmwPLe7XzvqK9njFo4Yc=",
+  "cargoHash": "sha256-AUzkicXndZcZYnPGkRV6YdQ0+5yRflxdhMLC+eg02i8=",
   "cargoLock": {
     "lockFile": "/generated/extensions/sqruff.lock",
     "outputHashes": {}

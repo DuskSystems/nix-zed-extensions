@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-ju89z5yopi45gAlZhxH6rRhl2vjJ7thXkvhhpD2Miyk=",
+  "cargoHash": "sha256-qq1jIkiqb5N5zmP+Ugels1Zy94A8BL0XbgHXUAwN3r0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/scala.lock",
     "outputHashes": {}

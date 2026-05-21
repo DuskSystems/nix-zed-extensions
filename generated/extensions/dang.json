@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-/wkdRY8ER5460DOa6Hv5/gMIV24Gzahbwn5Ut8QlG7o=",
+  "cargoHash": "sha256-DrfhDj1/55q4ibXS5xtM7/LrnOvXkbrPHd0IdfWcwYc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/dang.lock",
     "outputHashes": {}

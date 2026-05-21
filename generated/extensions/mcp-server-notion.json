@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-BQLJnNNnAnn/wmyHrXIXol0M1uCJc5p5apxEOrATRz4=",
+  "cargoHash": "sha256-UJDbCwqQ+sPpoeYITnnk+vjA5yrh2V6OJv6hJzEi6pI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-notion.lock",
     "outputHashes": {}

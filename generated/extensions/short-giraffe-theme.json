@@ -3,9 +3,9 @@
   "version": "2.2.1",
   "src": {
     "url": "https://github.com/kumamaki/Short-Giraffe",
-    "rev": "47c8efbf8a4309b44a17f2fcb13cbb61f120a7ef",
+    "rev": "052c64ede9b3dc80992f3e31631f64830bf56145",
     "date": "2026-05-07T18:37:33+04:00",
-    "path": "/nix/store/ljr2f08kdj399jylny1n40qzrvp08q40-Short-Giraffe-47c8efb",
+    "path": "/nix/store/nc9n9bg1j6gxjbilhbgk986dxgsn660k-Short-Giraffe-052c64e",
     "sha256": "1ixkd9z8knbyjnpdwfqnwsqbv7di198zcp1sr8w3fzyv1jawaz2m",
     "hash": "sha256-VXzFlQzbfzc4yjpc9lEKsZ29sOYWO96ulX7ZiX5qs8c=",
     "fetchLFS": false,

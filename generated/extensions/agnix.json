@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-Gt55tQjtSxpQHLFMjdn/9w2z9cW0EK2z5Pv/UHVqr6c=",
+  "cargoHash": "sha256-lHRxPW+CbdK+HDAQzx5Fqs3+Fecbmy29zxdlRiHpz2A=",
   "cargoLock": {
     "lockFile": "/generated/extensions/agnix.lock",
     "outputHashes": {}

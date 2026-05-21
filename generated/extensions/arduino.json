@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-VBCEUa2cMxtFQ42DNYpQ1sqsO6Dthb145Esl88sC/q0=",
+  "cargoHash": "sha256-o39Ut3FaRmBsjzyfxPj9mWT6OnTJt7zzXnWIrNSOrLI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arduino.lock",
     "outputHashes": {}

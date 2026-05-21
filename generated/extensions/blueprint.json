@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-gEvu1jkWVbyThpPFOrAzoDyFGZZ8fkgWZSQOKxGKE5Y=",
+  "cargoHash": "sha256-yfT6/rdd1autUR9F6BlJNKGvW8G5qYUOYhK70efTZEs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/blueprint.lock",
     "outputHashes": {}

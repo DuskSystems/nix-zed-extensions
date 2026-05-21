@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Ul4mKEnoDn5My6sz6+poGwOcfzRqYldHJLTty+TRgsU=",
+  "cargoHash": "sha256-g3ADNYVkQ7mPyJB6jPxctP2hnFy+Tvb7o3WpZeu5ObM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/odoo.lock",
     "outputHashes": {}

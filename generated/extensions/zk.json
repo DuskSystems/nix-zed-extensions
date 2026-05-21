@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-4uwpmuZaBApkPFmPCb5wAArgqyi0N3k/qr1VoNJIhkM=",
+  "cargoHash": "sha256-e+utCJ6ZNovS2FYz0reaNSPtAyiumyfNxDswXxB1E6I=",
   "cargoLock": {
     "lockFile": "/generated/extensions/zk.lock",
     "outputHashes": {}
