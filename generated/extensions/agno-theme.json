@@ -1,0 +1,19 @@
+{
+  "name": "agno-theme",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/devalexandre/agno-theme",
+    "rev": "9bb8d2db42fbb9bc71dc932b548a6e2c664de25b",
+    "date": "2026-05-22T14:06:17-03:00",
+    "path": "/nix/store/yk0sfpy6sdv0bnjgmj4215pgpmpv51vi-agno-theme-9bb8d2d",
+    "sha256": "12zk27pajrjnv69cmfib190wyxqm1pyh8srpnfs7y6ms9q4z3vdz",
+    "hash": "sha256-v+3xCU66Gn+0szdrBP0NFXfPQQorusqS2VZmqe4R84s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

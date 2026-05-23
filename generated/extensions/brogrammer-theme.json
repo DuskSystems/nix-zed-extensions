@@ -1,0 +1,19 @@
+{
+  "name": "brogrammer-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/gebeto/brogrammer-theme",
+    "rev": "f212e6deaf7cc5880e82c6156515609e79a1a56b",
+    "date": "2026-05-22T10:49:34+03:00",
+    "path": "/nix/store/qzbp56m8zyj4yw09pn3k66yvbclib1gr-brogrammer-theme-f212e6d",
+    "sha256": "0q2g64cdlffz0b1qp2kck5cwwda8sxckkyh4rcq1krn2xwcizclp",
+    "hash": "sha256-l7IfGe/C5hkwywT6OVnXSDXOWZlsiovDAt852hgxT2A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
