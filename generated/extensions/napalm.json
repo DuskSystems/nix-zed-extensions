@@ -1,0 +1,19 @@
+{
+  "name": "napalm",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/napalmpapalam/napalm-theme-zed",
+    "rev": "e310ae085fe725e56b6be0b26dd574059452fce2",
+    "date": "2026-05-23T17:46:23+03:00",
+    "path": "/nix/store/j2vs88vs1crmyrm8gph16m630zw9qrw7-napalm-theme-zed-e310ae0",
+    "sha256": "1gfbkygjdbbnvhq07hv6pw4c2bkndsfnv4vcd36yz2dhfcc64s8i",
+    "hash": "sha256-EWliGHOwie/NaGyTbZ1udi7BCL9mwwMw3HatJp+fy70=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
