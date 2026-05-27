@@ -1,0 +1,19 @@
+{
+  "name": "version14-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/version14/zed-theme",
+    "rev": "5270aaf0052d3731032577d099edf8f8b74ae925",
+    "date": "2026-05-24T10:41:03+02:00",
+    "path": "/nix/store/p7zgck642fbw56ww294fx57b09sdv5dj-zed-theme-5270aaf",
+    "sha256": "0pqn4id2qhgxyjmryrcshjymk8jjzqwy44jam1sfrw2n9fh11qpw",
+    "hash": "sha256-/OIQoEtW8Ox0qEoS4jn+UqJZvYSaZZ+r9P1BLFokFl8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
