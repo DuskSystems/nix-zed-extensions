@@ -1,0 +1,18 @@
+{
+  "id": "inko_inko",
+  "name": "inko",
+  "version": "4cfe5920f9d350a6f1ffb687d93d618e08ba2e6a",
+  "src": {
+    "url": "https://github.com/inko-lang/tree-sitter-inko",
+    "rev": "4cfe5920f9d350a6f1ffb687d93d618e08ba2e6a",
+    "date": "2026-04-12T23:12:27+02:00",
+    "path": "/nix/store/j62xc8maa0k08j3fkwr27g7fchm4lfak-tree-sitter-inko-4cfe592",
+    "sha256": "05w6nyfnxgj4l35kyw72qzdq3dngg0hzqjdq90r4vc5j4m210ynl",
+    "hash": "sha256-1HoQRCWysE0ySLhJ/CF4z7aB28ficD/LoES+bp23hhc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

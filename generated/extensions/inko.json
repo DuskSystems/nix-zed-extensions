@@ -1,0 +1,21 @@
+{
+  "name": "inko",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/inko-lang/zed",
+    "rev": "13e5d0d19beec49db140e8d9b6e08a32da1d830f",
+    "date": "2026-05-10T01:19:43+09:00",
+    "path": "/nix/store/q4bihbqv5jv2m14ihbxyysf4rvz5s7ia-zed-13e5d0d",
+    "sha256": "0ph151biggkdlxnslh45dixngirn3n4s2izz4m5pih6qni5p7i2h",
+    "hash": "sha256-UMRzS7TYwHhLJf9HoYkdNsdne2yFQKptp22+F1coAV4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "inko_inko"
+  ],
+  "kind": "plain"
+}

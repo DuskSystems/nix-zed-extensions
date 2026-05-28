@@ -1,0 +1,19 @@
+{
+  "name": "vespertine-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/filipeveronezi/vespertine",
+    "rev": "f49d1892b78a65d6a3e32b8b742066c697e24288",
+    "date": "2026-05-25T08:59:57-03:00",
+    "path": "/nix/store/x11ax4jqnfl93jwfrg0adhwqr25z9kff-vespertine-f49d189",
+    "sha256": "18ayrd5m90m1xg695cgbk3r5sjk8268skhkn1va772069ds81057",
+    "hash": "sha256-p4CAdEsGiHPUDnbCqZERaEpd8pjrsZLM66GCVEvLXqE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

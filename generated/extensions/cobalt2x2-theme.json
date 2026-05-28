@@ -1,0 +1,19 @@
+{
+  "name": "cobalt2x2-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/kbilkis/cobalt2x2",
+    "rev": "3aff9ef3bbd2c072fa222c93b5eb6d93c66e002a",
+    "date": "2026-05-26T00:57:06+03:00",
+    "path": "/nix/store/752h2fxwk72h93dr6phi8vz66sqv80ij-cobalt2x2-3aff9ef",
+    "sha256": "1bq8rlkprgq55pn7l37slfsr11vd5l9ljq862q3z97nc5aih3qcc",
+    "hash": "sha256-jOEBoyrMnvQHFgZhSRMtbYeQtaP6DHrsLQW/fCfNCK8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

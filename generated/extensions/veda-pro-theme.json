@@ -1,0 +1,19 @@
+{
+  "name": "veda-pro-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/xqsit94/veda-pro-zed",
+    "rev": "cee46c98a0c36e7cf18e5d902ffdb8d3907afda3",
+    "date": "2026-05-27T22:27:06+05:30",
+    "path": "/nix/store/1nkm0jd1x5qdx2yx7p9vr9j6nmmsxnjs-veda-pro-zed-cee46c9",
+    "sha256": "1z3mmzcvlig3lbr7abqmxmdnafvyzr9dl46404p2b5z6r2pfmspc",
+    "hash": "sha256-7OrqrsjmlyUuAcQQ2lL+fjtlW+0VL3XyouNFutmvdfw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

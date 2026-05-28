@@ -1,0 +1,19 @@
+{
+  "name": "oc-2-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/nstlgy/oc-2-theme",
+    "rev": "06b59f74fd0cf5e1084895f9d6406c616cd177bf",
+    "date": "2026-05-07T23:08:42+05:30",
+    "path": "/nix/store/rlnampqflcpcccph43b6lb4nc3kfyhjm-oc-2-theme-06b59f7",
+    "sha256": "04rifnfizdqckr0w6jsrwzaiq303z7ka0m9a5rngbgfvas2hcnrh",
+    "hash": "sha256-MFsGhVbbvfVsLipVoOb5Awwc1edZS8NBngy3H511MRM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

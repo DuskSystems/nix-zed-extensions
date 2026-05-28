@@ -1,0 +1,19 @@
+{
+  "name": "remix-min-darker-theme",
+  "version": "0.0.4",
+  "src": {
+    "url": "https://github.com/FernaandoJr/remix-min-darker-zed",
+    "rev": "743de751e3c2c565103e3822bdc0951fda7e460d",
+    "date": "2026-05-13T08:55:16-03:00",
+    "path": "/nix/store/bcxvh49s6pdxw55f9g1fam5zgdb0hpwk-remix-min-darker-zed-743de75",
+    "sha256": "1b9f4r1806v5wq29l0kn3bn6v2w2wkbhir31ywf6k3b3c4bys58w",
+    "hash": "sha256-HBXtF2FjjWkc92HkCNfkgott7Bp2ApoE5mUbgEImLq0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
