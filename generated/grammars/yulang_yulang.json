@@ -1,0 +1,18 @@
+{
+  "id": "yulang_yulang",
+  "name": "yulang",
+  "version": "bd05e120a9cbe268fff6549e7708639c9a3ff2d2",
+  "src": {
+    "url": "https://github.com/momota1029/tree-sitter-yulang",
+    "rev": "bd05e120a9cbe268fff6549e7708639c9a3ff2d2",
+    "date": "2026-05-12T11:38:46+09:00",
+    "path": "/nix/store/70p8dnc11rm51xyxp7i95vhyam5cc4vv-tree-sitter-yulang-bd05e12",
+    "sha256": "0jvnkwphwrlna4n4hzs5pgnnygl3m7pgi50b0hdhxysvbsc7gh7a",
+    "hash": "sha256-6sB3mF5b+w4bBAuU+O6pgz5v7btFf0gsUZZmDi+fdks=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

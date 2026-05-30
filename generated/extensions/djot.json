@@ -1,0 +1,21 @@
+{
+  "name": "djot",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nzoschke/zed-djot",
+    "rev": "b22ed4742c04ff12cd78bf730058a0ebb8e9ce8a",
+    "date": "2026-03-12T14:11:17-07:00",
+    "path": "/nix/store/1vrxilqyizp1a0xdyiblli0rhws4rawa-zed-djot-b22ed47",
+    "sha256": "0hmjh0c19drqa2qfls5b2zz57c1pkmvih3kb2aa3sq100lahcf8y",
+    "hash": "sha256-HjkGFQUgYD2UEmsOGHedN7BT/heraOqwUDi3FBiAskI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "djot_djot"
+  ],
+  "kind": "plain"
+}

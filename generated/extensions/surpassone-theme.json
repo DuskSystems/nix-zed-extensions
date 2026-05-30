@@ -1,0 +1,19 @@
+{
+  "name": "surpassone-theme",
+  "version": "0.3.4",
+  "src": {
+    "url": "https://github.com/aitit-inc/zed-surpassone-theme",
+    "rev": "302a1a80e3e52277200ff8809307d007760c612a",
+    "date": "2026-05-28T23:15:39+09:00",
+    "path": "/nix/store/bx5asm7g6n2w3kbbzw4yzdrm6hlvcdjb-zed-surpassone-theme-302a1a8",
+    "sha256": "0wfcrxga7kxpdw7f3wcli04aygiaznccb589jgirrpg8as1mszx8",
+    "hash": "sha256-qH9dg1bo3ZzjkwmVxZj9Kj6vCIiU8eEOb7fPo17PzHE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

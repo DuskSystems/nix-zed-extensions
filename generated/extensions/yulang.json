@@ -1,0 +1,21 @@
+{
+  "name": "yulang",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/momota1029/yulang-zed",
+    "rev": "1a1539286b4b7388c80d10947e719bc34b604175",
+    "date": "2026-05-12T11:42:52+09:00",
+    "path": "/nix/store/csk1m6c4phkb2ri0ih5wss6gq6c5wlx5-yulang-zed-1a15392",
+    "sha256": "1bp4232q5my1g1wxf25pbdigh3par0z9fjsdlzhcblaji7qjn2lq",
+    "hash": "sha256-mAor8YlS0cXgp01Llz7I6g74Ylu3CNd5eMHXgsUQ5K4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "yulang_yulang"
+  ],
+  "kind": "plain"
+}

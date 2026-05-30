@@ -1,0 +1,18 @@
+{
+  "id": "djot_djot",
+  "name": "djot",
+  "version": "0f392f1421b08fa5207c90efd71b02017a571f2b",
+  "src": {
+    "url": "https://github.com/nzoschke/tree-sitter-djot",
+    "rev": "0f392f1421b08fa5207c90efd71b02017a571f2b",
+    "date": "2026-03-12T13:42:01-07:00",
+    "path": "/nix/store/71d9g7mx2znzgydl3szyr52aa3hc1qww-tree-sitter-djot-0f392f1",
+    "sha256": "001l0y182zhndnp2xrzgfd87f1m4q9qh2im8vwrl81hn6avnz1b6",
+    "hash": "sha256-ZoVvtzIWBkQz36hGAXHCpAZ3UHPv5y6ubRZ+gYIHNAA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
