@@ -1,0 +1,19 @@
+{
+  "name": "zenburn-transparent-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/rockas-d/zenburn-transparent",
+    "rev": "78bacbd0325edf95240fdf6ef6d5588a4259a69b",
+    "date": "2026-05-29T16:19:21-07:00",
+    "path": "/nix/store/cjk3yjxc712hr01pykxyqx62iap7crd1-zenburn-transparent-78bacbd",
+    "sha256": "0hkif3hv8sdsazh6fi5cp7an65fhyrah8smsnfj3x6ymsigd7z54",
+    "hash": "sha256-pPzTXtTVmz6ks7pqBFX20BVj1bmsRGfgV7pptOFwcUI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
