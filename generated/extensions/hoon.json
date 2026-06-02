@@ -1,0 +1,21 @@
+{
+  "name": "hoon",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/TisaneFruitRouge/hoon-zed",
+    "rev": "3c9bb06e236b9b523f3e585c63e72aec823d1284",
+    "date": "2026-05-26T20:27:04+02:00",
+    "path": "/nix/store/9gifa1vfl9cypag9ssl20zy8qxw72h32-hoon-zed-3c9bb06",
+    "sha256": "1dqgw1w4k6x56pby1aqgr4iiyklbwixskzsnl1ikbb932h9grxny",
+    "hash": "sha256-3vb8EhQjrTVjoFb/qXvki04fI8kPq+DXNaWbSXjgD7c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hoon_hoon"
+  ],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "senkai-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/platformer/zed-senkai",
+    "rev": "29ba2af6c9b3e10513c23b472eeda32565c319a3",
+    "date": "2026-05-31T20:09:52-05:00",
+    "path": "/nix/store/gmc3adb2mq6pm6i6swncjg38j7sarxld-zed-senkai-29ba2af",
+    "sha256": "12jvlg34w11f2cb86sdr556d1mkkh1329hhx7lkz2fpfm2r3hh5j",
+    "hash": "sha256-skA4sqjuOvEnPR3CJEaAc9bQTCm5aYMWEy4ETsajW4o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

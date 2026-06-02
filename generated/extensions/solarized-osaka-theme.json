@@ -1,0 +1,19 @@
+{
+  "name": "solarized-osaka-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/clouby/solarized-osaka-zed",
+    "rev": "9bd8a12955eb29fb555465d799b07aed2e03d417",
+    "date": "2026-04-28T23:03:03Z",
+    "path": "/nix/store/iy0nx540sn8wcpknwx716bqpq5nhxjb5-solarized-osaka-zed-9bd8a12",
+    "sha256": "1msmi0f8vzrqgklq20c0zlv3kbmyzvz7kbyvmxiwm8g41vfm38pd",
+    "hash": "sha256-7aJR3Q7kocpjr9uvef7+vq45Nv2AAYHpfDj/jRyIVdc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "monochromator-theme",
+  "version": "0.2.2",
+  "src": {
+    "url": "https://codeberg.org/beem/monochromator",
+    "rev": "f521128dc9723953e9b606e1eca4e79595ad3fa0",
+    "date": "2026-04-30T16:49:27+02:00",
+    "path": "/nix/store/xhcrr7ryng10f837zl95hnxb3y34pfi0-monochromator-f521128",
+    "sha256": "0f6fyadlcvdbgpr66digw6jx0nylm9kp0bg13jvfx5w8nhjghdn4",
+    "hash": "sha256-xDb4JLSIl+62HOEtcGeq1FvQpeEvNmPyfattRpvyzjg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "editors/zed",
+  "grammars": [],
+  "kind": "plain"
+}

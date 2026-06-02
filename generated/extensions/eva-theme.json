@@ -1,0 +1,19 @@
+{
+  "name": "eva-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Oneptica/Zed-Theme-Evangelion",
+    "rev": "54db1ebd910f4d6d57a1d492d002c211a7026c52",
+    "date": "2026-05-13T22:28:38+02:00",
+    "path": "/nix/store/qhhx4468llj9cqksn5sj0n7rhm32kmax-Zed-Theme-Evangelion-54db1eb",
+    "sha256": "052ni0zi7ws5qags2nyfwqp7rlhvbd1h67fqjy8q3b0j1b0052vi",
+    "hash": "sha256-cYsCwAoSrIGRl9gdA0NbG9J8LubOW6GfwkXzEz+IVhQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "geode-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/almeladev/geode-zed",
+    "rev": "87c9fd74e82e8be9ecd4f5e44d9f71bcf7b7ac41",
+    "date": "2026-06-01T01:25:46+02:00",
+    "path": "/nix/store/clr6rkdspjv6p22bchl8dwnxamzrp818-geode-zed-87c9fd7",
+    "sha256": "1nj4zcrgm7d2dyd9zwc6jllwc7khhil4i7mgnhmxda4zgbiykg7h",
+    "hash": "sha256-8Lzp43qfqNYrtK+eSGiEcB7GKZWG8Z+ab6Kd+jL7RNo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

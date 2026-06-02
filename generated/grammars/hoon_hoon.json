@@ -1,0 +1,18 @@
+{
+  "id": "hoon_hoon",
+  "name": "hoon",
+  "version": "1545137aadcc63660c47db9ad98d02fa602655d0",
+  "src": {
+    "url": "https://github.com/urbit-pilled/tree-sitter-hoon",
+    "rev": "1545137aadcc63660c47db9ad98d02fa602655d0",
+    "date": "2024-12-17T22:41:49+13:00",
+    "path": "/nix/store/p5qdiynvh3y2n85h44dfr84sgim7ggbm-tree-sitter-hoon-1545137",
+    "sha256": "1sdxx6j6pywc8cds196p408ama1m25wwv1rm96p7k2ibqyi8yi26",
+    "hash": "sha256-RkSPoscrinmuSTWHzXkRNaiqECDXpKAbQ4z7a6Tpvek=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "rose-pine-recast-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ng-hai/zed-rose-pine-recast",
+    "rev": "9e3e29858eb3254f431abb8ef3c90a51453b6148",
+    "date": "2026-06-01T19:12:03+07:00",
+    "path": "/nix/store/a5ksx7hgwn12l7b8ax1vs030dw3h7dlp-zed-rose-pine-recast-9e3e298",
+    "sha256": "0gzyq0cv2z8jp55c9blnzi7mabwxl90ni162v42fr83wzf7kn74d",
+    "hash": "sha256-jRw7j/t8oOwE2cKEaEGinS9VT/yWrsRKuRJ9sRnA/j8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

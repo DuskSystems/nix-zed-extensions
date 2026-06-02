@@ -1,0 +1,19 @@
+{
+  "name": "doom-one-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/bashln/zed-doom",
+    "rev": "964b142e2fc953efd5f612b45aef97094427a928",
+    "date": "2026-05-28T07:40:40-03:00",
+    "path": "/nix/store/wn9kkj0fig585x7y76h6cg2h2s0c5wj6-zed-doom-964b142",
+    "sha256": "1dcj3gpdpcj7awglkq0rkzrwvfclbbzhg2ym92vxz3v5cpyh9cbq",
+    "hash": "sha256-eLEE/WVlj9+3SNWLB/9alLnN858Z4EkfV0ey2+4bkrU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

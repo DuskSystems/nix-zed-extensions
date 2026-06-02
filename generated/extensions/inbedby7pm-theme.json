@@ -1,0 +1,19 @@
+{
+  "name": "inbedby7pm-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ChocolateNao/inbedby7pm-zed",
+    "rev": "3b7e423d57c6a89328836c2c6927356506f8b006",
+    "date": "2026-05-31T15:44:02+03:00",
+    "path": "/nix/store/7fvbqaf22g30yrvmskdjifbcrx2f6l4g-inbedby7pm-zed-3b7e423",
+    "sha256": "0dp1l6k0c8dbdjxlfny7n5nk48i8iv010vffbzpcr2c84n0iq37w",
+    "hash": "sha256-/AwcgSWIiczuX85tEMCOKCIybbHHW0e7bKshBqah4TY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
