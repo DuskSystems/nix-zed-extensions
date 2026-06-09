@@ -1,0 +1,19 @@
+{
+  "name": "karma-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/sreetamdas/karma",
+    "rev": "bfc00b5dc8f70b387e6f4f97c7573a97ce590dd5",
+    "date": "2026-06-08T12:18:40+05:30",
+    "path": "/nix/store/lj724zdwrabxxr0493qax658v8s5nj25-karma-bfc00b5",
+    "sha256": "1k7bhmyzd0sag9cy0mysafrpihfq23wcchdq2y6rg6yqqhrbgyqd",
+    "hash": "sha256-Dfu3MsTYm5eNF7hBxvgQ2MF4s1PaV+BZekqD9n2F68w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "plain"
+}
