@@ -1,0 +1,19 @@
+{
+  "name": "phosphor-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/Codenii/phosphor-zed",
+    "rev": "2f7f394c6ef1960f0b257c860df03e11f9f8f8a0",
+    "date": "2026-05-01T08:20:52-04:00",
+    "path": "/nix/store/kswmbfq0lcl213zp10677bq7hw5ks8f1-phosphor-zed-2f7f394",
+    "sha256": "07kvqxpqp4xh4wkw0imihs0sqqvm8xzsf1hncflsqn8xp161avn5",
+    "hash": "sha256-xW4VTLgdWaypYxYGp39HdWOsgYaxRsAnJ7CTi2/Hex4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

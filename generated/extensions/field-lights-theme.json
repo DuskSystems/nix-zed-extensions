@@ -1,0 +1,19 @@
+{
+  "name": "field-lights-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/adamsharifc/zed-field-lights",
+    "rev": "833fd4455a5fe77f12c7b11858823bdf666db764",
+    "date": "2026-06-09T06:48:36+05:00",
+    "path": "/nix/store/2465j8sk1c00a1siv4vmvq7a81wmfrfx-zed-field-lights-833fd44",
+    "sha256": "0n7wyhbp2vsmk2cn7a3cv219zpc0klfqdbzi7qbcs9rmn7hda014",
+    "hash": "sha256-JADV4LE1J80WPvGvhh2dgN2fgthsqGOZmFVvcRf0/Fg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

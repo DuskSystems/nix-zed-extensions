@@ -1,0 +1,21 @@
+{
+  "name": "pioasm",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/GGORG0/zed-pioasm-syntax",
+    "rev": "1e68a2bc311e8508ebfff0c2059ced6c956367bc",
+    "date": "2026-06-09T21:40:44+02:00",
+    "path": "/nix/store/g01ndsn56nim1fnidz05m23ganpdqyvs-zed-pioasm-syntax-1e68a2b",
+    "sha256": "1frl8k2i0fby94v3pvjyn3hvqpdf7xrahskmi6y0b5gmrcy65x08",
+    "hash": "sha256-CPRiPMv1lQW8iXVqqHI/rl284bBe7js2SX45EMVENLs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pioasm_pioasm"
+  ],
+  "kind": "plain"
+}

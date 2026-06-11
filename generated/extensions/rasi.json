@@ -1,0 +1,21 @@
+{
+  "name": "rasi",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/mikaeladev/zed-rasi",
+    "rev": "83f5e3befc28a7a4526648ff6a047a381132739b",
+    "date": "2026-03-06T11:13:44Z",
+    "path": "/nix/store/qi4rzyd5svnash01hnqq0b77c8g4d2w2-zed-rasi-83f5e3b",
+    "sha256": "1s3zwd5bl1whhk8dazm2av7maagc2mbawgfw535ibqpf35qln2kr",
+    "hash": "sha256-eQpLcRnu4hXLKNw9rlYV7ClVz1aiftXQhJAHukrjf+g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "rasi_rasi"
+  ],
+  "kind": "plain"
+}

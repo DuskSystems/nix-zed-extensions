@@ -1,0 +1,19 @@
+{
+  "name": "halloween-night-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/BlueRexPY/HalloweenNightZed",
+    "rev": "62c758cd1214ba5e4bd2ed6f4b7e18048bea578d",
+    "date": "2026-06-05T01:16:50+02:00",
+    "path": "/nix/store/lx6k560bygxvqv6hhllhxx09g9p1f8bp-HalloweenNightZed-62c758c",
+    "sha256": "0winn992lwbdg9p8plmlrkl44fykkbvrkh0vdsmx410918z8l6dr",
+    "hash": "sha256-uRmKPgoJBNKrbhvAmfea0ztC6My00otuem1xKlKyNnI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

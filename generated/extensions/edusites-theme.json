@@ -1,0 +1,19 @@
+{
+  "name": "edusites-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/eduardolecdt/edusites-theme-zed",
+    "rev": "d0c9a323faaabe44ad584beceb4221ed8dc0d9eb",
+    "date": "2026-06-02T00:17:42-03:00",
+    "path": "/nix/store/09y5p5ya3ncfnbwsa08i2wvwxp64j4cc-edusites-theme-zed-d0c9a32",
+    "sha256": "0pkynykqj1x9ss8v76qqqiqnmcm745i6l02zc3ras2qaq4c6gjcm",
+    "hash": "sha256-lclnGMEKC63yYF8AamIhp7JqccQYm7OR1qkHiae3fl4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

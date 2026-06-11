@@ -1,0 +1,19 @@
+{
+  "name": "koda-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/markosnarinian/koda-zed",
+    "rev": "37261edc39f0a9377cdd30640c969a8251ca1967",
+    "date": "2026-06-02T17:10:00+03:00",
+    "path": "/nix/store/hznj3s7irmklq42bzr8p097789i87whq-koda-zed-37261ed",
+    "sha256": "0c4hfwinf5530895ckpwmas8yv4c2i1a9nf4gzg9lf2nik2hm6w6",
+    "hash": "sha256-hpsKxYxWOJref8TZpEIUjGyPtKr8TlYSAqMUZyN3kDA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
