@@ -1,0 +1,19 @@
+{
+  "name": "outrun-vscode-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/exkungen/outrun-vscode-zed",
+    "rev": "4cf06f2f8ae22db2805b748deab1aa4787c586bc",
+    "date": "2026-06-11T12:15:47+02:00",
+    "path": "/nix/store/974jd1c3zn5kr14d0m7bmhvmy2mxj4a7-outrun-vscode-zed-4cf06f2",
+    "sha256": "00gqsp599dv7x981wbq2f7j67xka34fvpawli286p36akawzhf3z",
+    "hash": "sha256-fzj4uZrKjGuQiJSrux0ZavZj5HECLx5Q6me3lMrV+AE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
