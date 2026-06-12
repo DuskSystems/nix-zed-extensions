@@ -1,0 +1,18 @@
+{
+  "id": "al-business-central_al",
+  "name": "al",
+  "version": "89b1d055214d95bcf9596e168b240df313bd1a36",
+  "src": {
+    "url": "https://github.com/SShadowS/tree-sitter-al",
+    "rev": "89b1d055214d95bcf9596e168b240df313bd1a36",
+    "date": "2026-05-18T08:47:11+02:00",
+    "path": "/nix/store/14xs92yrphv3kll8dijpvpf6y3mcdj9p-tree-sitter-al-89b1d05",
+    "sha256": "0qx1j92q2a1k5lv0n6wiimfavsynj9chirbdi7bmlw8in474340j",
+    "hash": "sha256-EpBBDrERcVrXiW3lCFmS1uutXI2RGws2LTMogUWSoWM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ruby_embedded_template",
+  "name": "embedded_template",
+  "version": "c70c1de07dedd532089c0c90835c8ed9fa694f5c",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-embedded-template",
+    "rev": "c70c1de07dedd532089c0c90835c8ed9fa694f5c",
+    "date": "2025-08-28T20:40:04-04:00",
+    "path": "/nix/store/6lr7kd3gnai6s3wp9ci4hda8rgzwaq8l-tree-sitter-embedded-template-c70c1de",
+    "sha256": "0w1vkk1m2a52nqqx7agwcik7kbdb6bwpw18479inswqbgn51l54w",
+    "hash": "sha256-nBQain0Lc21jOgQFfvkyq615ZmT8qdMxtqIoUcOcO3A=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

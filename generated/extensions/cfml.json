@@ -1,0 +1,25 @@
+{
+  "name": "cfml",
+  "version": "0.2.23",
+  "src": {
+    "url": "https://github.com/cfmleditor/zed-cfml",
+    "rev": "bd267c1ad0f2e6d83b95105da00dbac090191f4d",
+    "date": "2026-06-03T09:26:34+10:00",
+    "path": "/nix/store/8gjy28wggrfgd3y0d47j24r9h6zlp5pa-zed-cfml-bd267c1",
+    "sha256": "1sblgr4vhidq0dprc930scwwyhm1z8bk1m09vampmqyg8gqykxgz",
+    "hash": "sha256-//Xp8UPP43qr2gnUMBf6oULPOdNgJJZvA7hFuEl+dOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "cfml_cfml",
+    "cfml_cfquery",
+    "cfml_cfscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-P8SlJsdYKpDSuZIN2xpEYkBW8QH+Re9vT27bDOVW2jo="
+}

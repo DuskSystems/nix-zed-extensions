@@ -1,0 +1,23 @@
+{
+  "name": "dhall",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/SrGaabriel/zed-dhall",
+    "rev": "d4622b2525d20930b36467ceb2a8a2300f9b2fc8",
+    "date": "2026-05-30T02:23:08-03:00",
+    "path": "/nix/store/21057wxcrandvixxyrg45wjpxvm0hssw-zed-dhall-d4622b2",
+    "sha256": "1llbbi3v1sjykvdcb5znasw2ind0d1c07gjyzsx5g8i93x12g3ic",
+    "hash": "sha256-LI4nQh8pole6/l6+A1hooNkouFb2l8Xanl7qsEdci9I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dhall_dhall"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nx/tHRL+fbQR5nY1hs/iMQCiPljJ6touCAEgaDnSSCM="
+}

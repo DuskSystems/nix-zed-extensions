@@ -1,0 +1,18 @@
+{
+  "id": "ebnf_ebnf",
+  "name": "ebnf",
+  "version": "8558f670885ff25353cc6e9de450af4823f49e42",
+  "src": {
+    "url": "https://github.com/louiss0/tree-sitter-ebnf",
+    "rev": "8558f670885ff25353cc6e9de450af4823f49e42",
+    "date": "2025-12-31T17:07:56-05:00",
+    "path": "/nix/store/bd209hrlx05zfwqx03c5prlfkjk7z0d4-tree-sitter-ebnf-8558f67",
+    "sha256": "1pd5x72yhjxh4kx30w4lb9mrpyga54l70hzw6167v26whqkcvbrs",
+    "hash": "sha256-Oq/NJobciH1MMPxDcCgp6vmba1qUcDD6JLBL6MXppd0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

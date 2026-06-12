@@ -1,0 +1,21 @@
+{
+  "name": "python-autodoc-lsp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/eallender/zed-python-autodoc",
+    "rev": "2e280337d4bf603ebf65d3cdb6e59886d936df04",
+    "date": "2026-06-01T18:07:16-04:00",
+    "path": "/nix/store/smks87bpg5iqj29ahibxs2qc5yk32ms4-zed-python-autodoc-2e28033",
+    "sha256": "1wz2cgm7qy5rbq3vyj0hvsv62zlvhvcaxx4960jir9648dinj6x5",
+    "hash": "sha256-pRtpY0PEpBwlMIn0rtiGm35htt4QSL8HXrl4fOpj4vM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-IBtaJnKxVNcKT/3na/fPXgpeuB3iJO7JGtnvVR15svs="
+}

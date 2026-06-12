@@ -1,0 +1,23 @@
+{
+  "name": "awsum",
+  "version": "0.0.6",
+  "src": {
+    "url": "https://github.com/awsum-lang/awsum-zed",
+    "rev": "342f34875653d995e086bc204482352ae997bf91",
+    "date": "2026-06-03T18:31:31Z",
+    "path": "/nix/store/lsicz3crxjjs1d7zljm6ck3r0zirz7rw-awsum-zed-342f348",
+    "sha256": "17als76lg7xirm59qn0k7l5kcc3wvnk57gm5l3py65l5pd469ds2",
+    "hash": "sha256-QrdkSLuFFuPvoKW+U6bdfDA2Cz0TWJxKzbGfR83RVJ0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "awsum_awsum"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-bsSdwK/dbDJvJsBq9s77K9+tQgmexHURZo3+5FiDLCo="
+}

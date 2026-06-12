@@ -1,0 +1,18 @@
+{
+  "id": "silverstripe_silverstripe",
+  "name": "silverstripe",
+  "version": "da3990bc41b24119ae7bf7f3d01a425133a7d44a",
+  "src": {
+    "url": "https://github.com/nicolas-cusan/tree-sitter-silverstripe",
+    "rev": "da3990bc41b24119ae7bf7f3d01a425133a7d44a",
+    "date": "2026-03-09T17:42:53+01:00",
+    "path": "/nix/store/1dy712vgcvqrprjzylhgff9pazzlbmmf-tree-sitter-silverstripe-da3990b",
+    "sha256": "015rrm4cz9vbcghznh8fzsdlrrx19726ng656by9ya533kb6ll7c",
+    "hash": "sha256-7FBq1hyjKJ/8MsU8a8RJoedMm/4OQfvhY2unz0jNuQQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

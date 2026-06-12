@@ -1,0 +1,23 @@
+{
+  "name": "nomad",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/loczek/zed-nomad-extension",
+    "rev": "6d41b671f681fbfe50d25dc6294446accdc5b811",
+    "date": "2026-05-04T03:22:15+02:00",
+    "path": "/nix/store/dwqgn3zsf7hgxj7nnxlzr2j3nqi2k2m5-zed-nomad-extension-6d41b67",
+    "sha256": "12k6lvx2is0xam4kdax15p9k0gw7diqsjfprv2ydb4nydi4a2bsj",
+    "hash": "sha256-Ui+hSGzektW82Pk6qXFshz8w0y2hqzZJVR3oKPqmZoo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nomad_hcl"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-r9QT3kXUxN7EqZ5oIUsNH8dmC1sfIAk0VBr4LboAoN4="
+}

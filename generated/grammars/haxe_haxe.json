@@ -1,0 +1,18 @@
+{
+  "id": "haxe_haxe",
+  "name": "haxe",
+  "version": "cd22e75fd9e80cc1752854be1a3aac22b08f82c7",
+  "src": {
+    "url": "https://github.com/tong/tree-sitter-haxe",
+    "rev": "cd22e75fd9e80cc1752854be1a3aac22b08f82c7",
+    "date": "2026-01-09T15:23:35+01:00",
+    "path": "/nix/store/7fy9k1nizymqjbpnih8qbcg5lcnrd576-tree-sitter-haxe-cd22e75",
+    "sha256": "02rxzbw19zbhb2qns7384wljzbxfhbrc50bwr66ma4v80xc2ziln",
+    "hash": "sha256-lsYvWAdoE1WNyXyBwvKCrq8vKSdoHG2xWHD9FPj6PQs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

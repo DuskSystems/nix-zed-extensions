@@ -1,0 +1,21 @@
+{
+  "name": "zizmor",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zizmorcore/zizmor-zed",
+    "rev": "478a9529fe2a2af31764d93d7cb4d59bb236cdb5",
+    "date": "2026-05-23T15:49:58-04:00",
+    "path": "/nix/store/3gi81v8w4szqhc4v7659rb031i9b2ahi-zizmor-zed-478a952",
+    "sha256": "10z9pwkkxnrnzx95r88ikgd44c30kpmirybiagah6pprfj7vx3fg",
+    "hash": "sha256-z42+j3T5XgPVU3H5HOudYDBC2psRoVxS/zbbPie/6YM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nO8QqYvaBhjNJJsjpcs+Spca2OxISxC7ziPkK/N5OB4="
+}

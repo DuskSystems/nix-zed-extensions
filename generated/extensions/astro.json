@@ -1,0 +1,23 @@
+{
+  "name": "astro",
+  "version": "0.1.11",
+  "src": {
+    "url": "https://github.com/zed-extensions/astro",
+    "rev": "8108537fa717c657b58963c98c8979fdd14eefec",
+    "date": "2026-06-09T12:58:50+02:00",
+    "path": "/nix/store/zrpapm88mcb3xpvd5r5w3q3r3arpv9p4-astro-8108537",
+    "sha256": "176yjkncdywxfvw738wznvfy5x49g46zncw630qglmqfqz40g7jg",
+    "hash": "sha256-T54HyMcOV/owGIYz+w15ifTi3bafo3H4dp37xuyU3pw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "astro_astro"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-DRdkiLI9QN9Rt3MFwXGOZbbeSrUCzq5gjABR3LLunk0="
+}

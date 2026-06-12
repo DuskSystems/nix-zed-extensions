@@ -1,0 +1,24 @@
+{
+  "name": "haxe",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/Frixuu/Zed-Haxe",
+    "rev": "a43cf0ae7cbed56f779f794420faa938ffedd8da",
+    "date": "2026-05-14T22:56:07+02:00",
+    "path": "/nix/store/lf0hw8n2aijzafv0v3qb3dlzczsq3klb-Zed-Haxe-a43cf0a",
+    "sha256": "1p4l9xdk6qniv7m6i3fyd9b46bqxw0vj5z2h0xfpkhy1v3hv99fd",
+    "hash": "sha256-zaW04djBw3ldB1D8IjfgHS9DVmrejWjq2dFiM1tPlNw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "haxe_haxe",
+    "haxe_hxml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-KJXSmrEV0ACaNP1KVWPPtali01/UrtsHNIM1I06OtN0="
+}

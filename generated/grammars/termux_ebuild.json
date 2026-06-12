@@ -1,0 +1,18 @@
+{
+  "id": "termux_ebuild",
+  "name": "ebuild",
+  "version": "fc374309b61a16d61d3b85246969a3ec393e9063",
+  "src": {
+    "url": "https://gitlab.com/paveloom-g/forks/tree-sitter-ebuild",
+    "rev": "fc374309b61a16d61d3b85246969a3ec393e9063",
+    "date": "2026-06-06T23:00:06+03:00",
+    "path": "/nix/store/a7r6ghvya89wr8f5b6h19fab0jcrbmf8-tree-sitter-ebuild-fc37430",
+    "sha256": "1mlk1r7ldkzh02dczlgdl201p6n5gdpkv6rdcw6d6wv4rb90mj7i",
+    "hash": "sha256-8cgK0spkc9MMZy2bPW97xZobgKDt0c+aAPDPRk8Ok9Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

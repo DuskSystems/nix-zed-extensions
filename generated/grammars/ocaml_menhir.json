@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_menhir",
+  "name": "menhir",
+  "version": "be8866a6bcc2b563ab0de895af69daeffa88fe70",
+  "src": {
+    "url": "https://github.com/Kerl13/tree-sitter-menhir",
+    "rev": "be8866a6bcc2b563ab0de895af69daeffa88fe70",
+    "date": "2023-07-17T11:40:53+02:00",
+    "path": "/nix/store/k11xmcyv2ciswynqnl59rnpal69shcwg-tree-sitter-menhir-be8866a",
+    "sha256": "1i7hy4cbdz1y7668gqm8gmmk9jcxnnvq7zkwqvwlmwfzx9148189",
+    "hash": "sha256-CQVEQurf8Ur5xnz+g7e1nck0a32o4oeMOT78thjx8MQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

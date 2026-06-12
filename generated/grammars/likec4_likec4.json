@@ -1,0 +1,18 @@
+{
+  "id": "likec4_likec4",
+  "name": "likec4",
+  "version": "f49d5677c2da1baf918ed72791dcbbd606f8eb18",
+  "src": {
+    "url": "https://github.com/Lenivvenil/tree-sitter-likec4",
+    "rev": "f49d5677c2da1baf918ed72791dcbbd606f8eb18",
+    "date": "2026-02-25T09:09:58+05:00",
+    "path": "/nix/store/lwvsnjp1p3yhp3ld9g7x1q0dkcx9xvxp-tree-sitter-likec4-f49d567",
+    "sha256": "078r8phm1bapy3b0kwg4l8kfwav0hjdk927i4wklykkwcr74dsb0",
+    "hash": "sha256-YOlGTmZ8Tk8nJ/GINJuEYCvuJqLk8QnW8FetUOFFGR0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

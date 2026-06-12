@@ -1,0 +1,19 @@
+{
+  "name": "selene-abyss-theme",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/envoidia/zed-selene-abyss",
+    "rev": "1edb76f4690598b3a874364d0a893a6493d56819",
+    "date": "2026-05-15T18:54:12-05:00",
+    "path": "/nix/store/f6jnpjh8k99jks8lgdbgr9hxvi038gzi-zed-selene-abyss-1edb76f",
+    "sha256": "175kwvhww0r4ab8a5l5f53b694prpmz2kvkwvnzpp7pwg0dgv7d6",
+    "hash": "sha256-pp39Gnj8nnu/3XzuKX69+ZJk1iiu0KLQUiQDzuHms5w=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

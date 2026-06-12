@@ -1,0 +1,18 @@
+{
+  "id": "nomad_hcl",
+  "name": "hcl",
+  "version": "64ad62785d442eb4d45df3a1764962dafd5bc98b",
+  "src": {
+    "url": "https://github.com/MichaHoffmann/tree-sitter-hcl",
+    "rev": "64ad62785d442eb4d45df3a1764962dafd5bc98b",
+    "date": "2026-01-17T15:42:48+01:00",
+    "path": "/nix/store/yjashi9bx69ka0593r969rixx66q46gk-tree-sitter-hcl-64ad627",
+    "sha256": "0q6igcw43vdgr5nly7qgblvgw7hvyz4skjsx3lgxkvrnm1kbd7ss",
+    "hash": "sha256-Wp+2Zqg279kfHV3Lqcn3Gx7+Nl0PH09tya/tQTh70WA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,19 @@
+{
+  "name": "webstorm-darker-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/jxshwa/webstorm-darker-theme",
+    "rev": "56c091b706fa76a9b4d4f182c055292c0aa7fc20",
+    "date": "2026-03-13T15:47:34+08:00",
+    "path": "/nix/store/gkmp8mpmk87k0sk13793lga3mkjbx4n2-webstorm-darker-theme-56c091b",
+    "sha256": "11s2p64riwsmdqawrmdznw3874f9az88yksbh757dmxdqj3s7zcy",
+    "hash": "sha256-nv2jh8St13bKgUtPj9BXyZGDBre/1cwVblXzmIm5Qoc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

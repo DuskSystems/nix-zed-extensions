@@ -1,0 +1,27 @@
+{
+  "name": "likec4",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Lenivvenil/zed-likec4",
+    "rev": "ac7208243894865b238f790cf0e76ccc31923bbc",
+    "date": "2026-04-09T13:24:21+05:00",
+    "path": "/nix/store/7jc5yhli2jb5hxffvn8028mdfgkfr51n-zed-likec4-ac72082",
+    "sha256": "1v2wcjqhy15q6lf99wa3hrn6chfx0xljbaibrdjbqqx8vj2zkl79",
+    "hash": "sha256-6dD5hdyoY7xkyyuqJWkH3UFmbIZD8ZQcNbgED7FkXOw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "likec4_likec4"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/Ei11atms3W9K44/J3O9FtvC6/FSVG4PWKuZpIliW/w=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/likec4.lock",
+    "outputHashes": {}
+  }
+}

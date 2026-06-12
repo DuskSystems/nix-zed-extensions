@@ -1,0 +1,19 @@
+{
+  "name": "magento2-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mage-os-lab/zed-magento2-snippets",
+    "rev": "3c97910e37dbe751415d2de4a182703188284ead",
+    "date": "2026-03-31T17:02:09+02:00",
+    "path": "/nix/store/qyy6dh72w4374diwvdg34dsi02wx3wik-zed-magento2-snippets-3c97910",
+    "sha256": "1j1lz39i47b23kshb5ydyal4x12n2qgflcpdrjphdf2nh5y1na1r",
+    "hash": "sha256-OSgbfIFWuAavzO0y6h4WVoROqPLNlwX1HGIdEtP4NMg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

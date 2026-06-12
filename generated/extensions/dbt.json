@@ -1,0 +1,25 @@
+{
+  "name": "dbt",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/kylejbrk/zed-dbt",
+    "rev": "7f22aa795e682da4633e46f7511c3f9d0bbb0608",
+    "date": "2026-05-30T13:36:44-04:00",
+    "path": "/nix/store/m53ib49ipsvzw2wlq14lc8adjamh143x-zed-dbt-7f22aa7",
+    "sha256": "010z2wksmjm5p4c7d1k0szb9269nnia4s9y26xv7bnahpcfz25ac",
+    "hash": "sha256-TBXxHbtQ2XV2N8InTVS0NhmR1tdghnYYuaXKqicXHwQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-bJWVxRKYN5ux7oLGGn43FnE0IGbqJ1LorJU4y5oZOtM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/dbt.lock",
+    "outputHashes": {}
+  }
+}

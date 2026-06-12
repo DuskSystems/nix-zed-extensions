@@ -1,0 +1,21 @@
+{
+  "name": "datadog-mcp",
+  "version": "0.3.0",
+  "src": {
+    "url": "https://github.com/robertohuertasm/zed-datadog-mcp",
+    "rev": "04c5e8a2f4511910a36a66eb073232e0aa8d3889",
+    "date": "2026-05-31T21:48:40+02:00",
+    "path": "/nix/store/vs4phl1pfj36w1kqimzs5gz3njv0b3w7-zed-datadog-mcp-04c5e8a",
+    "sha256": "0h3rn1wj94m9dwlaym390h8zzw7yd3kdk2112vdqmcpwwm1nr7j3",
+    "hash": "sha256-Q55sQ+X8sorbFiGI2eZo/vD/EQRpVK8ob6mSJHmweUA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-efFUVZ7mJWcYXOjNAbfQQgfLfDz2Q3EHje3HVS/C/78="
+}

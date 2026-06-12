@@ -1,0 +1,21 @@
+{
+  "name": "design-tokens",
+  "version": "0.3.2",
+  "src": {
+    "url": "https://github.com/bennypowers/asimonim",
+    "rev": "43a779aa0acd32f6b90ed857c49e468195410cba",
+    "date": "2026-06-10T16:59:48+03:00",
+    "path": "/nix/store/f2iw407225000kbmz5xz7rmdi0xwahg7-asimonim-43a779a",
+    "sha256": "0s69nlfmj3x716rsggkm6yrqq8424a24269j2p7dph0dkbccdr2k",
+    "hash": "sha256-U+TG2JoNwNvOFTIZQYQigiCMszd1vqezCacPWR21yWg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-z6IT0R3MbDeNoWm21e/qCnlqrdgBz6pYjiR3SFb8fKs="
+}

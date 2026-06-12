@@ -1,0 +1,23 @@
+{
+  "name": "greycat",
+  "version": "0.1.6",
+  "src": {
+    "url": "https://github.com/maxleiko/zed-greycat-extension",
+    "rev": "197d4f7c2848eb303d5920569d52c162e29fca88",
+    "date": "2026-06-02T16:30:36+02:00",
+    "path": "/nix/store/0dl8mb8mbv7ywza80hci412wqyrdbwwc-zed-greycat-extension-197d4f7",
+    "sha256": "0qazf070bj8m4m6m4zs4azs2ycd4ys5gsp6lxn61zgbzlxbyvlnm",
+    "hash": "sha256-1dLtV6d/vR+M7dRc/Yr2pDEv9FdEf1JNJRXJBQ5wX2E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "greycat_greycat"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-aWSp7mB1y5vH4PzKxyhuqa6VeVjZzY0444ffSYfZqN4="
+}

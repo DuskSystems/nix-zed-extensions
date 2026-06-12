@@ -1,0 +1,18 @@
+{
+  "id": "typst_typst",
+  "name": "typst",
+  "version": "abe60cbed7986ee475d93f816c1be287f220c5d8",
+  "src": {
+    "url": "https://github.com/uben0/tree-sitter-typst",
+    "rev": "abe60cbed7986ee475d93f816c1be287f220c5d8",
+    "date": "2024-07-22T13:00:06+02:00",
+    "path": "/nix/store/8n0ql9l2j1snc9sap73isl3ac8kyrjzf-tree-sitter-typst-abe60cb",
+    "sha256": "0279288jcckg916rcmqb1fszw13zs8ss89ldm5nfy1f09jh3a0w7",
+    "hash": "sha256-hwM1oEzABe9sqY0mpDXSfwT+tQsLV5ZNSG8yJhES6Qg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

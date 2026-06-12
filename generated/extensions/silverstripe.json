@@ -1,0 +1,23 @@
+{
+  "name": "silverstripe",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/nicolas-cusan/zed-silverstripe",
+    "rev": "f8fc548a765ff892fc03f37b329e4a3423c40656",
+    "date": "2026-03-09T17:45:24+01:00",
+    "path": "/nix/store/nsxswkcjh7xwwzyay7bbxvd2k16ghh69-zed-silverstripe-f8fc548",
+    "sha256": "13dkb4d5jf9ihvkmkb3wsd4dpzsjrvvl02wxy8i2dm5cg1jggivp",
+    "hash": "sha256-d8f3ZHis1CYi8p0LQPfOUv/bSNN8rFnnhjE5WRpZs40=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "silverstripe_silverstripe"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7eR3CVzD5sMEaRfc+HFss59Tvd1Nb5DaRkfw2W2odmQ="
+}

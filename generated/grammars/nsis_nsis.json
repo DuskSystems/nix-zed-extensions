@@ -1,0 +1,18 @@
+{
+  "id": "nsis_nsis",
+  "name": "nsis",
+  "version": "aff788a88ae08010ce44931e85b755f97aeb2f87",
+  "src": {
+    "url": "https://github.com/idleberg/tree-sitter-nsis",
+    "rev": "aff788a88ae08010ce44931e85b755f97aeb2f87",
+    "date": "2026-06-11T19:47:06+02:00",
+    "path": "/nix/store/pwjjrbakx6201whbi4if1c1s1cys3av1-tree-sitter-nsis-aff788a",
+    "sha256": "1nzppv9kdvvz86p6scgd3sfn8n0sn264n8md2iazc93cf6bpq72n",
+    "hash": "sha256-Vhx8l3FsJPZVFK0iS4ywGlhknR7tMW2uQX/vNtO+99s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

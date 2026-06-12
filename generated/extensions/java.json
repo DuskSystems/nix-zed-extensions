@@ -1,0 +1,24 @@
+{
+  "name": "java",
+  "version": "6.8.20",
+  "src": {
+    "url": "https://github.com/zed-extensions/java",
+    "rev": "176f3567419fc7473751bda8c2620a57334d0fbd",
+    "date": "2026-05-29T00:24:58+02:00",
+    "path": "/nix/store/yba3188bnlslyh2mrgw2qa6ffh074m4b-java-176f356",
+    "sha256": "003wc7scssgsq2h0qsawbwzhdff9s51ykci5r63jzjs534zkgcgv",
+    "hash": "sha256-+7E3PxlFyy+HySWy6UPRybkGP19caQygwPppzfRhfAA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "java_java",
+    "java_properties"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-vjx2NNLrDF9WBSO9gXTy9doHXcgjxv7ZkC6Wq8rX1t8="
+}

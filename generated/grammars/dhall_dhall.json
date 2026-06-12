@@ -1,0 +1,18 @@
+{
+  "id": "dhall_dhall",
+  "name": "dhall",
+  "version": "62013259b26ac210d5de1abf64cf1b047ef88000",
+  "src": {
+    "url": "https://github.com/jbellerb/tree-sitter-dhall",
+    "rev": "62013259b26ac210d5de1abf64cf1b047ef88000",
+    "date": "2025-04-13T17:48:12-04:00",
+    "path": "/nix/store/dv55llrmcmz0mhmw8hr2i6ckhpf7hw75-tree-sitter-dhall-6201325",
+    "sha256": "1qrnbcj66ls08217k4qfsc9n9dx3my6fjmbf5nhb356l63ng65p3",
+    "hash": "sha256-4xbz7DDUlLGgLW5V6Yyvo7dkE9MOk3mCQEBTYyRbNuM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

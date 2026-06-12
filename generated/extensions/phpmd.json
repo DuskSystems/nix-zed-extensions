@@ -1,0 +1,21 @@
+{
+  "name": "phpmd",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/mike-bronner/zed-phpmd-lsp",
+    "rev": "f353517c8d64e30f5c2221c9980c3d7b4a514466",
+    "date": "2026-06-10T21:45:58Z",
+    "path": "/nix/store/w4nds4gfw63drppydpj0hja3g0vlg2sh-zed-phpmd-lsp-f353517",
+    "sha256": "1fx502jnbslind7wfdx8rla45ki7fj1szagnxl8d0i2s8i3lm8ji",
+    "hash": "sha256-UaJKR0RaRNAQ7fapr4N0J85CFM2oN8dPs5HqZaUApbs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-0dvUmd7FU0+amXpZO07xDb6RPP1+z9VPwDvJ0ftbtZo="
+}

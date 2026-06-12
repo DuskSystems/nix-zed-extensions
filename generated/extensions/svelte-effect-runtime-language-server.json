@@ -1,0 +1,21 @@
+{
+  "name": "svelte-effect-runtime-language-server",
+  "version": "2.3.0",
+  "src": {
+    "url": "https://github.com/usebarekey/svelte-effect-runtime",
+    "rev": "9ddf90e793245a89a28b4e0175ef224f0505ac34",
+    "date": "2026-06-09T14:11:08+02:00",
+    "path": "/nix/store/kl8mc52c75ashyp1xkv3ph6aw4qasp45-svelte-effect-runtime-9ddf90e",
+    "sha256": "0c5mvw20ncr9mvy04w1gqaw4i27qfja0wc86gwqvds965a2d0nmx",
+    "hash": "sha256-vVrQhCom6bYxfwYxDpR0+IhIuMIvcAL8rikzCwTftTA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "modules/svelte-effect-runtime-zed",
+  "cargoHash": "sha256-yXWR1RpzcJnFC8pG50/tE9cFOscvH0/2EAWO3r/cQgs="
+}

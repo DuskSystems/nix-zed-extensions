@@ -1,0 +1,23 @@
+{
+  "name": "graphql",
+  "version": "1.0.5",
+  "src": {
+    "url": "https://github.com/11bit/zed-extension-graphql",
+    "rev": "98ade47a245bdcb32b3496605645a0d09ad2f039",
+    "date": "2026-06-09T13:26:37+05:00",
+    "path": "/nix/store/wxzkdp8z7c5yna7g01nypj1kwlnq5plz-zed-extension-graphql-98ade47",
+    "sha256": "1bsffgi6grv7rrv3rj9jhc3sa3hrghcjxm83c7y5hlpm17wn83bp",
+    "hash": "sha256-dw1k+Qn1Ulj8YQPVLhl8GQ6lB4MyyTx2zmfnZ+JzTq8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "graphql_graphql"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-94oMX4Iuz5lhcReWuWvCheRkbsN5VqC3HbUj7nTf0G4="
+}

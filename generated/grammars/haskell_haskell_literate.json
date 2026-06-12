@@ -1,0 +1,18 @@
+{
+  "id": "haskell_haskell_literate",
+  "name": "haskell_literate",
+  "version": "8ad7bd1b1595f4cc1a4ccc775d4a3c460f43a596",
+  "src": {
+    "url": "https://github.com/LaurentRDC/tree-sitter-haskell-literate",
+    "rev": "8ad7bd1b1595f4cc1a4ccc775d4a3c460f43a596",
+    "date": "2025-10-30T11:22:47-04:00",
+    "path": "/nix/store/wpjq2g7xy93gycq5rzlp3sx5l30fsaav-tree-sitter-haskell-literate-8ad7bd1",
+    "sha256": "1abamg5yh8268fijwzhczlw9a93ly92wnrcy3wpm0lqgriq57l9z",
+    "hash": "sha256-P9FTcMwPU1AvH55ly0XydCSVOP0Mfi6jQ0Yg6Muraqk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,29 @@
+{
+  "name": "gdscript",
+  "version": "0.9.0",
+  "src": {
+    "url": "https://github.com/GDQuest/zed-gdscript",
+    "rev": "b61ce81d0856507a4f596b558876edc0c4cf30ff",
+    "date": "2026-05-21T12:29:12+02:00",
+    "path": "/nix/store/pal6mzbsnik9zv8y9nqpizppv1qxaiwk-zed-gdscript-b61ce81",
+    "sha256": "0a00ayrpl430hd4rsbah1ya3lxflvvmhv1q0h4xlz9s1v3ir5csq",
+    "hash": "sha256-WLOS49hBp087gQCHDeve1HU6lA9QLZ1Jg2AQerNXACg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "gdscript_gdscript",
+    "gdscript_gdshader",
+    "gdscript_godot_resource"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-IkkuwN3n3REMAC7UeSejevJoEAIUaqFAB4k/b1LZY4c=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/gdscript.lock",
+    "outputHashes": {}
+  }
+}

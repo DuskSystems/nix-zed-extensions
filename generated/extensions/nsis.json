@@ -1,0 +1,23 @@
+{
+  "name": "nsis",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/idleberg/zed-nsis-extension",
+    "rev": "7442834b92cfd2d5ebe04c7f82c7032c30da93cc",
+    "date": "2026-06-11T21:43:25+02:00",
+    "path": "/nix/store/ky4v9m48jzrjmzpzfh1dlziw6wicpmvf-zed-nsis-extension-7442834",
+    "sha256": "0gj423kfr49mmfazx0drlj5w745g12394crlgy8wm4wysygfy3q9",
+    "hash": "sha256-CQ/vnteek8qRfzQzkoYIr5DDi6S5gf6VqzWR7OYQRD4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nsis_nsis"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-AzIZYec1ayyZQKOffXC/twvaHic6A6CXxe/91+omIUo="
+}

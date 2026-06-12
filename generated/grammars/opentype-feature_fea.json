@@ -1,0 +1,18 @@
+{
+  "id": "opentype-feature_fea",
+  "name": "fea",
+  "version": "876a2106273b5d3957b51da5d314f99d8f172ce2",
+  "src": {
+    "url": "https://github.com/mishamyrt/tree-sitter-opentype-fea",
+    "rev": "876a2106273b5d3957b51da5d314f99d8f172ce2",
+    "date": "2026-04-05T00:42:30+03:00",
+    "path": "/nix/store/zgy6my0wp254mq7q5aqxixy63x21jl3y-tree-sitter-opentype-fea-876a210",
+    "sha256": "11ik1rdgz0764xwwmbhix1ijyc70fg19i5vn3jrf2cfhdfg4kbjh",
+    "hash": "sha256-UK5JnmvQMeGyHHaXmMJz4DAvY+gRrsp5J+aA/1oOM4Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

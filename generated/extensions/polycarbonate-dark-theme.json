@@ -1,0 +1,19 @@
+{
+  "name": "polycarbonate-dark-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Sha1rholder/polycarbonate-dark-theme",
+    "rev": "622a409407d74667254262442d345108b3960556",
+    "date": "2026-04-04T17:28:27+08:00",
+    "path": "/nix/store/mm7vcqp9grvj2ixgyk6g49i9nbbd024w-polycarbonate-dark-theme-622a409",
+    "sha256": "143rjklqsqyfs8pbcnf1aapwv0l8whqnw1lni60g5adnw5vgv76c",
+    "hash": "sha256-zJz9duG2qfKAiZYGbjHkiILNr1LBWbYu0s5jjemUeZA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

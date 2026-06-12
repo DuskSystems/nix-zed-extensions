@@ -1,0 +1,21 @@
+{
+  "name": "json-tool-lsp",
+  "version": "0.0.3",
+  "src": {
+    "url": "https://github.com/xgfone/zed-json-tool",
+    "rev": "12e5a2b90e78c4290709a8878bc7d87c0eb96b65",
+    "date": "2026-06-02T09:58:30+08:00",
+    "path": "/nix/store/ygsp09f05ba19nmzzb3hgn76f2vasc2h-zed-json-tool-12e5a2b",
+    "sha256": "0y3p7lx299lhq94kgbj3dnva0mr13iz05c43zinxwv1nr8qhpkx9",
+    "hash": "sha256-qc8LMco2bN5t/IOwAn4cIVegtm1DrjdJwpCmJDo9d3g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-b8wMEBhh5PvsFxxQSkUX2hes2xTWKF1UohbW5I4wPr0="
+}

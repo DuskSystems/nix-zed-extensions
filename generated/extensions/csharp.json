@@ -1,0 +1,24 @@
+{
+  "name": "csharp",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/zed-extensions/csharp",
+    "rev": "6e5c21a255270fa0bbea437d4b90b5b523c58922",
+    "date": "2026-06-12T07:05:40Z",
+    "path": "/nix/store/1fazva2lymbk7mgij07pys7mh8hn1zhc-csharp-6e5c21a",
+    "sha256": "189v94xykiir393fflc4mkbcrnfhacrcmqrlx6hvhhqn942c9xwf",
+    "hash": "sha256-jvfEBEkWQ7ih6TTjyjJT0NnM1qyEUedGGjnG6TtJO6E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "csharp_c_sharp",
+    "csharp_xml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-ir4jgz1+ycFZsYXvgWv5nUcfXfm6a+dDTJSuxrYx4hY="
+}

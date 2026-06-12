@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-memory",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/robin-afro/zed-mcp-memory",
+    "rev": "ca22930e96baea8d926f9fe30c84febb6e65eef1",
+    "date": "2026-03-08T14:13:11+01:00",
+    "path": "/nix/store/wf5ycycwrn2dnb1pg679zd2lly9ppl1r-zed-mcp-memory-ca22930",
+    "sha256": "16ni03qg30kfm1gzcmzlgvapx7yg43av32saqbgvv7hd6x1kysch",
+    "hash": "sha256-kGk/QzcNnr3fwkqLsdUgz59+1X70V/ZfqG6C8fAA0Zo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-PGLQKkUvc/BQ1UzSWxZIiSC2LhlKrTo/WiNrHbdBC8I="
+}

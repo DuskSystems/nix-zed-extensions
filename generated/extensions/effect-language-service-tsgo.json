@@ -1,0 +1,21 @@
+{
+  "name": "effect-language-service-tsgo",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/RATIU5/zed-effect-tsgo",
+    "rev": "eb272c95fc2e53c929695e70133e2775173ecaab",
+    "date": "2026-06-03T12:23:30-06:00",
+    "path": "/nix/store/pi5fp21f5msw6j889xxv6dqq8v87drdk-zed-effect-tsgo-eb272c9",
+    "sha256": "16y3i1njfcvqs7z37h4rps3gvd9z5bfk8swj7kmgq0abwkc3alf2",
+    "hash": "sha256-wlE12ORLAfzqPJJrNN0qP7X9hr6ZwDP+0XgzJ22Iw5s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-7Tco673F2zmBmbj81/q25Mvh6+vWDFu4l22Z+lk8kz8="
+}

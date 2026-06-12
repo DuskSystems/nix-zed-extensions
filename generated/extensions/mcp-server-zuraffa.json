@@ -1,0 +1,25 @@
+{
+  "name": "mcp-server-zuraffa",
+  "version": "5.1.1",
+  "src": {
+    "url": "https://github.com/arrrrny/zuraffa-zed",
+    "rev": "fc33a053c1bf67d600ac7af814f08448cfaa761b",
+    "date": "2026-06-12T07:41:42+03:00",
+    "path": "/nix/store/dmch0wzk7dri87xiinch6mzilfg38iac-zuraffa-zed-fc33a05",
+    "sha256": "1k0npg49z4q9gnikybw2li4i64af0zn1fgpkam6wpgkxbz9g6fz5",
+    "hash": "sha256-5Tvz0l99vstNVfM+F+wHThETSaSCLz+jfQmTn8i7Fsw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-cBVxC0amOFK7lvBBjtV5EirIYt56wPLgN5q9p/PVMMM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mcp-server-zuraffa.lock",
+    "outputHashes": {}
+  }
+}

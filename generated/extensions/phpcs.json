@@ -1,0 +1,21 @@
+{
+  "name": "phpcs",
+  "version": "0.4.3",
+  "src": {
+    "url": "https://github.com/mike-bronner/zed-phpcs-lsp",
+    "rev": "93338a43feaeb7f9698514b35bc51ff602e74efb",
+    "date": "2026-05-31T20:51:39Z",
+    "path": "/nix/store/pmd459fmm2vycggp2akigsq85qi3zv7i-zed-phpcs-lsp-93338a4",
+    "sha256": "0xlzhbm9fscmrbxqvzqgci2zdv575g0q9y7b551wg4xj98lrj584",
+    "hash": "sha256-BBWZKUqyk8dDKev4hMErp+z2RWQP/437ypVpl+qCn3Y=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-kQUYyuzHX+BTgX9Ai16nk3ZqAlsZJVgSGYnHeqISe9c="
+}

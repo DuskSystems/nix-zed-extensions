@@ -1,0 +1,21 @@
+{
+  "name": "react-component-lens-lsp",
+  "version": "1.0.5",
+  "src": {
+    "url": "https://github.com/dev-five-git/react-component-lens",
+    "rev": "9a3c82dfd8db3b69935a8f42a38e796c3a0656c6",
+    "date": "2026-06-09T11:06:16+09:00",
+    "path": "/nix/store/0gy6ay3sz20dkqdm0nnwvcgjcixbnhgn-react-component-lens-9a3c82d",
+    "sha256": "0069xxsd4qpi8l7cd639786x1byy4d8slxkwzb4hbf7b38xc57xy",
+    "hash": "sha256-vp/COhrruAXJ+nx2qlEj3q/QDTppmMYORfFi0nTvyQA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "packages/zed",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-T4M9tmSIc7grZ9Iq/yIXzt1TKGQo6apCZjUIlgNWdI0="
+}

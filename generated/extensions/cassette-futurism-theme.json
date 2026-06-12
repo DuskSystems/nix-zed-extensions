@@ -1,0 +1,19 @@
+{
+  "name": "cassette-futurism-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/taotao7/cassette-futurism-theme",
+    "rev": "6e0f4b2db23b8c20d1cb6d64146b7b231703dd1e",
+    "date": "2026-04-30T10:27:38+08:00",
+    "path": "/nix/store/ak2jyqhrdcw26bciv3xz1nm0x6xc0dn0-cassette-futurism-theme-6e0f4b2",
+    "sha256": "07z07mjdm1sn792fksdqw7qw622ipzfx9wws6jiisi3sx9117fzj",
+    "hash": "sha256-8rsTQup6RB2jNJrz1N2/UQjD8eG46elEOlaH2mQ94B8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

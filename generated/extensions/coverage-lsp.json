@@ -1,0 +1,21 @@
+{
+  "name": "coverage-lsp",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/fargies/coverage-lsp",
+    "rev": "a90672e29bbab89c875d80f1d94f441e2717c19c",
+    "date": "2026-05-29T16:51:09+02:00",
+    "path": "/nix/store/s4rc9xks3gf9rfqlnqiwminlrc5qr2ri-coverage-lsp-a90672e",
+    "sha256": "0dijw5x56mzk90rwdad9ybwajjsq8slabgl4zfbnyhvg9z28wp48",
+    "hash": "sha256-iFyOxE9vQ2+X+4S+pahGWEup+PKpqcYzSPNXU3rhMjY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed-coverage-lsp",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-lIA7y9zEosjewxqF+O9nv/XG1C0Pj6q8GYa2IlWs6zg="
+}

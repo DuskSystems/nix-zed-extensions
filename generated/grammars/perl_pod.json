@@ -1,0 +1,18 @@
+{
+  "id": "perl_pod",
+  "name": "pod",
+  "version": "cd1931314beafeebc957964c65802961e283411e",
+  "src": {
+    "url": "https://github.com/tree-sitter-perl/tree-sitter-pod",
+    "rev": "cd1931314beafeebc957964c65802961e283411e",
+    "date": "2026-05-31T20:49:39Z",
+    "path": "/nix/store/0nh9iva597d0gj0navbga7k7l950m9ka-tree-sitter-pod-cd19313",
+    "sha256": "09px7py3qb0xbc6byffgj1z91wx9gfjyklpvrins24if05qdb8bw",
+    "hash": "sha256-fKHVcAEuEqFtzPvS6aV7qfOQfpDPOb8MWx0sPPw9/SY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

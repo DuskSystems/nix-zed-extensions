@@ -1,0 +1,18 @@
+{
+  "id": "awsum_awsum",
+  "name": "awsum",
+  "version": "cf5ab281edcc4df07da9f47ad795dc86a492dbea",
+  "src": {
+    "url": "https://github.com/awsum-lang/tree-sitter-awsum",
+    "rev": "cf5ab281edcc4df07da9f47ad795dc86a492dbea",
+    "date": "2026-06-03T16:57:34Z",
+    "path": "/nix/store/kqmw2cj3ffqc5wznb4pnylha35xif0b7-tree-sitter-awsum-cf5ab28",
+    "sha256": "0d214i0l6bhji7mfr1lv5qj4ncgyxd0kxafm4hv53sv5f16y7zw1",
+    "hash": "sha256-gf/jTXBl61E2JNWpPkHr/jFLJC6bhuzqiRIuQ0EkQTQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

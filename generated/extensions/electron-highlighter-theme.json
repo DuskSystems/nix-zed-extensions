@@ -1,0 +1,19 @@
+{
+  "name": "electron-highlighter-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/electron-highlighter/zed",
+    "rev": "4e5d46fce3c1f526e55223b331d5930ec5289cbf",
+    "date": "2026-06-05T15:38:10-05:00",
+    "path": "/nix/store/mncck9hnl28ji10ingsdby3px72p15xx-zed-4e5d46f",
+    "sha256": "1dkjmny225d491nwbwqhkigbphkmp26mzsz6xnmimaklcgcpwmhv",
+    "hash": "sha256-G1Z+2WN0qhqr7ebrX424dcK7XpwQ88VtSKQVIbytcrY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

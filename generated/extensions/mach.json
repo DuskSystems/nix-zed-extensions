@@ -1,0 +1,27 @@
+{
+  "name": "mach",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/octalide/mach-zed",
+    "rev": "6485e694e8daad983a5ec91f7acfd23662e03d09",
+    "date": "2026-06-08T15:00:29-04:00",
+    "path": "/nix/store/chqdrcdyhszad1zfn7i3l2nfyn5bgiln-mach-zed-6485e69",
+    "sha256": "0vpd6kxx3vkaavrl5dj7f6c1f7p1kgvw57b8dm3mx19j3y095r49",
+    "hash": "sha256-ieSSgB8yhV5HbWidwveb4R4XmHFHtkLzVmru0fs07W4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "mach_mach"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-9IJ1NKFUFl7qpUTauuyyn7Om7vG9TfDqhXx2EWwxYkA=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/mach.lock",
+    "outputHashes": {}
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "urdf",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MorningFrog/zed-urdf",
+    "rev": "3b5e645201bf4fb2545afba8cacdfd6742955f81",
+    "date": "2026-03-26T21:36:19+08:00",
+    "path": "/nix/store/pdkaaxiw1crscd0dfg98vw6yknjng8rg-zed-urdf-3b5e645",
+    "sha256": "09nkcxy7ks8bm260j5amvygc32hg7xmzq9xwz1iyky7a45smb157",
+    "hash": "sha256-p4RVdSHq+Olj+Lwn/Gs/D4rBnt9VFQmMqAvpeXxn0yY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "urdf_xml"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-L+vDLPeobBuQVda9R8XXDXPCLlGUrCa8ZG6fIgh7vrw="
+}

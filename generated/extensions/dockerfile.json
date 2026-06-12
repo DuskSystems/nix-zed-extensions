@@ -1,0 +1,23 @@
+{
+  "name": "dockerfile",
+  "version": "0.2.1",
+  "src": {
+    "url": "https://github.com/zed-extensions/dockerfile",
+    "rev": "f4dc044f15bae9c1b370142764f803b84e860ec7",
+    "date": "2026-06-09T11:01:10Z",
+    "path": "/nix/store/7ykq3hw6i746i289licds0is2z0b9bb8-dockerfile-f4dc044",
+    "sha256": "0d4gkrxqx9yrlmf48aj7dbzqni2x0shx243wq8fdl2qx1gviy9ss",
+    "hash": "sha256-Wicf9wsdC9ocwnwQ0aEGXUSL/2pHKkRcpdmnjnuejzQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "dockerfile_dockerfile"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-04PminTKmSAgdwz/Ie184WxcGhx7dbjsKwLTKK9tT4o="
+}

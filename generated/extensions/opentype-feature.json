@@ -1,0 +1,21 @@
+{
+  "name": "opentype-feature",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/mishamyrt/zed-opentype-feature",
+    "rev": "38050d87125d2d40fe6d4fc1924543033fc6a8c7",
+    "date": "2026-06-12T13:43:33+03:00",
+    "path": "/nix/store/a37a7g0i6dib0zcs3bkbksa7al5srk9j-zed-opentype-feature-38050d8",
+    "sha256": "083gmqcv9ab353az9bskq17sw4bpg1j7pinl193m9h84vl7nkpjp",
+    "hash": "sha256-V95pD90EwVRHCtTGe2R4dxGuT8BTr/TVKGOptBmubyA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "opentype-feature_fea"
+  ],
+  "kind": "plain"
+}

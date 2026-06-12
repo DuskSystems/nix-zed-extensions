@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_odoc_mld",
+  "name": "odoc_mld",
+  "version": "2eafb2a4732b2029d03534ccb0df9134b2577161",
+  "src": {
+    "url": "https://github.com/manenko/tree-sitter-odoc-mld",
+    "rev": "2eafb2a4732b2029d03534ccb0df9134b2577161",
+    "date": "2026-01-28T11:39:40+01:00",
+    "path": "/nix/store/ljxivhdhj90xfmghx70k93fz2p3mljw3-tree-sitter-odoc-mld-2eafb2a",
+    "sha256": "17rk642i814hh6fnr5gv6bkyb8dzg6zwq1rmx59y575gbbfykznn",
+    "hash": "sha256-1v7p3VqvnOJT6TUHzL95v6Hl5zL7lWydgZAEFAUxM58=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

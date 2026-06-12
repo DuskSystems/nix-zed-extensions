@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_ocamllex",
+  "name": "ocamllex",
+  "version": "c5cf996c23e38a1537069fbe2d4bb83a75fc7b2f",
+  "src": {
+    "url": "https://github.com/314eter/tree-sitter-ocamllex",
+    "rev": "c5cf996c23e38a1537069fbe2d4bb83a75fc7b2f",
+    "date": "2025-03-08T23:36:49+01:00",
+    "path": "/nix/store/arycgfgqhq0rb6bcxgbzksj7c6kd0z1r-tree-sitter-ocamllex-c5cf996",
+    "sha256": "0v82nz6ag8b0n58wdif1jykp67s2v75jy188r3xw478anr652ckq",
+    "hash": "sha256-eDJRTLYKHcL7yAgFL8vZQh9zp5fBxcZRsWChp8y3Am0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

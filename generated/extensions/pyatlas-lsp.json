@@ -1,0 +1,21 @@
+{
+  "name": "pyatlas-lsp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/Akamine2001/zed-pyatlas",
+    "rev": "4905511008cd87ea462f15476111e01e5b977f57",
+    "date": "2026-04-29T13:09:25+09:00",
+    "path": "/nix/store/10bx75wvgl60h686asvs27yvyfjbbjxl-zed-pyatlas-4905511",
+    "sha256": "19c59fmn0ffacpgxj9j58sbzv44b7kz6sflzv9347rgisycqdm12",
+    "hash": "sha256-ItSGmdfx5UNG2p86bf48i5D9l0ZFJtnfZco5YKtLhaU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Dz0dCJ9yPVvPV1Q1Ekvq+OI7cHXIrGpimbNBTAbOo4Y="
+}

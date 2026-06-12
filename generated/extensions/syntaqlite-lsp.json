@@ -1,0 +1,25 @@
+{
+  "name": "syntaqlite-lsp",
+  "version": "0.5.10",
+  "src": {
+    "url": "https://github.com/LalitMaganti/syntaqlite",
+    "rev": "6f2cd0485db1d802de9840116489bf8ff8439b27",
+    "date": "2026-05-31T03:19:28+01:00",
+    "path": "/nix/store/cnqi6qcvfc4s3baifyq6175hk83bmpc8-syntaqlite-6f2cd04",
+    "sha256": "0zv7pn0h8zhp5xvx8q3dbvc5xwqvvqdhgkkw9630r08fa47pnihj",
+    "hash": "sha256-EkZ7D1EOgQyGSXzOBxveG/Ne2F5tYNR3Lxd+BIG9Z38=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "integrations/zed",
+  "cargoHash": "sha256-ffTzxly5nFpA94VBmXGTHj8gq3y3MRxftGLFTy+sG8w=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/syntaqlite-lsp.lock",
+    "outputHashes": {}
+  }
+}

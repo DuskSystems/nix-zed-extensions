@@ -1,0 +1,18 @@
+{
+  "id": "java_properties",
+  "name": "properties",
+  "version": "579b62f5ad8d96c2bb331f07d1408c92767531d9",
+  "src": {
+    "url": "https://github.com/tree-sitter-grammars/tree-sitter-properties",
+    "rev": "579b62f5ad8d96c2bb331f07d1408c92767531d9",
+    "date": "2025-01-02T19:23:46+02:00",
+    "path": "/nix/store/jcv3bg7w4r0y7a2fm20sr25ahqppx2s3-tree-sitter-properties-579b62f",
+    "sha256": "0y2w3szzmn4y6m0fh0zi4xqfwr9lm849abrpsi3i3dlz9rnhcs71",
+    "hash": "sha256-4WgGbU6fthFH1DcvlQiqNGXucCfxA+hANZ7Y+r8eXHg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

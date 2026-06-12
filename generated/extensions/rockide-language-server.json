@@ -1,0 +1,21 @@
+{
+  "name": "rockide-language-server",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/rockide/rockide-zed",
+    "rev": "bec697e2f5bbd758ccdd1acaada6f1311f753c1b",
+    "date": "2026-06-02T10:08:48+07:00",
+    "path": "/nix/store/bjg0kb68rm2xabwjbk8y0qyc6rkviwhd-rockide-zed-bec697e",
+    "sha256": "1vy0h6z6ywj7cw2icj3fmv4r7vi9k2h03k5n8y2xzk2ja55cib7k",
+    "hash": "sha256-86zISlFSzN+FR7bMAaCYKe6Tya5uSBYFZ0dyb76BwO8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-54ysQTXA0tn4JeQKg799p0SjfN4Ijt1xQeHfV7f1g98="
+}

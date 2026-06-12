@@ -1,0 +1,21 @@
+{
+  "name": "package-json-upgrade-lsp",
+  "version": "0.1.7",
+  "src": {
+    "url": "https://github.com/Arthurmtro/zed-package-json-upgrade",
+    "rev": "5e481cd1a7cdf6829c5ef6b95bef45a28723b95c",
+    "date": "2026-06-12T10:38:06+02:00",
+    "path": "/nix/store/vkjq2g7alanpzq3xiaasymwz57h5ikj9-zed-package-json-upgrade-5e481cd",
+    "sha256": "15lss2jm8kmbg95vpqskwpwyjmsc8h4l1b70hgrshns5i4yn9qdi",
+    "hash": "sha256-seFkPYlFW6jzg+CsQAlETFfp+eVT47tLeqtOVKXQmpY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-dQqLoLYDgEDuQpN33Krbm6MYQ72HXNtiX69DcNiPRBQ="
+}

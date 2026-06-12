@@ -1,0 +1,18 @@
+{
+  "id": "haxe_hxml",
+  "name": "hxml",
+  "version": "6199e87f50afedab695de1c835430da424ed4ca9",
+  "src": {
+    "url": "https://github.com/Frixuu/tree-sitter-hxml",
+    "rev": "6199e87f50afedab695de1c835430da424ed4ca9",
+    "date": "2025-11-03T18:22:08+01:00",
+    "path": "/nix/store/xfcy3rslxppwjz5jzdplvl6pdcv9jxrj-tree-sitter-hxml-6199e87",
+    "sha256": "1llsc588ifr7gq1vklb29n9zkm5qbr2zkv7byv38h9civak5g1xq",
+    "hash": "sha256-uIdXptqRJYjG9uvs+UVeuNT5k01i0bkDfie7iFBhmtI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "path-server-lsp",
+  "version": "1.3.1",
+  "src": {
+    "url": "https://github.com/kunlinglio/path-server",
+    "rev": "2e24bd9d8c185f4fc0b8e9004e0bf1b81691d944",
+    "date": "2026-06-01T20:16:30+08:00",
+    "path": "/nix/store/5g2a85igsvfdn5hvnxh3m0hdsnzdy4j1-path-server-2e24bd9",
+    "sha256": "1f1xp752hfmy3vhdj43j2v3wls8r7hxcaqs94d7v10wnm04czxbg",
+    "hash": "sha256-b/XPCKiWg7BPI0ljxTo8GWnKxxZyENngHr46KMq5Pbg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed",
+  "cargoHash": "sha256-51jCdP55WyE9lqsBYtlYoiYK//xHCLVdVlfPlMr9yQ8="
+}

@@ -1,0 +1,21 @@
+{
+  "name": "pytest-language-server",
+  "version": "0.23.0",
+  "src": {
+    "url": "https://github.com/bellini666/pytest-language-server",
+    "rev": "c848ff9bca52a5d095acdf834f8c08e545f3f989",
+    "date": "2026-06-04T23:35:00+02:00",
+    "path": "/nix/store/ljf2yf41rhfwhbir9z68xgimpnil3mcn-pytest-language-server-c848ff9",
+    "sha256": "0968vcdndiwzk8k5zyv7b10g4k7hq131jrzkk1qhqb6bpp2qnwbf",
+    "hash": "sha256-bnGLxb3LLAxxmPNnGUbA8EzyQFhn+18mmp/HZhvbyCQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "extensions/zed-extension",
+  "cargoHash": "sha256-BBp0w7Gb+dUtvFGUMZTyIIbEuIvF6/dNH8oi5qN5tKs="
+}

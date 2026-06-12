@@ -1,0 +1,23 @@
+{
+  "name": "swift",
+  "version": "0.4.9",
+  "src": {
+    "url": "https://github.com/samuser107/zed-swift-extension",
+    "rev": "4834a65dcd8a8d81ff4914289394e23e5eae0dc4",
+    "date": "2026-06-04T13:04:37+02:00",
+    "path": "/nix/store/yhaxyd33mi118aynixj32prbix6cavdc-zed-swift-extension-4834a65",
+    "sha256": "0y1sv02a2s2pv8x891rbpr1kmzx3qzldl7q8qbhk9k6l69hmk94r",
+    "hash": "sha256-maRZYTLUzDThwggf2ujHo/86Q74rh4Q62ldooQTYOng=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "swift_swift"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pBqXTaxneIEsH/QOiaPnCU7IDWT/zKzpu6ZkCshZUlU="
+}

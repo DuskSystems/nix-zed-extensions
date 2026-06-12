@@ -1,0 +1,18 @@
+{
+  "id": "graphql_graphql",
+  "name": "graphql",
+  "version": "951bde9fb3145b5f676204231e35f8b21d21f7b3",
+  "src": {
+    "url": "https://github.com/11bit/tree-sitter-graphql",
+    "rev": "951bde9fb3145b5f676204231e35f8b21d21f7b3",
+    "date": "2024-03-12T08:54:10+05:00",
+    "path": "/nix/store/35gi2vav44y7lvr2q41j3cfggzfc4s6g-tree-sitter-graphql-951bde9",
+    "sha256": "0qylhijaqvnzw127jdzywc6494krrqz004ccy2xcyr5im70rd27i",
+    "hash": "sha256-8YiWwamxZM+68IwRAD7OeZJEDOP+N3lE4N9urGSE1GM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

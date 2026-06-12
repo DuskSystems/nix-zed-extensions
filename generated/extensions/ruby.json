@@ -1,0 +1,25 @@
+{
+  "name": "ruby",
+  "version": "0.16.13",
+  "src": {
+    "url": "https://github.com/zed-extensions/ruby",
+    "rev": "f9f461359f3049c6c7f29a21cf92d9366de50f95",
+    "date": "2026-05-26T19:35:30+02:00",
+    "path": "/nix/store/a0bz26fr9nmynldn7qxis704cbqq5fdy-ruby-f9f4613",
+    "sha256": "05r8b4kmg832smk2s7b931bxxwdhslhd89c5zj9z7ms6dkz133bi",
+    "hash": "sha256-cY0R/mxG1/OT/IUl1CDVsPHeVxhpHS1m1WKgVydZKBc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ruby_embedded_template",
+    "ruby_rbs",
+    "ruby_ruby"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-pnUetONgbI36a3IXDyK4VDZUNVmIF85qVuYBR65b/oQ="
+}

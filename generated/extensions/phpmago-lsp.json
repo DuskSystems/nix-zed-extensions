@@ -1,0 +1,21 @@
+{
+  "name": "phpmago-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/LirimSakura/zed-php-mago",
+    "rev": "b1e135ab1813dfcaa429a12ffdacb8726c225d16",
+    "date": "2026-05-31T22:10:12+09:00",
+    "path": "/nix/store/4gcs33na8bhpnig8ppbdh339hiwgm2rd-zed-php-mago-b1e135a",
+    "sha256": "0lq3kc2mpl002bycqqp2iqrm5h04y98w0lpyzqb27fpf770h927h",
+    "hash": "sha256-8IgEwTnuuiMW/v5SwFHyBMBSM47iYsz8EgDQWwWbA1M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "php-mago",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Ou54HS9YCHUq7Sc9UeTlGMDUl6fkCoFvAn0XV3VjGTs="
+}

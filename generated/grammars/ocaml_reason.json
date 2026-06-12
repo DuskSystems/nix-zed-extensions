@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_reason",
+  "name": "reason",
+  "version": "0226cfecaa2257d56d7c3f364f789cba042e403f",
+  "src": {
+    "url": "https://github.com/reasonml-editor/tree-sitter-reason",
+    "rev": "0226cfecaa2257d56d7c3f364f789cba042e403f",
+    "date": "2024-03-21T15:04:26-04:00",
+    "path": "/nix/store/kws36d5aqg7wp5szszw06x4li1gzhf22-tree-sitter-reason-0226cfe",
+    "sha256": "0cszn572hb6w0llidxcri7yg42vx7dwps23ss70b2g6g0j5bxx47",
+    "hash": "sha256-h/S+igTPPLHA0XoIfXk7fQvy/ImZ9RYpBdwsKE6xXzM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

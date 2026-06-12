@@ -1,0 +1,21 @@
+{
+  "name": "ebnf",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/louiss0/zed-ebnf",
+    "rev": "e71e83684f491ac77a5825bba86f26bbc3eeca34",
+    "date": "2026-03-30T20:41:54-04:00",
+    "path": "/nix/store/phpp7arhd5dzggwa6g8ilshgzzmcynbd-zed-ebnf-e71e836",
+    "sha256": "0nj7hi5glxpim5ykhicvarmf7c6y3da5yas21vp2q3nyyl5rbaxf",
+    "hash": "sha256-rquVC/XeDizuDkIrX1Qb3rDjalabRTh9qfF2+kqER1o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "ebnf_ebnf"
+  ],
+  "kind": "plain"
+}

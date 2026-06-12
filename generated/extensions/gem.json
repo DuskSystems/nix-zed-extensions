@@ -1,0 +1,21 @@
+{
+  "name": "gem",
+  "version": "0.0.5",
+  "src": {
+    "url": "https://github.com/mantou132/gem",
+    "rev": "818cdf3e1910a93876856f6fc09d83857d7c16bd",
+    "date": "2026-06-07T20:55:03+08:00",
+    "path": "/nix/store/0sablqwz0w7ki7cq0fgk3jrk04yvy9ax-gem-818cdf3",
+    "sha256": "0947hwyw08wipcfbfr5ir2nlydhrizlm20fq1ndd4hls04iyjs1z",
+    "hash": "sha256-P2jpIwGaQtKaDdgBUemPGTZPrcixZLccu5EjwD2HhyQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "crates/zed-plugin-gem",
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-Bz69Sklr4uOQz5v6SfOMfmLzxsJ958dJn1m2Husjtys="
+}

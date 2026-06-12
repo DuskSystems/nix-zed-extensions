@@ -1,0 +1,25 @@
+{
+  "name": "laravel",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/mike-bronner/zed-laravel",
+    "rev": "52aba011db07c32431657eff6db077c4721ba8e2",
+    "date": "2026-06-10T17:22:44Z",
+    "path": "/nix/store/mydmpmjrlwciqm658vb1mqqraa9iqw4f-zed-laravel-52aba01",
+    "sha256": "0ygnq2c1jlcvxf7rnjg57d7g9xil5s1crkpi6xi1yy7n6iycc7zl",
+    "hash": "sha256-9B/GfDT2eB9iN/HOzIIuNPb0TjvlSZuP65tRGZjA9nk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-JG8CEnjK7/Ly80Xil6GcU5jBdqIUcTQXttZH8Z5ytX4=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/laravel.lock",
+    "outputHashes": {}
+  }
+}

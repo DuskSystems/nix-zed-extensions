@@ -1,0 +1,21 @@
+{
+  "name": "rlsp-yaml",
+  "version": "0.1.2",
+  "src": {
+    "url": "https://github.com/chdalski/rlsp",
+    "rev": "070647fc7a8d23a6b77b17eff5383685bdef3316",
+    "date": "2026-06-08T14:04:51Z",
+    "path": "/nix/store/6y15zm0r078s06jahjjm3hm5ka8dlnad-rlsp-070647f",
+    "sha256": "15xy8pq3g9aqiiy43bsd4gzaqh524asdzc3im32dw8wvz2hg5qdz",
+    "hash": "sha256-v+HyoPibI97EqHGw37QiokCs/iNNr0F8jFilN/BFvpc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "rlsp-yaml/integrations/zed",
+  "cargoHash": "sha256-CeisFJQmXWf5ipWGCRu3wm0f9xrQ+lHttgBfsi2pslg="
+}

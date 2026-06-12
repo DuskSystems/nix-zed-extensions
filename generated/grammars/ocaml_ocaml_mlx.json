@@ -1,0 +1,18 @@
+{
+  "id": "ocaml_ocaml_mlx",
+  "name": "ocaml_mlx",
+  "version": "fbe904bbf55be15d34b57ba9c45750fc5187960f",
+  "src": {
+    "url": "https://github.com/ocaml-mlx/tree-sitter-mlx",
+    "rev": "fbe904bbf55be15d34b57ba9c45750fc5187960f",
+    "date": "2024-07-26T10:22:57+04:00",
+    "path": "/nix/store/sy42p9gsng0vgf7yn8bd16mm30qd9b14-tree-sitter-mlx-fbe904b",
+    "sha256": "04z81g213qidnhy3vn8arfpk9s4zzi6sfgmh3x7fvfvwazkr09m1",
+    "hash": "sha256-oSaQ51d8u+1OH7A+p038n+g0r8sK2T08tC3iEcQL6BM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammars/mlx"
+}

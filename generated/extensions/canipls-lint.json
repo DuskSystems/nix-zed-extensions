@@ -1,0 +1,21 @@
+{
+  "name": "canipls-lint",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/taylorplewe/canipls-zed",
+    "rev": "468882f282d5b44e59d9e5742f03db88eaec0372",
+    "date": "2026-05-27T15:13:41-06:00",
+    "path": "/nix/store/1a7ya2h213ma4rhfnfk8aicykm35x9hq-canipls-zed-468882f",
+    "sha256": "1mbz3mmlz1cm0463awx154sdqkvk3ccwpvjjpnbsagyj8lhd9apf",
+    "hash": "sha256-7qrUIEXSP6WXvVLuyxkbc0/cNCmhczUMAZWFT2sdf9U=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-/0XisYLjOwzp/QK5U6K+wK76DZScE9mpxFHkZGLDljY="
+}

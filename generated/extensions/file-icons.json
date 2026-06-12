@@ -1,0 +1,19 @@
+{
+  "name": "file-icons",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/toxblh/zed-file-icons",
+    "rev": "0f69b232313bbcb7a51ba5f4c796b6453dffd1ed",
+    "date": "2026-03-25T16:26:53+03:00",
+    "path": "/nix/store/6ig0gj4xasp9vhadvxrf3dgxga4jfs6v-zed-file-icons-0f69b23",
+    "sha256": "19rl5r33d3fx21w9lsf755w3pgpz1b59xl4cd86kphbdkpy80dgh",
+    "hash": "sha256-8DWA/J1twTsNaozQnsoK/747eCnHaZp4EN2NNkYuNKc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
