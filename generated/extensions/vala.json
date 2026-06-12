@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-aFFBSMi4vOJpMUS0HCK1IlG80ysDmfXawgWwurqxkkY=",
+  "cargoHash": "sha256-EXQTQnsOyDJlDUb2/4Riq8/MxwPruUdZkOlvPV3LYgU=",
   "cargoLock": {
     "lockFile": "/generated/extensions/vala.lock",
     "outputHashes": {}

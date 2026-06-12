@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Of1TelhIqxslLBLnsbJIRjKHAjqxCnX40c8W/uqKGkk=",
+  "cargoHash": "sha256-vBN4wQE7Z9wxIeAh4TesGUP7muoNV+89pz6N4rIZN9Y=",
   "cargoLock": {
     "lockFile": "/generated/extensions/devglobe-activity-ls.lock",
     "outputHashes": {}

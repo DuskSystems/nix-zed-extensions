@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-BPWSkR8mV25pL9rsXZSszysfiDsAJ6oHTb9V+dTCYgo=",
+  "cargoHash": "sha256-QFIPbcpi//8/Ry6haE9gnvHOYxINhOh23bccysJsq/c=",
   "cargoLock": {
     "lockFile": "/generated/extensions/fortran.lock",
     "outputHashes": {}

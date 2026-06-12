@@ -1,13 +1,13 @@
 {
   "name": "d",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "src": {
     "url": "https://github.com/staysail/zed-d",
-    "rev": "302b527b078d9d3b72abd81698fc5bece6420dbe",
-    "date": "2025-04-09T09:32:26-07:00",
-    "path": "/nix/store/9ra3krj8w14rm1zi0yw69ghqy5x10dz6-zed-d-302b527",
-    "sha256": "0lkary22mps30ml5m4phh6qdw1yg87xpl1xqpzrs9mp167qv7n86",
-    "hash": "sha256-Btmz8THh1qTzv7gHevtBzwfesIHwklpoBUPfKoTPalI=",
+    "rev": "743f03c2cc9908f8fbd32bd7db4f04ebe0e2be3a",
+    "date": "2026-06-20T18:08:36-07:00",
+    "path": "/nix/store/syvgl99gddgsrh8h6pkw8nbip9sk93zj-zed-d-743f03c",
+    "sha256": "1px9lkqxjmfvwdfbcszy4z8df9nkqgzf71d83ai208za1iknd54s",
+    "hash": "sha256-mpRmZwzqIyCiGqiF4/7D0ybX0Cf+a7Zc49tV2fGkqd8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-2fSwDvoUwtJPRLVbd1NkCl8by5bxH0AYeDg/4iGn9c0=",
+  "cargoHash": "sha256-twyiD71XFe6g3N6uAOC5ifbGlVmyKewJxt3eIRZ9t/4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/d.lock",
     "outputHashes": {}

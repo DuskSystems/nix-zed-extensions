@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-LbN4wtoqx8acERSm1xq8UN4F1uuaXg7WUJNFA5Uc5J8=",
+  "cargoHash": "sha256-myAoWXguUV/8rirEAVX+Z/5x+lU2DwhhnMXAa4nMmvk=",
   "cargoLock": {
     "lockFile": "/generated/extensions/edge.lock",
     "outputHashes": {}

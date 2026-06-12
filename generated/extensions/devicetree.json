@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-dCZgJ0868ISVj4RSRLTC/oXZjVCMbaPwfdA3jZ8cYAI=",
+  "cargoHash": "sha256-FTe1Dc51s9xcYjlTT2WcngmDBgx9llUMSqms++yGd6E=",
   "cargoLock": {
     "lockFile": "/generated/extensions/devicetree.lock",
     "outputHashes": {}

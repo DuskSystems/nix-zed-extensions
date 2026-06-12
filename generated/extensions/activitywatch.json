@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-/m5Zn9xSIad4eutXweVGy2TvSbjnh5kflyrgM5mMsHI=",
+  "cargoHash": "sha256-GRqsv5K6UVjopJAfQ9kpG3F5ryC7Cy2GoEKY3cQZZWo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/activitywatch.lock",
     "outputHashes": {

@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-OleGRZS4Zd+qH7JrAAd3Df0/SzdDGH5qFNC0k24z66w=",
+  "cargoHash": "sha256-OmIqaaPEd79u/y4FRUToT23v5CrLxPlxSPGntjn2+7g=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-buildkite.lock",
     "outputHashes": {}

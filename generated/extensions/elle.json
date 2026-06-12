@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-Ff/hYJRE/PHQ29fDxCez8Q63/JLUY8BeF6JoM4HLrsc=",
+  "cargoHash": "sha256-O8omYXEblDY5x2sBx1vkkftxUv2VwQ5Pf4W1ekxGgm4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/elle.lock",
     "outputHashes": {}

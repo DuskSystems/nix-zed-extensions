@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "integrations/zed",
-  "cargoHash": "sha256-ffTzxly5nFpA94VBmXGTHj8gq3y3MRxftGLFTy+sG8w=",
+  "cargoHash": "sha256-Ki3Rn8cFocd+TyZ+m3Q8qHijfB/s/s+nQaz1lN8nI6U=",
   "cargoLock": {
     "lockFile": "/generated/extensions/syntaqlite-lsp.lock",
     "outputHashes": {}

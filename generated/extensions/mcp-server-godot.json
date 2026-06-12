@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-83twnMOjtBQQnXdmJYLqi6qRjiUKaMawzktGVns0m30=",
+  "cargoHash": "sha256-p/Sf1k/HfrQ2AZdJrGML+pzI8go4k2r2J0a7Mwyg73Y=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mcp-server-godot.lock",
     "outputHashes": {}

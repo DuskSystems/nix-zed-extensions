@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-JngOupREOHbR1uINS5NfLzflYQfulXowAu/WrjpAuXo=",
+  "cargoHash": "sha256-GmQuYXcL6GB/DqpuW/cNCI5HFlZrVIfgyyi3orHWBG4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/emoji-completions.lock",
     "outputHashes": {}

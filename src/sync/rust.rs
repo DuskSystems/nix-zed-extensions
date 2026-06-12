@@ -1,12 +1,12 @@
 use std::{
-    collections::{BTreeMap, HashSet},
+    collections::BTreeMap,
     env::temp_dir,
     num::NonZero,
     path::{Path, PathBuf},
     sync::Arc,
 };
 
-use cargo_lock::{Lockfile, SourceId};
+use cargo_lock::Lockfile;
 use futures_util::stream::FuturesUnordered;
 use serde_json::Value;
 use smol::{fs, lock::Semaphore, process::Command, stream::StreamExt};
@@ -122,21 +122,6 @@ async fn process_cargo_lockfile(
         return Ok(true);
     }
 
-    let lockfile = fs::read_to_string(&workspace.lockfile).await?;
-    let mut lockfile: Lockfile = toml::from_str(&lockfile)?;
-
-    let has_git_deps = lockfile
-        .packages
-        .iter()
-        .any(|package| package.source.as_ref().is_some_and(SourceId::is_git));
-
-    if has_git_deps {
-        tracing::info!("Lockfile has git dependencies, storing copy");
-        deduplicate_lockfile_packages(&mut lockfile);
-        fs::write(&stored_lockfile, lockfile.to_string()).await?;
-        return Ok(true);
-    }
-
     if stored_lockfile.exists() {
         tracing::info!("Removing old stored lockfile");
         fs::remove_file(&stored_lockfile).await?;
@@ -237,10 +222,7 @@ async fn calculate_cargo_output_hashes(
     let mut output = BTreeMap::new();
     let mut futures = FuturesUnordered::new();
 
-    let limit = std::thread::available_parallelism()
-        .map(NonZero::get)
-        .unwrap_or(1);
-
+    let limit = std::thread::available_parallelism().map_or(1, NonZero::get);
     let semaphore = Arc::new(Semaphore::new(limit));
 
     for package in lockfile.packages {
@@ -318,38 +300,4 @@ async fn calculate_cargo_output_hashes(
     }
 
     Ok(output)
-}
-
-// HACK: Remove once 26.05 is the baseline.
-fn deduplicate_lockfile_packages(lockfile: &mut Lockfile) {
-    let keys: HashSet<(String, String)> = lockfile
-        .packages
-        .iter()
-        .filter(|package| package.source.as_ref().is_some_and(SourceId::is_git))
-        .map(|package| (package.name.to_string(), package.version.to_string()))
-        .collect();
-
-    lockfile.packages.retain(|package| {
-        let Some(source) = &package.source else {
-            return true;
-        };
-
-        // Keep all git packages.
-        if source.is_git() {
-            return true;
-        }
-
-        let key = (package.name.to_string(), package.version.to_string());
-        if keys.contains(&key) {
-            tracing::info!(
-                name = %package.name,
-                version = %package.version,
-                "Removing duplicate entry"
-            );
-
-            return false;
-        }
-
-        true
-    });
 }

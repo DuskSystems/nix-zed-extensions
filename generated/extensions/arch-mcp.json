@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-KxCf2BPKrmxHyU9nUY3+BFfdDd7CBLdcyIkn2Gz6LQc=",
+  "cargoHash": "sha256-qP0F0s4pdWsDa2DrXX6qZQQAyMmCXefoDA3bWaGomjs=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arch-mcp.lock",
     "outputHashes": {}

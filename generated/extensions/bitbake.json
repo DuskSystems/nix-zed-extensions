@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-H6hB7msC8Yc7JdaGRHqu1dzBbngmNSwSmCawXK5eSlw=",
+  "cargoHash": "sha256-fUcGnBYxpgWUJm87EbNkCl18iCNiHcyHIXiWy505BEc=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bitbake.lock",
     "outputHashes": {}

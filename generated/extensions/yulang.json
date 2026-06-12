@@ -1,13 +1,13 @@
 {
   "name": "yulang",
-  "version": "0.0.3",
+  "version": "0.0.10",
   "src": {
     "url": "https://github.com/momota1029/yulang-zed",
-    "rev": "1a1539286b4b7388c80d10947e719bc34b604175",
-    "date": "2026-05-12T11:42:52+09:00",
-    "path": "/nix/store/csk1m6c4phkb2ri0ih5wss6gq6c5wlx5-yulang-zed-1a15392",
-    "sha256": "1bp4232q5my1g1wxf25pbdigh3par0z9fjsdlzhcblaji7qjn2lq",
-    "hash": "sha256-mAor8YlS0cXgp01Llz7I6g74Ylu3CNd5eMHXgsUQ5K4=",
+    "rev": "69d02c2f59f1bec78d582c40cff86fb01a07ff09",
+    "date": "2026-06-19T20:08:16+09:00",
+    "path": "/nix/store/nhy2wih1ns71i1jpfviah4dgc11q0pkz-yulang-zed-69d02c2",
+    "sha256": "0qqvwd8m8qibgy5m2nsqppxxcvfb1wv7s1s6lbhkq24d041gcfrn",
+    "hash": "sha256-Njv2AgGNCDzhokYHfTYPy23W+71YW1GLfytiVFHjG2M=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,7 @@
   "grammars": [
     "yulang_yulang"
   ],
-  "kind": "plain"
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-iHpgGc04JadhvpUYV13acytglSIV3wmuDRz2sjV+fEE="
 }

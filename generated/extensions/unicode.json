@@ -17,11 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-2koCAbfWi0jKjjQWYKucN/E9nB2snKo7RMq6eV5z8GU=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/unicode.lock",
-    "outputHashes": {
-      "simple-completion-language-server-0.1.1": "sha256-1AeBdUu+NMkPmHkoZpcJGKpAqMe0SPjvuLuS93CxoRg="
-    }
-  }
+  "cargoHash": "sha256-2koCAbfWi0jKjjQWYKucN/E9nB2snKo7RMq6eV5z8GU="
 }

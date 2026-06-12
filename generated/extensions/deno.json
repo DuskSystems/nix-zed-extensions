@@ -1,13 +1,13 @@
 {
   "name": "deno",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "src": {
     "url": "https://github.com/zed-extensions/deno",
-    "rev": "7cf786403ba9860d07451f0f7a9ec6c850c1b31a",
-    "date": "2025-03-05T10:14:33-05:00",
-    "path": "/nix/store/6ablizxzwmxg0d0rf5hrh26f2dx4agz7-deno-7cf7864",
-    "sha256": "1pxsp5w61qxa4igdmphxx97kc9csqdf6953l9725ia8m831srhdy",
-    "hash": "sha256-vsGsw0AVqVjESXSUZFzDmiU2T+od3tpeJKrjYHi5ut8=",
+    "rev": "81590e950b4857bd31fe65b3c3fea6efc5542833",
+    "date": "2026-07-02T14:34:13+02:00",
+    "path": "/nix/store/2hl58vncnnk773bjpkqwzvmxj4png7rg-deno-81590e9",
+    "sha256": "1ibmaf5k1d26f24rg5awf1z1hxaw8klc116sq9ndv0nhvn36sql1",
+    "hash": "sha256-gWJtht3Qgt1swtqEwOhEXHUYfnBclZeJcEa0MItTdcU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-LQfuN44GPT/oMPAWf46wM6zsBOoR0o1dIecnZGRFSPs="
+  "cargoHash": "sha256-jR7lG/0mWMxCmLvypVKxl/LQTX3PV/dfnxpq9OrKxzU="
 }

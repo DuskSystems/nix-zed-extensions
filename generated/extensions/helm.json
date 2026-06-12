@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-aUlV6AObvDlksc8VtEqAHf6j4E6SQyqkbp42kuln3RU=",
+  "cargoHash": "sha256-L+ZBXSX4e/btpOXTOHZU8HBs8LbZNJdvEtBkgfv2ibI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/helm.lock",
     "outputHashes": {}

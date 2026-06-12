@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-mj29y2pbaLCVw5shoF8qIKfJBjW+pr/ckwa8nZfWNTE=",
+  "cargoHash": "sha256-n0hSQMEirpof38g8p+JR2f9sHngTHvteaA1hhrc/1Gw=",
   "cargoLock": {
     "lockFile": "/generated/extensions/luau.lock",
     "outputHashes": {}

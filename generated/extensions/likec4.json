@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-/Ei11atms3W9K44/J3O9FtvC6/FSVG4PWKuZpIliW/w=",
+  "cargoHash": "sha256-JRQQsKf8DXmJylQL6kvgk8gOwQUDDkBnVXhVHSGBAnU=",
   "cargoLock": {
     "lockFile": "/generated/extensions/likec4.lock",
     "outputHashes": {}

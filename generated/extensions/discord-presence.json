@@ -17,11 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-fkR43qGXSBiYgYmsQ+OJd2ICxD6bJ+P94v6ixRe5ebg=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/discord-presence.lock",
-    "outputHashes": {
-      "discord-rich-presence-1.0.0": "sha256-5R2rejoSnsC1tPu5FdmzjoJ9kK6VKNoiEqUgyoVi4YM="
-    }
-  }
+  "cargoHash": "sha256-fkR43qGXSBiYgYmsQ+OJd2ICxD6bJ+P94v6ixRe5ebg="
 }
