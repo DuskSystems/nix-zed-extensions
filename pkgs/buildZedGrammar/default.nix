@@ -1,7 +1,9 @@
 {
   lib,
   stdenvNoCC,
-  wasi-sdk,
+  pkgsCross,
+  llvmPackages,
+  lld,
   ...
 }:
 
@@ -34,7 +36,8 @@ lib.extendMkDerivation {
       inherit src version;
 
       nativeBuildInputs = [
-        wasi-sdk
+        llvmPackages.clang-unwrapped
+        lld
       ];
 
       buildPhase = ''
@@ -47,14 +50,20 @@ lib.extendMkDerivation {
           SRC="$SRC src/scanner.c"
         fi
 
-        ${wasi-sdk}/bin/clang \
-          -fPIC \
-          -shared \
+        clang \
+          --target=wasm32-wasi \
           -Os \
-          -Wl,--export=tree_sitter_${name} \
-          -o $out/share/zed/grammars/${name}.wasm \
-          -I src \
-          $SRC
+          -nostartfiles \
+          -nodefaultlibs \
+          --include-directory=src \
+          -isystem ${pkgsCross.wasi32.wasilibc.dev}/include \
+          --output=$out/share/zed/grammars/${name}.wasm \
+          $SRC \
+          "${pkgsCross.wasi32.wasilibc}/lib/libc.a" \
+          "${pkgsCross.wasi32.llvmPackages.compiler-rt}/lib/wasi/libclang_rt.builtins-wasm32.a" \
+          -Wl,--no-entry \
+          -Wl,--allow-undefined \
+          -Wl,--export=tree_sitter_${name}
 
         popd
       '';
