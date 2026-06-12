@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-xt/j7vVIzJ7t0YQLlGlRxktZhGZOEYp1/JKmSAPRxLA=",
+  "cargoHash": "sha256-i8brVja67Tl1EthsZfdej1uWw+CN/EJgfW81EHQg8RY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/tree-sitter-query.lock",
     "outputHashes": {}

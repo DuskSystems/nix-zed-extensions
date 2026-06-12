@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-v8VF0hxR4MormGAryTk+IOctunhpc3kq1121NsRSKfA=",
+  "cargoHash": "sha256-EL+VVhzTUvE+g8EorQFLnZ9wLegf7szK1AZal6GRZps=",
   "cargoLock": {
     "lockFile": "/generated/extensions/cadence.lock",
     "outputHashes": {}

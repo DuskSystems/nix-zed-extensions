@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-poNu9khEOuILobOsdXOL933KYmvOfiTg52/RIVyJVo8=",
+  "cargoHash": "sha256-bkBoNlYxEu4Pg1Y4MsFOTFY0fxrJ6Utq0v01/tNYei8=",
   "cargoLock": {
     "lockFile": "/generated/extensions/neocmake.lock",
     "outputHashes": {}

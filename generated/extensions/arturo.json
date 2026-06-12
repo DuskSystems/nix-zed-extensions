@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-r/Ra3NO/3ata8ZIXud1CdXfqI06q+WQUpOpLUTdu7Pk=",
+  "cargoHash": "sha256-H8no2cZrI6ipLTQr4PPwbO6DXrJilHlvBG/tY6aNfRM=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arturo.lock",
     "outputHashes": {}

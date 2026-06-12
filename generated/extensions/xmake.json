@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-1eFbGIIJCy6gpy6jSKENH1t1J3gmTBXbHzlPqmZLIKU=",
+  "cargoHash": "sha256-LaLEZ8NLjTmVXrjy73lfJfk8EZYeZu6Gb1DFeCMVkss=",
   "cargoLock": {
     "lockFile": "/generated/extensions/xmake.lock",
     "outputHashes": {}

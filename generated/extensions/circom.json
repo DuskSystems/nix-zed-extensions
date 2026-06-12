@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-RH2FOqPs+etKYqWXa4poFM7su3f+9Myn8bAVnq9TRUk=",
+  "cargoHash": "sha256-wW/VnpEPzFF6KFM/AJXIKBSEXTl2mropKi6v1q43Jyo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/circom.lock",
     "outputHashes": {}

@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-JCT3S/lLod6gq/zajD91IGHRHoZBxzy5+BMOLKqTMKc=",
+  "cargoHash": "sha256-+tfo16+mxdBs8FUgPC1j7zPZYE+7kIrbNXUTV3Kp+n0=",
   "cargoLock": {
     "lockFile": "/generated/extensions/laravel.lock",
     "outputHashes": {}

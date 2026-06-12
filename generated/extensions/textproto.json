@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-9pKYcogfhk4GdCQAzBgR/vbDax/ArcKzMG5ogC7R7J4=",
+  "cargoHash": "sha256-vQDAwPlvH3/iZUcYPYrI4bvICepRQ2Eat6S1MpatvJY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/textproto.lock",
     "outputHashes": {}

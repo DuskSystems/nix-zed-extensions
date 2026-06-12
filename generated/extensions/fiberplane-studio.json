@@ -17,12 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-86551BksVNpNLI5dIM/YWp8ztbpsDTOVf/PGfK5n1a4=",
-  "cargoLock": {
-    "lockFile": "/generated/extensions/fiberplane-studio.lock",
-    "outputHashes": {
-      "fpx-lib-0.1.0": "sha256-vd8AdbO6Xdq0kFQ4iWuBmJLBvTRv1Q8FUuBXshS9VRg=",
-      "fpx-macros-0.1.0": "sha256-vd8AdbO6Xdq0kFQ4iWuBmJLBvTRv1Q8FUuBXshS9VRg="
-    }
-  }
+  "cargoHash": "sha256-86551BksVNpNLI5dIM/YWp8ztbpsDTOVf/PGfK5n1a4="
 }

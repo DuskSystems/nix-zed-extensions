@@ -20,7 +20,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-8Fl+urcXBA/dcCPH7Ym46ZD27DEGWDz+aPiukuK/Gjc=",
+  "cargoHash": "sha256-GisTv9eRiOEenWR6RlVrSNZjLTfceutlF5TjM/xRrmw=",
   "cargoLock": {
     "lockFile": "/generated/extensions/bicep.lock",
     "outputHashes": {}

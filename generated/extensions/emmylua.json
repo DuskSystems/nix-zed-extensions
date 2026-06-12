@@ -20,7 +20,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-x3DZkqiBVNmKGYji8OUZubqQOYi38YQxg8SV00tALtc=",
+  "cargoHash": "sha256-RJ6M6J9CwaTaIInCQe5OnrNlDzSIK2CI0Aepw/vfHys=",
   "cargoLock": {
     "lockFile": "/generated/extensions/emmylua.lock",
     "outputHashes": {}

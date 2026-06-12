@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Fz2QhWk33QvSvTgAk8teQLcOphLX4o0hX4EbmVi68uo=",
+  "cargoHash": "sha256-kOxobqWMbGFNIlPKJpaJo2Fmc0l/ECkvv9P12LaDQJ8=",
   "cargoLock": {
     "lockFile": "/generated/extensions/soma.lock",
     "outputHashes": {}

@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Wx/IIuPqMMjcpMHHxbh0QF52f2pD0RSC5Qldz0o/ivg=",
+  "cargoHash": "sha256-XxWT5Axr2SN+XtTQUUJHCBupMrtWx0SL+VOP11fN98o=",
   "cargoLock": {
     "lockFile": "/generated/extensions/termux.lock",
     "outputHashes": {}

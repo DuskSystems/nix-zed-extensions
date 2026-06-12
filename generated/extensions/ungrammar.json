@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-qYiNXqfGGN8MguOQmD3blQCideA7paAawVkBedjjo7Q=",
+  "cargoHash": "sha256-3OUMfC4vohYv5gbvLBEvgDq6SfPIbECrwUd6tuZqiT4=",
   "cargoLock": {
     "lockFile": "/generated/extensions/ungrammar.lock",
     "outputHashes": {}

@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-bJWVxRKYN5ux7oLGGn43FnE0IGbqJ1LorJU4y5oZOtM=",
+  "cargoHash": "sha256-16ttn8/AFTHltr6v/k2AjWGxv0BkrCzPPwkx3kARbZA=",
   "cargoLock": {
     "lockFile": "/generated/extensions/dbt.lock",
     "outputHashes": {}

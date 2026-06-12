@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-4uEaGIYM1e2pzLSs1SroWc4cMTWCvjFBJLKtOY+XaEc=",
+  "cargoHash": "sha256-85AP+ZyFA9Z9teEY/yEJT/Icg+ZBycWHaXsNwno5CVI=",
   "cargoLock": {
     "lockFile": "/generated/extensions/hledger.lock",
     "outputHashes": {}

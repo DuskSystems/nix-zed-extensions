@@ -21,7 +21,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-IkkuwN3n3REMAC7UeSejevJoEAIUaqFAB4k/b1LZY4c=",
+  "cargoHash": "sha256-ttHoAdg9+FbXwzn/sO5L0RSIuI53JCG7cPJcBq1kcXo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/gdscript.lock",
     "outputHashes": {}

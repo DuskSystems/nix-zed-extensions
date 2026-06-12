@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-ZCyz8FluSMzdQp0+CBGzaK2UD4jCeVtDEfXhQxtQ+VI=",
+  "cargoHash": "sha256-t+9RJIbgYni/yxASaCtiOjV3Df3swPJhws4rC1smcTo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/umka.lock",
     "outputHashes": {}

@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-bL389BpOxzD2IR3vmvIsG7zsUhfuzMr3NelAvnaVKzY=",
+  "cargoHash": "sha256-PLLUyQdF6YaeUjptc9DpscDN+jK71mDegK1mrw8fRiQ=",
   "cargoLock": {
     "lockFile": "/generated/extensions/zabby.lock",
     "outputHashes": {}

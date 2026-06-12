@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": "crates/extension",
-  "cargoHash": "sha256-QUESsZMeVhvcM/1VLpWAZQDqCGHCHrI5hMwgKIoa9Xg=",
+  "cargoHash": "sha256-lwvdtmMJuh9n+nO06XUJgAEMgnbD7t+bZemE+lYbTOw=",
   "cargoLock": {
     "lockFile": "/generated/extensions/al-business-central.lock",
     "outputHashes": {}

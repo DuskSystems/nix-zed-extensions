@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-VxJGa9ovTCnsCHJhGVbM1g66XVdmrG3oDclbE9d+U9w=",
+  "cargoHash": "sha256-hw9jzYDEGcqyARpblJPKkBExF/bQsHekat4hw9w9wks=",
   "cargoLock": {
     "lockFile": "/generated/extensions/shadcn-mcp.lock",
     "outputHashes": {}

@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-77e32WVa+zdPnBD+Kg5KVE3slTz4k4tjGWqtXxRPVLY=",
+  "cargoHash": "sha256-npqsBrMMw/qWHe5jMY6j7XstTdrp8bxArNYT2GmEb7o=",
   "cargoLock": {
     "lockFile": "/generated/extensions/mach.lock",
     "outputHashes": {}
