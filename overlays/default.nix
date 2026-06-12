@@ -13,9 +13,14 @@ final: prev: {
   fetch-cargo-vendor-util =
     prev.writers.writePython3Bin "fetch-cargo-vendor-util"
       {
-        libraries = with prev.python3Packages; [
-          requests
-        ];
+        libraries =
+          with prev.python3Packages;
+          [
+            requests
+            tomli-w
+          ]
+          ++ requests.optional-dependencies.socks; # to support socks proxy envs like ALL_PROXY in requests
+
         flakeIgnore = [
           "E501"
         ];
