@@ -233,16 +233,6 @@ async fn run() -> anyhow::Result<()> {
                         }
 
                         tracing::info!(name = extension.name, "New extension version");
-
-                        // Remove outdated extensions and grammars from output.
-                        let grammars = existing.grammars.clone();
-                        output
-                            .extensions
-                            .retain(|existing| existing.name != extension.name);
-
-                        output
-                            .grammars
-                            .retain(|grammar| !grammars.contains(&grammar.id));
                     }
 
                     true
@@ -277,6 +267,22 @@ async fn run() -> anyhow::Result<()> {
             while let Some(result) = futures.next().await {
                 match result {
                     Ok(Some((extension, grammars))) => {
+                        // Remove outdated extensions and grammars from output.
+                        if let Some(outdated) = output
+                            .extensions
+                            .iter()
+                            .find(|existing| existing.name == extension.name)
+                            .map(|existing| existing.grammars.clone())
+                        {
+                            output
+                                .grammars
+                                .retain(|grammar| !outdated.contains(&grammar.id));
+
+                            output
+                                .extensions
+                                .retain(|existing| existing.name != extension.name);
+                        }
+
                         output.extensions.push(extension);
                         output.grammars.extend(grammars);
                     }

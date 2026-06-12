@@ -38,8 +38,8 @@ lib.extendMkDerivation {
       extensionRoot ? null,
       cargoRoot ? null,
       grammars ? [ ],
-      cargoBuildFlags ? [],
-      nativeBuildInputs ? [],
+      cargoBuildFlags ? [ ],
+      nativeBuildInputs ? [ ],
       ...
     }:
 
@@ -57,7 +57,8 @@ lib.extendMkDerivation {
 
       nativeBuildInputs = [
         nix-zed-extensions
-      ] ++ nativeBuildInputs;
+      ]
+      ++ nativeBuildInputs;
 
       buildPhase = ''
         pushd ${extensionDir}
