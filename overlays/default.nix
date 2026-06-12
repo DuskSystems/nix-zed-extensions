@@ -9,14 +9,26 @@ final: prev: {
 
   # Allow pre-fetching cargoHash.
   # https://github.com/NixOS/nixpkgs/blob/master/pkgs/build-support/rust/fetch-cargo-vendor.nix
-  fetch-cargo-vendor-util = prev.writers.writePython3Bin "fetch-cargo-vendor-util-v2" {
-    libraries = with prev.python3Packages; [
-      requests
-    ];
-    flakeIgnore = [
-      "E501"
-    ];
-  } (builtins.readFile "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util-v2.py");
+  # Prefer 'v2' script if exists.
+  fetch-cargo-vendor-util =
+    prev.writers.writePython3Bin "fetch-cargo-vendor-util"
+      {
+        libraries = with prev.python3Packages; [
+          requests
+        ];
+        flakeIgnore = [
+          "E501"
+        ];
+      }
+
+      (
+        builtins.readFile (
+          if builtins.pathExists "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util-v2.py" then
+            "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util-v2.py"
+          else
+            "${prev.path}/pkgs/build-support/rust/fetch-cargo-vendor-util.py"
+        )
+      );
 
   mkZedGrammar =
     grammar:

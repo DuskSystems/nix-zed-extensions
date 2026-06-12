@@ -197,7 +197,7 @@ async fn generate_cargo_hash(name: &str, lockfile: &Path) -> anyhow::Result<Stri
         "Running Cargo vendor"
     );
 
-    let vendor = Command::new("fetch-cargo-vendor-util-v2")
+    let vendor = Command::new("fetch-cargo-vendor-util")
         .args([
             "create-vendor-staging",
             &lockfile.to_string_lossy(),
