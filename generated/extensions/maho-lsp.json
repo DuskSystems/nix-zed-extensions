@@ -1,0 +1,21 @@
+{
+  "name": "maho-lsp",
+  "version": "0.9.1",
+  "src": {
+    "url": "https://github.com/MahoCommerce/zed",
+    "rev": "8b184ce8d00bfae31c375e5b415c7be4f0ba02f4",
+    "date": "2026-06-12T11:13:28+01:00",
+    "path": "/nix/store/dy92adll6hh89hqj2bip8pb4lbpzjx7c-zed-8b184ce",
+    "sha256": "00ps4ihcjqw72nw5n8gg69gd1iz3jw45qlgpr65cq7b0p3ajgyhx",
+    "hash": "sha256-Hfon1bhgHcyKyfdRXAiX48fQXjLvIVu4FYdjyWAk+gI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-88XdlxqC0hutO9UZSWfoHEZ5tnKnIu9vLhj0eGPslB8="
+}

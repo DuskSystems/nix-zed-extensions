@@ -1,0 +1,19 @@
+{
+  "name": "shale-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/smit4k/zed-shale",
+    "rev": "b6b239e4b2f28b9f3fc7cc0fff3d38eea08db802",
+    "date": "2026-05-22T01:18:02-04:00",
+    "path": "/nix/store/2hj9wi0j2di92v8y1kxqjfhhczdq4xi1-zed-shale-b6b239e",
+    "sha256": "06yvhfalagzx5mwd9raradamg63d1zskyzx5zrx1vsvqsc9pvjgd",
+    "hash": "sha256-7cl9E9N46x16/qV/P/UPbZhXVVNZ5dR4Lf0/RZWD2xs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

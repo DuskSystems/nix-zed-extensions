@@ -1,0 +1,18 @@
+{
+  "id": "civet_hera",
+  "name": "hera",
+  "version": "93a91771d4f2ab77d20e29a2d8c46ed8b321a60c",
+  "src": {
+    "url": "https://github.com/DanielXMoore/Civet",
+    "rev": "93a91771d4f2ab77d20e29a2d8c46ed8b321a60c",
+    "date": "2026-05-29T16:22:31-07:00",
+    "path": "/nix/store/b6z8ab2xmks16qivryr6iqlam5p8wf62-Civet-93a9177",
+    "sha256": "0f95rqwby5xcq7a2nlwmmmhn83zx6qbbb96amj7gwx21v1jmqfg7",
+    "hash": "sha256-5zlcZdhBdP6OrMqktRY2/Q9kYa2VUyvUwawXvzjOJTk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "lsp/tree-sitter-hera"
+}

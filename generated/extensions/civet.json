@@ -1,0 +1,24 @@
+{
+  "name": "civet",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/DanielXMoore/Civet",
+    "rev": "d7d508986e5d3482a0f684f3a5152314652a5b18",
+    "date": "2026-06-12T07:46:08-07:00",
+    "path": "/nix/store/82kxslprh7r1l0bq7bbkqnbm7205ch9i-Civet-d7d5089",
+    "sha256": "0ddkidg8f4d1yim1czdym05bsdqmair6phr0144r0d3a2ymzw0k6",
+    "hash": "sha256-ZgL+qxdqNJAJCSDDa3JUFTe9Cqi+fRZq9KERh16LszU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "civet_civet",
+    "civet_hera"
+  ],
+  "kind": "rust",
+  "cargoRoot": "lsp/zed",
+  "cargoHash": "sha256-oJ/oBXHK092VHKde+UIfQmo75ZEZ+hGCaau18T28H9s="
+}
