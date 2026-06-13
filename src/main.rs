@@ -239,11 +239,7 @@ async fn run() -> anyhow::Result<()> {
                 })
                 .collect::<Vec<_>>();
 
-            let limit = std::thread::available_parallelism()
-                .map(NonZero::get)
-                .unwrap_or(1)
-                * 2;
-
+            let limit = std::thread::available_parallelism().map_or(1, NonZero::get) * 2;
             let semaphore = Arc::new(Semaphore::new(limit));
 
             let mut futures = FuturesUnordered::new();
