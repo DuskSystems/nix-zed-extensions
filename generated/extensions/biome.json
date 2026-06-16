@@ -1,13 +1,13 @@
 {
   "name": "biome",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "src": {
     "url": "https://github.com/biomejs/biome-zed",
-    "rev": "ab7bb222458034f45936e4561eb3645fbc1eb578",
-    "date": "2026-03-23T12:23:06+09:00",
-    "path": "/nix/store/kibs3i76visvigvzkj9wyxxn5dvwnzrw-biome-zed-ab7bb22",
-    "sha256": "05jlqcxssc8mmlfjspzjhl5v7pznv3s1dp9m1z05pxh74rghwh9a",
-    "hash": "sha256-KkEOXyYH9lvADzXdFvTY9t+zC4XyXy0drRUxrTvDVBY=",
+    "rev": "8265257cac0fda3fcf6b9c8a7f031aef9d18e341",
+    "date": "2026-06-12T14:36:55+01:00",
+    "path": "/nix/store/yw9y4jm0vbv1cdv6mmyh96nkwq1yqwid-biome-zed-8265257",
+    "sha256": "1vjx2yidnvzlnmimihnbk6f5555l4n5jd8681h97pq2vl507cj3g",
+    "hash": "sha256-b0h2QKFb4HsSDMigJosltJRSnJnLwlhjtfRv26IXXe4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-EGXEAdgqeihu1L699Rrw/daKKQQfv82SFdPaUi3fhg4="
+  "cargoHash": "sha256-IoLGgF3/EmwI2pMGWxM2+x+wGBufpC2YT6x64aEIsWU="
 }

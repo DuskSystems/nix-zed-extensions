@@ -1,13 +1,13 @@
 {
   "name": "nginx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "src": {
     "url": "https://github.com/d1y/nginx-zed",
-    "rev": "966a7571a6835bbc3cb83f539939bfcb20f8bb5c",
-    "date": "2026-03-13T14:22:07+01:00",
-    "path": "/nix/store/wia00zffgcadvbv3mn5zvadyh70y4iqg-nginx-zed-966a757",
-    "sha256": "1pirja5h5b7bfgggy5ax5gh4qffgp85qj27q8ja4y55jbid0g4wa",
-    "hash": "sha256-ipMHWlyyFE+URPgIiQu6zzlM4CtdFf/ec+usAouSOd4=",
+    "rev": "f9f48469d5234768482e8282562b2f5fcbce2ef5",
+    "date": "2026-06-15T15:03:38+02:00",
+    "path": "/nix/store/xm5pxk6zz74yi0wkhvh2as8gr9dzf548-nginx-zed-f9f4846",
+    "sha256": "0wic4mpawirhr9swdgmks7ikrm8bmiakp7dqy6nlnr94fvddvag6",
+    "hash": "sha256-5qnd2nYkZUut8bidO1WsC9U849GzvsZ1yjBHrm4lLHI=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-kxy/gFVeht1zLp0wBNWCS6fwIU/rMC+GH5isVI0kYeo="
+  "cargoHash": "sha256-ZKSvrIU1yJfqUmtYHLrc6xEnr9aJNNeqzuF529qtC7Q="
 }

@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-zephex",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zephexMCP/mcp-server-zephex",
+    "rev": "366876f7ae79007848f976e38c1214271c9f3c74",
+    "date": "2026-05-22T18:39:29-04:00",
+    "path": "/nix/store/c92l1wlmsazl3cpjnaz5wgsx3y6a61mc-mcp-server-zephex-366876f",
+    "sha256": "03yfw0hpsvpjzg2pkfikla0w9q4w4p7yxnicgacwd8z5ywsiy256",
+    "hash": "sha256-pggfNfflo8aZeiza7s8lnODEgaIzunnF+/JufSHgzg8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-QR4FZ7pJIxxOP/nxobNGLwaC726W/rkLHxGJ7wVFw6E="
+}

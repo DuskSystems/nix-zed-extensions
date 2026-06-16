@@ -1,0 +1,19 @@
+{
+  "name": "legendary-dark-theme",
+  "version": "5.0.1",
+  "src": {
+    "url": "https://github.com/Llewellyn500/Legendary-Dark",
+    "rev": "dd432d84109a152a803682c5f2b6d713685dbc99",
+    "date": "2026-06-15T13:23:44Z",
+    "path": "/nix/store/j0rmkabjzgrwb6f2w8s2q0k0pgxxhvmx-Legendary-Dark-dd432d8",
+    "sha256": "0p26q2bhn7lr3hfbsvcf3hm7cj1faa9l4538i5s0wrgm3ydgvvzr",
+    "hash": "sha256-+e/9mh/1ZQ50iWgUQpNSLkh2KhyObb0cHJkeC5fARlw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "zed",
+  "grammars": [],
+  "kind": "plain"
+}

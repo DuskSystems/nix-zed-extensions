@@ -1,0 +1,19 @@
+{
+  "name": "haven-theme",
+  "version": "0.6.0",
+  "src": {
+    "url": "https://github.com/GersonDantas/Haven-Theme",
+    "rev": "0e5927f6b47186d8912785db82931a6e4419e2d8",
+    "date": "2026-06-05T17:47:38-03:00",
+    "path": "/nix/store/dy036iphgj0gqbd8gvnb3xinb32gdyjm-Haven-Theme-0e5927f",
+    "sha256": "1b3qzp3xra1ap7q1zvbrs1552agr4jg8v5skkrxkkr0z2vp3n3ij",
+    "hash": "sha256-Mg477hYf5Dl7nlOXjZ4k+SlRStB57R/wuSqo3Mf9eKw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

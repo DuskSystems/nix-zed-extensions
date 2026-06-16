@@ -1,0 +1,19 @@
+{
+  "name": "air-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/franzgollhammer/air-theme-zed",
+    "rev": "db349b5ae1da8d31c167a4c06816a6995c45931a",
+    "date": "2026-06-09T17:15:41+02:00",
+    "path": "/nix/store/a3g6qvv6k2s8js430yxdy81ra2618fbc-air-theme-zed-db349b5",
+    "sha256": "0rzabi9hbr98lygnhn7l558nb95vjqs7pi9qzaav84xw49r7lxbz",
+    "hash": "sha256-f3V6ciK8E7SV+jjFezSWu6RlUSn0WGifpyjlBVNc6mc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ejentum-mcp",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/ejentum/zed-ejentum-mcp",
+    "rev": "3d397348e81ae4cf94b5494e98eba964ed4f522d",
+    "date": "2026-05-31T16:11:00+03:00",
+    "path": "/nix/store/7w18zqwcxi4w8a78q4pyp476vma2pjm3-zed-ejentum-mcp-3d39734",
+    "sha256": "03m46fj66xm8hl844bdjg4zi5g7xmm5jl8xps20jfhbmq0xrjq3k",
+    "hash": "sha256-c2CZO8B1QSeB0LcjKkut/bwSP3myLUIQhah2Y6QzpA4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-MGXBBAbRVtltonn3qPv4GBc02pk6OQel5Tayag/pO4U="
+}

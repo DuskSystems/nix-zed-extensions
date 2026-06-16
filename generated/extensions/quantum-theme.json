@@ -1,0 +1,19 @@
+{
+  "name": "quantum-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/begprod/quantum-zed",
+    "rev": "3482c5997c1f30de63613d0ff93a9ffb34e7efa0",
+    "date": "2026-06-15T18:25:57+03:00",
+    "path": "/nix/store/d2f99q8qddbl34bkck6zrc3p2c3mfbnd-quantum-zed-3482c59",
+    "sha256": "0d4g2m76mwaz3w96d3bnsv66ikgnijl42qbwjrghdl99y39nlp7d",
+    "hash": "sha256-7Vxq0/Ap0QZflnxhQaiM9s1ozNZ2jWYSH1/xak4VjzQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

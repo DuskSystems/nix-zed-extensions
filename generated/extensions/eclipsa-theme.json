@@ -1,0 +1,19 @@
+{
+  "name": "eclipsa-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/yummacss/eclipsa-zed",
+    "rev": "1493906cf694a38f76c652a0c58ba8fd7699f3d2",
+    "date": "2026-06-15T18:01:49+01:00",
+    "path": "/nix/store/0s1nxsccc0a400pm22vgjlb1zc348k8k-eclipsa-zed-1493906",
+    "sha256": "1yqhmglw3jjhl4vl3s9niipmga3r6rqj3sy65v54agli2dz6l1sv",
+    "hash": "sha256-WwdqfhORPkXKLsbrIXE2eahXb4w26UE3oVDKwemrEPs=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

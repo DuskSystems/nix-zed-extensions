@@ -1,0 +1,21 @@
+{
+  "name": "panache-language-server",
+  "version": "2.35.1",
+  "src": {
+    "url": "https://github.com/jolars/panache",
+    "rev": "b1da482d8dd5675778914472d47dfb45a110a8e2",
+    "date": "2026-06-15T16:14:23+02:00",
+    "path": "/nix/store/c1n0xsn3qbfr6zy0w394m5kcf0y8al73-panache-b1da482",
+    "sha256": "0r3knvq8sifcpwzz4gf9n3n2ikl634kc68hxm3yrrxmjrpkjlfdi",
+    "hash": "sha256-sTkq582y9pz9qB0iwyYZhs4o7LDJPfI/v8xFjfC2c2Q=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-hTv9cIyaUgaOUM5qT73CARuk61yYhXUxQ4zOahzQEbI="
+}

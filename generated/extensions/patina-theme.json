@@ -1,0 +1,19 @@
+{
+  "name": "patina-theme",
+  "version": "1.3.0",
+  "src": {
+    "url": "https://github.com/lmarkmann/patina-theme",
+    "rev": "9958d5516d661756e3387dcba84ca78c129fe1e2",
+    "date": "2026-06-13T20:04:33+01:00",
+    "path": "/nix/store/6k92npdzxv3qv1xifzr7zwqg6l17d2aj-patina-theme-9958d55",
+    "sha256": "05jzfyr1f5667gp6zh27gxs8ww0irjckl29asjnr1kb4j5b0a1m4",
+    "hash": "sha256-pAYFVpFkzZCt1CoJOpnMEXCOdH9HwG/uO8YUF7J3XxY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
