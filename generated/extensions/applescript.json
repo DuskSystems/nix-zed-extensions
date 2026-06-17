@@ -1,0 +1,21 @@
+{
+  "name": "applescript",
+  "version": "1.9.1",
+  "src": {
+    "url": "https://github.com/HelgeSverre/zed-applescript",
+    "rev": "80a31d332970253d3240b866d231c65fa9d541ab",
+    "date": "2026-05-27T03:59:44+02:00",
+    "path": "/nix/store/minymwnv8ipsmyr76hllyn92nlmncl9r-zed-applescript-80a31d3",
+    "sha256": "1wk79fi2ds0md7ilkvn9fhml32jw93dlab84fddcy7r12lwgkkhm",
+    "hash": "sha256-Fc75OBUhH89acwQtRdtIXIpBK3TJ7knjaRXoJqJLZ/I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "applescript_applescript"
+  ],
+  "kind": "plain"
+}

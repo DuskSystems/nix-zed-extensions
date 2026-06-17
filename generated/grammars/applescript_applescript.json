@@ -1,0 +1,18 @@
+{
+  "id": "applescript_applescript",
+  "name": "applescript",
+  "version": "7a5dce5ee820a820d6fabf1f0b46fb83f75ab855",
+  "src": {
+    "url": "https://github.com/HelgeSverre/tree-sitter-applescript",
+    "rev": "7a5dce5ee820a820d6fabf1f0b46fb83f75ab855",
+    "date": "2026-05-20T18:51:58+02:00",
+    "path": "/nix/store/q83j00f6skngaczdfnk03bfczbiaad4m-tree-sitter-applescript-7a5dce5",
+    "sha256": "1jqpk4j6a0pig9kw76jxmn379560xyx5wsmanykmbdm6n7w0g8i7",
+    "hash": "sha256-J6IH+LGmtlWnt6pqXrrvwJR0hq1dmsNnevECZSSZF8s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
