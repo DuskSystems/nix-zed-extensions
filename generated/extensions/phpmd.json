@@ -1,13 +1,13 @@
 {
   "name": "phpmd",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "src": {
     "url": "https://github.com/mike-bronner/zed-phpmd-lsp",
-    "rev": "f353517c8d64e30f5c2221c9980c3d7b4a514466",
-    "date": "2026-06-10T21:45:58Z",
-    "path": "/nix/store/w4nds4gfw63drppydpj0hja3g0vlg2sh-zed-phpmd-lsp-f353517",
-    "sha256": "1fx502jnbslind7wfdx8rla45ki7fj1szagnxl8d0i2s8i3lm8ji",
-    "hash": "sha256-UaJKR0RaRNAQ7fapr4N0J85CFM2oN8dPs5HqZaUApbs=",
+    "rev": "c497da1cb99b706aea0de13ac0237d0a1e9fbf9c",
+    "date": "2026-06-18T23:11:10Z",
+    "path": "/nix/store/wjkzy8shmyispr3clv96zz6cr8q8pn79-zed-phpmd-lsp-c497da1",
+    "sha256": "1sfiyd5p6qhxz57j13z0r6kbbd9bna2r9w1pnysinp4za5sd75x0",
+    "hash": "sha256-oJfTdFGfXBu1tzfwlIWyK7W1psngjyBP+R1ic0vz0ek=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-0dvUmd7FU0+amXpZO07xDb6RPP1+z9VPwDvJ0ftbtZo="
+  "cargoHash": "sha256-raXqFxyOaItJxRCPxpxmVFKRKMduLFw9+RZxTPajRqM="
 }

@@ -1,0 +1,19 @@
+{
+  "name": "claude-vellum-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/leisure462/zed-claude-themes",
+    "rev": "8f2d540f3cf86585acbcd2c32f39e4b8bec8cb5e",
+    "date": "2026-05-05T02:00:51+08:00",
+    "path": "/nix/store/z2q577mg2rl7ps6b5h7my1bkzhj5pcbc-zed-claude-themes-8f2d540",
+    "sha256": "10wppyhzn3zhf3q8fcl7ljcfgdad4z9g5vnya7dxhq6qr5h7acj5",
+    "hash": "sha256-RTJ1YMnYYNjbUd7u8tInTbXnmKSHMofwcPAP+6G/l4M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

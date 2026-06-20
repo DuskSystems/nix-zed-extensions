@@ -1,0 +1,18 @@
+{
+  "id": "elsa-lang_elsa",
+  "name": "elsa",
+  "version": "ea156226ffcc0659b7e1a7d1f94fcf204df73d2c",
+  "src": {
+    "url": "https://github.com/MrPoloGit/tree-sitter-elsa",
+    "rev": "ea156226ffcc0659b7e1a7d1f94fcf204df73d2c",
+    "date": "2026-06-14T17:07:51-07:00",
+    "path": "/nix/store/06h6m19y1y1jlb5fhjryqz2224lj7sw6-tree-sitter-elsa-ea15622",
+    "sha256": "0cdb7vlxsvfsdfcdi8g55ca7d6f1s9zs6z0xn3q49msd8l7hh63v",
+    "hash": "sha256-exgID0VN10TwsB18o3/SwZl2FCvlodiYa9pt3ek+qzE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

@@ -1,0 +1,23 @@
+{
+  "name": "elsa-lang",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/MrPoloGit/elsa-lang",
+    "rev": "349bdaf15d32dbc28bfebc4cb39e9e1d27564340",
+    "date": "2026-06-15T22:53:32-07:00",
+    "path": "/nix/store/2mxm9a2krkhmk4hdkiw9y3rszdjk6f94-elsa-lang-349bdaf",
+    "sha256": "0mlims37mqymw3swpwb1p4aqncd555xjmixslq541s9vhyhd71rx",
+    "hash": "sha256-PYfToIc76UAKprrHKnsppTGLFblh8cv14NXjeoaukVY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "elsa-lang_elsa"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-oczePInuZlriI5uILWb2KDrJyT20OxRLOqnPlPJ7uUk="
+}

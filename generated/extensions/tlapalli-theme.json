@@ -1,0 +1,19 @@
+{
+  "name": "tlapalli-theme",
+  "version": "1.2.0",
+  "src": {
+    "url": "https://github.com/ackzell/tlapalli-zed-theme",
+    "rev": "ace95ed1e1a95a515cb4bc38ae16bea52a77d5d7",
+    "date": "2026-06-18T21:58:39+02:00",
+    "path": "/nix/store/iy5fmcc6vsg0xdhlxxbdyjsvwxhpf590-tlapalli-zed-theme-ace95ed",
+    "sha256": "14fhyvnr2l257zmmmwwbiqa0a3h8vn5r0qbsz1v40mbam8xj2zcp",
+    "hash": "sha256-l30hO6pqVUB2+HphkIvdCA4FFI6L81rrP0VQke320JE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": "extension",
+  "grammars": [],
+  "kind": "plain"
+}

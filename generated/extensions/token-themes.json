@@ -1,0 +1,19 @@
+{
+  "name": "token-themes",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/mrzzmrzz/token-themes",
+    "rev": "11770b97a209579d5c8127951d74607297e0c4bf",
+    "date": "2026-05-29T17:27:50+08:00",
+    "path": "/nix/store/48kzdzhffcjnqdn1m8krg9c05pnxw5iy-token-themes-11770b9",
+    "sha256": "1ail9q7lncb20khbzy1p7fdgx9zf5pdir6yjvfjc61mxc06b5njd",
+    "hash": "sha256-TdqyDGC9BsOk29KbHNst7qf+mjs3+L/gBGIxSw9ONKo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

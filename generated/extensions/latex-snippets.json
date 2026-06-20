@@ -1,0 +1,19 @@
+{
+  "name": "latex-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/Oneptica/Zed-LaTeX-Snippets",
+    "rev": "76a7fe570017944705ce822814e64e6be4f18c65",
+    "date": "2026-05-14T02:26:56+02:00",
+    "path": "/nix/store/msa5bqsxfxqaf80ln213zzxxs12kkiwx-Zed-LaTeX-Snippets-76a7fe5",
+    "sha256": "069ns86jd161kxbb4hdfd7ibak3ln4478hcbxgq0c9lh34n0xpsq",
+    "hash": "sha256-WN8OLBmQJgbw64tBdAixdEy14mmuQbJWn8GEJg3SNhk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

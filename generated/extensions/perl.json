@@ -1,13 +1,13 @@
 {
   "name": "perl",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "src": {
     "url": "https://github.com/tree-sitter-perl/zed-perl",
-    "rev": "0187d620e65ea47f344f50b8485f94db7eca19b5",
-    "date": "2026-06-08T14:58:43+03:00",
-    "path": "/nix/store/zcv8whhnc4l811ljnghgd00x6ryg2d78-zed-perl-0187d62",
-    "sha256": "17pg3ayd5l9lkyw5jlwwpcs14dqm3hxd1yl4rhsjsvnf59v2h159",
-    "hash": "sha256-qQQodirObi01zIT60DocFTcSNLucU1m4nzTR0rwa754=",
+    "rev": "eb27a19e69fed8a041b706b23a1f42fbafb29fd8",
+    "date": "2026-06-18T20:53:16+03:00",
+    "path": "/nix/store/bzfajsv4yqf7bl2rh7mz85c5mnfl8npa-zed-perl-eb27a19",
+    "sha256": "0hxr69pr494n4vpvnbgf695zfi7grync5j63icpczfkif955bsz8",
+    "hash": "sha256-6OtVSnJxus8ui8PIwqzP70T3SzLuLbvvJpYkkm8yuUM=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -20,5 +20,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-vHsiWMtNoSrT22dBoHtUktTdtnoGxZcNvOZ5XUhelso="
+  "cargoHash": "sha256-Ql2/gu11arjMzizvQ04rjbz8jDi97fmuwveBDnqjsFY="
 }

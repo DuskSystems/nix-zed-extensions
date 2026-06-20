@@ -1,0 +1,19 @@
+{
+  "name": "superset-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/juwain/superset-zed-theme",
+    "rev": "aa134f47c9be70b3ebe98f9e6b145fd62f7a84d9",
+    "date": "2026-05-04T23:42:31+03:00",
+    "path": "/nix/store/wh14f04bavpw03bwya80d0xaqz2dp7rl-superset-zed-theme-aa134f4",
+    "sha256": "0mwijwk865si904ny4n51dgv88z62pbdb6kzsi39wrpglqw5fyv1",
+    "hash": "sha256-YXtXOKbvZp5G1H+a1dYV5iO0XwvFEm8JSFEXgyaXkVc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

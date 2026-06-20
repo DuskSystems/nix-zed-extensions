@@ -1,0 +1,19 @@
+{
+  "name": "lumin-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/frypan05/Lumin",
+    "rev": "cb0dd82ff525a2df913375c25e9c33dae69cd179",
+    "date": "2026-06-20T00:49:29+05:30",
+    "path": "/nix/store/q61shy38libbhpk6z910g2frkl8b2j34-Lumin-cb0dd82",
+    "sha256": "0pa24mk4ffpl68h60nawarnwzy27sxfdbhxk37n3wca0lladaqkn",
+    "hash": "sha256-dmLVFKVAMT7sGbPD1VzXR/jPbVZcWWAgMvQ6R2YlQl0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
