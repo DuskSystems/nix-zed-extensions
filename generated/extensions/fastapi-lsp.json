@@ -1,0 +1,21 @@
+{
+  "name": "fastapi-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/alex-oleshkevich/fastapi-lsp",
+    "rev": "bedc703d87b2dd1478a3098d688e313817c47d34",
+    "date": "2026-06-23T13:30:11+02:00",
+    "path": "/nix/store/j6zj1zj0ijnpajbs0p7q5lk73n4xwykf-fastapi-lsp-bedc703",
+    "sha256": "023f1a2d1vl9i4i5kflgknlcqcs68jw6w3kwi8ijn8j4gsbp60f1",
+    "hash": "sha256-wQFzl35EIisjinwObrhERjPMqJ2PulkiiYnu0IQKbgg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-uo3wNW/ykCPCwTd+VxjUINM1i3i2pLQW7uKEN/Yo7y8="
+}

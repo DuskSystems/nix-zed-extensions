@@ -1,13 +1,13 @@
 {
   "name": "awsum",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "src": {
     "url": "https://github.com/awsum-lang/awsum-zed",
-    "rev": "342f34875653d995e086bc204482352ae997bf91",
-    "date": "2026-06-03T18:31:31Z",
-    "path": "/nix/store/lsicz3crxjjs1d7zljm6ck3r0zirz7rw-awsum-zed-342f348",
-    "sha256": "17als76lg7xirm59qn0k7l5kcc3wvnk57gm5l3py65l5pd469ds2",
-    "hash": "sha256-QrdkSLuFFuPvoKW+U6bdfDA2Cz0TWJxKzbGfR83RVJ0=",
+    "rev": "3310599f11aa56730e1c699543e742b045706987",
+    "date": "2026-06-22T18:42:28Z",
+    "path": "/nix/store/rf06xf176g3vabddj13psi5rf0wrcvw0-awsum-zed-3310599",
+    "sha256": "0d1cgaskwpi2nrkv0h2zjcxrcyjn5d8jzl5j4k0byxc5hsx9jfdm",
+    "hash": "sha256-tTmZuoaFdb/AJLLQL1ErVnqWO5NfQLBntiJePrV6LDQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-bsSdwK/dbDJvJsBq9s77K9+tQgmexHURZo3+5FiDLCo="
+  "cargoHash": "sha256-/FaPVqwQ9hWek6M3OIwyCLBNBIdZC1CpMruONRkmmGc="
 }
