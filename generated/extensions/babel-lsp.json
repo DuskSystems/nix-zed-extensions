@@ -1,0 +1,21 @@
+{
+  "name": "babel-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/alex-oleshkevich/babel-lsp",
+    "rev": "aec4f78731a9c93f1661731258e7a98bbed56f46",
+    "date": "2026-06-23T13:05:47+02:00",
+    "path": "/nix/store/djqk5y7nrh6x2x8zirjr4fgnpjlq4gsz-babel-lsp-aec4f78",
+    "sha256": "17lp1xkya1v8m2k1hrn05jngn174g30v2330mia0jv9k93jdaips",
+    "hash": "sha256-+kbV5EgzbQlUrGAMscF45AT7rCzAZhimqGgH5WcPl54=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-S/A0PVLkeLTb9btt7DA0v4OZoG+8m36PBiefwVEsyDo="
+}

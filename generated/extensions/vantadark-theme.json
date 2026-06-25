@@ -1,0 +1,19 @@
+{
+  "name": "vantadark-theme",
+  "version": "1.1.0",
+  "src": {
+    "url": "https://github.com/ams-sth/vantadark",
+    "rev": "dfeb1df187a8327a8b53dc2ade90eaccd137eadc",
+    "date": "2026-06-24T20:23:47+10:00",
+    "path": "/nix/store/q8h8a09k1sh04avnblzjn7g12xvr5n7f-vantadark-dfeb1df",
+    "sha256": "140abadds9qkwm4kv8rkh3lyximnf6qmsp4qpz828k1h75wgm01h",
+    "hash": "sha256-MID6eDkwTCTQv5hcXbFxtsbu6YAzoz1J5RMn3ZpaCpA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

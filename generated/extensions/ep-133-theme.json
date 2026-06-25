@@ -1,0 +1,19 @@
+{
+  "name": "ep-133-theme",
+  "version": "0.0.2",
+  "src": {
+    "url": "https://github.com/evgenii-sergeev/zed-ep-133",
+    "rev": "2045c44acb82a5c27157994480f4e13f61ebcbb0",
+    "date": "2026-06-24T13:01:30+02:00",
+    "path": "/nix/store/rar91xdxhi5y42f81aapsd7jniz97ifl-zed-ep-133-2045c44",
+    "sha256": "11cdp1vxvcg4l2jammjsxlhci3w7gjvfq0qx56cp7wixr3qyla8z",
+    "hash": "sha256-Hynq8cg98nOZKR0D7LZ8h4/IIO1a1qqkoOSx3Xe4jYU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

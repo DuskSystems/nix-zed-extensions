@@ -1,0 +1,19 @@
+{
+  "name": "vscode-classic-themes",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/alanisme/vscode-themes-for-zed",
+    "rev": "c259d890cd888ddbe437c1a3411774de7ba7dca2",
+    "date": "2026-06-16T16:47:22+08:00",
+    "path": "/nix/store/q1v1shykqgsr7ln11pyil2hgxl771q4h-vscode-themes-for-zed-c259d89",
+    "sha256": "0qpmgff1yrs02xmdpm5mszkkw3wbgy350zq67pm1jc9gqsb45i0b",
+    "hash": "sha256-C8RClsYvMRnqPQZ/UIZ/iw8+59e11NtqF0BnH5x79WI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

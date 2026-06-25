@@ -1,0 +1,19 @@
+{
+  "name": "emerald-synth-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/malleroid/emerald-synth-zed",
+    "rev": "fe8919003e023357dce2cdde1e5ab4e121fb2cf6",
+    "date": "2026-03-29T19:32:25+09:00",
+    "path": "/nix/store/an7wqrf6mzswrx21nija721aihkb6kp2-emerald-synth-zed-fe89190",
+    "sha256": "1flp7w4g9hinyjsm1mjm5kammrkwavjajmw7jgy1582hj8h0609z",
+    "hash": "sha256-PwEDIJJQoBL8k4dXqeRWfOZa1SxV1lC19DbC9Ag/l7o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

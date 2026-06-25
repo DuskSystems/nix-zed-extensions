@@ -1,0 +1,18 @@
+{
+  "id": "statamic-antlers_antlers",
+  "name": "antlers",
+  "version": "b787c59dfc69fa753e1f62d0bcb01db69eb5e0a4",
+  "src": {
+    "url": "https://github.com/eugene-karuna/tree-sitter-antlers",
+    "rev": "b787c59dfc69fa753e1f62d0bcb01db69eb5e0a4",
+    "date": "2025-08-05T10:46:57+02:00",
+    "path": "/nix/store/34x7winlk5j2aywr3q6akh2xgpcwclml-tree-sitter-antlers-b787c59",
+    "sha256": "1b24vrv3vzlakh7hvk4j0sjby01458bv4k1zr7hha3s3yykkrzm8",
+    "hash": "sha256-qP48p/dDDwXhyT9MshcqJAC/pAaSzA0PnIr+PXbeRKw=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

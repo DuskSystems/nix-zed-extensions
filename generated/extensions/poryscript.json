@@ -1,0 +1,23 @@
+{
+  "name": "poryscript",
+  "version": "0.2.0",
+  "src": {
+    "url": "https://github.com/chris-wilson-1/zed-poryscript",
+    "rev": "38b9d6febf7f543ba2ff1741d82064c4ba8e0989",
+    "date": "2026-04-12T09:31:50+01:00",
+    "path": "/nix/store/wqn3hg7lg67dzbaibjd9d54by806w8in-zed-poryscript-38b9d6f",
+    "sha256": "047qnciv1r9r38hn4m0k1wb39q5cxvdj1gphb0jh80n6i3c84ywr",
+    "hash": "sha256-mXuC2IjGAgQlWPC+INvurOA0Fg8TVGIhGjnlsCOz+BA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "poryscript_poryscript"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-idDOcD1xAsQZuM2k0QUQtxGn25AKloCsScxlTeb7NXA="
+}

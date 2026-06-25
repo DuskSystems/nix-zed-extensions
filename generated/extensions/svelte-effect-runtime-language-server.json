@@ -1,13 +1,13 @@
 {
   "name": "svelte-effect-runtime-language-server",
-  "version": "2.3.0",
+  "version": "3.0.2",
   "src": {
     "url": "https://github.com/usebarekey/svelte-effect-runtime",
-    "rev": "9ddf90e793245a89a28b4e0175ef224f0505ac34",
-    "date": "2026-06-09T14:11:08+02:00",
-    "path": "/nix/store/kl8mc52c75ashyp1xkv3ph6aw4qasp45-svelte-effect-runtime-9ddf90e",
-    "sha256": "0c5mvw20ncr9mvy04w1gqaw4i27qfja0wc86gwqvds965a2d0nmx",
-    "hash": "sha256-vVrQhCom6bYxfwYxDpR0+IhIuMIvcAL8rikzCwTftTA=",
+    "rev": "7d080f74267962d0d5fe148b2b112e07558e4da1",
+    "date": "2026-06-24T01:57:24+02:00",
+    "path": "/nix/store/zhiys8kwkbxfnqa072ln42hlcjbyqvkw-svelte-effect-runtime-7d080f7",
+    "sha256": "0xp1j7zcj8vsy9ws4bhhw02085577jkd3l1l0av83d0fld252hw4",
+    "hash": "sha256-hENRRKMOtIG2AjTQ0aY8pxQEBOAQLqJ58nojyf6R4XY=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "modules/svelte-effect-runtime-zed",
-  "cargoHash": "sha256-yXWR1RpzcJnFC8pG50/tE9cFOscvH0/2EAWO3r/cQgs="
+  "cargoHash": "sha256-x3Burx6dyV94veGMaCMdxE+y+ISxOvgR88+x61qklfo="
 }

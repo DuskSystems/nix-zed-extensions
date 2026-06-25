@@ -1,0 +1,18 @@
+{
+  "id": "poryscript_poryscript",
+  "name": "poryscript",
+  "version": "f4099a9dc813a85dd4b8f808926c52b6b7b54d7a",
+  "src": {
+    "url": "https://github.com/chris-wilson-1/tree-sitter-poryscript",
+    "rev": "f4099a9dc813a85dd4b8f808926c52b6b7b54d7a",
+    "date": "2026-04-11T21:55:21+01:00",
+    "path": "/nix/store/cmb04nzgb1sfz78rssjfccqaizy3nxba-tree-sitter-poryscript-f4099a9",
+    "sha256": "0pvhfaaspy1pbypvckrsrhinfjymvrssxaq3gi0rxj6pxh8axich",
+    "hash": "sha256-kMWuEOzXyJ5BfAOrrnXe1UtnI8w6T7avXzf4q5VycF8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

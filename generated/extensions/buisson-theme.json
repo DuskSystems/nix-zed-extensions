@@ -1,0 +1,19 @@
+{
+  "name": "buisson-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Adriusops/buisson-zed",
+    "rev": "dd3a9874a187530063f465282d2e0d88c19f197f",
+    "date": "2026-06-24T19:01:14+02:00",
+    "path": "/nix/store/j0vd0s75ipyafysf5w7zhcxv6lglslrp-buisson-zed-dd3a987",
+    "sha256": "0aknpb9lhscdfaj2rmnj024vpdj3i6j18fm7ywxy066k337radvp",
+    "hash": "sha256-dzeVzxjTGOA796c6FKSJQ7a7iQDS1iykco1pSNO6dio=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
