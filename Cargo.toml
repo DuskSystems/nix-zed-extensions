@@ -3,7 +3,7 @@
 name = "nix-zed-extensions"
 version = "0.0.0"
 edition = "2024"
-rust-version = "1.91"
+rust-version = "1.95"
 repository = "https://github.com/DuskSystems/nix-zed-extensions"
 license = "GPL-3.0-or-later"
 publish = false
@@ -57,7 +57,7 @@ futures-util = { version = "0.3", default-features = false, features = ["std"] }
 cargo-lock = "11.0"
 
 # WASM
-wasmparser = { version = "0.249", default-features = false, features = [
+wasmparser = { version = "0.251", default-features = false, features = [
   "component-model",
 ] }
 
