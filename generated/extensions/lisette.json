@@ -1,13 +1,13 @@
 {
   "name": "lisette",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "src": {
     "url": "https://github.com/ivov/lisette",
-    "rev": "9fdde4a95fccbd057e859311a9db9d62136027ed",
-    "date": "2026-05-19T20:54:34+02:00",
-    "path": "/nix/store/8x95qjf4p87dsi0cir0jsqj5wlf5hp77-lisette-9fdde4a",
-    "sha256": "0s41cxmj19szbh1a8isym4vn4anlkvdhj39ys8dwaddh1gqcfx54",
-    "hash": "sha256-pHTH8AuwNcUb0j4NCdue1CpiN6leR6QCXF+nIGtngWg=",
+    "rev": "ef299eac92ef85b5d0e4653d15f3d00b73660bc8",
+    "date": "2026-06-26T18:48:56+02:00",
+    "path": "/nix/store/y8z0vzvai9z7g30q7540wdbjlianblyb-lisette-ef299ea",
+    "sha256": "0ifb6376j9qklpxjy5dzqv3zsjgl9bc7gnzaz6rayk48r1c9k66d",
+    "hash": "sha256-zZiZWMiITK+y+erbd9hK9En9x8a/FS/7pRMnac4wy0U=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": "editors/zed",
-  "cargoHash": "sha256-Je5alulahZKOEe+wmqE4QFKMVREc9j5wEon1Xv/VLzI="
+  "cargoHash": "sha256-oibNPEnrs59NXgOfv9PoH9W33OvebA1UZc6nsW7rFYA="
 }

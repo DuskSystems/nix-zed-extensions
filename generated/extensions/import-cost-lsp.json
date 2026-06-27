@@ -1,13 +1,13 @@
 {
   "name": "import-cost-lsp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "src": {
     "url": "https://github.com/gcampes/zed-import-cost",
-    "rev": "5a9f9aacc93ef225cb3fce61e2096594dbffa9f6",
-    "date": "2026-04-10T13:57:56+02:00",
-    "path": "/nix/store/g7y723kmyjpppp8q7ylvrcl9c4pp603a-zed-import-cost-5a9f9aa",
-    "sha256": "1rskalzqjqdlr437i1bkhyz89ccdrl5sd8sprz5qcm96hiblc7n7",
-    "hash": "sha256-xx5GV4QmVYbLz1ejpgvNjbGEvodzhXgGybRhiT9VU+c=",
+    "rev": "694b4fabe71ff23b2caee262ed5d4e688d40dac4",
+    "date": "2026-06-26T13:42:59+02:00",
+    "path": "/nix/store/xnqp8y3br0wh2g5j6fs8zwdzclladmwm-zed-import-cost-694b4fa",
+    "sha256": "1gsdblhcyy9h9smgz2ip6zbkg37gcifbi2vzvhggpsxzyfmyxmw9",
+    "hash": "sha256-idfuq/O/6/se3H+LuFxk74w31zc3iv+qTjB5zyBdTb8=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-rlEyZ3RwAnCV4Xu7ARkkchlY/xR2FTaZh4VRqx5t1Uw=",
+  "cargoHash": "sha256-r/l+E2b1rxui52vaDLwmGdEKj197nOpEo3QlnLxcPJo=",
   "cargoLock": {
     "lockFile": "/generated/extensions/import-cost-lsp.lock",
     "outputHashes": {}
