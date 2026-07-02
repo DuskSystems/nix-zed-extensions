@@ -1,13 +1,13 @@
 {
   "name": "cem",
-  "version": "0.10.5",
+  "version": "0.11.0",
   "src": {
     "url": "https://github.com/bennypowers/cem",
-    "rev": "460a1bc35d98e330ec36625810aa7b1bc8c98b98",
-    "date": "2026-05-11T20:24:36+03:00",
-    "path": "/nix/store/irflra725kmm00axzz78fj9hds75qhd5-cem-460a1bc",
-    "sha256": "1g5w37m128valsk6sffk8c8qpdk9idfxp8c8yc5mwlzi5ga94z07",
-    "hash": "sha256-B3yS1CvxU14L84ih212LabaLEUPTOW2mpmojEeoZvLw=",
+    "rev": "34c4a9fc5fa188e31ae70018159b480d6d7375c2",
+    "date": "2026-06-30T08:14:12+03:00",
+    "path": "/nix/store/1vkgrq9yiinwyq055hh6sqsid6bfrnbi-cem-34c4a9f",
+    "sha256": "02l7k8421ndihda1ay4px87zzxmrn6lk7wh33vc50f3qy8qqb0my",
+    "hash": "sha256-voKFMfJ4OFDYHgPyM6mxufb/D+qXeBVUg7HZIAiahwo=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": "extensions/zed",
-  "cargoHash": "sha256-OQIrccWA0s+dNvV/G683akPfON7BMF2fYEsFJfwFx88="
+  "cargoHash": "sha256-uselnCuic4yfFPKoZqt460oolporXknwWa1iqwEgIY8="
 }
