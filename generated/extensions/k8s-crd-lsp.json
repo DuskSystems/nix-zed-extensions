@@ -1,0 +1,21 @@
+{
+  "name": "k8s-crd-lsp",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/decade-eng/k8s-crd-lsp-zed",
+    "rev": "9a6048d0b9cd2816fe37e230c532bebb0cdb5c56",
+    "date": "2026-04-16T11:21:00-03:00",
+    "path": "/nix/store/7r2qc3xdzvn3byi5ahpp1glhqnj9mkjg-k8s-crd-lsp-zed-9a6048d",
+    "sha256": "1s1gqajr6vpk9rizs12mx3vc9v4jhiypsh514bimbh1hmna89f9k",
+    "hash": "sha256-M7mElK0wwFXjIqFAfX2EkuzE9uhVBP1jTvNuk6XCL+g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-LlIezcRGu2m1du/CoKENMNWmFlubZ2hCU3szIuO2lKc="
+}

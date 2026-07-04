@@ -1,0 +1,21 @@
+{
+  "name": "hosts",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/vlasikhin/zed-hosts",
+    "rev": "006fb19c8248e7ba84a12c0db1ad870a68f5baa4",
+    "date": "2026-05-01T10:09:52+02:00",
+    "path": "/nix/store/46rg34jccs27p4ia6lnazd52mkkf473r-zed-hosts-006fb19",
+    "sha256": "090ms9iv86ccpsg95j24aqbs7b727x0a61a5yzanfc7rkvrv3sh5",
+    "hash": "sha256-Beqx8575MGfV90UFo0A/4qyjF1ZEyJKevowZtGPSFSQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "hosts_hosts"
+  ],
+  "kind": "plain"
+}

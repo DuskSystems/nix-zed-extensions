@@ -1,0 +1,19 @@
+{
+  "name": "catppuccin-black-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ek2kk/catppuccin-black-zed",
+    "rev": "53f669c780ef49d7010fe996b2b62a1af05a5dc6",
+    "date": "2026-04-29T14:52:48+03:00",
+    "path": "/nix/store/5zphxipiikqrwgla7ch0vddr4yhsmijy-catppuccin-black-zed-53f669c",
+    "sha256": "0pr4kpggy11akw2da2m64mgpcx6qkklbgn7vkrqyn3jrligpwbqr",
+    "hash": "sha256-GS9+X6RZDutxnvvYt+ic2HR2XyWmCtUEnyoE/96dJF8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

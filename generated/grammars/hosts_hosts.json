@@ -1,0 +1,18 @@
+{
+  "id": "hosts_hosts",
+  "name": "hosts",
+  "version": "63d71efa1ca8a45d691378c5a5acdd1c3a4ec447",
+  "src": {
+    "url": "https://github.com/vlasikhin/tree-sitter-hosts",
+    "rev": "63d71efa1ca8a45d691378c5a5acdd1c3a4ec447",
+    "date": "2026-05-01T10:02:09+02:00",
+    "path": "/nix/store/cw90q7x9mdgrbnwj7135hs4bq1izxxc6-tree-sitter-hosts-63d71ef",
+    "sha256": "09681g0kxr8ingxrl4xlnwbqqhljb7zlavaavha3db5bgfxv3wxq",
+    "hash": "sha256-uPOxu3urrDYU3EptRf9ZkkKMF7e0E5r7sxHlPsELyCQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

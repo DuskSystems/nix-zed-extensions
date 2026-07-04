@@ -1,0 +1,21 @@
+{
+  "name": "mcp-server-zeroheight",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/zeroheight/ai-plugins",
+    "rev": "1e98b0070e6f306a41e820e513cf32265b1010a8",
+    "date": "2026-06-23T11:56:44+01:00",
+    "path": "/nix/store/095l7p0j0p4glcv48g03nghzji96a66y-ai-plugins-1e98b00",
+    "sha256": "1m5mdc0q3kx1mrl7whd3sikwjqnfg7lc4zqsj2rl6cabb7cqlvpg",
+    "hash": "sha256-726K2VlLMUOzkBp/wuh5zmLJZ9SjQX5orqHPgQFrtdQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "zed",
+  "cargoHash": "sha256-T3S+PovaSMuxZqZw3zdkCQpkj9r/Ig3FqD06nbyj3d0="
+}

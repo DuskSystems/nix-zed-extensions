@@ -1,0 +1,19 @@
+{
+  "name": "github-actions-snippets",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/frypan05/github-actions-snippet",
+    "rev": "543d82efc39481b3bdeedce8b6018664a5fd1951",
+    "date": "2026-06-23T18:55:07+05:30",
+    "path": "/nix/store/4slyicmk13c0axfwvcn41fpqmv5mzagf-github-actions-snippet-543d82e",
+    "sha256": "1hi0is2b0kk4xlfda85faq8sq5crpgjbm2384p5czg8igp1wk18w",
+    "hash": "sha256-HIXJw30Rvc/KJWiIuuS7mRWsEVauINUc7WROsISOIMI=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

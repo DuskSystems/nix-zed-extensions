@@ -1,0 +1,21 @@
+{
+  "name": "pgfmt-lsp",
+  "version": "0.3.3",
+  "src": {
+    "url": "https://github.com/middle-management/pgfmt",
+    "rev": "a78202f4536a2541b5a14f66655e7bc78f966b68",
+    "date": "2026-06-25T06:55:41+02:00",
+    "path": "/nix/store/nl0jlwqykrs6q78q2rsyf2bv18nf2r6f-pgfmt-a78202f",
+    "sha256": "1ndrzmbm5hwriphrcz32y3a360xwlvzflrgrcdhlkz3siaw140bk",
+    "hash": "sha256-cwESuIp6/ElhY/ll6v6mvAMz1PBifJbhjZnDUlf9udk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "zed-pgfmt",
+  "cargoHash": "sha256-d5oQiKkE2N1kgwriBwg50Ji0rYCCIL8yWfe2Qu1esBs="
+}

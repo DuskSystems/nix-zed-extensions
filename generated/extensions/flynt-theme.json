@@ -1,0 +1,19 @@
+{
+  "name": "flynt-theme",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/flynt-theme/flynt-zed",
+    "rev": "e70bd41b76283c0abf0cb04aa9b64970ecceea5e",
+    "date": "2026-07-02T07:35:16-07:00",
+    "path": "/nix/store/jjr7m6c8n1hzbzqnnrs7y7sw1hrcnv6y-flynt-zed-e70bd41",
+    "sha256": "03i7v5pi26qmz3c5qyzag6b0vzgv1q2qldz6pn115kz2l1isgji1",
+    "hash": "sha256-IcqnY6DizxKCveY3igUO+/0Nlnnqe1zY+BUbEW/ZJw4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

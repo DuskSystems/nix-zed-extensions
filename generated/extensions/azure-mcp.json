@@ -1,0 +1,21 @@
+{
+  "name": "azure-mcp",
+  "version": "0.1.1",
+  "src": {
+    "url": "https://github.com/hodyhq/zed-azure-mcp",
+    "rev": "d0e51d4b1242b5be2df0bab58031f5531621585e",
+    "date": "2026-06-12T05:50:59Z",
+    "path": "/nix/store/86v3l3jvsgl7iqqr0if2ffgd7a5anp9k-zed-azure-mcp-d0e51d4",
+    "sha256": "1saqlqhwygcwjrgfrkxsl2y9dxbf8zxq5c28x6lhdm38k92nba0f",
+    "hash": "sha256-DqhlRZpo1Aap6UiwgvtHbvWWvKC6z+xelpw9zyGmWOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-nUPrLabKa7sjFGTHbPc6mZX5mRGoIYVtaY9tiDpZ1Hs="
+}
