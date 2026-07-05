@@ -1,0 +1,19 @@
+{
+  "name": "simple-light-theme",
+  "version": "0.4.0",
+  "src": {
+    "url": "https://github.com/xseman/simple-light",
+    "rev": "759350f23cdd3e9a724c76cd4f808d26c096d5f7",
+    "date": "2026-06-05T22:02:22+02:00",
+    "path": "/nix/store/7f2wqrcb1ncw64swy934jxyvnj4j2s9m-simple-light-759350f",
+    "sha256": "0xp8ixkzh2iqnmamvg4lkyca48gsp9mdmyha3iv7ay2c78q57cbl",
+    "hash": "sha256-dLFTMDpMeHV2HAr62mq6+iGimJ+UvF1VtTgK+GeP6HY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

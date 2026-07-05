@@ -1,0 +1,19 @@
+{
+  "name": "ita-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ita-lang/ita-theme",
+    "rev": "a3cfd861d28872a9e6689ef9b590eb93dffc67e9",
+    "date": "2026-06-28T02:32:42-03:00",
+    "path": "/nix/store/4wf77sns365k929igi6zsyf17w95x02l-ita-theme-a3cfd86",
+    "sha256": "0j2jf79xphy6ahrmipyj526q64c9drs63x2ri770g4xbjg7niwv8",
+    "hash": "sha256-aPNoz5OrkwfOiVn0YXRuiRGDjSjS31gzVMbD29NxUkg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
