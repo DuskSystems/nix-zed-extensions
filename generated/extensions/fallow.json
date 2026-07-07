@@ -1,0 +1,25 @@
+{
+  "name": "fallow",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/fallow-rs/fallow",
+    "rev": "dd52165c0e62cff3b368b84da41262888e917df4",
+    "date": "2026-04-23T21:07:01+02:00",
+    "path": "/nix/store/4mzxv54pv2cp00pa89q13phw0k657ngy-fallow-dd52165",
+    "sha256": "0dh8nmaa95lzx6249l8c4i4vp1fsrdbnpqi850hn7apv5nkg9svy",
+    "hash": "sha256-fuv0pi37qmMhKCjia1fL2oW7SSQM0USE6Z+WpFS1CDY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-I88YRr3HyapPFCArolS88m38up4Srtm8Hv8oMgTRNiU=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/fallow.lock",
+    "outputHashes": {}
+  }
+}

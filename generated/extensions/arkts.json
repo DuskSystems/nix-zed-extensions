@@ -1,13 +1,13 @@
 {
   "name": "arkts",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/liuyanghejerry/zed-arkts",
-    "rev": "d31dbb92162c95d0bf4ec72e8642526cc1387981",
-    "date": "2025-11-16T16:12:40+08:00",
-    "path": "/nix/store/cbba4mm0g1710n605ijyyfn9na9r93mb-zed-arkts-d31dbb9",
-    "sha256": "1amay59aqsxf7sb0dkdbjkla92b2x8cs8y5p271h65v38a56i12v",
-    "hash": "sha256-W4RoikJjFwPDEbd4pBnqYomk6JSrzQaWPq5rrFLxqqo=",
+    "rev": "ebab416c802e197d6e4ed60c754e303e4ba27158",
+    "date": "2026-07-05T23:29:12+08:00",
+    "path": "/nix/store/hpsp4gvzfslf3sc9q879r2d41n8d90gc-zed-arkts-ebab416",
+    "sha256": "0gimcgx03j30dxwrqyrlvdg71iwn9yahrnpglfbvw3pkams5ch2c",
+    "hash": "sha256-TEBWdFXzDr6Xo+/aDJVPlsdwXts0e5x5b2DIAfpjNT4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-Om1WEAEgziKmQgXujulU+imGc9o/6Ka92wYtkF90GTE=",
+  "cargoHash": "sha256-T34+YHiJNZL8QMsRSNk+brz3rfzREefiTiLqlDYQvWY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/arkts.lock",
     "outputHashes": {}

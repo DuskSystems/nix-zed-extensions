@@ -1,0 +1,19 @@
+{
+  "name": "hc-monokai-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/p404/zed-hc-monokai",
+    "rev": "4fccc9b04e575fd72aee7a6016328abee522dc6f",
+    "date": "2026-07-03T22:46:46-07:00",
+    "path": "/nix/store/03hdhvl2ry1a1bvmwylnikqwgmjc2k0l-zed-hc-monokai-4fccc9b",
+    "sha256": "1c24wl6v2ahb1i1grqbw5qp7iqfwqz56lngkn33jf2lklfsv3pfn",
+    "hash": "sha256-1t2xtaOTCifHsPNZasrH3OF4Li584fxCDAsqsQ3lRLA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
