@@ -1,0 +1,19 @@
+{
+  "name": "cutiepro-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://codeberg.org/wuemeli/cutiepro-zed",
+    "rev": "1af2812942cd85dd00027a4920fb1b4d1378e742",
+    "date": "2026-07-07T08:55:32+02:00",
+    "path": "/nix/store/5b7xzm97mi77cx2mjy1qhbj6k0mskxsk-cutiepro-zed-1af2812",
+    "sha256": "1hvk8vd0rsy3ay8fr7glqakw6qy07bfb75dn2mhdajr98ds73ai5",
+    "hash": "sha256-JapxdEMpS9VgFbaVs9w6wGPDp8L0neyQV8PrDNpGc8M=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
