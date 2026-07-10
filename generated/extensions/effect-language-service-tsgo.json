@@ -1,13 +1,13 @@
 {
   "name": "effect-language-service-tsgo",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "src": {
     "url": "https://github.com/RATIU5/zed-effect-tsgo",
-    "rev": "eb272c95fc2e53c929695e70133e2775173ecaab",
-    "date": "2026-06-03T12:23:30-06:00",
-    "path": "/nix/store/pi5fp21f5msw6j889xxv6dqq8v87drdk-zed-effect-tsgo-eb272c9",
-    "sha256": "16y3i1njfcvqs7z37h4rps3gvd9z5bfk8swj7kmgq0abwkc3alf2",
-    "hash": "sha256-wlE12ORLAfzqPJJrNN0qP7X9hr6ZwDP+0XgzJ22Iw5s=",
+    "rev": "0c4f302c861359b4f9d23f58ac146101030c6229",
+    "date": "2026-07-09T10:49:31-06:00",
+    "path": "/nix/store/249520gvbhl1s81zhag27vzzrrw5g0rd-zed-effect-tsgo-0c4f302",
+    "sha256": "0asavf2d1s3gb5axc98lk6k3wf9xp2iljrcfr2pz1sjvkna9m2mj",
+    "hash": "sha256-soqalJ1b6vCvyI5lSaO4PTk+ppkUJdZVWW/o0ITbSis=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-7Tco673F2zmBmbj81/q25Mvh6+vWDFu4l22Z+lk8kz8="
+  "cargoHash": "sha256-rOQoxwRTrbbidu0IufTyleyGws9edD20zV9lwuhMZVQ="
 }
