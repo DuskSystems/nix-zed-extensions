@@ -1,13 +1,13 @@
 {
   "name": "todo-highlight-language-server",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "src": {
     "url": "https://github.com/shionit/zed-todo-highlight",
-    "rev": "80066815a724c159192d86aeee44a6360c6b5d74",
-    "date": "2026-06-21T17:57:34+07:00",
-    "path": "/nix/store/akp42rfwrnmxan8ja6q4r9sdlb6ax4xg-zed-todo-highlight-8006681",
-    "sha256": "1l329nijp9iqlw2vqr2qq1af8blf0d1h0xgx1270yizyk9hijh14",
-    "hash": "sha256-JEAZYZr+Rw+OCP11AEMDji7kVMBYZLwFpzimK6NNYtA=",
+    "rev": "a5885f34f322479d8f3559d11eec260a8b642f95",
+    "date": "2026-07-12T23:16:37+07:00",
+    "path": "/nix/store/34s3bjhvrahp6il7m2a07xs7ip27bdnq-zed-todo-highlight-a5885f3",
+    "sha256": "10271d1b24zgfq2gv3xc1wrgq3fzdd4lls0a2bbj4h3wkmmi6n6g",
+    "hash": "sha256-z1gTa518QCLXEgpoSklr3w38Mg+sj/0Edu8TsUILR4A=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-d3J8WrmW5VUbgfhU2jyyIJOsFIEFlOxdS2uF2XcLMis="
+  "cargoHash": "sha256-vzlNuTWW05bWHQvt0dVbF9+N7dyOJWSgzyEsznHNvks="
 }
