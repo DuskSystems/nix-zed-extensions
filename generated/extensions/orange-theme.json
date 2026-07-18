@@ -1,0 +1,19 @@
+{
+  "name": "orange-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/guntherdoescode/orange",
+    "rev": "def1686dc1c7ecd11869065901cda914baba7537",
+    "date": "2026-07-15T13:41:15+02:00",
+    "path": "/nix/store/sqv28p4bw43jlcxn1z61p9bzgmfs1pcg-orange-def1686",
+    "sha256": "1n7zzckrb2ihmghvwfbksqg2bmq3m1zp469w8q1wd6qldwjgizz5",
+    "hash": "sha256-5f/4JG8Um8YDRjwZcn+oA9clHtZzOb7hqzCKlSf7/9g=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

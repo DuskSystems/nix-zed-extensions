@@ -1,0 +1,19 @@
+{
+  "name": "qb-woodland-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/qb-bbq-bq/zed-woodland-theme",
+    "rev": "8dabf810b36170928b985fe685242aa46693e190",
+    "date": "2026-07-14T11:18:31+07:00",
+    "path": "/nix/store/y2lbsmncyz5v4v5vi7nycscmy1wcspzr-zed-woodland-theme-8dabf81",
+    "sha256": "0ypvm06wffdszxbd880fsan74z3agqxg1f0783prlh7s94bar0wq",
+    "hash": "sha256-mIOsFkn6QJrvQAe48Dp+anxyrNIOINRW/7o5xw2o+3o=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

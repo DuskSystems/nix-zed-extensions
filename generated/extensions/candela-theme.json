@@ -1,0 +1,19 @@
+{
+  "name": "candela-theme",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/xXCHAVOTAXx/candela-theme",
+    "rev": "7dcfffa150e27cf557bb8680506f046f10186118",
+    "date": "2026-07-16T20:11:29-06:00",
+    "path": "/nix/store/ldif1v6q3yvf0w908qxyq2xrldqnd19k-candela-theme-7dcfffa",
+    "sha256": "1qqamq5jg3ihjpklais4ipxhrkmcghznnj8w807ydcxh29h9yi9x",
+    "hash": "sha256-PUWfYBKws+YPQBxJaz98rM4M+41ER0XnlTCOJwuuCuM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

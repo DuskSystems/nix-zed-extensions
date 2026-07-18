@@ -1,13 +1,13 @@
 {
   "name": "vibescript",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "src": {
     "url": "https://github.com/mgomes/zed-vibescript",
-    "rev": "5b358ed3056ec329af6d8fa620c92e9daec184a6",
-    "date": "2026-02-23T22:47:46-05:00",
-    "path": "/nix/store/fs83xv3vb7p0pjpbrxin14ay2zx9vfaq-zed-vibescript-5b358ed",
-    "sha256": "1rrhd2ghnfw9wa5rkddr6p1xpaiy5xj90v26hdbfkxsldc5i5n76",
-    "hash": "sha256-5tgSC2tU9+lWg0ZskGQvPqrbwzW5tZmL4ok7C59oMOc=",
+    "rev": "e4251ba32bea4ec10b5156407dffc96ba5a98f1d",
+    "date": "2026-07-14T23:23:43-04:00",
+    "path": "/nix/store/zazygq47i9p0y2abhsllrfjqjs95xa8p-zed-vibescript-e4251ba",
+    "sha256": "1bjzgnywcq58gdbcb0mfhxq8mk1mi8nnadp3wfgwmk5fbw4js9ar",
+    "hash": "sha256-WSUtCV+uzMqf4+M2ZS2KNcyKcIeugsVWe6hgxr19X64=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,7 +19,7 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-tyOulyYxdYYf1R8p6txYF/5EqWPLnaz0S01BKAa+gB0=",
+  "cargoHash": "sha256-eIFvhqOjh8WkneIEEH6yeMDHPTTHHPzMyU4JaY/Av/w=",
   "cargoLock": {
     "lockFile": "/generated/extensions/vibescript.lock",
     "outputHashes": {}

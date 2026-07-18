@@ -1,0 +1,21 @@
+{
+  "name": "schemalock-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/schemalock/zed",
+    "rev": "3e54139321b1e355adb8a3ba20bafa85cddfc4cd",
+    "date": "2026-07-16T22:27:40+02:00",
+    "path": "/nix/store/f563snwspjzrj4l2vqzn9zrvrah61rf7-zed-3e54139",
+    "sha256": "0m9rb1lj2m76yy77b9cy4lq47fd5j3y5qy3zvk2xckk8fk2bpxkc",
+    "hash": "sha256-bPa7xHRoTtbF3H94XPyQpblDMCWepXWO9+ZUIWlYOVU=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-k+H21fp/yts3Yv2yS0TBqVWrssL2DpLvYGWnGW3gMRE="
+}

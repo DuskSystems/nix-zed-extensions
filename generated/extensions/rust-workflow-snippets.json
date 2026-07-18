@@ -1,0 +1,19 @@
+{
+  "name": "rust-workflow-snippets",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Teamofeyy/rust-snippets",
+    "rev": "cf4b914780c8d5448b49aeec1aef4bb840132e35",
+    "date": "2026-07-14T16:08:04+03:00",
+    "path": "/nix/store/jn68ykhwy9mw9bqiskwyqz927d3rwkfx-rust-snippets-cf4b914",
+    "sha256": "0p8692lhxzgcgjxzg0h9x4sg32v20p5qiz4x3nh37i55izw73xcv",
+    "hash": "sha256-m/Vx+I+lxDOgHZ38iMsFYovxNOkJgve7fOz9DqlIBl0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

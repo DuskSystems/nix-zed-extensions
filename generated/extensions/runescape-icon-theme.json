@@ -1,0 +1,19 @@
+{
+  "name": "runescape-icon-theme",
+  "version": "1.0.0",
+  "src": {
+    "url": "https://github.com/runescape-themes/zed-icons",
+    "rev": "3b3f25e9b1827f1aa63b394c0edce0fef3c2f261",
+    "date": "2026-07-02T23:27:35-07:00",
+    "path": "/nix/store/p3pv03dhix8b4di30al8wlirxx8kss07-zed-icons-3b3f25e",
+    "sha256": "00da4d238c9gqkgr0b5m5csb0qfc1slwz09d9f7mfdw70myf0xnb",
+    "hash": "sha256-y3bgfAWHN1ePSy2Bz6kOzGGwNCu1LJDfxC8xNEQjqgE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

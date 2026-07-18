@@ -1,0 +1,19 @@
+{
+  "name": "freshjuice-themes",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/freshjuice-dev/zed-themes",
+    "rev": "df166513802b4e787488cba8a09baa84880b5879",
+    "date": "2026-07-15T02:10:09+02:00",
+    "path": "/nix/store/blyazj3jbbjgd26nbknr1db34p8mbhv0-zed-themes-df16651",
+    "sha256": "1qwcf17xgrh1mkv6gp9ridbi2dh986qyj9g5lizv6229c843cz9r",
+    "hash": "sha256-OX02CGJJCLN/pOUl6bFBCTYRV4s53Wf2rAHm109wjOM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

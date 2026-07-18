@@ -1,0 +1,19 @@
+{
+  "name": "vscode-2026-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/eugenebokhan/zed-vs-code-2026-theme",
+    "rev": "4423972d9e6888c729bf0aac253ee814ffbb1cef",
+    "date": "2026-05-02T21:30:48+01:00",
+    "path": "/nix/store/4scjw7nvwb2byjazxry0as1z1m1g9mfw-zed-vs-code-2026-theme-4423972",
+    "sha256": "0b8q87ymfmxfmz8hxajnrmw6prjkh0qjxldb3lh31rcsn5cski6a",
+    "hash": "sha256-ysSpWbGa5TAgHavRLjGAU+ZreM1Wqg7Rr65XV/1BGC0=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

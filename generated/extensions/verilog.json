@@ -1,13 +1,13 @@
 {
   "name": "verilog",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "src": {
     "url": "https://github.com/someone13574/zed-verilog-extension",
-    "rev": "db10933b2cb3ced150c5beca3af2b3d8fe3a1bc8",
-    "date": "2026-05-13T22:19:48-04:00",
-    "path": "/nix/store/6amhvb4hf4zvsgaizqhnkxq4psy89060-zed-verilog-extension-db10933",
-    "sha256": "11d4sxnl7v827axjk8p4x2zl1afhmw46w966zgz1rfddandhb290",
-    "hash": "sha256-IIkFm1WtuRz++8Ykbgiv0KlAv+jkoim7OgLtQ23XpIU=",
+    "rev": "738c29d81c96317e3e77c8b7aee5894c8dc6f6e8",
+    "date": "2026-07-14T16:22:33-04:00",
+    "path": "/nix/store/v19rfkwc6wlk3zgx1zv2wz4cy1xklvql-zed-verilog-extension-738c29d",
+    "sha256": "0dxd7q8wi9q0ksl8zx5nqpkn9rka226qc3c6njf89zybq0yn349a",
+    "hash": "sha256-KpFhPcDL/4SctIYNho0QauZk58W29I+ongCnyBE+rTc=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -19,5 +19,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-1YrxgxO0/8phLkeDUFGAKCN1aXYfy5VkHBOin/qq7wc="
+  "cargoHash": "sha256-+pr9IJ+/DFgWEND7mR6d13LS1PoND5uUq/Ck1BObHZk="
 }

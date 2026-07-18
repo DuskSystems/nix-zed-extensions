@@ -1,13 +1,13 @@
 {
   "name": "postman-context-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/postmanlabs/postman-mcp-zed-extension",
-    "rev": "bc098dcbf7b3bed1a7c90315baf8274df6f3422a",
-    "date": "2026-05-06T18:29:20+03:00",
-    "path": "/nix/store/482z8v8av8dh5h39p8svsp2wbnivhsjz-postman-mcp-zed-extension-bc098dc",
-    "sha256": "1gac7rzf8xdbqb7ljj6h3xrqvkwnp29chgbjysrlglk49v5mzspn",
-    "hash": "sha256-9upfy05k0kez9nI9yJK4ls+Ncx/QSEnPwqt15H4+TL0=",
+    "rev": "167436e82a14752dd33b70e72460dd57121f63b6",
+    "date": "2026-07-17T10:30:10+03:00",
+    "path": "/nix/store/pyj0wb9j84419n7zlgr8gsbwx480j6i2-postman-mcp-zed-extension-167436e",
+    "sha256": "1f7sddig2wbh2sd6n337b5p6cz8si5c4a28aspdr1k1np7m2qgs7",
+    "hash": "sha256-Rz8s6rk2zJDb1QoJRViJGn1mbllnDGuaFnBx8WJr+rg=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-w8MivJ2vfYEw6RWlwt/HamjQN1EzDHBp1Z1cN5j+OvY=",
+  "cargoHash": "sha256-8nImF+UVb7ZDFLy97BITv8Wksi5uM5J6hjjW1jaYqrY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/postman-context-server.lock",
     "outputHashes": {}
