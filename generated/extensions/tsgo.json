@@ -1,13 +1,13 @@
 {
   "name": "tsgo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "src": {
     "url": "https://github.com/zed-extensions/tsgo",
-    "rev": "1fcb39e2ccfabd9cb7feb1d857b3a70f6eb56231",
-    "date": "2026-07-15T13:11:00+02:00",
-    "path": "/nix/store/84pl5gdf5bs7vl0wz452l4flmsx17101-tsgo-1fcb39e",
-    "sha256": "0hyxmdp45yh8si6r7xjyhvmp08nw5950np4dxj0skd82jikwir82",
-    "hash": "sha256-AuXIZ5QCtamB7I1cC0oq3CJw64Ze9pNN1Aj6Qm6r3UM=",
+    "rev": "918695bdacca0c8cb8805ceca38c672eb6b040be",
+    "date": "2026-07-20T15:22:12Z",
+    "path": "/nix/store/3l3h9499znr3h1skv0mz5k1jia1nn0kz-tsgo-918695b",
+    "sha256": "1xcl56lzb6m8dr3sl5n94r87xw887qlj7n5gnbm9sswblf5qyyrj",
+    "hash": "sha256-MnuPi6OLa53qsq/YIyk+CPF+UCbJFqpHbqia9akplPU=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,5 +17,5 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-HsljF8puvveyX/tvIjIJoacniqFmJPuPNvkyU5uPLS4="
+  "cargoHash": "sha256-k5xXHIKnCarmO8di7PYM/XpgIBWHV6fch2xbX2izeXo="
 }

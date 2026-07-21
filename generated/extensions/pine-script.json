@@ -1,0 +1,21 @@
+{
+  "name": "pine-script",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/Pvxlabs/pine-script-zed",
+    "rev": "6f8c5e9daf76c5d3706e154cb7fa77378fda45e6",
+    "date": "2026-07-21T00:02:17+08:00",
+    "path": "/nix/store/0gfqzwzi58rgzqxmfb3rxranmz2di3wz-pine-script-zed-6f8c5e9",
+    "sha256": "1n0dk4hmvd9pxf1q0x2gbjd8r2fdg13vk2fn9ppbj148slixnh17",
+    "hash": "sha256-J0DbI9WIBLnuTdaJuUd4zYmMmlxPdICD6ze1XSGZDdg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "pine-script_pine"
+  ],
+  "kind": "plain"
+}

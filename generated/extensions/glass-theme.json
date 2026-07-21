@@ -1,0 +1,19 @@
+{
+  "name": "glass-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/b4bury/zed-glass",
+    "rev": "3c1f06c9cd9c5095d2bac13f34f396c59ac2d07a",
+    "date": "2026-07-17T13:54:16+03:00",
+    "path": "/nix/store/i0w0hgdb051mlshjnl3f8axnmxmxw7rb-zed-glass-3c1f06c",
+    "sha256": "0y8c4x2mbd0gn1qi1wlxxkk90x1ar8swr7q3h0l649bksgzvi5mr",
+    "hash": "sha256-uZa4/9NzJWIogAOfzDXKKnSQ5uyd8hBxsA+0VUUnDHk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "custom-code-folding-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/tomchor/zed-custom-code-folding",
+    "rev": "20b27858a3455ac4f21a4dbdc17237040f31b582",
+    "date": "2026-07-10T16:20:56-05:00",
+    "path": "/nix/store/dzmzp8j8mhv7chxbngdgjyjaba2gwbg3-zed-custom-code-folding-20b2785",
+    "sha256": "1r066c0wmymqag2v02bx3875jh3wrp3a70qlb3fh186m837rm2mr",
+    "hash": "sha256-uYqaz0DVoADdWBSDo8bNfEBZDhp9CbDFU7j6ygEzBuQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-TaPtINdeiK8wOtnMRP2+0U7D9sCD6KLaWqTaKSHHvZI="
+}

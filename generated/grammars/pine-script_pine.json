@@ -1,0 +1,18 @@
+{
+  "id": "pine-script_pine",
+  "name": "pine",
+  "version": "2c6822499f3d525e167bfa7bcb0bb3db0f28c45d",
+  "src": {
+    "url": "https://github.com/Pvxlabs/pine-script-zed.git",
+    "rev": "2c6822499f3d525e167bfa7bcb0bb3db0f28c45d",
+    "date": "2026-04-02T19:59:32+08:00",
+    "path": "/nix/store/p5ca2jfmapqcclg0j4b4vjvy5f92g1f0-pine-script-zed-2c68224",
+    "sha256": "1flr4v21785scq3rsc6yxjq9jm4c3dgwqb5kmcay62h9an9p61gp",
+    "hash": "sha256-9wVzk1UJCuMVq7MszF8bjFSZsOzeMJ0HZrqgE8Qmmbo=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "vendor/tree-sitter-pine"
+}

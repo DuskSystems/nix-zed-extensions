@@ -1,13 +1,13 @@
 {
   "name": "haskell",
-  "version": "0.3.2",
+  "version": "1.0.0",
   "src": {
     "url": "https://github.com/zed-extensions/haskell",
-    "rev": "c61efcaa9cb0a44f69136410e37d76e2925d6de2",
-    "date": "2026-06-25T01:48:28+02:00",
-    "path": "/nix/store/h5dls4hzc4sxi1qb6l5kalah4xwfy870-haskell-c61efca",
-    "sha256": "1yjqcpxn98gfk72fn0zfmlzk8m0p0lcjf108ykcp79wqfl5gsz79",
-    "hash": "sha256-6Xz9CnWYp3PZ9AgEJxkFF1Q0P63uA+vEme6hZPtlWPo=",
+    "rev": "2be00ef5a13ca7690f5587864853ecb93b4c3334",
+    "date": "2026-07-20T19:49:41+02:00",
+    "path": "/nix/store/6968w7fip9f3karbpwmzjiacgav63m5p-haskell-2be00ef",
+    "sha256": "0vk3wh0wgpk4jrvkqb987x71ikzdp5qlfm1fkfdglrlfawvfjg8w",
+    "hash": "sha256-HD3pNleOZvqamy5UR3G57c8YTj8oLTx3lmTexwHkY24=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -22,5 +22,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-PSJvF4584rjpF2eNw2pI/ER+t9FVsngjD5JZ+uR9e80="
+  "cargoHash": "sha256-2adgclH3HkGJR6+nnmacJILo5cWl7bW3arITJfr0EeA="
 }
