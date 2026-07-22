@@ -1,0 +1,23 @@
+{
+  "name": "bruno",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/ebina4yaka/bruno-zed-extension",
+    "rev": "960dca67af88a8552ab6ed935ea959b02a2064d5",
+    "date": "2026-04-29T16:47:01+09:00",
+    "path": "/nix/store/6zbvx9bqpvmi6fwwyrcqc0pkvp3fmxx5-bruno-zed-extension-960dca6",
+    "sha256": "14awh2x0j91vlj4n041g70a121m039ilnjsq8gy7wyxcyfh1bj32",
+    "hash": "sha256-YsgVoPOse378Q1hLS2MaoAYRFDgvEGCJpDskCbqAXJE=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "bruno_bruno"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-UO6h1XmIxD+kjYS1fsCQP9KKHiRDRsTrSQ8b9q6NNyE="
+}

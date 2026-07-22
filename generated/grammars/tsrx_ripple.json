@@ -1,0 +1,18 @@
+{
+  "id": "tsrx_ripple",
+  "name": "ripple",
+  "version": "ba83189e5e7d4b8e63c3a523fdd808d365bf7662",
+  "src": {
+    "url": "https://github.com/Ripple-TS/ripple",
+    "rev": "ba83189e5e7d4b8e63c3a523fdd808d365bf7662",
+    "date": "2026-04-28T13:07:58+01:00",
+    "path": "/nix/store/7xm1067zpvj4qxpp2zbr1ryjk87r07hb-ripple-ba83189",
+    "sha256": "1xsgyvqnmbzm4i81783x79mm5zdckj4yhh1q0lz2rpil3918m43n",
+    "hash": "sha256-dpCKQho03iw+BThA6ImcrP1Sazp9oBNQJPWvavH2T/c=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "grammars/tree-sitter"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bruno_bruno",
+  "name": "bruno",
+  "version": "dd27fe0eff8e7f8184dfc91e426b886dc8369c46",
+  "src": {
+    "url": "https://github.com/Scalamando/tree-sitter-bruno",
+    "rev": "dd27fe0eff8e7f8184dfc91e426b886dc8369c46",
+    "date": "2024-03-25T21:24:57+01:00",
+    "path": "/nix/store/l74124hlbbl9k22p7hg0zb5hvyxmghzf-tree-sitter-bruno-dd27fe0",
+    "sha256": "07lzydmcs4l3ajyzmykq2by6iahygbz5mgwhid3mk32ylrikjc2s",
+    "hash": "sha256-WjA5Y6ZejFlHi5C/Wv56Hqpo/BJ4+vq9VIMSzWrznx4=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

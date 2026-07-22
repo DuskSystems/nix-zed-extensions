@@ -1,0 +1,19 @@
+{
+  "name": "ayu-theme",
+  "version": "1.0.1",
+  "src": {
+    "url": "https://github.com/shamsghi/Ayu-in-Zed",
+    "rev": "b95bdbfbe22a30da4872175a782ea0a3bb238507",
+    "date": "2026-07-04T03:34:10+02:00",
+    "path": "/nix/store/kf4kc2x294ky6hn6whw0pkvx4vcl2km4-Ayu-in-Zed-b95bdbf",
+    "sha256": "1sd0y983ygzw4bq6lspfjvsnpyb0jpzswd59dwcsjxbm358gm65y",
+    "hash": "sha256-vpj6UBl1dakZb6k0rv+VYPlr9ZbuamrwIvw/P1DyoOk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

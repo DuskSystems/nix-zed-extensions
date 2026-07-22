@@ -1,0 +1,23 @@
+{
+  "name": "tsrx",
+  "version": "0.0.84",
+  "src": {
+    "url": "https://github.com/Ripple-TS/ripple",
+    "rev": "03b551fecd1d8a9b691da5b5af4d9750623b3ef5",
+    "date": "2026-04-29T11:41:25-04:00",
+    "path": "/nix/store/q15ya8kbck5bcb0mi6m9mkqvvlwzjkgw-ripple-03b551f",
+    "sha256": "0j359indzcygxidmmbnd9i3vlil2jv5jb11fgcfpvcmdim02kkgg",
+    "hash": "sha256-780pQI2tsn0dey6EJcuWgka6R0zNrlpb7M+z32xMZUg=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "tsrx_ripple"
+  ],
+  "kind": "rust",
+  "cargoRoot": "packages/zed-plugin",
+  "cargoHash": "sha256-Vyq2HaEnGQWd2hyIEgGG1ss6j1KzhcH+cYPmj7Op7Fk="
+}

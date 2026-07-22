@@ -1,0 +1,23 @@
+{
+  "name": "daml",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/DLC-link/zed-daml-lsp",
+    "rev": "75ecd740d05af286bdfe1e7f27dbe90d6c11d155",
+    "date": "2026-03-25T15:58:29+01:00",
+    "path": "/nix/store/42pswf5bjxhy45s4d7q6y9mxwcs0cc6n-zed-daml-lsp-75ecd74",
+    "sha256": "108gcspaf4nmky7xmnysshkw8nlz1j7h0kx9nl2hvidvfm72syis",
+    "hash": "sha256-OnotTnW7xQ0FtalPAI8Mn1rEJ9Ta29qPn9USp65mD4E=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "daml_haskell"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-D7ruHv4k2TIz7OdiugcwFDfyzf3RRy3p5gtwdG5WWlg="
+}

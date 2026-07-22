@@ -1,0 +1,23 @@
+{
+  "name": "nautilus",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/ndr-lmnc/zed-nautilus",
+    "rev": "693b7a9aaa48eff15ca390efee056b9219b4a56f",
+    "date": "2026-04-15T14:36:47+02:00",
+    "path": "/nix/store/i335707q7lq5m5q6vp7yppwwqyfibp1d-zed-nautilus-693b7a9",
+    "sha256": "04qcvp36wnncrh1za1ss6rqwk3wga36hshppbnk4bqcg9qhmkvxs",
+    "hash": "sha256-uu9ZIU6P4UWmXfdCDc1Qj4/JcTZaB/UDzMxabsbdDBM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "nautilus_nautilus"
+  ],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-jI1pmu5d/kuVv/MvS6i5SESB2QS9zp8ceRfz1E/2zVU="
+}

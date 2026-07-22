@@ -1,13 +1,13 @@
 {
   "name": "scss",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "src": {
     "url": "https://github.com/bajrangCoder/zed-scss",
-    "rev": "5b82a8fd7f1fb8c1b3695ac4f51347c58d5a4b66",
-    "date": "2026-03-24T13:41:28+05:30",
-    "path": "/nix/store/fp8gfybdmg23bqaf2m28839hzwxaw9fj-zed-scss-5b82a8f",
-    "sha256": "106dmf53r5hmi8knwwn2clzw0kbnd2xka61az1bxwjpxyd7sqkmp",
-    "hash": "sha256-t06sT/P9St5X+CoYNbtodk3AP2XCcm4nihWWPIqrzYA=",
+    "rev": "18deab7712272b64a4ca24ed0950618631d77fa8",
+    "date": "2026-07-21T11:04:55+05:30",
+    "path": "/nix/store/522s5hqpl9shbcl5s8ginrgp29j68c66-zed-scss-18deab7",
+    "sha256": "1gj5dh4w6bvf2vc2nv30x1ymk813mm89yrrzbp6n813qzjwqk0kj",
+    "hash": "sha256-coKJufx4BGTNXT9nn1CtI6BZfehgbCvYFm4vwwlsRb4=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -21,5 +21,5 @@
   ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-bar0CZp/85bqeNbaAIb9s/5F5ryzS8/28caQGxLQkT8="
+  "cargoHash": "sha256-ADQ0hnsmyGLRMZ5K04RNOiYavjXnQRWCWmBIxGjahkQ="
 }

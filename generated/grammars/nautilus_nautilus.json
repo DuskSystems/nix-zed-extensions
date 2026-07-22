@@ -1,0 +1,18 @@
+{
+  "id": "nautilus_nautilus",
+  "name": "nautilus",
+  "version": "f37c7e3d8a05aafffc03be9b561fda1c74d11c85",
+  "src": {
+    "url": "https://github.com/ndr-lmnc/tree-sitter-nautilus",
+    "rev": "f37c7e3d8a05aafffc03be9b561fda1c74d11c85",
+    "date": "2026-04-14T21:01:49+02:00",
+    "path": "/nix/store/0aislsjzjc87j0ll1fcghwvf14jhkv4z-tree-sitter-nautilus-f37c7e3",
+    "sha256": "192id168yiy9v60wb07zxz05zqgkakga6k51gw81m899vlj34wap",
+    "hash": "sha256-V3EyJN0poRoQf6FMo95U8+FfwO//gMWB2clHj0xoUaQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

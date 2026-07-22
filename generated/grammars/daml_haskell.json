@@ -1,0 +1,18 @@
+{
+  "id": "daml_haskell",
+  "name": "haskell",
+  "version": "0975ef72fc3c47b530309ca93937d7d143523628",
+  "src": {
+    "url": "https://github.com/tree-sitter/tree-sitter-haskell",
+    "rev": "0975ef72fc3c47b530309ca93937d7d143523628",
+    "date": "2025-01-31T02:55:06-05:00",
+    "path": "/nix/store/jwlfsxgljv7z7l5ifxh1p1xsm1270yc1-tree-sitter-haskell-0975ef7",
+    "sha256": "155is0mzk6n1l7dfr5rp9zs72k3cq9bhgswlw8ppjv6rf5nrs2fk",
+    "hash": "sha256-0wmdbXHZbHkv4pTrB1fCbExx9E83l+zaocGa+SvQsZQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

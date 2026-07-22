@@ -1,0 +1,19 @@
+{
+  "name": "jb-high-contrast-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/cringoleg/jetbrains-high-contrast-zed",
+    "rev": "5fa25f9bf9ad7594f8e59ee910ddf2114d23ec7b",
+    "date": "2026-04-21T22:18:45+02:00",
+    "path": "/nix/store/mpxk3a7yy5wgfyxppzdbixkcrz3a1r2m-jetbrains-high-contrast-zed-5fa25f9",
+    "sha256": "1svzsg9qahvaa7jvk1jjhr7n28c67ivdmamvc3i519i78zsbpdcc",
+    "hash": "sha256-jLW79EcnplDiYLuq2nY8hiFhT4ZShrnlUWpDhdPTf+s=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
