@@ -1,0 +1,18 @@
+{
+  "id": "rockide-language-server_mcfunction",
+  "name": "mcfunction",
+  "version": "a6667734c8022fb93398e429260309fc104d9e9a",
+  "src": {
+    "url": "https://github.com/rockide/tree-sitter-mcfunction",
+    "rev": "a6667734c8022fb93398e429260309fc104d9e9a",
+    "date": "2026-07-20T10:52:46+07:00",
+    "path": "/nix/store/gi81vgshznqpf0fr0wvsh65wbswinpfd-tree-sitter-mcfunction-a666773",
+    "sha256": "15zm4vkapi5p13brmc7kmrwicrig5jpy2d4dqdq83xfj8x9xdbh4",
+    "hash": "sha256-BK7WU0fS9YFww4004a8sL2YWea7zsJrXCLfEq+Ym9Zc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

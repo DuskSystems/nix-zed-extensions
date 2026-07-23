@@ -1,13 +1,13 @@
 {
   "name": "odoo",
-  "version": "1.2.1",
+  "version": "1.4.0",
   "src": {
     "url": "https://github.com/odoo/odoo-zed",
-    "rev": "b16b4e947be5db06ad1af18adf069a568393d120",
-    "date": "2026-03-19T13:11:19+01:00",
-    "path": "/nix/store/arw9kc9s9r016y5xjsvr818sqrndn6is-odoo-zed-b16b4e9",
-    "sha256": "049pmi8acnzy3wjgwh9vh4ph7r6d2xsngn987mcwry3jfljdicjz",
-    "hash": "sha256-X7LYJHVy+MxZPSjZZ3UXzeQDL4E7Qf4kH/5bplCsNxE=",
+    "rev": "376c8ffa99a692a9c37dd09748f20c1f71e841f3",
+    "date": "2026-07-22T11:42:07+02:00",
+    "path": "/nix/store/3j5yjksmvz902dhalkxd5nn6clv066s3-odoo-zed-376c8ff",
+    "sha256": "0i1mpkmynswkl61rjmwkg3hi2rk09xdfxaaqfvfi79lc5sr9v61y",
+    "hash": "sha256-Ppidsi6MphPddlip7lpPYGYR4XiTV5mDoZNr6+u8NUQ=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
@@ -17,7 +17,7 @@
   "grammars": [],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-mW77BI6To4D4C5wPNgRL+tiBr+ZLgz1fobrCMc9nkzU=",
+  "cargoHash": "sha256-VyeCgd8HHTyF2I6VLRElIEr/qqpW/sv88Pj6B++/TlY=",
   "cargoLock": {
     "lockFile": "/generated/extensions/odoo.lock",
     "outputHashes": {}

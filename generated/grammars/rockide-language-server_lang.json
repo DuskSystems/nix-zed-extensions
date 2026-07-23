@@ -1,0 +1,18 @@
+{
+  "id": "rockide-language-server_lang",
+  "name": "lang",
+  "version": "a32714513c10274f32d4ac10e523f3b54291ece7",
+  "src": {
+    "url": "https://github.com/rockide/tree-sitter-lang",
+    "rev": "a32714513c10274f32d4ac10e523f3b54291ece7",
+    "date": "2026-07-15T21:31:13+07:00",
+    "path": "/nix/store/j6zdwc28vq46ssz4aycgi6ma2pjb7im1-tree-sitter-lang-a327145",
+    "sha256": "05p4qk642pk6i9sjli2az5g90yy2wnw22jhnamsbn44vhjl2dsmr",
+    "hash": "sha256-ueomqISbELt0VRZKIbjlwnuQXvlKRCp1imZeQczE5BY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

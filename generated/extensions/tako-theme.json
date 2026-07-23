@@ -1,0 +1,19 @@
+{
+  "name": "tako-theme",
+  "version": "0.1.4",
+  "src": {
+    "url": "https://github.com/Zer0absolute/zed-tako-theme",
+    "rev": "0737c3a96d9957e7de407899e20ed1c8c244ea5c",
+    "date": "2026-06-28T22:02:39+02:00",
+    "path": "/nix/store/70zlpa062pbadp963zbgx44ss854llpb-zed-tako-theme-0737c3a",
+    "sha256": "1ycwmlxr9iiya69npr3rhgrib9b6gixkjyqsaddj1dgbkg0hk81g",
+    "hash": "sha256-L6AJwZvrtSBbUxp7OXt8ZqUV84N55GuTUT7GlDutnPk=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "houdini-vex_vex",
+  "name": "vex",
+  "version": "cfcf9565dd9624028d6c20e41cc6c312eae21172",
+  "src": {
+    "url": "https://github.com/igor-elovikov/tree-sitter-vex",
+    "rev": "cfcf9565dd9624028d6c20e41cc6c312eae21172",
+    "date": "2026-06-01T22:02:05+01:00",
+    "path": "/nix/store/11lip19259xgl9hdxv1bdlwrfzz5ihnk-tree-sitter-vex-cfcf956",
+    "sha256": "14ivdggp2d4ri2zi5pc4ppi75aapgrkxa143fkjyabfmxwiiwdz6",
+    "hash": "sha256-5jceI+/VLeXldIME1Wd+V6ly4r2E3RK/iJk0cd9rO5I=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}

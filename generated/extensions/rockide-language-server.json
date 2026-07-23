@@ -1,21 +1,24 @@
 {
   "name": "rockide-language-server",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "src": {
     "url": "https://github.com/rockide/rockide-zed",
-    "rev": "bec697e2f5bbd758ccdd1acaada6f1311f753c1b",
-    "date": "2026-06-02T10:08:48+07:00",
-    "path": "/nix/store/bjg0kb68rm2xabwjbk8y0qyc6rkviwhd-rockide-zed-bec697e",
-    "sha256": "1vy0h6z6ywj7cw2icj3fmv4r7vi9k2h03k5n8y2xzk2ja55cib7k",
-    "hash": "sha256-86zISlFSzN+FR7bMAaCYKe6Tya5uSBYFZ0dyb76BwO8=",
+    "rev": "0ad48cb2b033e6d05ce8a7c9660754611d27157c",
+    "date": "2026-07-20T11:44:52+07:00",
+    "path": "/nix/store/68d05mhd8y7602d062xasdfnyljvdwmh-rockide-zed-0ad48cb",
+    "sha256": "1sylcv6kydcvbj781b815bvz6pqp3cxk69fd10m245r1brnizx6z",
+    "hash": "sha256-3/QfbV4hFyIqCM0lMzsbF1/z9yoBrYCOXJs1P81m1Os=",
     "fetchLFS": false,
     "fetchSubmodules": false,
     "deepClone": false,
     "leaveDotGit": false
   },
   "extensionRoot": null,
-  "grammars": [],
+  "grammars": [
+    "rockide-language-server_lang",
+    "rockide-language-server_mcfunction"
+  ],
   "kind": "rust",
   "cargoRoot": null,
-  "cargoHash": "sha256-54ysQTXA0tn4JeQKg799p0SjfN4Ijt1xQeHfV7f1g98="
+  "cargoHash": "sha256-+51sDJCi3lOW5kpZrkHqkrN6EEcGudfHHY7eUOGz/sA="
 }

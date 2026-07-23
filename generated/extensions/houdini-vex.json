@@ -1,0 +1,21 @@
+{
+  "name": "houdini-vex",
+  "version": "0.0.1",
+  "src": {
+    "url": "https://github.com/igor-elovikov/hou-vex-zed",
+    "rev": "1986ecd2d089a8ab8edc073a12c890a8e68d1fef",
+    "date": "2026-06-13T10:11:33+01:00",
+    "path": "/nix/store/k4frcdqvzpcgnvf0cv504rrmsx2zhik7-hou-vex-zed-1986ecd",
+    "sha256": "10wn4b37vz51zkaw0mrhaqm19gqkjks3wkizjn89im0hicv5v09a",
+    "hash": "sha256-KoFdNosQ1JiQlT9OPvSUE78UKlYwV8DV/KH8fcYiloM=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [
+    "houdini-vex_vex"
+  ],
+  "kind": "plain"
+}

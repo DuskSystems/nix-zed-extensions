@@ -1,0 +1,19 @@
+{
+  "name": "manuscript-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/JoyAndEnjoy/zed-manuscript-theme",
+    "rev": "5fd65779fd66fb79646f2f4ab4a9cf915989fcc5",
+    "date": "2026-07-07T17:44:20+05:00",
+    "path": "/nix/store/019ms2pvkzxsin5nqi1zihva9s1jvihj-zed-manuscript-theme-5fd6577",
+    "sha256": "17rj8bh62dzm02dsqwbk5izwk41cnrifd7k4qk6wz69vfwplzdqi",
+    "hash": "sha256-EbdPL3c7mc/NxGSe5mK2LJDJfyxzcaybAPU3YeBCMp8=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}

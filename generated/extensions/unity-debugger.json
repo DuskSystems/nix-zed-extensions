@@ -1,0 +1,25 @@
+{
+  "name": "unity-debugger",
+  "version": "26.04.06",
+  "src": {
+    "url": "https://github.com/tomires/zed-unity-debugger",
+    "rev": "288145d9133ae6f97f28100585059c6194e8903e",
+    "date": "2026-04-06T01:49:04+04:00",
+    "path": "/nix/store/nq16yzqdigwngacbnv44hiri0cyjxhiw-zed-unity-debugger-288145d",
+    "sha256": "0jgkdgc3bz0rwi1g6pz4yx2738yq4cv4jvair9k9a7733ard828b",
+    "hash": "sha256-CwnUshrjHJVmylFtSTYj2KNxRPfkX/NC5Bn8Ndhr80k=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": null,
+  "cargoHash": "sha256-fq0LwRvK7fqiYMsTJsugZ7I6NCoMRdlzYZmuWhC5+RM=",
+  "cargoLock": {
+    "lockFile": "/generated/extensions/unity-debugger.lock",
+    "outputHashes": {}
+  }
+}

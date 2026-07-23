@@ -1,0 +1,18 @@
+{
+  "id": "sysml-v2_sysml",
+  "name": "sysml",
+  "version": "2376b6ebe4955b3430ea0aeeb01f1bbd67cdc0bd",
+  "src": {
+    "url": "https://gitlab.com/nomograph/tree-sitter-sysml",
+    "rev": "2376b6ebe4955b3430ea0aeeb01f1bbd67cdc0bd",
+    "date": "2026-06-12T00:45:32Z",
+    "path": "/nix/store/g8gkzmw8scs0zsal090dsxv90z6k1ddf-tree-sitter-sysml-2376b6e",
+    "sha256": "0r1wpbvq71al2cjrlr5zlkxd2lb52n2zbjfnlh2wij84skhkmbz7",
+    "hash": "sha256-56864dQEycgFpNbJ9YUVZVHR+qS/ZJolE1SFg/e6PGQ=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": null
+}
