@@ -1,0 +1,18 @@
+{
+  "id": "lini_lini",
+  "name": "lini",
+  "version": "155410df859c08aef14c023b1c0f5eccd77e09e1",
+  "src": {
+    "url": "https://github.com/monfa-red/lini",
+    "rev": "155410df859c08aef14c023b1c0f5eccd77e09e1",
+    "date": "2026-07-19T21:07:36-04:00",
+    "path": "/nix/store/sfsz8pxx5b2s40vnlffjv2akccqx2fsy-lini-155410d",
+    "sha256": "004jpcvfc2vqqn9myj60m269np4p3lm9d86fpf0m7zdsrr16ks8p",
+    "hash": "sha256-F+lpQs66/VOBu86gliodl1ybjKjASF+TxXgL5ja7kgA=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "grammarRoot": "editors/zed/tree-sitter-lini"
+}

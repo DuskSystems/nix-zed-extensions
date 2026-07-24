@@ -1,0 +1,21 @@
+{
+  "name": "jsonl-lsp",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/sarvagnan/jsonl-tools",
+    "rev": "073cec243a57ffba6885d882e5ab8ccf3187326e",
+    "date": "2026-07-22T18:46:17Z",
+    "path": "/nix/store/irjxd0qzxf8ic65axlbghpm22fhx3599-jsonl-tools-073cec2",
+    "sha256": "0xzi6ahdmr3j6hwwyrwr6n3608axb51l1gmzr9h8ijsr3m4fqcv0",
+    "hash": "sha256-YDPsSB1Zy4hgyr++QENZXSFghjWZZ885NHLk2qAy8Xc=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "rust",
+  "cargoRoot": "editors/zed",
+  "cargoHash": "sha256-q6rs9d/vaEmCMa+F4DZFekQrTMtLF0QEeiKMIMR1zgw="
+}

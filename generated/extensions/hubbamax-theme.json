@@ -1,0 +1,19 @@
+{
+  "name": "hubbamax-theme",
+  "version": "0.1.0",
+  "src": {
+    "url": "https://github.com/agrippa1027/zed-hubbamax",
+    "rev": "b84d0af21b13c2cda7a72b99194e80a28e793c6c",
+    "date": "2026-07-17T20:40:03+05:30",
+    "path": "/nix/store/i8vc9sn0cscmnii07n57pmbfgqk8l10j-zed-hubbamax-b84d0af",
+    "sha256": "1difpdri0b6dyapnmxj902lf769fq40bj53a48zv316hnl18pzny",
+    "hash": "sha256-3v6LArXQhLE/ImoUuQDBLpnjqABJ9mqv8s0sEHO7LrY=",
+    "fetchLFS": false,
+    "fetchSubmodules": false,
+    "deepClone": false,
+    "leaveDotGit": false
+  },
+  "extensionRoot": null,
+  "grammars": [],
+  "kind": "plain"
+}
